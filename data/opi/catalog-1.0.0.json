@@ -1,0 +1,90 @@
+{
+  "$schema": "../../schemas/opi-catalog-v1.schema.json",
+  "catalogVersion": "1.0.0",
+  "generatedAt": "2026-04-16T12:00:00.000Z",
+  "illuminant": "D65",
+  "observer": "2deg",
+  "deltaEVersion": "deltaE76",
+  "skus": [
+    {
+      "sku": "OPI-EXAMPLE-001",
+      "name": "Alpine Snow",
+      "collection": "Neutrals",
+      "lab": {
+        "L": 94.0,
+        "a": -0.5,
+        "b": 2.0,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "placeholder_prototype",
+        "confidence": "estimated",
+        "recordedAt": "2026-04-16",
+        "notes": "Replace with measured bottle chip LAB."
+      }
+    },
+    {
+      "sku": "OPI-EXAMPLE-002",
+      "name": "Black Onyx",
+      "collection": "Neutrals",
+      "lab": {
+        "L": 5.0,
+        "a": 0.0,
+        "b": -1.0,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "placeholder_prototype",
+        "confidence": "estimated",
+        "recordedAt": "2026-04-16",
+        "notes": "Replace with measured LAB."
+      }
+    },
+    {
+      "sku": "OPI-EXAMPLE-003",
+      "name": "Big Apple Red",
+      "collection": "Reds",
+      "lab": {
+        "L": 38.0,
+        "a": 48.0,
+        "b": 24.0,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "placeholder_prototype",
+        "confidence": "estimated",
+        "recordedAt": "2026-04-16",
+        "notes": "Illustrative red anchor for exterior match demos."
+      }
+    },
+    {
+      "sku": "OPI-EXAMPLE-004",
+      "name": "Cognac Cuticle",
+      "collection": "Nudes",
+      "lab": {
+        "L": 48.0,
+        "a": 12.0,
+        "b": 18.0,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "placeholder_prototype",
+        "confidence": "estimated",
+        "recordedAt": "2026-04-16",
+        "notes": "Interior / pedicure nude family placeholder."
+      }
+    },
+    {
+      "sku": "OPI-EXAMPLE-005",
+      "name": "Midnight Navy",
+      "collection": "Blues",
+      "lab": {
+        "L": 20.0,
+        "a": -2.0,
+        "b": -20.0,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "placeholder_prototype",
+        "confidence": "estimated",
+        "recordedAt": "2026-04-16",
+        "notes": "Deep blue anchor vs automotive blues."
+      }
+    }
+  ]
+}

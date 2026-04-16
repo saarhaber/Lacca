@@ -1,0 +1,144 @@
+{
+  "$schema": "../../schemas/interior-buckets-v1.schema.json",
+  "scopeId": "tesla-model-3y-v1",
+  "version": "1.0.0",
+  "notes": "Canonical interior color buckets for Interior Mode v1. OEM-specific trim strings are hints only; expand per OEM after exterior ΔE pipeline is stable.",
+  "buckets": [
+    {
+      "bucketId": "nappa_black",
+      "label": "Nappa Black",
+      "description": "Deep black leather / vegan black interior family.",
+      "exampleOemTrims": ["Black Premium Interior", "Black"],
+      "lab": {
+        "L": 8.5,
+        "a": 0.2,
+        "b": -0.5,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "placeholder_prototype",
+        "confidence": "estimated",
+        "recordedAt": "2026-04-16",
+        "notes": "Replace with measured swatch LAB."
+      }
+    },
+    {
+      "bucketId": "walnut_brown",
+      "label": "Walnut / Espresso Brown",
+      "description": "Dark warm brown wood- or leather-leaning neutrals.",
+      "exampleOemTrims": ["Walnut", "Dark Ash"],
+      "lab": {
+        "L": 22.0,
+        "a": 6.0,
+        "b": 8.0,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "placeholder_prototype",
+        "confidence": "estimated",
+        "recordedAt": "2026-04-16",
+        "notes": "Wood trim average color; leather may differ."
+      }
+    },
+    {
+      "bucketId": "cognac",
+      "label": "Cognac / Saddle",
+      "description": "Mid tan with orange/red undertone.",
+      "exampleOemTrims": ["Cognac", "Saddle Tan"],
+      "lab": {
+        "L": 42.0,
+        "a": 14.0,
+        "b": 22.0,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "placeholder_prototype",
+        "confidence": "estimated",
+        "recordedAt": "2026-04-16",
+        "notes": "Maps to OPI nude/neutral collections for pedicure recommendations."
+      }
+    },
+    {
+      "bucketId": "cream_ivory",
+      "label": "Cream / Ivory",
+      "description": "Light warm neutrals (not stark white).",
+      "exampleOemTrims": ["Cream", "Ivory", "White Premium"],
+      "lab": {
+        "L": 88.0,
+        "a": 1.5,
+        "b": 8.0,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "placeholder_prototype",
+        "confidence": "estimated",
+        "recordedAt": "2026-04-16",
+        "notes": "Avoid comparing to body white; interior is warmer."
+      }
+    },
+    {
+      "bucketId": "oyster_grey",
+      "label": "Oyster / Warm Grey",
+      "description": "Grey-beige leather family.",
+      "exampleOemTrims": ["Oyster", "Light Grey"],
+      "lab": {
+        "L": 62.0,
+        "a": 2.0,
+        "b": 4.0,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "placeholder_prototype",
+        "confidence": "estimated",
+        "recordedAt": "2026-04-16",
+        "notes": "Common premium trim; verify year availability."
+      }
+    },
+    {
+      "bucketId": "white_vegan",
+      "label": "Stark White Vegan",
+      "description": "Bright white synthetic/leather alternative.",
+      "exampleOemTrims": ["White", "Vegan White"],
+      "lab": {
+        "L": 92.0,
+        "a": -0.5,
+        "b": 2.0,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "placeholder_prototype",
+        "confidence": "estimated",
+        "recordedAt": "2026-04-16",
+        "notes": "Higher L* than cream_ivory; keep buckets distinct."
+      }
+    },
+    {
+      "bucketId": "charcoal_grey",
+      "label": "Charcoal Grey",
+      "description": "Mid grey interior (not black, not oyster).",
+      "exampleOemTrims": ["Grey", "Dark Grey"],
+      "lab": {
+        "L": 35.0,
+        "a": 0.5,
+        "b": -1.0,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "placeholder_prototype",
+        "confidence": "estimated",
+        "recordedAt": "2026-04-16",
+        "notes": "Separate from nappa_black for ΔE spread testing."
+      }
+    },
+    {
+      "bucketId": "red_accent",
+      "label": "Red / Burgundy Accent",
+      "description": "Rare red or burgundy interior accents (seat piping, inserts).",
+      "exampleOemTrims": ["Red Multi-Tone", "Burgundy"],
+      "lab": {
+        "L": 28.0,
+        "a": 28.0,
+        "b": 8.0,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "placeholder_prototype",
+        "confidence": "estimated",
+        "recordedAt": "2026-04-16",
+        "notes": "Low coverage in Tesla trims; keep for bucket completeness."
+      }
+    }
+  ]
+}

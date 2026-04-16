@@ -1,0 +1,22 @@
+{
+  "name": "lacca",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "tsc",
+    "validate:data": "tsx scripts/validate-data.ts",
+    "match:demo": "tsx scripts/demo-match.ts",
+    "seed:oem": "tsx scripts/seed-oem-paints.ts",
+    "dev:web": "vite --config web/vite.config.ts",
+    "build:web": "vite build --config web/vite.config.ts",
+    "preview:web": "vite preview --config web/vite.config.ts"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.2",
+    "ajv": "^8.17.1",
+    "ajv-formats": "^3.0.1",
+    "tsx": "^4.19.2",
+    "typescript": "^5.7.2",
+    "vite": "^6.0.3"
+  }
+}

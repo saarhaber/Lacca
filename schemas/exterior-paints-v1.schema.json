@@ -1,0 +1,30 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://lacca.local/schemas/exterior-paints-v1.schema.json",
+  "title": "ExteriorPaintsV1",
+  "type": "object",
+  "required": ["scopeId", "version", "paints"],
+  "properties": {
+    "$schema": { "type": "string" },
+    "scopeId": { "type": "string" },
+    "version": { "type": "string" },
+    "paints": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["code", "marketingName", "finish", "lab"],
+        "properties": {
+          "code": { "type": "string" },
+          "marketingName": { "type": "string" },
+          "finish": {
+            "type": "string",
+            "enum": ["solid", "metallic", "pearl", "matte", "other"]
+          },
+          "lab": { "$ref": "./lab-measurement-v1.schema.json" }
+        },
+        "additionalProperties": false
+      }
+    }
+  },
+  "additionalProperties": false
+}

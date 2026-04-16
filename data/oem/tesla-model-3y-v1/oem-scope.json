@@ -1,0 +1,10 @@
+{
+  "$schema": "../../../schemas/oem-scope-v1.schema.json",
+  "scopeId": "tesla-model-3y-v1",
+  "oem": "Tesla",
+  "region": "North America",
+  "modelYears": { "from": 2020, "to": 2026 },
+  "models": ["Model 3", "Model Y"],
+  "notes": "v1 intentionally excludes Roadster, S, X, Cybertruck. Exterior list is frozen for prototype QA; LAB values must be replaced with measured or licensed spectro data before production claims.",
+  "exteriorPaintFile": "./exterior-paints-v1.json"
+}

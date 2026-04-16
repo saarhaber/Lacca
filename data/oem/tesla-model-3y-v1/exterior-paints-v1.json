@@ -1,0 +1,247 @@
+{
+  "$schema": "../../../schemas/exterior-paints-v1.schema.json",
+  "scopeId": "tesla-model-3y-v1",
+  "version": "1.0.0",
+  "paints": [
+    {
+      "code": "PPSW",
+      "marketingName": "Pearl White Multi-Coat",
+      "finish": "pearl",
+      "lab": {
+        "L": 93.2,
+        "a": -1.1,
+        "b": 3.4,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "placeholder_prototype",
+        "confidence": "estimated",
+        "recordedAt": "2026-04-16",
+        "notes": "Replace with spectro or licensed Tesla paint library LAB."
+      }
+    },
+    {
+      "code": "PBSB",
+      "marketingName": "Solid Black",
+      "finish": "solid",
+      "lab": {
+        "L": 3.2,
+        "a": -0.5,
+        "b": -0.8,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "placeholder_prototype",
+        "confidence": "estimated",
+        "recordedAt": "2026-04-16",
+        "notes": "Replace with measured LAB."
+      }
+    },
+    {
+      "code": "PMNG",
+      "marketingName": "Midnight Silver Metallic",
+      "finish": "metallic",
+      "lab": {
+        "L": 28.4,
+        "a": -0.6,
+        "b": -1.2,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "placeholder_prototype",
+        "confidence": "estimated",
+        "recordedAt": "2026-04-16",
+        "notes": "Metallic: rank with ΔE but disclose angle/light sensitivity."
+      }
+    },
+    {
+      "code": "PBCW",
+      "marketingName": "Deep Blue Metallic",
+      "finish": "metallic",
+      "lab": {
+        "L": 22.1,
+        "a": -1.8,
+        "b": -18.6,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "placeholder_prototype",
+        "confidence": "estimated",
+        "recordedAt": "2026-04-16",
+        "notes": "Replace with measured LAB."
+      }
+    },
+    {
+      "code": "PPSR",
+      "marketingName": "Red Multi-Coat",
+      "finish": "pearl",
+      "lab": {
+        "L": 36.8,
+        "a": 42.5,
+        "b": 22.1,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "placeholder_prototype",
+        "confidence": "estimated",
+        "recordedAt": "2026-04-16",
+        "notes": "Replace with measured LAB."
+      }
+    },
+    {
+      "code": "PN01",
+      "marketingName": "Stealth Grey / Quicksilver (regional naming)",
+      "finish": "metallic",
+      "lab": {
+        "L": 31.0,
+        "a": -0.3,
+        "b": -1.0,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "placeholder_prototype",
+        "confidence": "estimated",
+        "recordedAt": "2026-04-16",
+        "notes": "Verify code/name for build year and region."
+      }
+    },
+    {
+      "code": "PMSG",
+      "marketingName": "Midnight Cherry Red (where offered)",
+      "finish": "pearl",
+      "lab": {
+        "L": 24.5,
+        "a": 28.0,
+        "b": 8.0,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "placeholder_prototype",
+        "confidence": "estimated",
+        "recordedAt": "2026-04-16",
+        "notes": "Availability varies; confirm before enabling in UI."
+      }
+    },
+    {
+      "code": "DIAMOND_BLACK",
+      "marketingName": "Diamond Black (where offered)",
+      "finish": "solid",
+      "lab": {
+        "L": 2.8,
+        "a": -0.2,
+        "b": -0.5,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "placeholder_prototype",
+        "confidence": "estimated",
+        "recordedAt": "2026-04-16",
+        "notes": "Optional trim; confirm option packages."
+      }
+    },
+    {
+      "code": "ULTRA_RED",
+      "marketingName": "Ultra Red (performance trims, where offered)",
+      "finish": "solid",
+      "lab": {
+        "L": 32.0,
+        "a": 48.0,
+        "b": 22.0,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "placeholder_prototype",
+        "confidence": "estimated",
+        "recordedAt": "2026-04-16",
+        "notes": "Niche; keep for breadth testing only if measured."
+      }
+    },
+    {
+      "code": "QUICKSILVER_ALT",
+      "marketingName": "Alternate silver/grey (verify factory code)",
+      "finish": "metallic",
+      "lab": {
+        "L": 58.0,
+        "a": -1.0,
+        "b": -1.5,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "placeholder_prototype",
+        "confidence": "estimated",
+        "recordedAt": "2026-04-16",
+        "notes": "Placeholder row for QA spread; replace code with factory data."
+      }
+    },
+    {
+      "code": "PGNG",
+      "marketingName": "Forest Green / Green Multi-Coat (year-dependent)",
+      "finish": "pearl",
+      "lab": {
+        "L": 18.0,
+        "a": -12.0,
+        "b": 6.0,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "placeholder_prototype",
+        "confidence": "estimated",
+        "recordedAt": "2026-04-16",
+        "notes": "Confirm availability for model year; code may vary."
+      }
+    },
+    {
+      "code": "PMAB",
+      "marketingName": "Abyss Blue (where offered)",
+      "finish": "metallic",
+      "lab": {
+        "L": 20.0,
+        "a": -2.0,
+        "b": -22.0,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "placeholder_prototype",
+        "confidence": "estimated",
+        "recordedAt": "2026-04-16",
+        "notes": "Regional/option package; verify before production."
+      }
+    },
+    {
+      "code": "WRAP_MATTE_BLACK",
+      "marketingName": "Aftermarket matte black film (non-factory; optional v1)",
+      "finish": "matte",
+      "lab": {
+        "L": 4.5,
+        "a": 0.1,
+        "b": -0.5,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "placeholder_prototype",
+        "confidence": "estimated",
+        "recordedAt": "2026-04-16",
+        "notes": "LAB captures average color; texture not modeled. Omit from OEM-only demos."
+      }
+    },
+    {
+      "code": "TBD_MEASURED_01",
+      "marketingName": "Reserved slot — replace with factory code + measured LAB",
+      "finish": "solid",
+      "lab": {
+        "L": 50.0,
+        "a": 0.0,
+        "b": 0.0,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "placeholder_prototype",
+        "confidence": "estimated",
+        "recordedAt": "2026-04-16",
+        "notes": "Holds a neutral LAB until a physical chip is measured."
+      }
+    },
+    {
+      "code": "TBD_MEASURED_02",
+      "marketingName": "Reserved slot — replace with factory code + measured LAB",
+      "finish": "solid",
+      "lab": {
+        "L": 50.0,
+        "a": 0.0,
+        "b": 0.0,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "placeholder_prototype",
+        "confidence": "estimated",
+        "recordedAt": "2026-04-16",
+        "notes": "Holds a neutral LAB until a physical chip is measured."
+      }
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://lacca.local/schemas/opi-catalog-v1.schema.json",
+  "title": "OpiCatalogV1",
+  "type": "object",
+  "required": ["catalogVersion", "generatedAt", "illuminant", "observer", "deltaEVersion", "skus"],
+  "properties": {
+    "$schema": { "type": "string" },
+    "catalogVersion": {
+      "type": "string",
+      "pattern": "^\\d+\\.\\d+\\.\\d+$",
+      "description": "Semantic version of the OPI LAB snapshot"
+    },
+    "generatedAt": { "type": "string", "format": "date-time" },
+    "illuminant": { "type": "string", "enum": ["D65", "D50", "C", "other"] },
+    "observer": { "type": "string", "enum": ["2deg", "10deg"] },
+    "deltaEVersion": {
+      "type": "string",
+      "enum": ["deltaE76"],
+      "description": "Formula used for ranking in this catalog release"
+    },
+    "skus": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["sku", "name", "lab"],
+        "properties": {
+          "sku": { "type": "string" },
+          "name": { "type": "string" },
+          "collection": { "type": "string" },
+          "lab": { "$ref": "./lab-measurement-v1.schema.json" }
+        },
+        "additionalProperties": false
+      }
+    }
+  },
+  "additionalProperties": false
+}

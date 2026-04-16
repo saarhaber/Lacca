@@ -1,0 +1,231 @@
+{
+  "$schema": "../../../schemas/exterior-paints-v1.schema.json",
+  "scopeId": "bmw-x-v1",
+  "version": "1.0.0",
+  "paints": [
+    {
+      "code": "300",
+      "marketingName": "Alpine White III",
+      "finish": "solid",
+      "lab": {
+        "L": 93.7,
+        "a": -0.35,
+        "b": 0.97,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "hex_derived",
+        "confidence": "derived",
+        "recordedAt": "2026-04-16",
+        "notes": "Derived from #EDEDEB (industry touch-up reference). Replace with spectro LAB before production claims."
+      }
+    },
+    {
+      "code": "668",
+      "marketingName": "Jet Black",
+      "finish": "solid",
+      "lab": {
+        "L": 3.02,
+        "a": 0,
+        "b": 0,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "hex_derived",
+        "confidence": "derived",
+        "recordedAt": "2026-04-16",
+        "notes": "Derived from #0B0B0B (industry touch-up reference). Replace with spectro LAB before production claims."
+      }
+    },
+    {
+      "code": "A96",
+      "marketingName": "Mineral White Metallic",
+      "finish": "metallic",
+      "lab": {
+        "L": 85.81,
+        "a": -1.06,
+        "b": 1.85,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "hex_derived",
+        "confidence": "derived",
+        "recordedAt": "2026-04-16",
+        "notes": "Derived from #D6D7D3 (industry touch-up reference). Replace with spectro LAB before production claims."
+      }
+    },
+    {
+      "code": "416",
+      "marketingName": "Carbon Black Metallic",
+      "finish": "metallic",
+      "lab": {
+        "L": 10.36,
+        "a": 0.89,
+        "b": -3.59,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "hex_derived",
+        "confidence": "derived",
+        "recordedAt": "2026-04-16",
+        "notes": "Derived from #1B1C21 (industry touch-up reference). Replace with spectro LAB before production claims."
+      }
+    },
+    {
+      "code": "475",
+      "marketingName": "Black Sapphire Metallic",
+      "finish": "metallic",
+      "lab": {
+        "L": 8.09,
+        "a": -0.08,
+        "b": -4.83,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "hex_derived",
+        "confidence": "derived",
+        "recordedAt": "2026-04-16",
+        "notes": "Derived from #14181E (industry touch-up reference). Replace with spectro LAB before production claims."
+      }
+    },
+    {
+      "code": "C27",
+      "marketingName": "Phytonic Blue Metallic",
+      "finish": "metallic",
+      "lab": {
+        "L": 26.89,
+        "a": 0.41,
+        "b": -21.36,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "hex_derived",
+        "confidence": "derived",
+        "recordedAt": "2026-04-16",
+        "notes": "Derived from #274160 (industry touch-up reference). Replace with spectro LAB before production claims."
+      }
+    },
+    {
+      "code": "C31",
+      "marketingName": "Sunset Orange Metallic",
+      "finish": "metallic",
+      "lab": {
+        "L": 39.4,
+        "a": 41.9,
+        "b": 40.61,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "hex_derived",
+        "confidence": "derived",
+        "recordedAt": "2026-04-16",
+        "notes": "Derived from #A33A1B (industry touch-up reference). Replace with spectro LAB before production claims."
+      }
+    },
+    {
+      "code": "C3Z",
+      "marketingName": "Tanzanite Blue II Metallic",
+      "finish": "metallic",
+      "lab": {
+        "L": 19.03,
+        "a": 0.73,
+        "b": -15.8,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "hex_derived",
+        "confidence": "derived",
+        "recordedAt": "2026-04-16",
+        "notes": "Derived from #1F2F45 (industry touch-up reference). Replace with spectro LAB before production claims."
+      }
+    },
+    {
+      "code": "C1M",
+      "marketingName": "Portimao Blue Metallic (M)",
+      "finish": "metallic",
+      "lab": {
+        "L": 31.65,
+        "a": 2.08,
+        "b": -30.37,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "hex_derived",
+        "confidence": "derived",
+        "recordedAt": "2026-04-16",
+        "notes": "Derived from #234C7A (industry touch-up reference). Replace with spectro LAB before production claims."
+      }
+    },
+    {
+      "code": "C4E",
+      "marketingName": "Skyscraper Grey Metallic (M)",
+      "finish": "metallic",
+      "lab": {
+        "L": 37.48,
+        "a": 1.58,
+        "b": -9.27,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "hex_derived",
+        "confidence": "derived",
+        "recordedAt": "2026-04-16",
+        "notes": "Derived from #535867 (industry touch-up reference). Replace with spectro LAB before production claims."
+      }
+    },
+    {
+      "code": "C2Y",
+      "marketingName": "Dravit Grey Metallic",
+      "finish": "metallic",
+      "lab": {
+        "L": 31.65,
+        "a": -1.48,
+        "b": 2.83,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "hex_derived",
+        "confidence": "derived",
+        "recordedAt": "2026-04-16",
+        "notes": "Derived from #4A4B46 (industry touch-up reference). Replace with spectro LAB before production claims."
+      }
+    },
+    {
+      "code": "C06",
+      "marketingName": "Brooklyn Grey Metallic",
+      "finish": "metallic",
+      "lab": {
+        "L": 26.02,
+        "a": -0.84,
+        "b": -0.29,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "hex_derived",
+        "confidence": "derived",
+        "recordedAt": "2026-04-16",
+        "notes": "Derived from #3C3E3E (industry touch-up reference). Replace with spectro LAB before production claims."
+      }
+    },
+    {
+      "code": "C4F",
+      "marketingName": "Cape York Green Metallic",
+      "finish": "metallic",
+      "lab": {
+        "L": 26.68,
+        "a": -12.11,
+        "b": 5.76,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "hex_derived",
+        "confidence": "derived",
+        "recordedAt": "2026-04-16",
+        "notes": "Derived from #2E4436 (industry touch-up reference). Replace with spectro LAB before production claims."
+      }
+    },
+    {
+      "code": "P0F",
+      "marketingName": "Frozen Portimao Blue Metallic (M)",
+      "finish": "matte",
+      "lab": {
+        "L": 34.66,
+        "a": -0.67,
+        "b": -26.83,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "hex_derived",
+        "confidence": "derived",
+        "recordedAt": "2026-04-16",
+        "notes": "Derived from #2C547C (industry touch-up reference). Replace with spectro LAB before production claims."
+      }
+    }
+  ]
+}

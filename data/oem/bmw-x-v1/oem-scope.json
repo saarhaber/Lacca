@@ -1,0 +1,23 @@
+{
+  "$schema": "../../../schemas/oem-scope-v1.schema.json",
+  "scopeId": "bmw-x-v1",
+  "oem": "BMW",
+  "region": "North America",
+  "modelYears": {
+    "from": 2020,
+    "to": 2026
+  },
+  "models": [
+    "X1",
+    "X2",
+    "X3",
+    "X4",
+    "X5",
+    "X6",
+    "X7",
+    "iX",
+    "XM"
+  ],
+  "notes": "BMW X-line SAV/SAC + iX/XM. Paint LAB values are HEX-derived approximations from industry touch-up references; replace with measured or licensed spectro data before production claims.",
+  "exteriorPaintFile": "./exterior-paints-v1.json"
+}

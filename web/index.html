@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta
+      name="description"
+      content="Match your car's exterior paint to OPI nail polish colors using ΔE color science."
+    />
+    <title>Lacca — Car paint to nail color</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,500;1,9..144,500&family=Instrument+Sans:wght@400;500;600&display=swap"
+      rel="stylesheet"
+    />
+  </head>
+  <body>
+    <div class="page">
+      <header class="hero">
+        <p class="eyebrow">Lacca</p>
+        <h1>The perfect match for your drive — on your nails</h1>
+        <p class="lede">
+          Pick your car's make, model and factory color. Lacca ranks
+          <abbr title="OPI is a global nail polish brand — Lacca uses its shades as the target library.">OPI</abbr>
+          nail polish shades by a perceptual color distance
+          (<abbr title="Delta-E: a single number for how different two colors look. Under 1 is imperceptible.">ΔE</abbr>),
+          so lacquer matches lacquer.
+        </p>
+      </header>
+
+      <main class="panel">
+        <form class="form" id="match-form" autocomplete="on">
+          <div class="field">
+            <div class="label-row">
+              <label for="make">Make</label>
+              <button
+                type="button"
+                class="info"
+                data-tip="Sourced from NHTSA vPIC — a free U.S. government vehicle database. Only some makes have measured paint data in Lacca today — look for the ● mark."
+                aria-label="About the Make field"
+              >
+                what is this?
+              </button>
+            </div>
+            <select id="make" name="make" required>
+              <option value="" disabled selected>Loading makes…</option>
+            </select>
+          </div>
+
+          <div class="field">
+            <label for="model">Model</label>
+            <select id="model" name="model" required disabled>
+              <option value="" disabled selected>Pick a make first</option>
+            </select>
+          </div>
+
+          <div class="field">
+            <div class="label-row">
+              <label for="paint">Factory exterior color</label>
+              <button
+                type="button"
+                class="info"
+                data-tip="Official paint code and finish. Finishes: solid (flat), metallic (flakes), pearl (mica shimmer), multi-coat (layered depth), matte (non-reflective)."
+                aria-label="About the exterior color field"
+              >
+                what is this?
+              </button>
+            </div>
+            <select id="paint" name="paint" required disabled>
+              <option value="" disabled selected>Pick a model first</option>
+            </select>
+          </div>
+
+          <p class="note" id="availability" hidden></p>
+
+          <button type="submit" class="primary" id="submit-btn" disabled>
+            Find nail color
+          </button>
+        </form>
+
+        <section class="results" id="results" hidden>
+          <h2>Your matches</h2>
+          <div class="car-row" id="car-summary"></div>
+          <ol class="match-list" id="match-list"></ol>
+          <p class="catalog-meta" id="catalog-meta"></p>
+          <p class="tier-legend">
+            <strong>
+              <abbr title="ΔE*ab (CIE76) — perceptual color distance in L*a*b* space.">ΔE</abbr>
+              tiers
+            </strong>
+            · Excellent &lt;1 (imperceptible) · Close 1–2 · Explore 2–4 (noticeable) · Distant 4+
+          </p>
+        </section>
+
+        <details class="glossary">
+          <summary>What do ΔE, LAB, and OPI mean?</summary>
+          <dl>
+            <dt>OPI</dt>
+            <dd>
+              A global nail polish brand — a salon staple since 1981. Lacca compares your car paint
+              against OPI shades; any lacquer library with LAB values would work the same way.
+            </dd>
+
+            <dt>ΔE*<sub>ab</sub> (Delta-E, CIE76)</dt>
+            <dd>
+              A single number for how different two colors look.
+              <strong>&lt;1</strong> imperceptible ·
+              <strong>1–2</strong> close ·
+              <strong>2–4</strong> noticeable ·
+              <strong>4+</strong> clearly different.
+              CIE76 is the simplest form of the formula (straight-line distance in L*a*b*).
+            </dd>
+
+            <dt>L*a*b* (CIELAB)</dt>
+            <dd>
+              A color space designed to match how humans see color.
+              <strong>L*</strong> = lightness (0 black → 100 white),
+              <strong>a*</strong> = green↔red,
+              <strong>b*</strong> = blue↔yellow.
+            </dd>
+
+            <dt>D65 / 2° observer</dt>
+            <dd>
+              Reference lighting and viewing angle for color measurements — roughly daylight at
+              noon, seen head-on. Colors can only be compared when measured under the same
+              conditions.
+            </dd>
+
+            <dt>Finish</dt>
+            <dd>
+              <strong>Solid</strong> — uniform flat paint.
+              <strong>Metallic</strong> — aluminum flakes that shift with light.
+              <strong>Pearl</strong> — mica pigments with soft shimmer.
+              <strong>Multi-Coat</strong> — several layers (Tesla's specialty) for depth and
+              richness.
+              <strong>Matte</strong> — non-reflective.
+            </dd>
+
+            <dt>Catalog / SKU</dt>
+            <dd>
+              SKU is the unique product code for a single polish. The catalog groups many SKUs with
+              a shared version and measurement conditions.
+            </dd>
+          </dl>
+        </details>
+      </main>
+
+      <footer class="foot">
+        <p>
+          <strong>Prototype data.</strong> The make/model list is pulled live from the free
+          <a href="https://vpic.nhtsa.dot.gov/api/" target="_blank" rel="noopener">NHTSA vPIC</a>
+          vehicle database. Named paint coverage: <strong>Tesla Model 3 / Model Y</strong> and
+          <strong>BMW X-line (X1–X7, iX, XM)</strong> for North America, 2020–2026. BMW LAB values
+          are derived from industry HEX references; Tesla values are placeholders. Every other
+          make/model falls back to a <strong>generic hex-derived palette</strong> so matching is
+          universal but approximate outside the named OEMs — look for the <em>generic</em> badge.
+          All values should be replaced with spectro or licensed data before any production
+          claim. Match tiers follow <code>docs/GROUND_TRUTH.md</code>.
+        </p>
+      </footer>
+    </div>
+    <script type="module" src="/src/main.ts"></script>
+  </body>
+</html>

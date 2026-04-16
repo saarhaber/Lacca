@@ -1,0 +1,42 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://lacca.local/schemas/lab-measurement-v1.schema.json",
+  "title": "LABMeasurementV1",
+  "type": "object",
+  "required": ["L", "a", "b", "illuminant", "observer", "source", "confidence", "recordedAt"],
+  "properties": {
+    "L": { "type": "number", "minimum": 0, "maximum": 100 },
+    "a": { "type": "number", "minimum": -200, "maximum": 200 },
+    "b": { "type": "number", "minimum": -200, "maximum": 200 },
+    "illuminant": {
+      "type": "string",
+      "enum": ["D65", "D50", "C", "other"]
+    },
+    "observer": {
+      "type": "string",
+      "enum": ["2deg", "10deg"]
+    },
+    "source": {
+      "type": "string",
+      "description": "e.g. spectro_reread, oem_spec, third_party_db, hex_derived"
+    },
+    "confidence": {
+      "type": "string",
+      "enum": ["measured", "spec", "derived", "estimated"]
+    },
+    "recordedAt": { "type": "string", "format": "date" },
+    "validFrom": { "type": "string", "format": "date" },
+    "validTo": { "type": "string", "format": "date" },
+    "measurement": {
+      "type": "object",
+      "properties": {
+        "geometry": { "type": "string" },
+        "instrument": { "type": "string" }
+      },
+      "additionalProperties": true
+    },
+    "provenanceId": { "type": "string" },
+    "notes": { "type": "string" }
+  },
+  "additionalProperties": false
+}
