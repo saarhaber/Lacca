@@ -35,6 +35,9 @@ export type TranslationKeys = {
   "optgroup.allMakes": string;
   "optgroup.allModels": string;
   "optgroup.genericColors": string;
+  // Optional v1.3 key: makes/models we recognize but don't have a factory
+  // paint catalog for yet. Falls back to English when a locale omits it.
+  "optgroup.modelsOnly"?: string;
 
   // Availability note
   "availability.noData": string; // {make} {model} placeholders
@@ -146,7 +149,8 @@ const en: TranslationKeys = {
   "dropdown.pickModelFirst": "Pick a model first",
   "dropdown.selectColor": "Select a color…",
 
-  "optgroup.withData": "● With measured paint data",
+  "optgroup.withData": "● With factory paint catalog",
+  "optgroup.modelsOnly": "Recognized models (generic colors)",
   "optgroup.allMakes": "All makes (NHTSA vPIC)",
   "optgroup.allModels": "All models (NHTSA)",
   "optgroup.genericColors": "Generic automotive colors (approximate)",

@@ -101,6 +101,18 @@ const supportedVehicles: SupportedVehicle[] = (() => {
 
 const supportedMakes = [...new Set(supportedVehicles.map((v) => v.make))].sort();
 
+// Split supported makes by whether any of their models carry a real paint
+// catalog. "With paints" → curated/imported scopes (BMW X, Porsche, Tesla,
+// Toyota Corolla, …). "Models only" → OEMs seeded from NHTSA vPIC where we
+// know the model catalog but don't have factory paint rows yet. The UI
+// uses this split to label optgroups honestly instead of claiming
+// "measured paint data" for makes that only have model names.
+const makesWithPaints = new Set(
+  supportedVehicles
+    .filter((v) => v.paints.length > 0)
+    .map((v) => v.make.toLowerCase())
+);
+
 function findSupported(make: string, model: string): SupportedVehicle | undefined {
   const a = make.toLowerCase();
   const b = model.toLowerCase();
@@ -343,10 +355,29 @@ async function initMakes() {
   placeholder.selected = true;
   makeSelect.appendChild(placeholder);
 
-  if (supportedMakes.length > 0) {
+  const makesWithCatalog = supportedMakes.filter((m) =>
+    makesWithPaints.has(m.toLowerCase())
+  );
+  const makesModelsOnly = supportedMakes.filter(
+    (m) => !makesWithPaints.has(m.toLowerCase())
+  );
+
+  if (makesWithCatalog.length > 0) {
     const group = document.createElement("optgroup");
     group.label = t("optgroup.withData");
-    for (const name of supportedMakes) {
+    for (const name of makesWithCatalog) {
+      const opt = document.createElement("option");
+      opt.value = name;
+      opt.textContent = name;
+      group.appendChild(opt);
+    }
+    makeSelect.appendChild(group);
+  }
+
+  if (makesModelsOnly.length > 0) {
+    const group = document.createElement("optgroup");
+    group.label = t("optgroup.modelsOnly") ?? "Recognized models (generic colors)";
+    for (const name of makesModelsOnly) {
       const opt = document.createElement("option");
       opt.value = name;
       opt.textContent = name;
@@ -367,7 +398,7 @@ async function initMakes() {
     makeSelect.appendChild(group);
   }
 
-  const first = supportedMakes[0];
+  const first = makesWithCatalog[0] ?? makesModelsOnly[0];
   if (first) {
     makeSelect.value = first;
     makeSelect.dispatchEvent(new Event("change"));
@@ -385,16 +416,28 @@ async function loadModelsFor(make: string) {
   const supportedForMake = supportedVehicles.filter(
     (v) => v.make.toLowerCase() === make.toLowerCase()
   );
-  // De-dupe by lowercased model name so models present in both a curated
-  // scope and a vPIC-seeded scope only appear once. Preserve the first
-  // cased spelling we see.
-  const seenModelNames = new Map<string, string>();
+  // De-dupe by lowercased model name. When a model is listed by both a
+  // curated scope (real paint rows) and a vPIC scope (no paints) we keep
+  // the richer entry so the "With factory paint catalog" optgroup is
+  // accurate.
+  const seenByModel = new Map<string, SupportedVehicle>();
   for (const v of supportedForMake) {
     const k = v.model.toLowerCase();
-    if (!seenModelNames.has(k)) seenModelNames.set(k, v.model);
+    const prev = seenByModel.get(k);
+    if (!prev || v.paints.length > prev.paints.length) seenByModel.set(k, v);
   }
-  const supportedNames = [...seenModelNames.values()].sort((a, b) => a.localeCompare(b));
-  const supportedSet = new Set(supportedNames.map((m) => m.toLowerCase()));
+  const modelsWithPaints: string[] = [];
+  const modelsKnownOnly: string[] = [];
+  for (const v of seenByModel.values()) {
+    if (v.paints.length > 0) modelsWithPaints.push(v.model);
+    else modelsKnownOnly.push(v.model);
+  }
+  modelsWithPaints.sort((a, b) => a.localeCompare(b));
+  modelsKnownOnly.sort((a, b) => a.localeCompare(b));
+
+  const supportedSet = new Set(
+    [...modelsWithPaints, ...modelsKnownOnly].map((m) => m.toLowerCase())
+  );
 
   const remote = await fetchModels(make);
   const others = remote.filter((m) => !supportedSet.has(m.toLowerCase()));
@@ -407,10 +450,22 @@ async function loadModelsFor(make: string) {
   placeholder.selected = true;
   modelSelect.appendChild(placeholder);
 
-  if (supportedNames.length > 0) {
+  if (modelsWithPaints.length > 0) {
     const grp = document.createElement("optgroup");
     grp.label = t("optgroup.withData");
-    for (const m of supportedNames) {
+    for (const m of modelsWithPaints) {
+      const opt = document.createElement("option");
+      opt.value = m;
+      opt.textContent = m;
+      grp.appendChild(opt);
+    }
+    modelSelect.appendChild(grp);
+  }
+
+  if (modelsKnownOnly.length > 0) {
+    const grp = document.createElement("optgroup");
+    grp.label = t("optgroup.modelsOnly") ?? "Recognized models (generic colors)";
+    for (const m of modelsKnownOnly) {
       const opt = document.createElement("option");
       opt.value = m;
       opt.textContent = m;
@@ -433,7 +488,7 @@ async function loadModelsFor(make: string) {
 
   modelSelect.disabled = false;
 
-  const firstSupported = supportedNames[0];
+  const firstSupported = modelsWithPaints[0] ?? modelsKnownOnly[0];
   if (firstSupported) {
     modelSelect.value = firstSupported;
     modelSelect.dispatchEvent(new Event("change"));
