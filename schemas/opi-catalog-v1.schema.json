@@ -16,7 +16,7 @@
     "observer": { "type": "string", "enum": ["2deg", "10deg"] },
     "deltaEVersion": {
       "type": "string",
-      "enum": ["deltaE76"],
+      "enum": ["deltaE76", "deltaE00"],
       "description": "Formula used for ranking in this catalog release"
     },
     "skus": {
@@ -28,6 +28,21 @@
           "sku": { "type": "string" },
           "name": { "type": "string" },
           "collection": { "type": "string" },
+          "productUrl": {
+            "type": "string",
+            "format": "uri",
+            "description": "Optional product page on OPI.com (or distributor). Only include canonical, stable URLs — omit if unknown."
+          },
+          "imageUrl": {
+            "type": "string",
+            "format": "uri",
+            "description": "Optional swatch image URL. Omit if not licensed for display."
+          },
+          "finish": {
+            "type": "string",
+            "enum": ["solid", "metallic", "pearl", "matte", "other"],
+            "description": "Optional physical finish. When present on both the input paint and the SKU, the matcher adds a finish-mismatch penalty to ΔE. Omit for color-only ranking."
+          },
           "lab": { "$ref": "./lab-measurement-v1.schema.json" }
         },
         "additionalProperties": false

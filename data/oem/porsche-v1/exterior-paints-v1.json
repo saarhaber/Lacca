@@ -1,0 +1,295 @@
+{
+  "$schema": "../../../schemas/exterior-paints-v1.schema.json",
+  "scopeId": "porsche-v1",
+  "version": "1.0.0",
+  "paints": [
+    {
+      "code": "0Q0Q",
+      "marketingName": "Black",
+      "finish": "solid",
+      "lab": {
+        "L": 3.02,
+        "a": 0,
+        "b": 0,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "hex_derived",
+        "confidence": "derived",
+        "recordedAt": "2026-04-16",
+        "notes": "Derived from #0B0B0B (hex_derived). Replace with spectro LAB before production claims."
+      }
+    },
+    {
+      "code": "C9A",
+      "marketingName": "White",
+      "finish": "solid",
+      "lab": {
+        "L": 95.44,
+        "a": -0.35,
+        "b": 0.96,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "hex_derived",
+        "confidence": "derived",
+        "recordedAt": "2026-04-16",
+        "notes": "Derived from #F2F2F0 (hex_derived). Replace with spectro LAB before production claims."
+      }
+    },
+    {
+      "code": "2T2T",
+      "marketingName": "Guards Red",
+      "finish": "solid",
+      "lab": {
+        "L": 41.84,
+        "a": 63.45,
+        "b": 44.71,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "hex_derived",
+        "confidence": "derived",
+        "recordedAt": "2026-04-16",
+        "notes": "Derived from #C4161C (hex_derived). Replace with spectro LAB before production claims."
+      }
+    },
+    {
+      "code": "0L0L",
+      "marketingName": "Racing Yellow",
+      "finish": "solid",
+      "lab": {
+        "L": 84.81,
+        "a": -0.02,
+        "b": 84.93,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "hex_derived",
+        "confidence": "derived",
+        "recordedAt": "2026-04-16",
+        "notes": "Derived from #FBD006 (hex_derived). Replace with spectro LAB before production claims."
+      }
+    },
+    {
+      "code": "M9A",
+      "marketingName": "Jet Black Metallic",
+      "finish": "metallic",
+      "lab": {
+        "L": 9.34,
+        "a": 0.52,
+        "b": -1.39,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "hex_derived",
+        "confidence": "derived",
+        "recordedAt": "2026-04-16",
+        "notes": "Derived from #1A1A1C (hex_derived). Replace with spectro LAB before production claims."
+      }
+    },
+    {
+      "code": "C9Z",
+      "marketingName": "Carrara White Metallic",
+      "finish": "metallic",
+      "lab": {
+        "L": 91.19,
+        "a": -0.71,
+        "b": 1.94,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "hex_derived",
+        "confidence": "derived",
+        "recordedAt": "2026-04-16",
+        "notes": "Derived from #E6E6E2 (hex_derived). Replace with spectro LAB before production claims."
+      }
+    },
+    {
+      "code": "M7S",
+      "marketingName": "GT Silver Metallic",
+      "finish": "metallic",
+      "lab": {
+        "L": 69.29,
+        "a": 0.17,
+        "b": 0.64,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "hex_derived",
+        "confidence": "derived",
+        "recordedAt": "2026-04-16",
+        "notes": "Derived from #AAA9A8 (hex_derived). Replace with spectro LAB before production claims."
+      }
+    },
+    {
+      "code": "LM7Z",
+      "marketingName": "Agate Grey Metallic",
+      "finish": "metallic",
+      "lab": {
+        "L": 38.18,
+        "a": -0.18,
+        "b": -0.71,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "hex_derived",
+        "confidence": "derived",
+        "recordedAt": "2026-04-16",
+        "notes": "Derived from #595A5B (hex_derived). Replace with spectro LAB before production claims."
+      }
+    },
+    {
+      "code": "LM5U",
+      "marketingName": "Dolomite Silver Metallic",
+      "finish": "metallic",
+      "lab": {
+        "L": 68.76,
+        "a": -0.54,
+        "b": 0.39,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "hex_derived",
+        "confidence": "derived",
+        "recordedAt": "2026-04-16",
+        "notes": "Derived from #A7A8A7 (hex_derived). Replace with spectro LAB before production claims."
+      }
+    },
+    {
+      "code": "LM5Q",
+      "marketingName": "Night Blue Metallic",
+      "finish": "metallic",
+      "lab": {
+        "L": 17.45,
+        "a": 5.37,
+        "b": -21.71,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "hex_derived",
+        "confidence": "derived",
+        "recordedAt": "2026-04-16",
+        "notes": "Derived from #1C2A4A (hex_derived). Replace with spectro LAB before production claims."
+      }
+    },
+    {
+      "code": "LC9T",
+      "marketingName": "Chalk",
+      "finish": "solid",
+      "lab": {
+        "L": 75.23,
+        "a": -0.2,
+        "b": 5.06,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "hex_derived",
+        "confidence": "derived",
+        "recordedAt": "2026-04-16",
+        "notes": "Derived from #BDB9B0 (hex_derived). Replace with spectro LAB before production claims."
+      }
+    },
+    {
+      "code": "LS9R",
+      "marketingName": "Crayon",
+      "finish": "solid",
+      "lab": {
+        "L": 62.33,
+        "a": 0.72,
+        "b": 3.81,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "hex_derived",
+        "confidence": "derived",
+        "recordedAt": "2026-04-16",
+        "notes": "Derived from #9B9690 (hex_derived). Replace with spectro LAB before production claims."
+      }
+    },
+    {
+      "code": "LM1Y",
+      "marketingName": "Gentian Blue Metallic",
+      "finish": "metallic",
+      "lab": {
+        "L": 33.04,
+        "a": 2.19,
+        "b": -28.76,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "hex_derived",
+        "confidence": "derived",
+        "recordedAt": "2026-04-16",
+        "notes": "Derived from #2C4F7B (hex_derived). Replace with spectro LAB before production claims."
+      }
+    },
+    {
+      "code": "LM1W",
+      "marketingName": "Miami Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 67.03,
+        "a": -25.35,
+        "b": -27.69,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "hex_derived",
+        "confidence": "derived",
+        "recordedAt": "2026-04-16",
+        "notes": "Derived from #0DB2D4 (hex_derived). Replace with spectro LAB before production claims."
+      }
+    },
+    {
+      "code": "LM7X",
+      "marketingName": "Python Green",
+      "finish": "solid",
+      "lab": {
+        "L": 47.62,
+        "a": -22.91,
+        "b": 37.44,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "hex_derived",
+        "confidence": "derived",
+        "recordedAt": "2026-04-16",
+        "notes": "Derived from #5E7A2E (hex_derived). Replace with spectro LAB before production claims."
+      }
+    },
+    {
+      "code": "LM3P",
+      "marketingName": "Lava Orange",
+      "finish": "solid",
+      "lab": {
+        "L": 54.12,
+        "a": 57.66,
+        "b": 56.95,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "hex_derived",
+        "confidence": "derived",
+        "recordedAt": "2026-04-16",
+        "notes": "Derived from #E64C1D (hex_derived). Replace with spectro LAB before production claims."
+      }
+    },
+    {
+      "code": "LM3Q",
+      "marketingName": "Carmine Red",
+      "finish": "pearl",
+      "lab": {
+        "L": 32.97,
+        "a": 52.25,
+        "b": 29.68,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "hex_derived",
+        "confidence": "derived",
+        "recordedAt": "2026-04-16",
+        "notes": "Derived from #9A1522 (hex_derived). Replace with spectro LAB before production claims."
+      }
+    },
+    {
+      "code": "LM9A",
+      "marketingName": "Frozen Blue Metallic",
+      "finish": "metallic",
+      "lab": {
+        "L": 42.92,
+        "a": -8.6,
+        "b": -19.43,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "hex_derived",
+        "confidence": "derived",
+        "recordedAt": "2026-04-16",
+        "notes": "Derived from #3A6B85 (hex_derived). Replace with spectro LAB before production claims."
+      }
+    }
+  ]
+}

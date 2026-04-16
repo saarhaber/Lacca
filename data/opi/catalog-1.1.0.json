@@ -1,0 +1,1501 @@
+{
+  "$schema": "../../schemas/opi-catalog-v1.schema.json",
+  "catalogVersion": "1.1.0",
+  "generatedAt": "2026-04-16T12:00:00.000Z",
+  "illuminant": "D65",
+  "observer": "2deg",
+  "deltaEVersion": "deltaE00",
+  "skus": [
+    {
+      "sku": "NLT02",
+      "name": "My Gondola or Yours",
+      "collection": "Greys",
+      "finish": "solid",
+      "lab": {
+        "L": 24.9,
+        "a": -0.01,
+        "b": 1.39,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "hex_derived",
+        "confidence": "derived",
+        "recordedAt": "2026-04-16",
+        "notes": "Derived from #3C3B39 (OPI swatch reference). Replace with spectro bottle-chip LAB before production claims."
+      },
+      "productUrl": "https://www.opi.com/products/nail-lacquer-my-gondola-or-yours"
+    },
+    {
+      "sku": "NLI56",
+      "name": "Suzi & the Arctic Fox",
+      "collection": "Greys",
+      "finish": "solid",
+      "lab": {
+        "L": 46.7,
+        "a": -0.56,
+        "b": -0.82,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "hex_derived",
+        "confidence": "derived",
+        "recordedAt": "2026-04-16",
+        "notes": "Derived from #6D6F70 (OPI swatch reference). Replace with spectro bottle-chip LAB before production claims."
+      }
+    },
+    {
+      "sku": "NLI55",
+      "name": "Krona-logical Order",
+      "collection": "Greys",
+      "finish": "solid",
+      "lab": {
+        "L": 33.21,
+        "a": 0.22,
+        "b": -0.59,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "hex_derived",
+        "confidence": "derived",
+        "recordedAt": "2026-04-16",
+        "notes": "Derived from #4E4E4F (OPI swatch reference). Replace with spectro bottle-chip LAB before production claims."
+      }
+    },
+    {
+      "sku": "NLB59",
+      "name": "Berlin There Done That",
+      "collection": "Greys",
+      "finish": "solid",
+      "lab": {
+        "L": 45.23,
+        "a": 0.24,
+        "b": -1.81,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "hex_derived",
+        "confidence": "derived",
+        "recordedAt": "2026-04-16",
+        "notes": "Derived from #6A6B6E (OPI swatch reference). Replace with spectro bottle-chip LAB before production claims."
+      }
+    },
+    {
+      "sku": "NLT76",
+      "name": "Embrace the Gray",
+      "collection": "Greys",
+      "finish": "solid",
+      "lab": {
+        "L": 67.42,
+        "a": 0.38,
+        "b": -1.03,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "hex_derived",
+        "confidence": "derived",
+        "recordedAt": "2026-04-16",
+        "notes": "Derived from #A4A4A6 (OPI swatch reference). Replace with spectro bottle-chip LAB before production claims."
+      }
+    },
+    {
+      "sku": "NLT75",
+      "name": "I Cannoli Wear OPI",
+      "collection": "Neutrals",
+      "finish": "solid",
+      "lab": {
+        "L": 84.52,
+        "a": 0.7,
+        "b": 6.92,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "hex_derived",
+        "confidence": "derived",
+        "recordedAt": "2026-04-16",
+        "notes": "Derived from #DAD2C6 (OPI swatch reference). Replace with spectro bottle-chip LAB before production claims."
+      }
+    },
+    {
+      "sku": "NLH63",
+      "name": "French Quarter for Your Thoughts",
+      "collection": "Greys",
+      "finish": "solid",
+      "lab": {
+        "L": 55.45,
+        "a": -1.29,
+        "b": 7.41,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "hex_derived",
+        "confidence": "derived",
+        "recordedAt": "2026-04-16",
+        "notes": "Derived from #888578 (OPI swatch reference). Replace with spectro bottle-chip LAB before production claims."
+      }
+    },
+    {
+      "sku": "NLF79",
+      "name": "Squeaker of the House",
+      "collection": "Greys",
+      "finish": "solid",
+      "lab": {
+        "L": 46.88,
+        "a": -1.47,
+        "b": -1.77,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "hex_derived",
+        "confidence": "derived",
+        "recordedAt": "2026-04-16",
+        "notes": "Derived from #6B7072 (OPI swatch reference). Replace with spectro bottle-chip LAB before production claims."
+      }
+    },
+    {
+      "sku": "NLG26",
+      "name": "Lucerne-tainly Look Marvelous",
+      "collection": "Greys",
+      "finish": "solid",
+      "lab": {
+        "L": 73.39,
+        "a": -0.03,
+        "b": 3.43,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "hex_derived",
+        "confidence": "derived",
+        "recordedAt": "2026-04-16",
+        "notes": "Derived from #B7B4AE (OPI swatch reference). Replace with spectro bottle-chip LAB before production claims."
+      }
+    },
+    {
+      "sku": "NLW57",
+      "name": "Nein! Nein! Nein! OK Fine!",
+      "collection": "Greys",
+      "finish": "solid",
+      "lab": {
+        "L": 37.97,
+        "a": 0.59,
+        "b": 0.86,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "hex_derived",
+        "confidence": "derived",
+        "recordedAt": "2026-04-16",
+        "notes": "Derived from #5B5958 (OPI swatch reference). Replace with spectro bottle-chip LAB before production claims."
+      }
+    },
+    {
+      "sku": "NLT31",
+      "name": "Taupe-less Beach",
+      "collection": "Taupes",
+      "finish": "solid",
+      "lab": {
+        "L": 72.71,
+        "a": 5.54,
+        "b": 16.31,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "hex_derived",
+        "confidence": "derived",
+        "recordedAt": "2026-04-16",
+        "notes": "Derived from #C8AE95 (OPI swatch reference). Replace with spectro bottle-chip LAB before production claims."
+      },
+      "productUrl": "https://www.opi.com/products/nail-lacquer-taupe-less-beach"
+    },
+    {
+      "sku": "GCT76",
+      "name": "Embrace the Gray (Gel)",
+      "collection": "Greys",
+      "finish": "solid",
+      "lab": {
+        "L": 66.65,
+        "a": 0.19,
+        "b": -0.52,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "hex_derived",
+        "confidence": "derived",
+        "recordedAt": "2026-04-16",
+        "notes": "Derived from #A2A2A3 (OPI swatch reference). Replace with spectro bottle-chip LAB before production claims."
+      }
+    },
+    {
+      "sku": "NLB83",
+      "name": "Asphalt Attitude",
+      "collection": "Greys",
+      "finish": "solid",
+      "lab": {
+        "L": 28.96,
+        "a": 0.98,
+        "b": -3.75,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "hex_derived",
+        "confidence": "derived",
+        "recordedAt": "2026-04-16",
+        "notes": "Derived from #43444A (OPI swatch reference). Replace with spectro bottle-chip LAB before production claims."
+      }
+    },
+    {
+      "sku": "NLG45",
+      "name": "Cement the Deal",
+      "collection": "Greys",
+      "finish": "solid",
+      "lab": {
+        "L": 51.68,
+        "a": -0.02,
+        "b": 2.45,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "hex_derived",
+        "confidence": "derived",
+        "recordedAt": "2026-04-16",
+        "notes": "Derived from #7D7B77 (OPI swatch reference). Replace with spectro bottle-chip LAB before production claims."
+      }
+    },
+    {
+      "sku": "NLG44",
+      "name": "Silver on Ice",
+      "collection": "Silvers",
+      "finish": "metallic",
+      "lab": {
+        "L": 80.09,
+        "a": -0.47,
+        "b": -1.86,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "hex_derived",
+        "confidence": "derived",
+        "recordedAt": "2026-04-16",
+        "notes": "Derived from #C4C7CA (OPI swatch reference). Replace with spectro bottle-chip LAB before production claims."
+      }
+    },
+    {
+      "sku": "NLL27",
+      "name": "Steel Waters Run Deep",
+      "collection": "Greys",
+      "finish": "solid",
+      "lab": {
+        "L": 28.18,
+        "a": -0.7,
+        "b": -2.99,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "hex_derived",
+        "confidence": "derived",
+        "recordedAt": "2026-04-16",
+        "notes": "Derived from #3F4347 (OPI swatch reference). Replace with spectro bottle-chip LAB before production claims."
+      }
+    },
+    {
+      "sku": "NLC79",
+      "name": "Center of the You-niverse",
+      "collection": "Greys",
+      "finish": "solid",
+      "lab": {
+        "L": 56.18,
+        "a": 1.12,
+        "b": 0.4,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "hex_derived",
+        "confidence": "derived",
+        "recordedAt": "2026-04-16",
+        "notes": "Derived from #898686 (OPI swatch reference). Replace with spectro bottle-chip LAB before production claims."
+      }
+    },
+    {
+      "sku": "NLT77",
+      "name": "It's in the Cloud",
+      "collection": "Greys",
+      "finish": "solid",
+      "lab": {
+        "L": 79.18,
+        "a": -0.02,
+        "b": 1.12,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "hex_derived",
+        "confidence": "derived",
+        "recordedAt": "2026-04-16",
+        "notes": "Derived from #C5C4C2 (OPI swatch reference). Replace with spectro bottle-chip LAB before production claims."
+      }
+    },
+    {
+      "sku": "NLL95",
+      "name": "Graffiti Sweetie",
+      "collection": "Greys",
+      "finish": "solid",
+      "lab": {
+        "L": 31.95,
+        "a": 0.44,
+        "b": -1.19,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "hex_derived",
+        "confidence": "derived",
+        "recordedAt": "2026-04-16",
+        "notes": "Derived from #4B4B4D (OPI swatch reference). Replace with spectro bottle-chip LAB before production claims."
+      }
+    },
+    {
+      "sku": "NLP38",
+      "name": "Icelanded a Bottle of OPI",
+      "collection": "Taupes",
+      "finish": "solid",
+      "lab": {
+        "L": 79.1,
+        "a": 2.04,
+        "b": 9.18,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "hex_derived",
+        "confidence": "derived",
+        "recordedAt": "2026-04-16",
+        "notes": "Derived from #CFC2B3 (OPI swatch reference). Replace with spectro bottle-chip LAB before production claims."
+      }
+    },
+    {
+      "sku": "NLT74",
+      "name": "You Don't Know Jacques!",
+      "collection": "Taupes",
+      "finish": "solid",
+      "lab": {
+        "L": 50.42,
+        "a": 5.69,
+        "b": 13.15,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "hex_derived",
+        "confidence": "derived",
+        "recordedAt": "2026-04-16",
+        "notes": "Derived from #8A7462 (OPI swatch reference). Replace with spectro bottle-chip LAB before production claims."
+      }
+    },
+    {
+      "sku": "NLB85",
+      "name": "Over the Taupe",
+      "collection": "Taupes",
+      "finish": "solid",
+      "lab": {
+        "L": 61.82,
+        "a": 4.58,
+        "b": 10.54,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "hex_derived",
+        "confidence": "derived",
+        "recordedAt": "2026-04-16",
+        "notes": "Derived from #A59283 (OPI swatch reference). Replace with spectro bottle-chip LAB before production claims."
+      }
+    },
+    {
+      "sku": "NLT41",
+      "name": "Did You 'ear About Van Gogh?",
+      "collection": "Taupes",
+      "finish": "solid",
+      "lab": {
+        "L": 41.44,
+        "a": 4.11,
+        "b": 8.52,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "hex_derived",
+        "confidence": "derived",
+        "recordedAt": "2026-04-16",
+        "notes": "Derived from #6E5F54 (OPI swatch reference). Replace with spectro bottle-chip LAB before production claims."
+      }
+    },
+    {
+      "sku": "NLP39",
+      "name": "Sand in My Suit",
+      "collection": "Neutrals",
+      "finish": "solid",
+      "lab": {
+        "L": 70.06,
+        "a": 6.94,
+        "b": 16.37,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "hex_derived",
+        "confidence": "derived",
+        "recordedAt": "2026-04-16",
+        "notes": "Derived from #C3A68E (OPI swatch reference). Replace with spectro bottle-chip LAB before production claims."
+      }
+    },
+    {
+      "sku": "NLU15",
+      "name": "Suzi — The First Lady of Nails",
+      "collection": "Greens",
+      "finish": "solid",
+      "lab": {
+        "L": 34.11,
+        "a": -7.24,
+        "b": 11.99,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "hex_derived",
+        "confidence": "derived",
+        "recordedAt": "2026-04-16",
+        "notes": "Derived from #4C533D (OPI swatch reference). Replace with spectro bottle-chip LAB before production claims."
+      },
+      "productUrl": "https://www.opi.com/products/nail-lacquer-suzi-the-first-lady-of-nails"
+    },
+    {
+      "sku": "NLF89",
+      "name": "Olive for Green",
+      "collection": "Greens",
+      "finish": "solid",
+      "lab": {
+        "L": 39.6,
+        "a": -10.02,
+        "b": 22.46,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "hex_derived",
+        "confidence": "derived",
+        "recordedAt": "2026-04-16",
+        "notes": "Derived from #5A6138 (OPI swatch reference). Replace with spectro bottle-chip LAB before production claims."
+      }
+    },
+    {
+      "sku": "NLT27",
+      "name": "Stranger Tides",
+      "collection": "Greens",
+      "finish": "solid",
+      "lab": {
+        "L": 30.16,
+        "a": -7.14,
+        "b": 5.7,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "hex_derived",
+        "confidence": "derived",
+        "recordedAt": "2026-04-16",
+        "notes": "Derived from #3F4A3E (OPI swatch reference). Replace with spectro bottle-chip LAB before production claims."
+      }
+    },
+    {
+      "sku": "NLH68",
+      "name": "Things I've Seen in Aber-green",
+      "collection": "Greens",
+      "finish": "solid",
+      "lab": {
+        "L": 26.65,
+        "a": -12.62,
+        "b": 8.31,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "hex_derived",
+        "confidence": "derived",
+        "recordedAt": "2026-04-16",
+        "notes": "Derived from #2F4432 (OPI swatch reference). Replace with spectro bottle-chip LAB before production claims."
+      }
+    },
+    {
+      "sku": "NLC75",
+      "name": "Cape York Harbour",
+      "collection": "Greens",
+      "finish": "solid",
+      "lab": {
+        "L": 26.64,
+        "a": -12.26,
+        "b": 5.04,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "hex_derived",
+        "confidence": "derived",
+        "recordedAt": "2026-04-16",
+        "notes": "Derived from #2D4437 (OPI swatch reference). Replace with spectro bottle-chip LAB before production claims."
+      }
+    },
+    {
+      "sku": "NLG19",
+      "name": "Is That a Spear in Your Pocket?",
+      "collection": "Greens",
+      "finish": "solid",
+      "lab": {
+        "L": 36.82,
+        "a": -11.07,
+        "b": 15.68,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "hex_derived",
+        "confidence": "derived",
+        "recordedAt": "2026-04-16",
+        "notes": "Derived from #4E5B3D (OPI swatch reference). Replace with spectro bottle-chip LAB before production claims."
+      }
+    },
+    {
+      "sku": "NLI47",
+      "name": "Less Is Norse",
+      "collection": "Blues",
+      "finish": "solid",
+      "lab": {
+        "L": 19.89,
+        "a": 2.55,
+        "b": -15.78,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "hex_derived",
+        "confidence": "derived",
+        "recordedAt": "2026-04-16",
+        "notes": "Derived from #253047 (OPI swatch reference). Replace with spectro bottle-chip LAB before production claims."
+      }
+    },
+    {
+      "sku": "NLI58",
+      "name": "Turn On the Northern Lights!",
+      "collection": "Blues",
+      "finish": "pearl",
+      "lab": {
+        "L": 17.78,
+        "a": 4.64,
+        "b": -21.18,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "hex_derived",
+        "confidence": "derived",
+        "recordedAt": "2026-04-16",
+        "notes": "Derived from #1C2B4A (OPI swatch reference). Replace with spectro bottle-chip LAB before production claims."
+      }
+    },
+    {
+      "sku": "NLW59",
+      "name": "Tile Art to Warm Your Heart",
+      "collection": "Blues",
+      "finish": "solid",
+      "lab": {
+        "L": 29.41,
+        "a": 0.06,
+        "b": -22.54,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "hex_derived",
+        "confidence": "derived",
+        "recordedAt": "2026-04-16",
+        "notes": "Derived from #2A4768 (OPI swatch reference). Replace with spectro bottle-chip LAB before production claims."
+      }
+    },
+    {
+      "sku": "NLT91",
+      "name": "Yoga-ta Get This Blue!",
+      "collection": "Blues",
+      "finish": "solid",
+      "lab": {
+        "L": 32.45,
+        "a": 1.49,
+        "b": -29.09,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "hex_derived",
+        "confidence": "derived",
+        "recordedAt": "2026-04-16",
+        "notes": "Derived from #274E7A (OPI swatch reference). Replace with spectro bottle-chip LAB before production claims."
+      }
+    },
+    {
+      "sku": "NLL87",
+      "name": "Alpaca My Bags",
+      "collection": "Blues",
+      "finish": "solid",
+      "lab": {
+        "L": 27.51,
+        "a": 1.03,
+        "b": -20.38,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "hex_derived",
+        "confidence": "derived",
+        "recordedAt": "2026-04-16",
+        "notes": "Derived from #2C4260 (OPI swatch reference). Replace with spectro bottle-chip LAB before production claims."
+      }
+    },
+    {
+      "sku": "NLB24",
+      "name": "OPI Ink",
+      "collection": "Blues",
+      "finish": "solid",
+      "lab": {
+        "L": 14.79,
+        "a": 2.56,
+        "b": -13.42,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "hex_derived",
+        "confidence": "derived",
+        "recordedAt": "2026-04-16",
+        "notes": "Derived from #1D2538 (OPI swatch reference). Replace with spectro bottle-chip LAB before production claims."
+      }
+    },
+    {
+      "sku": "NLE75",
+      "name": "Suzi Sells Sushi by the Seashore",
+      "collection": "Blues",
+      "finish": "solid",
+      "lab": {
+        "L": 45.54,
+        "a": -1.1,
+        "b": -31.42,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "hex_derived",
+        "confidence": "derived",
+        "recordedAt": "2026-04-16",
+        "notes": "Derived from #3E6FA0 (OPI swatch reference). Replace with spectro bottle-chip LAB before production claims."
+      }
+    },
+    {
+      "sku": "NLF87",
+      "name": "Boys Be Thistle-Ing at Me",
+      "collection": "Blues",
+      "finish": "solid",
+      "lab": {
+        "L": 49,
+        "a": 1.16,
+        "b": -27.1,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "hex_derived",
+        "confidence": "derived",
+        "recordedAt": "2026-04-16",
+        "notes": "Derived from #5776A2 (OPI swatch reference). Replace with spectro bottle-chip LAB before production claims."
+      }
+    },
+    {
+      "sku": "NLL26",
+      "name": "Rich Girls & Po-Boys",
+      "collection": "Teals",
+      "finish": "solid",
+      "lab": {
+        "L": 47.76,
+        "a": -16.5,
+        "b": -11.45,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "hex_derived",
+        "confidence": "derived",
+        "recordedAt": "2026-04-16",
+        "notes": "Derived from #3E7A84 (OPI swatch reference). Replace with spectro bottle-chip LAB before production claims."
+      }
+    },
+    {
+      "sku": "NLH74",
+      "name": "This Color's Making Waves",
+      "collection": "Teals",
+      "finish": "solid",
+      "lab": {
+        "L": 40.88,
+        "a": -14.14,
+        "b": -14.75,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "hex_derived",
+        "confidence": "derived",
+        "recordedAt": "2026-04-16",
+        "notes": "Derived from #2C6878 (OPI swatch reference). Replace with spectro bottle-chip LAB before production claims."
+      }
+    },
+    {
+      "sku": "NLN79",
+      "name": "Mexico City Move-mint",
+      "collection": "Teals",
+      "finish": "solid",
+      "lab": {
+        "L": 72.9,
+        "a": -25.45,
+        "b": 0.59,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "hex_derived",
+        "confidence": "derived",
+        "recordedAt": "2026-04-16",
+        "notes": "Derived from #7AC0B1 (OPI swatch reference). Replace with spectro bottle-chip LAB before production claims."
+      }
+    },
+    {
+      "sku": "NLE80",
+      "name": "Blue My Mind",
+      "collection": "Blues",
+      "finish": "solid",
+      "lab": {
+        "L": 49.96,
+        "a": -10.66,
+        "b": -23.96,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "hex_derived",
+        "confidence": "derived",
+        "recordedAt": "2026-04-16",
+        "notes": "Derived from #3C7E9F (OPI swatch reference). Replace with spectro bottle-chip LAB before production claims."
+      }
+    },
+    {
+      "sku": "NLT71",
+      "name": "Alpine Snow",
+      "collection": "Whites",
+      "finish": "solid",
+      "lab": {
+        "L": 94.2,
+        "a": 0.13,
+        "b": 2.77,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "hex_derived",
+        "confidence": "derived",
+        "recordedAt": "2026-04-16",
+        "notes": "Derived from #F1EEE9 (OPI swatch reference). Replace with spectro bottle-chip LAB before production claims."
+      },
+      "productUrl": "https://www.opi.com/products/nail-lacquer-alpine-snow"
+    },
+    {
+      "sku": "NLS86",
+      "name": "Bubble Bath",
+      "collection": "Pinks",
+      "finish": "solid",
+      "lab": {
+        "L": 87.95,
+        "a": 4.89,
+        "b": 7.28,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "hex_derived",
+        "confidence": "derived",
+        "recordedAt": "2026-04-16",
+        "notes": "Derived from #ECD9CF (OPI swatch reference). Replace with spectro bottle-chip LAB before production claims."
+      },
+      "productUrl": "https://www.opi.com/products/nail-lacquer-bubble-bath"
+    },
+    {
+      "sku": "NLS96",
+      "name": "Sweet Heart",
+      "collection": "Pinks",
+      "finish": "pearl",
+      "lab": {
+        "L": 88.62,
+        "a": 7.74,
+        "b": 8.33,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "hex_derived",
+        "confidence": "derived",
+        "recordedAt": "2026-04-16",
+        "notes": "Derived from #F4D9CF (OPI swatch reference). Replace with spectro bottle-chip LAB before production claims."
+      }
+    },
+    {
+      "sku": "NLH22",
+      "name": "Funny Bunny",
+      "collection": "Whites",
+      "finish": "solid",
+      "lab": {
+        "L": 92.98,
+        "a": 0.65,
+        "b": 5.69,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "hex_derived",
+        "confidence": "derived",
+        "recordedAt": "2026-04-16",
+        "notes": "Derived from #F1EAE0 (OPI swatch reference). Replace with spectro bottle-chip LAB before production claims."
+      },
+      "productUrl": "https://www.opi.com/products/nail-lacquer-funny-bunny"
+    },
+    {
+      "sku": "NLV31",
+      "name": "Be There in a Prosecco",
+      "collection": "Nudes",
+      "finish": "solid",
+      "lab": {
+        "L": 88.78,
+        "a": 3.32,
+        "b": 12.19,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "hex_derived",
+        "confidence": "derived",
+        "recordedAt": "2026-04-16",
+        "notes": "Derived from #EFDCC8 (OPI swatch reference). Replace with spectro bottle-chip LAB before production claims."
+      }
+    },
+    {
+      "sku": "NLS79",
+      "name": "Passion",
+      "collection": "Pinks",
+      "finish": "pearl",
+      "lab": {
+        "L": 87.25,
+        "a": 8.08,
+        "b": 7.38,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "hex_derived",
+        "confidence": "derived",
+        "recordedAt": "2026-04-16",
+        "notes": "Derived from #F0D5CD (OPI swatch reference). Replace with spectro bottle-chip LAB before production claims."
+      }
+    },
+    {
+      "sku": "NLH19",
+      "name": "Pastel Pink",
+      "collection": "Pinks",
+      "finish": "solid",
+      "lab": {
+        "L": 83.37,
+        "a": 14.66,
+        "b": 4.96,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "hex_derived",
+        "confidence": "derived",
+        "recordedAt": "2026-04-16",
+        "notes": "Derived from #EFC6C7 (OPI swatch reference). Replace with spectro bottle-chip LAB before production claims."
+      }
+    },
+    {
+      "sku": "NLB56",
+      "name": "Mod About You",
+      "collection": "Pinks",
+      "finish": "solid",
+      "lab": {
+        "L": 79.13,
+        "a": 19.5,
+        "b": 4.71,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "hex_derived",
+        "confidence": "derived",
+        "recordedAt": "2026-04-16",
+        "notes": "Derived from #EBB7BC (OPI swatch reference). Replace with spectro bottle-chip LAB before production claims."
+      }
+    },
+    {
+      "sku": "NLR30",
+      "name": "Aloha from OPI",
+      "collection": "Pinks",
+      "finish": "solid",
+      "lab": {
+        "L": 68.9,
+        "a": 33.87,
+        "b": 9.76,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "hex_derived",
+        "confidence": "derived",
+        "recordedAt": "2026-04-16",
+        "notes": "Derived from #E79098 (OPI swatch reference). Replace with spectro bottle-chip LAB before production claims."
+      }
+    },
+    {
+      "sku": "NLR44",
+      "name": "Cozu-melted in the Sun",
+      "collection": "Pinks",
+      "finish": "solid",
+      "lab": {
+        "L": 59.14,
+        "a": 37.28,
+        "b": 13.76,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "hex_derived",
+        "confidence": "derived",
+        "recordedAt": "2026-04-16",
+        "notes": "Derived from #D17378 (OPI swatch reference). Replace with spectro bottle-chip LAB before production claims."
+      }
+    },
+    {
+      "sku": "NLN51",
+      "name": "Let Me Bayou a Drink",
+      "collection": "Nudes",
+      "finish": "solid",
+      "lab": {
+        "L": 69.98,
+        "a": 12.75,
+        "b": 17.5,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "hex_derived",
+        "confidence": "derived",
+        "recordedAt": "2026-04-16",
+        "notes": "Derived from #CDA28C (OPI swatch reference). Replace with spectro bottle-chip LAB before production claims."
+      }
+    },
+    {
+      "sku": "NLP61",
+      "name": "Samoan Sand",
+      "collection": "Nudes",
+      "finish": "pearl",
+      "lab": {
+        "L": 78.39,
+        "a": 4.57,
+        "b": 17.41,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "hex_derived",
+        "confidence": "derived",
+        "recordedAt": "2026-04-16",
+        "notes": "Derived from #D7BEA2 (OPI swatch reference). Replace with spectro bottle-chip LAB before production claims."
+      }
+    },
+    {
+      "sku": "NLH39",
+      "name": "Cosmo-Not Tonight Honey!",
+      "collection": "Nudes",
+      "finish": "solid",
+      "lab": {
+        "L": 61.24,
+        "a": 12.87,
+        "b": 16.16,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "hex_derived",
+        "confidence": "derived",
+        "recordedAt": "2026-04-16",
+        "notes": "Derived from #B48B78 (OPI swatch reference). Replace with spectro bottle-chip LAB before production claims."
+      }
+    },
+    {
+      "sku": "NLV25",
+      "name": "Coconuts Over OPI",
+      "collection": "Nudes",
+      "finish": "solid",
+      "lab": {
+        "L": 75.58,
+        "a": 11.26,
+        "b": 18.39,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "hex_derived",
+        "confidence": "derived",
+        "recordedAt": "2026-04-16",
+        "notes": "Derived from #DBB299 (OPI swatch reference). Replace with spectro bottle-chip LAB before production claims."
+      }
+    },
+    {
+      "sku": "NLT65",
+      "name": "Put It in Neutral",
+      "collection": "Nudes",
+      "finish": "solid",
+      "lab": {
+        "L": 81.33,
+        "a": 6.63,
+        "b": 14.17,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "hex_derived",
+        "confidence": "derived",
+        "recordedAt": "2026-04-16",
+        "notes": "Derived from #E1C5B0 (OPI swatch reference). Replace with spectro bottle-chip LAB before production claims."
+      }
+    },
+    {
+      "sku": "NLN52",
+      "name": "Humidi-Tea",
+      "collection": "Nudes",
+      "finish": "solid",
+      "lab": {
+        "L": 68.25,
+        "a": 10.06,
+        "b": 19.94,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "hex_derived",
+        "confidence": "derived",
+        "recordedAt": "2026-04-16",
+        "notes": "Derived from #C59F83 (OPI swatch reference). Replace with spectro bottle-chip LAB before production claims."
+      }
+    },
+    {
+      "sku": "NLN25",
+      "name": "Big Apple Red",
+      "collection": "Reds",
+      "finish": "solid",
+      "lab": {
+        "L": 33.67,
+        "a": 50.9,
+        "b": 32.88,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "hex_derived",
+        "confidence": "derived",
+        "recordedAt": "2026-04-16",
+        "notes": "Derived from #9B1B1E (OPI swatch reference). Replace with spectro bottle-chip LAB before production claims."
+      },
+      "productUrl": "https://www.opi.com/products/nail-lacquer-big-apple-red"
+    },
+    {
+      "sku": "NLH02",
+      "name": "Chick Flick Cherry",
+      "collection": "Reds",
+      "finish": "solid",
+      "lab": {
+        "L": 30.41,
+        "a": 46.93,
+        "b": 20.17,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "hex_derived",
+        "confidence": "derived",
+        "recordedAt": "2026-04-16",
+        "notes": "Derived from #8B1A2B (OPI swatch reference). Replace with spectro bottle-chip LAB before production claims."
+      },
+      "productUrl": "https://www.opi.com/products/nail-lacquer-chick-flick-cherry"
+    },
+    {
+      "sku": "NLL64",
+      "name": "Red Hot Rio",
+      "collection": "Reds",
+      "finish": "solid",
+      "lab": {
+        "L": 39.41,
+        "a": 56.48,
+        "b": 33.41,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "hex_derived",
+        "confidence": "derived",
+        "recordedAt": "2026-04-16",
+        "notes": "Derived from #B3222A (OPI swatch reference). Replace with spectro bottle-chip LAB before production claims."
+      }
+    },
+    {
+      "sku": "NLH08",
+      "name": "I'm Not Really a Waitress",
+      "collection": "Reds",
+      "finish": "pearl",
+      "lab": {
+        "L": 23.4,
+        "a": 40.1,
+        "b": 17.43,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "hex_derived",
+        "confidence": "derived",
+        "recordedAt": "2026-04-16",
+        "notes": "Derived from #6F1220 (OPI swatch reference). Replace with spectro bottle-chip LAB before production claims."
+      },
+      "productUrl": "https://www.opi.com/products/nail-lacquer-im-not-really-a-waitress"
+    },
+    {
+      "sku": "NLA16",
+      "name": "The Thrill of Brazil",
+      "collection": "Reds",
+      "finish": "solid",
+      "lab": {
+        "L": 28.92,
+        "a": 45.65,
+        "b": 18.69,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "hex_derived",
+        "confidence": "derived",
+        "recordedAt": "2026-04-16",
+        "notes": "Derived from #85182A (OPI swatch reference). Replace with spectro bottle-chip LAB before production claims."
+      }
+    },
+    {
+      "sku": "NLR53",
+      "name": "An Affair in Red Square",
+      "collection": "Reds",
+      "finish": "solid",
+      "lab": {
+        "L": 34.69,
+        "a": 52.85,
+        "b": 30.7,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "hex_derived",
+        "confidence": "derived",
+        "recordedAt": "2026-04-16",
+        "notes": "Derived from #A01A24 (OPI swatch reference). Replace with spectro bottle-chip LAB before production claims."
+      }
+    },
+    {
+      "sku": "NLM21",
+      "name": "Amore at the Grand Canal",
+      "collection": "Reds",
+      "finish": "solid",
+      "lab": {
+        "L": 26.84,
+        "a": 44.11,
+        "b": 23.01,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "hex_derived",
+        "confidence": "derived",
+        "recordedAt": "2026-04-16",
+        "notes": "Derived from #7E141F (OPI swatch reference). Replace with spectro bottle-chip LAB before production claims."
+      }
+    },
+    {
+      "sku": "NLW63",
+      "name": "Madam President",
+      "collection": "Burgundies",
+      "finish": "solid",
+      "lab": {
+        "L": 20.95,
+        "a": 30.65,
+        "b": 11.48,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "hex_derived",
+        "confidence": "derived",
+        "recordedAt": "2026-04-16",
+        "notes": "Derived from #5D1B23 (OPI swatch reference). Replace with spectro bottle-chip LAB before production claims."
+      }
+    },
+    {
+      "sku": "NLW52",
+      "name": "Got the Blues for Red",
+      "collection": "Burgundies",
+      "finish": "solid",
+      "lab": {
+        "L": 15.89,
+        "a": 27.99,
+        "b": 11.96,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "hex_derived",
+        "confidence": "derived",
+        "recordedAt": "2026-04-16",
+        "notes": "Derived from #4D1218 (OPI swatch reference). Replace with spectro bottle-chip LAB before production claims."
+      }
+    },
+    {
+      "sku": "NLF52",
+      "name": "Bogota Blackberry",
+      "collection": "Burgundies",
+      "finish": "solid",
+      "lab": {
+        "L": 13.05,
+        "a": 20.09,
+        "b": 1.65,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "hex_derived",
+        "confidence": "derived",
+        "recordedAt": "2026-04-16",
+        "notes": "Derived from #3B1520 (OPI swatch reference). Replace with spectro bottle-chip LAB before production claims."
+      }
+    },
+    {
+      "sku": "NLZ13",
+      "name": "Malaga Wine",
+      "collection": "Burgundies",
+      "finish": "solid",
+      "lab": {
+        "L": 21.54,
+        "a": 36.4,
+        "b": 12.56,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "hex_derived",
+        "confidence": "derived",
+        "recordedAt": "2026-04-16",
+        "notes": "Derived from #651423 (OPI swatch reference). Replace with spectro bottle-chip LAB before production claims."
+      },
+      "productUrl": "https://www.opi.com/products/nail-lacquer-malaga-wine"
+    },
+    {
+      "sku": "NLA12",
+      "name": "Color So Hot It Berns",
+      "collection": "Pinks",
+      "finish": "solid",
+      "lab": {
+        "L": 44,
+        "a": 62.34,
+        "b": 26.52,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "hex_derived",
+        "confidence": "derived",
+        "recordedAt": "2026-04-16",
+        "notes": "Derived from #C72540 (OPI swatch reference). Replace with spectro bottle-chip LAB before production claims."
+      }
+    },
+    {
+      "sku": "NLT06",
+      "name": "Black Onyx",
+      "collection": "Blacks",
+      "finish": "solid",
+      "lab": {
+        "L": 3.68,
+        "a": 0.34,
+        "b": -0.94,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "hex_derived",
+        "confidence": "derived",
+        "recordedAt": "2026-04-16",
+        "notes": "Derived from #0D0D0F (OPI swatch reference). Replace with spectro bottle-chip LAB before production claims."
+      },
+      "productUrl": "https://www.opi.com/products/nail-lacquer-black-onyx"
+    },
+    {
+      "sku": "NLW42",
+      "name": "Lincoln Park After Dark",
+      "collection": "Burgundies",
+      "finish": "solid",
+      "lab": {
+        "L": 10.34,
+        "a": 11.96,
+        "b": -2.67,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "hex_derived",
+        "confidence": "derived",
+        "recordedAt": "2026-04-16",
+        "notes": "Derived from #2A1620 (OPI swatch reference). Replace with spectro bottle-chip LAB before production claims."
+      },
+      "productUrl": "https://www.opi.com/products/nail-lacquer-lincoln-park-after-dark"
+    },
+    {
+      "sku": "NLF16",
+      "name": "Suzi Skis in the Pyrenees",
+      "collection": "Blacks",
+      "finish": "solid",
+      "lab": {
+        "L": 12,
+        "a": -0.55,
+        "b": -4.81,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "hex_derived",
+        "confidence": "derived",
+        "recordedAt": "2026-04-16",
+        "notes": "Derived from #1B2026 (OPI swatch reference). Replace with spectro bottle-chip LAB before production claims."
+      }
+    },
+    {
+      "sku": "NLL15",
+      "name": "This Silver's Mine",
+      "collection": "Silvers",
+      "finish": "metallic",
+      "lab": {
+        "L": 75.45,
+        "a": 0.1,
+        "b": -3.39,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "hex_derived",
+        "confidence": "derived",
+        "recordedAt": "2026-04-16",
+        "notes": "Derived from #B7BAC0 (OPI swatch reference). Replace with spectro bottle-chip LAB before production claims."
+      }
+    },
+    {
+      "sku": "NLT55",
+      "name": "Tinker, Thinker, Winker?",
+      "collection": "Silvers",
+      "finish": "metallic",
+      "lab": {
+        "L": 82.26,
+        "a": -0.24,
+        "b": -3.45,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "hex_derived",
+        "confidence": "derived",
+        "recordedAt": "2026-04-16",
+        "notes": "Derived from #C9CDD3 (OPI swatch reference). Replace with spectro bottle-chip LAB before production claims."
+      }
+    },
+    {
+      "sku": "NLH73",
+      "name": "My Signature Is DC",
+      "collection": "Silvers",
+      "finish": "metallic",
+      "lab": {
+        "L": 63.15,
+        "a": 0.11,
+        "b": -3.51,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "hex_derived",
+        "confidence": "derived",
+        "recordedAt": "2026-04-16",
+        "notes": "Derived from #96999F (OPI swatch reference). Replace with spectro bottle-chip LAB before production claims."
+      }
+    },
+    {
+      "sku": "NLB78",
+      "name": "OPI by Popular Vote",
+      "collection": "Silvers",
+      "finish": "metallic",
+      "lab": {
+        "L": 70.88,
+        "a": -0.33,
+        "b": -5.32,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "hex_derived",
+        "confidence": "derived",
+        "recordedAt": "2026-04-16",
+        "notes": "Derived from #A8AEB7 (OPI swatch reference). Replace with spectro bottle-chip LAB before production claims."
+      }
+    },
+    {
+      "sku": "NLI42",
+      "name": "Espresso Your Inner Self",
+      "collection": "Browns",
+      "finish": "solid",
+      "lab": {
+        "L": 19.07,
+        "a": 7.57,
+        "b": 8.72,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "hex_derived",
+        "confidence": "derived",
+        "recordedAt": "2026-04-16",
+        "notes": "Derived from #3D2A22 (OPI swatch reference). Replace with spectro bottle-chip LAB before production claims."
+      }
+    },
+    {
+      "sku": "NLV35",
+      "name": "Chocolate Moose",
+      "collection": "Browns",
+      "finish": "solid",
+      "lab": {
+        "L": 34.58,
+        "a": 11.37,
+        "b": 17.52,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "hex_derived",
+        "confidence": "derived",
+        "recordedAt": "2026-04-16",
+        "notes": "Derived from #6B4A36 (OPI swatch reference). Replace with spectro bottle-chip LAB before production claims."
+      }
+    },
+    {
+      "sku": "NLH43",
+      "name": "A Good Man-darin Is Hard to Find",
+      "collection": "Oranges",
+      "finish": "solid",
+      "lab": {
+        "L": 56.84,
+        "a": 38.72,
+        "b": 45.38,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "hex_derived",
+        "confidence": "derived",
+        "recordedAt": "2026-04-16",
+        "notes": "Derived from #D56A3A (OPI swatch reference). Replace with spectro bottle-chip LAB before production claims."
+      }
+    },
+    {
+      "sku": "NLV26",
+      "name": "Toucan Do It if You Try",
+      "collection": "Oranges",
+      "finish": "solid",
+      "lab": {
+        "L": 57.43,
+        "a": 44.96,
+        "b": 51.81,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "hex_derived",
+        "confidence": "derived",
+        "recordedAt": "2026-04-16",
+        "notes": "Derived from #E0652F (OPI swatch reference). Replace with spectro bottle-chip LAB before production claims."
+      }
+    },
+    {
+      "sku": "NLL21",
+      "name": "Santa Monica Beach Peach",
+      "collection": "Oranges",
+      "finish": "solid",
+      "lab": {
+        "L": 67.12,
+        "a": 28.87,
+        "b": 31.07,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "hex_derived",
+        "confidence": "derived",
+        "recordedAt": "2026-04-16",
+        "notes": "Derived from #E38E6D (OPI swatch reference). Replace with spectro bottle-chip LAB before production claims."
+      }
+    },
+    {
+      "sku": "NLL23",
+      "name": "Sun, Sea, and Sand in My Pants",
+      "collection": "Yellows",
+      "finish": "solid",
+      "lab": {
+        "L": 85.19,
+        "a": 0.2,
+        "b": 47.44,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "hex_derived",
+        "confidence": "derived",
+        "recordedAt": "2026-04-16",
+        "notes": "Derived from #F2D27A (OPI swatch reference). Replace with spectro bottle-chip LAB before production claims."
+      }
+    },
+    {
+      "sku": "NLA65",
+      "name": "Never a Dulles Moment",
+      "collection": "Yellows",
+      "finish": "solid",
+      "lab": {
+        "L": 80.63,
+        "a": 2.01,
+        "b": 54.75,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "hex_derived",
+        "confidence": "derived",
+        "recordedAt": "2026-04-16",
+        "notes": "Derived from #EAC45F (OPI swatch reference). Replace with spectro bottle-chip LAB before production claims."
+      }
+    },
+    {
+      "sku": "NLN58",
+      "name": "Exotic Birds Do Not Tweet",
+      "collection": "Yellows",
+      "finish": "solid",
+      "lab": {
+        "L": 66.18,
+        "a": 7.1,
+        "b": 54.65,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "hex_derived",
+        "confidence": "derived",
+        "recordedAt": "2026-04-16",
+        "notes": "Derived from #C79A3A (OPI swatch reference). Replace with spectro bottle-chip LAB before production claims."
+      }
+    },
+    {
+      "sku": "NLC09",
+      "name": "Don't Touch My Tutu!",
+      "collection": "Pinks",
+      "finish": "solid",
+      "lab": {
+        "L": 81.62,
+        "a": 14.02,
+        "b": -0.37,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "hex_derived",
+        "confidence": "derived",
+        "recordedAt": "2026-04-16",
+        "notes": "Derived from #E5C2CC (OPI swatch reference). Replace with spectro bottle-chip LAB before production claims."
+      }
+    },
+    {
+      "sku": "NLI63",
+      "name": "Suzi — Nails for President",
+      "collection": "Purples",
+      "finish": "solid",
+      "lab": {
+        "L": 30.88,
+        "a": 19.8,
+        "b": -14.16,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "hex_derived",
+        "confidence": "derived",
+        "recordedAt": "2026-04-16",
+        "notes": "Derived from #5D3E5F (OPI swatch reference). Replace with spectro bottle-chip LAB before production claims."
+      }
+    }
+  ]
+}

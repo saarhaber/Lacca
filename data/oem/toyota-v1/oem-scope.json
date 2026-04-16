@@ -1,0 +1,22 @@
+{
+  "$schema": "../../../schemas/oem-scope-v1.schema.json",
+  "scopeId": "toyota-v1",
+  "oem": "Toyota",
+  "region": "North America",
+  "modelYears": {
+    "from": 2019,
+    "to": 2026
+  },
+  "models": [
+    "Camry",
+    "Corolla",
+    "RAV4",
+    "Highlander",
+    "Tacoma",
+    "Tundra",
+    "4Runner",
+    "Prius"
+  ],
+  "notes": "Toyota exterior colors from 2019-2026 Camry/Corolla/RAV4/Highlander/Tacoma/Tundra/4Runner/Prius. Paint LAB values are HEX-derived approximations from industry touch-up references; replace with measured or licensed spectro data before production claims.",
+  "exteriorPaintFile": "./exterior-paints-v1.json"
+}

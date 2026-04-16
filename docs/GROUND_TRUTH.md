@@ -40,7 +40,30 @@ See JSON Schema: [`schemas/lab-measurement-v1.schema.json`](../schemas/lab-measu
 
 ## Match tiers (product language vs math)
 
-- **Perfect Match (product)**: target **ΔE<sub>ab</sub>\* &lt; 1.0** vs selected reference (see `src/color/deltaE.ts`).
+- **Perfect Match (product)**: target **ΔE &lt; 1.0** vs selected reference (see `src/color/deltaE.ts`).
 - **Close**: &lt; 2.0; **Explore**: &lt; 4.0 — tune copy separately from math.
 
-All tiers must use the **same** ΔE formula version and illuminant/observer as the catalog entries being compared.
+All tiers must use the **same** ΔE formula version and illuminant/observer as the catalog entries being compared. The catalog file declares which formula was used (`deltaEVersion`) and the web + demo pipelines pick the matching implementation so math is never inferred.
+
+### ΔE formula versions
+
+- `deltaE76` — CIE76 Euclidean distance. Acceptable for coarse ranking; retained for backward compatibility.
+- `deltaE00` — CIEDE2000 (Sharma et al. 2005). Default for OPI catalogs ≥ 1.1.0. Perceptually uniform for small differences in the grey/neutral region — the bulk of automotive paint.
+
+Tier cutoffs (perfect &lt; 1, close &lt; 2, explore &lt; 4) are shared across both formulas today because they remain practical for CIEDE2000. Retune them once enough paired (physical-vs-derived) measurements exist; track as a follow-up.
+
+## Upgrading an OPI SKU from derived to measured
+
+The seed script [`scripts/seed-opi-catalog.ts`](../scripts/seed-opi-catalog.ts) generates `data/opi/catalog-1.1.0.json` with `confidence: "derived"` rows. To replace a row with a real spectrophotometer reading:
+
+1. Measure the OPI bottle chip under D65 / 2° (sphere geometry SCI preferred).
+2. Edit the corresponding entry in `data/opi/catalog-1.1.0.json` (or a bumped `1.2.0` snapshot):
+   - Set `source` to `"spectro_reread"` (or the instrument name, e.g. `"spectro_xrite_ci64"`).
+   - Set `confidence` to `"measured"`.
+   - Replace `L`, `a`, `b` with the measured values; keep full precision.
+   - Add `measurement.geometry` (e.g. `"sphere_SCI"`) and `measurement.instrument`.
+   - Refresh `recordedAt` and, if the formula may rotate, set `validFrom` / `validTo`.
+3. Run `npm run validate:data` to confirm the Ajv schema still accepts the row.
+4. If you bumped the catalog version, update `data/pipeline/catalog-pointer.json` and the import path in `web/src/main.ts`.
+
+Prefer landing measured rows in batches per shade family (e.g. all greys, all reds) so any cross-chip bias surfaces during QA rather than in production.

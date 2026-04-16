@@ -1,0 +1,21 @@
+{
+  "$schema": "../../../schemas/oem-scope-v1.schema.json",
+  "scopeId": "porsche-v1",
+  "oem": "Porsche",
+  "region": "Global",
+  "modelYears": {
+    "from": 2018,
+    "to": 2026
+  },
+  "models": [
+    "911",
+    "718 Cayman",
+    "718 Boxster",
+    "Cayenne",
+    "Macan",
+    "Panamera",
+    "Taycan"
+  ],
+  "notes": "Porsche exterior colors commonly optioned across 911/718/Cayenne/Macan/Panamera/Taycan. Paint LAB values are HEX-derived approximations from industry touch-up references; replace with measured or licensed spectro data before production claims.",
+  "exteriorPaintFile": "./exterior-paints-v1.json"
+}

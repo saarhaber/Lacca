@@ -1,28 +1,67 @@
-import { readFileSync } from "node:fs";
+import { readdirSync, readFileSync, statSync } from "node:fs";
 import { join } from "node:path";
 import { createValidator, repoRoot } from "./ajv.js";
 import type { OpiCatalogFile } from "./opiTypes.js";
 
-const checks: { schemaId: string; dataPath: string }[] = [
+type Check = { schemaId: string; dataPath: string };
+
+const EXTERIOR_SCHEMA = "https://lacca.local/schemas/exterior-paints-v1.schema.json";
+const OEM_SCOPE_SCHEMA = "https://lacca.local/schemas/oem-scope-v1.schema.json";
+
+/**
+ * Walk `data/oem/*` and synthesize a check per scope folder. Every folder that
+ * contains `oem-scope.json` and `exterior-paints-v1.json` is auto-registered,
+ * so outputs of scripts/fetch-nhtsa / fetch-paintref / import-csv land in the
+ * validation pipeline without hand-editing this file.
+ */
+function discoverOemChecks(): Check[] {
+  const oemRoot = join(repoRoot, "data/oem");
+  let entries: string[];
+  try {
+    entries = readdirSync(oemRoot);
+  } catch {
+    return [];
+  }
+
+  const checks: Check[] = [];
+  for (const name of entries) {
+    const scopeDir = join(oemRoot, name);
+    let st;
+    try {
+      st = statSync(scopeDir);
+    } catch {
+      continue;
+    }
+    if (!st.isDirectory()) continue;
+
+    const scopeFile = join(scopeDir, "oem-scope.json");
+    const paintsFile = join(scopeDir, "exterior-paints-v1.json");
+    let hasScope = false;
+    let hasPaints = false;
+    try {
+      hasScope = statSync(scopeFile).isFile();
+    } catch {}
+    try {
+      hasPaints = statSync(paintsFile).isFile();
+    } catch {}
+
+    if (hasScope) {
+      checks.push({ schemaId: OEM_SCOPE_SCHEMA, dataPath: `data/oem/${name}/oem-scope.json` });
+    }
+    if (hasPaints) {
+      checks.push({
+        schemaId: EXTERIOR_SCHEMA,
+        dataPath: `data/oem/${name}/exterior-paints-v1.json`
+      });
+    }
+  }
+  return checks;
+}
+
+const staticChecks: Check[] = [
   {
     schemaId: "https://lacca.local/schemas/opi-catalog-v1.schema.json",
-    dataPath: "data/opi/catalog-1.0.0.json"
-  },
-  {
-    schemaId: "https://lacca.local/schemas/exterior-paints-v1.schema.json",
-    dataPath: "data/oem/tesla-model-3y-v1/exterior-paints-v1.json"
-  },
-  {
-    schemaId: "https://lacca.local/schemas/oem-scope-v1.schema.json",
-    dataPath: "data/oem/tesla-model-3y-v1/oem-scope.json"
-  },
-  {
-    schemaId: "https://lacca.local/schemas/exterior-paints-v1.schema.json",
-    dataPath: "data/oem/bmw-x-v1/exterior-paints-v1.json"
-  },
-  {
-    schemaId: "https://lacca.local/schemas/oem-scope-v1.schema.json",
-    dataPath: "data/oem/bmw-x-v1/oem-scope.json"
+    dataPath: "data/opi/catalog-1.1.0.json"
   },
   {
     schemaId: "https://lacca.local/schemas/interior-buckets-v1.schema.json",
@@ -30,11 +69,15 @@ const checks: { schemaId: string; dataPath: string }[] = [
   }
 ];
 
+function allChecks(): Check[] {
+  return [...staticChecks, ...discoverOemChecks()];
+}
+
 export function validateAllDataFiles(): { ok: true } | { ok: false; errors: string[] } {
   const ajv = createValidator();
   const errors: string[] = [];
 
-  for (const { schemaId, dataPath } of checks) {
+  for (const { schemaId, dataPath } of allChecks()) {
     const validate = ajv.getSchema(schemaId);
     if (!validate) {
       errors.push(`Missing schema id ${schemaId}`);

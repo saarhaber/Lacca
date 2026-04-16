@@ -4,9 +4,16 @@
   "type": "module",
   "scripts": {
     "build": "tsc",
+    "check": "npm run validate:data && npm run check:delta-e && npm run match:demo",
     "validate:data": "tsx scripts/validate-data.ts",
     "match:demo": "tsx scripts/demo-match.ts",
     "seed:oem": "tsx scripts/seed-oem-paints.ts",
+    "seed:opi": "tsx scripts/seed-opi-catalog.ts",
+    "check:delta-e": "tsx scripts/check-delta-e.ts",
+    "fetch:carapi": "tsx scripts/fetch-carapi-colors.ts",
+    "fetch:nhtsa": "tsx scripts/fetch-nhtsa-colors.ts",
+    "import:csv": "tsx scripts/import-kaggle-csv.ts",
+    "fetch:paintref": "tsx scripts/fetch-paintref-colors.ts",
     "dev:web": "vite --config web/vite.config.ts",
     "build:web": "vite build --config web/vite.config.ts",
     "preview:web": "vite preview --config web/vite.config.ts"

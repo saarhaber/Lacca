@@ -240,12 +240,29 @@ select:disabled {
   font-size: 1rem;
 }
 
-.car-copy span {
+.car-details {
+  margin-top: 0.2rem;
   font-size: 0.9rem;
   color: var(--muted);
+  line-height: 1.45;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  column-gap: 0;
+  row-gap: 0.35rem;
 }
 
-.car-copy code {
+.car-details-meta {
+  min-width: 0;
+}
+
+.car-details .conf {
+  margin-top: 0;
+  flex-shrink: 0;
+}
+
+.car-copy code,
+.car-details code {
   background: rgba(28, 20, 16, 0.08);
   padding: 0.05em 0.3em;
   border-radius: 4px;
@@ -360,6 +377,85 @@ select:disabled {
 .badge.distant {
   background: #f0e8e8;
   color: #6a3030;
+}
+
+.badge.capped::after {
+  content: "•";
+  margin-left: 0.3em;
+  color: currentColor;
+  opacity: 0.55;
+}
+
+/* Swatches for LAB points that fall outside the sRGB gamut get a subtle
+   diagonal overlay + dashed border so users know the browser is clipping the
+   preview and the real-world pigment is more saturated than the screen. */
+.car-swatch.out-of-gamut,
+.opi-swatch.out-of-gamut {
+  position: relative;
+  border-style: dashed;
+  border-color: rgba(139, 41, 66, 0.55);
+}
+
+.car-swatch.out-of-gamut::after,
+.opi-swatch.out-of-gamut::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  border-radius: inherit;
+  background: repeating-linear-gradient(
+    135deg,
+    transparent 0,
+    transparent 6px,
+    rgba(255, 255, 255, 0.35) 6px,
+    rgba(255, 255, 255, 0.35) 8px
+  );
+  pointer-events: none;
+}
+
+.gamut-warning {
+  display: block;
+  margin-top: 0.3rem;
+  font-size: 0.75rem;
+  color: #6a3030;
+  font-style: italic;
+}
+
+.picks-sublabel {
+  margin: 0 0 0.6rem;
+  font-size: 0.78rem;
+  font-weight: 600;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--muted);
+}
+
+.distant-banner {
+  margin: 0 0 0.75rem;
+  padding: 0.6rem 0.85rem;
+  font-size: 0.85rem;
+  color: #6a3030;
+  background: #f7ecec;
+  border: 1px solid #e9d3d3;
+  border-radius: var(--radius);
+}
+
+.finish-disclaimer {
+  margin: 0.6rem 0 0;
+  font-size: 0.82rem;
+  color: var(--muted);
+}
+
+.opi-link {
+  color: var(--ink);
+  text-decoration: underline;
+  text-decoration-color: rgba(139, 41, 66, 0.35);
+  text-underline-offset: 0.2em;
+}
+
+.opi-link:hover,
+.opi-link:focus-visible {
+  color: var(--accent);
+  text-decoration-color: var(--accent);
 }
 
 .catalog-meta {

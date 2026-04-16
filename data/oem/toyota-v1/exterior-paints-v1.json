@@ -1,0 +1,327 @@
+{
+  "$schema": "../../../schemas/exterior-paints-v1.schema.json",
+  "scopeId": "toyota-v1",
+  "version": "1.0.0",
+  "paints": [
+    {
+      "code": "040",
+      "marketingName": "Super White",
+      "finish": "solid",
+      "lab": {
+        "L": 95.69,
+        "a": -0.86,
+        "b": 1.33,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "hex_derived",
+        "confidence": "derived",
+        "recordedAt": "2026-04-16",
+        "notes": "Derived from #F2F3F0 (hex_derived). Replace with spectro LAB before production claims."
+      }
+    },
+    {
+      "code": "070",
+      "marketingName": "Blizzard Pearl",
+      "finish": "pearl",
+      "lab": {
+        "L": 93.67,
+        "a": -0.53,
+        "b": 1.45,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "hex_derived",
+        "confidence": "derived",
+        "recordedAt": "2026-04-16",
+        "notes": "Derived from #EDEDEA (hex_derived). Replace with spectro LAB before production claims."
+      }
+    },
+    {
+      "code": "089",
+      "marketingName": "Wind Chill Pearl",
+      "finish": "pearl",
+      "lab": {
+        "L": 91.87,
+        "a": -0.88,
+        "b": 2.43,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "hex_derived",
+        "confidence": "derived",
+        "recordedAt": "2026-04-16",
+        "notes": "Derived from #E8E8E3 (hex_derived). Replace with spectro LAB before production claims."
+      }
+    },
+    {
+      "code": "202",
+      "marketingName": "Black",
+      "finish": "solid",
+      "lab": {
+        "L": 3.02,
+        "a": 0,
+        "b": 0,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "hex_derived",
+        "confidence": "derived",
+        "recordedAt": "2026-04-16",
+        "notes": "Derived from #0B0B0B (hex_derived). Replace with spectro LAB before production claims."
+      }
+    },
+    {
+      "code": "218",
+      "marketingName": "Attitude Black Metallic",
+      "finish": "metallic",
+      "lab": {
+        "L": 9.34,
+        "a": 0.52,
+        "b": -1.39,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "hex_derived",
+        "confidence": "derived",
+        "recordedAt": "2026-04-16",
+        "notes": "Derived from #1A1A1C (hex_derived). Replace with spectro LAB before production claims."
+      }
+    },
+    {
+      "code": "1F7",
+      "marketingName": "Classic Silver Metallic",
+      "finish": "metallic",
+      "lab": {
+        "L": 73.95,
+        "a": -0.32,
+        "b": -1.26,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "hex_derived",
+        "confidence": "derived",
+        "recordedAt": "2026-04-16",
+        "notes": "Derived from #B4B6B8 (hex_derived). Replace with spectro LAB before production claims."
+      }
+    },
+    {
+      "code": "1G3",
+      "marketingName": "Magnetic Gray Metallic",
+      "finish": "metallic",
+      "lab": {
+        "L": 38.63,
+        "a": 0.03,
+        "b": -1.29,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "hex_derived",
+        "confidence": "derived",
+        "recordedAt": "2026-04-16",
+        "notes": "Derived from #5A5B5D (hex_derived). Replace with spectro LAB before production claims."
+      }
+    },
+    {
+      "code": "1H5",
+      "marketingName": "Celestial Silver Metallic",
+      "finish": "metallic",
+      "lab": {
+        "L": 69.75,
+        "a": -0.83,
+        "b": -2.03,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "hex_derived",
+        "confidence": "derived",
+        "recordedAt": "2026-04-16",
+        "notes": "Derived from #A7ABAE (hex_derived). Replace with spectro LAB before production claims."
+      }
+    },
+    {
+      "code": "1K5",
+      "marketingName": "Underground",
+      "finish": "metallic",
+      "lab": {
+        "L": 33.98,
+        "a": -4.48,
+        "b": 1.13,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "hex_derived",
+        "confidence": "derived",
+        "recordedAt": "2026-04-16",
+        "notes": "Derived from #49524E (hex_derived). Replace with spectro LAB before production claims."
+      }
+    },
+    {
+      "code": "3T3",
+      "marketingName": "Ruby Flare Pearl",
+      "finish": "pearl",
+      "lab": {
+        "L": 26.15,
+        "a": 42.79,
+        "b": 19.35,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "hex_derived",
+        "confidence": "derived",
+        "recordedAt": "2026-04-16",
+        "notes": "Derived from #7A1523 (hex_derived). Replace with spectro LAB before production claims."
+      }
+    },
+    {
+      "code": "3R3",
+      "marketingName": "Barcelona Red Metallic",
+      "finish": "metallic",
+      "lab": {
+        "L": 28.37,
+        "a": 42.52,
+        "b": 24.95,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "hex_derived",
+        "confidence": "derived",
+        "recordedAt": "2026-04-16",
+        "notes": "Derived from #811C1F (hex_derived). Replace with spectro LAB before production claims."
+      }
+    },
+    {
+      "code": "3U5",
+      "marketingName": "Supersonic Red",
+      "finish": "pearl",
+      "lab": {
+        "L": 37.43,
+        "a": 58.54,
+        "b": 40.26,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "hex_derived",
+        "confidence": "derived",
+        "recordedAt": "2026-04-16",
+        "notes": "Derived from #B0131A (hex_derived). Replace with spectro LAB before production claims."
+      }
+    },
+    {
+      "code": "4X0",
+      "marketingName": "Quicksand",
+      "finish": "solid",
+      "lab": {
+        "L": 59.45,
+        "a": 3.39,
+        "b": 20.17,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "hex_derived",
+        "confidence": "derived",
+        "recordedAt": "2026-04-16",
+        "notes": "Derived from #A28C6C (hex_derived). Replace with spectro LAB before production claims."
+      }
+    },
+    {
+      "code": "4V8",
+      "marketingName": "Cement",
+      "finish": "solid",
+      "lab": {
+        "L": 56.21,
+        "a": -0.78,
+        "b": 2.15,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "hex_derived",
+        "confidence": "derived",
+        "recordedAt": "2026-04-16",
+        "notes": "Derived from #878783 (hex_derived). Replace with spectro LAB before production claims."
+      }
+    },
+    {
+      "code": "6X1",
+      "marketingName": "Army Green",
+      "finish": "solid",
+      "lab": {
+        "L": 33.47,
+        "a": -5.58,
+        "b": 6.71,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "hex_derived",
+        "confidence": "derived",
+        "recordedAt": "2026-04-16",
+        "notes": "Derived from #4A5144 (hex_derived). Replace with spectro LAB before production claims."
+      }
+    },
+    {
+      "code": "6W7",
+      "marketingName": "Lunar Rock",
+      "finish": "solid",
+      "lab": {
+        "L": 73.42,
+        "a": -1.64,
+        "b": 3.44,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "hex_derived",
+        "confidence": "derived",
+        "recordedAt": "2026-04-16",
+        "notes": "Derived from #B4B5AE (hex_derived). Replace with spectro LAB before production claims."
+      }
+    },
+    {
+      "code": "8X8",
+      "marketingName": "Blueprint",
+      "finish": "metallic",
+      "lab": {
+        "L": 22.58,
+        "a": -2.49,
+        "b": -13.64,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "hex_derived",
+        "confidence": "derived",
+        "recordedAt": "2026-04-16",
+        "notes": "Derived from #23384A (hex_derived). Replace with spectro LAB before production claims."
+      }
+    },
+    {
+      "code": "8W9",
+      "marketingName": "Cavalry Blue",
+      "finish": "metallic",
+      "lab": {
+        "L": 27.29,
+        "a": -1.48,
+        "b": -12.25,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "hex_derived",
+        "confidence": "derived",
+        "recordedAt": "2026-04-16",
+        "notes": "Derived from #324253 (hex_derived). Replace with spectro LAB before production claims."
+      }
+    },
+    {
+      "code": "8Y6",
+      "marketingName": "Blue Crush Metallic",
+      "finish": "metallic",
+      "lab": {
+        "L": 38,
+        "a": 0.32,
+        "b": -31.97,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "hex_derived",
+        "confidence": "derived",
+        "recordedAt": "2026-04-16",
+        "notes": "Derived from #2B5C8D (hex_derived). Replace with spectro LAB before production claims."
+      }
+    },
+    {
+      "code": "2QJ",
+      "marketingName": "Magnetic Gray Metallic / Midnight Black Roof",
+      "finish": "metallic",
+      "lab": {
+        "L": 38.63,
+        "a": 0.03,
+        "b": -1.29,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "hex_derived",
+        "confidence": "derived",
+        "recordedAt": "2026-04-16",
+        "notes": "Derived from #5A5B5D (hex_derived). Replace with spectro LAB before production claims."
+      }
+    }
+  ]
+}

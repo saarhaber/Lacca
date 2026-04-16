@@ -1,8 +1,7 @@
 import { srgbToLabD65 } from "../../src/color/rgbToLab.js";
+import type { PaintFinish } from "../../src/pipeline/opiTypes.js";
 
-type Finish = "solid" | "metallic" | "pearl" | "matte" | "other";
-
-type Seed = { code: string; name: string; finish: Finish; hex: string };
+type Seed = { code: string; name: string; finish: PaintFinish; hex: string };
 
 const SEEDS: Seed[] = [
   { code: "GEN-WHITE",      name: "White",                finish: "solid",    hex: "#F2F2F0" },
@@ -22,7 +21,7 @@ const SEEDS: Seed[] = [
 export type GenericPaint = {
   code: string;
   marketingName: string;
-  finish: Finish;
+  finish: PaintFinish;
   lab: {
     L: number;
     a: number;
