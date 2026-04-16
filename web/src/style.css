@@ -371,6 +371,12 @@ input[type="text"]:focus-visible {
   flex-shrink: 0;
 }
 
+.conf-wrap {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.3rem;
+}
+
 .car-copy code,
 .car-details code {
   background: rgba(28, 20, 16, 0.08);
@@ -415,6 +421,59 @@ input[type="text"]:focus-visible {
   margin-left: 0.35rem;
   background: #ece6f3;
   color: #443a6b;
+}
+
+.conf-help {
+  position: relative;
+  border: 1px solid rgba(139, 41, 66, 0.35);
+  color: var(--accent);
+  background: #fff;
+  border-radius: 999px;
+  width: 1.15rem;
+  height: 1.15rem;
+  padding: 0;
+  font-size: 0.72rem;
+  line-height: 1;
+  font-weight: 700;
+  cursor: help;
+}
+
+.conf-help:hover,
+.conf-help:focus-visible {
+  outline: none;
+  border-color: var(--accent);
+}
+
+.conf-help[data-tip]::after {
+  content: attr(data-tip);
+  position: absolute;
+  right: 0;
+  top: calc(100% + 0.35rem);
+  width: max-content;
+  max-width: 20rem;
+  padding: 0.55rem 0.7rem;
+  background: var(--ink);
+  color: #fff;
+  border-radius: 8px;
+  font-size: 0.78rem;
+  font-weight: 400;
+  letter-spacing: 0;
+  text-transform: none;
+  line-height: 1.4;
+  box-shadow: 0 10px 30px rgba(28, 20, 16, 0.25);
+  opacity: 0;
+  transform: translateY(-4px);
+  transition: opacity 0.12s ease, transform 0.12s ease;
+  pointer-events: none;
+  z-index: 10;
+  white-space: pre-line;
+  text-align: left;
+}
+
+.conf-help[data-tip]:hover::after,
+.conf-help[data-tip]:focus-visible::after {
+  opacity: 1;
+  transform: translateY(0);
 }
 
 .match-list {

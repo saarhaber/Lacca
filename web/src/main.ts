@@ -650,9 +650,23 @@ function render() {
   const confBadge = document.createElement("span");
   confBadge.className = `conf conf-${conf}`;
   confBadge.textContent = confidenceBadgeText(conf);
-  confBadge.title = composeConfidenceTooltip(paint.lab);
 
-  details.append(meta, document.createTextNode(" · "), confBadge);
+  const confWrap = document.createElement("span");
+  confWrap.className = "conf-wrap";
+  confWrap.append(confBadge);
+
+  const confTip = composeConfidenceTooltip(paint.lab).trim();
+  if (confTip) {
+    const confHelp = document.createElement("button");
+    confHelp.type = "button";
+    confHelp.className = "conf-help";
+    confHelp.textContent = "?";
+    confHelp.setAttribute("aria-label", "About confidence level");
+    confHelp.dataset.tip = confTip;
+    confWrap.append(confHelp);
+  }
+
+  details.append(meta, document.createTextNode(" · "), confWrap);
 
   if (isGenericPaintCode(paint.code)) {
     const genericBadge = document.createElement("span");
