@@ -608,37 +608,50 @@ function prettySourceLabel(source: string): string {
   const normalized = source.trim().toLowerCase();
   switch (normalized) {
     case "placeholder_prototype":
-      return "Internal prototype";
+      return "Lacca seed sample (pre-release)";
     case "hex_derived":
-      return "HEX-derived";
+      return "HEX-derived reference";
+    case "paintref":
+      return "PaintRef catalog";
     case "paintref_hex":
-      return "PaintRef HEX";
+      return "PaintRef HEX swatch";
+    case "ral_classic_hex":
+      return "RAL Classic reference";
+    case "oem_spec":
+    case "oem_spec_sheet":
+      return "OEM specification sheet";
+    case "spectro_reread":
+      return "Spectrophotometer measurement";
     case "carapi":
-      return "Car API";
+      return "CarAPI reference";
+    case "nhtsa_vpic":
+      return "NHTSA vPIC catalog";
     default:
-      return source
-        .replace(/[_-]+/g, " ")
-        .replace(/\s+/g, " ")
-        .trim()
-        .replace(/\b\w/g, (char) => char.toUpperCase());
+      return "";
   }
 }
 
 /**
- * Compose the confidence-badge tooltip. Always starts with the
- * tier-level description; appends the source name (and provenanceId
- * if present) so users can see which upstream dataset produced the LAB.
+ * Compose the confidence-badge tooltip. Starts with the tier-level
+ * description and appends a friendly "Source: …" line only when we have
+ * a human-readable label for the underlying source. Internal IDs
+ * (provenanceId, raw source keys) are intentionally omitted — they look
+ * like debug noise to end users.
  */
 function composeConfidenceTooltip(lab: OemExterior["paints"][number]["lab"]): string {
-  const parts: string[] = [confidenceTip(lab.confidence)];
+  const parts: string[] = [];
+  const tier = confidenceTip(lab.confidence);
+  if (tier) parts.push(tier);
   if (lab.source) {
-    parts.push(
-      interpolate(t("tooltip.source") ?? "Source: {source}", {
-        source: prettySourceLabel(lab.source)
-      })
-    );
+    const friendly = prettySourceLabel(lab.source);
+    if (friendly) {
+      parts.push(
+        interpolate(t("tooltip.source") ?? "Source: {source}", {
+          source: friendly
+        })
+      );
+    }
   }
-  if (lab.provenanceId) parts.push(lab.provenanceId);
   return parts.filter(Boolean).join("\n\n");
 }
 
