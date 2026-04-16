@@ -1,0 +1,687 @@
+{
+  "$schema": "../../../schemas/exterior-paints-v1.schema.json",
+  "scopeId": "ral-classic-v1",
+  "version": "1.0.0",
+  "paints": [
+    {
+      "code": "RAL 1001",
+      "marketingName": "Beige",
+      "finish": "solid",
+      "lab": {
+        "L": 72.15,
+        "a": -1.65,
+        "b": 31.05,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "ral_classic_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-16",
+        "notes": "Derived from RAL Classic reference hex #C2B078. RAL publishes official CIELAB values; replace this entry with the spec LAB and upgrade to confidence=\"spec\" when available.",
+        "provenanceId": "ral_classic:RAL1001"
+      }
+    },
+    {
+      "code": "RAL 1013",
+      "marketingName": "Oyster White",
+      "finish": "solid",
+      "lab": {
+        "L": 90.94,
+        "a": -3.29,
+        "b": 14.14,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "ral_classic_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-16",
+        "notes": "Derived from RAL Classic reference hex #EAE6CA. RAL publishes official CIELAB values; replace this entry with the spec LAB and upgrade to confidence=\"spec\" when available.",
+        "provenanceId": "ral_classic:RAL1013"
+      }
+    },
+    {
+      "code": "RAL 1014",
+      "marketingName": "Ivory",
+      "finish": "solid",
+      "lab": {
+        "L": 83.13,
+        "a": -0.91,
+        "b": 24.57,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "ral_classic_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-16",
+        "notes": "Derived from RAL Classic reference hex #DFCEA1. RAL publishes official CIELAB values; replace this entry with the spec LAB and upgrade to confidence=\"spec\" when available.",
+        "provenanceId": "ral_classic:RAL1014"
+      }
+    },
+    {
+      "code": "RAL 1015",
+      "marketingName": "Light Ivory",
+      "finish": "solid",
+      "lab": {
+        "L": 88.64,
+        "a": -1.16,
+        "b": 17.68,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "ral_classic_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-16",
+        "notes": "Derived from RAL Classic reference hex #EADEBD. RAL publishes official CIELAB values; replace this entry with the spec LAB and upgrade to confidence=\"spec\" when available.",
+        "provenanceId": "ral_classic:RAL1015"
+      }
+    },
+    {
+      "code": "RAL 1018",
+      "marketingName": "Zinc Yellow",
+      "finish": "solid",
+      "lab": {
+        "L": 79.19,
+        "a": 10.42,
+        "b": 81.47,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "ral_classic_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-16",
+        "notes": "Derived from RAL Classic reference hex #F9BA00. RAL publishes official CIELAB values; replace this entry with the spec LAB and upgrade to confidence=\"spec\" when available.",
+        "provenanceId": "ral_classic:RAL1018"
+      }
+    },
+    {
+      "code": "RAL 1023",
+      "marketingName": "Traffic Yellow",
+      "finish": "solid",
+      "lab": {
+        "L": 77.77,
+        "a": 12.18,
+        "b": 80.41,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "ral_classic_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-16",
+        "notes": "Derived from RAL Classic reference hex #F7B500. RAL publishes official CIELAB values; replace this entry with the spec LAB and upgrade to confidence=\"spec\" when available.",
+        "provenanceId": "ral_classic:RAL1023"
+      }
+    },
+    {
+      "code": "RAL 1028",
+      "marketingName": "Melon Yellow",
+      "finish": "solid",
+      "lab": {
+        "L": 72.7,
+        "a": 29.13,
+        "b": 77.5,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "ral_classic_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-16",
+        "notes": "Derived from RAL Classic reference hex #FF9B00. RAL publishes official CIELAB values; replace this entry with the spec LAB and upgrade to confidence=\"spec\" when available.",
+        "provenanceId": "ral_classic:RAL1028"
+      }
+    },
+    {
+      "code": "RAL 2004",
+      "marketingName": "Pure Orange",
+      "finish": "solid",
+      "lab": {
+        "L": 55.75,
+        "a": 64.21,
+        "b": 63.21,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "ral_classic_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-16",
+        "notes": "Derived from RAL Classic reference hex #F44611. RAL publishes official CIELAB values; replace this entry with the spec LAB and upgrade to confidence=\"spec\" when available.",
+        "provenanceId": "ral_classic:RAL2004"
+      }
+    },
+    {
+      "code": "RAL 2009",
+      "marketingName": "Traffic Orange",
+      "finish": "solid",
+      "lab": {
+        "L": 56.28,
+        "a": 50.8,
+        "b": 61.76,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "ral_classic_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-16",
+        "notes": "Derived from RAL Classic reference hex #E55B13. RAL publishes official CIELAB values; replace this entry with the spec LAB and upgrade to confidence=\"spec\" when available.",
+        "provenanceId": "ral_classic:RAL2009"
+      }
+    },
+    {
+      "code": "RAL 3000",
+      "marketingName": "Flame Red",
+      "finish": "solid",
+      "lab": {
+        "L": 39.48,
+        "a": 52.1,
+        "b": 39.96,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "ral_classic_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-16",
+        "notes": "Derived from RAL Classic reference hex #AF2B1E. RAL publishes official CIELAB values; replace this entry with the spec LAB and upgrade to confidence=\"spec\" when available.",
+        "provenanceId": "ral_classic:RAL3000"
+      }
+    },
+    {
+      "code": "RAL 3002",
+      "marketingName": "Carmine Red",
+      "finish": "solid",
+      "lab": {
+        "L": 32.84,
+        "a": 53.23,
+        "b": 32.03,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "ral_classic_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-16",
+        "notes": "Derived from RAL Classic reference hex #9B111E. RAL publishes official CIELAB values; replace this entry with the spec LAB and upgrade to confidence=\"spec\" when available.",
+        "provenanceId": "ral_classic:RAL3002"
+      }
+    },
+    {
+      "code": "RAL 3003",
+      "marketingName": "Ruby Red",
+      "finish": "solid",
+      "lab": {
+        "L": 32.84,
+        "a": 53.23,
+        "b": 32.03,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "ral_classic_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-16",
+        "notes": "Derived from RAL Classic reference hex #9B111E. RAL publishes official CIELAB values; replace this entry with the spec LAB and upgrade to confidence=\"spec\" when available.",
+        "provenanceId": "ral_classic:RAL3003"
+      }
+    },
+    {
+      "code": "RAL 3004",
+      "marketingName": "Purple Red",
+      "finish": "solid",
+      "lab": {
+        "L": 24.74,
+        "a": 34.44,
+        "b": 19.66,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "ral_classic_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-16",
+        "notes": "Derived from RAL Classic reference hex #6D1F1F. RAL publishes official CIELAB values; replace this entry with the spec LAB and upgrade to confidence=\"spec\" when available.",
+        "provenanceId": "ral_classic:RAL3004"
+      }
+    },
+    {
+      "code": "RAL 3020",
+      "marketingName": "Traffic Red",
+      "finish": "solid",
+      "lab": {
+        "L": 42.74,
+        "a": 67.17,
+        "b": 55.17,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "ral_classic_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-16",
+        "notes": "Derived from RAL Classic reference hex #CC0605. RAL publishes official CIELAB values; replace this entry with the spec LAB and upgrade to confidence=\"spec\" when available.",
+        "provenanceId": "ral_classic:RAL3020"
+      }
+    },
+    {
+      "code": "RAL 5002",
+      "marketingName": "Ultramarine Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 15.27,
+        "a": 14.9,
+        "b": -28.57,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "ral_classic_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-16",
+        "notes": "Derived from RAL Classic reference hex #20214F. RAL publishes official CIELAB values; replace this entry with the spec LAB and upgrade to confidence=\"spec\" when available.",
+        "provenanceId": "ral_classic:RAL5002"
+      }
+    },
+    {
+      "code": "RAL 5005",
+      "marketingName": "Signal Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 39.04,
+        "a": 2.96,
+        "b": -39.39,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "ral_classic_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-16",
+        "notes": "Derived from RAL Classic reference hex #1E5E9C. RAL publishes official CIELAB values; replace this entry with the spec LAB and upgrade to confidence=\"spec\" when available.",
+        "provenanceId": "ral_classic:RAL5005"
+      }
+    },
+    {
+      "code": "RAL 5010",
+      "marketingName": "Gentian Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 16.44,
+        "a": 3.6,
+        "b": -24.03,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "ral_classic_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-16",
+        "notes": "Derived from RAL Classic reference hex #0E294B. RAL publishes official CIELAB values; replace this entry with the spec LAB and upgrade to confidence=\"spec\" when available.",
+        "provenanceId": "ral_classic:RAL5010"
+      }
+    },
+    {
+      "code": "RAL 5013",
+      "marketingName": "Cobalt Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 20.53,
+        "a": -0.75,
+        "b": -16.85,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "ral_classic_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-16",
+        "notes": "Derived from RAL Classic reference hex #1D334A. RAL publishes official CIELAB values; replace this entry with the spec LAB and upgrade to confidence=\"spec\" when available.",
+        "provenanceId": "ral_classic:RAL5013"
+      }
+    },
+    {
+      "code": "RAL 5015",
+      "marketingName": "Sky Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 46.57,
+        "a": -5.63,
+        "b": -33.38,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "ral_classic_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-16",
+        "notes": "Derived from RAL Classic reference hex #2874A6. RAL publishes official CIELAB values; replace this entry with the spec LAB and upgrade to confidence=\"spec\" when available.",
+        "provenanceId": "ral_classic:RAL5015"
+      }
+    },
+    {
+      "code": "RAL 5017",
+      "marketingName": "Traffic Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 24.18,
+        "a": 7.92,
+        "b": -36.66,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "ral_classic_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-16",
+        "notes": "Derived from RAL Classic reference hex #063971. RAL publishes official CIELAB values; replace this entry with the spec LAB and upgrade to confidence=\"spec\" when available.",
+        "provenanceId": "ral_classic:RAL5017"
+      }
+    },
+    {
+      "code": "RAL 6002",
+      "marketingName": "Leaf Green",
+      "finish": "solid",
+      "lab": {
+        "L": 30.29,
+        "a": -24.22,
+        "b": 29.15,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "ral_classic_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-16",
+        "notes": "Derived from RAL Classic reference hex #2D5016. RAL publishes official CIELAB values; replace this entry with the spec LAB and upgrade to confidence=\"spec\" when available.",
+        "provenanceId": "ral_classic:RAL6002"
+      }
+    },
+    {
+      "code": "RAL 6005",
+      "marketingName": "Moss Green",
+      "finish": "solid",
+      "lab": {
+        "L": 24.47,
+        "a": -20.84,
+        "b": 5.04,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "ral_classic_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-16",
+        "notes": "Derived from RAL Classic reference hex #114232. RAL publishes official CIELAB values; replace this entry with the spec LAB and upgrade to confidence=\"spec\" when available.",
+        "provenanceId": "ral_classic:RAL6005"
+      }
+    },
+    {
+      "code": "RAL 6018",
+      "marketingName": "Yellow Green",
+      "finish": "solid",
+      "lab": {
+        "L": 61.3,
+        "a": -44.45,
+        "b": 47.41,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "ral_classic_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-16",
+        "notes": "Derived from RAL Classic reference hex #57A639. RAL publishes official CIELAB values; replace this entry with the spec LAB and upgrade to confidence=\"spec\" when available.",
+        "provenanceId": "ral_classic:RAL6018"
+      }
+    },
+    {
+      "code": "RAL 7001",
+      "marketingName": "Silver Grey",
+      "finish": "solid",
+      "lab": {
+        "L": 62.61,
+        "a": -2.34,
+        "b": -4.37,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "ral_classic_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-16",
+        "notes": "Derived from RAL Classic reference hex #8F999F. RAL publishes official CIELAB values; replace this entry with the spec LAB and upgrade to confidence=\"spec\" when available.",
+        "provenanceId": "ral_classic:RAL7001"
+      }
+    },
+    {
+      "code": "RAL 7016",
+      "marketingName": "Anthracite Grey",
+      "finish": "solid",
+      "lab": {
+        "L": 19.67,
+        "a": -2.89,
+        "b": -2.43,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "ral_classic_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-16",
+        "notes": "Derived from RAL Classic reference hex #293133. RAL publishes official CIELAB values; replace this entry with the spec LAB and upgrade to confidence=\"spec\" when available.",
+        "provenanceId": "ral_classic:RAL7016"
+      }
+    },
+    {
+      "code": "RAL 7035",
+      "marketingName": "Light Grey",
+      "finish": "solid",
+      "lab": {
+        "L": 80.01,
+        "a": -1.24,
+        "b": 1.26,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "ral_classic_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-16",
+        "notes": "Derived from RAL Classic reference hex #C5C7C4. RAL publishes official CIELAB values; replace this entry with the spec LAB and upgrade to confidence=\"spec\" when available.",
+        "provenanceId": "ral_classic:RAL7035"
+      }
+    },
+    {
+      "code": "RAL 7037",
+      "marketingName": "Dusty Grey",
+      "finish": "solid",
+      "lab": {
+        "L": 52.97,
+        "a": -1.15,
+        "b": 0.82,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "ral_classic_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-16",
+        "notes": "Derived from RAL Classic reference hex #7D7F7D. RAL publishes official CIELAB values; replace this entry with the spec LAB and upgrade to confidence=\"spec\" when available.",
+        "provenanceId": "ral_classic:RAL7037"
+      }
+    },
+    {
+      "code": "RAL 7042",
+      "marketingName": "Traffic Grey A",
+      "finish": "solid",
+      "lab": {
+        "L": 61.5,
+        "a": -2.72,
+        "b": -0.35,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "ral_classic_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-16",
+        "notes": "Derived from RAL Classic reference hex #8F9695. RAL publishes official CIELAB values; replace this entry with the spec LAB and upgrade to confidence=\"spec\" when available.",
+        "provenanceId": "ral_classic:RAL7042"
+      }
+    },
+    {
+      "code": "RAL 7043",
+      "marketingName": "Traffic Grey B",
+      "finish": "solid",
+      "lab": {
+        "L": 35.14,
+        "a": -2.83,
+        "b": 0.34,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "ral_classic_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-16",
+        "notes": "Derived from RAL Classic reference hex #4E5452. RAL publishes official CIELAB values; replace this entry with the spec LAB and upgrade to confidence=\"spec\" when available.",
+        "provenanceId": "ral_classic:RAL7043"
+      }
+    },
+    {
+      "code": "RAL 8017",
+      "marketingName": "Chocolate Brown",
+      "finish": "solid",
+      "lab": {
+        "L": 21.66,
+        "a": 8.65,
+        "b": 7.65,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "ral_classic_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-16",
+        "notes": "Derived from RAL Classic reference hex #442F29. RAL publishes official CIELAB values; replace this entry with the spec LAB and upgrade to confidence=\"spec\" when available.",
+        "provenanceId": "ral_classic:RAL8017"
+      }
+    },
+    {
+      "code": "RAL 8019",
+      "marketingName": "Grey Brown",
+      "finish": "solid",
+      "lab": {
+        "L": 23.3,
+        "a": 2.87,
+        "b": 1.75,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "ral_classic_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-16",
+        "notes": "Derived from RAL Classic reference hex #3D3635. RAL publishes official CIELAB values; replace this entry with the spec LAB and upgrade to confidence=\"spec\" when available.",
+        "provenanceId": "ral_classic:RAL8019"
+      }
+    },
+    {
+      "code": "RAL 9001",
+      "marketingName": "Cream",
+      "finish": "solid",
+      "lab": {
+        "L": 96.46,
+        "a": 0.2,
+        "b": 9.26,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "ral_classic_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-16",
+        "notes": "Derived from RAL Classic reference hex #FDF4E3. RAL publishes official CIELAB values; replace this entry with the spec LAB and upgrade to confidence=\"spec\" when available.",
+        "provenanceId": "ral_classic:RAL9001"
+      }
+    },
+    {
+      "code": "RAL 9002",
+      "marketingName": "Grey White",
+      "finish": "solid",
+      "lab": {
+        "L": 92.34,
+        "a": -4.29,
+        "b": 7.78,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "ral_classic_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-16",
+        "notes": "Derived from RAL Classic reference hex #E7EBDA. RAL publishes official CIELAB values; replace this entry with the spec LAB and upgrade to confidence=\"spec\" when available.",
+        "provenanceId": "ral_classic:RAL9002"
+      }
+    },
+    {
+      "code": "RAL 9003",
+      "marketingName": "Signal White",
+      "finish": "solid",
+      "lab": {
+        "L": 96.19,
+        "a": 0,
+        "b": 0,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "ral_classic_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-16",
+        "notes": "Derived from RAL Classic reference hex #F4F4F4. RAL publishes official CIELAB values; replace this entry with the spec LAB and upgrade to confidence=\"spec\" when available.",
+        "provenanceId": "ral_classic:RAL9003"
+      }
+    },
+    {
+      "code": "RAL 9005",
+      "marketingName": "Jet Black",
+      "finish": "solid",
+      "lab": {
+        "L": 2.74,
+        "a": 0,
+        "b": 0,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "ral_classic_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-16",
+        "notes": "Derived from RAL Classic reference hex #0A0A0A. RAL publishes official CIELAB values; replace this entry with the spec LAB and upgrade to confidence=\"spec\" when available.",
+        "provenanceId": "ral_classic:RAL9005"
+      }
+    },
+    {
+      "code": "RAL 9006",
+      "marketingName": "White Aluminium",
+      "finish": "solid",
+      "lab": {
+        "L": 67.74,
+        "a": 0,
+        "b": 0,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "ral_classic_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-16",
+        "notes": "Derived from RAL Classic reference hex #A5A5A5. RAL publishes official CIELAB values; replace this entry with the spec LAB and upgrade to confidence=\"spec\" when available.",
+        "provenanceId": "ral_classic:RAL9006"
+      }
+    },
+    {
+      "code": "RAL 9007",
+      "marketingName": "Grey Aluminium",
+      "finish": "metallic",
+      "lab": {
+        "L": 59.4,
+        "a": 0,
+        "b": 0,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "ral_classic_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-16",
+        "notes": "Derived from RAL Classic reference hex #8F8F8F. RAL publishes official CIELAB values; replace this entry with the spec LAB and upgrade to confidence=\"spec\" when available.",
+        "provenanceId": "ral_classic:RAL9007"
+      }
+    },
+    {
+      "code": "RAL 9010",
+      "marketingName": "Pure White",
+      "finish": "solid",
+      "lab": {
+        "L": 100,
+        "a": 0,
+        "b": 0,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "ral_classic_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-16",
+        "notes": "Derived from RAL Classic reference hex #FFFFFF. RAL publishes official CIELAB values; replace this entry with the spec LAB and upgrade to confidence=\"spec\" when available.",
+        "provenanceId": "ral_classic:RAL9010"
+      }
+    },
+    {
+      "code": "RAL 9016",
+      "marketingName": "Traffic White",
+      "finish": "solid",
+      "lab": {
+        "L": 96.88,
+        "a": 0,
+        "b": 0,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "ral_classic_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-16",
+        "notes": "Derived from RAL Classic reference hex #F6F6F6. RAL publishes official CIELAB values; replace this entry with the spec LAB and upgrade to confidence=\"spec\" when available.",
+        "provenanceId": "ral_classic:RAL9016"
+      }
+    },
+    {
+      "code": "RAL 9017",
+      "marketingName": "Traffic Black",
+      "finish": "solid",
+      "lab": {
+        "L": 11.26,
+        "a": 0,
+        "b": 0,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "ral_classic_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-16",
+        "notes": "Derived from RAL Classic reference hex #1E1E1E. RAL publishes official CIELAB values; replace this entry with the spec LAB and upgrade to confidence=\"spec\" when available.",
+        "provenanceId": "ral_classic:RAL9017"
+      }
+    }
+  ]
+}

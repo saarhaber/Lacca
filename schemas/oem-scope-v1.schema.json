@@ -21,7 +21,13 @@
     "models": {
       "type": "array",
       "items": { "type": "string" },
-      "minItems": 1
+      "minItems": 0,
+      "description": "Models this scope applies to. May be empty for raw-source scopes (e.g. per-OEM PaintRef dumps) that feed a merger but do not surface in the UI."
+    },
+    "supersedes": {
+      "type": "array",
+      "items": { "type": "string" },
+      "description": "Other scopeIds whose data this scope replaces. UI and downstream consumers should hide any scope listed here when this scope is present."
     },
     "notes": { "type": "string" },
     "exteriorPaintFile": { "type": "string" }

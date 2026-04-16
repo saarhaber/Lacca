@@ -26,6 +26,8 @@ export type ScopeMeta = {
   from: number;
   to: number;
   models: string[];
+  /** Other scopeIds this scope supersedes (hidden by downstream consumers). */
+  supersedes?: string[];
   notes: string;
   exteriorPaintFile?: string;
 };
@@ -100,6 +102,9 @@ export function buildScopeFile(meta: ScopeMeta) {
     ...(meta.region ? { region: meta.region } : {}),
     modelYears: { from: meta.from, to: meta.to },
     models: meta.models,
+    ...(meta.supersedes && meta.supersedes.length
+      ? { supersedes: meta.supersedes }
+      : {}),
     notes: meta.notes,
     exteriorPaintFile: meta.exteriorPaintFile ?? "./exterior-paints-v1.json"
   };

@@ -15,11 +15,8 @@
  * Output LAB confidence: "derived" (RGB → sRGB → LAB via srgbToLabD65).
  * Upgrade individual rows to "spec" or "measured" manually if better data becomes available.
  *
- * After a successful run, register the new scope in src/pipeline/validateData.ts:
- *   { schemaId: "https://lacca.local/schemas/exterior-paints-v1.schema.json",
- *     dataPath: "data/oem/<scope-id>/exterior-paints-v1.json" },
- *   { schemaId: "https://lacca.local/schemas/oem-scope-v1.schema.json",
- *     dataPath: "data/oem/<scope-id>/oem-scope.json" },
+ * Validation auto-discovers every `data/oem/<scope-id>/` folder, so no manual
+ * registration in `src/pipeline/validateData.ts` is required.
  */
 
 import { dirname, join } from "node:path";
@@ -233,14 +230,7 @@ async function main() {
     writeScope(scopeDir, meta, seeds, RECORDED_AT);
   }
 
-  console.log(`
-Done. To register in the validation pipeline, add to src/pipeline/validateData.ts:
-
-  { schemaId: "https://lacca.local/schemas/exterior-paints-v1.schema.json",
-    dataPath: "data/oem/${SCOPE_ID}/exterior-paints-v1.json" },
-  { schemaId: "https://lacca.local/schemas/oem-scope-v1.schema.json",
-    dataPath: "data/oem/${SCOPE_ID}/oem-scope.json" },
-`);
+  console.log(`\nDone. Validation auto-discovers data/oem/${SCOPE_ID}/ — no further wiring needed.`);
 }
 
 main().catch((err) => {

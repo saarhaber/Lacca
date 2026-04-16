@@ -2,15 +2,21 @@ import "./style.css";
 import catalogPointer from "../../data/pipeline/catalog-pointer.json";
 import type { MatchTier } from "../../src/color/deltaE.js";
 import type { DeltaEVersion, OpiCatalogFile } from "../../src/pipeline/opiTypes.js";
-import { labGamutReport } from "../../src/color/gamut.js";
+import { labGamutReport, labToLinearSrgbD65 } from "../../src/color/gamut.js";
 import { rankOpiMatches, type RankedOpi } from "./match";
 import { GENERIC_PAINTS, isGenericPaintCode } from "./genericPaints";
-import { t, applyTranslations, interpolate } from "./i18n/index";
+import { t, applyTranslations, interpolate, setLocale, getLocale, onLocaleChange, LOCALE_LABELS } from "./i18n/index";
+import { SUPPORTED_LOCALES, type Locale } from "./i18n/translations";
 
 type ExteriorPaint = OemExterior["paints"][number];
 type SupportedVehicle = { make: string; model: string; paints: ExteriorPaint[] };
 
-type OemScope = { scopeId: string; oem: string; models: string[] };
+type OemScope = {
+  scopeId: string;
+  oem: string;
+  models: string[];
+  supersedes?: string[];
+};
 type OemExterior = {
   scopeId: string;
   paints: Array<{
@@ -24,7 +30,7 @@ type OemExterior = {
       illuminant: string;
       observer: string;
       source: string;
-      confidence: "measured" | "reread" | "derived" | "estimated";
+      confidence: "measured" | "spec" | "derived" | "estimated";
       recordedAt: string;
       notes?: string;
       provenanceId?: string;
@@ -75,7 +81,16 @@ const OEM_EXTERIORS = import.meta.glob<OemExterior>(
 
 const supportedVehicles: SupportedVehicle[] = (() => {
   const out: SupportedVehicle[] = [];
-  for (const [scopePath, scope] of Object.entries(OEM_SCOPES)) {
+  const scopes = Object.entries(OEM_SCOPES);
+
+  const superseded = new Set<string>();
+  for (const [, scope] of scopes) {
+    for (const id of scope.supersedes ?? []) superseded.add(id);
+  }
+
+  for (const [scopePath, scope] of scopes) {
+    if (superseded.has(scope.scopeId)) continue;
+    if (!scope.models || scope.models.length === 0) continue;
     const extPath = scopePath.replace("oem-scope.json", "exterior-paints-v1.json");
     const exterior = OEM_EXTERIORS[extPath];
     if (!exterior) continue;
@@ -138,6 +153,133 @@ async function fetchModels(make: string): Promise<string[]> {
 }
 
 // ------------------------------------------------------------------
+// VIN decoding. NHTSA vPIC DecodeVinValues returns a single flat row
+// with Make / Model / ModelYear. The VIN itself does NOT encode
+// exterior color, so we only auto-fill make/model/year and still
+// require the user to pick a paint below.
+// ------------------------------------------------------------------
+const VPIC_DECODE = (vin: string) =>
+  `https://vpic.nhtsa.dot.gov/api/vehicles/DecodeVinValues/${encodeURIComponent(
+    vin
+  )}?format=json`;
+
+type VpicDecodeRow = {
+  Make?: string;
+  Model?: string;
+  ModelYear?: string;
+  ErrorCode?: string;
+  ErrorText?: string;
+};
+
+type DecodedVin = { make: string; model: string; year: string };
+
+/**
+ * Strict VIN validator. Modern VINs are 17 ASCII chars, letters I/O/Q
+ * are disallowed to avoid confusion with 1/0. We skip the check-digit
+ * calc (position 9) because pre-1981 and some imports legitimately fail
+ * it — vPIC will still decode what it can.
+ */
+function isPlausibleVin(vin: string): boolean {
+  return /^[A-HJ-NPR-Z0-9]{17}$/.test(vin);
+}
+
+async function decodeVin(vin: string): Promise<DecodedVin | null> {
+  try {
+    const res = await fetch(VPIC_DECODE(vin));
+    if (!res.ok) return null;
+    const json = (await res.json()) as { Results?: VpicDecodeRow[] };
+    const row = json.Results?.[0];
+    if (!row) return null;
+    const make = (row.Make ?? "").trim();
+    const model = (row.Model ?? "").trim();
+    if (!make || !model) return null;
+    return { make, model, year: (row.ModelYear ?? "").trim() };
+  } catch {
+    return null;
+  }
+}
+
+/**
+ * Find an <option> whose value matches (case-insensitive) and select it.
+ * If not found, append a new option into an "auto-added from VIN" group
+ * so the select can hold the value we just decoded.
+ */
+function selectOrInject(sel: HTMLSelectElement, value: string): void {
+  const wanted = value.toLowerCase();
+  for (const opt of Array.from(sel.options)) {
+    if (opt.value.toLowerCase() === wanted) {
+      sel.value = opt.value;
+      return;
+    }
+  }
+  let group = sel.querySelector<HTMLOptGroupElement>('optgroup[data-source="vin"]');
+  if (!group) {
+    group = document.createElement("optgroup");
+    group.label = t("optgroup.fromVin");
+    group.dataset.source = "vin";
+    sel.appendChild(group);
+  }
+  const opt = document.createElement("option");
+  opt.value = value;
+  opt.textContent = value;
+  group.appendChild(opt);
+  sel.value = value;
+}
+
+function showVinFeedback(
+  message: string,
+  tone: "info" | "success" | "error"
+): void {
+  vinFeedback.hidden = false;
+  vinFeedback.className = `vin-feedback vin-feedback-${tone}`;
+  vinFeedback.textContent = message;
+}
+
+async function handleVinDecode(): Promise<void> {
+  const raw = vinInput.value.trim().toUpperCase();
+  vinInput.value = raw;
+  if (!raw) {
+    vinFeedback.hidden = true;
+    return;
+  }
+  if (!isPlausibleVin(raw)) {
+    showVinFeedback(t("form.vin.invalid"), "error");
+    return;
+  }
+
+  vinDecodeBtn.disabled = true;
+  const originalLabel = vinDecodeBtn.textContent;
+  vinDecodeBtn.textContent = t("form.vin.decoding");
+  showVinFeedback(t("form.vin.decoding"), "info");
+
+  try {
+    const decoded = await decodeVin(raw);
+    if (!decoded) {
+      showVinFeedback(t("form.vin.notFound"), "error");
+      return;
+    }
+
+    results.hidden = true;
+    selectOrInject(makeSelect, decoded.make);
+    await loadModelsFor(decoded.make);
+    selectOrInject(modelSelect, decoded.model);
+    loadPaintsFor(decoded.make, decoded.model);
+
+    showVinFeedback(
+      interpolate(t("form.vin.success"), {
+        year: decoded.year || "—",
+        make: decoded.make,
+        model: decoded.model
+      }),
+      "success"
+    );
+  } finally {
+    vinDecodeBtn.disabled = false;
+    if (originalLabel !== null) vinDecodeBtn.textContent = originalLabel;
+  }
+}
+
+// ------------------------------------------------------------------
 // DOM
 // ------------------------------------------------------------------
 const makeSelect = document.querySelector<HTMLSelectElement>("#make")!;
@@ -146,6 +288,9 @@ const paintSelect = document.querySelector<HTMLSelectElement>("#paint")!;
 const form = document.querySelector<HTMLFormElement>("#match-form")!;
 const submitBtn = document.querySelector<HTMLButtonElement>("#submit-btn")!;
 const availability = document.querySelector<HTMLElement>("#availability")!;
+const vinInput = document.querySelector<HTMLInputElement>("#vin")!;
+const vinDecodeBtn = document.querySelector<HTMLButtonElement>("#vin-decode")!;
+const vinFeedback = document.querySelector<HTMLElement>("#vin-feedback")!;
 const results = document.querySelector<HTMLElement>("#results")!;
 const carSummary = document.querySelector<HTMLElement>("#car-summary")!;
 const matchList = document.querySelector<HTMLOListElement>("#match-list")!;
@@ -153,6 +298,23 @@ const catalogMeta = document.querySelector<HTMLElement>("#catalog-meta")!;
 const picksSublabel = document.querySelector<HTMLElement>("#picks-sublabel")!;
 const finishDisclaimer = document.querySelector<HTMLElement>("#finish-disclaimer")!;
 const distantBanner = document.querySelector<HTMLElement>("#distant-banner")!;
+const localePicker = document.querySelector<HTMLSelectElement>("#locale-picker")!;
+
+// Populate the language picker
+for (const loc of SUPPORTED_LOCALES) {
+  const opt = document.createElement("option");
+  opt.value = loc;
+  opt.textContent = LOCALE_LABELS[loc];
+  localePicker.appendChild(opt);
+}
+localePicker.value = getLocale();
+localePicker.addEventListener("change", () => {
+  setLocale(localePicker.value as Locale);
+});
+onLocaleChange(() => {
+  localePicker.value = getLocale();
+  void initMakes();
+});
 
 applyTranslations(document);
 
@@ -325,7 +487,21 @@ function selectedPaint(): ExteriorPaint | undefined {
 }
 
 function labCss(lab: { L: number; a: number; b: number }): string {
-  return `lab(${lab.L} ${lab.a} ${lab.b})`;
+  // Our pipeline stores CIELAB under D65/2deg. CSS `lab()` is D50-based, so
+  // render via our explicit LAB(D65) -> linear sRGB transform to keep swatches
+  // visually aligned with matching math and seeded data.
+  const { r, g, b } = labToLinearSrgbD65(lab);
+  const sr = linearToSrgb8(r);
+  const sg = linearToSrgb8(g);
+  const sb = linearToSrgb8(b);
+  return `rgb(${sr} ${sg} ${sb})`;
+}
+
+function linearToSrgb8(c: number): number {
+  const clamped = Math.min(1, Math.max(0, c));
+  const encoded =
+    clamped <= 0.0031308 ? 12.92 * clamped : 1.055 * Math.pow(clamped, 1 / 2.4) - 0.055;
+  return Math.round(encoded * 255);
 }
 
 function tierCopy(tier: MatchTier): string {
@@ -356,6 +532,22 @@ function confidenceTip(c: string): string {
     default:
       return "";
   }
+}
+
+/**
+ * Compose the confidence-badge tooltip. Always starts with the
+ * tier-level description; appends the source name (and provenanceId
+ * if present) so users can see which upstream dataset produced the LAB.
+ */
+function composeConfidenceTooltip(lab: OemExterior["paints"][number]["lab"]): string {
+  const parts: string[] = [confidenceTip(lab.confidence)];
+  if (lab.source) {
+    parts.push(
+      interpolate(t("tooltip.source") ?? "Source: {source}", { source: lab.source })
+    );
+  }
+  if (lab.provenanceId) parts.push(lab.provenanceId);
+  return parts.filter(Boolean).join("\n\n");
 }
 
 function confidenceBadgeText(c: string): string {
@@ -458,7 +650,7 @@ function render() {
   const confBadge = document.createElement("span");
   confBadge.className = `conf conf-${conf}`;
   confBadge.textContent = confidenceBadgeText(conf);
-  confBadge.title = confidenceTip(conf);
+  confBadge.title = composeConfidenceTooltip(paint.lab);
 
   details.append(meta, document.createTextNode(" · "), confBadge);
 
@@ -544,6 +736,19 @@ function render() {
 form.addEventListener("submit", (e) => {
   e.preventDefault();
   render();
+});
+
+vinDecodeBtn.addEventListener("click", () => {
+  void handleVinDecode();
+});
+
+vinInput.addEventListener("keydown", (e) => {
+  if (e.key === "Enter") {
+    // Avoid submitting the match form while the user is still typing the VIN;
+    // pressing Enter in the VIN field should trigger decoding instead.
+    e.preventDefault();
+    void handleVinDecode();
+  }
 });
 
 makeSelect.addEventListener("change", () => {

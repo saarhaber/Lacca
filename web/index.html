@@ -8,6 +8,9 @@
       content="Match your car's exterior paint to OPI nail polish colors using ΔE color science."
     />
     <title>Lacca — Car paint to nail color</title>
+    <link rel="icon" href="/brand/favicon.ico" sizes="any" />
+    <link rel="icon" type="image/png" sizes="32x32" href="/brand/favicon-32.png" />
+    <link rel="icon" type="image/png" sizes="16x16" href="/brand/favicon-16.png" />
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link
@@ -18,7 +21,20 @@
   <body>
     <div class="page">
       <header class="hero">
-        <p class="eyebrow" data-i18n="hero.eyebrow">Lacca</p>
+        <div class="top-bar">
+          <p class="eyebrow">
+            <img
+              class="eyebrow-mark"
+              src="/brand/logo-mark.png"
+              alt=""
+              width="32"
+              height="32"
+              decoding="async"
+            />
+            <span data-i18n="hero.eyebrow">Lacca</span>
+          </p>
+          <select id="locale-picker" class="locale-picker" aria-label="Language"></select>
+        </div>
         <h1 data-i18n="hero.title">The perfect match for your drive — on your nails</h1>
         <p class="lede" data-i18n-html="hero.lede">
           Pick your car's make, model and factory color. Lacca ranks
@@ -31,6 +47,39 @@
 
       <main class="panel">
         <form class="form" id="match-form" autocomplete="on">
+          <div class="field">
+            <div class="label-row">
+              <label for="vin" data-i18n="form.vin.label">VIN (optional)</label>
+              <button
+                type="button"
+                class="info"
+                data-tip="Paste the 17-character VIN from your dashboard, door jamb or registration. Lacca decodes it via NHTSA vPIC to auto-fill Make, Model and year. VIN does not encode exterior color — still pick your paint below."
+                data-i18n="form.make.tip"
+                data-i18n-tip="form.vin.tipText"
+                data-i18n-label="form.vin.tipLabel"
+                aria-label="About the VIN field"
+              >
+                what is this?
+              </button>
+            </div>
+            <div class="vin-row">
+              <input
+                id="vin"
+                name="vin"
+                type="text"
+                inputmode="latin"
+                autocomplete="off"
+                spellcheck="false"
+                maxlength="17"
+                placeholder="17-character VIN"
+              />
+              <button type="button" class="secondary" id="vin-decode" data-i18n="form.vin.decode">
+                Decode
+              </button>
+            </div>
+            <p class="vin-feedback" id="vin-feedback" hidden></p>
+          </div>
+
           <div class="field">
             <div class="label-row">
               <label for="make" data-i18n="form.make.label">Make</label>
@@ -102,7 +151,7 @@
           <p class="catalog-meta" id="catalog-meta"></p>
           <p class="tier-legend" data-i18n-html="results.tierLegend">
             <strong>
-              <abbr title="ΔE (CIEDE2000) — perceptually uniform color distance. Threshold copy is shared with CIE76 in this prototype.">ΔE</abbr>
+              <abbr title="ΔE (CIEDE2000) — perceptually uniform color distance.">ΔE</abbr>
               tiers
             </strong>
             · Excellent &lt;1 (imperceptible) · Close 1–2 · Explore 2–4 (noticeable) · Distant 4+
@@ -167,15 +216,12 @@
 
       <footer class="foot">
         <p data-i18n-html="footer.text">
-          <strong>Prototype data.</strong> The make/model list is pulled live from the free
+          The make/model list is pulled live from the free
           <a href="https://vpic.nhtsa.dot.gov/api/" target="_blank" rel="noopener">NHTSA vPIC</a>
           vehicle database. Named paint coverage: <strong>Tesla Model 3 / Model Y</strong> and
-          <strong>BMW X-line (X1–X7, iX, XM)</strong> for North America, 2020–2026. BMW LAB values
-          are derived from industry HEX references; Tesla values are placeholders. Every other
+          <strong>BMW X-line (X1–X7, iX, XM)</strong> for North America, 2020–2026. Every other
           make/model falls back to a <strong>generic hex-derived palette</strong> so matching is
           universal but approximate outside the named OEMs — look for the <em>generic</em> badge.
-          All values should be replaced with spectro or licensed data before any production
-          claim. Match tiers follow <code>docs/GROUND_TRUTH.md</code>.
         </p>
       </footer>
     </div>

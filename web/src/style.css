@@ -35,13 +35,50 @@ body {
   margin-bottom: 2rem;
 }
 
+.top-bar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 0.75rem;
+}
+
 .eyebrow {
+  display: flex;
+  align-items: center;
+  gap: 0.55rem;
   font-size: 0.75rem;
   letter-spacing: 0.28em;
   text-transform: uppercase;
   color: var(--accent);
   font-weight: 600;
-  margin: 0 0 0.75rem;
+  margin: 0;
+}
+
+.locale-picker {
+  font: inherit;
+  font-size: 0.78rem;
+  font-weight: 500;
+  padding: 0.3rem 0.5rem;
+  border-radius: 8px;
+  border: 1px solid var(--border);
+  background: var(--surface);
+  color: var(--muted);
+  cursor: pointer;
+  transition: border-color 0.12s ease, color 0.12s ease;
+}
+
+.locale-picker:hover,
+.locale-picker:focus-visible {
+  outline: none;
+  border-color: var(--accent);
+  color: var(--ink);
+}
+
+.eyebrow-mark {
+  flex-shrink: 0;
+  width: 1.65rem;
+  height: 1.65rem;
+  object-fit: contain;
 }
 
 h1 {
@@ -162,6 +199,79 @@ select:disabled {
   background: #f5efe8;
   color: var(--muted);
   cursor: not-allowed;
+}
+
+input[type="text"] {
+  font: inherit;
+  padding: 0.65rem 0.75rem;
+  border-radius: var(--radius);
+  border: 1px solid var(--border);
+  background: #fff;
+  color: var(--ink);
+  width: 100%;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+}
+
+input[type="text"]::placeholder {
+  color: var(--muted);
+  text-transform: none;
+  letter-spacing: 0;
+}
+
+input[type="text"]:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: 1px;
+}
+
+.vin-row {
+  display: flex;
+  gap: 0.5rem;
+  align-items: stretch;
+}
+
+.vin-row input[type="text"] {
+  flex: 1;
+  min-width: 0;
+}
+
+.secondary {
+  font: inherit;
+  font-weight: 600;
+  cursor: pointer;
+  border: 1px solid var(--border);
+  background: #fff;
+  color: var(--ink);
+  border-radius: var(--radius);
+  padding: 0 1rem;
+  white-space: nowrap;
+  transition: border-color 0.12s ease, color 0.12s ease;
+}
+
+.secondary:hover:not(:disabled),
+.secondary:focus-visible {
+  outline: none;
+  border-color: var(--accent);
+  color: var(--accent);
+}
+
+.secondary:disabled {
+  opacity: 0.55;
+  cursor: not-allowed;
+}
+
+.vin-feedback {
+  margin: 0.15rem 0 0;
+  font-size: 0.8rem;
+  color: var(--muted);
+}
+
+.vin-feedback-success {
+  color: #2f6d3c;
+}
+
+.vin-feedback-error {
+  color: var(--accent);
 }
 
 .note {

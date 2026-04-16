@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../schemas/oem-scope-v1.schema.json",
+  "scopeId": "ral-classic-v1",
+  "oem": "RAL",
+  "modelYears": {
+    "from": 1927,
+    "to": 2026
+  },
+  "models": [],
+  "notes": "RAL Classic color standard. Reference palette for commercial/fleet vehicles and RAL-option factory paints. Hex-derived today; swap per-color LAB from the RAL spec sheet to upgrade to spec/measured confidence. Not displayed in the vehicle picker (models: []); used as an input to merge-oem-scopes for makes with RAL options.",
+  "exteriorPaintFile": "./exterior-paints-v1.json"
+}

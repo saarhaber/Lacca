@@ -12,27 +12,31 @@
  *
  * Flexible column detection (case-insensitive, first match wins):
  *
- *   Paint code  : "code", "paint_code", "paint code", "colour_code", "color_code"
- *   Color name  : "name", "color", "colour", "color_name", "colour_name", "marketing_name"
- *   Finish      : "finish", "type", "paint_type"
- *   Hex         : "hex", "hex_code", "hex_color", "colour_hex", "color_hex", "#hex"
- *   R / G / B   : "r", "red" / "g", "green" / "b", "blue"
- *   Make        : "make", "manufacturer", "brand", "oem"
- *   Model       : "model", "model_name", "vehicle"
- *   Year        : "year", "model_year", "year_from"
+ *   Paint code   : "code", "paint_code", "paint code", "colour_code", "color_code"
+ *   Color name   : "name", "color", "colour", "color_name", "colour_name", "marketing_name"
+ *   Finish       : "finish", "type", "paint_type"
+ *   Hex          : "hex", "hex_code", "hex_color", "colour_hex", "color_hex", "#hex"
+ *   R / G / B    : "r", "red" / "g", "green" / "b", "blue"
+ *   CIELAB L/a/b : "lab_L", "l*", "cie_l" / "lab_a", "a*" / "lab_b", "b*"
+ *   Make         : "make", "manufacturer", "brand", "oem"
+ *   Model        : "model", "model_name", "vehicle"
+ *   Year         : "year", "model_year", "year_from"
+ *
+ * Confidence:
+ *   - Rows with all three CIELAB columns → confidence: "spec" (no hex path).
+ *   - Rows with hex or RGB only          → confidence: "derived".
+ *
+ * Use the LAB columns to import authoritative refinish data (R-M, Glasurit,
+ * PPG, Axalta, manufacturer spec sheets) without downgrading to a hex
+ * round-trip.
  *
  * Grouping:
  *   If the CSV has make+model columns each unique make+model combination becomes
  *   its own scope under data/oem/<scope-id>-<make>-<model>/.
  *   Otherwise all rows go into a single scope at data/oem/<scope-id>/.
  *
- * Output LAB confidence: "derived" (hex/RGB → sRGB → LAB).
- *
- * After a successful run, register each new scope in src/pipeline/validateData.ts:
- *   { schemaId: "https://lacca.local/schemas/exterior-paints-v1.schema.json",
- *     dataPath: "data/oem/<scope-id>/exterior-paints-v1.json" },
- *   { schemaId: "https://lacca.local/schemas/oem-scope-v1.schema.json",
- *     dataPath: "data/oem/<scope-id>/oem-scope.json" },
+ * Validation auto-discovers every `data/oem/<scope-id>/` folder, so no manual
+ * registration in `src/pipeline/validateData.ts` is required.
  */
 
 import { createReadStream } from "node:fs";
@@ -91,6 +95,13 @@ const COL_CANDIDATES: Record<string, string[]> = {
   r: ["r", "red", "r_value"],
   g: ["g", "green", "g_value"],
   b: ["b", "blue", "b_value"],
+  // Direct CIELAB components. When present, the importer upgrades the
+  // confidence to "spec" (pull-in from an authoritative refinish database
+  // such as R-M / Glasurit / PPG / Axalta). Aliases use explicit prefixes
+  // so they don't collide with RGB "b"/"g".
+  lab_L: ["lab_l", "l*", "cie_l", "ciel", "lstar", "l_value"],
+  lab_a: ["lab_a", "a*", "cie_a", "ciea", "astar", "a_value"],
+  lab_b: ["lab_b", "b*", "cie_b", "cieb", "bstar", "b_lab"],
   make: ["make", "manufacturer", "brand", "oem", "make_name"],
   model: ["model", "model_name", "vehicle", "car_model"],
   year: ["year", "model_year", "year_from", "yr"]
@@ -150,6 +161,10 @@ type RawRow = {
   r?: number;
   g?: number;
   b?: number;
+  /** Optional direct CIELAB components (D65/2°). When present, take precedence over hex/RGB. */
+  lab_L?: number;
+  lab_a?: number;
+  lab_b?: number;
   make?: string;
   model?: string;
   year?: number;
@@ -232,6 +247,9 @@ async function readCsv(path: string): Promise<RawRow[]> {
       const rVal = parseFloat(get("r") ?? "");
       const gVal = parseFloat(get("g") ?? "");
       const bVal = parseFloat(get("b") ?? "");
+      const lVal = parseFloat(get("lab_L") ?? "");
+      const aVal = parseFloat(get("lab_a") ?? "");
+      const bLabVal = parseFloat(get("lab_b") ?? "");
 
       rows.push({
         code: get("code"),
@@ -241,6 +259,9 @@ async function readCsv(path: string): Promise<RawRow[]> {
         r: isNaN(rVal) ? undefined : Math.round(rVal),
         g: isNaN(gVal) ? undefined : Math.round(gVal),
         b: isNaN(bVal) ? undefined : Math.round(bVal),
+        lab_L: isNaN(lVal) ? undefined : lVal,
+        lab_a: isNaN(aVal) ? undefined : aVal,
+        lab_b: isNaN(bLabVal) ? undefined : bLabVal,
         make: get("make"),
         model: get("model"),
         year: parseInt(get("year") ?? "", 10) || undefined
@@ -258,11 +279,26 @@ async function readCsv(path: string): Promise<RawRow[]> {
 let autoCode = 1;
 
 function rowToSeed(row: RawRow, idx: number): ColorSeed | null {
-  let hex: string | undefined;
+  const code = row.code ?? String(autoCode++);
+  const name = row.name ?? `Color ${code}`;
+  const finish = normalizeFinish(row.finish);
 
-  if (row.hex) {
-    hex = normalizeHex(row.hex);
+  if (row.lab_L !== undefined && row.lab_a !== undefined && row.lab_b !== undefined) {
+    return {
+      code,
+      marketingName: name,
+      finish,
+      lab: { L: row.lab_L, a: row.lab_a, b: row.lab_b },
+      source: SOURCE_TAG,
+      confidence: "spec",
+      note:
+        `LAB from ${SOURCE_TAG}, row ${idx + 2}. ` +
+        `Treat as spec-grade; verify with spectro before production claims.`
+    };
   }
+
+  let hex: string | undefined;
+  if (row.hex) hex = normalizeHex(row.hex);
   if (!hex && row.r !== undefined && row.g !== undefined && row.b !== undefined) {
     const [r, g, b] = [row.r, row.g, row.b];
     if ([r, g, b].every((v) => v >= 0 && v <= 255)) {
@@ -271,17 +307,14 @@ function rowToSeed(row: RawRow, idx: number): ColorSeed | null {
   }
 
   if (!hex) {
-    console.warn(`  [skip row ${idx + 2}] No usable hex or RGB values`);
+    console.warn(`  [skip row ${idx + 2}] No usable LAB, hex, or RGB values`);
     return null;
   }
-
-  const code = row.code ?? String(autoCode++);
-  const name = row.name ?? `Color ${code}`;
 
   return {
     code,
     marketingName: name,
-    finish: normalizeFinish(row.finish),
+    finish,
     hex,
     source: SOURCE_TAG,
     confidence: "derived",

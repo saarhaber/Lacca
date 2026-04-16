@@ -23,11 +23,14 @@
  *   Add entries using the exact color name NHTSA returns. Running with
  *   --dry-run shows a list of unmapped names so you can populate it.
  *
- * After a successful run, register the new scope in src/pipeline/validateData.ts:
- *   { schemaId: "https://lacca.local/schemas/exterior-paints-v1.schema.json",
- *     dataPath: "data/oem/<scope-id>/exterior-paints-v1.json" },
- *   { schemaId: "https://lacca.local/schemas/oem-scope-v1.schema.json",
- *     dataPath: "data/oem/<scope-id>/oem-scope.json" },
+ * Validation auto-discovers every `data/oem/<scope-id>/` folder, so no manual
+ * registration in `src/pipeline/validateData.ts` is required.
+ *
+ * WARNING: as of 2026-04 the NHTSA vPIC GetAllColors endpoint returns 404.
+ * This fetcher works offline using a previously-cached response if one
+ * exists at `data/nhtsa/colors-cache.json`; fresh runs will fail until
+ * NHTSA restores the endpoint. Prefer `import:csv` with refinish LAB data
+ * for the best-quality coverage today.
  */
 
 import { existsSync, mkdirSync, readFileSync, writeFileSync } from "node:fs";
@@ -346,14 +349,7 @@ async function main() {
     writeScope(scopeDir, meta, seeds, RECORDED_AT);
   }
 
-  console.log(`
-Done. To register in the validation pipeline, add to src/pipeline/validateData.ts:
-
-  { schemaId: "https://lacca.local/schemas/exterior-paints-v1.schema.json",
-    dataPath: "data/oem/${SCOPE_ID}/exterior-paints-v1.json" },
-  { schemaId: "https://lacca.local/schemas/oem-scope-v1.schema.json",
-    dataPath: "data/oem/${SCOPE_ID}/oem-scope.json" },
-`);
+  console.log(`\nDone. Validation auto-discovers data/oem/${SCOPE_ID}/ — no further wiring needed.`);
 }
 
 main().catch((err) => {

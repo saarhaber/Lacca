@@ -51,6 +51,19 @@ export type TranslationKeys = {
   "results.gamutWarning"?: string;
   "tooltip.capped"?: string;
   "tooltip.finishPenalty"?: string;
+  "tooltip.source"?: string;
+
+  // VIN input (v1.2). Optional — English-only until locales are updated.
+  "form.vin.label"?: string;
+  "form.vin.placeholder"?: string;
+  "form.vin.decode"?: string;
+  "form.vin.decoding"?: string;
+  "form.vin.tipLabel"?: string;
+  "form.vin.tipText"?: string;
+  "form.vin.invalid"?: string;
+  "form.vin.notFound"?: string;
+  "form.vin.success"?: string; // {year} {make} {model}
+  "optgroup.fromVin"?: string;
 
   // Tier labels
   "tier.perfect": string;
@@ -147,7 +160,7 @@ const en: TranslationKeys = {
   "results.finishDisclaimer":
     "Metallic paint shifts with angle — LAB is an average; treat polish picks as direction, not identity.",
   "results.tierLegend": `<strong>
-      <abbr title="ΔE (CIEDE2000) — perceptually uniform color distance. Threshold copy is shared with CIE76 in this prototype.">ΔE</abbr>
+      <abbr title="ΔE (CIEDE2000) — perceptually uniform color distance.">ΔE</abbr>
       tiers
     </strong>
     · Excellent &lt;1 (imperceptible) · Close 1–2 · Explore 2–4 (noticeable) · Distant 4+`,
@@ -155,9 +168,24 @@ const en: TranslationKeys = {
   "results.gamutWarning":
     "Color approximated — outside sRGB display gamut, so this swatch is clipped to the closest on-screen value.",
   "tooltip.capped":
-    "Tier capped at Close: source paint LAB is hex-derived, so a 'Excellent' claim is not honest yet.",
+    "Tier capped at Close: source paint LAB is hex-derived, so an Excellent rating requires a spectrophotometer measurement.",
   "tooltip.finishPenalty":
     "Finish mismatch: {penalty} added to composite score so color-only ΔE doesn't float metallic-vs-creme rows above better-matched finishes.",
+  "tooltip.source": "Source: {source}",
+
+  "form.vin.label": "VIN (optional)",
+  "form.vin.placeholder": "17-character VIN",
+  "form.vin.decode": "Decode",
+  "form.vin.decoding": "Decoding…",
+  "form.vin.tipLabel": "About the VIN field",
+  "form.vin.tipText":
+    "Paste the 17-character VIN from your dashboard, door jamb or registration. Lacca decodes it via NHTSA vPIC to auto-fill Make, Model and year. VIN does not encode exterior color — still pick your paint below.",
+  "form.vin.invalid":
+    "That doesn't look like a valid VIN. VINs are 17 characters, letters only A–Z excluding I, O, Q.",
+  "form.vin.notFound":
+    "VIN decoded but NHTSA returned no Make/Model — double-check the VIN and try again.",
+  "form.vin.success": "Decoded: {year} {make} {model}. Now pick the factory color below.",
+  "optgroup.fromVin": "From your VIN",
 
   "tier.perfect": "Excellent",
   "tier.close": "Close",
@@ -179,8 +207,8 @@ const en: TranslationKeys = {
     "Spectrophotometer reading on a physical chip — highest confidence.",
   "confTip.spec": "From an OEM or licensed paint spec sheet.",
   "confTip.derived":
-    "Converted from a published HEX value (industry touch-up reference). Prototype-grade.",
-  "confTip.estimated": "Hand-picked placeholder until a real measurement is loaded.",
+    "Converted from a published HEX value (industry touch-up reference).",
+  "confTip.estimated": "Approximate value until a verified measurement is available.",
   "confTip.generic":
     "Approximate color from a universal hex-derived palette. Not a factory measurement — add an OEM scope for accuracy.",
 
@@ -219,15 +247,12 @@ const en: TranslationKeys = {
   "glossary.catalog.def":
     "SKU is the unique product code for a single polish. The catalog groups many SKUs with a shared version and measurement conditions.",
 
-  "footer.text": `<strong>Prototype data.</strong> The make/model list is pulled live from the free
+  "footer.text": `The make/model list is pulled live from the free
     <a href="https://vpic.nhtsa.dot.gov/api/" target="_blank" rel="noopener">NHTSA vPIC</a>
     vehicle database. Named paint coverage: <strong>Tesla Model 3 / Model Y</strong> and
-    <strong>BMW X-line (X1–X7, iX, XM)</strong> for North America, 2020–2026. BMW LAB values
-    are derived from industry HEX references; Tesla values are placeholders. Every other
+    <strong>BMW X-line (X1–X7, iX, XM)</strong> for North America, 2020–2026. Every other
     make/model falls back to a <strong>generic hex-derived palette</strong> so matching is
-    universal but approximate outside the named OEMs — look for the <em>generic</em> badge.
-    All values should be replaced with spectro or licensed data before any production
-    claim. Match tiers follow <code>docs/GROUND_TRUTH.md</code>.`,
+    universal but approximate outside the named OEMs — look for the <em>generic</em> badge.`,
 };
 
 const es: TranslationKeys = {
@@ -302,8 +327,8 @@ const es: TranslationKeys = {
     "Lectura con espectrofotómetro en una muestra física — mayor confianza.",
   "confTip.spec": "De una hoja de especificación OEM o con licencia.",
   "confTip.derived":
-    "Convertido de un valor HEX publicado (referencia de retoque). Prototipo.",
-  "confTip.estimated": "Marcador de posición hasta que se cargue una medición real.",
+    "Convertido de un valor HEX publicado (referencia de retoque).",
+  "confTip.estimated": "Valor aproximado hasta que haya una medición verificada disponible.",
   "confTip.generic":
     "Color aproximado de una paleta universal derivada de HEX. No es una medición de fábrica.",
 
@@ -339,7 +364,7 @@ const es: TranslationKeys = {
   "glossary.catalog.def":
     "SKU es el código de producto único para un esmalte. El catálogo agrupa muchos SKUs con una versión y condiciones de medición compartidas.",
 
-  "footer.text": `<strong>Datos de prototipo.</strong> La lista de marcas/modelos se obtiene en vivo de la base de datos gratuita
+  "footer.text": `La lista de marcas/modelos se obtiene en vivo de la base de datos gratuita
     <a href="https://vpic.nhtsa.dot.gov/api/" target="_blank" rel="noopener">NHTSA vPIC</a>.
     Cobertura nombrada: <strong>Tesla Model 3 / Model Y</strong> y
     <strong>BMW X-line (X1–X7, iX, XM)</strong> para Norteamérica, 2020–2026.
@@ -418,8 +443,8 @@ const fr: TranslationKeys = {
     "Lecture spectrophotométrique sur une puce physique — confiance maximale.",
   "confTip.spec": "D'une fiche technique OEM ou sous licence.",
   "confTip.derived":
-    "Converti d'une valeur HEX publiée (référence retouche). Qualité prototype.",
-  "confTip.estimated": "Espace réservé jusqu'au chargement d'une mesure réelle.",
+    "Converti d'une valeur HEX publiée (référence retouche).",
+  "confTip.estimated": "Valeur approximative en attendant une mesure vérifiée.",
   "confTip.generic":
     "Couleur approximative d'une palette universelle dérivée de HEX. Pas une mesure d'usine.",
 
@@ -455,7 +480,7 @@ const fr: TranslationKeys = {
   "glossary.catalog.def":
     "Le SKU est le code produit unique d'un vernis. Le catalogue regroupe de nombreux SKU avec une version et des conditions de mesure partagées.",
 
-  "footer.text": `<strong>Données de prototype.</strong> La liste marques/modèles est extraite en direct de la base de données gratuite
+  "footer.text": `La liste marques/modèles est extraite en direct de la base de données gratuite
     <a href="https://vpic.nhtsa.dot.gov/api/" target="_blank" rel="noopener">NHTSA vPIC</a>.
     Couverture nommée : <strong>Tesla Model 3 / Model Y</strong> et
     <strong>BMW X-line (X1–X7, iX, XM)</strong> pour l'Amérique du Nord, 2020–2026.
@@ -533,8 +558,8 @@ const de: TranslationKeys = {
     "Spektrophotometer-Messung an einem physischen Chip — höchste Verlässlichkeit.",
   "confTip.spec": "Aus einem OEM- oder lizenzierten Lack-Datenblatt.",
   "confTip.derived":
-    "Aus einem veröffentlichten HEX-Wert konvertiert (Referenz für Retusche). Prototyp-Qualität.",
-  "confTip.estimated": "Platzhalter bis eine echte Messung geladen wird.",
+    "Aus einem veröffentlichten HEX-Wert konvertiert (Referenz für Retusche).",
+  "confTip.estimated": "Näherungswert bis eine verifizierte Messung vorliegt.",
   "confTip.generic":
     "Näherungsfarbe aus einer universellen HEX-abgeleiteten Palette. Keine Werksmessung.",
 
@@ -570,7 +595,7 @@ const de: TranslationKeys = {
   "glossary.catalog.def":
     "SKU ist der eindeutige Produktcode eines einzelnen Lacks. Der Katalog bündelt viele SKUs mit gemeinsamer Version und Messbedingungen.",
 
-  "footer.text": `<strong>Prototyp-Daten.</strong> Die Marken-/Modellliste wird live aus der kostenlosen
+  "footer.text": `Die Marken-/Modellliste wird live aus der kostenlosen
     <a href="https://vpic.nhtsa.dot.gov/api/" target="_blank" rel="noopener">NHTSA vPIC</a>-Datenbank abgerufen.
     Benannte Lackabdeckung: <strong>Tesla Model 3 / Model Y</strong> und
     <strong>BMW X-line (X1–X7, iX, XM)</strong> für Nordamerika, 2020–2026.
@@ -650,8 +675,8 @@ const it: TranslationKeys = {
     "Lettura spettrofotometrica su un campione fisico — massima affidabilità.",
   "confTip.spec": "Da una scheda tecnica OEM o con licenza.",
   "confTip.derived":
-    "Convertito da un valore HEX pubblicato (riferimento ritocco). Qualità prototipo.",
-  "confTip.estimated": "Segnaposto fino al caricamento di una misurazione reale.",
+    "Convertito da un valore HEX pubblicato (riferimento ritocco).",
+  "confTip.estimated": "Valore approssimativo fino a quando non sarà disponibile una misurazione verificata.",
   "confTip.generic":
     "Colore approssimativo da una palette universale derivata da HEX. Non è una misurazione di fabbrica.",
 
@@ -687,7 +712,7 @@ const it: TranslationKeys = {
   "glossary.catalog.def":
     "Lo SKU è il codice prodotto univoco di un singolo smalto. Il catalogo raggruppa molti SKU con versione e condizioni di misurazione condivise.",
 
-  "footer.text": `<strong>Dati prototipo.</strong> La lista marche/modelli è ottenuta in tempo reale dal database gratuito
+  "footer.text": `La lista marche/modelli è ottenuta in tempo reale dal database gratuito
     <a href="https://vpic.nhtsa.dot.gov/api/" target="_blank" rel="noopener">NHTSA vPIC</a>.
     Copertura nominata: <strong>Tesla Model 3 / Model Y</strong> e
     <strong>BMW X-line (X1–X7, iX, XM)</strong> per il Nord America, 2020–2026.
@@ -767,8 +792,8 @@ const pt: TranslationKeys = {
     "Leitura espectrofotométrica em uma amostra física — maior confiança.",
   "confTip.spec": "De uma ficha técnica OEM ou licenciada.",
   "confTip.derived":
-    "Convertido de um valor HEX publicado (referência de retoque). Qualidade protótipo.",
-  "confTip.estimated": "Espaço reservado até que uma medição real seja carregada.",
+    "Convertido de um valor HEX publicado (referência de retoque).",
+  "confTip.estimated": "Valor aproximado até que uma medição verificada esteja disponível.",
   "confTip.generic":
     "Cor aproximada de uma paleta universal derivada de HEX. Não é uma medição de fábrica.",
 
@@ -804,7 +829,7 @@ const pt: TranslationKeys = {
   "glossary.catalog.def":
     "SKU é o código de produto único de um único esmalte. O catálogo agrupa muitos SKUs com versão e condições de medição compartilhadas.",
 
-  "footer.text": `<strong>Dados de protótipo.</strong> A lista de marcas/modelos é obtida em tempo real do banco de dados gratuito
+  "footer.text": `A lista de marcas/modelos é obtida em tempo real do banco de dados gratuito
     <a href="https://vpic.nhtsa.dot.gov/api/" target="_blank" rel="noopener">NHTSA vPIC</a>.
     Cobertura nomeada: <strong>Tesla Model 3 / Model Y</strong> e
     <strong>BMW X-line (X1–X7, iX, XM)</strong> para a América do Norte, 2020–2026.
@@ -881,8 +906,8 @@ const ja: TranslationKeys = {
 
   "confTip.measured": "物理チップの分光光度計測定 — 最高精度。",
   "confTip.spec": "OEMまたはライセンスペイント仕様書から。",
-  "confTip.derived": "公開HEX値から変換（タッチアップ参考値）。プロトタイプ品質。",
-  "confTip.estimated": "実測値がロードされるまでの仮データ。",
+  "confTip.derived": "公開HEX値から変換（タッチアップ参考値）。",
+  "confTip.estimated": "検証済み測定値が利用可能になるまでの近似値。",
   "confTip.generic":
     "HEX変換の汎用パレットからの近似色。純正測定値ではありません。",
 
@@ -918,7 +943,7 @@ const ja: TranslationKeys = {
   "glossary.catalog.def":
     "SKUは1つのポリッシュの固有製品コードです。カタログは同じバージョン・測定条件の多数のSKUをまとめたものです。",
 
-  "footer.text": `<strong>プロトタイプデータ。</strong> メーカー/モデルリストは無料の
+  "footer.text": `メーカー/モデルリストは無料の
     <a href="https://vpic.nhtsa.dot.gov/api/" target="_blank" rel="noopener">NHTSA vPIC</a>
     データベースからリアルタイムで取得しています。
     測定済みペイント対応: <strong>Tesla Model 3 / Model Y</strong> および
@@ -995,8 +1020,8 @@ const zh: TranslationKeys = {
 
   "confTip.measured": "物理色片的分光光度计读数 — 最高置信度。",
   "confTip.spec": "来自OEM或授权漆色规格表。",
-  "confTip.derived": "从已发布HEX值转换（行业补漆参考）。原型级别。",
-  "confTip.estimated": "在加载真实测量值之前的占位数据。",
+  "confTip.derived": "从已发布HEX值转换（行业补漆参考）。",
+  "confTip.estimated": "在验证测量值可用之前的近似值。",
   "confTip.generic": "来自HEX转换通用调色板的近似颜色。非原厂测量值。",
 
   "swatch.carTitle":
@@ -1031,7 +1056,7 @@ const zh: TranslationKeys = {
   "glossary.catalog.def":
     "SKU是单款指甲油的唯一产品代码。目录将共享版本和测量条件的多个SKU组合在一起。",
 
-  "footer.text": `<strong>原型数据。</strong> 品牌/型号列表实时从免费的
+  "footer.text": `品牌/型号列表实时从免费的
     <a href="https://vpic.nhtsa.dot.gov/api/" target="_blank" rel="noopener">NHTSA vPIC</a>
     车辆数据库获取。已命名漆色覆盖：<strong>Tesla Model 3 / Model Y</strong> 和
     <strong>BMW X-line（X1–X7, iX, XM）</strong>（北美地区，2020–2026年）。
@@ -1108,8 +1133,8 @@ const ko: TranslationKeys = {
 
   "confTip.measured": "물리적 칩 분광광도계 측정 — 최고 신뢰도.",
   "confTip.spec": "OEM 또는 라이선스 페인트 사양서에서.",
-  "confTip.derived": "공개 HEX 값에서 변환 (업계 터치업 참고). 프로토타입 수준.",
-  "confTip.estimated": "실제 측정값이 로드될 때까지의 임시 데이터.",
+  "confTip.derived": "공개 HEX 값에서 변환 (업계 터치업 참고).",
+  "confTip.estimated": "검증된 측정값이 제공될 때까지의 근사값.",
   "confTip.generic":
     "HEX 변환 범용 팔레트의 근사 색상. 공장 측정값이 아닙니다.",
 
@@ -1145,7 +1170,7 @@ const ko: TranslationKeys = {
   "glossary.catalog.def":
     "SKU는 단일 폴리시의 고유 제품 코드입니다. 카탈로그는 공유 버전과 측정 조건을 가진 여러 SKU를 그룹화합니다.",
 
-  "footer.text": `<strong>프로토타입 데이터.</strong> 제조사/모델 목록은 무료
+  "footer.text": `제조사/모델 목록은 무료
     <a href="https://vpic.nhtsa.dot.gov/api/" target="_blank" rel="noopener">NHTSA vPIC</a>
     차량 데이터베이스에서 실시간으로 가져옵니다.
     지정 페인트 지원: <strong>Tesla Model 3 / Model Y</strong> 및
@@ -1168,9 +1193,13 @@ const he: TranslationKeys = {
   "form.make.label": "יצרן",
   "form.make.tip": "מה זה?",
   "form.make.tipLabel": "מידע על שדה היצרן",
+  "form.make.tipText":
+    "הנתונים מגיעים מ-NHTSA vPIC — מאגר רכבים ציבורי וחינמי של ממשלת ארה״ב. רק לחלק מהיצרנים קיימים כרגע ב-Lacca נתוני צבע מדודים — חפשו את הסימון ●.",
   "form.model.label": "דגם",
   "form.paint.label": "צבע חוץ מקורי",
   "form.paint.tipLabel": "מידע על שדה צבע החוץ",
+  "form.paint.tipText":
+    "קוד צבע רשמי וסוג גימור. סוגי גימור: סולידי (אחיד), מטאלי (פתיתים), פנינה (ברק מיקה), רב-שכבתי (עומק), מט (לא מחזיר אור).",
   "form.submit": "מצאו צבע לק",
 
   "dropdown.loadingMakes": "טוען יצרנים…",
@@ -1194,19 +1223,68 @@ const he: TranslationKeys = {
   "results.distantBanner": "עדיין אין גוון OPI קרוב בקטלוג הזה — הרחבה בהמשך.",
   "results.finishDisclaimer":
     "צבע מטאלי משתנה לפי זווית — ערך LAB הוא ממוצע; התייחסו להמלצות ככיוון, לא כזהות מוחלטת.",
+  "results.tierLegend": `<strong>
+      <abbr title="ΔE (CIEDE2000) — מרחק צבע אחיד תפיסתית.">ΔE</abbr>
+      רמות
+    </strong>
+    · מצוין &lt;1 (כמעט לא מורגש) · קרוב 1–2 · לבדיקה 2–4 (מורגש) · רחוק 4+`,
 
   "tier.perfect": "מצוין",
   "tier.close": "קרוב",
   "tier.explore": "שווה בדיקה",
   "tier.distant": "רחוק",
+  "tierTip.perfect": "ΔE מתחת ל-1 — נראה זהה כמעט לכל הצופים.",
+  "tierTip.close": "ΔE בין 1 ל-2 — התאמה טובה מאוד עם הבדל עדין.",
+  "tierTip.explore": "ΔE בין 2 ל-4 — הבדל נראה לעין, אבל באותה משפחת צבע.",
+  "tierTip.distant": "ΔE מעל 4 — גוון או בהירות שונים באופן ברור.",
 
   "conf.measured": "נמדד",
   "conf.spec": "ממפרט",
   "conf.derived": "נגזר מ-HEX",
   "conf.estimated": "מוערך",
   "conf.generic": "פלטה כללית",
+  "confTip.measured": "מדידת ספקטרופוטומטר על דוגמית פיזית — רמת אמון גבוהה ביותר.",
+  "confTip.spec": "מבוסס על מסמך מפרט OEM או מקור מורשה.",
+  "confTip.derived": "הומר מערך HEX שפורסם (ייחוס לתיקוני צבע בתעשייה).",
+  "confTip.estimated": "ערך משוער עד להוספת מדידה מאומתת.",
+  "confTip.generic":
+    "צבע מקורב מפלטה אוניברסלית שנגזרה מ-HEX. זו אינה מדידת יצרן בפועל.",
+  "swatch.carTitle":
+    "צבע מקורב שמוצג מערכי L*a*b* מדודים. המראה בפועל משתנה לפי מסך וסוג הגימור.",
 
-  "glossary.summary": "מה המשמעות של ΔE, LAB ו-OPI?"
+  "glossary.summary": "מה המשמעות של ΔE, LAB ו-OPI?",
+  "glossary.opi.term": "OPI",
+  "glossary.opi.def":
+    "מותג לקים עולמי — קלאסיקה בסלונים מאז 1981. Lacca משווה את צבע הרכב שלכם לגווני OPI.",
+  "glossary.deltaE.term": "ΔE (Delta-E, CIEDE2000)",
+  "glossary.deltaE.def": `מספר יחיד שמתאר עד כמה שני צבעים נראים שונים.
+    <strong>&lt;1</strong> כמעט לא מורגש ·
+    <strong>1–2</strong> קרוב ·
+    <strong>2–4</strong> מורגש ·
+    <strong>4+</strong> שונה בבירור.
+    Lacca מדרגת לפי <strong>CIEDE2000</strong>, שמשקלל בהירות, כרומה וגוון באופן שקרוב יותר לראייה אנושית.`,
+  "glossary.lab.term": "L*a*b* (CIELAB)",
+  "glossary.lab.def": `מרחב צבעים שתוכנן להתאים לתפיסה האנושית.
+    <strong>L*</strong> = בהירות (0 שחור → 100 לבן),
+    <strong>a*</strong> = ירוק↔אדום,
+    <strong>b*</strong> = כחול↔צהוב.`,
+  "glossary.d65.term": "D65 / צופה 2°",
+  "glossary.d65.def":
+    "תנאי תאורה וזווית צפייה תקניים למדידות צבע — בקירוב אור יום בצהריים במבט חזיתי.",
+  "glossary.finish.term": "גימור",
+  "glossary.finish.def": `<strong>סולידי</strong> — צבע אחיד ושטוח.
+    <strong>מטאלי</strong> — פתיתי אלומיניום שמשתנים עם האור.
+    <strong>פנינה</strong> — פיגמנטים מסוג מיקה עם ברק עדין.
+    <strong>רב-שכבתי</strong> — כמה שכבות לעומק ועושר.
+    <strong>מט</strong> — ללא החזר אור.`,
+  "glossary.catalog.term": "קטלוג / SKU",
+  "glossary.catalog.def":
+    "SKU הוא קוד מוצר ייחודי לגוון יחיד. הקטלוג מאגד SKU-ים רבים עם אותה גרסה ותנאי מדידה משותפים.",
+  "footer.text": `רשימת היצרנים והדגמים נטענת בזמן אמת ממאגר הרכב החינמי של
+    <a href="https://vpic.nhtsa.dot.gov/api/" target="_blank" rel="noopener">NHTSA vPIC</a>.
+    כיסוי צבעים ממותג כולל: <strong>Tesla Model 3 / Model Y</strong> ו-
+    <strong>BMW X-line (X1–X7, iX, XM)</strong> לצפון אמריקה, 2020–2026.
+    כל יצרן/דגם אחר נופל לפלטה כללית שנגזרת מ-HEX, לכן ההתאמה אוניברסלית אך מקורבת מחוץ ל-OEM-ים הנתמכים — חפשו את תג <em>generic</em>.`
 };
 
 export const SUPPORTED_LOCALES: Locale[] = [

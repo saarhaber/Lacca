@@ -1,15 +1,31 @@
 import { translations, SUPPORTED_LOCALES, type Locale, type TranslationKeys } from "./translations";
 
+const LOCALE_STORAGE_KEY = "lacca-locale";
+const rtlLocales = new Set<Locale>(["he"]);
+
+export const LOCALE_LABELS: Record<Locale, string> = {
+  en: "English",
+  es: "Español",
+  fr: "Français",
+  de: "Deutsch",
+  it: "Italiano",
+  pt: "Português",
+  ja: "日本語",
+  zh: "中文",
+  ko: "한국어",
+  he: "עברית",
+};
+
 function detectLocale(): Locale {
+  const stored = localStorage.getItem(LOCALE_STORAGE_KEY) as Locale | null;
+  if (stored && SUPPORTED_LOCALES.includes(stored)) return stored;
   const lang = (typeof navigator !== "undefined" ? navigator.language : "") ?? "en";
-  // navigator.language can be "fr", "fr-CA", "zh-Hans-CN", etc.
   const base = lang.split("-")[0].toLowerCase() as Locale;
   return SUPPORTED_LOCALES.includes(base) ? base : "en";
 }
 
-const locale: Locale = detectLocale();
-const dict: TranslationKeys = translations[locale];
-const rtlLocales = new Set<Locale>(["he"]);
+let locale: Locale = detectLocale();
+let dict: TranslationKeys = translations[locale];
 
 /**
  * Translate a key. Returns the English fallback if the key is missing in the
@@ -17,6 +33,25 @@ const rtlLocales = new Set<Locale>(["he"]);
  */
 export function t(key: keyof TranslationKeys): string {
   return (dict[key] ?? translations.en[key]) as string;
+}
+
+/**
+ * Switch the active locale at runtime. Persists the choice to localStorage,
+ * re-applies every data-i18n attribute in the document, and calls any
+ * registered listeners so imperative UI (dropdowns etc.) can refresh too.
+ */
+export function setLocale(next: Locale): void {
+  if (!SUPPORTED_LOCALES.includes(next) || next === locale) return;
+  locale = next;
+  dict = translations[locale];
+  localStorage.setItem(LOCALE_STORAGE_KEY, locale);
+  applyTranslations(document);
+  for (const cb of localeChangeListeners) cb(locale);
+}
+
+const localeChangeListeners: Array<(l: Locale) => void> = [];
+export function onLocaleChange(cb: (l: Locale) => void): void {
+  localeChangeListeners.push(cb);
 }
 
 /**
@@ -86,4 +121,4 @@ export function applyTranslations(root: Document | Element = document): void {
   if (descEl) descEl.content = t("meta.description");
 }
 
-export { locale };
+export function getLocale(): Locale { return locale; }
