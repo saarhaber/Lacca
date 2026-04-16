@@ -149,6 +149,7 @@ label {
 }
 
 .info:hover,
+.info:focus,
 .info:focus-visible {
   outline: none;
   border-color: var(--accent);
@@ -181,6 +182,7 @@ label {
 }
 
 .info[data-tip]:hover::after,
+.info[data-tip]:focus::after,
 .info[data-tip]:focus-visible::after {
   opacity: 1;
   transform: translateY(0);
@@ -439,6 +441,7 @@ input[type="text"]:focus-visible {
 }
 
 .conf-help:hover,
+.conf-help:focus,
 .conf-help:focus-visible {
   outline: none;
   border-color: var(--accent);
@@ -471,6 +474,7 @@ input[type="text"]:focus-visible {
 }
 
 .conf-help[data-tip]:hover::after,
+.conf-help[data-tip]:focus::after,
 .conf-help[data-tip]:focus-visible::after {
   opacity: 1;
   transform: translateY(0);
