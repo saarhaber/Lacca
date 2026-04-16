@@ -1,0 +1,30 @@
+{
+  "$schema": "../../../schemas/oem-scope-v1.schema.json",
+  "scopeId": "lexus-vpic-v1",
+  "oem": "Lexus",
+  "modelYears": {
+    "from": 2000,
+    "to": 2026
+  },
+  "models": [
+    "CT",
+    "ES",
+    "GS",
+    "GX",
+    "HS",
+    "IS",
+    "LC",
+    "LFA",
+    "LS",
+    "LX",
+    "NX",
+    "RC",
+    "RX",
+    "RZ",
+    "SC",
+    "TX",
+    "UX"
+  ],
+  "notes": "Lexus model catalog sourced from NHTSA vPIC (GetModelsForMake). 17 distinct models. Paint catalog intentionally empty for this scope; the web UI falls back to generic colors when an OEM has no dedicated paint rows yet. Merge with curated scopes via merge-oem-scopes to enrich with real paint codes.",
+  "exteriorPaintFile": "./exterior-paints-v1.json"
+}

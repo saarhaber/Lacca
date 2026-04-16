@@ -1,0 +1,26 @@
+{
+  "$schema": "../../../schemas/oem-scope-v1.schema.json",
+  "scopeId": "genesis-vpic-v1",
+  "oem": "Genesis",
+  "modelYears": {
+    "from": 2000,
+    "to": 2026
+  },
+  "models": [
+    "Envy",
+    "G70",
+    "G80",
+    "G90",
+    "Genesis",
+    "Genesis Supreme",
+    "Genesis Trailers Inc.",
+    "GV60",
+    "GV70",
+    "GV80",
+    "Supreme",
+    "Tahoe",
+    "Vortex"
+  ],
+  "notes": "Genesis model catalog sourced from NHTSA vPIC (GetModelsForMake). 13 distinct models. Paint catalog intentionally empty for this scope; the web UI falls back to generic colors when an OEM has no dedicated paint rows yet. Merge with curated scopes via merge-oem-scopes to enrich with real paint codes.",
+  "exteriorPaintFile": "./exterior-paints-v1.json"
+}

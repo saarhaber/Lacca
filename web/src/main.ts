@@ -104,9 +104,16 @@ const supportedMakes = [...new Set(supportedVehicles.map((v) => v.make))].sort()
 function findSupported(make: string, model: string): SupportedVehicle | undefined {
   const a = make.toLowerCase();
   const b = model.toLowerCase();
-  return supportedVehicles.find(
-    (v) => v.make.toLowerCase() === a && v.model.toLowerCase() === b
-  );
+  // A make/model can appear in multiple scopes (e.g. a curated scope with
+  // real paints + a vPIC-seeded scope with an empty paint catalog). Pick
+  // whichever entry has the richer paint list so the UI surfaces the
+  // best-available colors.
+  let best: SupportedVehicle | undefined;
+  for (const v of supportedVehicles) {
+    if (v.make.toLowerCase() !== a || v.model.toLowerCase() !== b) continue;
+    if (!best || v.paints.length > best.paints.length) best = v;
+  }
+  return best;
 }
 
 // ------------------------------------------------------------------
@@ -378,7 +385,15 @@ async function loadModelsFor(make: string) {
   const supportedForMake = supportedVehicles.filter(
     (v) => v.make.toLowerCase() === make.toLowerCase()
   );
-  const supportedNames = supportedForMake.map((v) => v.model);
+  // De-dupe by lowercased model name so models present in both a curated
+  // scope and a vPIC-seeded scope only appear once. Preserve the first
+  // cased spelling we see.
+  const seenModelNames = new Map<string, string>();
+  for (const v of supportedForMake) {
+    const k = v.model.toLowerCase();
+    if (!seenModelNames.has(k)) seenModelNames.set(k, v.model);
+  }
+  const supportedNames = [...seenModelNames.values()].sort((a, b) => a.localeCompare(b));
   const supportedSet = new Set(supportedNames.map((m) => m.toLowerCase()));
 
   const remote = await fetchModels(make);
@@ -441,7 +456,7 @@ function loadPaintsFor(make: string, model: string) {
   placeholder.selected = true;
   paintSelect.appendChild(placeholder);
 
-  if (vehicle) {
+  if (vehicle && vehicle.paints.length > 0) {
     for (const p of vehicle.paints) {
       const opt = document.createElement("option");
       opt.value = p.code;
@@ -534,6 +549,26 @@ function confidenceTip(c: string): string {
   }
 }
 
+function prettySourceLabel(source: string): string {
+  const normalized = source.trim().toLowerCase();
+  switch (normalized) {
+    case "placeholder_prototype":
+      return "Internal prototype";
+    case "hex_derived":
+      return "HEX-derived";
+    case "paintref_hex":
+      return "PaintRef HEX";
+    case "carapi":
+      return "Car API";
+    default:
+      return source
+        .replace(/[_-]+/g, " ")
+        .replace(/\s+/g, " ")
+        .trim()
+        .replace(/\b\w/g, (char) => char.toUpperCase());
+  }
+}
+
 /**
  * Compose the confidence-badge tooltip. Always starts with the
  * tier-level description; appends the source name (and provenanceId
@@ -543,7 +578,9 @@ function composeConfidenceTooltip(lab: OemExterior["paints"][number]["lab"]): st
   const parts: string[] = [confidenceTip(lab.confidence)];
   if (lab.source) {
     parts.push(
-      interpolate(t("tooltip.source") ?? "Source: {source}", { source: lab.source })
+      interpolate(t("tooltip.source") ?? "Source: {source}", {
+        source: prettySourceLabel(lab.source)
+      })
     );
   }
   if (lab.provenanceId) parts.push(lab.provenanceId);

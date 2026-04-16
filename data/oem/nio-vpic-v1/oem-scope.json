@@ -1,0 +1,24 @@
+{
+  "$schema": "../../../schemas/oem-scope-v1.schema.json",
+  "scopeId": "nio-vpic-v1",
+  "oem": "NIO",
+  "modelYears": {
+    "from": 2000,
+    "to": 2026
+  },
+  "models": [
+    "Companion Trailer Company",
+    "COMPANION TRAILERS",
+    "Dominion Motorcycle",
+    "Electric Golf Cart",
+    "Gas Golf Cart",
+    "Junior Motorcycle Manufacturing Inc.",
+    "Junior's Golf Carts",
+    "ODB Trailer",
+    "RAP / R Antonio’s P",
+    "Union Chill Mat Company",
+    "UNION CITY BODY COMPANY INCORP."
+  ],
+  "notes": "NIO model catalog sourced from NHTSA vPIC (GetModelsForMake). 11 distinct models. Paint catalog intentionally empty for this scope; the web UI falls back to generic colors when an OEM has no dedicated paint rows yet. Merge with curated scopes via merge-oem-scopes to enrich with real paint codes.",
+  "exteriorPaintFile": "./exterior-paints-v1.json"
+}

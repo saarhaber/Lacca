@@ -1,0 +1,21 @@
+{
+  "$schema": "../../../schemas/oem-scope-v1.schema.json",
+  "scopeId": "peugeot-vpic-v1",
+  "oem": "Peugeot",
+  "modelYears": {
+    "from": 2000,
+    "to": 2026
+  },
+  "models": [
+    "405",
+    "504",
+    "505",
+    "604",
+    "Looxor",
+    "Speedfight2",
+    "Trekker",
+    "Vivacity"
+  ],
+  "notes": "Peugeot model catalog sourced from NHTSA vPIC (GetModelsForMake). 8 distinct models. Paint catalog intentionally empty for this scope; the web UI falls back to generic colors when an OEM has no dedicated paint rows yet. Merge with curated scopes via merge-oem-scopes to enrich with real paint codes.",
+  "exteriorPaintFile": "./exterior-paints-v1.json"
+}

@@ -1,0 +1,28 @@
+{
+  "$schema": "../../../schemas/oem-scope-v1.schema.json",
+  "scopeId": "land-rover-vpic-v1",
+  "oem": "Land Rover",
+  "modelYears": {
+    "from": 2000,
+    "to": 2026
+  },
+  "models": [
+    "110\" WB",
+    "88” WB",
+    "90\" WB",
+    "Defender",
+    "Discovery",
+    "Discovery Sport",
+    "Freelander",
+    "LR2",
+    "LR3",
+    "LR4",
+    "New Range Rover",
+    "Range Rover",
+    "Range Rover Evoque",
+    "Range Rover Sport",
+    "Range Rover Velar"
+  ],
+  "notes": "Land Rover model catalog sourced from NHTSA vPIC (GetModelsForMake). 15 distinct models. Paint catalog intentionally empty for this scope; the web UI falls back to generic colors when an OEM has no dedicated paint rows yet. Merge with curated scopes via merge-oem-scopes to enrich with real paint codes.",
+  "exteriorPaintFile": "./exterior-paints-v1.json"
+}

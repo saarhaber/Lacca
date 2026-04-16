@@ -18,6 +18,7 @@
     "fetch:all": "tsx scripts/fetch-all-colors.ts",
     "merge:oem": "tsx scripts/merge-oem-scopes.ts",
     "seed:ral": "tsx scripts/seed-ral-classic.ts",
+    "seed:vpic": "tsx scripts/seed-vpic-all-oems.ts",
     "dev:web": "vite --config web/vite.config.ts",
     "build:web": "vite build --config web/vite.config.ts",
     "preview:web": "vite preview --config web/vite.config.ts"

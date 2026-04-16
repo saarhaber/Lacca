@@ -1,0 +1,18 @@
+{
+  "$schema": "../../../schemas/oem-scope-v1.schema.json",
+  "scopeId": "renault-vpic-v1",
+  "oem": "Renault",
+  "modelYears": {
+    "from": 2000,
+    "to": 2026
+  },
+  "models": [
+    "18i",
+    "Alliance",
+    "Encore",
+    "Fuego",
+    "LeCar"
+  ],
+  "notes": "Renault model catalog sourced from NHTSA vPIC (GetModelsForMake). 5 distinct models. Paint catalog intentionally empty for this scope; the web UI falls back to generic colors when an OEM has no dedicated paint rows yet. Merge with curated scopes via merge-oem-scopes to enrich with real paint codes.",
+  "exteriorPaintFile": "./exterior-paints-v1.json"
+}

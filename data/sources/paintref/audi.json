@@ -1,0 +1,1454 @@
+{
+  "oem": "Audi",
+  "fetchedAt": "2026-04-16T20:23:03.778Z",
+  "entries": [
+    {
+      "name": "brochures",
+      "hex": "#000000",
+      "make": "Audi"
+    },
+    {
+      "name": "<< customize your view",
+      "hex": "#606060",
+      "make": "Audi"
+    },
+    {
+      "code": "71691",
+      "make": "Audi",
+      "model": "Royal Red",
+      "year_from": 1968,
+      "year_to": 1970,
+      "models": [
+        "Royal Red"
+      ]
+    },
+    {
+      "code": "22897",
+      "make": "Audi",
+      "model": "Savannah Beige",
+      "year_from": 1968,
+      "year_to": 1974,
+      "models": [
+        "Sahara Beige",
+        "Sahara Sand",
+        "Savannah Beige"
+      ]
+    },
+    {
+      "code": "20824",
+      "make": "Audi",
+      "model": "Cobalt Blue",
+      "year_from": 1968,
+      "year_to": 1970,
+      "models": [
+        "Cobalt Blue"
+      ]
+    },
+    {
+      "code": "DT1469",
+      "make": "Audi",
+      "model": "Lotus White",
+      "year_from": 1969,
+      "year_to": 1970,
+      "models": [
+        "Lotus White"
+      ]
+    },
+    {
+      "code": "43918",
+      "make": "Audi",
+      "model": "Deep Sea Green",
+      "year_from": 1969,
+      "year_to": 1971,
+      "models": [
+        "Deep Sea Green"
+      ]
+    },
+    {
+      "code": "32717",
+      "make": "Audi",
+      "model": "Chinchilla",
+      "year_from": 1969,
+      "year_to": 1970,
+      "models": [
+        "Chinchilla"
+      ]
+    },
+    {
+      "code": "90621",
+      "hex": "#FFFFFE",
+      "make": "Audi",
+      "model": "Clementine",
+      "year_from": 1970,
+      "year_to": 1971,
+      "models": [
+        "Clementine"
+      ]
+    },
+    {
+      "code": "91290",
+      "make": "Audi",
+      "model": "Smoke Blue",
+      "year_from": 1970,
+      "year_to": 1974,
+      "models": [
+        "Smoke Blue"
+      ]
+    },
+    {
+      "code": "90626",
+      "hex": "#FFFFFE",
+      "make": "Audi",
+      "model": "Elm Green",
+      "year_from": 1970,
+      "year_to": 1971,
+      "models": [
+        "Elm Green"
+      ]
+    },
+    {
+      "code": "90629",
+      "make": "Audi",
+      "model": "Pastel White",
+      "year_from": 1970,
+      "year_to": 1971,
+      "models": [
+        "Pastel White"
+      ]
+    },
+    {
+      "code": "36000",
+      "make": "Audi",
+      "model": "Silver",
+      "year_from": 1970,
+      "year_to": 1971,
+      "models": [
+        "Silver"
+      ]
+    },
+    {
+      "code": "36001",
+      "hex": "#FFFFFE",
+      "make": "Audi",
+      "model": "Colorado",
+      "year_from": 1970,
+      "year_to": 1971,
+      "models": [
+        "Colorado"
+      ]
+    },
+    {
+      "code": "36003",
+      "make": "Audi",
+      "model": "Brown",
+      "year_from": 1970,
+      "year_to": 1970,
+      "models": [
+        "Brown"
+      ]
+    },
+    {
+      "code": "90737",
+      "name": "metallic",
+      "make": "Audi",
+      "model": "Blue",
+      "year_from": 1970,
+      "year_to": 1970,
+      "models": [
+        "Blue"
+      ]
+    },
+    {
+      "code": "36009LM",
+      "hex": "#FFFFFE",
+      "make": "Audi",
+      "model": "Iberian Red",
+      "year_from": 1971,
+      "year_to": 1975,
+      "models": [
+        "Iberian Red"
+      ]
+    },
+    {
+      "code": "36010",
+      "make": "Audi",
+      "model": "Sapphire Blue",
+      "year_from": 1971,
+      "year_to": 1971,
+      "models": [
+        "Sapphire Blue"
+      ]
+    },
+    {
+      "code": "90756",
+      "hex": "#000001",
+      "make": "Audi",
+      "model": "Marine Blue",
+      "year_from": 1971,
+      "year_to": 1971,
+      "models": [
+        "Marine Blue"
+      ]
+    },
+    {
+      "code": "90737",
+      "make": "Audi",
+      "model": "Blue",
+      "year_from": 1971,
+      "year_to": 1971,
+      "models": [
+        "Blue"
+      ]
+    },
+    {
+      "code": "91286",
+      "make": "Audi",
+      "model": "Corona Yellow",
+      "year_from": 1972,
+      "year_to": 1974,
+      "models": [
+        "Corona Yellow"
+      ]
+    },
+    {
+      "code": "37101LH",
+      "make": "Audi",
+      "model": "Tibet Orange",
+      "year_from": 1972,
+      "year_to": 1975,
+      "models": [
+        "Tibet Orange"
+      ]
+    },
+    {
+      "code": "91052",
+      "make": "Audi",
+      "model": "River Blue",
+      "year_from": 1972,
+      "year_to": 1972,
+      "models": [
+        "River Blue"
+      ]
+    },
+    {
+      "code": "91288",
+      "make": "Audi",
+      "model": "Hunter Green",
+      "year_from": 1972,
+      "year_to": 1972,
+      "models": [
+        "Hunter Green"
+      ]
+    },
+    {
+      "code": "91287",
+      "make": "Audi",
+      "model": "Emerald Green",
+      "year_from": 1972,
+      "year_to": 1972,
+      "models": [
+        "Emerald Green"
+      ]
+    },
+    {
+      "code": "91051",
+      "make": "Audi",
+      "model": "Nevada Beige",
+      "year_from": 1972,
+      "year_to": 1972,
+      "models": [
+        "Nevada Beige"
+      ]
+    },
+    {
+      "code": "91055",
+      "make": "Audi",
+      "model": "Aero Blue",
+      "year_from": 1972,
+      "year_to": 1972,
+      "models": [
+        "Aero Blue"
+      ]
+    },
+    {
+      "code": "91056",
+      "make": "Audi",
+      "model": "Turquoise Green",
+      "year_from": 1972,
+      "year_to": 1972,
+      "models": [
+        "Turquoise Green"
+      ]
+    },
+    {
+      "code": "99L",
+      "hex": "#FFFFFE",
+      "make": "Audi",
+      "model": "Black",
+      "year_from": 1973,
+      "year_to": 1975,
+      "models": [
+        "Black"
+      ]
+    },
+    {
+      "code": "43002LM",
+      "make": "Audi",
+      "model": "Coral",
+      "year_from": 1973,
+      "year_to": 1975,
+      "models": [
+        "Coral",
+        "Coralle"
+      ]
+    },
+    {
+      "code": "91512",
+      "make": "Audi",
+      "model": "Delft Blue",
+      "year_from": 1973,
+      "year_to": 1974,
+      "models": [
+        "Delft Blue"
+      ]
+    },
+    {
+      "code": "91513",
+      "make": "Audi",
+      "model": "Spanish Green",
+      "year_from": 1973,
+      "year_to": 1973,
+      "models": [
+        "Spanish Green"
+      ]
+    },
+    {
+      "code": "91521",
+      "name": "(ACME 91514 metallic version)",
+      "make": "Audi",
+      "model": "Agate Brown",
+      "year_from": 1973,
+      "year_to": 1973,
+      "models": [
+        "Agate Brown"
+      ]
+    },
+    {
+      "code": "42723LH",
+      "hex": "#000001",
+      "make": "Audi",
+      "model": "Atlas White",
+      "year_from": 1973,
+      "year_to": 1975,
+      "models": [
+        "Atlas White"
+      ]
+    },
+    {
+      "code": "91409",
+      "make": "Audi",
+      "model": "Alaska Blue",
+      "year_from": 1973,
+      "year_to": 1974,
+      "models": [
+        "Alaska Blue"
+      ]
+    },
+    {
+      "code": "91410",
+      "make": "Audi",
+      "model": "Marathon Blue",
+      "year_from": 1973,
+      "year_to": 1973,
+      "models": [
+        "Marathon Blue"
+      ]
+    },
+    {
+      "code": "DT7928",
+      "make": "Audi",
+      "model": "Tropical Green",
+      "year_from": 1974,
+      "year_to": 1974,
+      "models": [
+        "Tropical Green"
+      ]
+    },
+    {
+      "code": "91521",
+      "make": "Audi",
+      "model": "Agate Brown",
+      "year_from": 1974,
+      "year_to": 1974,
+      "models": [
+        "Agate Brown"
+      ]
+    },
+    {
+      "code": "43384LH",
+      "make": "Audi",
+      "model": "Maroon",
+      "year_from": 1974,
+      "year_to": 1975,
+      "models": [
+        "Maroon"
+      ]
+    },
+    {
+      "code": "36030LH",
+      "make": "Audi",
+      "model": "Marathon Silver",
+      "year_from": 1974,
+      "year_to": 1975,
+      "models": [
+        "Marathon Silver"
+      ]
+    },
+    {
+      "code": "91514",
+      "name": "metallic",
+      "make": "Audi",
+      "model": "Agate Brown",
+      "year_from": 1974,
+      "year_to": 1974,
+      "models": [
+        "Agate Brown"
+      ]
+    },
+    {
+      "code": "91821",
+      "make": "Audi",
+      "model": "Turquoise",
+      "year_from": 1974,
+      "year_to": 1974,
+      "models": [
+        "Turquoise"
+      ]
+    },
+    {
+      "code": "91739",
+      "make": "Audi",
+      "model": "Rallye Yellow",
+      "year_from": 1975,
+      "year_to": 1975,
+      "models": [
+        "Rallye Yellow"
+      ]
+    },
+    {
+      "code": "91402",
+      "hex": "#000001",
+      "make": "Audi",
+      "model": "Ceylon Beige",
+      "year_from": 1975,
+      "year_to": 1975,
+      "models": [
+        "Ceylon Beige"
+      ]
+    },
+    {
+      "code": "91741",
+      "hex": "#FFFFFE",
+      "make": "Audi",
+      "model": "African Red",
+      "year_from": 1975,
+      "year_to": 1975,
+      "models": [
+        "African Red"
+      ]
+    },
+    {
+      "code": "91403",
+      "make": "Audi",
+      "model": "Rallye Red",
+      "year_from": 1975,
+      "year_to": 1975,
+      "models": [
+        "Rallye Red"
+      ]
+    },
+    {
+      "code": "42720LM",
+      "make": "Audi",
+      "model": "Delft Blue",
+      "year_from": 1975,
+      "year_to": 1975,
+      "models": [
+        "Delft Blue"
+      ]
+    },
+    {
+      "code": "91743",
+      "hex": "#FFFFFE",
+      "make": "Audi",
+      "model": "Cliff Green",
+      "year_from": 1975,
+      "year_to": 1975,
+      "models": [
+        "Cliff Green"
+      ]
+    },
+    {
+      "code": "45075",
+      "make": "Audi",
+      "model": "Signal Green",
+      "year_from": 1975,
+      "year_to": 1975,
+      "models": [
+        "Signal Green"
+      ]
+    },
+    {
+      "code": "43001LH",
+      "make": "Audi",
+      "model": "Spanish Green",
+      "year_from": 1975,
+      "year_to": 1975,
+      "models": [
+        "Spanish Green"
+      ]
+    },
+    {
+      "code": "43003LH",
+      "make": "Audi",
+      "model": "Agate Brown",
+      "year_from": 1975,
+      "year_to": 1975,
+      "models": [
+        "Agate Brown"
+      ]
+    },
+    {
+      "code": "43835",
+      "make": "Audi",
+      "model": "Ancona",
+      "year_from": 1975,
+      "year_to": 1975,
+      "models": [
+        "Ancona"
+      ]
+    },
+    {
+      "code": "43889",
+      "make": "Audi",
+      "model": "Sienna",
+      "year_from": 1975,
+      "year_to": 1976,
+      "models": [
+        "Sienna"
+      ]
+    },
+    {
+      "code": "43836",
+      "make": "Audi",
+      "model": "Lime Green",
+      "year_from": 1975,
+      "year_to": 1975,
+      "models": [
+        "Lime Green"
+      ]
+    },
+    {
+      "code": "14850",
+      "make": "Audi",
+      "model": "Mariner Blue",
+      "year_from": 1975,
+      "year_to": 1976,
+      "models": [
+        "Mariner Blue"
+      ]
+    },
+    {
+      "code": "43838",
+      "make": "Audi",
+      "model": "Harvest Gold",
+      "year_from": 1975,
+      "year_to": 1975,
+      "models": [
+        "Harvest Gold"
+      ]
+    },
+    {
+      "code": "43301",
+      "make": "Audi",
+      "model": "Rallye Yellow",
+      "year_from": 1976,
+      "year_to": 1976,
+      "models": [
+        "Rallye Yellow"
+      ]
+    },
+    {
+      "code": "43891",
+      "make": "Audi",
+      "model": "Panama Yellow",
+      "year_from": 1976,
+      "year_to": 1976,
+      "models": [
+        "Panama Yellow"
+      ]
+    },
+    {
+      "code": "43004",
+      "hex": "#000001",
+      "make": "Audi",
+      "model": "Ceylon Beige",
+      "year_from": 1976,
+      "year_to": 1976,
+      "models": [
+        "Ceylon Beige"
+      ]
+    },
+    {
+      "code": "43689",
+      "make": "Audi",
+      "model": "Cadiz Orange",
+      "year_from": 1976,
+      "year_to": 1976,
+      "models": [
+        "Cadiz Orange"
+      ]
+    },
+    {
+      "code": "37101",
+      "make": "Audi",
+      "model": "Tibet Orange",
+      "year_from": 1976,
+      "year_to": 1976,
+      "models": [
+        "Tibet Orange"
+      ]
+    },
+    {
+      "code": "43302",
+      "hex": "#FFFFFE",
+      "make": "Audi",
+      "model": "African Red",
+      "year_from": 1976,
+      "year_to": 1976,
+      "models": [
+        "African Red"
+      ]
+    },
+    {
+      "code": "36009",
+      "hex": "#FFFFFE",
+      "make": "Audi",
+      "model": "Iberian Red",
+      "year_from": 1976,
+      "year_to": 1976,
+      "models": [
+        "Iberian Red"
+      ]
+    },
+    {
+      "code": "43428",
+      "make": "Audi",
+      "model": "Scarlet Red",
+      "year_from": 1976,
+      "year_to": 1976,
+      "models": [
+        "Scarlet Red"
+      ]
+    },
+    {
+      "code": "43002",
+      "make": "Audi",
+      "model": "Coralle",
+      "year_from": 1976,
+      "year_to": 1976,
+      "models": [
+        "Coralle"
+      ]
+    },
+    {
+      "code": "43833",
+      "make": "Audi",
+      "model": "Miami Blue",
+      "year_from": 1976,
+      "year_to": 1976,
+      "models": [
+        "Miami Blue"
+      ]
+    },
+    {
+      "code": "43890",
+      "make": "Audi",
+      "model": "Antigua Blue",
+      "year_from": 1976,
+      "year_to": 1976,
+      "models": [
+        "Antigua Blue"
+      ]
+    },
+    {
+      "code": "43003",
+      "make": "Audi",
+      "model": "Agate Brown",
+      "year_from": 1976,
+      "year_to": 1976,
+      "models": [
+        "Agate Brown"
+      ]
+    },
+    {
+      "code": "43384",
+      "make": "Audi",
+      "model": "Maroon",
+      "year_from": 1976,
+      "year_to": 1976,
+      "models": [
+        "Maroon"
+      ]
+    },
+    {
+      "code": "44961",
+      "make": "Audi",
+      "model": "Polar White",
+      "year_from": 1976,
+      "year_to": 1976,
+      "models": [
+        "Polar White"
+      ]
+    },
+    {
+      "code": "42723",
+      "hex": "#000001",
+      "make": "Audi",
+      "model": "Atlas White",
+      "year_from": 1976,
+      "year_to": 1976,
+      "models": [
+        "Atlas White"
+      ]
+    },
+    {
+      "code": "36030",
+      "make": "Audi",
+      "model": "Marathon Blue",
+      "year_from": 1976,
+      "year_to": 1976,
+      "models": [
+        "Marathon Blue"
+      ]
+    },
+    {
+      "code": "43881",
+      "make": "Audi",
+      "model": "Diamond Silver",
+      "year_from": 1976,
+      "year_to": 1983,
+      "models": [
+        "Diamond Silver"
+      ]
+    },
+    {
+      "code": "45601",
+      "make": "Audi",
+      "model": "Alpine White",
+      "year_from": 1980,
+      "year_to": 1983,
+      "models": [
+        "Alpine White"
+      ]
+    },
+    {
+      "code": "24479",
+      "make": "Audi",
+      "model": "Copper",
+      "year_from": 1980,
+      "year_to": 1980,
+      "models": [
+        "Copper"
+      ]
+    },
+    {
+      "code": "72434",
+      "make": "Audi",
+      "model": "Mars Red",
+      "year_from": 1980,
+      "year_to": 1980,
+      "models": [
+        "Mars Red"
+      ]
+    },
+    {
+      "code": "22591",
+      "make": "Audi",
+      "model": "Indiana Red",
+      "year_from": 1980,
+      "year_to": 1981,
+      "models": [
+        "Indiana Red"
+      ]
+    },
+    {
+      "code": "15441",
+      "make": "Audi",
+      "model": "Monaco Blue",
+      "year_from": 1980,
+      "year_to": 1980,
+      "models": [
+        "Monaco Blue"
+      ]
+    },
+    {
+      "code": "15440",
+      "hex": "#FFFFFE",
+      "make": "Audi",
+      "model": "Helios Blue",
+      "year_from": 1980,
+      "year_to": 1983,
+      "models": [
+        "Helios Blue"
+      ]
+    },
+    {
+      "code": "45599",
+      "make": "Audi",
+      "model": "Onyx Green",
+      "year_from": 1980,
+      "year_to": 1981,
+      "models": [
+        "Onyx Green"
+      ]
+    },
+    {
+      "code": "G7859",
+      "make": "Audi",
+      "model": "Mexico Beige",
+      "year_from": 1980,
+      "year_to": 1980,
+      "models": [
+        "Mexico Beige"
+      ]
+    },
+    {
+      "code": "51078",
+      "make": "Audi",
+      "model": "Amethyst",
+      "year_from": 1980,
+      "year_to": 1980,
+      "models": [
+        "Amethyst"
+      ]
+    },
+    {
+      "code": "33357",
+      "make": "Audi",
+      "model": "Dolomite Gray",
+      "year_from": 1980,
+      "year_to": 1980,
+      "models": [
+        "Dolomite Gray"
+      ]
+    },
+    {
+      "code": "L7852",
+      "make": "Audi",
+      "model": "Merian Brown",
+      "year_from": 1980,
+      "year_to": 1980,
+      "models": [
+        "Merian Brown"
+      ]
+    },
+    {
+      "code": "99",
+      "hex": "#FFFFFE",
+      "make": "Audi",
+      "model": "Black",
+      "year_from": 1981,
+      "year_to": 1981,
+      "models": [
+        "Black"
+      ]
+    },
+    {
+      "code": "45335",
+      "make": "Audi",
+      "model": "Inari Silver",
+      "year_from": 1981,
+      "year_to": 1981,
+      "models": [
+        "Inari Silver"
+      ]
+    },
+    {
+      "code": "25031",
+      "make": "Audi",
+      "model": "Colorado Beige",
+      "year_from": 1981,
+      "year_to": 1983,
+      "models": [
+        "Colorado Beige"
+      ]
+    },
+    {
+      "code": "25032",
+      "make": "Audi",
+      "model": "Havana Brown",
+      "year_from": 1981,
+      "year_to": 1981,
+      "models": [
+        "Havana Brown"
+      ]
+    },
+    {
+      "code": "72477",
+      "make": "Audi",
+      "model": "Saturn Red",
+      "year_from": 1981,
+      "year_to": 1981,
+      "models": [
+        "Saturn Red"
+      ]
+    },
+    {
+      "code": "33930",
+      "make": "Audi",
+      "model": "Meteor Gray",
+      "year_from": 1981,
+      "year_to": 1983,
+      "models": [
+        "Meteor Gray"
+      ]
+    },
+    {
+      "code": "99",
+      "name": "Quattro",
+      "hex": "#FFFFFE",
+      "make": "Audi",
+      "model": "Black",
+      "year_from": 1982,
+      "year_to": 1983,
+      "models": [
+        "Black"
+      ]
+    },
+    {
+      "code": "72434",
+      "name": "Quattro",
+      "make": "Audi",
+      "model": "Mars Red",
+      "year_from": 1982,
+      "year_to": 1983,
+      "models": [
+        "Mars Red"
+      ]
+    },
+    {
+      "code": "15440",
+      "name": "Quattro",
+      "hex": "#FFFFFE",
+      "make": "Audi",
+      "model": "Helios Blue",
+      "year_from": 1982,
+      "year_to": 1982,
+      "models": [
+        "Helios Blue"
+      ]
+    },
+    {
+      "code": "45723",
+      "name": "Quattro",
+      "make": "Audi",
+      "model": "Lhasa Green",
+      "year_from": 1982,
+      "year_to": 1982,
+      "models": [
+        "Lhasa Green"
+      ]
+    },
+    {
+      "code": "43881",
+      "name": "Quattro",
+      "make": "Audi",
+      "model": "Diamond Silver",
+      "year_from": 1982,
+      "year_to": 1982,
+      "models": [
+        "Diamond Silver"
+      ]
+    },
+    {
+      "code": "25177",
+      "name": "Quattro",
+      "make": "Audi",
+      "model": "Gobi Beige",
+      "year_from": 1982,
+      "year_to": 1982,
+      "models": [
+        "Gobi Beige"
+      ]
+    },
+    {
+      "code": "H8288",
+      "name": "Quattro",
+      "make": "Audi",
+      "model": "Amazon Blue",
+      "year_from": 1983,
+      "year_to": 1983,
+      "models": [
+        "Amazon Blue"
+      ]
+    },
+    {
+      "code": "72529",
+      "make": "Audi",
+      "model": "Gambia Red",
+      "year_from": 1983,
+      "year_to": 1983,
+      "models": [
+        "Gambia Red"
+      ]
+    },
+    {
+      "code": "72530",
+      "make": "Audi",
+      "model": "Surinam Red",
+      "year_from": 1983,
+      "year_to": 1983,
+      "models": [
+        "Surinam Red"
+      ]
+    },
+    {
+      "code": "45723",
+      "make": "Audi",
+      "model": "Lhasa Green",
+      "year_from": 1983,
+      "year_to": 1983,
+      "models": [
+        "Lhasa Green"
+      ]
+    },
+    {
+      "code": "72577",
+      "make": "Audi",
+      "model": "Sienna Red",
+      "year_from": 1983,
+      "year_to": 1983,
+      "models": [
+        "Sienna Red"
+      ]
+    },
+    {
+      "code": "23251",
+      "make": "Audi",
+      "model": "Bahia Beige",
+      "year_from": 1983,
+      "year_to": 1983,
+      "models": [
+        "Bahia Beige"
+      ]
+    },
+    {
+      "code": "25177",
+      "make": "Audi",
+      "model": "Gobi Beige",
+      "year_from": 1983,
+      "year_to": 1983,
+      "models": [
+        "Gobi Beige"
+      ]
+    },
+    {
+      "code": "72584",
+      "make": "Audi",
+      "model": "Port Rose",
+      "year_from": 1983,
+      "year_to": 1983,
+      "models": [
+        "Port Rose"
+      ]
+    },
+    {
+      "code": "15735",
+      "hex": "#000001",
+      "make": "Audi",
+      "model": "Sapphire",
+      "year_from": 1983,
+      "year_to": 1983,
+      "models": [
+        "Sapphire"
+      ]
+    },
+    {
+      "code": "15741",
+      "make": "Audi",
+      "model": "Amazon Blue",
+      "year_from": 1983,
+      "year_to": 1983,
+      "models": [
+        "Amazon Blue"
+      ]
+    },
+    {
+      "code": "15861",
+      "name": "Quattro",
+      "make": "Audi",
+      "model": "Oceanic Blue",
+      "year_from": 1983,
+      "year_to": 1983,
+      "models": [
+        "Oceanic Blue"
+      ]
+    },
+    {
+      "code": "33669",
+      "make": "Audi",
+      "model": "Zermatt Silver",
+      "year_from": 1983,
+      "year_to": 1983,
+      "models": [
+        "Zermatt Silver"
+      ]
+    },
+    {
+      "code": "25325",
+      "make": "Audi",
+      "model": "Barcellona Brown",
+      "year_from": 1983,
+      "year_to": 1983,
+      "models": [
+        "Barcellona Brown"
+      ]
+    },
+    {
+      "code": "25321",
+      "make": "Audi",
+      "model": "Sable Brown",
+      "year_from": 1983,
+      "year_to": 1983,
+      "models": [
+        "Sable Brown"
+      ]
+    },
+    {
+      "code": "H8291",
+      "name": "metallic",
+      "make": "Audi",
+      "model": "Montego Black",
+      "year_from": 1983,
+      "year_to": 1983,
+      "models": [
+        "Montego Black"
+      ]
+    },
+    {
+      "code": "33570",
+      "name": "Quattro",
+      "make": "Audi",
+      "model": "Gemini Gray",
+      "year_from": 1983,
+      "year_to": 1983,
+      "models": [
+        "Gemini Gray"
+      ]
+    },
+    {
+      "code": "45601",
+      "name": "Quattro",
+      "make": "Audi",
+      "model": "Alpine White",
+      "year_from": 1983,
+      "year_to": 1983,
+      "models": [
+        "Alpine White"
+      ]
+    },
+    {
+      "code": "72584",
+      "name": "Quattro",
+      "make": "Audi",
+      "model": "Port Rose",
+      "year_from": 1983,
+      "year_to": 1984,
+      "models": [
+        "Port Rose"
+      ]
+    },
+    {
+      "code": "25471",
+      "name": "Quattro",
+      "make": "Audi",
+      "model": "Nevada Beige",
+      "year_from": 1984,
+      "year_to": 1986,
+      "models": [
+        "Nevada Beige"
+      ]
+    },
+    {
+      "code": "15860",
+      "name": "Quattro",
+      "make": "Audi",
+      "model": "Stratos Blue",
+      "year_from": 1984,
+      "year_to": 1984,
+      "models": [
+        "Stratos Blue"
+      ]
+    },
+    {
+      "code": "33793",
+      "name": "Quattro",
+      "make": "Audi",
+      "model": "Bronze Gray",
+      "year_from": 1984,
+      "year_to": 1984,
+      "models": [
+        "Bronze Gray"
+      ]
+    },
+    {
+      "code": "25322",
+      "name": "Quattro",
+      "make": "Audi",
+      "model": "Umbra Brown",
+      "year_from": 1984,
+      "year_to": 1984,
+      "models": [
+        "Umbra Brown"
+      ]
+    },
+    {
+      "code": "33669",
+      "name": "Quattro",
+      "make": "Audi",
+      "model": "Zermatt Silver",
+      "year_from": 1984,
+      "year_to": 1984,
+      "models": [
+        "Zermatt Silver"
+      ]
+    },
+    {
+      "code": "72529",
+      "name": "Quattro",
+      "make": "Audi",
+      "model": "Gambia Red",
+      "year_from": 1984,
+      "year_to": 1984,
+      "models": [
+        "Gambia Red"
+      ]
+    },
+    {
+      "code": "33930",
+      "name": "Quattro",
+      "make": "Audi",
+      "model": "Meteor Gray",
+      "year_from": 1984,
+      "year_to": 1984,
+      "models": [
+        "Meteor Gray"
+      ]
+    },
+    {
+      "code": "H8288",
+      "name": "5000S Quattro",
+      "make": "Audi",
+      "model": "Amazon Blue",
+      "year_from": 1985,
+      "year_to": 1985,
+      "models": [
+        "Amazon Blue"
+      ]
+    },
+    {
+      "code": "45601",
+      "name": "4000S 5000S Quattro",
+      "make": "Audi",
+      "model": "Alpine White",
+      "year_from": 1985,
+      "year_to": 1985,
+      "models": [
+        "Alpine White"
+      ]
+    },
+    {
+      "code": "25658",
+      "name": "also Kalahari Beige, 4000S 5000S",
+      "hex": "#000001",
+      "make": "Audi",
+      "model": "Calahari Beige",
+      "year_from": 1985,
+      "year_to": 1985,
+      "models": [
+        "Calahari Beige"
+      ]
+    },
+    {
+      "code": "72744",
+      "name": "4000S 5000S Quattro",
+      "make": "Audi",
+      "model": "Titian Red",
+      "year_from": 1985,
+      "year_to": 1985,
+      "models": [
+        "Titian Red"
+      ]
+    },
+    {
+      "code": "L8531",
+      "name": "4000S 5000S Quattro",
+      "make": "Audi",
+      "model": "Graphite Black",
+      "year_from": 1985,
+      "year_to": 1985,
+      "models": [
+        "Graphite Black"
+      ]
+    },
+    {
+      "code": "25659",
+      "name": "4000S 5000S Quattro",
+      "make": "Audi",
+      "model": "Mahogany Brown",
+      "year_from": 1985,
+      "year_to": 1985,
+      "models": [
+        "Mahogany Brown"
+      ]
+    },
+    {
+      "code": "90255",
+      "make": "Audi",
+      "model": "Ivory",
+      "year_from": 1985,
+      "year_to": 1986,
+      "models": [
+        "Ivory"
+      ]
+    },
+    {
+      "code": "72652",
+      "name": "4000S Quattro",
+      "hex": "#FFFFFE",
+      "make": "Audi",
+      "model": "Tornado Red",
+      "year_from": 1985,
+      "year_to": 1985,
+      "models": [
+        "Tornado Red"
+      ]
+    },
+    {
+      "code": "15734",
+      "make": "Audi",
+      "model": "Copenhagen Blue",
+      "year_from": 1985,
+      "year_to": 1985,
+      "models": [
+        "Copenhagen Blue"
+      ]
+    },
+    {
+      "code": "15735",
+      "name": "4000S 5000S Quattro",
+      "hex": "#000001",
+      "make": "Audi",
+      "model": "Sapphire",
+      "year_from": 1985,
+      "year_to": 1985,
+      "models": [
+        "Sapphire"
+      ]
+    },
+    {
+      "code": "15861",
+      "name": "4000S Quattro",
+      "make": "Audi",
+      "model": "Oceanic Blue",
+      "year_from": 1985,
+      "year_to": 1985,
+      "models": [
+        "Oceanic Blue"
+      ]
+    },
+    {
+      "code": "33917",
+      "name": "4000S 5000S Quattro",
+      "hex": "#FFFFFE",
+      "make": "Audi",
+      "model": "Stone Gray",
+      "year_from": 1985,
+      "year_to": 1985,
+      "models": [
+        "Stone Gray"
+      ]
+    },
+    {
+      "code": "33669",
+      "name": "4000S 5000S Quattro",
+      "make": "Audi",
+      "model": "Zermatt Silver",
+      "year_from": 1985,
+      "year_to": 1985,
+      "models": [
+        "Zermatt Silver"
+      ]
+    },
+    {
+      "code": "45601",
+      "name": "4000S 5000S Coupe GT",
+      "make": "Audi",
+      "model": "Alpine White",
+      "year_from": 1986,
+      "year_to": 1986,
+      "models": [
+        "Alpine White"
+      ]
+    },
+    {
+      "code": "25658",
+      "hex": "#000001",
+      "make": "Audi",
+      "model": "Calahari Beige",
+      "year_from": 1986,
+      "year_to": 1986,
+      "models": [
+        "Calahari Beige"
+      ]
+    },
+    {
+      "code": "72744",
+      "name": "4000S 5000S Coupe GT",
+      "make": "Audi",
+      "model": "Titian Red",
+      "year_from": 1986,
+      "year_to": 1986,
+      "models": [
+        "Titian Red"
+      ]
+    },
+    {
+      "code": "L8531",
+      "name": "4000S 5000S Coupe GT",
+      "make": "Audi",
+      "model": "Graphite Black",
+      "year_from": 1986,
+      "year_to": 1986,
+      "models": [
+        "Graphite Black"
+      ]
+    },
+    {
+      "code": "90374",
+      "make": "Audi",
+      "model": "Pearl White",
+      "year_from": 1986,
+      "year_to": 1986,
+      "models": [
+        "Pearl White"
+      ]
+    },
+    {
+      "name": "Mustangs:",
+      "hex": "#9D3A00",
+      "make": "Audi"
+    }
+  ]
+}

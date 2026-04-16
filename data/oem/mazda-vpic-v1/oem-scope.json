@@ -1,0 +1,41 @@
+{
+  "$schema": "../../../schemas/oem-scope-v1.schema.json",
+  "scopeId": "mazda-vpic-v1",
+  "oem": "Mazda",
+  "modelYears": {
+    "from": 2000,
+    "to": 2026
+  },
+  "models": [
+    "323",
+    "626",
+    "929",
+    "B-Series",
+    "CX-3",
+    "CX-30",
+    "CX-5",
+    "CX-50",
+    "CX-7",
+    "CX-70",
+    "CX-9",
+    "CX-90",
+    "GLC",
+    "Mazda2",
+    "Mazda3",
+    "Mazda5",
+    "Mazda6",
+    "Millenia",
+    "MPV",
+    "MX-3",
+    "MX-30",
+    "MX-5",
+    "MX-6",
+    "Navajo",
+    "Protege",
+    "RX-7",
+    "RX-8",
+    "Tribute"
+  ],
+  "notes": "Mazda model catalog sourced from NHTSA vPIC (GetModelsForMake). 28 distinct models. Paint catalog intentionally empty for this scope; the web UI falls back to generic colors when an OEM has no dedicated paint rows yet. Merge with curated scopes via merge-oem-scopes to enrich with real paint codes.",
+  "exteriorPaintFile": "./exterior-paints-v1.json"
+}

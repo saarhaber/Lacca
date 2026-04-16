@@ -1,0 +1,3643 @@
+{
+  "oem": "Kia",
+  "fetchedAt": "2026-04-16T20:29:12.471Z",
+  "entries": [
+    {
+      "name": "brochures",
+      "hex": "#000000",
+      "make": "Kia"
+    },
+    {
+      "name": "<< customize your view",
+      "hex": "#606060",
+      "make": "Kia"
+    },
+    {
+      "code": "48527",
+      "make": "Kia",
+      "model": "Sea Green",
+      "models": [
+        "Sea Green"
+      ]
+    },
+    {
+      "code": "95092",
+      "make": "Kia",
+      "model": "Black",
+      "models": [
+        "Black"
+      ]
+    },
+    {
+      "code": "19429",
+      "make": "Kia",
+      "model": "Royal Blue",
+      "models": [
+        "Royal Blue"
+      ]
+    },
+    {
+      "code": "301181",
+      "name": "metallic",
+      "make": "Kia",
+      "model": "Sky Silver",
+      "models": [
+        "Sky Silver"
+      ]
+    },
+    {
+      "code": "91701",
+      "make": "Kia",
+      "model": "Special White",
+      "models": [
+        "Special White"
+      ]
+    },
+    {
+      "code": "194982",
+      "name": "mica",
+      "make": "Kia",
+      "model": "Bright Blue",
+      "models": [
+        "Bright Blue"
+      ]
+    },
+    {
+      "code": "34193",
+      "name": "Kiamaster Truck",
+      "make": "Kia",
+      "model": "Mild Gray",
+      "year_from": 1986,
+      "year_to": 1986,
+      "models": [
+        "Mild Gray"
+      ]
+    },
+    {
+      "code": "16252",
+      "name": "Kiamaster Truck",
+      "make": "Kia",
+      "model": "Squish Blue",
+      "year_from": 1986,
+      "year_to": 1986,
+      "models": [
+        "Squish Blue"
+      ]
+    },
+    {
+      "code": "25987",
+      "name": "Kiamaster Truck",
+      "make": "Kia",
+      "model": "Ivory Beige",
+      "year_from": 1986,
+      "year_to": 1986,
+      "models": [
+        "Ivory Beige"
+      ]
+    },
+    {
+      "code": "82720",
+      "name": "Kiamaster Truck",
+      "make": "Kia",
+      "model": "Yellow Ocher",
+      "year_from": 1986,
+      "year_to": 1986,
+      "models": [
+        "Yellow Ocher"
+      ]
+    },
+    {
+      "code": "90395",
+      "name": "Kiamaster Truck",
+      "make": "Kia",
+      "model": "Safety White",
+      "year_from": 1986,
+      "year_to": 1986,
+      "models": [
+        "Safety White"
+      ]
+    },
+    {
+      "code": "72899",
+      "name": "Kiamaster Truck",
+      "make": "Kia",
+      "model": "Hard Red",
+      "year_from": 1986,
+      "year_to": 1986,
+      "models": [
+        "Hard Red"
+      ]
+    },
+    {
+      "code": "46125",
+      "name": "metallic, Kiamaster Truck",
+      "make": "Kia",
+      "model": "Yorkshire Green",
+      "year_from": 1986,
+      "year_to": 1986,
+      "models": [
+        "Yorkshire Green"
+      ]
+    },
+    {
+      "code": "16253",
+      "name": "Kiamaster Truck",
+      "make": "Kia",
+      "model": "Lilac Blue",
+      "year_from": 1986,
+      "year_to": 1986,
+      "models": [
+        "Lilac Blue"
+      ]
+    },
+    {
+      "code": "34191",
+      "name": "low gloss metallic, Kiamaster Truck",
+      "make": "Kia",
+      "model": "Gray",
+      "year_from": 1986,
+      "year_to": 1986,
+      "models": [
+        "Gray"
+      ]
+    },
+    {
+      "code": "16254",
+      "name": "Kiamaster Truck",
+      "make": "Kia",
+      "model": "Santa Monica Blue",
+      "year_from": 1986,
+      "year_to": 1986,
+      "models": [
+        "Santa Monica Blue"
+      ]
+    },
+    {
+      "code": "25985",
+      "name": "metallic, Kiamaster Truck",
+      "make": "Kia",
+      "model": "Gold",
+      "year_from": 1986,
+      "year_to": 1986,
+      "models": [
+        "Gold"
+      ]
+    },
+    {
+      "code": "51253",
+      "name": "metallic, Kiamaster Truck",
+      "make": "Kia",
+      "model": "Chamois Lavender",
+      "year_from": 1986,
+      "year_to": 1986,
+      "models": [
+        "Chamois Lavender"
+      ]
+    },
+    {
+      "code": "34192",
+      "name": "metallic, Kiamaster Truck",
+      "make": "Kia",
+      "model": "Bluish Gray",
+      "year_from": 1986,
+      "year_to": 1986,
+      "models": [
+        "Bluish Gray"
+      ]
+    },
+    {
+      "code": "25988",
+      "name": "Kiamaster Truck",
+      "make": "Kia",
+      "model": "Mild Beige",
+      "year_from": 1986,
+      "year_to": 1986,
+      "models": [
+        "Mild Beige"
+      ]
+    },
+    {
+      "code": "16255",
+      "name": "metallic, Kiamaster Truck",
+      "make": "Kia",
+      "model": "Sierra Blue",
+      "year_from": 1986,
+      "year_to": 1986,
+      "models": [
+        "Sierra Blue"
+      ]
+    },
+    {
+      "code": "16256",
+      "name": "metallic, Kiamaster Truck",
+      "make": "Kia",
+      "model": "Lofty Blue",
+      "year_from": 1986,
+      "year_to": 1986,
+      "models": [
+        "Lofty Blue"
+      ]
+    },
+    {
+      "code": "D253B",
+      "make": "Kia",
+      "model": "Ultra Blue",
+      "year_from": 1991,
+      "year_to": 1991,
+      "models": [
+        "Ultra Blue"
+      ]
+    },
+    {
+      "code": "D254B",
+      "name": "metallic",
+      "make": "Kia",
+      "model": "Silver",
+      "year_from": 1991,
+      "year_to": 1995,
+      "models": [
+        "Silver"
+      ]
+    },
+    {
+      "code": "PK63B",
+      "make": "Kia",
+      "model": "Blue",
+      "year_from": 1991,
+      "year_to": 1995,
+      "models": [
+        "Blue"
+      ]
+    },
+    {
+      "code": "74115",
+      "make": "Kia",
+      "model": "Blaze Red",
+      "year_from": 1991,
+      "year_to": 1999,
+      "models": [
+        "Blaze Red"
+      ]
+    },
+    {
+      "code": "YN51",
+      "make": "Kia",
+      "model": "Oxford White",
+      "year_from": 1991,
+      "year_to": 2000,
+      "models": [
+        "Oxford White"
+      ]
+    },
+    {
+      "code": "6KC2B",
+      "name": "Taiwan",
+      "make": "Kia",
+      "model": "Yellow",
+      "year_from": 1991,
+      "year_to": 1991,
+      "models": [
+        "Yellow"
+      ]
+    },
+    {
+      "code": "47834",
+      "name": "mica",
+      "make": "Kia",
+      "model": "Whisper Green",
+      "year_from": 1993,
+      "year_to": 1997,
+      "models": [
+        "Whisper Green"
+      ]
+    },
+    {
+      "code": "18815",
+      "name": "mica",
+      "make": "Kia",
+      "model": "Brave Blue",
+      "year_from": 1993,
+      "year_to": 1999,
+      "models": [
+        "Brave Blue"
+      ]
+    },
+    {
+      "code": "18813",
+      "name": "metallic",
+      "make": "Kia",
+      "model": "Jean Blue",
+      "year_from": 1993,
+      "year_to": 1999,
+      "models": [
+        "Jean Blue"
+      ]
+    },
+    {
+      "code": "77095",
+      "name": "mica",
+      "make": "Kia",
+      "model": "Hot Red",
+      "year_from": 1993,
+      "year_to": 1997,
+      "models": [
+        "Hot Red"
+      ]
+    },
+    {
+      "code": "35762",
+      "name": "metallic",
+      "make": "Kia",
+      "model": "Beet Silver",
+      "year_from": 1993,
+      "year_to": 2002,
+      "models": [
+        "Beet Silver"
+      ]
+    },
+    {
+      "code": "27640",
+      "name": "metallic",
+      "make": "Kia",
+      "model": "Elegant Beige",
+      "year_from": 1993,
+      "year_to": 2000,
+      "models": [
+        "Elegant Beige"
+      ]
+    },
+    {
+      "code": "5WP2B",
+      "make": "Kia",
+      "model": "Kingfisher Blue",
+      "year_from": 1993,
+      "year_to": 2003,
+      "models": [
+        "Gruen",
+        "Kingfisher Blue",
+        "Kingfisher Green"
+      ]
+    },
+    {
+      "code": "74114",
+      "name": "metallic",
+      "make": "Kia",
+      "model": "Hot Red",
+      "year_from": 1993,
+      "year_to": 1997,
+      "models": [
+        "Hot Red"
+      ]
+    },
+    {
+      "code": "91211",
+      "make": "Kia",
+      "model": "Crystal White",
+      "year_from": 1993,
+      "year_to": 2006,
+      "models": [
+        "Crystal White"
+      ]
+    },
+    {
+      "code": "35761",
+      "name": "metallic",
+      "make": "Kia",
+      "model": "Dove Gray",
+      "year_from": 1993,
+      "year_to": 1997,
+      "models": [
+        "Dove Gray"
+      ]
+    },
+    {
+      "code": "28859",
+      "name": "metallic",
+      "make": "Kia",
+      "model": "Elegance Beige",
+      "year_from": 1993,
+      "year_to": 1997,
+      "models": [
+        "Elegance Beige"
+      ]
+    },
+    {
+      "code": "74480",
+      "make": "Kia",
+      "model": "Canadian Red",
+      "year_from": 1994,
+      "year_to": 1996,
+      "models": [
+        "Canadian Red"
+      ]
+    },
+    {
+      "code": "91416",
+      "make": "Kia",
+      "model": "Crystal White",
+      "year_from": 1994,
+      "year_to": 2003,
+      "models": [
+        "Crystal White"
+      ]
+    },
+    {
+      "code": "47860",
+      "name": "metallic",
+      "make": "Kia",
+      "model": "Night Green",
+      "year_from": 1994,
+      "year_to": 1996,
+      "models": [
+        "Night Green"
+      ]
+    },
+    {
+      "code": "47859",
+      "name": "metallic",
+      "make": "Kia",
+      "model": "Teal Green",
+      "year_from": 1994,
+      "year_to": 1999,
+      "models": [
+        "Teal Green"
+      ]
+    },
+    {
+      "code": "52392",
+      "name": "metallic",
+      "make": "Kia",
+      "model": "Pink Coral",
+      "year_from": 1994,
+      "year_to": 1994,
+      "models": [
+        "Pink Coral"
+      ]
+    },
+    {
+      "code": "18812",
+      "name": "metallic",
+      "make": "Kia",
+      "model": "Turquoise Blue",
+      "year_from": 1994,
+      "year_to": 2003,
+      "models": [
+        "Turquoise Blue"
+      ]
+    },
+    {
+      "code": "75105",
+      "make": "Kia",
+      "model": "Performance Red",
+      "year_from": 1994,
+      "year_to": 2000,
+      "models": [
+        "Performance Red"
+      ]
+    },
+    {
+      "code": "74481",
+      "name": "metallic",
+      "make": "Kia",
+      "model": "Radiant Red",
+      "year_from": 1994,
+      "year_to": 1995,
+      "models": [
+        "Azalea Red",
+        "Radiant Red"
+      ]
+    },
+    {
+      "code": "36668",
+      "name": "metallic",
+      "make": "Kia",
+      "model": "Super Silver",
+      "year_from": 1995,
+      "year_to": 1998,
+      "models": [
+        "Super Silver"
+      ]
+    },
+    {
+      "code": "74417",
+      "name": "late addition, metallic/pearl",
+      "make": "Kia",
+      "model": "Red",
+      "year_from": 1995,
+      "year_to": 1995,
+      "models": [
+        "Red"
+      ]
+    },
+    {
+      "code": "19299",
+      "name": "late addition",
+      "make": "Kia",
+      "model": "Navy Blue",
+      "year_from": 1995,
+      "year_to": 1995,
+      "models": [
+        "Navy Blue"
+      ]
+    },
+    {
+      "code": "190484",
+      "name": "metallic",
+      "make": "Kia",
+      "model": "Royal Blue",
+      "year_from": 1995,
+      "year_to": 2002,
+      "models": [
+        "Royal Blue"
+      ]
+    },
+    {
+      "code": "47749",
+      "make": "Kia",
+      "model": "Olive Green",
+      "year_from": 1995,
+      "year_to": 1997,
+      "models": [
+        "Olive Green"
+      ]
+    },
+    {
+      "code": "91699",
+      "make": "Kia",
+      "model": "Aspen White",
+      "year_from": 1995,
+      "year_to": 2000,
+      "models": [
+        "Aspen White"
+      ]
+    },
+    {
+      "code": "18815",
+      "make": "Kia",
+      "model": "Brave Blue",
+      "year_from": 1995,
+      "year_to": 1996,
+      "models": [
+        "Brave Blue"
+      ]
+    },
+    {
+      "code": "19430",
+      "name": "metallic",
+      "make": "Kia",
+      "model": "Prussian Blue",
+      "year_from": 1995,
+      "year_to": 2000,
+      "models": [
+        "Prussian Blue"
+      ]
+    },
+    {
+      "code": "19297",
+      "name": "mica, late addition",
+      "make": "Kia",
+      "model": "Iris",
+      "year_from": 1995,
+      "year_to": 1995,
+      "models": [
+        "Iris"
+      ]
+    },
+    {
+      "code": "F0193",
+      "name": "late addition",
+      "make": "Kia",
+      "model": "Ebony Black",
+      "year_from": 1995,
+      "year_to": 1995,
+      "models": [
+        "Ebony Black"
+      ]
+    },
+    {
+      "code": "36667",
+      "name": "metallic",
+      "make": "Kia",
+      "model": "Sunbeam Silver",
+      "year_from": 1995,
+      "year_to": 1998,
+      "models": [
+        "Starlet Silver",
+        "Sunbeam Silver"
+      ]
+    },
+    {
+      "code": "83684",
+      "name": "late addition",
+      "make": "Kia",
+      "model": "Pop Yellow",
+      "year_from": 1995,
+      "year_to": 1995,
+      "models": [
+        "Pop Yellow"
+      ]
+    },
+    {
+      "code": "36669",
+      "name": "metallic",
+      "make": "Kia",
+      "model": "Opal Grey",
+      "year_from": 1995,
+      "year_to": 2000,
+      "models": [
+        "Opal Grey"
+      ]
+    },
+    {
+      "code": "19298",
+      "name": "metallic, late addition",
+      "make": "Kia",
+      "model": "Blueberry",
+      "year_from": 1995,
+      "year_to": 1995,
+      "models": [
+        "Blueberry"
+      ]
+    },
+    {
+      "code": "402995",
+      "name": "trim",
+      "make": "Kia",
+      "model": "Olive Green",
+      "year_from": 1995,
+      "year_to": 2006,
+      "models": [
+        "Olive Green"
+      ]
+    },
+    {
+      "code": "95559",
+      "name": "trim",
+      "make": "Kia",
+      "model": "Ebony Black",
+      "year_from": 1995,
+      "year_to": 2006,
+      "models": [
+        "Ebony Black"
+      ]
+    },
+    {
+      "code": "74417",
+      "make": "Kia",
+      "model": "Red Pearl",
+      "year_from": 1996,
+      "year_to": 1997,
+      "models": [
+        "Red Pearl"
+      ]
+    },
+    {
+      "code": "19299",
+      "make": "Kia",
+      "model": "Navy Blue",
+      "year_from": 1996,
+      "year_to": 1996,
+      "models": [
+        "Navy Blue"
+      ]
+    },
+    {
+      "code": "19297",
+      "name": "mica",
+      "make": "Kia",
+      "model": "Iris",
+      "year_from": 1996,
+      "year_to": 1996,
+      "models": [
+        "Iris"
+      ]
+    },
+    {
+      "code": "F0193",
+      "make": "Kia",
+      "model": "Ebony Black",
+      "year_from": 1996,
+      "year_to": 1999,
+      "models": [
+        "Ebony Black"
+      ]
+    },
+    {
+      "code": "401054",
+      "name": "metallic",
+      "make": "Kia",
+      "model": "Pacific Green",
+      "year_from": 1996,
+      "year_to": 1998,
+      "models": [
+        "Pacific Green"
+      ]
+    },
+    {
+      "code": "83684",
+      "make": "Kia",
+      "model": "Pop Yellow",
+      "year_from": 1996,
+      "year_to": 2000,
+      "models": [
+        "Chrome Yellow",
+        "Pop Yellow"
+      ]
+    },
+    {
+      "code": "19298",
+      "name": "metallic",
+      "make": "Kia",
+      "model": "Blueberry",
+      "year_from": 1996,
+      "year_to": 2000,
+      "models": [
+        "Blueberry"
+      ]
+    },
+    {
+      "code": "48524",
+      "name": "metallic",
+      "make": "Kia",
+      "model": "Olive Sepia",
+      "year_from": 1997,
+      "year_to": 1999,
+      "models": [
+        "Olive Sepia"
+      ]
+    },
+    {
+      "code": "28688",
+      "name": "metallic",
+      "make": "Kia",
+      "model": "Bronze Beige",
+      "year_from": 1997,
+      "year_to": 1999,
+      "models": [
+        "Bronze Beige"
+      ]
+    },
+    {
+      "code": "193439",
+      "name": "metallic",
+      "make": "Kia",
+      "model": "Rapis",
+      "year_from": 1997,
+      "year_to": 1997,
+      "models": [
+        "Rapis"
+      ]
+    },
+    {
+      "code": "48528",
+      "make": "Kia",
+      "model": "Solid Green",
+      "year_from": 1997,
+      "year_to": 2000,
+      "models": [
+        "Solid Green"
+      ]
+    },
+    {
+      "code": "190486",
+      "name": "metallic",
+      "make": "Kia",
+      "model": "Guinea Blue",
+      "year_from": 1997,
+      "year_to": 1999,
+      "models": [
+        "Guinea Blue"
+      ]
+    },
+    {
+      "code": "36912",
+      "name": "metallic",
+      "make": "Kia",
+      "model": "Dove Grey",
+      "year_from": 1997,
+      "year_to": 1997,
+      "models": [
+        "Dove Grey"
+      ]
+    },
+    {
+      "code": "301158",
+      "name": "metallic",
+      "make": "Kia",
+      "model": "Graphite Purple",
+      "year_from": 1997,
+      "year_to": 1998,
+      "models": [
+        "Graphite Purple"
+      ]
+    },
+    {
+      "code": "52391",
+      "name": "mica",
+      "make": "Kia",
+      "model": "Aubergine",
+      "year_from": 1997,
+      "year_to": 1999,
+      "models": [
+        "Aubergine"
+      ]
+    },
+    {
+      "code": "83978",
+      "make": "Kia",
+      "model": "Bright Yellow",
+      "year_from": 1997,
+      "year_to": 1998,
+      "models": [
+        "Bright Yellow"
+      ]
+    },
+    {
+      "code": "74946",
+      "name": "mica",
+      "make": "Kia",
+      "model": "Garnet Red",
+      "year_from": 1998,
+      "year_to": 2002,
+      "models": [
+        "Garnet Red"
+      ]
+    },
+    {
+      "code": "48335",
+      "make": "Kia",
+      "model": "Evergreen",
+      "year_from": 1998,
+      "year_to": 1999,
+      "models": [
+        "Evergreen"
+      ]
+    },
+    {
+      "code": "401053",
+      "name": "metallic",
+      "make": "Kia",
+      "model": "Grass Green",
+      "year_from": 1998,
+      "year_to": 2006,
+      "models": [
+        "Grass Green"
+      ]
+    },
+    {
+      "code": "190485",
+      "make": "Kia",
+      "model": "Ocean Blue",
+      "year_from": 1998,
+      "year_to": 2000,
+      "models": [
+        "Ocean Blue"
+      ]
+    },
+    {
+      "code": "190543",
+      "name": "metallic",
+      "make": "Kia",
+      "model": "Cobalt Blue",
+      "year_from": 1998,
+      "year_to": 1999,
+      "models": [
+        "Cobalt Blue"
+      ]
+    },
+    {
+      "code": "36493",
+      "name": "metallic",
+      "make": "Kia",
+      "model": "Pewter",
+      "year_from": 1998,
+      "year_to": 2002,
+      "models": [
+        "Pewter",
+        "Pewter Silver",
+        "Sportage"
+      ]
+    },
+    {
+      "name": "Mustangs:",
+      "hex": "#9D3A00",
+      "make": "Kia"
+    },
+    {
+      "code": "193282",
+      "name": "metallic",
+      "make": "Kia",
+      "model": "Bright Sapphire",
+      "year_from": 1998,
+      "year_to": 2000,
+      "models": [
+        "Bright Sapphire"
+      ]
+    },
+    {
+      "code": "95091",
+      "name": "mica",
+      "make": "Kia",
+      "model": "Black Magic",
+      "year_from": 1998,
+      "year_to": 1999,
+      "models": [
+        "Black Magic",
+        "Black Pearl"
+      ]
+    },
+    {
+      "code": "91700",
+      "make": "Kia",
+      "model": "Polar White",
+      "year_from": 1998,
+      "year_to": 2000,
+      "models": [
+        "Polar White"
+      ]
+    },
+    {
+      "code": "91633",
+      "hex": "#000001",
+      "make": "Kia",
+      "model": "White",
+      "year_from": 1998,
+      "year_to": 1999,
+      "models": [
+        "White"
+      ]
+    },
+    {
+      "code": "52413",
+      "name": "pearl",
+      "make": "Kia",
+      "model": "Violet Mist",
+      "year_from": 1998,
+      "year_to": 1999,
+      "models": [
+        "Violet Mist"
+      ]
+    },
+    {
+      "code": "75146",
+      "make": "Kia",
+      "model": "Classic Red",
+      "year_from": 1998,
+      "year_to": 1999,
+      "models": [
+        "Classic Red"
+      ]
+    },
+    {
+      "code": "402987",
+      "name": "mica, trim",
+      "make": "Kia",
+      "model": "Evergreen",
+      "year_from": 1998,
+      "year_to": 2004,
+      "models": [
+        "Evergreen"
+      ]
+    },
+    {
+      "code": "93043",
+      "name": "trim",
+      "make": "Kia",
+      "model": "Polar White",
+      "year_from": 1998,
+      "year_to": 2005,
+      "models": [
+        "Polar White"
+      ]
+    },
+    {
+      "code": "93039",
+      "name": "trim",
+      "make": "Kia",
+      "model": "White",
+      "year_from": 1998,
+      "year_to": 2006,
+      "models": [
+        "White"
+      ]
+    },
+    {
+      "code": "701521",
+      "name": "trim",
+      "make": "Kia",
+      "model": "Classic Red",
+      "year_from": 1998,
+      "year_to": 2006,
+      "models": [
+        "Classic Red"
+      ]
+    },
+    {
+      "code": "201478",
+      "name": "metallic",
+      "make": "Kia",
+      "model": "Leadgold",
+      "year_from": 1999,
+      "year_to": 2003,
+      "models": [
+        "Leadgold",
+        "Reed Gold"
+      ]
+    },
+    {
+      "code": "49449",
+      "name": "metallic",
+      "make": "Kia",
+      "model": "Jade Green",
+      "year_from": 1999,
+      "year_to": 2002,
+      "models": [
+        "Jade Green",
+        "Sportage"
+      ]
+    },
+    {
+      "code": "191318",
+      "make": "Kia",
+      "model": "Sport Blue",
+      "year_from": 1999,
+      "year_to": 2003,
+      "models": [
+        "Sport Blue"
+      ]
+    },
+    {
+      "code": "700013",
+      "name": "mica",
+      "make": "Kia",
+      "model": "Crimson Red",
+      "year_from": 1999,
+      "year_to": 2000,
+      "models": [
+        "Crimson Red",
+        "Crimsonrot"
+      ]
+    },
+    {
+      "code": "95533",
+      "name": "mica",
+      "make": "Kia",
+      "model": "Midnight Black",
+      "year_from": 1999,
+      "year_to": 2001,
+      "models": [
+        "Midnight Black"
+      ]
+    },
+    {
+      "code": "194981",
+      "name": "metallic",
+      "make": "Kia",
+      "model": "Aquamarine Blue",
+      "year_from": 1999,
+      "year_to": 2000,
+      "models": [
+        "Aquamarine Blue",
+        "Marine Blue"
+      ]
+    },
+    {
+      "code": "402996",
+      "name": "metallic, trim",
+      "make": "Kia",
+      "model": "Jade Green",
+      "year_from": 1999,
+      "year_to": 2002,
+      "models": [
+        "Jade Green"
+      ]
+    },
+    {
+      "code": "49449",
+      "name": "metallic, Sephia Sportage",
+      "make": "Kia",
+      "model": "Jade Green",
+      "year_from": 2000,
+      "year_to": 2000,
+      "models": [
+        "Jade Green"
+      ]
+    },
+    {
+      "code": "74946",
+      "name": "mica, Sephia Sportage",
+      "make": "Kia",
+      "model": "Garnet Red",
+      "year_from": 2000,
+      "year_to": 2000,
+      "models": [
+        "Garnet Red"
+      ]
+    },
+    {
+      "code": "48335",
+      "name": "Sephia Sportage",
+      "make": "Kia",
+      "model": "Evergreen",
+      "year_from": 2000,
+      "year_to": 2000,
+      "models": [
+        "Evergreen"
+      ]
+    },
+    {
+      "code": "191318",
+      "name": "Sephia Sportage",
+      "make": "Kia",
+      "model": "Sport Blue",
+      "year_from": 2000,
+      "year_to": 2000,
+      "models": [
+        "Sport Blue"
+      ]
+    },
+    {
+      "code": "194503",
+      "name": "metallic",
+      "make": "Kia",
+      "model": "Grey Blue",
+      "year_from": 2000,
+      "year_to": 2002,
+      "models": [
+        "Grey Blue",
+        "Rio"
+      ]
+    },
+    {
+      "code": "190543",
+      "name": "metallic, Sephia Sportage",
+      "make": "Kia",
+      "model": "Cobalt Blue",
+      "year_from": 2000,
+      "year_to": 2000,
+      "models": [
+        "Cobalt Blue"
+      ]
+    },
+    {
+      "code": "75104",
+      "make": "Kia",
+      "model": "Brilliant Red",
+      "year_from": 2000,
+      "year_to": 2001,
+      "models": [
+        "Bright Red",
+        "Brilliant Red"
+      ]
+    },
+    {
+      "code": "36493",
+      "name": "metallic, also Pewter Silver, Sephia Sportage",
+      "make": "Kia",
+      "model": "Pewter",
+      "year_from": 2000,
+      "year_to": 2000,
+      "models": [
+        "Pewter"
+      ]
+    },
+    {
+      "code": "301151",
+      "name": "metallic",
+      "make": "Kia",
+      "model": "Crystal Silver",
+      "year_from": 2000,
+      "year_to": 2003,
+      "models": [
+        "Crystal Silver",
+        "Optima",
+        "Spectra"
+      ]
+    },
+    {
+      "code": "F0193",
+      "name": "Sephia Sportage",
+      "make": "Kia",
+      "model": "Ebony Black",
+      "year_from": 2000,
+      "year_to": 2000,
+      "models": [
+        "Ebony Black"
+      ]
+    },
+    {
+      "code": "62544",
+      "make": "Kia",
+      "model": "Jazz Orange",
+      "year_from": 2000,
+      "year_to": 2002,
+      "models": [
+        "Jazz Orange"
+      ]
+    },
+    {
+      "code": "402496",
+      "name": "metallic",
+      "make": "Kia",
+      "model": "Soldier Green",
+      "year_from": 2000,
+      "year_to": 2000,
+      "models": [
+        "Soldier Green"
+      ]
+    },
+    {
+      "code": "83977",
+      "make": "Kia",
+      "model": "Signal Yellow",
+      "year_from": 2000,
+      "year_to": 2000,
+      "models": [
+        "Signal Yellow"
+      ]
+    },
+    {
+      "code": "91633",
+      "name": "Sephia Sportage",
+      "hex": "#000001",
+      "make": "Kia",
+      "model": "Clear White",
+      "year_from": 2000,
+      "year_to": 2000,
+      "models": [
+        "Clear White"
+      ]
+    },
+    {
+      "code": "301192",
+      "name": "metallic",
+      "make": "Kia",
+      "model": "Iron Gray",
+      "year_from": 2000,
+      "year_to": 2003,
+      "models": [
+        "Iron Gray",
+        "Optima",
+        "Spectra"
+      ]
+    },
+    {
+      "code": "52413",
+      "name": "pearl, Sephia Sportage",
+      "make": "Kia",
+      "model": "Violet Mist",
+      "year_from": 2000,
+      "year_to": 2000,
+      "models": [
+        "Violet Mist"
+      ]
+    },
+    {
+      "code": "301157",
+      "name": "metallic",
+      "make": "Kia",
+      "model": "Medium Grey",
+      "year_from": 2000,
+      "year_to": 2006,
+      "models": [
+        "Medium Grey"
+      ]
+    },
+    {
+      "code": "75146",
+      "name": "Sephia Sportage",
+      "make": "Kia",
+      "model": "Classic Red",
+      "year_from": 2000,
+      "year_to": 2000,
+      "models": [
+        "Classic Red"
+      ]
+    },
+    {
+      "code": "300405",
+      "name": "metallic",
+      "make": "Kia",
+      "model": "Weight Silver",
+      "year_from": 2000,
+      "year_to": 2000,
+      "models": [
+        "Weight Silver"
+      ]
+    },
+    {
+      "code": "29666",
+      "name": "metallic",
+      "make": "Kia",
+      "model": "Gold Sand",
+      "year_from": 2000,
+      "year_to": 2001,
+      "models": [
+        "Gold Sand"
+      ]
+    },
+    {
+      "code": "113910",
+      "name": "metallic, trim",
+      "make": "Kia",
+      "model": "Steel Blue",
+      "year_from": 2000,
+      "year_to": 2002,
+      "models": [
+        "Steel Blue"
+      ]
+    },
+    {
+      "code": "301468",
+      "name": "metallic, trim",
+      "make": "Kia",
+      "model": "Crystal Silver",
+      "year_from": 2000,
+      "year_to": 2003,
+      "models": [
+        "Crystal Silver"
+      ]
+    },
+    {
+      "code": "93069",
+      "name": "trim",
+      "make": "Kia",
+      "model": "White",
+      "year_from": 2000,
+      "year_to": 2002,
+      "models": [
+        "White"
+      ]
+    },
+    {
+      "code": "306369",
+      "name": "metallic, trim",
+      "make": "Kia",
+      "model": "Iron Gray",
+      "year_from": 2000,
+      "year_to": 2003,
+      "models": [
+        "Iron Gray"
+      ]
+    },
+    {
+      "code": "402009",
+      "name": "metallic, Rio",
+      "make": "Kia",
+      "model": "Emerald Green",
+      "year_from": 2001,
+      "year_to": 2002,
+      "models": [
+        "Emerald Green"
+      ]
+    },
+    {
+      "code": "85125",
+      "name": "metallic, Rio",
+      "make": "Kia",
+      "model": "Sunburst Gold",
+      "year_from": 2001,
+      "year_to": 2001,
+      "models": [
+        "Sunburst Gold"
+      ]
+    },
+    {
+      "code": "195032",
+      "name": "metallic, Optima Spectra",
+      "make": "Kia",
+      "model": "Steel Blue",
+      "year_from": 2001,
+      "year_to": 2001,
+      "models": [
+        "Steel Blue"
+      ]
+    },
+    {
+      "code": "49449",
+      "name": "metallic, Sportage",
+      "make": "Kia",
+      "model": "Jade Green",
+      "year_from": 2001,
+      "year_to": 2002,
+      "models": [
+        "Jade Green"
+      ]
+    },
+    {
+      "code": "47749",
+      "name": "Optima Spectra",
+      "make": "Kia",
+      "model": "Olive Green",
+      "year_from": 2001,
+      "year_to": 2001,
+      "models": [
+        "Olive Green"
+      ]
+    },
+    {
+      "code": "48335",
+      "name": "Sephia Spectra Sportage",
+      "make": "Kia",
+      "model": "Evergreen",
+      "year_from": 2001,
+      "year_to": 2002,
+      "models": [
+        "Evergreen"
+      ]
+    },
+    {
+      "code": "194501",
+      "name": "metallic, Sephia Spectra Sportage",
+      "make": "Kia",
+      "model": "Purplish Slate Blue",
+      "year_from": 2001,
+      "year_to": 2002,
+      "models": [
+        "Purplish Slate Blue",
+        "Slate Blue"
+      ]
+    },
+    {
+      "code": "402010",
+      "name": "metallic, Rio",
+      "make": "Kia",
+      "model": "Forest Green",
+      "year_from": 2001,
+      "year_to": 2002,
+      "models": [
+        "Forest Green"
+      ]
+    },
+    {
+      "code": "201205",
+      "name": "metallic, Rio",
+      "make": "Kia",
+      "model": "Light Gold",
+      "year_from": 2001,
+      "year_to": 2005,
+      "models": [
+        "Light Gold"
+      ]
+    },
+    {
+      "code": "53662",
+      "name": "metallic, Optima Spectra",
+      "make": "Kia",
+      "model": "Magenta Red",
+      "year_from": 2001,
+      "year_to": 2001,
+      "models": [
+        "Magenta Red"
+      ]
+    },
+    {
+      "code": "201492",
+      "name": "metallic, Optima",
+      "make": "Kia",
+      "model": "Gold Beige",
+      "year_from": 2001,
+      "year_to": 2002,
+      "models": [
+        "Beige",
+        "Gold Beige"
+      ]
+    },
+    {
+      "code": "201145",
+      "name": "metallic, Sephia Sportage",
+      "make": "Kia",
+      "model": "Stone Beige",
+      "year_from": 2001,
+      "year_to": 2002,
+      "models": [
+        "Stone Beige"
+      ]
+    },
+    {
+      "code": "194503",
+      "name": "metallic, Rio",
+      "make": "Kia",
+      "model": "Steel Blue",
+      "year_from": 2001,
+      "year_to": 2002,
+      "models": [
+        "Steel Blue"
+      ]
+    },
+    {
+      "code": "194502",
+      "name": "metallic, Rio",
+      "make": "Kia",
+      "model": "Atlantic Blue",
+      "year_from": 2001,
+      "year_to": 2002,
+      "models": [
+        "Atlantic Blue"
+      ]
+    },
+    {
+      "code": "37960",
+      "name": "metallic, Rio",
+      "make": "Kia",
+      "model": "Light Silver",
+      "year_from": 2001,
+      "year_to": 2002,
+      "models": [
+        "Light Silver"
+      ]
+    },
+    {
+      "code": "301151",
+      "name": "metallic, Optima Spectra",
+      "make": "Kia",
+      "model": "Crystal Silver",
+      "year_from": 2001,
+      "year_to": 2001,
+      "models": [
+        "Crystal Silver"
+      ]
+    },
+    {
+      "code": "37938",
+      "name": "metallic, Sephia Spectra Sportage",
+      "make": "Kia",
+      "model": "Diamond Silver",
+      "year_from": 2001,
+      "year_to": 2002,
+      "models": [
+        "Diamond Silver"
+      ]
+    },
+    {
+      "code": "37945",
+      "name": "metallic, Sportage",
+      "make": "Kia",
+      "model": "Bright Platinum",
+      "year_from": 2001,
+      "year_to": 2001,
+      "models": [
+        "Bright Platinum"
+      ]
+    },
+    {
+      "code": "F0193",
+      "name": "Optima Sephia Spectra Sportage",
+      "make": "Kia",
+      "model": "Ebony Black",
+      "year_from": 2001,
+      "year_to": 2002,
+      "models": [
+        "Black",
+        "Ebony Black"
+      ]
+    },
+    {
+      "code": "402975",
+      "name": "metallic",
+      "make": "Kia",
+      "model": "Emerald Green",
+      "year_from": 2001,
+      "year_to": 2006,
+      "models": [
+        "Emerald Green",
+        "Sedona"
+      ]
+    },
+    {
+      "code": "91700",
+      "name": "Rio",
+      "make": "Kia",
+      "model": "Polar White",
+      "year_from": 2001,
+      "year_to": 2005,
+      "models": [
+        "Polar White"
+      ]
+    },
+    {
+      "code": "77709",
+      "name": "metallic, Sephia Spectra Sportage",
+      "make": "Kia",
+      "model": "Pepper Red",
+      "year_from": 2001,
+      "year_to": 2002,
+      "models": [
+        "Pepper Red"
+      ]
+    },
+    {
+      "code": "91633",
+      "name": "Optima Sephia Spectra Sportage",
+      "hex": "#000001",
+      "make": "Kia",
+      "model": "White",
+      "year_from": 2001,
+      "year_to": 2001,
+      "models": [
+        "White"
+      ]
+    },
+    {
+      "code": "301192",
+      "name": "metallic, Optima Spectra",
+      "make": "Kia",
+      "model": "Iron Gray",
+      "year_from": 2001,
+      "year_to": 2001,
+      "models": [
+        "Iron Gray"
+      ]
+    },
+    {
+      "code": "37936",
+      "name": "metallic, Sephia Spectra Sportage",
+      "make": "Kia",
+      "model": "Pewter Gray",
+      "year_from": 2001,
+      "year_to": 2002,
+      "models": [
+        "Pewter Gray"
+      ]
+    },
+    {
+      "code": "75146",
+      "name": "Rio Sephia Spectra Sportage",
+      "make": "Kia",
+      "model": "Classic Red",
+      "year_from": 2001,
+      "year_to": 2002,
+      "models": [
+        "Classic Red"
+      ]
+    },
+    {
+      "code": "84537",
+      "make": "Kia",
+      "model": "Twity Yellow",
+      "year_from": 2001,
+      "year_to": 2002,
+      "models": [
+        "Tweety Yellow",
+        "Twity Yellow"
+      ]
+    },
+    {
+      "code": "402997",
+      "name": "metallic, trim",
+      "make": "Kia",
+      "model": "Emerald Green",
+      "year_from": 2001,
+      "year_to": 2002,
+      "models": [
+        "Emerald Green"
+      ]
+    },
+    {
+      "code": "103984",
+      "name": "metallic, trim",
+      "make": "Kia",
+      "model": "Slate Blue",
+      "year_from": 2001,
+      "year_to": 2004,
+      "models": [
+        "Slate Blue"
+      ]
+    },
+    {
+      "code": "403002",
+      "name": "metallic, trim",
+      "make": "Kia",
+      "model": "Forest Green",
+      "year_from": 2001,
+      "year_to": 2002,
+      "models": [
+        "Forest Green"
+      ]
+    },
+    {
+      "code": "201832",
+      "name": "metallic, trim",
+      "make": "Kia",
+      "model": "Light Gold",
+      "year_from": 2001,
+      "year_to": 2005,
+      "models": [
+        "Light Gold"
+      ]
+    },
+    {
+      "code": "54040",
+      "name": "metallic, trim",
+      "make": "Kia",
+      "model": "Magenta Red",
+      "year_from": 2001,
+      "year_to": 2002,
+      "models": [
+        "Magenta Red"
+      ]
+    },
+    {
+      "code": "201831",
+      "name": "trim",
+      "make": "Kia",
+      "model": "Gold Beige",
+      "year_from": 2001,
+      "year_to": 2004,
+      "models": [
+        "Gold Beige"
+      ]
+    },
+    {
+      "code": "204533",
+      "name": "metallic, trim",
+      "make": "Kia",
+      "model": "Stone Beige",
+      "year_from": 2001,
+      "year_to": 2006,
+      "models": [
+        "Stone Beige"
+      ]
+    },
+    {
+      "code": "113907",
+      "name": "metallic, trim",
+      "make": "Kia",
+      "model": "Atlantic Blue",
+      "year_from": 2001,
+      "year_to": 2002,
+      "models": [
+        "Atlantic Blue"
+      ]
+    },
+    {
+      "code": "301476",
+      "name": "metallic, trim",
+      "make": "Kia",
+      "model": "Light Silver",
+      "year_from": 2001,
+      "year_to": 2002,
+      "models": [
+        "Light Silver"
+      ]
+    },
+    {
+      "code": "306368",
+      "name": "metallic, trim",
+      "make": "Kia",
+      "model": "Silver",
+      "year_from": 2001,
+      "year_to": 2006,
+      "models": [
+        "Silver"
+      ]
+    },
+    {
+      "code": "309540",
+      "name": "metallic, trim",
+      "make": "Kia",
+      "model": "Bright Platinum",
+      "year_from": 2001,
+      "year_to": 2006,
+      "models": [
+        "Bright Platinum"
+      ]
+    },
+    {
+      "code": "701515",
+      "name": "metallic, trim",
+      "make": "Kia",
+      "model": "Pepper Red",
+      "year_from": 2001,
+      "year_to": 2004,
+      "models": [
+        "Pepper Red"
+      ]
+    },
+    {
+      "code": "301477",
+      "name": "metallic, trim",
+      "make": "Kia",
+      "model": "Pewter Gray",
+      "year_from": 2001,
+      "year_to": 2006,
+      "models": [
+        "Pewter Gray"
+      ]
+    },
+    {
+      "code": "195032",
+      "name": "metallic",
+      "make": "Kia",
+      "model": "Optima",
+      "year_from": 2001,
+      "year_to": 2002,
+      "models": [
+        "Optima",
+        "Spectra"
+      ]
+    },
+    {
+      "code": "47749",
+      "name": "Olive Green",
+      "make": "Kia",
+      "model": "Optima",
+      "year_from": 2001,
+      "year_to": 2006,
+      "models": [
+        "Optima",
+        "Spectra"
+      ]
+    },
+    {
+      "code": "53662",
+      "name": "metallic",
+      "make": "Kia",
+      "model": "Optima",
+      "year_from": 2001,
+      "year_to": 2002,
+      "models": [
+        "Optima",
+        "Spectra"
+      ]
+    },
+    {
+      "code": "201492",
+      "name": "metallic",
+      "make": "Kia",
+      "model": "Optima",
+      "year_from": 2001,
+      "year_to": 2004,
+      "models": [
+        "Optima",
+        "Sorento"
+      ]
+    },
+    {
+      "code": "F0193",
+      "name": "Ebony Black",
+      "make": "Kia",
+      "model": "Optima",
+      "year_from": 2001,
+      "year_to": 2006,
+      "models": [
+        "Amanti",
+        "Optima",
+        "Sephia",
+        "Sorento",
+        "Spectra",
+        "Sportage"
+      ]
+    },
+    {
+      "code": "91633",
+      "name": "White",
+      "hex": "#000001",
+      "make": "Kia",
+      "model": "Optima",
+      "year_from": 2001,
+      "year_to": 2003,
+      "models": [
+        "Optima",
+        "Sedona",
+        "Sephia",
+        "Sorento",
+        "Spectra",
+        "Sportage"
+      ]
+    },
+    {
+      "code": "402009",
+      "name": "metallic",
+      "make": "Kia",
+      "model": "Rio",
+      "year_from": 2001,
+      "year_to": 2002,
+      "models": [
+        "Rio"
+      ]
+    },
+    {
+      "code": "85125",
+      "name": "metallic",
+      "make": "Kia",
+      "model": "Rio",
+      "year_from": 2001,
+      "year_to": 2001,
+      "models": [
+        "Rio"
+      ]
+    },
+    {
+      "code": "402010",
+      "name": "metallic",
+      "make": "Kia",
+      "model": "Rio",
+      "year_from": 2001,
+      "year_to": 2002,
+      "models": [
+        "Rio"
+      ]
+    },
+    {
+      "code": "201205",
+      "name": "metallic",
+      "make": "Kia",
+      "model": "Rio",
+      "year_from": 2001,
+      "year_to": 2005,
+      "models": [
+        "Rio"
+      ]
+    },
+    {
+      "code": "194502",
+      "name": "metallic",
+      "make": "Kia",
+      "model": "Rio",
+      "year_from": 2001,
+      "year_to": 2002,
+      "models": [
+        "Rio"
+      ]
+    },
+    {
+      "code": "37960",
+      "name": "metallic",
+      "make": "Kia",
+      "model": "Rio",
+      "year_from": 2001,
+      "year_to": 2002,
+      "models": [
+        "Rio"
+      ]
+    },
+    {
+      "code": "91700",
+      "name": "Polar White",
+      "make": "Kia",
+      "model": "Rio",
+      "year_from": 2001,
+      "year_to": 2005,
+      "models": [
+        "Rio"
+      ]
+    },
+    {
+      "code": "75146",
+      "name": "Classic Red",
+      "make": "Kia",
+      "model": "Rio",
+      "year_from": 2001,
+      "year_to": 2005,
+      "models": [
+        "Rio",
+        "Sephia",
+        "Spectra",
+        "Sportage"
+      ]
+    },
+    {
+      "code": "48335",
+      "name": "Evergreen",
+      "make": "Kia",
+      "model": "Sephia",
+      "year_from": 2001,
+      "year_to": 2004,
+      "models": [
+        "Sephia",
+        "Spectra",
+        "Sportage"
+      ]
+    },
+    {
+      "code": "194501",
+      "name": "metallic",
+      "make": "Kia",
+      "model": "Sephia",
+      "year_from": 2001,
+      "year_to": 2004,
+      "models": [
+        "Sephia",
+        "Spectra",
+        "Sportage"
+      ]
+    },
+    {
+      "code": "201145",
+      "name": "metallic",
+      "make": "Kia",
+      "model": "Sephia",
+      "year_from": 2001,
+      "year_to": 2006,
+      "models": [
+        "Sephia",
+        "Sorento",
+        "Spectra",
+        "Sportage",
+        "Stone Beige"
+      ]
+    },
+    {
+      "code": "37938",
+      "name": "metallic",
+      "make": "Kia",
+      "model": "Sephia",
+      "year_from": 2001,
+      "year_to": 2006,
+      "models": [
+        "Amanti",
+        "Optima",
+        "Rio",
+        "Sedona",
+        "Sephia",
+        "Silver",
+        "Sorento",
+        "Spectra",
+        "Sportage"
+      ]
+    },
+    {
+      "code": "77709",
+      "name": "metallic",
+      "make": "Kia",
+      "model": "Sephia",
+      "year_from": 2001,
+      "year_to": 2004,
+      "models": [
+        "Sephia",
+        "Spectra",
+        "Sportage"
+      ]
+    },
+    {
+      "code": "37936",
+      "name": "metallic",
+      "make": "Kia",
+      "model": "Sephia",
+      "year_from": 2001,
+      "year_to": 2006,
+      "models": [
+        "Pewter Gray",
+        "Rio",
+        "Sephia",
+        "Sorento",
+        "Spectra",
+        "Sportage"
+      ]
+    },
+    {
+      "code": "37945",
+      "name": "metallic",
+      "make": "Kia",
+      "model": "Sportage",
+      "year_from": 2001,
+      "year_to": 2006,
+      "models": [
+        "Bright Platinum",
+        "Sedona",
+        "Sportage"
+      ]
+    },
+    {
+      "code": "85125",
+      "name": "metallic, limited availability, Rio",
+      "make": "Kia",
+      "model": "Sunburst Gold",
+      "year_from": 2002,
+      "year_to": 2002,
+      "models": [
+        "Sunburst Gold"
+      ]
+    },
+    {
+      "code": "195032",
+      "name": "metallic, Optima",
+      "make": "Kia",
+      "model": "Steel Blue",
+      "year_from": 2002,
+      "year_to": 2002,
+      "models": [
+        "Steel Blue"
+      ]
+    },
+    {
+      "code": "47749",
+      "name": "Optima",
+      "make": "Kia",
+      "model": "Olive Green",
+      "year_from": 2002,
+      "year_to": 2006,
+      "models": [
+        "Olive Green"
+      ]
+    },
+    {
+      "code": "53662",
+      "name": "metallic, Optima",
+      "make": "Kia",
+      "model": "Magenta Red",
+      "year_from": 2002,
+      "year_to": 2002,
+      "models": [
+        "Magenta Red"
+      ]
+    },
+    {
+      "code": "95533",
+      "name": "Sedona",
+      "make": "Kia",
+      "model": "Midnight Black",
+      "year_from": 2002,
+      "year_to": 2002,
+      "models": [
+        "Midnight Black"
+      ]
+    },
+    {
+      "code": "36493",
+      "name": "metallic, Sportage",
+      "make": "Kia",
+      "model": "Pewter",
+      "year_from": 2002,
+      "year_to": 2002,
+      "models": [
+        "Pewter"
+      ]
+    },
+    {
+      "code": "301151",
+      "name": "metallic, Optima",
+      "make": "Kia",
+      "model": "Crystal Silver",
+      "year_from": 2002,
+      "year_to": 2002,
+      "models": [
+        "Crystal Silver"
+      ]
+    },
+    {
+      "code": "37945",
+      "name": "metallic, Sedona",
+      "make": "Kia",
+      "model": "Bright Platinum",
+      "year_from": 2002,
+      "year_to": 2003,
+      "models": [
+        "Bright Platinum"
+      ]
+    },
+    {
+      "code": "301433",
+      "name": "metallic, Sedona",
+      "make": "Kia",
+      "model": "Silver",
+      "year_from": 2002,
+      "year_to": 2002,
+      "models": [
+        "Silver"
+      ]
+    },
+    {
+      "code": "201820",
+      "name": "metallic, Sedona",
+      "make": "Kia",
+      "model": "Silky Beige",
+      "year_from": 2002,
+      "year_to": 2005,
+      "models": [
+        "Silky Beige"
+      ]
+    },
+    {
+      "code": "402975",
+      "name": "metallic, Sedona",
+      "make": "Kia",
+      "model": "Emerald Green",
+      "year_from": 2002,
+      "year_to": 2005,
+      "models": [
+        "Dark Emerald Green",
+        "Emerald Green"
+      ]
+    },
+    {
+      "code": "103760",
+      "name": "metallic, Sedona",
+      "make": "Kia",
+      "model": "Blue Sapphire",
+      "year_from": 2002,
+      "year_to": 2003,
+      "models": [
+        "Blue Sapphire"
+      ]
+    },
+    {
+      "code": "103761",
+      "name": "metallic, Sedona",
+      "make": "Kia",
+      "model": "Misty Blue",
+      "year_from": 2002,
+      "year_to": 2002,
+      "models": [
+        "Misty Blue"
+      ]
+    },
+    {
+      "code": "201857",
+      "name": "metallic, Rio",
+      "make": "Kia",
+      "model": "Cinnamon Red",
+      "year_from": 2002,
+      "year_to": 2005,
+      "models": [
+        "Cinnamon",
+        "Cinnamon Red"
+      ]
+    },
+    {
+      "code": "53958",
+      "name": "Sedona",
+      "make": "Kia",
+      "model": "Ruby Red",
+      "year_from": 2002,
+      "year_to": 2005,
+      "models": [
+        "Ruby Red"
+      ]
+    },
+    {
+      "code": "91633",
+      "name": "Optima Rio Sedona Sephia Spectra Sorento",
+      "hex": "#000001",
+      "make": "Kia",
+      "model": "Clear White",
+      "year_from": 2002,
+      "year_to": 2002,
+      "models": [
+        "Clear White"
+      ]
+    },
+    {
+      "code": "301192",
+      "name": "metallic, Optima",
+      "make": "Kia",
+      "model": "Iron Gray",
+      "year_from": 2002,
+      "year_to": 2002,
+      "models": [
+        "Iron Gray"
+      ]
+    },
+    {
+      "code": "F0193",
+      "name": "Black",
+      "make": "Kia",
+      "model": "Optima",
+      "year_from": 2002,
+      "year_to": 2002,
+      "models": [
+        "Optima",
+        "Sephia",
+        "Spectra",
+        "Sportage"
+      ]
+    },
+    {
+      "code": "91633",
+      "name": "Clear White",
+      "hex": "#000001",
+      "make": "Kia",
+      "model": "Optima",
+      "year_from": 2002,
+      "year_to": 2006,
+      "models": [
+        "Optima",
+        "Rio",
+        "Sedona",
+        "Sephia",
+        "Sorento",
+        "Spectra",
+        "Sportage"
+      ]
+    },
+    {
+      "code": "85125",
+      "name": "metallic, limited availability",
+      "make": "Kia",
+      "model": "Rio",
+      "year_from": 2002,
+      "year_to": 2002,
+      "models": [
+        "Rio"
+      ]
+    },
+    {
+      "code": "201857",
+      "name": "metallic",
+      "make": "Kia",
+      "model": "Rio",
+      "year_from": 2002,
+      "year_to": 2006,
+      "models": [
+        "Cinnamon",
+        "Rio"
+      ]
+    },
+    {
+      "code": "95533",
+      "name": "Midnight Black",
+      "make": "Kia",
+      "model": "Sedona",
+      "year_from": 2002,
+      "year_to": 2006,
+      "models": [
+        "Rio",
+        "Sedona"
+      ]
+    },
+    {
+      "code": "301433",
+      "name": "metallic",
+      "make": "Kia",
+      "model": "Sedona",
+      "year_from": 2002,
+      "year_to": 2006,
+      "models": [
+        "Sedona",
+        "Silver"
+      ]
+    },
+    {
+      "code": "201820",
+      "name": "metallic",
+      "make": "Kia",
+      "model": "Sedona",
+      "year_from": 2002,
+      "year_to": 2006,
+      "models": [
+        "Sedona",
+        "Silky Beige"
+      ]
+    },
+    {
+      "code": "103760",
+      "name": "metallic",
+      "make": "Kia",
+      "model": "Sedona",
+      "year_from": 2002,
+      "year_to": 2004,
+      "models": [
+        "Blue Sapphire",
+        "Sedona"
+      ]
+    },
+    {
+      "code": "103761",
+      "name": "metallic",
+      "make": "Kia",
+      "model": "Sedona",
+      "year_from": 2002,
+      "year_to": 2006,
+      "models": [
+        "Misty Blue",
+        "Sedona"
+      ]
+    },
+    {
+      "code": "53958",
+      "name": "metallic",
+      "make": "Kia",
+      "model": "Sedona",
+      "year_from": 2002,
+      "year_to": 2006,
+      "models": [
+        "Optima",
+        "Ruby Red",
+        "Sedona",
+        "Sorento"
+      ]
+    },
+    {
+      "code": "901816",
+      "name": "Optima",
+      "make": "Kia",
+      "model": "Imperial Blue",
+      "year_from": 2003,
+      "year_to": 2006,
+      "models": [
+        "Imperial Blue"
+      ]
+    },
+    {
+      "code": "901814",
+      "name": "Sorento",
+      "make": "Kia",
+      "model": "Ivy Green",
+      "year_from": 2003,
+      "year_to": 2006,
+      "models": [
+        "Ivy Green"
+      ]
+    },
+    {
+      "code": "901815",
+      "name": "Rio",
+      "make": "Kia",
+      "model": "Willow Green",
+      "year_from": 2003,
+      "year_to": 2005,
+      "models": [
+        "Willow Green"
+      ]
+    },
+    {
+      "code": "901820",
+      "name": "Rio",
+      "make": "Kia",
+      "model": "Blueberry",
+      "year_from": 2003,
+      "year_to": 2005,
+      "models": [
+        "Blueberry"
+      ]
+    },
+    {
+      "code": "48335",
+      "name": "Spectra",
+      "make": "Kia",
+      "model": "Evergreen",
+      "year_from": 2003,
+      "year_to": 2004,
+      "models": [
+        "Evergreen"
+      ]
+    },
+    {
+      "code": "201492",
+      "name": "metallic, Optima Sorento",
+      "make": "Kia",
+      "model": "Gold Beige",
+      "year_from": 2003,
+      "year_to": 2003,
+      "models": [
+        "Gold Beige"
+      ]
+    },
+    {
+      "code": "201145",
+      "name": "metallic, Spectra",
+      "make": "Kia",
+      "model": "Stone Beige",
+      "year_from": 2003,
+      "year_to": 2003,
+      "models": [
+        "Stone Beige"
+      ]
+    },
+    {
+      "code": "95533",
+      "name": "Rio Sedona",
+      "make": "Kia",
+      "model": "Midnight Black",
+      "year_from": 2003,
+      "year_to": 2006,
+      "models": [
+        "Midnight Black"
+      ]
+    },
+    {
+      "code": "901812",
+      "name": "Rio",
+      "make": "Kia",
+      "model": "Rally Blue",
+      "year_from": 2003,
+      "year_to": 2005,
+      "models": [
+        "Rally Blue"
+      ]
+    },
+    {
+      "code": "37938",
+      "name": "metallic, Optima Rio Sedona Spectra Sorento",
+      "make": "Kia",
+      "model": "Diamond Silver",
+      "year_from": 2003,
+      "year_to": 2003,
+      "models": [
+        "Diamond Silver"
+      ]
+    },
+    {
+      "code": "F0193",
+      "name": "Optima Spectra Sorento",
+      "make": "Kia",
+      "model": "Ebony Black",
+      "year_from": 2003,
+      "year_to": 2003,
+      "models": [
+        "Ebony Black"
+      ]
+    },
+    {
+      "code": "901817",
+      "name": "Sorento",
+      "make": "Kia",
+      "model": "Alpine Gray",
+      "year_from": 2003,
+      "year_to": 2006,
+      "models": [
+        "Alpine Gray",
+        "Grayish Purple"
+      ]
+    },
+    {
+      "code": "901818",
+      "name": "Sedona",
+      "make": "Kia",
+      "model": "Sage Green",
+      "year_from": 2003,
+      "year_to": 2005,
+      "models": [
+        "Sage Green"
+      ]
+    },
+    {
+      "code": "901446",
+      "name": "Spectra Sorento",
+      "make": "Kia",
+      "model": "Indigo Blue",
+      "year_from": 2003,
+      "year_to": 2003,
+      "models": [
+        "Indigo Blue"
+      ]
+    },
+    {
+      "code": "901813",
+      "name": "Sorento",
+      "make": "Kia",
+      "model": "Aqua Blue",
+      "year_from": 2003,
+      "year_to": 2004,
+      "models": [
+        "Aqua Blue"
+      ]
+    },
+    {
+      "code": "77709",
+      "name": "metallic, Spectra",
+      "make": "Kia",
+      "model": "Pepper Red",
+      "year_from": 2003,
+      "year_to": 2004,
+      "models": [
+        "Pepper Red"
+      ]
+    },
+    {
+      "code": "53958",
+      "name": "metallic, Optima Sedona Sorento",
+      "make": "Kia",
+      "model": "Ruby Red",
+      "year_from": 2003,
+      "year_to": 2004,
+      "models": [
+        "Ruby Red"
+      ]
+    },
+    {
+      "code": "901819",
+      "name": "#2, tri-coat, Optima",
+      "make": "Kia",
+      "model": "Pearl White",
+      "year_from": 2003,
+      "year_to": 2003,
+      "models": [
+        "Pearl White"
+      ]
+    },
+    {
+      "code": "91633",
+      "name": "Optima Sedona Spectra Sorento",
+      "hex": "#000001",
+      "make": "Kia",
+      "model": "White",
+      "year_from": 2003,
+      "year_to": 2003,
+      "models": [
+        "White"
+      ]
+    },
+    {
+      "code": "37936",
+      "name": "Rio Spectra",
+      "make": "Kia",
+      "model": "Pewter Gray",
+      "year_from": 2003,
+      "year_to": 2003,
+      "models": [
+        "Pewter Gray"
+      ]
+    },
+    {
+      "code": "75146",
+      "name": "Rio Spectra",
+      "make": "Kia",
+      "model": "Classic Red",
+      "year_from": 2003,
+      "year_to": 2005,
+      "models": [
+        "Classic Red"
+      ]
+    },
+    {
+      "code": "901816",
+      "name": "Imperial Blue",
+      "make": "Kia",
+      "model": "Optima",
+      "year_from": 2003,
+      "year_to": 2006,
+      "models": [
+        "Optima",
+        "Sedona",
+        "Spectra"
+      ]
+    },
+    {
+      "code": "901819",
+      "name": "#2, tri-coat",
+      "make": "Kia",
+      "model": "Optima",
+      "year_from": 2003,
+      "year_to": 2003,
+      "models": [
+        "Optima"
+      ]
+    },
+    {
+      "code": "901815",
+      "name": "Willow Green",
+      "make": "Kia",
+      "model": "Rio",
+      "year_from": 2003,
+      "year_to": 2005,
+      "models": [
+        "Rio"
+      ]
+    },
+    {
+      "code": "901820",
+      "name": "Blueberry",
+      "make": "Kia",
+      "model": "Rio",
+      "year_from": 2003,
+      "year_to": 2005,
+      "models": [
+        "Rio"
+      ]
+    },
+    {
+      "code": "901812",
+      "name": "Rally Blue",
+      "make": "Kia",
+      "model": "Rio",
+      "year_from": 2003,
+      "year_to": 2005,
+      "models": [
+        "Rio"
+      ]
+    },
+    {
+      "code": "901818",
+      "name": "Sage Green",
+      "make": "Kia",
+      "model": "Sedona",
+      "year_from": 2003,
+      "year_to": 2005,
+      "models": [
+        "Sedona"
+      ]
+    },
+    {
+      "code": "901814",
+      "name": "Ivy Green",
+      "make": "Kia",
+      "model": "Sorento",
+      "year_from": 2003,
+      "year_to": 2005,
+      "models": [
+        "Sorento"
+      ]
+    },
+    {
+      "code": "901817",
+      "name": "Alpine Gray",
+      "make": "Kia",
+      "model": "Sorento",
+      "year_from": 2003,
+      "year_to": 2003,
+      "models": [
+        "Sorento"
+      ]
+    },
+    {
+      "code": "901446",
+      "name": "Indigo Blue",
+      "make": "Kia",
+      "model": "Sorento",
+      "year_from": 2003,
+      "year_to": 2005,
+      "models": [
+        "Sorento",
+        "Spectra"
+      ]
+    },
+    {
+      "code": "901813",
+      "name": "Aqua Blue",
+      "make": "Kia",
+      "model": "Sorento",
+      "year_from": 2003,
+      "year_to": 2004,
+      "models": [
+        "Sorento"
+      ]
+    },
+    {
+      "code": "901816",
+      "name": "Optima Sedona",
+      "make": "Kia",
+      "model": "Imperial Blue",
+      "year_from": 2004,
+      "year_to": 2004,
+      "models": [
+        "Imperial Blue"
+      ]
+    },
+    {
+      "code": "904672",
+      "name": "Amanti",
+      "make": "Kia",
+      "model": "Cobalt Blue",
+      "year_from": 2004,
+      "year_to": 2006,
+      "models": [
+        "Cobalt Blue"
+      ]
+    },
+    {
+      "code": "194501",
+      "name": "metallic, Spectra",
+      "make": "Kia",
+      "model": "Indigo Blue",
+      "year_from": 2004,
+      "year_to": 2004,
+      "models": [
+        "Indigo Blue"
+      ]
+    },
+    {
+      "code": "201492",
+      "name": "metallic, Sorento",
+      "make": "Kia",
+      "model": "Gold Beige",
+      "year_from": 2004,
+      "year_to": 2004,
+      "models": [
+        "Gold Beige"
+      ]
+    },
+    {
+      "code": "201145",
+      "name": "metallic, Spectra Sorento",
+      "make": "Kia",
+      "model": "Stone Beige",
+      "year_from": 2004,
+      "year_to": 2004,
+      "models": [
+        "Stone Beige"
+      ]
+    },
+    {
+      "code": "37938",
+      "name": "metallic, Amanti Optima Rio Sedona Sorento",
+      "make": "Kia",
+      "model": "Silver",
+      "year_from": 2004,
+      "year_to": 2005,
+      "models": [
+        "Silver"
+      ]
+    },
+    {
+      "code": "904673",
+      "name": "Amanti Optima",
+      "make": "Kia",
+      "model": "Cream Gold",
+      "year_from": 2004,
+      "year_to": 2005,
+      "models": [
+        "Cream Gold"
+      ]
+    },
+    {
+      "code": "F0193",
+      "name": "Amanti Optima Sorento Spectra",
+      "make": "Kia",
+      "model": "Ebony Black",
+      "year_from": 2004,
+      "year_to": 2006,
+      "models": [
+        "Ebony Black"
+      ]
+    },
+    {
+      "code": "901446",
+      "name": "Sorento",
+      "make": "Kia",
+      "model": "Indigo Blue",
+      "year_from": 2004,
+      "year_to": 2006,
+      "models": [
+        "Indigo Blue"
+      ]
+    },
+    {
+      "code": "904675",
+      "name": "Amanti",
+      "make": "Kia",
+      "model": "Carbon Gray",
+      "year_from": 2004,
+      "year_to": 2006,
+      "models": [
+        "Carbon Gray"
+      ]
+    },
+    {
+      "code": "904674",
+      "name": "Amanti",
+      "make": "Kia",
+      "model": "Dark Rose Red",
+      "year_from": 2004,
+      "year_to": 2006,
+      "models": [
+        "Dark Rose Red"
+      ]
+    },
+    {
+      "code": "901819",
+      "name": "Amanti Optima",
+      "make": "Kia",
+      "model": "New Pearl White",
+      "year_from": 2004,
+      "year_to": 2005,
+      "models": [
+        "New Pearl White"
+      ]
+    },
+    {
+      "code": "91633",
+      "name": "Optima Sedona Sorento Spectra",
+      "hex": "#000001",
+      "make": "Kia",
+      "model": "Clear White",
+      "year_from": 2004,
+      "year_to": 2004,
+      "models": [
+        "Clear White"
+      ]
+    },
+    {
+      "code": "37936",
+      "name": "metallic, Rio Spectra Sorento",
+      "make": "Kia",
+      "model": "Pewter Gray",
+      "year_from": 2004,
+      "year_to": 2004,
+      "models": [
+        "Pewter Gray"
+      ]
+    },
+    {
+      "code": "904672",
+      "name": "Cobalt Blue",
+      "make": "Kia",
+      "model": "Amanti",
+      "year_from": 2004,
+      "year_to": 2006,
+      "models": [
+        "Amanti"
+      ]
+    },
+    {
+      "code": "904673",
+      "name": "Cream Gold",
+      "make": "Kia",
+      "model": "Amanti",
+      "year_from": 2004,
+      "year_to": 2005,
+      "models": [
+        "Amanti",
+        "Optima"
+      ]
+    },
+    {
+      "code": "904675",
+      "name": "Carbon Gray",
+      "make": "Kia",
+      "model": "Amanti",
+      "year_from": 2004,
+      "year_to": 2006,
+      "models": [
+        "Amanti"
+      ]
+    },
+    {
+      "code": "904674",
+      "name": "Dark Rose Red",
+      "make": "Kia",
+      "model": "Amanti",
+      "year_from": 2004,
+      "year_to": 2006,
+      "models": [
+        "Amanti"
+      ]
+    },
+    {
+      "code": "901819",
+      "name": "New Pearl White",
+      "make": "Kia",
+      "model": "Amanti",
+      "year_from": 2004,
+      "year_to": 2005,
+      "models": [
+        "Amanti",
+        "Optima"
+      ]
+    },
+    {
+      "code": "901817",
+      "name": "Grayish Purple",
+      "make": "Kia",
+      "model": "Sorento",
+      "year_from": 2004,
+      "year_to": 2005,
+      "models": [
+        "Sorento"
+      ]
+    },
+    {
+      "code": "901816",
+      "name": "Optima Sedona Spectra",
+      "make": "Kia",
+      "model": "Imperial Blue",
+      "year_from": 2005,
+      "year_to": 2005,
+      "models": [
+        "Imperial Blue"
+      ]
+    },
+    {
+      "code": "909054",
+      "name": "Sportage",
+      "make": "Kia",
+      "model": "Royal Jade Green",
+      "year_from": 2005,
+      "year_to": 2006,
+      "models": [
+        "Royal Jade Green"
+      ]
+    },
+    {
+      "code": "908195",
+      "name": "Sorento Spectra",
+      "make": "Kia",
+      "model": "Spark Blue",
+      "year_from": 2005,
+      "year_to": 2006,
+      "models": [
+        "Spark Blue"
+      ]
+    },
+    {
+      "code": "909050",
+      "name": "Sportage",
+      "make": "Kia",
+      "model": "Volcanic Red",
+      "year_from": 2005,
+      "year_to": 2006,
+      "models": [
+        "Volcanic Red"
+      ]
+    },
+    {
+      "code": "906128",
+      "name": "Sorento Spectra",
+      "make": "Kia",
+      "model": "Sand Beige",
+      "year_from": 2005,
+      "year_to": 2006,
+      "models": [
+        "Sand Beige"
+      ]
+    },
+    {
+      "code": "906129",
+      "name": "Spectra",
+      "make": "Kia",
+      "model": "Clear Silver",
+      "year_from": 2005,
+      "year_to": 2005,
+      "models": [
+        "Clear Silver"
+      ]
+    },
+    {
+      "code": "909052",
+      "name": "Sportage",
+      "make": "Kia",
+      "model": "Smokey Brown",
+      "year_from": 2005,
+      "year_to": 2006,
+      "models": [
+        "Smokey Brown"
+      ]
+    },
+    {
+      "code": "909056",
+      "name": "Sportage",
+      "make": "Kia",
+      "model": "Natural Olive",
+      "year_from": 2005,
+      "year_to": 2006,
+      "models": [
+        "Natural Olive"
+      ]
+    },
+    {
+      "code": "909055",
+      "name": "Sportage",
+      "make": "Kia",
+      "model": "Black Cherry",
+      "year_from": 2005,
+      "year_to": 2006,
+      "models": [
+        "Black Cherry"
+      ]
+    },
+    {
+      "code": "909053",
+      "name": "Sportage",
+      "make": "Kia",
+      "model": "Smart Blue",
+      "year_from": 2005,
+      "year_to": 2006,
+      "models": [
+        "Smart Blue"
+      ]
+    },
+    {
+      "code": "906127",
+      "name": "Sorento Spectra",
+      "make": "Kia",
+      "model": "Ice Blue",
+      "year_from": 2005,
+      "year_to": 2006,
+      "models": [
+        "Ice Blue"
+      ]
+    },
+    {
+      "code": "906126",
+      "name": "Optima Sorento Spectra",
+      "make": "Kia",
+      "model": "Radiant Red",
+      "year_from": 2005,
+      "year_to": 2006,
+      "models": [
+        "Radiant Red"
+      ]
+    },
+    {
+      "code": "909051",
+      "name": "Sportage",
+      "make": "Kia",
+      "model": "Steel Silver",
+      "year_from": 2005,
+      "year_to": 2006,
+      "models": [
+        "Steel Silver"
+      ]
+    },
+    {
+      "code": "906130",
+      "name": "Spectra",
+      "make": "Kia",
+      "model": "Brownish Dark Gray",
+      "year_from": 2005,
+      "year_to": 2006,
+      "models": [
+        "Brownish Dark Gray"
+      ]
+    },
+    {
+      "code": "909057",
+      "name": "Sportage",
+      "make": "Kia",
+      "model": "Satin Silver",
+      "year_from": 2005,
+      "year_to": 2006,
+      "models": [
+        "Satin Silver"
+      ]
+    },
+    {
+      "code": "91633",
+      "name": "Optima Sedona Sorento Spectra Sportage",
+      "hex": "#000001",
+      "make": "Kia",
+      "model": "Clear White",
+      "year_from": 2005,
+      "year_to": 2005,
+      "models": [
+        "Clear White"
+      ]
+    },
+    {
+      "code": "37936",
+      "name": "metallic, Rio Sorento",
+      "make": "Kia",
+      "model": "Pewter Gray",
+      "year_from": 2005,
+      "year_to": 2005,
+      "models": [
+        "Pewter Gray"
+      ]
+    },
+    {
+      "code": "909049",
+      "name": "Sportage",
+      "make": "Kia",
+      "model": "Champagne",
+      "year_from": 2005,
+      "year_to": 2006,
+      "models": [
+        "Champagne"
+      ]
+    },
+    {
+      "code": "906126",
+      "name": "Radiant Red",
+      "make": "Kia",
+      "model": "Optima",
+      "year_from": 2005,
+      "year_to": 2006,
+      "models": [
+        "Optima",
+        "Sorento",
+        "Spectra"
+      ]
+    },
+    {
+      "code": "908195",
+      "name": "Spark Blue",
+      "make": "Kia",
+      "model": "Sorento",
+      "year_from": 2005,
+      "year_to": 2005,
+      "models": [
+        "Sorento",
+        "Spectra"
+      ]
+    },
+    {
+      "code": "906128",
+      "name": "Sand Beige",
+      "make": "Kia",
+      "model": "Sorento",
+      "year_from": 2005,
+      "year_to": 2005,
+      "models": [
+        "Sorento",
+        "Spectra"
+      ]
+    },
+    {
+      "code": "906127",
+      "name": "Ice Blue",
+      "make": "Kia",
+      "model": "Sorento",
+      "year_from": 2005,
+      "year_to": 2005,
+      "models": [
+        "Sorento",
+        "Spectra"
+      ]
+    },
+    {
+      "code": "906129",
+      "name": "Clear Silver",
+      "make": "Kia",
+      "model": "Spectra",
+      "year_from": 2005,
+      "year_to": 2006,
+      "models": [
+        "Amanti",
+        "Optima",
+        "Rio",
+        "Sedona",
+        "Spectra"
+      ]
+    },
+    {
+      "code": "906130",
+      "name": "Brownish Dark Gray",
+      "make": "Kia",
+      "model": "Spectra",
+      "year_from": 2005,
+      "year_to": 2005,
+      "models": [
+        "Spectra"
+      ]
+    },
+    {
+      "code": "909054",
+      "name": "Royal Jade Green",
+      "make": "Kia",
+      "model": "Sportage",
+      "year_from": 2005,
+      "year_to": 2005,
+      "models": [
+        "Sportage"
+      ]
+    },
+    {
+      "code": "909050",
+      "name": "Volcanic Red",
+      "make": "Kia",
+      "model": "Sportage",
+      "year_from": 2005,
+      "year_to": 2005,
+      "models": [
+        "Sportage"
+      ]
+    },
+    {
+      "code": "909052",
+      "name": "Smokey Brown",
+      "make": "Kia",
+      "model": "Sportage",
+      "year_from": 2005,
+      "year_to": 2005,
+      "models": [
+        "Sportage"
+      ]
+    },
+    {
+      "code": "909056",
+      "name": "Natural Olive",
+      "make": "Kia",
+      "model": "Sportage",
+      "year_from": 2005,
+      "year_to": 2005,
+      "models": [
+        "Sportage"
+      ]
+    },
+    {
+      "code": "909055",
+      "name": "Black Cherry",
+      "make": "Kia",
+      "model": "Sportage",
+      "year_from": 2005,
+      "year_to": 2005,
+      "models": [
+        "Sportage"
+      ]
+    },
+    {
+      "code": "909053",
+      "name": "Smart Blue",
+      "make": "Kia",
+      "model": "Sportage",
+      "year_from": 2005,
+      "year_to": 2005,
+      "models": [
+        "Sportage"
+      ]
+    },
+    {
+      "code": "909051",
+      "name": "Steel Silver",
+      "make": "Kia",
+      "model": "Sportage",
+      "year_from": 2005,
+      "year_to": 2005,
+      "models": [
+        "Sportage"
+      ]
+    },
+    {
+      "code": "909057",
+      "name": "Satin Silver",
+      "make": "Kia",
+      "model": "Sportage",
+      "year_from": 2005,
+      "year_to": 2005,
+      "models": [
+        "Sportage"
+      ]
+    },
+    {
+      "code": "909049",
+      "name": "Champagne",
+      "make": "Kia",
+      "model": "Sportage",
+      "year_from": 2005,
+      "year_to": 2005,
+      "models": [
+        "Sportage"
+      ]
+    },
+    {
+      "code": "906129",
+      "name": "Amanti Optima Rio Sedona Sorento Spectra",
+      "make": "Kia",
+      "model": "Clear Silver",
+      "year_from": 2006,
+      "year_to": 2006,
+      "models": [
+        "Clear Silver"
+      ]
+    },
+    {
+      "code": "911814",
+      "name": "Spectra",
+      "make": "Kia",
+      "model": "Deep Ocean Blue",
+      "year_from": 2006,
+      "year_to": 2006,
+      "models": [
+        "Deep Ocean Blue"
+      ]
+    },
+    {
+      "code": "912058",
+      "name": "Sedona",
+      "make": "Kia",
+      "model": "Claret Red",
+      "year_from": 2006,
+      "year_to": 2006,
+      "models": [
+        "Claret Red"
+      ]
+    },
+    {
+      "code": "910731",
+      "name": "Rio Sedona",
+      "make": "Kia",
+      "model": "Olive Gray",
+      "year_from": 2006,
+      "year_to": 2006,
+      "models": [
+        "Olive Gray"
+      ]
+    },
+    {
+      "code": "910734",
+      "name": "Rio",
+      "make": "Kia",
+      "model": "Polar Silver",
+      "year_from": 2006,
+      "year_to": 2006,
+      "models": [
+        "Polar Silver"
+      ]
+    },
+    {
+      "code": "910733",
+      "name": "Rio",
+      "make": "Kia",
+      "model": "Cashmere Beige",
+      "year_from": 2006,
+      "year_to": 2006,
+      "models": [
+        "Cashmere Beige"
+      ]
+    },
+    {
+      "code": "911813",
+      "name": "Amanti Optima",
+      "make": "Kia",
+      "model": "Light Almond Beige",
+      "year_from": 2006,
+      "year_to": 2006,
+      "models": [
+        "Light Almond Beige"
+      ]
+    },
+    {
+      "code": "912057",
+      "name": "Sedona",
+      "make": "Kia",
+      "model": "Sunset Gold",
+      "year_from": 2006,
+      "year_to": 2006,
+      "models": [
+        "Sunset Gold"
+      ]
+    },
+    {
+      "code": "912059",
+      "name": "Sedona",
+      "make": "Kia",
+      "model": "Velvet Blue",
+      "year_from": 2006,
+      "year_to": 2006,
+      "models": [
+        "Velvet Blue"
+      ]
+    },
+    {
+      "code": "912060",
+      "name": "Sedona",
+      "make": "Kia",
+      "model": "Glacier Blue",
+      "year_from": 2006,
+      "year_to": 2006,
+      "models": [
+        "Glacier Blue"
+      ]
+    },
+    {
+      "code": "910732",
+      "name": "Rio",
+      "make": "Kia",
+      "model": "Sunset Orange",
+      "year_from": 2006,
+      "year_to": 2006,
+      "models": [
+        "Sunset Orange"
+      ]
+    },
+    {
+      "code": "910730",
+      "name": "Rio",
+      "make": "Kia",
+      "model": "Tropical Red",
+      "year_from": 2006,
+      "year_to": 2006,
+      "models": [
+        "Tropical Red"
+      ]
+    },
+    {
+      "code": "910729",
+      "name": "Rio",
+      "make": "Kia",
+      "model": "Sapphire",
+      "year_from": 2006,
+      "year_to": 2006,
+      "models": [
+        "Sapphire"
+      ]
+    },
+    {
+      "code": "911812",
+      "name": "3 coat, Amanti Optima Sedona",
+      "make": "Kia",
+      "model": "White Pearl",
+      "year_from": 2006,
+      "year_to": 2006,
+      "models": [
+        "White Pearl"
+      ]
+    },
+    {
+      "code": "91633",
+      "name": "Optima Rio Sedona Sorento Spectra Sportage",
+      "hex": "#000001",
+      "make": "Kia",
+      "model": "Clear White",
+      "year_from": 2006,
+      "year_to": 2006,
+      "models": [
+        "Clear White"
+      ]
+    },
+    {
+      "code": "75146",
+      "name": "Spectra",
+      "make": "Kia",
+      "model": "Classic Red",
+      "year_from": 2006,
+      "year_to": 2006,
+      "models": [
+        "Classic Red"
+      ]
+    },
+    {
+      "code": "911813",
+      "name": "Light Almond Beige",
+      "make": "Kia",
+      "model": "Amanti",
+      "year_from": 2006,
+      "year_to": 2006,
+      "models": [
+        "Amanti",
+        "Optima"
+      ]
+    },
+    {
+      "code": "911812",
+      "name": "3 coat",
+      "make": "Kia",
+      "model": "Amanti",
+      "year_from": 2006,
+      "year_to": 2006,
+      "models": [
+        "Amanti",
+        "Optima"
+      ]
+    },
+    {
+      "code": "910731",
+      "name": "Olive Gray",
+      "make": "Kia",
+      "model": "Rio",
+      "year_from": 2006,
+      "year_to": 2006,
+      "models": [
+        "Rio",
+        "Sedona"
+      ]
+    },
+    {
+      "code": "910734",
+      "name": "Polar Silver",
+      "make": "Kia",
+      "model": "Rio",
+      "year_from": 2006,
+      "year_to": 2006,
+      "models": [
+        "Rio"
+      ]
+    },
+    {
+      "code": "910733",
+      "name": "Cashmere Beige",
+      "make": "Kia",
+      "model": "Rio",
+      "year_from": 2006,
+      "year_to": 2006,
+      "models": [
+        "Rio"
+      ]
+    },
+    {
+      "code": "910732",
+      "name": "Sunset Orange",
+      "make": "Kia",
+      "model": "Rio",
+      "year_from": 2006,
+      "year_to": 2006,
+      "models": [
+        "Rio"
+      ]
+    },
+    {
+      "code": "910730",
+      "name": "Tropical Red",
+      "make": "Kia",
+      "model": "Rio",
+      "year_from": 2006,
+      "year_to": 2006,
+      "models": [
+        "Rio"
+      ]
+    },
+    {
+      "code": "910729",
+      "name": "Sapphire",
+      "make": "Kia",
+      "model": "Rio",
+      "year_from": 2006,
+      "year_to": 2006,
+      "models": [
+        "Rio"
+      ]
+    },
+    {
+      "code": "912058",
+      "name": "Claret Red",
+      "make": "Kia",
+      "model": "Sedona",
+      "year_from": 2006,
+      "year_to": 2006,
+      "models": [
+        "Sedona"
+      ]
+    }
+  ]
+}

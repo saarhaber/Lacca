@@ -1,0 +1,287 @@
+{
+  "oem": "Jaguar",
+  "fetchedAt": "2026-04-16T20:27:53.634Z",
+  "entries": [
+    {
+      "name": "brochures",
+      "hex": "#000000",
+      "make": "Jaguar"
+    },
+    {
+      "name": "<< customize your view",
+      "hex": "#606060",
+      "make": "Jaguar"
+    },
+    {
+      "code": "192207",
+      "name": "mica",
+      "make": "Jaguar",
+      "model": "Dark Blue",
+      "models": [
+        "Dark Blue"
+      ]
+    },
+    {
+      "code": "300294",
+      "name": "metallic, trim",
+      "make": "Jaguar",
+      "model": "Dark Gray",
+      "models": [
+        "Dark Gray"
+      ]
+    },
+    {
+      "code": "43907",
+      "make": "Jaguar",
+      "model": "British Racing Green",
+      "year_from": 1955,
+      "year_to": 1970,
+      "models": [
+        "British Racing Green"
+      ]
+    },
+    {
+      "code": "43022",
+      "name": "metallic",
+      "make": "Jaguar",
+      "model": "Dark Green",
+      "year_from": 1959,
+      "year_to": 1968,
+      "models": [
+        "Dark Green"
+      ]
+    },
+    {
+      "code": "32818",
+      "name": "metallic",
+      "make": "Jaguar",
+      "model": "Silver Gray",
+      "year_from": 1959,
+      "year_to": 1970,
+      "models": [
+        "Light Silver Gray",
+        "Silver Gray"
+      ]
+    },
+    {
+      "code": "12594",
+      "name": "metallic",
+      "make": "Jaguar",
+      "model": "Silver Blue",
+      "year_from": 1959,
+      "year_to": 1969,
+      "models": [
+        "Silver Blue"
+      ]
+    },
+    {
+      "code": "70824",
+      "make": "Jaguar",
+      "model": "Carmen Red",
+      "year_from": 1961,
+      "year_to": 1969,
+      "models": [
+        "Carmen Red"
+      ]
+    },
+    {
+      "code": "50629",
+      "name": "metallic",
+      "make": "Jaguar",
+      "model": "Maroon",
+      "year_from": 1962,
+      "year_to": 1969,
+      "models": [
+        "Maroon"
+      ]
+    },
+    {
+      "code": "13141",
+      "make": "Jaguar",
+      "model": "Dark Blue",
+      "year_from": 1965,
+      "year_to": 1976,
+      "models": [
+        "Dark Blue"
+      ]
+    },
+    {
+      "code": "32522",
+      "make": "Jaguar",
+      "model": "Warwick Gray",
+      "year_from": 1965,
+      "year_to": 1971,
+      "models": [
+        "Warwick Gray"
+      ]
+    },
+    {
+      "code": "81499",
+      "make": "Jaguar",
+      "model": "Pale Primrose",
+      "year_from": 1965,
+      "year_to": 1976,
+      "models": [
+        "Pale Primrose"
+      ]
+    },
+    {
+      "code": "43742",
+      "make": "Jaguar",
+      "model": "Willow Green",
+      "year_from": 1967,
+      "year_to": 1972,
+      "models": [
+        "Willow Green"
+      ]
+    },
+    {
+      "code": "23050",
+      "make": "Jaguar",
+      "model": "Beige",
+      "year_from": 1967,
+      "year_to": 1969,
+      "models": [
+        "Beige"
+      ]
+    },
+    {
+      "code": "13885",
+      "make": "Jaguar",
+      "model": "Light Blue",
+      "year_from": 1968,
+      "year_to": 1975,
+      "models": [
+        "Light Blue"
+      ]
+    },
+    {
+      "code": "23254",
+      "make": "Jaguar",
+      "model": "Sable",
+      "year_from": 1968,
+      "year_to": 1976,
+      "models": [
+        "Sable"
+      ]
+    },
+    {
+      "code": "23255",
+      "make": "Jaguar",
+      "model": "Ascot Fawn",
+      "year_from": 1968,
+      "year_to": 1972,
+      "models": [
+        "Ascot Fawn",
+        "Ascot Gray"
+      ]
+    },
+    {
+      "code": "71791",
+      "make": "Jaguar",
+      "model": "Regency Red",
+      "year_from": 1968,
+      "year_to": 1976,
+      "models": [
+        "Regency Red"
+      ]
+    },
+    {
+      "code": "71792",
+      "make": "Jaguar",
+      "model": "Signal Red",
+      "year_from": 1968,
+      "year_to": 1976,
+      "models": [
+        "Signal Red"
+      ]
+    },
+    {
+      "code": "23255",
+      "name": "also code GL26896",
+      "make": "Jaguar",
+      "model": "Ascot Fawn",
+      "year_from": 1969,
+      "year_to": 1969,
+      "models": [
+        "Ascot Fawn"
+      ]
+    },
+    {
+      "code": "32221",
+      "name": "metallic",
+      "make": "Jaguar",
+      "model": "Silver Gray",
+      "year_from": 1970,
+      "year_to": 1976,
+      "models": [
+        "Silver Gray"
+      ]
+    },
+    {
+      "code": "44524",
+      "make": "Jaguar",
+      "model": "British Racing Green",
+      "year_from": 1971,
+      "year_to": 1976,
+      "models": [
+        "British Racing Green"
+      ]
+    },
+    {
+      "code": "32501",
+      "make": "Jaguar",
+      "model": "Old English White",
+      "year_from": 1971,
+      "year_to": 1975,
+      "models": [
+        "Old English White"
+      ]
+    },
+    {
+      "code": "14673",
+      "make": "Jaguar",
+      "model": "Azure Blue",
+      "year_from": 1973,
+      "year_to": 1974,
+      "models": [
+        "Azure Blue"
+      ]
+    },
+    {
+      "code": "44879",
+      "make": "Jaguar",
+      "model": "Turquoise",
+      "year_from": 1973,
+      "year_to": 1974,
+      "models": [
+        "Turquoise"
+      ]
+    },
+    {
+      "code": "33112",
+      "make": "Jaguar",
+      "model": "Fern Gray",
+      "year_from": 1973,
+      "year_to": 1975,
+      "models": [
+        "Fern Gray"
+      ]
+    },
+    {
+      "code": "44880",
+      "make": "Jaguar",
+      "model": "Green Sand",
+      "year_from": 1973,
+      "year_to": 1975,
+      "models": [
+        "Green Sand"
+      ]
+    },
+    {
+      "name": "Mustangs:",
+      "hex": "#9D3A00",
+      "make": "Jaguar"
+    }
+  ]
+}

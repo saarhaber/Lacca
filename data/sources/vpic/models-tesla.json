@@ -1,0 +1,13 @@
+{
+  "oem": "Tesla",
+  "fetchedAt": "2026-04-16T20:37:57.102Z",
+  "models": [
+    "Cybertruck",
+    "Model 3",
+    "Model S",
+    "Model X",
+    "Model Y",
+    "Roadster",
+    "Semi"
+  ]
+}

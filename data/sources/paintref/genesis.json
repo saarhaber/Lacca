@@ -1,0 +1,21 @@
+{
+  "oem": "Genesis",
+  "fetchedAt": "2026-04-16T20:26:22.879Z",
+  "entries": [
+    {
+      "name": "brochures",
+      "hex": "#000000",
+      "make": "Genesis"
+    },
+    {
+      "name": "<< customize your view",
+      "hex": "#606060",
+      "make": "Genesis"
+    },
+    {
+      "name": "Mustangs:",
+      "hex": "#9D3A00",
+      "make": "Genesis"
+    }
+  ]
+}

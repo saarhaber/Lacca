@@ -1,0 +1,32 @@
+{
+  "oem": "Subaru",
+  "fetchedAt": "2026-04-16T20:37:56.153Z",
+  "models": [
+    "Ascent",
+    "B9 Tribeca",
+    "Baja",
+    "Brat",
+    "BRZ",
+    "Crosstrek",
+    "DL",
+    "Forester",
+    "GL",
+    "GL-10",
+    "GLF",
+    "Impreza",
+    "Justy",
+    "Legacy",
+    "Loyale",
+    "Outback",
+    "RX",
+    "Solterra",
+    "Standard",
+    "SVX",
+    "Trailseeker",
+    "Uncharted",
+    "WRX",
+    "XT",
+    "XT6",
+    "XV CrossTrek"
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "$schema": "../../../schemas/oem-scope-v1.schema.json",
+  "scopeId": "subaru-vpic-v1",
+  "oem": "Subaru",
+  "modelYears": {
+    "from": 2000,
+    "to": 2026
+  },
+  "models": [
+    "Ascent",
+    "B9 Tribeca",
+    "Baja",
+    "Brat",
+    "BRZ",
+    "Crosstrek",
+    "DL",
+    "Forester",
+    "GL",
+    "GL-10",
+    "GLF",
+    "Impreza",
+    "Justy",
+    "Legacy",
+    "Loyale",
+    "Outback",
+    "RX",
+    "Solterra",
+    "Standard",
+    "SVX",
+    "Trailseeker",
+    "Uncharted",
+    "WRX",
+    "XT",
+    "XT6",
+    "XV CrossTrek"
+  ],
+  "notes": "Subaru model catalog sourced from NHTSA vPIC (GetModelsForMake). 26 distinct models. Paint catalog intentionally empty for this scope; the web UI falls back to generic colors when an OEM has no dedicated paint rows yet. Merge with curated scopes via merge-oem-scopes to enrich with real paint codes.",
+  "exteriorPaintFile": "./exterior-paints-v1.json"
+}

@@ -1,0 +1,28 @@
+{
+  "$schema": "../../../schemas/oem-scope-v1.schema.json",
+  "scopeId": "porsche-vpic-v1",
+  "oem": "Porsche",
+  "modelYears": {
+    "from": 2000,
+    "to": 2026
+  },
+  "models": [
+    "718 Boxster",
+    "718 Cayman",
+    "718 Spyder",
+    "911",
+    "918",
+    "924",
+    "928",
+    "944",
+    "968",
+    "Boxster",
+    "Cayenne",
+    "Cayman",
+    "Macan",
+    "Panamera",
+    "Taycan"
+  ],
+  "notes": "Porsche model catalog sourced from NHTSA vPIC (GetModelsForMake). 15 distinct models. Paint catalog intentionally empty for this scope; the web UI falls back to generic colors when an OEM has no dedicated paint rows yet. Merge with curated scopes via merge-oem-scopes to enrich with real paint codes.",
+  "exteriorPaintFile": "./exterior-paints-v1.json"
+}

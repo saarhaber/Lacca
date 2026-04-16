@@ -1,0 +1,21 @@
+{
+  "oem": "GMC",
+  "fetchedAt": "2026-04-16T20:26:30.116Z",
+  "entries": [
+    {
+      "name": "brochures",
+      "hex": "#000000",
+      "make": "GMC"
+    },
+    {
+      "name": "<< customize your view",
+      "hex": "#606060",
+      "make": "GMC"
+    },
+    {
+      "name": "Mustangs:",
+      "hex": "#9D3A00",
+      "make": "GMC"
+    }
+  ]
+}

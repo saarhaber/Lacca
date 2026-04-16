@@ -1,0 +1,31 @@
+{
+  "$schema": "../../../schemas/oem-scope-v1.schema.json",
+  "scopeId": "aston-martin-vpic-v1",
+  "oem": "Aston Martin",
+  "modelYears": {
+    "from": 2000,
+    "to": 2026
+  },
+  "models": [
+    "DB11",
+    "DB12",
+    "DB7",
+    "DB9",
+    "DBS",
+    "DBX",
+    "Lagonda",
+    "Rapide",
+    "V12 Vantage",
+    "V8",
+    "V8 Vantage",
+    "Valhalla",
+    "Valiant",
+    "Valour",
+    "Vanquish",
+    "Vanquish Zagato",
+    "Vantage",
+    "Virage"
+  ],
+  "notes": "Aston Martin model catalog sourced from NHTSA vPIC (GetModelsForMake). 18 distinct models. Paint catalog intentionally empty for this scope; the web UI falls back to generic colors when an OEM has no dedicated paint rows yet. Merge with curated scopes via merge-oem-scopes to enrich with real paint codes.",
+  "exteriorPaintFile": "./exterior-paints-v1.json"
+}

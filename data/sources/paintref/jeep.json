@@ -1,0 +1,21 @@
+{
+  "oem": "Jeep",
+  "fetchedAt": "2026-04-16T20:27:57.996Z",
+  "entries": [
+    {
+      "name": "brochures",
+      "hex": "#000000",
+      "make": "Jeep"
+    },
+    {
+      "name": "<< customize your view",
+      "hex": "#606060",
+      "make": "Jeep"
+    },
+    {
+      "name": "Mustangs:",
+      "hex": "#9D3A00",
+      "make": "Jeep"
+    }
+  ]
+}

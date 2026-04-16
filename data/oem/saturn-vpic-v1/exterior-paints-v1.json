@@ -1,0 +1,6 @@
+{
+  "$schema": "../../../schemas/exterior-paints-v1.schema.json",
+  "scopeId": "saturn-vpic-v1",
+  "version": "1.0.0",
+  "paints": []
+}

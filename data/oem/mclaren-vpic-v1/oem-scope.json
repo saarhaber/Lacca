@@ -1,0 +1,33 @@
+{
+  "$schema": "../../../schemas/oem-scope-v1.schema.json",
+  "scopeId": "mclaren-vpic-v1",
+  "oem": "McLaren",
+  "modelYears": {
+    "from": 2000,
+    "to": 2026
+  },
+  "models": [
+    "540C",
+    "570GT",
+    "570S",
+    "600LT",
+    "620R",
+    "625C",
+    "650S",
+    "675LT",
+    "720S",
+    "750S",
+    "765LT",
+    "ARTURA",
+    "ELVA",
+    "GT",
+    "GTS",
+    "Luggage Trailer",
+    "MP4-12C",
+    "P1",
+    "SENNA",
+    "SENNA GTR"
+  ],
+  "notes": "McLaren model catalog sourced from NHTSA vPIC (GetModelsForMake). 20 distinct models. Paint catalog intentionally empty for this scope; the web UI falls back to generic colors when an OEM has no dedicated paint rows yet. Merge with curated scopes via merge-oem-scopes to enrich with real paint codes.",
+  "exteriorPaintFile": "./exterior-paints-v1.json"
+}

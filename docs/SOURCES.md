@@ -36,6 +36,7 @@ label because the source LAB already carries a display-math round-trip.
 | Axalta Historical Color Library            | Free web UI, no public API. Same CSV pathway. | `spec`                      |
 | PPG PaintIt                                | Free web UI, no public API. Same CSV pathway. | `spec`                      |
 | Hand-curated seeds (`scripts/seed-oem-paints.ts`, `scripts/seed-ral-classic.ts`) | Always works.                       | `derived` unless upgraded   |
+| NHTSA vPIC `GetModelsForMake` (via `scripts/seed-vpic-all-oems.ts`) | Live. Used to bulk-seed a real model catalog per OEM. Scope is written with `paints: []` and the web UI falls back to generic colors for models we don't yet have paint rows for. | n/a (models only; no paint rows). |
 
 Practical consequence: today the only way to hit **`spec` confidence at
 scale** is to populate a CSV from one of the refinish databases above and
@@ -101,6 +102,7 @@ Every winner retains its `source`, `provenanceId`, and `notes`, and a
 | `npm run import:csv`              | Import from a CSV; auto-detects columns incl. optional LAB.          |
 | `npm run seed:oem`                | Hand-curated hex seeds (Porsche / Toyota / BMW sample).              |
 | `npm run seed:ral`                | RAL Classic reference scope (hex today; swap in LAB to upgrade).     |
+| `npm run seed:vpic`               | Bulk-seed model catalogs for every major OEM from NHTSA vPIC. Creates `data/oem/<slug>-vpic-v1/` per OEM with real model lists and an empty paint catalog (the UI falls back to generic colors until paint rows land). |
 | `npm run merge:oem`               | Merge N source scopes into a canonical one by confidence.            |
 | `npm run fetch:all`               | Run every available source for each OEM and merge into `<slug>-all-v1`. |
 | `npm run validate:data`           | Validate every discovered scope against the JSON Schema.             |

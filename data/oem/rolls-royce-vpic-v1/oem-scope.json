@@ -1,0 +1,28 @@
+{
+  "$schema": "../../../schemas/oem-scope-v1.schema.json",
+  "scopeId": "rolls-royce-vpic-v1",
+  "oem": "Rolls-Royce",
+  "modelYears": {
+    "from": 2000,
+    "to": 2026
+  },
+  "models": [
+    "Camargue",
+    "Corniche",
+    "Cullinan",
+    "Dawn",
+    "Flying Spur",
+    "Ghost",
+    "Park Ward",
+    "Phantom",
+    "Silver Dawn",
+    "Silver Seraph",
+    "Silver Spirit",
+    "Silver Spur",
+    "Spectre",
+    "Touring Limousine",
+    "Wraith"
+  ],
+  "notes": "Rolls-Royce model catalog sourced from NHTSA vPIC (GetModelsForMake). 15 distinct models. Paint catalog intentionally empty for this scope; the web UI falls back to generic colors when an OEM has no dedicated paint rows yet. Merge with curated scopes via merge-oem-scopes to enrich with real paint codes.",
+  "exteriorPaintFile": "./exterior-paints-v1.json"
+}

@@ -1,0 +1,20 @@
+{
+  "$schema": "../../../schemas/oem-scope-v1.schema.json",
+  "scopeId": "saab-vpic-v1",
+  "oem": "Saab",
+  "modelYears": {
+    "from": 2000,
+    "to": 2026
+  },
+  "models": [
+    "9-2X",
+    "9-3",
+    "9-4x",
+    "9-5",
+    "9-7X",
+    "900",
+    "9000"
+  ],
+  "notes": "Saab model catalog sourced from NHTSA vPIC (GetModelsForMake). 7 distinct models. Paint catalog intentionally empty for this scope; the web UI falls back to generic colors when an OEM has no dedicated paint rows yet. Merge with curated scopes via merge-oem-scopes to enrich with real paint codes.",
+  "exteriorPaintFile": "./exterior-paints-v1.json"
+}

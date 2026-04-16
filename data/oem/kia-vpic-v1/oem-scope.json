@@ -1,0 +1,39 @@
+{
+  "$schema": "../../../schemas/oem-scope-v1.schema.json",
+  "scopeId": "kia-vpic-v1",
+  "oem": "Kia",
+  "modelYears": {
+    "from": 2000,
+    "to": 2026
+  },
+  "models": [
+    "Amanti",
+    "Borrego",
+    "Cadenza",
+    "Carnival",
+    "EV6",
+    "EV9",
+    "Forte",
+    "Forte Koup",
+    "K4",
+    "K5",
+    "K900",
+    "Miami",
+    "Niro",
+    "Optima",
+    "Rio",
+    "Rondo",
+    "Sedona",
+    "Seltos",
+    "Sephia",
+    "Sorento",
+    "Soul",
+    "Spectra",
+    "Sportage",
+    "Stinger",
+    "Tekiar",
+    "Telluride"
+  ],
+  "notes": "Kia model catalog sourced from NHTSA vPIC (GetModelsForMake). 26 distinct models. Paint catalog intentionally empty for this scope; the web UI falls back to generic colors when an OEM has no dedicated paint rows yet. Merge with curated scopes via merge-oem-scopes to enrich with real paint codes.",
+  "exteriorPaintFile": "./exterior-paints-v1.json"
+}

@@ -1,0 +1,21 @@
+{
+  "oem": "Chevrolet",
+  "fetchedAt": "2026-04-16T20:24:12.273Z",
+  "entries": [
+    {
+      "name": "brochures",
+      "hex": "#000000",
+      "make": "Chevrolet"
+    },
+    {
+      "name": "<< customize your view",
+      "hex": "#606060",
+      "make": "Chevrolet"
+    },
+    {
+      "name": "Mustangs:",
+      "hex": "#9D3A00",
+      "make": "Chevrolet"
+    }
+  ]
+}

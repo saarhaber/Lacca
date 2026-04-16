@@ -1,0 +1,927 @@
+{
+  "oem": "Honda",
+  "fetchedAt": "2026-04-16T20:27:30.300Z",
+  "entries": [
+    {
+      "name": "brochures",
+      "hex": "#000000",
+      "make": "Honda"
+    },
+    {
+      "name": "<< customize your view",
+      "hex": "#606060",
+      "make": "Honda"
+    },
+    {
+      "code": "FMF7B",
+      "name": "Cream White",
+      "make": "Honda"
+    },
+    {
+      "code": "FMF6",
+      "name": "Cream White",
+      "make": "Honda"
+    },
+    {
+      "code": "TG62B",
+      "name": "Cream White",
+      "make": "Honda"
+    },
+    {
+      "code": "YP41",
+      "name": "SLX, 1993, Autocolor Colour Register 1998-1999",
+      "make": "Honda"
+    },
+    {
+      "code": "6PE6B",
+      "name": "Light Silver",
+      "make": "Honda"
+    },
+    {
+      "code": "2864B",
+      "name": "metallic, SLX, 1993, Autocolor Colour Register 1998-1999",
+      "make": "Honda"
+    },
+    {
+      "code": "TG63B",
+      "name": "Radiant Red",
+      "make": "Honda"
+    },
+    {
+      "code": "YP42",
+      "name": "SLX, 1993, Autocolor Colour Register 1998-1999",
+      "make": "Honda"
+    },
+    {
+      "code": "TE91B",
+      "name": "SLX, 1993, Autocolor Colour Register 1998-1999",
+      "make": "Honda"
+    },
+    {
+      "code": "KD83",
+      "name": "SLX, 1993, Autocolor Colour Register 1998-1999",
+      "make": "Honda"
+    },
+    {
+      "code": "47660",
+      "name": "pearl, SLX, 1994, Autocolor Colour Register 1998-1999",
+      "make": "Honda"
+    },
+    {
+      "code": "16362",
+      "name": "1986-1987, Autocolor Colour Register 1998-1999",
+      "make": "Honda"
+    },
+    {
+      "code": "9LH9B",
+      "name": "1992, Autocolor Colour Register 1998-1999",
+      "hex": "#000001",
+      "make": "Honda"
+    },
+    {
+      "code": "2PP4",
+      "name": "1992, Autocolor Colour Register 1998-1999",
+      "hex": "#000001",
+      "make": "Honda"
+    },
+    {
+      "code": "TE62B",
+      "name": "Phoenix Red",
+      "make": "Honda"
+    },
+    {
+      "code": "XE83",
+      "name": "Phoenix Red",
+      "make": "Honda"
+    },
+    {
+      "code": "TD33B",
+      "name": "Phoenix Red",
+      "make": "Honda"
+    },
+    {
+      "code": "72702",
+      "name": "Phoenix Red",
+      "make": "Honda"
+    },
+    {
+      "code": "72702",
+      "name": "1984-1992, Autocolor Colour Register 1998-1999",
+      "make": "Honda"
+    },
+    {
+      "code": "TA30B",
+      "name": "Rio Red",
+      "make": "Honda"
+    },
+    {
+      "code": "TG25B",
+      "name": "Rio Red",
+      "make": "Honda"
+    },
+    {
+      "code": "YE88",
+      "name": "Rio Red",
+      "make": "Honda"
+    },
+    {
+      "code": "ND65",
+      "name": "1986-1992, Autocolor Colour Register 1998-1999",
+      "make": "Honda"
+    },
+    {
+      "code": "4SY6B",
+      "name": "Formula Red",
+      "make": "Honda"
+    },
+    {
+      "code": "4SY5B",
+      "name": "Formula Red",
+      "make": "Honda"
+    },
+    {
+      "code": "TF89",
+      "name": "1990, Autocolor Colour Register 1998-1999",
+      "make": "Honda"
+    },
+    {
+      "code": "4WT9B",
+      "name": "Milano Red",
+      "make": "Honda"
+    },
+    {
+      "code": "4RX7",
+      "name": "Milano Red",
+      "make": "Honda"
+    },
+    {
+      "code": "4WT8B",
+      "name": "Milano Red",
+      "make": "Honda"
+    },
+    {
+      "code": "7JA9B",
+      "name": "Milano Red",
+      "make": "Honda"
+    },
+    {
+      "code": "2AW8",
+      "name": "Milano Red",
+      "make": "Honda"
+    },
+    {
+      "code": "6RV6",
+      "name": "Milano Red",
+      "make": "Honda"
+    },
+    {
+      "code": "4SC2B",
+      "name": "Milano Red",
+      "hex": "#FFFFFE",
+      "make": "Honda"
+    },
+    {
+      "code": "YV63",
+      "name": "1991, Autocolor Colour Register 1998-1999",
+      "hex": "#FFFFFE",
+      "make": "Honda"
+    },
+    {
+      "code": "A922B",
+      "name": "Astral Blue",
+      "make": "Honda"
+    },
+    {
+      "code": "C885B",
+      "name": "Astral Blue",
+      "make": "Honda"
+    },
+    {
+      "code": "16046",
+      "name": "metallic, 1983-1988, Autocolor Colour Register 1998-1999",
+      "make": "Honda"
+    },
+    {
+      "code": "B526B",
+      "name": "Montreal Blue",
+      "make": "Honda"
+    },
+    {
+      "code": "A921B",
+      "name": "Montreal Blue",
+      "make": "Honda"
+    },
+    {
+      "code": "GYV5M",
+      "name": "Montreal Blue",
+      "make": "Honda"
+    },
+    {
+      "code": "16136",
+      "name": "metallic, 1985-1990, Autocolor Colour Register 1998-1999",
+      "make": "Honda"
+    },
+    {
+      "code": "5AG7B",
+      "name": "Florence Blue",
+      "make": "Honda"
+    },
+    {
+      "code": "C365B",
+      "name": "Florence Blue",
+      "make": "Honda"
+    },
+    {
+      "code": "16137",
+      "name": "metallic, 1986-1992, Autocolor Colour Register 1998-1999",
+      "make": "Honda"
+    },
+    {
+      "code": "16139",
+      "name": "metallic, 1985-1986, Autocolor Colour Register 1998-1999",
+      "make": "Honda"
+    },
+    {
+      "code": "C410B",
+      "name": "Superior Blue",
+      "make": "Honda"
+    },
+    {
+      "code": "2738B",
+      "name": "Superior Blue",
+      "make": "Honda"
+    },
+    {
+      "code": "16442",
+      "name": "metallic, 1987-1991, Autocolor Colour Register 1998-1999",
+      "make": "Honda"
+    },
+    {
+      "code": "6BV2B",
+      "name": "Melbourne Blue",
+      "make": "Honda"
+    },
+    {
+      "code": "16984",
+      "name": "metallic, 1988-1990, Autocolor Colour Register 1998-1999",
+      "make": "Honda"
+    },
+    {
+      "code": "16950",
+      "name": "pearl, 1989-1993, Autocolor Colour Register 1998-1999",
+      "make": "Honda"
+    },
+    {
+      "code": "D194B",
+      "name": "metallic, 1990-1993, Autocolor Colour Register 1998-1999",
+      "make": "Honda"
+    },
+    {
+      "code": "9LH3M",
+      "name": "metallic, 1990-1993, Autocolor Colour Register 1998-1999",
+      "make": "Honda"
+    },
+    {
+      "code": "2766B",
+      "name": "metallic, 1990-1992, Autocolor Colour Register 1998-1999",
+      "make": "Honda"
+    },
+    {
+      "code": "PJ40B",
+      "name": "pearl, 1990, Autocolor Colour Register 1998-1999",
+      "make": "Honda"
+    },
+    {
+      "code": "BGX3B",
+      "name": "Captiva Blue",
+      "make": "Honda"
+    },
+    {
+      "code": "6TC3B",
+      "name": "Captiva Blue",
+      "make": "Honda"
+    },
+    {
+      "code": "PM43B",
+      "name": "pearl, 1991, Autocolor Colour Register 1998-1999",
+      "make": "Honda"
+    },
+    {
+      "code": "5CK3B",
+      "name": "pearl, 1993, Autocolor Colour Register 1998-1999",
+      "make": "Honda"
+    },
+    {
+      "code": "5PK4B",
+      "name": "pearl, 1993, Autocolor Colour Register 1998-1999",
+      "make": "Honda"
+    },
+    {
+      "code": "ARV8B",
+      "name": "pearl, 1995, Autocolor Colour Register 1998-1999",
+      "make": "Honda"
+    },
+    {
+      "code": "36396",
+      "name": "metallic, 1995, Autocolor Colour Register 1998-1999",
+      "make": "Honda"
+    },
+    {
+      "code": "LKB7B",
+      "name": "pearl, 1997, Autocolor Colour Register 1998-1999",
+      "make": "Honda"
+    },
+    {
+      "code": "LPK8B",
+      "name": "metallic, 1996, Autocolor Colour Register 1998-1999",
+      "make": "Honda"
+    },
+    {
+      "code": "2921B",
+      "name": "La Mer Green",
+      "make": "Honda"
+    },
+    {
+      "code": "B356B",
+      "name": "metallic, 1987-1991, Autocolor Colour Register 1998-1999",
+      "make": "Honda"
+    },
+    {
+      "code": "46440",
+      "name": "pearl, 1988, Autocolor Colour Register 1998-1999",
+      "make": "Honda"
+    },
+    {
+      "code": "2AE1B",
+      "name": "metallic, 1991-1992, Autocolor Colour Register 1998-1999",
+      "make": "Honda"
+    },
+    {
+      "code": "PJ89B",
+      "name": "pearl, 1989-1991, Autocolor Colour Register 1998-1999",
+      "make": "Honda"
+    },
+    {
+      "code": "C722B",
+      "name": "metallic, 1989-1991, Autocolor Colour Register 1998-1999",
+      "make": "Honda"
+    },
+    {
+      "code": "6RS5B",
+      "name": "Charlotte Green",
+      "make": "Honda"
+    },
+    {
+      "code": "4PY2G",
+      "name": "Charlotte Green",
+      "make": "Honda"
+    },
+    {
+      "code": "4PY1B",
+      "name": "Charlotte Green",
+      "make": "Honda"
+    },
+    {
+      "code": "BAJ5B",
+      "name": "Lausanne Green",
+      "make": "Honda"
+    },
+    {
+      "code": "PM46B",
+      "name": "pearl, 1991, Autocolor Colour Register 1998-1999",
+      "make": "Honda"
+    },
+    {
+      "code": "2PP6B",
+      "name": "metallic, 1992-1995, Autocolor Colour Register 1998-1999",
+      "make": "Honda"
+    },
+    {
+      "code": "8FW5B",
+      "name": "Sherwood Green",
+      "make": "Honda"
+    },
+    {
+      "code": "5PK9B",
+      "name": "pearl, 1993, Autocolor Colour Register 1998-1999",
+      "make": "Honda"
+    },
+    {
+      "code": "EEG8B",
+      "name": "Bayern Green",
+      "make": "Honda"
+    },
+    {
+      "code": "5PL1B",
+      "name": "pearl, 1993, Autocolor Colour Register 1998-1999",
+      "make": "Honda"
+    },
+    {
+      "code": "GXX7B",
+      "name": "Cypress Green",
+      "make": "Honda"
+    },
+    {
+      "code": "KHM2B",
+      "name": "Cypress Green",
+      "make": "Honda"
+    },
+    {
+      "code": "ARW3B",
+      "name": "pearl, 1995, Autocolor Colour Register 1998-1999",
+      "make": "Honda"
+    },
+    {
+      "code": "9JM5B",
+      "name": "pearl, 1995, Autocolor Colour Register 1998-1999",
+      "make": "Honda"
+    },
+    {
+      "code": "B527B",
+      "name": "Argyll Red",
+      "make": "Honda"
+    },
+    {
+      "code": "A367B",
+      "name": "metallic, 1985-1988, Autocolor Colour Register 1998-1999",
+      "make": "Honda"
+    },
+    {
+      "code": "C366B",
+      "name": "Chateau Red",
+      "make": "Honda"
+    },
+    {
+      "code": "72906",
+      "name": "Chateau Red",
+      "make": "Honda"
+    },
+    {
+      "code": "9095B",
+      "name": "Oporto Red",
+      "make": "Honda"
+    },
+    {
+      "code": "1134B",
+      "name": "Oporto Red",
+      "make": "Honda"
+    },
+    {
+      "code": "0265B",
+      "name": "metallic, 1982-1987, Autocolor Colour Register 1998-1999",
+      "make": "Honda"
+    },
+    {
+      "code": "7977M",
+      "name": "metallic, 1982-1987, Autocolor Colour Register 1998-1999",
+      "make": "Honda"
+    },
+    {
+      "code": "73070",
+      "name": "Persian Red",
+      "make": "Honda"
+    },
+    {
+      "code": "73330",
+      "name": "Chianti Red",
+      "make": "Honda"
+    },
+    {
+      "code": "6PE5B",
+      "name": "Torino Red",
+      "make": "Honda"
+    },
+    {
+      "code": "PP56B",
+      "name": "Torino Red",
+      "make": "Honda"
+    },
+    {
+      "code": "73396",
+      "name": "Torino Red",
+      "make": "Honda"
+    },
+    {
+      "code": "73360",
+      "name": "Cordovan Red",
+      "make": "Honda"
+    },
+    {
+      "code": "73361",
+      "name": "Sonoma Red",
+      "make": "Honda"
+    },
+    {
+      "code": "GAA1B",
+      "name": "Bordeaux Red",
+      "make": "Honda"
+    },
+    {
+      "code": "6CS6B",
+      "name": "Bordeaux Red",
+      "make": "Honda"
+    },
+    {
+      "code": "PJ42B",
+      "name": "Bordeaux Red",
+      "make": "Honda"
+    },
+    {
+      "code": "PT34B",
+      "name": "Cassis Red",
+      "make": "Honda"
+    },
+    {
+      "code": "7BB9B",
+      "name": "Garnet Red",
+      "make": "Honda"
+    },
+    {
+      "code": "ARV9B",
+      "name": "Matador Red",
+      "make": "Honda"
+    },
+    {
+      "code": "4PY4G",
+      "name": "Indy Yellow",
+      "make": "Honda"
+    },
+    {
+      "code": "4PY3B",
+      "name": "Indy Yellow",
+      "make": "Honda"
+    },
+    {
+      "code": "4PY4G",
+      "name": "Spa Yellow",
+      "make": "Honda"
+    },
+    {
+      "code": "4PY3B",
+      "name": "Spa Yellow",
+      "make": "Honda"
+    },
+    {
+      "code": "82780",
+      "name": "Almond Cream",
+      "make": "Honda"
+    },
+    {
+      "code": "82780",
+      "name": "1988-1990, Autocolor Colour Register 1998-1999",
+      "make": "Honda"
+    },
+    {
+      "code": "16134",
+      "name": "metallic, 1985-1988, Autocolor Colour Register 1998-1999",
+      "make": "Honda"
+    },
+    {
+      "code": "16135",
+      "name": "metallic, 1985-1986, Autocolor Colour Register 1998-1999",
+      "make": "Honda"
+    },
+    {
+      "code": "46523",
+      "name": "metallic, 1989-1991, Autocolor Colour Register 1998-1999",
+      "make": "Honda"
+    },
+    {
+      "code": "PM45B",
+      "name": "pearl, 1991, Autocolor Colour Register 1998-1999",
+      "make": "Honda"
+    },
+    {
+      "code": "PT35B",
+      "name": "pearl, 1991, Autocolor Colour Register 1998-1999",
+      "make": "Honda"
+    },
+    {
+      "code": "HLK9B",
+      "name": "Paradise Blue Green",
+      "make": "Honda"
+    },
+    {
+      "code": "7RV2B",
+      "name": "Paradise Blue Green",
+      "make": "Honda"
+    },
+    {
+      "code": "5PJ6B",
+      "name": "pearl, 1993-1995, Autocolor Colour Register 1998-1999",
+      "make": "Honda"
+    },
+    {
+      "code": "45973",
+      "name": "metallic, 1985-1987, Autocolor Colour Register 1998-1999",
+      "make": "Honda"
+    },
+    {
+      "code": "90430",
+      "name": "1986-1990, Autocolor Colour Register 1998-1999",
+      "make": "Honda"
+    },
+    {
+      "code": "WV74B",
+      "name": "Polar White",
+      "make": "Honda"
+    },
+    {
+      "code": "WN47B",
+      "name": "Polar White",
+      "make": "Honda"
+    },
+    {
+      "code": "WV74",
+      "name": "Polar White",
+      "make": "Honda"
+    },
+    {
+      "code": "WN47",
+      "name": "Polar White",
+      "make": "Honda"
+    },
+    {
+      "code": "NP16B",
+      "name": "Polar White",
+      "make": "Honda"
+    },
+    {
+      "code": "NP16",
+      "name": "Polar White",
+      "make": "Honda"
+    },
+    {
+      "code": "90410",
+      "name": "Polar White",
+      "make": "Honda"
+    },
+    {
+      "code": "90410",
+      "name": "1986-1990, Autocolor Colour Register 1998-1999",
+      "make": "Honda"
+    },
+    {
+      "code": "NK17",
+      "name": "White Diamond",
+      "make": "Honda"
+    },
+    {
+      "code": "MC78",
+      "name": "1985-1989, Autocolor Colour Register 1998-1999",
+      "make": "Honda"
+    },
+    {
+      "code": "6FJ6B",
+      "name": "Frost White",
+      "make": "Honda"
+    },
+    {
+      "code": "6FJ7",
+      "name": "Frost White",
+      "make": "Honda"
+    },
+    {
+      "code": "7ML2B",
+      "name": "Frost White",
+      "make": "Honda"
+    },
+    {
+      "code": "7ML4",
+      "name": "Frost White",
+      "make": "Honda"
+    },
+    {
+      "code": "90741",
+      "name": "Frost White",
+      "make": "Honda"
+    },
+    {
+      "code": "90741",
+      "name": "1989, Autocolor Colour Register 1998-1999",
+      "make": "Honda"
+    },
+    {
+      "code": "6FJ6B",
+      "name": "New White",
+      "make": "Honda"
+    },
+    {
+      "code": "6FJ7",
+      "name": "New White",
+      "make": "Honda"
+    },
+    {
+      "code": "7ML2B",
+      "name": "New White",
+      "make": "Honda"
+    },
+    {
+      "code": "7ML4",
+      "name": "New White",
+      "make": "Honda"
+    },
+    {
+      "code": "90741",
+      "name": "New White",
+      "make": "Honda"
+    },
+    {
+      "code": "TF88B",
+      "name": "Berlina Black",
+      "make": "Honda"
+    },
+    {
+      "code": "9LJ8",
+      "name": "pearl, 1990, Autocolor Colour Register 1998-1999",
+      "make": "Honda"
+    },
+    {
+      "code": "9LJ9B",
+      "name": "1991, Autocolor Colour Register 1998-1999",
+      "make": "Honda"
+    },
+    {
+      "code": "2DM7",
+      "name": "1991, Autocolor Colour Register 1998-1999",
+      "make": "Honda"
+    },
+    {
+      "code": "5PK3B",
+      "name": "1993, Autocolor Colour Register 1998-1999",
+      "hex": "#000001",
+      "make": "Honda"
+    },
+    {
+      "code": "5PK3",
+      "name": "1993, Autocolor Colour Register 1998-1999",
+      "hex": "#000001",
+      "make": "Honda"
+    },
+    {
+      "code": "A598B",
+      "name": "Gothic Grey",
+      "make": "Honda"
+    },
+    {
+      "code": "33760",
+      "name": "metallic, 1984-1989, Autocolor Colour Register 1998-1999",
+      "make": "Honda"
+    },
+    {
+      "code": "33883",
+      "name": "metallic, 1983-1988, Autocolor Colour Register 1998-1999",
+      "make": "Honda"
+    },
+    {
+      "code": "C199B",
+      "name": "Blade Silver",
+      "make": "Honda"
+    },
+    {
+      "code": "34011",
+      "name": "metallic, 1985-1990, Autocolor Colour Register 1998-1999",
+      "make": "Honda"
+    },
+    {
+      "code": "7BB6B",
+      "name": "pearl, 1994, Autocolor Colour Register 1998-1999",
+      "make": "Honda"
+    },
+    {
+      "code": "BFV3B",
+      "name": "Roma Red",
+      "make": "Honda"
+    },
+    {
+      "code": "51646",
+      "name": "Regal Plum",
+      "make": "Honda"
+    },
+    {
+      "code": "2768B",
+      "name": "metallic, 1990-1992, Autocolor Colour Register 1998-1999",
+      "make": "Honda"
+    },
+    {
+      "code": "2769B",
+      "name": "metallic, 1990, Autocolor Colour Register 1998-1999",
+      "make": "Honda"
+    },
+    {
+      "code": "EEH3B",
+      "name": "Horizon Grey",
+      "make": "Honda"
+    },
+    {
+      "code": "D382B",
+      "name": "metallic, 1991-1996, Autocolor Colour Register 1998-1999",
+      "make": "Honda"
+    },
+    {
+      "code": "5PK1B",
+      "name": "pearl, 1993, Autocolor Colour Register 1998-1999",
+      "make": "Honda"
+    },
+    {
+      "code": "9JM7B",
+      "name": "pearl, 1995, Autocolor Colour Register 1998-1999",
+      "make": "Honda"
+    },
+    {
+      "code": "34322",
+      "name": "metallic, 1986-1988, Autocolor Colour Register 1998-1999",
+      "make": "Honda"
+    },
+    {
+      "code": "34239",
+      "name": "metallic, 1985-1989, Autocolor Colour Register 1998-1999",
+      "make": "Honda"
+    },
+    {
+      "code": "34240",
+      "name": "metallic, 1986-1988, Autocolor Colour Register 1998-1999",
+      "make": "Honda"
+    },
+    {
+      "code": "26115",
+      "name": "metallic, 1987-1990, Autocolor Colour Register 1998-1999",
+      "make": "Honda"
+    },
+    {
+      "code": "9073B",
+      "name": "metallic, 1986-1989, Autocolor Colour Register 1998-1999",
+      "make": "Honda"
+    },
+    {
+      "code": "34519",
+      "name": "metallic, 1987-1988, Autocolor Colour Register 1998-1999",
+      "make": "Honda"
+    },
+    {
+      "code": "2642B",
+      "name": "Laguna Gold",
+      "make": "Honda"
+    },
+    {
+      "code": "26221",
+      "name": "metallic, 1987-1990, Autocolor Colour Register 1998-1999",
+      "make": "Honda"
+    },
+    {
+      "code": "26779",
+      "name": "metallic, 1988-1991, Autocolor Colour Register 1998-1999",
+      "make": "Honda"
+    },
+    {
+      "code": "2540B",
+      "name": "Lynx Bronze",
+      "make": "Honda"
+    },
+    {
+      "code": "C272B",
+      "name": "Lynx Bronze",
+      "make": "Honda"
+    },
+    {
+      "code": "9094B",
+      "name": "metallic, 1986-1989, Autocolor Colour Register 1998-1999",
+      "make": "Honda"
+    },
+    {
+      "code": "26610",
+      "name": "metallic, 1988-1990, Autocolor Colour Register 1998-1999",
+      "make": "Honda"
+    },
+    {
+      "code": "C643B",
+      "name": "Seattle Silver",
+      "make": "Honda"
+    },
+    {
+      "code": "34700",
+      "name": "metallic, 1988-1993, Autocolor Colour Register 1998-1999",
+      "make": "Honda"
+    },
+    {
+      "code": "C240B",
+      "name": "metallic, 1988-1990, Autocolor Colour Register 1998-1999",
+      "make": "Honda"
+    },
+    {
+      "code": "GXY2B",
+      "name": "Cyclone Blue",
+      "make": "Honda"
+    },
+    {
+      "code": "KHM1B",
+      "name": "Cyclone Blue",
+      "make": "Honda"
+    },
+    {
+      "name": "Mustangs:",
+      "hex": "#9D3A00",
+      "make": "Honda"
+    }
+  ]
+}

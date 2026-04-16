@@ -1,0 +1,33 @@
+{
+  "oem": "Buick",
+  "fetchedAt": "2026-04-16T20:37:39.514Z",
+  "models": [
+    "Allure",
+    "Cascada",
+    "Century",
+    "Coachbuilder",
+    "Electra",
+    "Enclave",
+    "Encore",
+    "Encore GX",
+    "Envision",
+    "Envista",
+    "Incomplete",
+    "LaCrosse",
+    "LeSabre",
+    "Lucerne",
+    "Park Avenue",
+    "Rainier",
+    "Reatta",
+    "Regal",
+    "Regal TourX",
+    "Rendezvous",
+    "Riviera",
+    "Roadmaster",
+    "Skyhawk",
+    "Skylark",
+    "Somerset",
+    "Terraza",
+    "Verano"
+  ]
+}

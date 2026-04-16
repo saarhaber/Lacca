@@ -1,0 +1,1702 @@
+{
+  "oem": "Ford",
+  "fetchedAt": "2026-04-16T20:26:12.939Z",
+  "entries": [
+    {
+      "name": "brochures",
+      "hex": "#000000",
+      "make": "Ford"
+    },
+    {
+      "name": "<< customize your view",
+      "hex": "#606060",
+      "make": "Ford"
+    },
+    {
+      "code": "M6824",
+      "name": "metallic",
+      "make": "Ford",
+      "model": "Medium Cypress",
+      "models": [
+        "Medium Cypress"
+      ]
+    },
+    {
+      "code": "190583",
+      "name": "Ford Europe",
+      "make": "Ford",
+      "model": "Java Blue",
+      "models": [
+        "Java Blue"
+      ]
+    },
+    {
+      "code": "402560",
+      "name": "mica, Ford Europe",
+      "make": "Ford",
+      "model": "Spice Green",
+      "models": [
+        "Spice Green"
+      ]
+    },
+    {
+      "code": "28738",
+      "name": "Ford Europe",
+      "make": "Ford",
+      "model": "Light Sand",
+      "models": [
+        "Light Sand"
+      ]
+    },
+    {
+      "code": "190591",
+      "name": "Ford Europe",
+      "make": "Ford",
+      "model": "Wedgewood Blue",
+      "models": [
+        "Wedgewood Blue"
+      ]
+    },
+    {
+      "code": "75187",
+      "name": "Ford Europe",
+      "make": "Ford",
+      "model": "Sunburst Red",
+      "models": [
+        "Sunburst Red"
+      ]
+    },
+    {
+      "code": "84005",
+      "name": "Ford Europe",
+      "make": "Ford",
+      "model": "Diamond White",
+      "models": [
+        "Diamond White"
+      ]
+    },
+    {
+      "code": "195046",
+      "name": "mica, Ford Europe",
+      "make": "Ford",
+      "model": "Indigo Blue",
+      "models": [
+        "Indigo Blue"
+      ]
+    },
+    {
+      "code": "195047",
+      "name": "metallic, Ford Europe",
+      "make": "Ford",
+      "model": "Blue Silver",
+      "models": [
+        "Blue Silver"
+      ]
+    },
+    {
+      "code": "190568",
+      "name": "mica, Ford Europe",
+      "make": "Ford",
+      "model": "Holman Blue",
+      "models": [
+        "Holman Blue"
+      ]
+    },
+    {
+      "code": "52422",
+      "name": "metallic, Ford Europe",
+      "make": "Ford",
+      "model": "Grape Lilac",
+      "models": [
+        "Grape Lilac"
+      ]
+    },
+    {
+      "code": "48609",
+      "name": "mica, Ford Europe",
+      "make": "Ford",
+      "model": "Calypso Green",
+      "models": [
+        "Calypso Green"
+      ]
+    },
+    {
+      "code": "75188",
+      "name": "Ford Europe",
+      "make": "Ford",
+      "model": "Postal Services Red",
+      "models": [
+        "Postal Services Red"
+      ]
+    },
+    {
+      "code": "400546",
+      "name": "metallic, Ford Europe",
+      "make": "Ford",
+      "model": "Light Nordic Green",
+      "models": [
+        "Light Nordic Green"
+      ]
+    },
+    {
+      "code": "195050",
+      "name": "metallic, Ford Europe",
+      "make": "Ford",
+      "model": "Arctic Blue",
+      "models": [
+        "Arctic Blue"
+      ]
+    },
+    {
+      "code": "91731",
+      "name": "Ford Europe",
+      "make": "Ford",
+      "model": "Diamond White",
+      "models": [
+        "Diamond White"
+      ]
+    },
+    {
+      "code": "190581",
+      "name": "Ford UK, autocolor BCT7B alternative, also Pheonixblau",
+      "make": "Ford",
+      "model": "Bright Blue",
+      "models": [
+        "Bright Blue"
+      ]
+    },
+    {
+      "code": "HBM9B",
+      "make": "Ford",
+      "model": "Bright Blue",
+      "models": [
+        "Bright Blue"
+      ]
+    },
+    {
+      "code": "195048",
+      "name": "Ford Europe",
+      "make": "Ford",
+      "model": "Blue Violet",
+      "models": [
+        "Blue Violet"
+      ]
+    },
+    {
+      "code": "190565",
+      "name": "Ford Europe",
+      "make": "Ford",
+      "model": "Gentian Blue",
+      "models": [
+        "Gentian Blue"
+      ]
+    },
+    {
+      "code": "84001",
+      "name": "Ford Europe",
+      "make": "Ford",
+      "model": "Saffran Yellow",
+      "models": [
+        "Saffran Yellow"
+      ]
+    },
+    {
+      "code": "190575",
+      "name": "Ford Europe",
+      "make": "Ford",
+      "model": "Ontario Blue",
+      "models": [
+        "Ontario Blue"
+      ]
+    },
+    {
+      "code": "84017",
+      "name": "Ford Europe",
+      "make": "Ford",
+      "model": "Citrine Yellow",
+      "models": [
+        "Citrine Yellow"
+      ]
+    },
+    {
+      "code": "75177",
+      "name": "Ford Europe",
+      "make": "Ford",
+      "model": "Garnet Red",
+      "models": [
+        "Garnet Red"
+      ]
+    },
+    {
+      "code": "75175",
+      "name": "metallic, Ford Europe",
+      "make": "Ford",
+      "model": "Coral Red",
+      "models": [
+        "Coral Red"
+      ]
+    },
+    {
+      "code": "190674",
+      "name": "metallic, Ford Europe",
+      "make": "Ford",
+      "model": "Auralis",
+      "models": [
+        "Auralis"
+      ]
+    },
+    {
+      "code": "28736",
+      "name": "metallic, Ford Europe",
+      "make": "Ford",
+      "model": "Mid Taune Beige",
+      "models": [
+        "Mid Taune Beige"
+      ]
+    },
+    {
+      "code": "36745",
+      "name": "metallic, Ford Europe",
+      "make": "Ford",
+      "model": "Stardust Silver",
+      "models": [
+        "Stardust Silver"
+      ]
+    },
+    {
+      "code": "52423",
+      "name": "metallic, Ford Europe",
+      "make": "Ford",
+      "model": "Dusky Rose",
+      "models": [
+        "Dusky Rose"
+      ]
+    },
+    {
+      "code": "HYM5B",
+      "make": "Ford",
+      "model": "Amparo Blue",
+      "models": [
+        "Amparo Blue"
+      ]
+    },
+    {
+      "code": "190570",
+      "name": "metallic, Ford UK",
+      "make": "Ford",
+      "model": "Karibikblau",
+      "models": [
+        "Karibikblau"
+      ]
+    },
+    {
+      "code": "75176",
+      "name": "mica, Ford Europe",
+      "make": "Ford",
+      "model": "Electric Current",
+      "models": [
+        "Electric Current"
+      ]
+    },
+    {
+      "code": "27701",
+      "name": "underhood",
+      "make": "Ford",
+      "model": "Bronze Nightmist",
+      "models": [
+        "Bronze Nightmist"
+      ]
+    },
+    {
+      "code": "37231",
+      "name": "metallic, trim",
+      "make": "Ford",
+      "model": "Charcoal",
+      "models": [
+        "Charcoal"
+      ]
+    },
+    {
+      "code": "49274",
+      "name": "trim",
+      "make": "Ford",
+      "model": "Charcoal Green",
+      "models": [
+        "Charcoal Green"
+      ]
+    },
+    {
+      "code": "200556",
+      "name": "trim",
+      "make": "Ford",
+      "model": "Dark Arizona Beige",
+      "models": [
+        "Dark Arizona Beige"
+      ]
+    },
+    {
+      "code": "19855",
+      "name": "underhood",
+      "make": "Ford",
+      "model": "Dark Baltic",
+      "models": [
+        "Dark Baltic"
+      ]
+    },
+    {
+      "code": "402991",
+      "name": "trim, underwood paint ppg 402548",
+      "make": "Ford",
+      "model": "Dark Highland Green",
+      "models": [
+        "Dark Highland Green"
+      ]
+    },
+    {
+      "code": "75713",
+      "name": "trim",
+      "make": "Ford",
+      "model": "Dark Toreador Red",
+      "models": [
+        "Dark Toreador Red"
+      ]
+    },
+    {
+      "code": "194419",
+      "name": "trim",
+      "make": "Ford",
+      "model": "Deep Wedgewood Blue",
+      "models": [
+        "Deep Wedgewood Blue"
+      ]
+    },
+    {
+      "code": "52178",
+      "name": "underhood",
+      "make": "Ford",
+      "model": "Desert Violet",
+      "models": [
+        "Desert Violet"
+      ]
+    },
+    {
+      "code": "49467",
+      "name": "trim",
+      "make": "Ford",
+      "model": "Estate Green",
+      "models": [
+        "Estate Green"
+      ]
+    },
+    {
+      "code": "402990",
+      "name": "trim, underwood patnt ppg 48987",
+      "make": "Ford",
+      "model": "Estate Green",
+      "models": [
+        "Estate Green"
+      ]
+    },
+    {
+      "code": "300005",
+      "name": "trim",
+      "make": "Ford",
+      "model": "Gray",
+      "models": [
+        "Gray"
+      ]
+    },
+    {
+      "code": "201172",
+      "name": "trim",
+      "make": "Ford",
+      "model": "Harvest Gold",
+      "models": [
+        "Harvest Gold"
+      ]
+    },
+    {
+      "code": "300882",
+      "name": "metallic, trim",
+      "make": "Ford",
+      "model": "Light Charcoal",
+      "models": [
+        "Light Charcoal"
+      ]
+    },
+    {
+      "code": "28936",
+      "name": "metallic, trim",
+      "make": "Ford",
+      "model": "Light Cypress",
+      "models": [
+        "Light Cypress"
+      ]
+    },
+    {
+      "code": "201176",
+      "name": "trim",
+      "make": "Ford",
+      "model": "Light Cypress",
+      "models": [
+        "Light Cypress"
+      ]
+    },
+    {
+      "code": "48077",
+      "name": "underhood",
+      "make": "Ford",
+      "model": "Light Cypress",
+      "models": [
+        "Light Cypress"
+      ]
+    },
+    {
+      "code": "201175",
+      "name": "trim",
+      "make": "Ford",
+      "model": "Light Prairie Tan",
+      "models": [
+        "Light Prairie Tan"
+      ]
+    },
+    {
+      "code": "28301",
+      "name": "metallic, trim",
+      "make": "Ford",
+      "model": "Light Saddle",
+      "models": [
+        "Light Saddle"
+      ]
+    },
+    {
+      "code": "33697",
+      "name": "metallic, trim",
+      "make": "Ford",
+      "model": "Medium Gray",
+      "models": [
+        "Medium Gray"
+      ]
+    },
+    {
+      "code": "M6608G",
+      "name": "trim",
+      "make": "Ford",
+      "model": "Medium Mocha",
+      "models": [
+        "Medium Mocha"
+      ]
+    },
+    {
+      "code": "29149",
+      "name": "underhood",
+      "make": "Ford",
+      "model": "Medium Saddle",
+      "models": [
+        "Medium Saddle"
+      ]
+    },
+    {
+      "code": "48080",
+      "name": "underhood",
+      "make": "Ford",
+      "model": "Medium Seafood",
+      "models": [
+        "Medium Seafood"
+      ]
+    },
+    {
+      "code": "37973",
+      "name": "trim, alt ppg 36353",
+      "make": "Ford",
+      "model": "Medium Titanium",
+      "models": [
+        "Medium Titanium"
+      ]
+    },
+    {
+      "code": "701509",
+      "name": "trim, underwood ppg 29343",
+      "make": "Ford",
+      "model": "Medium Toreador",
+      "models": [
+        "Medium Toreador"
+      ]
+    },
+    {
+      "code": "191319",
+      "name": "trim",
+      "make": "Ford",
+      "model": "Medium Wedgewood",
+      "models": [
+        "Medium Wedgewood"
+      ]
+    },
+    {
+      "code": "300825",
+      "name": "metallic, trim",
+      "make": "Ford",
+      "model": "Neutral Gray",
+      "models": [
+        "Neutral Gray"
+      ]
+    },
+    {
+      "code": "19856",
+      "name": "underhood",
+      "make": "Ford",
+      "model": "Reef Blue",
+      "models": [
+        "Reef Blue"
+      ]
+    },
+    {
+      "code": "52177",
+      "name": "underhood",
+      "make": "Ford",
+      "model": "Royal Plum",
+      "models": [
+        "Royal Plum"
+      ]
+    },
+    {
+      "code": "37978",
+      "name": "metallic, trim",
+      "make": "Ford",
+      "model": "Satin Nickel",
+      "models": [
+        "Satin Nickel"
+      ]
+    },
+    {
+      "code": "194255",
+      "name": "trim",
+      "make": "Ford",
+      "model": "Steel Gray",
+      "models": [
+        "Steel Gray"
+      ]
+    },
+    {
+      "code": "103777",
+      "name": "trim",
+      "make": "Ford",
+      "model": "True Blue",
+      "models": [
+        "True Blue"
+      ]
+    },
+    {
+      "code": "77644",
+      "name": "trim, body color ppg 4217",
+      "make": "Ford",
+      "model": "Vermilion",
+      "models": [
+        "Vermilion"
+      ]
+    },
+    {
+      "code": "18248",
+      "name": "metallic matte, trim",
+      "make": "Ford",
+      "model": "Crystal Blue",
+      "models": [
+        "Crystal Blue"
+      ]
+    },
+    {
+      "code": "M4256",
+      "name": "interior",
+      "make": "Ford",
+      "model": "Dark Cypress",
+      "models": [
+        "Dark Cypress"
+      ]
+    },
+    {
+      "code": "M4267",
+      "name": "interior",
+      "make": "Ford",
+      "model": "Dark Graphite",
+      "models": [
+        "Dark Graphite"
+      ]
+    },
+    {
+      "code": "29170",
+      "name": "interior",
+      "make": "Ford",
+      "model": "Dark Parchment",
+      "models": [
+        "Dark Parchment"
+      ]
+    },
+    {
+      "code": "M4274",
+      "name": "interior",
+      "make": "Ford",
+      "model": "Dark Willow",
+      "models": [
+        "Dark Willow"
+      ]
+    },
+    {
+      "code": "29168",
+      "name": "interior",
+      "make": "Ford",
+      "model": "Medium Dark Pumice",
+      "models": [
+        "Medium Dark Pumice"
+      ]
+    },
+    {
+      "code": "191326",
+      "name": "interior",
+      "make": "Ford",
+      "model": "Midnight Denim",
+      "models": [
+        "Midnight Denim"
+      ]
+    },
+    {
+      "code": "MX7001824",
+      "name": "spectramaster blue, lincoln, mercury",
+      "make": "Ford",
+      "model": "Fleet",
+      "models": [
+        "Fleet"
+      ]
+    },
+    {
+      "code": "MX7001771",
+      "name": "Blue",
+      "make": "Ford",
+      "model": "Fleet",
+      "models": [
+        "Fleet"
+      ]
+    },
+    {
+      "code": "MX7071013",
+      "name": "Cardinal Red",
+      "make": "Ford",
+      "model": "Fleet",
+      "models": [
+        "Fleet"
+      ]
+    },
+    {
+      "code": "MX709763",
+      "name": "also M6735",
+      "hex": "#000001",
+      "make": "Ford",
+      "model": "Fleet",
+      "models": [
+        "Fleet"
+      ]
+    },
+    {
+      "code": "MX701906",
+      "name": "putty",
+      "make": "Ford",
+      "model": "Fleet",
+      "models": [
+        "Fleet"
+      ]
+    },
+    {
+      "code": "MX702728",
+      "name": "Cream",
+      "make": "Ford",
+      "model": "Fleet",
+      "models": [
+        "Fleet"
+      ]
+    },
+    {
+      "code": "MX707991",
+      "name": "Dark Red",
+      "make": "Ford",
+      "model": "Fleet",
+      "models": [
+        "Fleet"
+      ]
+    },
+    {
+      "code": "MX703875",
+      "name": "Gray",
+      "make": "Ford",
+      "model": "Fleet",
+      "models": [
+        "Fleet"
+      ]
+    },
+    {
+      "code": "MX703694",
+      "name": "Gray",
+      "make": "Ford",
+      "model": "Fleet",
+      "models": [
+        "Fleet"
+      ]
+    },
+    {
+      "code": "MX7031031",
+      "name": "Gray",
+      "make": "Ford",
+      "model": "Fleet",
+      "models": [
+        "Fleet"
+      ]
+    },
+    {
+      "code": "MX7031041",
+      "name": "Gray",
+      "make": "Ford",
+      "model": "Fleet",
+      "models": [
+        "Fleet"
+      ]
+    },
+    {
+      "code": "MX703980",
+      "name": "Gray",
+      "make": "Ford",
+      "model": "Fleet",
+      "models": [
+        "Fleet"
+      ]
+    },
+    {
+      "code": "MX7001826",
+      "name": "X0026, lincoln, mercury",
+      "make": "Ford",
+      "model": "Fleet",
+      "models": [
+        "Fleet"
+      ]
+    },
+    {
+      "code": "MX7031037",
+      "name": "also M6712",
+      "make": "Ford",
+      "model": "Fleet",
+      "models": [
+        "Fleet"
+      ]
+    },
+    {
+      "code": "MX7042272",
+      "name": "Olive Drab Green",
+      "make": "Ford",
+      "model": "Fleet",
+      "models": [
+        "Fleet"
+      ]
+    },
+    {
+      "code": "MX706713",
+      "name": "Orange",
+      "make": "Ford",
+      "model": "Fleet",
+      "models": [
+        "Fleet"
+      ]
+    },
+    {
+      "code": "MX707988",
+      "name": "Playboy Pink",
+      "make": "Ford",
+      "model": "Fleet",
+      "models": [
+        "Fleet"
+      ]
+    },
+    {
+      "code": "MX707532",
+      "name": "also WT4171",
+      "make": "Ford",
+      "model": "Fleet",
+      "models": [
+        "Fleet"
+      ]
+    },
+    {
+      "code": "MX707993",
+      "name": "Red",
+      "make": "Ford",
+      "model": "Fleet",
+      "models": [
+        "Fleet"
+      ]
+    },
+    {
+      "code": "MX7001791",
+      "name": "Royal Blue",
+      "make": "Ford",
+      "model": "Fleet",
+      "models": [
+        "Fleet"
+      ]
+    },
+    {
+      "code": "MX701907",
+      "name": "Tan",
+      "make": "Ford",
+      "model": "Fleet",
+      "models": [
+        "Fleet"
+      ]
+    },
+    {
+      "code": "MX709734",
+      "name": "White",
+      "make": "Ford",
+      "model": "Fleet",
+      "models": [
+        "Fleet"
+      ]
+    },
+    {
+      "code": "MX7081202",
+      "name": "Yellow",
+      "make": "Ford",
+      "model": "Fleet",
+      "models": [
+        "Fleet"
+      ]
+    },
+    {
+      "code": "MX7081203",
+      "name": "Yellow",
+      "make": "Ford",
+      "model": "Fleet",
+      "models": [
+        "Fleet"
+      ]
+    },
+    {
+      "code": "MX7081223",
+      "name": "Yellow",
+      "make": "Ford",
+      "model": "Fleet",
+      "models": [
+        "Fleet"
+      ]
+    },
+    {
+      "code": "MX8241089",
+      "name": "also WT7322",
+      "make": "Ford",
+      "model": "Fleet",
+      "models": [
+        "Fleet"
+      ]
+    },
+    {
+      "code": "MX707654",
+      "name": "Red",
+      "make": "Ford",
+      "model": "Fleet",
+      "models": [
+        "Fleet"
+      ]
+    },
+    {
+      "code": "MX707572",
+      "name": "Red",
+      "make": "Ford",
+      "model": "Fleet",
+      "models": [
+        "Fleet"
+      ]
+    },
+    {
+      "code": "MX708594",
+      "name": "Yellow",
+      "make": "Ford",
+      "model": "Fleet",
+      "models": [
+        "Fleet"
+      ]
+    },
+    {
+      "code": "MX708226",
+      "name": "Kraft Fleet",
+      "make": "Ford",
+      "model": "Fleet",
+      "models": [
+        "Fleet"
+      ]
+    },
+    {
+      "code": "MX7081179",
+      "name": "Shell Oil yellow",
+      "make": "Ford",
+      "model": "Fleet",
+      "models": [
+        "Fleet"
+      ]
+    },
+    {
+      "code": "MX7042204",
+      "name": "Green",
+      "make": "Ford",
+      "model": "Fleet",
+      "models": [
+        "Fleet"
+      ]
+    },
+    {
+      "code": "MX701853",
+      "name": "Medium Gold",
+      "make": "Ford",
+      "model": "Fleet",
+      "models": [
+        "Fleet"
+      ]
+    },
+    {
+      "code": "91734",
+      "name": "Ford Europe",
+      "make": "Ford",
+      "model": "Ford Truck",
+      "models": [
+        "Ford Truck"
+      ]
+    },
+    {
+      "code": "MX700825",
+      "name": "Blue",
+      "make": "Ford",
+      "model": "Tractor",
+      "models": [
+        "Tractor"
+      ]
+    },
+    {
+      "code": "M1467",
+      "name": "Diesel Blue",
+      "make": "Ford",
+      "model": "Tractor",
+      "models": [
+        "Tractor"
+      ]
+    },
+    {
+      "code": "M0404",
+      "name": "Empire Blue",
+      "make": "Ford",
+      "model": "Tractor",
+      "models": [
+        "Tractor"
+      ]
+    },
+    {
+      "code": "M3132",
+      "name": "Industrial Yellow",
+      "make": "Ford",
+      "model": "Tractor",
+      "models": [
+        "Tractor"
+      ]
+    },
+    {
+      "code": "M1640",
+      "name": "Industrial Yellow",
+      "make": "Ford",
+      "model": "Tractor",
+      "models": [
+        "Tractor"
+      ]
+    },
+    {
+      "code": "WT5394",
+      "name": "Industrial Yellow Cream",
+      "make": "Ford",
+      "model": "Tractor",
+      "models": [
+        "Tractor"
+      ]
+    },
+    {
+      "code": "MX707453",
+      "name": "New Tractor Red",
+      "make": "Ford",
+      "model": "Tractor",
+      "models": [
+        "Tractor"
+      ]
+    },
+    {
+      "code": "M5394",
+      "name": "New Tractor Yellow",
+      "make": "Ford",
+      "model": "Tractor",
+      "models": [
+        "Tractor"
+      ]
+    },
+    {
+      "code": "M5771",
+      "name": "also called New Caterpillar Yellow",
+      "make": "Ford",
+      "model": "Tractor",
+      "models": [
+        "Tractor"
+      ]
+    },
+    {
+      "code": "M1639",
+      "name": "Tractor Blue",
+      "make": "Ford",
+      "model": "Tractor",
+      "models": [
+        "Tractor"
+      ]
+    },
+    {
+      "code": "M1750",
+      "name": "Tractor Gray",
+      "make": "Ford",
+      "model": "Tractor",
+      "models": [
+        "Tractor"
+      ]
+    },
+    {
+      "code": "M0956",
+      "name": "Tractor Red",
+      "hex": "#FFFFFE",
+      "make": "Ford",
+      "model": "Tractor",
+      "year_from": 2089,
+      "year_to": 2089,
+      "models": [
+        "Tractor"
+      ]
+    },
+    {
+      "code": "M1619",
+      "name": "Tractor White",
+      "hex": "#000001",
+      "make": "Ford",
+      "model": "Tractor",
+      "models": [
+        "Tractor"
+      ]
+    },
+    {
+      "code": "M3132",
+      "name": "Tractor Yellow",
+      "make": "Ford",
+      "model": "Tractor",
+      "models": [
+        "Tractor"
+      ]
+    },
+    {
+      "code": "MX709233",
+      "name": "White",
+      "make": "Ford",
+      "model": "Tractor",
+      "models": [
+        "Tractor"
+      ]
+    },
+    {
+      "code": "MX70946",
+      "name": "White",
+      "make": "Ford",
+      "model": "Tractor",
+      "models": [
+        "Tractor"
+      ]
+    },
+    {
+      "code": "MX703330",
+      "name": "dovetone gray",
+      "make": "Ford",
+      "model": "Tractor",
+      "models": [
+        "Tractor"
+      ]
+    },
+    {
+      "code": "MX700790",
+      "name": "Equipment Dark Blue",
+      "make": "Ford",
+      "model": "Tractor",
+      "models": [
+        "Tractor"
+      ]
+    },
+    {
+      "code": "M0957",
+      "name": "also engine gray",
+      "make": "Ford",
+      "model": "Tractor",
+      "models": [
+        "Tractor"
+      ]
+    },
+    {
+      "code": "IM053",
+      "make": "Ford",
+      "model": "Commercial Green",
+      "year_from": 1926,
+      "year_to": 1927,
+      "models": [
+        "Commercial Green"
+      ]
+    },
+    {
+      "code": "IM052",
+      "make": "Ford",
+      "model": "Deep Channel Green",
+      "year_from": 1926,
+      "year_to": 1927,
+      "models": [
+        "Deep Channel Green"
+      ]
+    },
+    {
+      "code": "DT4004",
+      "hex": "#FFFFFE",
+      "make": "Ford",
+      "model": "Double Deep Black",
+      "year_from": 1926,
+      "year_to": 1927,
+      "models": [
+        "Double Deep Black"
+      ]
+    },
+    {
+      "code": "IM886",
+      "make": "Ford",
+      "model": "Fawn Gray",
+      "year_from": 1926,
+      "year_to": 1927,
+      "models": [
+        "Fawn Gray"
+      ]
+    },
+    {
+      "code": "IM436",
+      "make": "Ford",
+      "model": "Gunmetal Blue",
+      "year_from": 1926,
+      "year_to": 1929,
+      "models": [
+        "Gunmetal Blue"
+      ]
+    },
+    {
+      "code": "IM016",
+      "make": "Ford",
+      "model": "Phoenix Brown",
+      "year_from": 1926,
+      "year_to": 1927,
+      "models": [
+        "Phoenix Brown"
+      ]
+    },
+    {
+      "code": "DS056",
+      "hex": "#FFFFFE",
+      "make": "Ford",
+      "model": "Royal Maroon",
+      "year_from": 1926,
+      "year_to": 1927,
+      "models": [
+        "Royal Maroon"
+      ]
+    },
+    {
+      "code": "246-9252",
+      "hex": "#FFFFFE",
+      "make": "Ford",
+      "model": "Andalusite Blue",
+      "year_from": 1928,
+      "year_to": 1928,
+      "models": [
+        "Andalusite Blue"
+      ]
+    },
+    {
+      "code": "IM433",
+      "name": "or IM432 ?",
+      "make": "Ford",
+      "model": "Arabian Sand",
+      "year_from": 1928,
+      "year_to": 1928,
+      "models": [
+        "Arabian Sand"
+      ]
+    },
+    {
+      "code": "IM124",
+      "make": "Ford",
+      "model": "Balsam Green",
+      "year_from": 1928,
+      "year_to": 1928,
+      "models": [
+        "Balsam Green"
+      ]
+    },
+    {
+      "code": "IM116",
+      "make": "Ford",
+      "model": "Bonnie Gray",
+      "year_from": 1928,
+      "year_to": 1928,
+      "models": [
+        "Bonnie Gray"
+      ]
+    },
+    {
+      "code": "IM1017",
+      "hex": "#FFFFFE",
+      "make": "Ford",
+      "model": "Brewster Green",
+      "year_from": 1928,
+      "year_to": 1928,
+      "models": [
+        "Brewster Green"
+      ]
+    },
+    {
+      "code": "IM120",
+      "make": "Ford",
+      "model": "Chelsea Blue",
+      "year_from": 1928,
+      "year_to": 1928,
+      "models": [
+        "Chelsea Blue"
+      ]
+    },
+    {
+      "code": "IM20",
+      "make": "Ford",
+      "model": "Commercial Drab",
+      "year_from": 1928,
+      "year_to": 1929,
+      "models": [
+        "Commercial Drab"
+      ]
+    },
+    {
+      "code": "246-9259",
+      "make": "Ford",
+      "model": "Copra Drab",
+      "year_from": 1928,
+      "year_to": 1928,
+      "models": [
+        "Copra Drab"
+      ]
+    },
+    {
+      "code": "IM989",
+      "make": "Ford",
+      "model": "Dawn Gray Dark",
+      "year_from": 1928,
+      "year_to": 1928,
+      "models": [
+        "Dawn Gray Dark"
+      ]
+    },
+    {
+      "code": "IM434",
+      "make": "Ford",
+      "model": "Dawn Gray Light",
+      "year_from": 1928,
+      "year_to": 1928,
+      "models": [
+        "Dawn Gray Light"
+      ]
+    },
+    {
+      "code": "IM123",
+      "make": "Ford",
+      "model": "Duchess Blue",
+      "year_from": 1928,
+      "year_to": 1928,
+      "models": [
+        "Duchess Blue"
+      ]
+    },
+    {
+      "code": "B8254",
+      "name": "Station Wagon",
+      "make": "Ford",
+      "model": "Manilla Brown",
+      "year_from": 1928,
+      "year_to": 1928,
+      "models": [
+        "Manilla Brown"
+      ]
+    },
+    {
+      "code": "IM439",
+      "make": "Ford",
+      "model": "Niagara Blue Dark",
+      "year_from": 1928,
+      "year_to": 1929,
+      "models": [
+        "Niagara Blue Dark"
+      ]
+    },
+    {
+      "code": "IM438",
+      "hex": "#FFFFFE",
+      "make": "Ford",
+      "model": "Niagara Blue Light",
+      "year_from": 1928,
+      "year_to": 1929,
+      "models": [
+        "Niagara Blue Light"
+      ]
+    },
+    {
+      "code": "IM27",
+      "name": "Mail Truck",
+      "make": "Ford",
+      "model": "Olive Green",
+      "year_from": 1928,
+      "year_to": 1928,
+      "models": [
+        "Olive Green"
+      ]
+    },
+    {
+      "code": "IM1160",
+      "make": "Ford",
+      "model": "Pembroke Gray",
+      "year_from": 1928,
+      "year_to": 1928,
+      "models": [
+        "Pembroke Gray"
+      ]
+    },
+    {
+      "code": "IM117",
+      "make": "Ford",
+      "model": "Rock Moss Green",
+      "year_from": 1928,
+      "year_to": 1928,
+      "models": [
+        "Rock Moss Green"
+      ]
+    },
+    {
+      "code": "IM119",
+      "make": "Ford",
+      "model": "Rose Beige",
+      "year_from": 1928,
+      "year_to": 1928,
+      "models": [
+        "Rose Beige"
+      ]
+    },
+    {
+      "code": "246-9249",
+      "make": "Ford",
+      "model": "Seal Brown",
+      "year_from": 1928,
+      "year_to": 1928,
+      "models": [
+        "Seal Brown"
+      ]
+    },
+    {
+      "code": "IM283",
+      "make": "Ford",
+      "model": "Thorne Brown",
+      "year_from": 1928,
+      "year_to": 1928,
+      "models": [
+        "Thorne Brown"
+      ]
+    },
+    {
+      "code": "IM122",
+      "make": "Ford",
+      "model": "Vagabond Green",
+      "year_from": 1928,
+      "year_to": 1928,
+      "models": [
+        "Vagabond Green"
+      ]
+    },
+    {
+      "code": "IM161",
+      "make": "Ford",
+      "model": "Valley Green",
+      "year_from": 1928,
+      "year_to": 1928,
+      "models": [
+        "Valley Green"
+      ]
+    },
+    {
+      "code": "IM034",
+      "name": "pinstripes & wheels",
+      "make": "Ford",
+      "model": "English Coach Vermillion",
+      "year_from": 1928,
+      "year_to": 1928,
+      "models": [
+        "English Coach Vermillion"
+      ]
+    },
+    {
+      "code": "IM586",
+      "name": "also pinstripes & wheels",
+      "make": "Ford",
+      "model": "French Gray",
+      "year_from": 1928,
+      "year_to": 1928,
+      "models": [
+        "French Gray"
+      ]
+    },
+    {
+      "code": "IM47",
+      "name": "pinstripes & wheels",
+      "make": "Ford",
+      "model": "Gold",
+      "year_from": 1928,
+      "year_to": 1928,
+      "models": [
+        "Gold"
+      ]
+    },
+    {
+      "code": "IM295",
+      "name": "also pinstripes & wheels",
+      "make": "Ford",
+      "model": "Old Ivory",
+      "year_from": 1928,
+      "year_to": 1928,
+      "models": [
+        "Old Ivory"
+      ]
+    },
+    {
+      "code": "IM35",
+      "name": "pinstripes & wheels",
+      "make": "Ford",
+      "model": "Orange",
+      "year_from": 1928,
+      "year_to": 1928,
+      "models": [
+        "Orange"
+      ]
+    },
+    {
+      "code": "IM36",
+      "name": "pinstripes & wheels",
+      "make": "Ford",
+      "model": "Serpent Green",
+      "year_from": 1928,
+      "year_to": 1928,
+      "models": [
+        "Serpent Green"
+      ]
+    },
+    {
+      "code": "IM526",
+      "name": "pinstripes & wheels",
+      "make": "Ford",
+      "model": "Straw",
+      "year_from": 1928,
+      "year_to": 1928,
+      "models": [
+        "Straw"
+      ]
+    },
+    {
+      "code": "17487",
+      "name": "Engine & Transmission",
+      "make": "Ford",
+      "model": "Green",
+      "year_from": 1928,
+      "year_to": 1928,
+      "models": [
+        "Green"
+      ]
+    },
+    {
+      "code": "246-9252",
+      "name": "Fordor,Roadster,Pheaton",
+      "hex": "#FFFFFE",
+      "make": "Ford",
+      "model": "Andalusite Blue",
+      "year_from": 1929,
+      "year_to": 1929,
+      "models": [
+        "Andalusite Blue"
+      ]
+    },
+    {
+      "code": "IM124",
+      "name": "Roadster,Pheaton",
+      "make": "Ford",
+      "model": "Balsam Green",
+      "year_from": 1929,
+      "year_to": 1929,
+      "models": [
+        "Balsam Green"
+      ]
+    },
+    {
+      "code": "IM116",
+      "name": "Roadster,Pheaton",
+      "make": "Ford",
+      "model": "Bonnie Gray",
+      "year_from": 1929,
+      "year_to": 1929,
+      "models": [
+        "Bonnie Gray"
+      ]
+    },
+    {
+      "code": "IM1017",
+      "name": "lower color only",
+      "hex": "#FFFFFE",
+      "make": "Ford",
+      "model": "Brewster Green",
+      "year_from": 1929,
+      "year_to": 1929,
+      "models": [
+        "Brewster Green"
+      ]
+    },
+    {
+      "code": "IM120",
+      "name": "Tudor,Coupe,Fordor",
+      "make": "Ford",
+      "model": "Chelsea Blue",
+      "year_from": 1929,
+      "year_to": 1929,
+      "models": [
+        "Chelsea Blue"
+      ]
+    },
+    {
+      "code": "IM451",
+      "name": "lower color only",
+      "make": "Ford",
+      "model": "Cigarette Cream",
+      "year_from": 1929,
+      "year_to": 1929,
+      "models": [
+        "Cigarette Cream"
+      ]
+    },
+    {
+      "code": "IM123",
+      "name": "lower color only",
+      "make": "Ford",
+      "model": "Duchess Blue",
+      "year_from": 1929,
+      "year_to": 1929,
+      "models": [
+        "Duchess Blue"
+      ]
+    },
+    {
+      "code": "IM159",
+      "name": "lower color only",
+      "make": "Ford",
+      "model": "Lawn Green",
+      "year_from": 1929,
+      "year_to": 1929,
+      "models": [
+        "Lawn Green"
+      ]
+    },
+    {
+      "code": "IM125",
+      "name": "Taxicab",
+      "make": "Ford",
+      "model": "Medium Cream",
+      "year_from": 1929,
+      "year_to": 1929,
+      "models": [
+        "Medium Cream"
+      ]
+    },
+    {
+      "code": "IM1046",
+      "name": "lower color only",
+      "make": "Ford",
+      "model": "Mulberry Maroon",
+      "year_from": 1929,
+      "year_to": 1929,
+      "models": [
+        "Mulberry Maroon"
+      ]
+    },
+    {
+      "code": "IM117",
+      "name": "Tudor,Coupe,Fordor",
+      "make": "Ford",
+      "model": "Rock Moss Green",
+      "year_from": 1929,
+      "year_to": 1929,
+      "models": [
+        "Rock Moss Green"
+      ]
+    },
+    {
+      "code": "IM119",
+      "name": "Roadster,Pheaton",
+      "make": "Ford",
+      "model": "Rose Beige",
+      "year_from": 1929,
+      "year_to": 1929,
+      "models": [
+        "Rose Beige"
+      ]
+    },
+    {
+      "code": "IM118",
+      "name": "Tudor,Coupe,Fordor,Cabriolet",
+      "make": "Ford",
+      "model": "Seal Brown",
+      "year_from": 1929,
+      "year_to": 1929,
+      "models": [
+        "Seal Brown"
+      ]
+    },
+    {
+      "code": "246-9248",
+      "name": "lower color only",
+      "make": "Ford",
+      "model": "Thorne Brown",
+      "year_from": 1929,
+      "year_to": 1929,
+      "models": [
+        "Thorne Brown"
+      ]
+    },
+    {
+      "code": "IM122",
+      "name": "lower color only",
+      "make": "Ford",
+      "model": "Vagabond Green",
+      "year_from": 1929,
+      "year_to": 1929,
+      "models": [
+        "Vagabond Green"
+      ]
+    },
+    {
+      "name": "Mustangs:",
+      "hex": "#9D3A00",
+      "make": "Ford"
+    }
+  ]
+}

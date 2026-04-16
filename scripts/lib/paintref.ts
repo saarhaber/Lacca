@@ -415,81 +415,176 @@ function looksLikeName(c: string, oem: string): boolean {
 }
 
 /**
- * Parse one results page. We rely on the fact that every PaintRef paint row
- * is a `<tr>` containing a color swatch (a cell/span with `background:#xxxxxx`
- * or a `#xxxxxx` text), plus cells for year, manuf, model, color name, and
- * paint codes. The parser is intentionally tolerant: unknown columns are
- * ignored and we fall back to "any alphanumeric token that looks like a code".
+ * Parse one results page. Paint rows are identified by `class="odd"` or
+ * `class="even"` and are distinguished from header/navigation rows. Within
+ * each row we identify columns by the **query parameter of the first `<a
+ * href>` inside each cell** — e.g. a cell whose anchor points at
+ * `colorcodedisplay.cgi?code=C03L&...` is the paint-code cell, `?color=...`
+ * is the color-name cell, `?make=...` is the make cell, etc. This is much
+ * more reliable than guessing from cell text (which previously caused
+ * color names like "Blue" to be mis-classified as car models and table
+ * UI text like "brochures" to leak into the paint catalog).
+ *
+ * Hex is extracted **only** from explicit inline `style="background:#RRGGBB"`
+ * declarations. PaintRef's sample cells usually carry `background-image:
+ * url(/chipimages/XXX.png)` instead — in that case we return no hex and the
+ * seed is dropped downstream (the code/name/year/model metadata is still
+ * retained for `unionModelsFromEntries` so the scope's model list stays
+ * populated).
  */
-function parseAdvancedSearchHtml(html: string, oem: string): PaintRefEntry[] {
-  const rows = html.match(/<tr\b[\s\S]*?<\/tr>/gi) ?? [];
+function decodeQueryValue(v: string): string {
+  try {
+    return decodeURIComponent(v.replace(/\+/g, " "));
+  } catch {
+    return v.replace(/\+/g, " ");
+  }
+}
+
+function anchorsInCell(
+  cellHtml: string
+): Array<{ href: string; text: string; title?: string }> {
+  const out: Array<{ href: string; text: string; title?: string }> = [];
+  const re = /<a\b([^>]*)>([\s\S]*?)<\/a>/gi;
+  let m: RegExpExecArray | null;
+  while ((m = re.exec(cellHtml)) !== null) {
+    const attrs = m[1];
+    const inner = stripTags(m[2]);
+    const href = attrs.match(/\bhref\s*=\s*["']([^"']+)["']/i)?.[1] ?? "";
+    const title = attrs.match(/\btitle\s*=\s*["']([^"']+)["']/i)?.[1];
+    if (inner) out.push({ href, text: inner, title });
+  }
+  return out;
+}
+
+function hrefParam(href: string, name: string): string | undefined {
+  const qIdx = href.indexOf("?");
+  const qs = qIdx >= 0 ? href.slice(qIdx + 1) : href;
+  for (const pair of qs.split("&")) {
+    const eq = pair.indexOf("=");
+    if (eq <= 0) continue;
+    if (pair.slice(0, eq).toLowerCase() === name.toLowerCase()) {
+      return decodeQueryValue(pair.slice(eq + 1));
+    }
+  }
+  return undefined;
+}
+
+/** Parse a cell; classify it by the query-param(s) in its anchors. */
+type CellKind =
+  | { kind: "year"; year: number }
+  | { kind: "make"; make: string }
+  | { kind: "model"; model: string }
+  | { kind: "color"; name: string }
+  | { kind: "code"; codes: string[] }
+  | { kind: "ditzler"; ditzler: string }
+  | { kind: "unknown" };
+
+function classifyCell(cellHtml: string): CellKind {
+  const anchors = anchorsInCell(cellHtml);
+  const codes: string[] = [];
+  let year: number | undefined;
+  let make: string | undefined;
+  let model: string | undefined;
+  let name: string | undefined;
+  let ditzler: string | undefined;
+
+  for (const a of anchors) {
+    const yParam = hrefParam(a.href, "year");
+    if (yParam && /^(19|20)\d{2}$/.test(yParam)) year = parseInt(yParam, 10);
+    const mkParam = hrefParam(a.href, "make");
+    if (mkParam) make = a.text || mkParam;
+    const mdParam = hrefParam(a.href, "model");
+    if (mdParam) model = a.text || mdParam;
+    const colorParam = hrefParam(a.href, "color");
+    if (colorParam) name = a.text || colorParam;
+    const codeParam = hrefParam(a.href, "code");
+    if (codeParam) codes.push((a.text || codeParam).trim());
+    const ditzlerParam = hrefParam(a.href, "ditzler");
+    const tditzlerParam = hrefParam(a.href, "tditzler");
+    if (ditzlerParam || tditzlerParam) ditzler = a.text || ditzlerParam || tditzlerParam;
+  }
+
+  if (codes.length) return { kind: "code", codes };
+  if (year !== undefined) return { kind: "year", year };
+  if (make) return { kind: "make", make };
+  if (model) return { kind: "model", model };
+  if (name) return { kind: "color", name };
+  if (ditzler) return { kind: "ditzler", ditzler };
+  return { kind: "unknown" };
+}
+
+export function parseAdvancedSearchHtml(html: string, oem: string): PaintRefEntry[] {
+  const rows = html.match(/<tr\b[^>]*>[\s\S]*?<\/tr>/gi) ?? [];
   const out: PaintRefEntry[] = [];
 
   for (const row of rows) {
-    const hexMatch =
-      row.match(/background(?:-color)?\s*:\s*#([0-9a-fA-F]{6})/)?.[1] ??
-      row.match(/#([0-9a-fA-F]{6})/)?.[1];
-    const hex = hexMatch ? `#${hexMatch.toUpperCase()}` : undefined;
+    const classAttr = row.match(/<tr\b[^>]*\bclass\s*=\s*["']([^"']+)["']/i)?.[1] ?? "";
+    const cls = classAttr.toLowerCase();
+    if (cls === "head" || cls.includes("head")) continue;
+    if (cls && cls !== "odd" && cls !== "even") continue;
 
     const cellHtml = row.match(/<t[dh]\b[\s\S]*?<\/t[dh]>/gi) ?? [];
-    if (cellHtml.length < 3) continue;
-    const cells = cellHtml.map(stripTags);
+    if (cellHtml.length < 4) continue;
 
-    const yearCellIdx = cells.findIndex(looksLikeYear);
-    const year = yearCellIdx >= 0 ? parseInt(cells[yearCellIdx], 10) : undefined;
-
-    const makeIdx = cells.findIndex((c) => c && c.toLowerCase() === oem.toLowerCase());
+    let year: number | undefined;
+    let make: string | undefined;
     let model: string | undefined;
-    if (makeIdx >= 0) {
-      for (let i = makeIdx + 1; i < cells.length; i++) {
-        const c = cells[i];
-        if (!c) continue;
-        if (looksLikeYear(c)) continue;
-        if (looksLikeCode(c, oem) && /^[A-Z0-9\-\/]+$/.test(c)) continue;
-        model = c;
-        break;
-      }
-    }
-
     let name: string | undefined;
-    let nameIdx = -1;
-    for (let i = cells.length - 1; i >= 0; i--) {
-      if (looksLikeName(cells[i], oem) && cells[i] !== model) {
-        name = cells[i];
-        nameIdx = i;
-        break;
-      }
-    }
+    const codes: string[] = [];
+    let ditzler: string | undefined;
+    let hex: string | undefined;
 
-    let code: string | undefined;
-    if (nameIdx >= 0) {
-      for (let i = nameIdx + 1; i < cells.length; i++) {
-        if (looksLikePaintCode(cells[i], oem)) {
-          code = cells[i];
+    for (const cell of cellHtml) {
+      const k = classifyCell(cell);
+      switch (k.kind) {
+        case "year":
+          year = k.year;
           break;
+        case "make":
+          make = k.make;
+          break;
+        case "model":
+          model = k.model;
+          break;
+        case "color":
+          name = k.name;
+          break;
+        case "code":
+          for (const c of k.codes) codes.push(c);
+          break;
+        case "ditzler":
+          ditzler = k.ditzler;
+          break;
+      }
+
+      if (!hex) {
+        const bg =
+          cell.match(/background(?:-color)?\s*:\s*#([0-9a-fA-F]{6})/i)?.[1] ??
+          cell.match(/bgcolor\s*=\s*["']?#([0-9a-fA-F]{6})/i)?.[1];
+        if (bg) {
+          const up = bg.toUpperCase();
+          // Reject obvious decorative backgrounds (table greys).
+          if (up !== "E0E0E0" && up !== "F0F0F0" && up !== "FFFFFF" && up !== "000000") {
+            hex = `#${up}`;
+          }
         }
       }
     }
-    if (!code) {
-      for (const c of cells) {
-        if (looksLikePaintCode(c, oem) && c !== model) {
-          code = c;
-          break;
-        }
-      }
-    }
 
-    if (!code && !name) continue;
-    if (!hex && !code) continue;
+    if (codes.length === 0) continue;
+    const code = codes.find((c) => looksLikePaintCode(c, oem)) ?? codes[0];
+    if (!code) continue;
+    if (name && name.toLowerCase() === oem.toLowerCase()) continue;
 
     out.push({
-      code: code?.trim(),
+      code,
       name: name?.trim(),
       hex,
-      make: makeIdx >= 0 ? cells[makeIdx] : oem,
+      make: make ?? oem,
       model: model?.trim(),
       year_from: year,
-      year_to: year
+      year_to: year,
+      ...(ditzler ? { ditzler: ditzler.trim() } as unknown as Record<string, string> : {})
     });
   }
 

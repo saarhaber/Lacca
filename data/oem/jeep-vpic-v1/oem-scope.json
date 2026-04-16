@@ -1,0 +1,37 @@
+{
+  "$schema": "../../../schemas/oem-scope-v1.schema.json",
+  "scopeId": "jeep-vpic-v1",
+  "oem": "Jeep",
+  "modelYears": {
+    "from": 2000,
+    "to": 2026
+  },
+  "models": [
+    "Cherokee",
+    "CJ-5",
+    "CJ-6",
+    "CJ-7",
+    "CJ-8 Scrambler",
+    "Comanche",
+    "Commander",
+    "Compass",
+    "Gladiator",
+    "Grand Cherokee",
+    "Grand Cherokee L",
+    "Grand Wagoneer",
+    "Grand Wagoneer L",
+    "J-10",
+    "J-20",
+    "Liberty",
+    "Patriot",
+    "Recon",
+    "Renegade",
+    "Wagoneer",
+    "Wagoneer L",
+    "Wagoneer S",
+    "Wrangler",
+    "Wrangler JK"
+  ],
+  "notes": "Jeep model catalog sourced from NHTSA vPIC (GetModelsForMake). 24 distinct models. Paint catalog intentionally empty for this scope; the web UI falls back to generic colors when an OEM has no dedicated paint rows yet. Merge with curated scopes via merge-oem-scopes to enrich with real paint codes.",
+  "exteriorPaintFile": "./exterior-paints-v1.json"
+}

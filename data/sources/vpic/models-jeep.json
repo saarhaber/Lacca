@@ -1,0 +1,30 @@
+{
+  "oem": "Jeep",
+  "fetchedAt": "2026-04-16T20:37:45.888Z",
+  "models": [
+    "Cherokee",
+    "CJ-5",
+    "CJ-6",
+    "CJ-7",
+    "CJ-8 Scrambler",
+    "Comanche",
+    "Commander",
+    "Compass",
+    "Gladiator",
+    "Grand Cherokee",
+    "Grand Cherokee L",
+    "Grand Wagoneer",
+    "Grand Wagoneer L",
+    "J-10",
+    "J-20",
+    "Liberty",
+    "Patriot",
+    "Recon",
+    "Renegade",
+    "Wagoneer",
+    "Wagoneer L",
+    "Wagoneer S",
+    "Wrangler",
+    "Wrangler JK"
+  ]
+}

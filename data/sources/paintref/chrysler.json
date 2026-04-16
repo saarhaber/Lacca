@@ -1,0 +1,1480 @@
+{
+  "oem": "Chrysler",
+  "fetchedAt": "2026-04-16T20:24:20.577Z",
+  "entries": [
+    {
+      "name": "brochures",
+      "hex": "#000000",
+      "make": "Chrysler"
+    },
+    {
+      "name": "<< customize your view",
+      "hex": "#606060",
+      "make": "Chrysler"
+    },
+    {
+      "code": "2NE8B",
+      "make": "Chrysler",
+      "model": "Aqua",
+      "models": [
+        "Aqua"
+      ]
+    },
+    {
+      "code": "6TX3B",
+      "make": "Chrysler",
+      "model": "Aqua",
+      "models": [
+        "Aqua"
+      ]
+    },
+    {
+      "code": "3126M",
+      "name": "metallic, 1965-1971, Autocolor Colour Register 1998-1999",
+      "make": "Chrysler",
+      "model": "Arctic Blue",
+      "models": [
+        "Arctic Blue"
+      ]
+    },
+    {
+      "code": "JFR5B",
+      "make": "Chrysler",
+      "model": "Argent",
+      "models": [
+        "Argent"
+      ]
+    },
+    {
+      "code": "END5B",
+      "make": "Chrysler",
+      "model": "Azul Araya",
+      "models": [
+        "Azul Araya"
+      ]
+    },
+    {
+      "code": "EJY4B",
+      "make": "Chrysler",
+      "model": "Azul Baltico",
+      "models": [
+        "Azul Baltico"
+      ]
+    },
+    {
+      "code": "JFP7B",
+      "name": "pearl, 1996-1999, Autocolor Colour Register 1998-1999",
+      "make": "Chrysler",
+      "model": "Azul Caribe",
+      "models": [
+        "Azul Caribe"
+      ]
+    },
+    {
+      "code": "BAD1B",
+      "name": "pearl, 1989-1999, Autocolor Colour Register 1998-1999",
+      "make": "Chrysler",
+      "model": "Azul Galaxia",
+      "models": [
+        "Azul Galaxia"
+      ]
+    },
+    {
+      "code": "LHN2B",
+      "make": "Chrysler",
+      "model": "Azul Galaxia",
+      "models": [
+        "Azul Galaxia"
+      ]
+    },
+    {
+      "code": "BAC1B",
+      "name": "pearl, 1995-1999, Autocolor Colour Register 1998-1999",
+      "make": "Chrysler",
+      "model": "Azul Perlado",
+      "models": [
+        "Azul Perlado"
+      ]
+    },
+    {
+      "code": "AXT5B",
+      "make": "Chrysler",
+      "model": "Azul Tahiti",
+      "models": [
+        "Azul Tahiti"
+      ]
+    },
+    {
+      "code": "EJY2B",
+      "make": "Chrysler",
+      "model": "Azul Turqueza",
+      "models": [
+        "Azul Turqueza"
+      ]
+    },
+    {
+      "code": "ENP2B",
+      "name": "Venezuela, 1988-1999, Autocolor Colour Register 1998-1999",
+      "make": "Chrysler",
+      "model": "Beige Medano",
+      "models": [
+        "Beige Medano"
+      ]
+    },
+    {
+      "code": "3215M",
+      "name": "metallic, 1965-1971, Autocolor Colour Register 1998-1999",
+      "make": "Chrysler",
+      "model": "Beige Mist",
+      "models": [
+        "Beige Mist"
+      ]
+    },
+    {
+      "code": "KAH9",
+      "make": "Chrysler",
+      "model": "Black",
+      "models": [
+        "Black"
+      ]
+    },
+    {
+      "code": "PE95B",
+      "make": "Chrysler",
+      "model": "Black Cherry",
+      "models": [
+        "Black Cherry"
+      ]
+    },
+    {
+      "code": "EPF9B",
+      "name": "Venezuela, 1995, Autocolor Colour Register 1998-1999",
+      "make": "Chrysler",
+      "model": "Blanco Bruma",
+      "models": [
+        "Blanco Bruma"
+      ]
+    },
+    {
+      "code": "BAC4",
+      "name": "Venezuela, 1995, Autocolor Colour Register 1998-1999",
+      "make": "Chrysler",
+      "model": "Blanco Bruma",
+      "models": [
+        "Blanco Bruma"
+      ]
+    },
+    {
+      "code": "JFP3",
+      "name": "Venezuela, 1996-1999, Autocolor Colour Register 1998-1999",
+      "make": "Chrysler",
+      "model": "Blanco Bruma",
+      "models": [
+        "Blanco Bruma"
+      ]
+    },
+    {
+      "code": "JFP3B",
+      "name": "Venezuela, 1997-1999, Autocolor Colour Register 1998-1999",
+      "make": "Chrysler",
+      "model": "Blanco Bruma",
+      "models": [
+        "Blanco Bruma"
+      ]
+    },
+    {
+      "code": "ENP3B",
+      "name": "Venezuela, 1988-1999, Autocolor Colour Register 1998-1999",
+      "make": "Chrysler",
+      "model": "Blanco Espuma",
+      "models": [
+        "Blanco Espuma"
+      ]
+    },
+    {
+      "code": "3125M",
+      "name": "metallic, 1965-1971, Autocolor Colour Register 1998-1999",
+      "make": "Chrysler",
+      "model": "Bright Blue",
+      "models": [
+        "Bright Blue"
+      ]
+    },
+    {
+      "code": "3212M",
+      "name": "metallic, 1965-1971, Autocolor Colour Register 1998-1999",
+      "make": "Chrysler",
+      "model": "Bright Blue",
+      "models": [
+        "Bright Blue"
+      ]
+    },
+    {
+      "code": "3294M",
+      "name": "metallic, 1965-1971, Autocolor Colour Register 1998-1999",
+      "make": "Chrysler",
+      "model": "Bright Turquoise",
+      "models": [
+        "Bright Turquoise"
+      ]
+    },
+    {
+      "code": "5JV4B",
+      "make": "Chrysler",
+      "model": "Bright White",
+      "models": [
+        "Bright White"
+      ]
+    },
+    {
+      "code": "TD16B",
+      "make": "Chrysler",
+      "model": "Bright White",
+      "models": [
+        "Bright White"
+      ]
+    },
+    {
+      "code": "ELJ5B",
+      "make": "Chrysler",
+      "model": "Brilliant Blue",
+      "models": [
+        "Brilliant Blue",
+        "Light Montego Blue"
+      ]
+    },
+    {
+      "code": "AVJ5B",
+      "make": "Chrysler",
+      "model": "Brilliant Blue",
+      "models": [
+        "Brilliant Blue",
+        "Light Montego Blue"
+      ]
+    },
+    {
+      "code": "8ML7B",
+      "make": "Chrysler",
+      "model": "Brilliant Blue",
+      "models": [
+        "Brilliant Blue",
+        "Light Montego Blue"
+      ]
+    },
+    {
+      "code": "8TF3B",
+      "make": "Chrysler",
+      "model": "Brilliant Blue",
+      "models": [
+        "Brilliant Blue",
+        "Light Montego Blue"
+      ]
+    },
+    {
+      "code": "8272M",
+      "make": "Chrysler",
+      "model": "Brite Silver",
+      "models": [
+        "Brite Silver",
+        "Burnished Silver"
+      ]
+    },
+    {
+      "code": "EJY1B",
+      "make": "Chrysler",
+      "model": "Bronce",
+      "models": [
+        "Bronce"
+      ]
+    },
+    {
+      "code": "BAC2B",
+      "make": "Chrysler",
+      "model": "Caoba Claro",
+      "models": [
+        "Caoba Claro"
+      ]
+    },
+    {
+      "code": "LHN4B",
+      "make": "Chrysler",
+      "model": "Caoba Claro Metalizado",
+      "models": [
+        "Caoba Claro Metalizado"
+      ]
+    },
+    {
+      "code": "EJP8B",
+      "make": "Chrysler",
+      "model": "Cereza Imperial",
+      "models": [
+        "Cereza Imperial"
+      ]
+    },
+    {
+      "code": "BAD4B",
+      "name": "pearl, 1995-1999, Autocolor Colour Register 1998-1999",
+      "make": "Chrysler",
+      "model": "Champagne",
+      "models": [
+        "Champagne"
+      ]
+    },
+    {
+      "code": "LHN5B",
+      "make": "Chrysler",
+      "model": "Champagne",
+      "models": [
+        "Champagne"
+      ]
+    },
+    {
+      "code": "JFN8B",
+      "name": "pearl, 1996-1999, Autocolor Colour Register 1998-1999",
+      "make": "Chrysler",
+      "model": "Champagne Claro",
+      "models": [
+        "Champagne Claro"
+      ]
+    },
+    {
+      "code": "ENN2B",
+      "make": "Chrysler",
+      "model": "Charcoal",
+      "models": [
+        "Charcoal"
+      ]
+    },
+    {
+      "code": "PH41B",
+      "make": "Chrysler",
+      "model": "Charcoal Grey",
+      "models": [
+        "Charcoal Grey"
+      ]
+    },
+    {
+      "code": "2LD5B",
+      "make": "Chrysler",
+      "model": "Charcoal Grey",
+      "models": [
+        "Charcoal Grey"
+      ]
+    },
+    {
+      "code": "1AW5B",
+      "make": "Chrysler",
+      "model": "Charcoal Grey",
+      "models": [
+        "Charcoal Grey"
+      ]
+    },
+    {
+      "code": "EEG5B",
+      "make": "Chrysler",
+      "model": "Chargold 2",
+      "models": [
+        "Chargold 2"
+      ]
+    },
+    {
+      "code": "JYJ3B",
+      "make": "Chrysler",
+      "model": "Chargold 2",
+      "models": [
+        "Chargold 2"
+      ]
+    },
+    {
+      "code": "PE93B",
+      "make": "Chrysler",
+      "model": "Claret Red",
+      "models": [
+        "Claret Red"
+      ]
+    },
+    {
+      "code": "PE94B",
+      "make": "Chrysler",
+      "model": "Claret Red",
+      "models": [
+        "Claret Red"
+      ]
+    },
+    {
+      "code": "4TV8B",
+      "make": "Chrysler",
+      "model": "Claret Red",
+      "models": [
+        "Claret Red"
+      ]
+    },
+    {
+      "code": "FTT7B",
+      "make": "Chrysler",
+      "model": "Colorado Red",
+      "models": [
+        "Colorado Red"
+      ]
+    },
+    {
+      "code": "TD19B",
+      "make": "Chrysler",
+      "model": "Colorado Red",
+      "models": [
+        "Colorado Red"
+      ]
+    },
+    {
+      "code": "3216M",
+      "name": "metallic, 1965-1971, Autocolor Colour Register 1998-1999",
+      "make": "Chrysler",
+      "model": "Consort Blue",
+      "models": [
+        "Consort Blue"
+      ]
+    },
+    {
+      "code": "8274M",
+      "make": "Chrysler",
+      "model": "Crimson Red",
+      "models": [
+        "Crimson Red"
+      ]
+    },
+    {
+      "code": "3131M",
+      "name": "metallic, 1965-1971, Autocolor Colour Register 1998-1999",
+      "make": "Chrysler",
+      "model": "Crystal Blue",
+      "models": [
+        "Crystal Blue"
+      ]
+    },
+    {
+      "code": "PH42B",
+      "make": "Chrysler",
+      "model": "Dark Cordovan",
+      "models": [
+        "Dark Cordovan"
+      ]
+    },
+    {
+      "code": "C291B",
+      "make": "Chrysler",
+      "model": "Dark Forest Green",
+      "models": [
+        "Dark Forest Green"
+      ]
+    },
+    {
+      "code": "5KA3B",
+      "make": "Chrysler",
+      "model": "Dark Quartz Grey",
+      "models": [
+        "Dark Quartz Grey"
+      ]
+    },
+    {
+      "code": "6TT4B",
+      "make": "Chrysler",
+      "model": "Dark Quartz Grey",
+      "models": [
+        "Dark Quartz Grey"
+      ]
+    },
+    {
+      "code": "1BA6B",
+      "make": "Chrysler",
+      "model": "Dark Quartz Grey",
+      "models": [
+        "Dark Quartz Grey"
+      ]
+    },
+    {
+      "code": "2ML6B",
+      "make": "Chrysler",
+      "model": "Dark Quartz Grey",
+      "models": [
+        "Dark Quartz Grey"
+      ]
+    },
+    {
+      "code": "9JG5B",
+      "make": "Chrysler",
+      "model": "Dark Silver",
+      "models": [
+        "Dark Silver"
+      ]
+    },
+    {
+      "code": "3211M",
+      "name": "metallic, 1965-1971, Autocolor Colour Register 1998-1999",
+      "make": "Chrysler",
+      "model": "Dark Turquoise",
+      "models": [
+        "Dark Turquoise"
+      ]
+    },
+    {
+      "code": "8278M",
+      "make": "Chrysler",
+      "model": "Daystar Blue",
+      "models": [
+        "Daystar Blue"
+      ]
+    },
+    {
+      "code": "3117M",
+      "name": "metallic, 1965-1971, Autocolor Colour Register 1998-1999",
+      "make": "Chrysler",
+      "model": "Desert Dune",
+      "models": [
+        "Desert Dune"
+      ]
+    },
+    {
+      "code": "1BA5B",
+      "make": "Chrysler",
+      "model": "Diamond Blue",
+      "models": [
+        "Diamond Blue"
+      ]
+    },
+    {
+      "code": "JFP1B",
+      "name": "pearl, 1996-1999, Autocolor Colour Register 1998-1999",
+      "make": "Chrysler",
+      "model": "Dorado Sol",
+      "models": [
+        "Dorado Sol"
+      ]
+    },
+    {
+      "code": "2RL5B",
+      "make": "Chrysler",
+      "model": "Dover Grey",
+      "models": [
+        "Dover Grey"
+      ]
+    },
+    {
+      "code": "AAL3B",
+      "make": "Chrysler",
+      "model": "Emerald Green",
+      "models": [
+        "Emerald Green"
+      ]
+    },
+    {
+      "code": "9FG8B",
+      "make": "Chrysler",
+      "model": "Emerald Green",
+      "models": [
+        "Emerald Green"
+      ]
+    },
+    {
+      "code": "5XS1B",
+      "make": "Chrysler",
+      "model": "Emerald Green",
+      "models": [
+        "Emerald Green"
+      ]
+    },
+    {
+      "code": "GFE7B",
+      "make": "Chrysler",
+      "model": "Emerald Green",
+      "models": [
+        "Emerald Green"
+      ]
+    },
+    {
+      "code": "EEG4B",
+      "make": "Chrysler",
+      "model": "Flame Red",
+      "models": [
+        "Flame Red",
+        "Poppy Red"
+      ]
+    },
+    {
+      "code": "8271M",
+      "make": "Chrysler",
+      "model": "Frost Blue",
+      "models": [
+        "Frost Blue"
+      ]
+    },
+    {
+      "code": "PE99B",
+      "make": "Chrysler",
+      "model": "Garnet Red",
+      "models": [
+        "Garnet Red"
+      ]
+    },
+    {
+      "code": "TD17B",
+      "make": "Chrysler",
+      "model": "Graphic Red",
+      "models": [
+        "Graphic Red"
+      ]
+    },
+    {
+      "code": "TC52B",
+      "make": "Chrysler",
+      "model": "Graphic Red",
+      "models": [
+        "Graphic Red"
+      ]
+    },
+    {
+      "code": "RM59M",
+      "make": "Chrysler",
+      "model": "Grey",
+      "models": [
+        "Grey"
+      ]
+    },
+    {
+      "code": "5GS3M",
+      "make": "Chrysler",
+      "model": "Grey",
+      "models": [
+        "Grey"
+      ]
+    },
+    {
+      "code": "KYB2B",
+      "make": "Chrysler",
+      "model": "Grey",
+      "models": [
+        "Grey"
+      ]
+    },
+    {
+      "code": "4SR3M",
+      "make": "Chrysler",
+      "model": "Grey",
+      "models": [
+        "Grey"
+      ]
+    },
+    {
+      "code": "JFN6B",
+      "make": "Chrysler",
+      "model": "Gris Arena",
+      "models": [
+        "Gris Arena"
+      ]
+    },
+    {
+      "code": "EJX7B",
+      "make": "Chrysler",
+      "model": "Gris Catatumbo",
+      "models": [
+        "Gris Catatumbo"
+      ]
+    },
+    {
+      "code": "BAC3B",
+      "name": "pearl, 1995-1999, Autocolor Colour Register 1998-1999",
+      "make": "Chrysler",
+      "model": "Gris Platino Perlado",
+      "models": [
+        "Gris Platino Perlado"
+      ]
+    },
+    {
+      "code": "C289B",
+      "make": "Chrysler",
+      "model": "Ice Blue",
+      "models": [
+        "Ice Blue"
+      ]
+    },
+    {
+      "code": "C852B",
+      "make": "Chrysler",
+      "model": "Ice Blue",
+      "models": [
+        "Ice Blue"
+      ]
+    },
+    {
+      "code": "2ML4B",
+      "make": "Chrysler",
+      "model": "Ice Blue",
+      "models": [
+        "Ice Blue"
+      ]
+    },
+    {
+      "code": "3364M",
+      "name": "metallic, 1965-1971, Autocolor Colour Register 1998-1999",
+      "make": "Chrysler",
+      "model": "Jamaica Blue",
+      "models": [
+        "Jamaica Blue"
+      ]
+    },
+    {
+      "code": "6TX5B",
+      "make": "Chrysler",
+      "model": "Jewel Blue",
+      "models": [
+        "Jewel Blue"
+      ]
+    },
+    {
+      "code": "8257B",
+      "make": "Chrysler",
+      "model": "Khaki",
+      "models": [
+        "Khaki"
+      ]
+    },
+    {
+      "code": "8257M",
+      "make": "Chrysler",
+      "model": "Khaki",
+      "models": [
+        "Khaki"
+      ]
+    },
+    {
+      "code": "2473M",
+      "name": "metallic, 1965-1971, Autocolor Colour Register 1998-1999",
+      "make": "Chrysler",
+      "model": "Light Blue",
+      "models": [
+        "Light Blue"
+      ]
+    },
+    {
+      "code": "3213M",
+      "name": "metallic, 1965-1971, Autocolor Colour Register 1998-1999",
+      "make": "Chrysler",
+      "model": "Light Blue",
+      "models": [
+        "Light Blue"
+      ]
+    },
+    {
+      "code": "3362M",
+      "name": "metallic, 1965-1971, Autocolor Colour Register 1998-1999",
+      "make": "Chrysler",
+      "model": "Light Blue",
+      "models": [
+        "Light Blue"
+      ]
+    },
+    {
+      "code": "8282B",
+      "make": "Chrysler",
+      "model": "Light Blue",
+      "models": [
+        "Light Blue"
+      ]
+    },
+    {
+      "code": "8281B",
+      "make": "Chrysler",
+      "model": "Light Blue",
+      "models": [
+        "Light Blue"
+      ]
+    },
+    {
+      "code": "4VL6B",
+      "make": "Chrysler",
+      "model": "Light Blue",
+      "models": [
+        "Light Blue"
+      ]
+    },
+    {
+      "code": "8282M",
+      "make": "Chrysler",
+      "model": "Light Blue",
+      "models": [
+        "Light Blue"
+      ]
+    },
+    {
+      "code": "8281M",
+      "make": "Chrysler",
+      "model": "Light Blue",
+      "models": [
+        "Light Blue"
+      ]
+    },
+    {
+      "code": "4VL6M",
+      "make": "Chrysler",
+      "model": "Light Blue",
+      "models": [
+        "Light Blue"
+      ]
+    },
+    {
+      "code": "2MP2B",
+      "make": "Chrysler",
+      "model": "Light Blue Satin Glow",
+      "models": [
+        "Light Blue Satin Glow"
+      ]
+    },
+    {
+      "code": "1BA8B",
+      "make": "Chrysler",
+      "model": "Light Blue Satin Glow",
+      "models": [
+        "Light Blue Satin Glow"
+      ]
+    },
+    {
+      "code": "2ML5B",
+      "make": "Chrysler",
+      "model": "Light Champagne",
+      "models": [
+        "Light Champagne"
+      ]
+    },
+    {
+      "code": "TD18B",
+      "make": "Chrysler",
+      "model": "Light Cream",
+      "models": [
+        "Light Cream"
+      ]
+    },
+    {
+      "code": "JYH7B",
+      "make": "Chrysler",
+      "model": "Light Driftwood",
+      "models": [
+        "Light Driftwood"
+      ]
+    },
+    {
+      "code": "6TX4B",
+      "make": "Chrysler",
+      "model": "Light Driftwood Satin Glow",
+      "models": [
+        "Light Driftwood Satin Glow"
+      ]
+    },
+    {
+      "code": "5JY1B",
+      "make": "Chrysler",
+      "model": "Light Driftwood Satin Glow",
+      "models": [
+        "Light Driftwood Satin Glow"
+      ]
+    },
+    {
+      "code": "7PM5B",
+      "make": "Chrysler",
+      "model": "Light Driftwood Satin Glow",
+      "models": [
+        "Light Driftwood Satin Glow"
+      ]
+    },
+    {
+      "code": "6065M",
+      "name": "metallic, 1978-1979, Autocolor Colour Register 1998-1999",
+      "make": "Chrysler",
+      "model": "Light Green",
+      "models": [
+        "Light Green"
+      ]
+    },
+    {
+      "code": "1AY1B",
+      "make": "Chrysler",
+      "model": "Light Spectrum Blue",
+      "models": [
+        "Light Spectrum Blue"
+      ]
+    },
+    {
+      "code": "2MP4B",
+      "make": "Chrysler",
+      "model": "Light Spectrum Blue",
+      "models": [
+        "Light Spectrum Blue"
+      ]
+    },
+    {
+      "code": "JFR2B",
+      "make": "Chrysler",
+      "model": "Madera Ceniza",
+      "models": [
+        "Madera Ceniza"
+      ]
+    },
+    {
+      "code": "3129M",
+      "name": "metallic, 1965-1971, Autocolor Colour Register 1998-1999",
+      "make": "Chrysler",
+      "model": "Mahogany",
+      "models": [
+        "Mahogany"
+      ]
+    },
+    {
+      "code": "EJP4B",
+      "make": "Chrysler",
+      "model": "Marron Glase",
+      "models": [
+        "Marron Glase"
+      ]
+    },
+    {
+      "code": "3115M",
+      "name": "metallic, 1965-1971, Autocolor Colour Register 1998-1999",
+      "make": "Chrysler",
+      "model": "Mauve Mist",
+      "models": [
+        "Mauve Mist"
+      ]
+    },
+    {
+      "code": "AVK7B",
+      "make": "Chrysler",
+      "model": "Medium Blue",
+      "models": [
+        "Medium Blue"
+      ]
+    },
+    {
+      "code": "AAK8B",
+      "make": "Chrysler",
+      "model": "Medium Blue",
+      "models": [
+        "Medium Blue"
+      ]
+    },
+    {
+      "code": "3119M",
+      "name": "metallic, 1965-1971, Autocolor Colour Register 1998-1999",
+      "make": "Chrysler",
+      "model": "Medium Copper",
+      "models": [
+        "Medium Copper"
+      ]
+    },
+    {
+      "code": "6066M",
+      "name": "metallic, 1978-1979, Autocolor Colour Register 1998-1999",
+      "make": "Chrysler",
+      "model": "Medium Green",
+      "models": [
+        "Medium Green"
+      ]
+    },
+    {
+      "code": "9GV4M",
+      "make": "Chrysler",
+      "model": "Medium Quartz",
+      "models": [
+        "Medium Quartz"
+      ]
+    },
+    {
+      "code": "3218M",
+      "name": "metallic, 1965-1971, Autocolor Colour Register 1998-1999",
+      "make": "Chrysler",
+      "model": "Midnight Blue",
+      "models": [
+        "Midnight Blue"
+      ]
+    },
+    {
+      "code": "4YD3B",
+      "make": "Chrysler",
+      "model": "Midnight Blue",
+      "models": [
+        "Midnight Blue"
+      ]
+    },
+    {
+      "code": "2ML8B",
+      "make": "Chrysler",
+      "model": "Midnight Blue",
+      "models": [
+        "Midnight Blue"
+      ]
+    },
+    {
+      "code": "4293M",
+      "name": "metallic, 1965-1971, Autocolor Colour Register 1998-1999",
+      "make": "Chrysler",
+      "model": "Mist Blue",
+      "models": [
+        "Mist Blue"
+      ]
+    },
+    {
+      "code": "3128M",
+      "name": "metallic, 1965-1971, Autocolor Colour Register 1998-1999",
+      "make": "Chrysler",
+      "model": "Mist Turquoise",
+      "models": [
+        "Mist Turquoise"
+      ]
+    },
+    {
+      "code": "8YR1B",
+      "make": "Chrysler",
+      "model": "Moss Green",
+      "models": [
+        "Moss Green"
+      ]
+    },
+    {
+      "code": "ENT8B",
+      "name": "Venezuela, 1993-1999, Autocolor Colour Register 1998-1999",
+      "make": "Chrysler",
+      "model": "Nero",
+      "models": [
+        "Nero"
+      ]
+    },
+    {
+      "code": "AXT1",
+      "name": "Venezuela, 1993-1999, Autocolor Colour Register 1998-1999",
+      "make": "Chrysler",
+      "model": "Nero",
+      "models": [
+        "Nero"
+      ]
+    },
+    {
+      "code": "ENP4B",
+      "name": "Venezuela, 1988-1999, Autocolor Colour Register 1998-1999",
+      "make": "Chrysler",
+      "model": "Nero Azabache",
+      "models": [
+        "Nero Azabache"
+      ]
+    },
+    {
+      "code": "EPG1B",
+      "name": "Venezuela, 1995-1999, Autocolor Colour Register 1998-1999",
+      "make": "Chrysler",
+      "model": "Nero Pantera",
+      "models": [
+        "Nero Pantera"
+      ]
+    },
+    {
+      "code": "BAD3",
+      "name": "Venezuela, 1995-1999, Autocolor Colour Register 1998-1999",
+      "make": "Chrysler",
+      "model": "Nero Pantera",
+      "models": [
+        "Nero Pantera"
+      ]
+    },
+    {
+      "code": "JFN5B",
+      "name": "Venezuela, 1996-1999, Autocolor Colour Register 1998-1999",
+      "make": "Chrysler",
+      "model": "Nero Pantera",
+      "models": [
+        "Nero Pantera"
+      ]
+    },
+    {
+      "code": "JFN5",
+      "name": "Venezuela, 1996-1999, Autocolor Colour Register 1998-1999",
+      "make": "Chrysler",
+      "model": "Nero Pantera",
+      "models": [
+        "Nero Pantera"
+      ]
+    },
+    {
+      "code": "EJY5B",
+      "make": "Chrysler",
+      "model": "Plata",
+      "models": [
+        "Plata"
+      ]
+    },
+    {
+      "code": "AXT3B",
+      "make": "Chrysler",
+      "model": "Plata Vieja",
+      "models": [
+        "Plata Vieja"
+      ]
+    },
+    {
+      "code": "C288B",
+      "make": "Chrysler",
+      "model": "Radiant Silver",
+      "models": [
+        "Radiant Silver"
+      ]
+    },
+    {
+      "code": "C286B",
+      "make": "Chrysler",
+      "model": "Radiant Silver",
+      "models": [
+        "Radiant Silver"
+      ]
+    },
+    {
+      "code": "C287B",
+      "make": "Chrysler",
+      "model": "Radiant Silver",
+      "models": [
+        "Radiant Silver"
+      ]
+    },
+    {
+      "code": "ENP5B",
+      "name": "Venezuela, 1988-1999, Autocolor Colour Register 1998-1999",
+      "make": "Chrysler",
+      "model": "Rojo Amapola",
+      "models": [
+        "Rojo Amapola"
+      ]
+    },
+    {
+      "code": "JFP4B",
+      "name": "pearl, 1996-1999, Autocolor Colour Register 1998-1999",
+      "make": "Chrysler",
+      "model": "Rojo Fuego",
+      "models": [
+        "Rojo Fuego"
+      ]
+    },
+    {
+      "code": "ENT9B",
+      "name": "Venezuela, 1991-1999, Autocolor Colour Register 1998-1999",
+      "make": "Chrysler",
+      "model": "Rojo Galipan",
+      "models": [
+        "Rojo Galipan"
+      ]
+    },
+    {
+      "code": "AXR9",
+      "name": "Venezuela, 1991-1999, Autocolor Colour Register 1998-1999",
+      "make": "Chrysler",
+      "model": "Rojo Galipan",
+      "models": [
+        "Rojo Galipan"
+      ]
+    },
+    {
+      "code": "EJX2B",
+      "make": "Chrysler",
+      "model": "Rojo Membrillo",
+      "models": [
+        "Rojo Membrillo"
+      ]
+    },
+    {
+      "code": "EPF8B",
+      "name": "Venezuela, 1995-1999, Autocolor Colour Register 1998-1999",
+      "make": "Chrysler",
+      "model": "Rojo Radiante",
+      "models": [
+        "Rojo Radiante"
+      ]
+    },
+    {
+      "code": "BAC6",
+      "name": "Venezuela, 1995-1999, Autocolor Colour Register 1998-1999",
+      "make": "Chrysler",
+      "model": "Rojo Radiante",
+      "models": [
+        "Rojo Radiante"
+      ]
+    },
+    {
+      "code": "BAC5B",
+      "make": "Chrysler",
+      "model": "Rojo Salvaje",
+      "models": [
+        "Rojo Salvaje"
+      ]
+    },
+    {
+      "code": "4309M",
+      "name": "metallic, 1965-1971, Autocolor Colour Register 1998-1999",
+      "make": "Chrysler",
+      "model": "Sable Tan",
+      "models": [
+        "Sable Tan"
+      ]
+    },
+    {
+      "code": "2640M",
+      "name": "metallic, 1965-1971, Autocolor Colour Register 1998-1999",
+      "make": "Chrysler",
+      "model": "Silver Blue",
+      "models": [
+        "Silver Blue"
+      ]
+    },
+    {
+      "code": "4PN9B",
+      "make": "Chrysler",
+      "model": "Silver Star",
+      "models": [
+        "Silver Star"
+      ]
+    },
+    {
+      "code": "3222M",
+      "name": "metallic, 1965-1971, Autocolor Colour Register 1998-1999",
+      "make": "Chrysler",
+      "model": "Sovereign Gold",
+      "models": [
+        "Sovereign Gold"
+      ]
+    },
+    {
+      "code": "C591B",
+      "make": "Chrysler",
+      "model": "Spinnaker Blue",
+      "models": [
+        "Spinnaker Blue"
+      ]
+    },
+    {
+      "code": "2RL7B",
+      "make": "Chrysler",
+      "model": "Spinnaker Blue",
+      "models": [
+        "Spinnaker Blue"
+      ]
+    },
+    {
+      "code": "C180B",
+      "make": "Chrysler",
+      "model": "Sterling Silver",
+      "models": [
+        "Sterling Silver"
+      ]
+    },
+    {
+      "code": "GFF1B",
+      "make": "Chrysler",
+      "model": "Stone White",
+      "models": [
+        "Stone White"
+      ]
+    },
+    {
+      "code": "2045M",
+      "name": "metallic, 1965-1971, Autocolor Colour Register 1998-1999",
+      "make": "Chrysler",
+      "model": "Surf Blue",
+      "models": [
+        "Surf Blue"
+      ]
+    },
+    {
+      "code": "3511M",
+      "name": "metallic, 1965-1971, Autocolor Colour Register 1998-1999",
+      "make": "Chrysler",
+      "model": "Tan",
+      "models": [
+        "Tan"
+      ]
+    },
+    {
+      "code": "ENP7B",
+      "make": "Chrysler",
+      "model": "Tan",
+      "models": [
+        "Tan"
+      ]
+    },
+    {
+      "code": "6BD1B",
+      "make": "Chrysler",
+      "model": "Teal",
+      "models": [
+        "Teal"
+      ]
+    },
+    {
+      "code": "6TX2B",
+      "make": "Chrysler",
+      "model": "Teal",
+      "models": [
+        "Teal"
+      ]
+    },
+    {
+      "code": "2777M",
+      "name": "metallic, 1965-1971, Autocolor Colour Register 1998-1999",
+      "make": "Chrysler",
+      "model": "Turquoise",
+      "models": [
+        "Turquoise"
+      ]
+    },
+    {
+      "code": "PF12B",
+      "make": "Chrysler",
+      "model": "Twilight Blue",
+      "models": [
+        "Twilight Blue"
+      ]
+    },
+    {
+      "code": "3127M",
+      "name": "metallic, 1965-1971, Autocolor Colour Register 1998-1999",
+      "make": "Chrysler",
+      "model": "Twilight Turquoise",
+      "models": [
+        "Twilight Turquoise"
+      ]
+    },
+    {
+      "code": "BAB9B",
+      "name": "pearl, 1995-1999, Autocolor Colour Register 1998-1999",
+      "make": "Chrysler",
+      "model": "Verde",
+      "models": [
+        "Verde"
+      ]
+    },
+    {
+      "code": "BAD2B",
+      "make": "Chrysler",
+      "model": "Verde Avila",
+      "models": [
+        "Verde Avila"
+      ]
+    },
+    {
+      "code": "END6B",
+      "make": "Chrysler",
+      "model": "Verde Caribe",
+      "models": [
+        "Verde Caribe"
+      ]
+    },
+    {
+      "code": "AXT2B",
+      "make": "Chrysler",
+      "model": "Verde Oasis",
+      "models": [
+        "Verde Oasis"
+      ]
+    },
+    {
+      "code": "JFR4B",
+      "name": "pearl, 1996-1999, Autocolor Colour Register 1998-1999",
+      "make": "Chrysler",
+      "model": "Verde Pradera",
+      "models": [
+        "Verde Pradera"
+      ]
+    },
+    {
+      "code": "BAC7B",
+      "name": "pearl, 1995-1999, Autocolor Colour Register 1998-1999",
+      "make": "Chrysler",
+      "model": "Vino Tinto",
+      "models": [
+        "Vino Tinto"
+      ]
+    },
+    {
+      "code": "LHN6B",
+      "name": "pearl, 1996-1999, Autocolor Colour Register 1998-1999",
+      "make": "Chrysler",
+      "model": "Vino Tinto",
+      "models": [
+        "Vino Tinto"
+      ]
+    },
+    {
+      "code": "6CA2B",
+      "make": "Chrysler",
+      "model": "Wildberry",
+      "models": [
+        "Wildberry"
+      ]
+    },
+    {
+      "code": "7PM7B",
+      "make": "Chrysler",
+      "model": "Wildberry",
+      "models": [
+        "Wildberry"
+      ]
+    },
+    {
+      "code": "22511",
+      "name": "metallic, 1965-1971, Autocolor Colour Register 1998-1999",
+      "make": "Chrysler",
+      "model": "Spice Gold",
+      "models": [
+        "Spice Gold"
+      ]
+    },
+    {
+      "code": "WN32",
+      "make": "Chrysler",
+      "model": "Deep Night Blue",
+      "models": [
+        "Deep Night Blue"
+      ]
+    },
+    {
+      "code": "WN33",
+      "make": "Chrysler",
+      "model": "Deep Night Blue",
+      "models": [
+        "Deep Night Blue"
+      ]
+    },
+    {
+      "code": "TF99B",
+      "name": "1982-1986, Autocolor Colour Register 1998-1999",
+      "make": "Chrysler",
+      "model": "Deep Night Blue",
+      "models": [
+        "Deep Night Blue"
+      ]
+    },
+    {
+      "code": "JC52",
+      "name": "1982-1986, Autocolor Colour Register 1998-1999",
+      "make": "Chrysler",
+      "model": "Deep Night Blue",
+      "models": [
+        "Deep Night Blue"
+      ]
+    },
+    {
+      "code": "WN35",
+      "make": "Chrysler",
+      "model": "Sebring Red",
+      "models": [
+        "Sebring Red"
+      ]
+    },
+    {
+      "name": "Mustangs:",
+      "hex": "#9D3A00",
+      "make": "Chrysler"
+    }
+  ]
+}
