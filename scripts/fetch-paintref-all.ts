@@ -1,3 +1,5 @@
+import "./lib/syncConsole.js";
+
 /**
  * Batch-fetch PaintRef (paintref.com) color data for every manufacturer in
  * `PAINTREF_OEMS` and write one OEM scope per manufacturer. This is the
@@ -372,11 +374,10 @@ function sanitizeModels(oem: string, raw: string[]): string[] {
 
 async function processOem(oem: string): Promise<Result> {
   const scopeId = paintRefScopeIdFor(oem);
-  // Resume support: if a full scope has already been written in a prior run
-  // we skip this OEM entirely. Prevents re-running live-CGI retries (which
-  // currently all 503) against already-complete data on every restart.
-  // --force-refresh bypasses this shortcut.
-  if (!FORCE_REFRESH) {
+  // Resume support: if a full scope exists we skip — unless `--scan-models`
+  // is on, in which case we re-run fetch (year pulls are usually cache-cold
+  // fast; per-model queries add new rows). --force-refresh always re-fetches.
+  if (!FORCE_REFRESH && !SCAN_MODELS) {
     const existingScope = join(repoRoot(), "data/oem", scopeId, "exterior-paints-v1.json");
     if (existsSync(existingScope)) {
       try {

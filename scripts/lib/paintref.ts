@@ -303,6 +303,9 @@ async function fetchFromAdvancedSearch(
       };
       const html = await fetchAdvancedHtml(params);
       if (!html) {
+        console.warn(
+          `  [paintref] ${oem}: no usable HTML for year=${params.year ?? "?"} page=${page} (PaintRef down / rate-limited and no Wayback hit)`
+        );
         consecutiveEmpty++;
         break;
       }
@@ -331,6 +334,7 @@ async function fetchFromAdvancedSearch(
       const extra: Record<string, string> = { year: String(y) };
       if (filters?.model) extra.model = filters.model;
       if (filters?.keywords) extra.keywords = filters.keywords;
+      console.log(`  [paintref] ${oem}: scanning year ${y} (${from}–${to})…`);
       try {
         const n = await runQuery(extra);
         console.log(
@@ -418,6 +422,11 @@ async function fetchAdvancedHtml(
   // one of its 503 windows (they last hours at a time), Wayback is the only
   // reliable way to progress. We try the exact URL first, then a couple of
   // degraded variants (strip year, strip model) before giving up.
+  const y = params.year ?? "?";
+  const pg = params.page ?? "?";
+  console.log(
+    `  [paintref] live PaintRef exhausted for ${params.make} year=${y} page=${pg} (${lastErr ?? "no response"}) → trying archive.org (often 30–120s of silence per page if IA is slow)`
+  );
   const wb = await fetchAdvancedHtmlFromWayback(params, qs);
   if (wb) return wb;
 
@@ -468,11 +477,17 @@ async function fetchAdvancedHtmlFromWayback(
     rows: "50"
   }).toString();
   const queryVariants = Array.from(new Set([qs, compact]));
+  const totalProbes = queryVariants.length * basePaths.length * hostVariants.length;
+  let probeIdx = 0;
 
   for (const q of queryVariants) {
     for (const base of basePaths) {
       for (const host of hostVariants) {
         const originalUrl = `${host}${base}?${q}`;
+        probeIdx++;
+        console.log(
+          `  [paintref] wayback availability ${probeIdx}/${totalProbes} ${host}${base}?…`
+        );
         const snapshotUrl = await wayback_closestSnapshot(originalUrl);
         if (!snapshotUrl) continue;
         try {
@@ -1075,10 +1090,12 @@ export function unionModelsFromEntries(entries: PaintRefEntry[]): string[] {
 export const PAINTREF_OEMS = [
   "Acura",
   "Alfa Romeo",
+  "Alpina",
   "Aston Martin",
   "Audi",
   "Bentley",
   "BMW",
+  "Bugatti",
   "Buick",
   "Cadillac",
   "Chevrolet",
@@ -1099,6 +1116,8 @@ export const PAINTREF_OEMS = [
   "Land Rover",
   "Lexus",
   "Lincoln",
+  "Lotus",
+  "Lucid",
   "Maserati",
   "Mazda",
   "McLaren",
@@ -1108,8 +1127,10 @@ export const PAINTREF_OEMS = [
   "Mitsubishi",
   "Nissan",
   "Pontiac",
+  "Polestar",
   "Porsche",
   "Ram",
+  "Rivian",
   "Rolls-Royce",
   "Saab",
   "Saturn",

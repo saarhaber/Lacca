@@ -17,6 +17,14 @@ cd "$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)" || exit 1
 LOG_DIR="${LOG_DIR:-logs}"
 mkdir -p "$LOG_DIR"
 
+# Year + per-model PaintRef queries (needs vPIC scopes under data/oem/*-vpic-v1/).
+# PAINTREF_SCAN_MODELS=0 → year-range only (faster; use post-fetch model pass or re-run with 1).
+PAINTREF_SCAN_MODELS="${PAINTREF_SCAN_MODELS:-1}"
+SCRAPE_MODEL_FLAG=""
+if [ "$PAINTREF_SCAN_MODELS" = "1" ]; then
+  SCRAPE_MODEL_FLAG="--scan-models"
+fi
+
 STATE_FILE="$LOG_DIR/paintref-pipeline.state"
 MAIN_LOG="$LOG_DIR/paintref-pipeline.log"
 SCRAPE_LOG="$LOG_DIR/paintref-scrape.log"
@@ -80,13 +88,10 @@ wait_for_site() {
 
 run_scrape() {
   set_state "scraping"
-  log "starting full scrape -> $SCRAPE_LOG"
-  # --scan-models is intentionally disabled here: per-model queries were
-  # getting 503'd by the backend during the year-range scan, wasting ~6 min
-  # per OEM. Year-range scan gets the core catalog; model enrichment runs
-  # separately in run_model_scan() against the already-warm raw cache.
+  log "starting full scrape -> $SCRAPE_LOG (PAINTREF_SCAN_MODELS=${PAINTREF_SCAN_MODELS})"
   npx tsx scripts/fetch-paintref-all.ts \
     --scan-years --sample-chips \
+    ${SCRAPE_MODEL_FLAG:+"$SCRAPE_MODEL_FLAG"} \
     --concurrency 1 --delay-ms 2500 \
     --year-from 2000 --year-to 2026 \
     >"$SCRAPE_LOG" 2>&1
@@ -99,13 +104,14 @@ run_scrape() {
 # disk) are skipped and the rest continue without truncating the log.
 run_scrape_resume() {
   set_state "scraping"
-  log "resume: appending fetch to $SCRAPE_LOG (existing scopes are skipped)"
+  log "resume: appending fetch to $SCRAPE_LOG (year-only runs skip complete OEMs; --scan-models re-enriches existing scopes)"
   {
     echo ""
     echo "[resume] ===== $(date -u +%Y-%m-%dT%H:%M:%SZ) fetch-paintref-all (append) ====="
   } >>"$SCRAPE_LOG"
   npx tsx scripts/fetch-paintref-all.ts \
     --scan-years --sample-chips \
+    ${SCRAPE_MODEL_FLAG:+"$SCRAPE_MODEL_FLAG"} \
     --concurrency 1 --delay-ms 2500 \
     --year-from 2000 --year-to 2026 \
     >>"$SCRAPE_LOG" 2>&1
@@ -156,6 +162,7 @@ retry_failed() {
     npx tsx scripts/fetch-paintref-all.ts \
       --oems "$failed" \
       --scan-years --sample-chips \
+      ${SCRAPE_MODEL_FLAG:+"$SCRAPE_MODEL_FLAG"} \
       --concurrency 1 --delay-ms 2500 \
       --year-from 2000 --year-to 2026 \
       --force-refresh \
@@ -235,8 +242,11 @@ acceptance_check() {
 pipeline_post_fetch() {
   retry_failed 3 || true
 
-  # Additive model-enrichment pass after core year-range coverage is landed.
-  run_model_scan || true
+  if [ "$PAINTREF_SCAN_MODELS" = "1" ]; then
+    log "skipping separate model-scan pass (already included in main scrape via --scan-models)"
+  else
+    run_model_scan || true
+  fi
 
   run_validate
   validate_rc=$?
@@ -293,8 +303,9 @@ case "${1:-all}" in
   *)
     echo "Usage: $0 [all|resume-fetch|post-fetch]" >&2
     echo "  all          — full run (truncates scrape log)" >&2
-    echo "  resume-fetch — append-only fetch; skips OEMs that already have a paintref scope" >&2
+    echo "  resume-fetch — append-only fetch (year-only skips finished OEMs; with PAINTREF_SCAN_MODELS=1 re-enriches)" >&2
     echo "  post-fetch   — retries, model scan, validate:data, BMW merge, acceptance" >&2
+    echo "Env: PAINTREF_SCAN_MODELS=1 (default) adds --scan-models; needs vPIC scopes. PAINTREF_SCAN_MODELS=0 is year-only + separate model pass." >&2
     exit 1
     ;;
 esac
