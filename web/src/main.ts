@@ -615,6 +615,8 @@ function prettySourceLabel(source: string): string {
       return "PaintRef catalog";
     case "paintref_hex":
       return "PaintRef HEX swatch";
+    case "paintref_chip":
+      return "PaintRef chip sample";
     case "ral_classic_hex":
       return "RAL Classic reference";
     case "oem_spec":
@@ -686,10 +688,8 @@ function tierTip(tier: MatchTier): string {
 }
 
 /**
- * Compose the badge tooltip. Always starts with the ΔE-tier explanation;
- * appends the capped-by-confidence and finish-penalty reasons when they
- * materially affect ranking, so users can see *why* a closer-ΔE row was
- * ranked lower or why no row can reach "Excellent".
+ * Compose the badge tooltip. Starts with the ΔE-tier explanation; appends
+ * capped-by-confidence and finish-mismatch notes when applicable.
  */
 function composeBadgeTip(row: RankedOpi): string {
   const parts = [tierTip(row.tier)];
@@ -697,11 +697,7 @@ function composeBadgeTip(row: RankedOpi): string {
     parts.push(t("tooltip.capped") ?? "");
   }
   if (row.finishPenalty > 0) {
-    parts.push(
-      interpolate(t("tooltip.finishPenalty") ?? "", {
-        penalty: row.finishPenalty.toFixed(1)
-      })
-    );
+    parts.push(t("tooltip.finishPenalty") ?? "");
   }
   return parts.filter(Boolean).join("\n\n");
 }

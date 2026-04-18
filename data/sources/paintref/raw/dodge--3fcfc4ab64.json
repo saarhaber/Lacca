@@ -1,0 +1,8065 @@
+{
+  "oem": "Dodge",
+  "fetchedAt": "2026-04-18T13:07:25.619Z",
+  "entries": [
+    {
+      "code": "PD4",
+      "name": "Ice Silver",
+      "make": "Dodge",
+      "model": "Avenger",
+      "year_from": 2000,
+      "year_to": 2004,
+      "chipUrl": "https://www.paintref.com/chipimages/ESTFH5.png",
+      "chipHash": "bd43a147d3e47a81",
+      "ditzler": "5632",
+      "models": [
+        "Avenger",
+        "Dodge",
+        "Stratus"
+      ]
+    },
+    {
+      "code": "S23",
+      "name": "Caffe Latte",
+      "make": "Dodge",
+      "model": "Avenger",
+      "year_from": 2000,
+      "year_to": 2002,
+      "chipUrl": "https://www.paintref.com/chipimages/E3CG3E.png",
+      "chipHash": "2b6518db09b069e5",
+      "ditzler": "5356",
+      "models": [
+        "Avenger",
+        "Dodge",
+        "Stratus"
+      ]
+    },
+    {
+      "code": "T45",
+      "name": "Slate Blue",
+      "make": "Dodge",
+      "model": "Avenger",
+      "year_from": 2000,
+      "year_to": 2000,
+      "chipUrl": "https://www.paintref.com/chipimages/WXS5SC.png",
+      "chipHash": "52ff97260c779a98",
+      "ditzler": "5507",
+      "models": [
+        "Avenger",
+        "Dodge"
+      ]
+    },
+    {
+      "code": "R87",
+      "name": "Indy Red",
+      "make": "Dodge",
+      "model": "Avenger",
+      "year_from": 2000,
+      "year_to": 2005,
+      "chipUrl": "https://www.paintref.com/chipimages/H55SX4.png",
+      "chipHash": "8395cba09d3aaa5d",
+      "ditzler": "4273",
+      "models": [
+        "Avenger",
+        "Dodge",
+        "Stratus"
+      ]
+    },
+    {
+      "code": "PW7",
+      "name": "White",
+      "make": "Dodge",
+      "model": "Avenger",
+      "year_from": 2000,
+      "year_to": 2000,
+      "chipUrl": "https://www.paintref.com/chipimages/4W424C.png",
+      "chipHash": "bd32ba131bff11da",
+      "ditzler": "4037",
+      "models": [
+        "Avenger",
+        "Caravan",
+        "Dakota",
+        "Dodge",
+        "Dodge Truck",
+        "Durango",
+        "Neon"
+      ]
+    },
+    {
+      "code": "PX8",
+      "name": "Black",
+      "make": "Dodge",
+      "model": "Avenger",
+      "year_from": 2000,
+      "year_to": 2025,
+      "chipUrl": "https://www.paintref.com/chipimages/GGGGGG.png",
+      "chipHash": "1f437854e2d31a87",
+      "ditzler": "9700",
+      "models": [
+        "Avenger",
+        "Caliber",
+        "Caravan",
+        "Dakota",
+        "Dodge",
+        "Dodge Truck",
+        "Durango",
+        "Grand Caravan",
+        "Intrepid",
+        "Journey",
+        "Neon",
+        "Nitro",
+        "Stratus"
+      ]
+    },
+    {
+      "code": "PR4",
+      "name": "Flame Red",
+      "make": "Dodge",
+      "model": "Caravan",
+      "year_from": 2000,
+      "year_to": 2025,
+      "chipUrl": "https://www.paintref.com/chipimages/TT5E5W.png",
+      "chipHash": "597fe52862cafe20",
+      "ditzler": "4679",
+      "models": [
+        "Caravan",
+        "Dakota",
+        "Dodge",
+        "Dodge Truck",
+        "Durango",
+        "Intrepid",
+        "Neon",
+        "Nitro"
+      ]
+    },
+    {
+      "code": "PB7",
+      "name": "Patriot Blue",
+      "make": "Dodge",
+      "model": "Caravan",
+      "year_from": 2000,
+      "year_to": 2009,
+      "chipUrl": "https://www.paintref.com/chipimages/X3F223.png",
+      "chipHash": "d12f88b4926e9b9e",
+      "ditzler": "5512",
+      "models": [
+        "Caravan",
+        "Dodge",
+        "Dodge Truck",
+        "Durango",
+        "Neon"
+      ]
+    },
+    {
+      "code": "PEL",
+      "name": "Inferno Red",
+      "make": "Dodge",
+      "model": "Caravan",
+      "year_from": 2000,
+      "year_to": 2011,
+      "chipUrl": "https://www.paintref.com/chipimages/TDXT5X.png",
+      "chipHash": "69726575b77a19c7",
+      "ditzler": "5470",
+      "models": [
+        "Caravan",
+        "Dodge",
+        "Dodge Truck",
+        "Durango",
+        "Intrepid",
+        "Journey",
+        "Magnum",
+        "Nitro",
+        "Stratus"
+      ]
+    },
+    {
+      "code": "PG2",
+      "name": "Light Cypress Green",
+      "make": "Dodge",
+      "model": "Caravan",
+      "year_from": 2000,
+      "year_to": 2000,
+      "chipUrl": "https://www.paintref.com/chipimages/EDECC3.png",
+      "chipHash": "0b6c9f8febad7312",
+      "ditzler": "5471",
+      "models": [
+        "Caravan",
+        "Dodge",
+        "Dodge Truck",
+        "Intrepid",
+        "Stratus"
+      ]
+    },
+    {
+      "code": "PGR",
+      "name": "Shale Green",
+      "make": "Dodge",
+      "model": "Caravan",
+      "year_from": 2000,
+      "year_to": 2002,
+      "chipUrl": "https://www.paintref.com/chipimages/F5SCWH.png",
+      "chipHash": "75446329519cbfe5",
+      "ditzler": "5577",
+      "models": [
+        "Caravan",
+        "Dodge",
+        "Dodge Truck",
+        "Intrepid",
+        "Neon",
+        "Stratus"
+      ]
+    },
+    {
+      "code": "PMT",
+      "name": "Deep Cranberry",
+      "make": "Dodge",
+      "model": "Caravan",
+      "year_from": 2000,
+      "year_to": 2000,
+      "chipUrl": "https://www.paintref.com/chipimages/SE5XFG.png",
+      "chipHash": "fb1d3f5d405e231d",
+      "ditzler": "5359",
+      "models": [
+        "Caravan",
+        "Dodge",
+        "Dodge Truck",
+        "Neon",
+        "Stratus"
+      ]
+    },
+    {
+      "code": "PQW",
+      "name": "Aquamarine",
+      "make": "Dodge",
+      "model": "Caravan",
+      "year_from": 2000,
+      "year_to": 2002,
+      "chipUrl": "https://www.paintref.com/chipimages/5EF3FE.png",
+      "chipHash": "9e30e591cfaeea65",
+      "ditzler": "5579",
+      "models": [
+        "Caravan",
+        "Dodge",
+        "Dodge Truck",
+        "Durango"
+      ]
+    },
+    {
+      "code": "PS2",
+      "name": "Bright Silver",
+      "make": "Dodge",
+      "model": "Caravan",
+      "year_from": 2000,
+      "year_to": 2025,
+      "chipUrl": "https://www.paintref.com/chipimages/UGUSUX.png",
+      "chipHash": "02cefe86632161c9",
+      "ditzler": "5464",
+      "models": [
+        "Avenger",
+        "Caliber",
+        "Caravan",
+        "Dakota",
+        "Dodge",
+        "Dodge Truck",
+        "Durango",
+        "Grand Caravan",
+        "Intrepid",
+        "Journey",
+        "Magnum",
+        "Neon",
+        "Nitro",
+        "Stratus"
+      ]
+    },
+    {
+      "code": "PTE",
+      "name": "Champagne",
+      "make": "Dodge",
+      "model": "Caravan",
+      "year_from": 2000,
+      "year_to": 2001,
+      "chipUrl": "https://www.paintref.com/chipimages/HUHDEE.png",
+      "chipHash": "72a0e8673b969d06",
+      "ditzler": "5360",
+      "models": [
+        "Caravan",
+        "Dodge",
+        "Dodge Truck",
+        "Intrepid",
+        "Stratus"
+      ]
+    },
+    {
+      "code": "PWP",
+      "name": "Golden White",
+      "make": "Dodge",
+      "model": "Caravan",
+      "year_from": 2000,
+      "year_to": 2000,
+      "chipUrl": "https://www.paintref.com/chipimages/AHA3HH.png",
+      "chipHash": "75d908c22cb40ef8",
+      "ditzler": "5067",
+      "models": [
+        "Caravan",
+        "Dodge",
+        "Dodge Truck"
+      ]
+    },
+    {
+      "code": "PAW",
+      "name": "Deep Slate",
+      "make": "Dodge",
+      "model": "Caravan",
+      "year_from": 2000,
+      "year_to": 2002,
+      "chipUrl": "https://www.paintref.com/chipimages/DWDFD2.png",
+      "chipHash": "e53c69449057b037",
+      "ditzler": "5292",
+      "models": [
+        "Caravan",
+        "Dodge",
+        "Dodge Truck",
+        "Intrepid"
+      ]
+    },
+    {
+      "code": "PB3",
+      "name": "Intense Blue",
+      "make": "Dodge",
+      "model": "Dakota",
+      "year_from": 2000,
+      "year_to": 2001,
+      "chipUrl": "https://www.paintref.com/chipimages/5D2HT4.png",
+      "chipHash": "5b57a65dcc72a446",
+      "ditzler": "5357",
+      "models": [
+        "Dakota",
+        "Dodge",
+        "Dodge Truck"
+      ]
+    },
+    {
+      "code": "PBT",
+      "name": "Patriot Blue",
+      "make": "Dodge",
+      "model": "Dakota",
+      "year_from": 2000,
+      "year_to": 2007,
+      "chipUrl": "https://www.paintref.com/chipimages/XGDEWA.png",
+      "chipHash": "63dafeda0dd9ba7f",
+      "ditzler": "5522",
+      "models": [
+        "Dakota",
+        "Dodge",
+        "Dodge Truck"
+      ]
+    },
+    {
+      "code": "PFA",
+      "name": "Light Driftwood",
+      "make": "Dodge",
+      "model": "Dakota",
+      "year_from": 2000,
+      "year_to": 2000,
+      "chipUrl": "https://www.paintref.com/chipimages/ECCHCF.png",
+      "chipHash": "0fd46442bde8d4e8",
+      "ditzler": "4569",
+      "models": [
+        "Dakota",
+        "Dodge",
+        "Dodge Truck"
+      ]
+    },
+    {
+      "code": "PG8",
+      "name": "Forest Green",
+      "make": "Dodge",
+      "model": "Dakota",
+      "year_from": 2000,
+      "year_to": 2002,
+      "chipUrl": "https://www.paintref.com/chipimages/DXFADE.png",
+      "chipHash": "dc5732dd6f6419c3",
+      "ditzler": "5065",
+      "models": [
+        "Dakota",
+        "Dodge",
+        "Dodge Truck",
+        "Durango",
+        "Neon"
+      ]
+    },
+    {
+      "code": "PRV",
+      "name": "Dark Garnet Red",
+      "make": "Dodge",
+      "model": "Dakota",
+      "year_from": 2000,
+      "year_to": 2003,
+      "chipUrl": "https://www.paintref.com/chipimages/23XH5U.png",
+      "chipHash": "78c6a72fafab292a",
+      "ditzler": "5591",
+      "models": [
+        "Caravan",
+        "Dakota",
+        "Dodge",
+        "Dodge Truck",
+        "Durango",
+        "Intrepid",
+        "Neon",
+        "Stratus"
+      ]
+    },
+    {
+      "code": "PTL",
+      "name": "Sierra Bronze",
+      "make": "Dodge",
+      "model": "Dakota",
+      "year_from": 2000,
+      "year_to": 2001,
+      "chipUrl": "https://www.paintref.com/chipimages/TWCU23.png",
+      "chipHash": "64e3cd6dee4d214a",
+      "ditzler": "5582",
+      "models": [
+        "Dakota",
+        "Dodge",
+        "Dodge Truck",
+        "Durango"
+      ]
+    },
+    {
+      "code": "PV3",
+      "name": "Amber Fire",
+      "make": "Dodge",
+      "model": "Dakota",
+      "year_from": 2000,
+      "year_to": 2001,
+      "chipUrl": "https://www.paintref.com/chipimages/AE3DGG.png",
+      "chipHash": "24fe344c52d1ffd6",
+      "ditzler": "5583",
+      "models": [
+        "Dakota",
+        "Dodge",
+        "Dodge Truck"
+      ]
+    },
+    {
+      "code": "PYH",
+      "name": "Solar Yellow",
+      "make": "Dodge",
+      "model": "Dakota",
+      "year_from": 2000,
+      "year_to": 2007,
+      "chipUrl": "https://www.paintref.com/chipimages/42TSD3.png",
+      "chipHash": "5068f44303f97665",
+      "ditzler": "5513",
+      "models": [
+        "Caliber",
+        "Dakota",
+        "Dodge",
+        "Dodge Truck",
+        "Neon"
+      ]
+    },
+    {
+      "code": "PBQ",
+      "name": "Steel Blue",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2000,
+      "year_to": 2003,
+      "chipUrl": "https://www.paintref.com/chipimages/DAWSS2.png",
+      "chipHash": "e02d3cc2c561cc56",
+      "ditzler": "5576",
+      "models": [
+        "Caravan",
+        "Dodge",
+        "Dodge Truck",
+        "Durango",
+        "Intrepid",
+        "Neon",
+        "Stratus"
+      ]
+    },
+    {
+      "code": "PCN",
+      "name": "Deep Amethyst",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2000,
+      "year_to": 2000,
+      "chipUrl": "https://www.paintref.com/chipimages/XFXFD5.png",
+      "chipHash": "e13c46506269d736",
+      "ditzler": "5246",
+      "models": [
+        "Dodge",
+        "Neon",
+        "Stratus"
+      ]
+    },
+    {
+      "code": "PE1",
+      "name": "Colorado Red",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2000,
+      "year_to": 2000,
+      "chipUrl": "https://www.paintref.com/chipimages/CEX2XD.png",
+      "chipHash": "42e6625f1a1f3288",
+      "ditzler": "4451",
+      "models": [
+        "Dodge",
+        "Dodge Truck"
+      ]
+    },
+    {
+      "code": "PE5",
+      "name": "Salsa Red",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2000,
+      "year_to": 2001,
+      "chipUrl": "https://www.paintref.com/chipimages/HTDXXA.png",
+      "chipHash": "f502394c573fcae7",
+      "ditzler": "5442",
+      "models": [
+        "Dodge",
+        "Neon"
+      ]
+    },
+    {
+      "code": "PEA",
+      "name": "Chili Pepper Red",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2000,
+      "year_to": 2001,
+      "chipUrl": "https://www.paintref.com/chipimages/2XXHXT.png",
+      "chipHash": "23f8fe39ca14ab81",
+      "ditzler": "5361",
+      "models": [
+        "Dodge",
+        "Dodge Truck",
+        "Durango"
+      ]
+    },
+    {
+      "code": "PG4",
+      "name": "Hunter Green",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2000,
+      "year_to": 2003,
+      "chipUrl": "https://www.paintref.com/chipimages/5XDUXG.png",
+      "chipHash": "9aba7d8e3ecc1ca7",
+      "ditzler": "4591",
+      "models": [
+        "Dodge",
+        "Dodge Truck"
+      ]
+    },
+    {
+      "code": "PLB",
+      "name": "Cinnamon Glaze",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2000,
+      "year_to": 2002,
+      "chipUrl": "https://www.paintref.com/chipimages/W3DFDW.png",
+      "chipHash": "366cbe32c51b5ad3",
+      "ditzler": "5313",
+      "models": [
+        "Dodge",
+        "Intrepid",
+        "Neon"
+      ]
+    },
+    {
+      "code": "PMD",
+      "name": "Medium Red",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2000,
+      "year_to": 2003,
+      "chipUrl": "https://www.paintref.com/chipimages/3GXTXT.png",
+      "chipHash": "7ca52efcfe8e4eb8",
+      "ditzler": "5080",
+      "models": [
+        "Dodge",
+        "Dodge Truck"
+      ]
+    },
+    {
+      "code": "PPG",
+      "name": "Dark Spruce",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2000,
+      "year_to": 2003,
+      "chipUrl": "https://www.paintref.com/chipimages/52FDW3.png",
+      "chipHash": "d91d7818a5f459a1",
+      "ditzler": "5081",
+      "models": [
+        "Dodge",
+        "Dodge Truck"
+      ]
+    },
+    {
+      "code": "PR8",
+      "name": "Director Red",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2000,
+      "year_to": 2005,
+      "chipUrl": "https://www.paintref.com/chipimages/SUX4DX.png",
+      "chipHash": "0017409b573a9937",
+      "ditzler": "4450",
+      "models": [
+        "Dakota",
+        "Dodge",
+        "Dodge Truck",
+        "Durango"
+      ]
+    },
+    {
+      "code": "PRN",
+      "name": "Viper Red",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2000,
+      "year_to": 2010,
+      "chipUrl": "https://www.paintref.com/chipimages/HE5G5C.png",
+      "chipHash": "c30b63c8b4dc663a",
+      "ditzler": "73840",
+      "models": [
+        "Dodge"
+      ]
+    },
+    {
+      "code": "PS4",
+      "name": "Bright Platinum",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2000,
+      "year_to": 2001,
+      "chipUrl": "https://www.paintref.com/chipimages/3U333X.png",
+      "chipHash": "1ae31957dd2b9cb5",
+      "ditzler": "4820",
+      "models": [
+        "Dodge",
+        "Dodge Truck",
+        "Durango"
+      ]
+    },
+    {
+      "code": "PS6",
+      "name": "Vapor Steel Gray",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2000,
+      "year_to": 2000,
+      "chipUrl": "https://www.paintref.com/chipimages/3G3G3G.png",
+      "chipHash": "df953018ed8cd05c",
+      "ditzler": "36447",
+      "models": [
+        "Dodge"
+      ]
+    },
+    {
+      "code": "PSC",
+      "name": "Light Arctic Gray",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2000,
+      "year_to": 2003,
+      "chipUrl": "https://www.paintref.com/chipimages/E3EFTG.png",
+      "chipHash": "f9e7603e33d9bffe",
+      "ditzler": "4690",
+      "models": [
+        "Dodge",
+        "Dodge Truck"
+      ]
+    },
+    {
+      "code": "PTK",
+      "name": "Taupe Frost",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2000,
+      "year_to": 2001,
+      "chipUrl": "https://www.paintref.com/chipimages/WSFHF5.png",
+      "chipHash": "3ab4e54a2e585d90",
+      "ditzler": "5244",
+      "models": [
+        "Dodge",
+        "Stratus"
+      ]
+    },
+    {
+      "code": "PW1",
+      "name": "Stone White",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2000,
+      "year_to": 2013,
+      "chipUrl": "https://www.paintref.com/chipimages/4W42UC.png",
+      "chipHash": "efac8a4d6202429e",
+      "ditzler": "5072",
+      "models": [
+        "Avenger",
+        "Caliber",
+        "Caravan",
+        "Dakota",
+        "Dodge",
+        "Dodge Truck",
+        "Durango",
+        "Grand Caravan",
+        "Intrepid",
+        "Journey",
+        "Magnum",
+        "Neon",
+        "Nitro",
+        "Stratus"
+      ]
+    },
+    {
+      "code": "PW6",
+      "name": "Bright White",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2000,
+      "year_to": 2003,
+      "chipUrl": "https://www.paintref.com/chipimages/4U4U4U.png",
+      "chipHash": "744653b84864279d",
+      "ditzler": "4056",
+      "models": [
+        "Dodge",
+        "Dodge Truck"
+      ]
+    },
+    {
+      "code": "PX3",
+      "name": "Viper Black",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2000,
+      "year_to": 2010,
+      "chipUrl": "https://www.paintref.com/chipimages/GGGGGG.png",
+      "chipHash": "1f437854e2d31a87",
+      "ditzler": "9874",
+      "models": [
+        "Dodge"
+      ]
+    },
+    {
+      "code": "PX9",
+      "name": "Black",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2000,
+      "year_to": 2003,
+      "chipUrl": "https://www.paintref.com/chipimages/GGGGGG.png",
+      "chipHash": "1f437854e2d31a87",
+      "ditzler": "9300",
+      "models": [
+        "Dodge",
+        "Dodge Truck"
+      ]
+    },
+    {
+      "code": "PFK",
+      "name": "Light Driftwood",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2000,
+      "year_to": 2000,
+      "chipUrl": "https://www.paintref.com/chipimages/T5E3C4.png",
+      "chipHash": "1c09378909f39708",
+      "ditzler": "5011",
+      "models": [
+        "Dodge",
+        "Dodge Truck",
+        "Durango"
+      ]
+    },
+    {
+      "code": "RN",
+      "name": "Viper Red",
+      "make": "Dodge",
+      "model": "Viper",
+      "year_from": 2000,
+      "year_to": 2010,
+      "chipUrl": "https://www.paintref.com/chipimages/HE5G5C.png",
+      "chipHash": "c30b63c8b4dc663a",
+      "ditzler": "73840",
+      "models": [
+        "Dodge",
+        "Viper"
+      ]
+    },
+    {
+      "code": "S6",
+      "name": "Vapor Steel Gray",
+      "make": "Dodge",
+      "model": "Viper",
+      "year_from": 2000,
+      "year_to": 2000,
+      "chipUrl": "https://www.paintref.com/chipimages/3G3G3G.png",
+      "chipHash": "df953018ed8cd05c",
+      "ditzler": "36447",
+      "models": [
+        "Viper"
+      ]
+    },
+    {
+      "code": "X3",
+      "name": "Viper Black",
+      "make": "Dodge",
+      "model": "Viper",
+      "year_from": 2000,
+      "year_to": 2010,
+      "chipUrl": "https://www.paintref.com/chipimages/GGGGGG.png",
+      "chipHash": "1f437854e2d31a87",
+      "ditzler": "9874",
+      "models": [
+        "Dodge",
+        "Viper"
+      ]
+    },
+    {
+      "code": "T67",
+      "name": "Deep Indigo Blue",
+      "make": "Dodge",
+      "model": "Avenger",
+      "year_from": 2001,
+      "year_to": 2001,
+      "chipUrl": "https://www.paintref.com/chipimages/G2X3DA.png",
+      "chipHash": "af7da186214118a3",
+      "ditzler": "5721",
+      "models": [
+        "Avenger",
+        "Dodge"
+      ]
+    },
+    {
+      "code": "G41",
+      "name": "Deep Evergreen",
+      "make": "Dodge",
+      "model": "Avenger",
+      "year_from": 2001,
+      "year_to": 2002,
+      "chipUrl": "https://www.paintref.com/chipimages/5WFD5T.png",
+      "chipHash": "e7b3b8d751fdff67",
+      "ditzler": "5718",
+      "models": [
+        "Avenger",
+        "Dodge",
+        "Stratus"
+      ]
+    },
+    {
+      "code": "PR6",
+      "name": "Ruby Red",
+      "make": "Dodge",
+      "model": "Avenger",
+      "year_from": 2001,
+      "year_to": 2002,
+      "chipUrl": "https://www.paintref.com/chipimages/SH5XXC.png",
+      "chipHash": "b653af9a7b2324ea",
+      "ditzler": "5717",
+      "models": [
+        "Avenger",
+        "Dodge",
+        "Stratus"
+      ]
+    },
+    {
+      "code": "S40",
+      "name": "Light Beige",
+      "make": "Dodge",
+      "model": "Avenger",
+      "year_from": 2001,
+      "year_to": 2001,
+      "chipUrl": "https://www.paintref.com/chipimages/HFT4CT.png",
+      "chipHash": "d534ea4926a015c0",
+      "ditzler": "5719",
+      "models": [
+        "Avenger",
+        "Dodge"
+      ]
+    },
+    {
+      "code": "W69",
+      "name": "Satin White",
+      "make": "Dodge",
+      "model": "Avenger",
+      "year_from": 2001,
+      "year_to": 2005,
+      "chipUrl": "https://www.paintref.com/chipimages/UWUSAU.png",
+      "chipHash": "3c796b5ab4879c45",
+      "ditzler": "5720",
+      "models": [
+        "Avenger",
+        "Dodge",
+        "Stratus"
+      ]
+    },
+    {
+      "code": "PB2",
+      "name": "Sterling Blue",
+      "make": "Dodge",
+      "model": "Caravan",
+      "year_from": 2001,
+      "year_to": 2003,
+      "chipUrl": "https://www.paintref.com/chipimages/ESTCH5.png",
+      "chipHash": "635e7cd7feb5bb9b",
+      "ditzler": "5694",
+      "models": [
+        "Caravan",
+        "Dodge",
+        "Dodge Truck",
+        "Durango",
+        "Stratus"
+      ]
+    },
+    {
+      "code": "PSB",
+      "name": "Bright Silver",
+      "make": "Dodge",
+      "model": "Dakota",
+      "year_from": 2001,
+      "year_to": 2007,
+      "chipUrl": "https://www.paintref.com/chipimages/UGUSUX.png",
+      "chipHash": "02cefe86632161c9",
+      "ditzler": "5473",
+      "models": [
+        "Dakota",
+        "Dodge",
+        "Dodge Truck",
+        "Durango"
+      ]
+    },
+    {
+      "code": "PW7",
+      "name": "Bright White",
+      "make": "Dodge",
+      "model": "Dakota",
+      "year_from": 2001,
+      "year_to": 2025,
+      "chipUrl": "https://www.paintref.com/chipimages/4W424C.png",
+      "chipHash": "bd32ba131bff11da",
+      "ditzler": "4037",
+      "models": [
+        "Charger",
+        "Dakota",
+        "Dodge",
+        "Dodge Truck",
+        "Durango",
+        "Grand Caravan",
+        "Nitro"
+      ]
+    },
+    {
+      "code": "PBW",
+      "name": "Sapphire Blue",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2001,
+      "year_to": 2001,
+      "chipUrl": "https://www.paintref.com/chipimages/XG5CFF.png",
+      "chipHash": "16c995d27aa67983",
+      "ditzler": "5695",
+      "models": [
+        "Dodge",
+        "Intrepid",
+        "Stratus"
+      ]
+    },
+    {
+      "code": "PE1",
+      "name": "Colorado",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2001,
+      "year_to": 2003,
+      "chipUrl": "https://www.paintref.com/chipimages/CEX2XD.png",
+      "chipHash": "42e6625f1a1f3288",
+      "ditzler": "4451",
+      "models": [
+        "Dodge",
+        "Dodge Truck"
+      ]
+    },
+    {
+      "code": "PFF",
+      "name": "Light Pewter",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2001,
+      "year_to": 2002,
+      "chipUrl": "https://www.paintref.com/chipimages/CT3A3C.png",
+      "chipHash": "cc28274218fc72af",
+      "ditzler": "5696",
+      "models": [
+        "Dodge",
+        "Dodge Truck",
+        "Durango"
+      ]
+    },
+    {
+      "code": "PJR",
+      "name": "Onyx Green",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2001,
+      "year_to": 2004,
+      "chipUrl": "https://www.paintref.com/chipimages/WWS4SS.png",
+      "chipHash": "5c4ce7032ee685fe",
+      "ditzler": "5822",
+      "models": [
+        "Caravan",
+        "Dodge",
+        "Dodge Truck",
+        "Durango",
+        "Intrepid",
+        "Stratus"
+      ]
+    },
+    {
+      "code": "PVL",
+      "name": "Amber Fire",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2001,
+      "year_to": 2001,
+      "chipUrl": "https://www.paintref.com/chipimages/UDCG5H.png",
+      "chipHash": "5d3af8bc0c48184a",
+      "ditzler": "5693",
+      "models": [
+        "Dodge",
+        "Dodge Truck"
+      ]
+    },
+    {
+      "code": "PYR",
+      "name": "Viper Race Yellow",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2001,
+      "year_to": 2010,
+      "chipUrl": "https://www.paintref.com/chipimages/44HFFU.png",
+      "chipHash": "e88a285d0f01916c",
+      "ditzler": "84030",
+      "models": [
+        "Dodge"
+      ]
+    },
+    {
+      "code": "BW",
+      "name": "Sapphire Blue",
+      "make": "Dodge",
+      "model": "Viper",
+      "year_from": 2001,
+      "year_to": 2001,
+      "chipUrl": "https://www.paintref.com/chipimages/XG5CFF.png",
+      "chipHash": "16c995d27aa67983",
+      "ditzler": "5695",
+      "models": [
+        "Viper"
+      ]
+    },
+    {
+      "code": "YR",
+      "name": "Viper Race Yellow",
+      "make": "Dodge",
+      "model": "Viper",
+      "year_from": 2001,
+      "year_to": 2010,
+      "chipUrl": "https://www.paintref.com/chipimages/44HFFU.png",
+      "chipHash": "e88a285d0f01916c",
+      "ditzler": "84030",
+      "models": [
+        "Dodge",
+        "Viper"
+      ]
+    },
+    {
+      "code": "PKJ",
+      "name": "Light Almond",
+      "make": "Dodge",
+      "model": "Caravan",
+      "year_from": 2002,
+      "year_to": 2005,
+      "chipUrl": "https://www.paintref.com/chipimages/UFAHHF.png",
+      "chipHash": "2294178efc972590",
+      "ditzler": "5820",
+      "models": [
+        "Caravan",
+        "Dakota",
+        "Dodge",
+        "Dodge Truck",
+        "Durango",
+        "Intrepid",
+        "Neon",
+        "Stratus"
+      ]
+    },
+    {
+      "code": "PBJ",
+      "name": "Atlantic Blue",
+      "make": "Dodge",
+      "model": "Dakota",
+      "year_from": 2002,
+      "year_to": 2006,
+      "chipUrl": "https://www.paintref.com/chipimages/FD25EF.png",
+      "chipHash": "e40a43cafeec55a0",
+      "ditzler": "5819",
+      "models": [
+        "Caravan",
+        "Dakota",
+        "Dodge",
+        "Dodge Truck",
+        "Durango",
+        "Neon"
+      ]
+    },
+    {
+      "code": "PDR",
+      "name": "Graphite",
+      "make": "Dodge",
+      "model": "Dakota",
+      "year_from": 2002,
+      "year_to": 2010,
+      "chipUrl": "https://www.paintref.com/chipimages/W5WWWG.png",
+      "chipHash": "bcf5274b4123cb67",
+      "ditzler": "5855",
+      "models": [
+        "Dakota",
+        "Dodge",
+        "Dodge Truck",
+        "Durango",
+        "Intrepid",
+        "Neon",
+        "Stratus"
+      ]
+    },
+    {
+      "code": "BE",
+      "name": "Viper GTS Blue",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2002,
+      "year_to": 2010,
+      "chipUrl": "https://www.paintref.com/chipimages/X3F4CH.png",
+      "chipHash": "e7f493a18ef35978",
+      "ditzler": "19282",
+      "models": [
+        "Dodge",
+        "Viper"
+      ]
+    },
+    {
+      "code": "PBW",
+      "name": "Deep Sapphire Blue",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2002,
+      "year_to": 2004,
+      "chipUrl": "https://www.paintref.com/chipimages/XG5CFF.png",
+      "chipHash": "16c995d27aa67983",
+      "ditzler": "5695",
+      "models": [
+        "Dodge",
+        "Dodge Truck",
+        "Durango",
+        "Intrepid",
+        "Stratus"
+      ]
+    },
+    {
+      "code": "PD9",
+      "name": "Dark Titanium",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2002,
+      "year_to": 2005,
+      "chipUrl": "https://www.paintref.com/chipimages/FEF4SF.png",
+      "chipHash": "9112c3daf578c94e",
+      "ditzler": "5853",
+      "models": [
+        "Dodge",
+        "Stratus"
+      ]
+    },
+    {
+      "code": "DR",
+      "name": "Graphite",
+      "make": "Dodge",
+      "model": "Viper",
+      "year_from": 2002,
+      "year_to": 2010,
+      "chipUrl": "https://www.paintref.com/chipimages/W5WWWG.png",
+      "chipHash": "bcf5274b4123cb67",
+      "ditzler": "5855",
+      "models": [
+        "Viper"
+      ]
+    },
+    {
+      "code": "PBE",
+      "name": "Butane Blue",
+      "make": "Dodge",
+      "model": "Caravan",
+      "year_from": 2003,
+      "year_to": 2006,
+      "chipUrl": "https://www.paintref.com/chipimages/2CCWTH.png",
+      "chipHash": "daee21be12b02bcc",
+      "ditzler": "5932",
+      "models": [
+        "Caravan",
+        "Dodge",
+        "Dodge Truck",
+        "Grand Caravan",
+        "Intrepid",
+        "Magnum",
+        "Stratus"
+      ]
+    },
+    {
+      "code": "PP4",
+      "name": "Satin Jade",
+      "make": "Dodge",
+      "model": "Caravan",
+      "year_from": 2003,
+      "year_to": 2006,
+      "chipUrl": "https://www.paintref.com/chipimages/E2TEEC.png",
+      "chipHash": "d993d71e5b0e154f",
+      "ditzler": "5934",
+      "models": [
+        "Caravan",
+        "Dodge",
+        "Dodge Truck",
+        "Intrepid",
+        "Magnum",
+        "Stratus"
+      ]
+    },
+    {
+      "code": "PXR",
+      "name": "Brilliant Black",
+      "make": "Dodge",
+      "model": "Caravan",
+      "year_from": 2003,
+      "year_to": 2018,
+      "chipUrl": "https://www.paintref.com/chipimages/GGGGGG.png",
+      "chipHash": "1f437854e2d31a87",
+      "ditzler": "5931",
+      "models": [
+        "Avenger",
+        "Caliber",
+        "Caravan",
+        "Dakota",
+        "Dodge",
+        "Dodge Truck",
+        "Durango",
+        "Grand Caravan",
+        "Intrepid",
+        "Journey",
+        "Magnum",
+        "Nitro",
+        "Stratus"
+      ]
+    },
+    {
+      "code": "PGW",
+      "name": "Timerline Green",
+      "make": "Dodge",
+      "model": "Dakota",
+      "year_from": 2003,
+      "year_to": 2025,
+      "chipUrl": "https://www.paintref.com/chipimages/5SWXFU.png",
+      "chipHash": "2aa07af8f4427e61",
+      "ditzler": "5933",
+      "models": [
+        "Dakota",
+        "Dodge",
+        "Dodge Truck",
+        "Durango"
+      ]
+    },
+    {
+      "code": "A9",
+      "name": "Viper Silver",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2003,
+      "year_to": 2005,
+      "chipUrl": "https://www.paintref.com/chipimages/AHUFAU.png",
+      "chipHash": "889b398580c7c70b",
+      "ditzler": "36395",
+      "models": [
+        "Dodge",
+        "Viper"
+      ]
+    },
+    {
+      "code": "PB8",
+      "name": "Midnight Blue",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2003,
+      "year_to": 2025,
+      "chipUrl": "https://www.paintref.com/chipimages/XF5DFU.png",
+      "chipHash": "35f5009f18b0b4ee",
+      "ditzler": "5982",
+      "models": [
+        "Caravan",
+        "Dodge",
+        "Dodge Truck",
+        "Grand Caravan",
+        "Intrepid",
+        "Magnum",
+        "Neon",
+        "Stratus"
+      ]
+    },
+    {
+      "code": "PBD",
+      "name": "Light Blue",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2003,
+      "year_to": 2003,
+      "chipUrl": "https://www.paintref.com/chipimages/EDTAAH.png",
+      "chipHash": "88fada458772e82d",
+      "ditzler": "5985",
+      "models": [
+        "Dodge",
+        "Stratus"
+      ]
+    },
+    {
+      "code": "PLD",
+      "name": "Caffe Latte",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2003,
+      "year_to": 2003,
+      "chipUrl": "https://www.paintref.com/chipimages/E3CG3E.png",
+      "chipHash": "2b6518db09b069e5",
+      "ditzler": "5356",
+      "models": [
+        "Dodge",
+        "Stratus"
+      ]
+    },
+    {
+      "code": "PMQ",
+      "name": "Black Lava Red",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2003,
+      "year_to": 2004,
+      "chipUrl": "https://www.paintref.com/chipimages/FD5ED4.png",
+      "chipHash": "bf3924a6e28d640c",
+      "ditzler": "5952",
+      "models": [
+        "Dodge",
+        "Intrepid",
+        "Stratus"
+      ]
+    },
+    {
+      "code": "PRB",
+      "name": "Radiant Fire Red",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2003,
+      "year_to": 2003,
+      "chipUrl": "https://www.paintref.com/chipimages/H55SX4.png",
+      "chipHash": "8395cba09d3aaa5d",
+      "ditzler": "4273",
+      "models": [
+        "Dodge",
+        "Stratus"
+      ]
+    },
+    {
+      "code": "PRH",
+      "name": "Blaze Red Crystal",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2003,
+      "year_to": 2005,
+      "chipUrl": "https://www.paintref.com/chipimages/EGXCXH.png",
+      "chipHash": "8782132cce27ded8",
+      "ditzler": "5930",
+      "models": [
+        "Caravan",
+        "Dodge",
+        "Dodge Truck",
+        "Magnum",
+        "Neon",
+        "Stratus"
+      ]
+    },
+    {
+      "code": "PRS",
+      "name": "Deep Red",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2003,
+      "year_to": 2003,
+      "chipUrl": "https://www.paintref.com/chipimages/WSGUGA.png",
+      "chipHash": "3e6c538aae2b304b",
+      "ditzler": "5984",
+      "models": [
+        "Dodge",
+        "Stratus"
+      ]
+    },
+    {
+      "code": "PWR",
+      "name": "Satin White",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2003,
+      "year_to": 2004,
+      "chipUrl": "https://www.paintref.com/chipimages/UWUSAU.png",
+      "chipHash": "3c796b5ab4879c45",
+      "ditzler": "5720",
+      "models": [
+        "Dodge",
+        "Stratus"
+      ]
+    },
+    {
+      "code": "PR8",
+      "name": "Deep Molten Red",
+      "make": "Dodge",
+      "model": "Caravan",
+      "year_from": 2004,
+      "year_to": 2012,
+      "chipUrl": "https://www.paintref.com/chipimages/SUX4DX.png",
+      "chipHash": "0017409b573a9937",
+      "ditzler": "5983",
+      "models": [
+        "Caravan",
+        "Dakota",
+        "Dodge",
+        "Dodge Truck",
+        "Durango"
+      ]
+    },
+    {
+      "code": "WA",
+      "name": "Viper Bright White",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2004,
+      "year_to": 2015,
+      "chipUrl": "https://www.paintref.com/chipimages/4S4EUA.png",
+      "chipHash": "d41246b5812ca1e8",
+      "ditzler": "904049",
+      "models": [
+        "Dodge",
+        "Viper"
+      ]
+    },
+    {
+      "code": "603",
+      "name": "Flame Red",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2004,
+      "year_to": 2008,
+      "chipUrl": "https://www.paintref.com/chipimages/HC5WXU.png",
+      "chipHash": "80297600d97bb3a0",
+      "ditzler": "903524",
+      "models": [
+        "Dodge",
+        "Dodge Truck",
+        "Sprinter"
+      ]
+    },
+    {
+      "code": "PB5",
+      "name": "Electric Blue",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2004,
+      "year_to": 2009,
+      "chipUrl": "https://www.paintref.com/chipimages/X2SXET.png",
+      "chipHash": "0b1f0eebcb08a0a2",
+      "ditzler": "5929",
+      "models": [
+        "Dakota",
+        "Dodge",
+        "Dodge Truck",
+        "Neon",
+        "Nitro"
+      ]
+    },
+    {
+      "code": "PBD",
+      "name": "Marathon Blue",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2004,
+      "year_to": 2008,
+      "chipUrl": "https://www.paintref.com/chipimages/DXSDEC.png",
+      "chipHash": "e8d8c6c158b3a450",
+      "ditzler": "914046",
+      "models": [
+        "Avenger",
+        "Caravan",
+        "Dodge",
+        "Dodge Truck",
+        "Grand Caravan",
+        "Stratus"
+      ]
+    },
+    {
+      "code": "PDM",
+      "name": "Mineral Gray",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2004,
+      "year_to": 2012,
+      "chipUrl": "https://www.paintref.com/chipimages/W4SGSF.png",
+      "chipHash": "fc6714034781f4eb",
+      "ditzler": "6217",
+      "models": [
+        "Dakota",
+        "Dodge",
+        "Dodge Truck",
+        "Durango",
+        "Intrepid",
+        "Magnum",
+        "Neon"
+      ]
+    },
+    {
+      "code": "PJC",
+      "name": "Light Khaki",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2004,
+      "year_to": 2009,
+      "chipUrl": "https://www.paintref.com/chipimages/T4T3CF.png",
+      "chipHash": "cc8543c5972de2f6",
+      "ditzler": "5902",
+      "models": [
+        "Caliber",
+        "Dakota",
+        "Dodge",
+        "Dodge Truck",
+        "Durango",
+        "Nitro"
+      ]
+    },
+    {
+      "code": "PPK",
+      "name": "Magnesium",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2004,
+      "year_to": 2007,
+      "chipUrl": "https://www.paintref.com/chipimages/WA2E23.png",
+      "chipHash": "f32e32f33202c95d",
+      "ditzler": "6212",
+      "models": [
+        "Caravan",
+        "Dodge",
+        "Dodge Truck",
+        "Grand Caravan",
+        "Intrepid",
+        "Magnum",
+        "Stratus"
+      ]
+    },
+    {
+      "code": "PRB",
+      "name": "Indy Red",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2004,
+      "year_to": 2004,
+      "chipUrl": "https://www.paintref.com/chipimages/H55SX4.png",
+      "chipHash": "8395cba09d3aaa5d",
+      "ditzler": "4273",
+      "models": [
+        "Dodge",
+        "Stratus"
+      ]
+    },
+    {
+      "code": "PYG",
+      "name": "Linen Gold",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2004,
+      "year_to": 2007,
+      "chipUrl": "https://www.paintref.com/chipimages/4S4FA5.png",
+      "chipHash": "e7ce5da1bdd00a9c",
+      "ditzler": "6241",
+      "models": [
+        "Caravan",
+        "Dodge",
+        "Dodge Truck",
+        "Grand Caravan",
+        "Magnum",
+        "Stratus"
+      ]
+    },
+    {
+      "code": "362",
+      "name": "Brilliant Blue",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2004,
+      "year_to": 2010,
+      "chipUrl": "https://www.paintref.com/chipimages/5HWD3G.png",
+      "chipHash": "cdcdfb17ff6e52c9",
+      "ditzler": "903562",
+      "models": [
+        "Dodge",
+        "Dodge Truck",
+        "Sprinter"
+      ]
+    },
+    {
+      "code": "464",
+      "name": "Orchid Green",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2004,
+      "year_to": 2007,
+      "chipUrl": "https://www.paintref.com/chipimages/5XFG54.png",
+      "chipHash": "a953c236eb4c313e",
+      "ditzler": "903498",
+      "models": [
+        "Dodge",
+        "Dodge Truck",
+        "Sprinter"
+      ]
+    },
+    {
+      "code": "534",
+      "name": "Flame Red",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2004,
+      "year_to": 2007,
+      "chipUrl": "https://www.paintref.com/chipimages/TAXHX2.png",
+      "chipHash": "480b8e43a05da936",
+      "ditzler": "918326",
+      "models": [
+        "Dodge",
+        "Dodge Truck",
+        "Sprinter"
+      ]
+    },
+    {
+      "code": "P01",
+      "name": "Arctic White",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2004,
+      "year_to": 2004,
+      "chipUrl": "https://www.paintref.com/chipimages/4S424F.png",
+      "chipHash": "1964a0699e87d88d",
+      "ditzler": "903492",
+      "models": [
+        "Dodge",
+        "Dodge Truck",
+        "Sprinter"
+      ]
+    },
+    {
+      "code": "P02",
+      "name": "Black Blue",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2004,
+      "year_to": 2004,
+      "chipUrl": "https://www.paintref.com/chipimages/5U5AD2.png",
+      "chipHash": "55f8000ef01e1cfc",
+      "ditzler": "903493",
+      "models": [
+        "Dodge",
+        "Dodge Truck",
+        "Sprinter"
+      ]
+    },
+    {
+      "code": "P03",
+      "name": "Calcite Yellow",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2004,
+      "year_to": 2004,
+      "chipUrl": "https://www.paintref.com/chipimages/4CHCDC.png",
+      "chipHash": "cfe3c42b46ac464e",
+      "ditzler": "903495",
+      "models": [
+        "Dodge",
+        "Dodge Truck",
+        "Sprinter"
+      ]
+    },
+    {
+      "code": "P04",
+      "name": "Piedmont Red",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2004,
+      "year_to": 2004,
+      "chipUrl": "https://www.paintref.com/chipimages/CWXHX3.png",
+      "chipHash": "cbbb043f86a5206a",
+      "ditzler": "903499",
+      "models": [
+        "Dodge",
+        "Dodge Truck",
+        "Sprinter"
+      ]
+    },
+    {
+      "code": "P05",
+      "name": "Hyacinth Blue",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2004,
+      "year_to": 2004,
+      "chipUrl": "https://www.paintref.com/chipimages/5XDWS2.png",
+      "chipHash": "ef7b6b5b6b0cdd72",
+      "ditzler": "903497",
+      "models": [
+        "Dodge",
+        "Dodge Truck",
+        "Sprinter"
+      ]
+    },
+    {
+      "code": "P06",
+      "name": "Black Gray",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2004,
+      "year_to": 2004,
+      "chipUrl": "https://www.paintref.com/chipimages/XGXGXG.png",
+      "chipHash": "759f72c6ff1da519",
+      "ditzler": "903494",
+      "models": [
+        "Dodge",
+        "Dodge Truck",
+        "Sprinter"
+      ]
+    },
+    {
+      "code": "P07",
+      "name": "Stone Gray",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2004,
+      "year_to": 2004,
+      "chipUrl": "https://www.paintref.com/chipimages/3A3U2F.png",
+      "chipHash": "5fcdd02226e051bc",
+      "ditzler": "903514",
+      "models": [
+        "Dodge",
+        "Dodge Truck",
+        "Sprinter"
+      ]
+    },
+    {
+      "code": "P08",
+      "name": "Silver Gray",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2004,
+      "year_to": 2004,
+      "chipUrl": "https://www.paintref.com/chipimages/3SCF3U.png",
+      "chipHash": "bcc11dd29f104126",
+      "ditzler": "903500",
+      "models": [
+        "Dodge",
+        "Dodge Truck",
+        "Sprinter"
+      ]
+    },
+    {
+      "code": "P09",
+      "name": "Carbon Black",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2004,
+      "year_to": 2004,
+      "chipUrl": "https://www.paintref.com/chipimages/5CDWF5.png",
+      "chipHash": "d268774e7ac01298",
+      "ditzler": "903496",
+      "models": [
+        "Dodge",
+        "Dodge Truck",
+        "Sprinter"
+      ]
+    },
+    {
+      "code": "P41",
+      "name": "Black",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2004,
+      "year_to": 2006,
+      "chipUrl": "https://www.paintref.com/chipimages/GGGGGG.png",
+      "chipHash": "1f437854e2d31a87",
+      "ditzler": "903307",
+      "models": [
+        "Dodge",
+        "Dodge Truck",
+        "Sprinter"
+      ]
+    },
+    {
+      "code": "PBL",
+      "name": "Modern Blue",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2004,
+      "year_to": 2011,
+      "chipUrl": "https://www.paintref.com/chipimages/XA53D5.png",
+      "chipHash": "387f502dd5f657e0",
+      "ditzler": "910469",
+      "models": [
+        "Avenger",
+        "Caravan",
+        "Dodge",
+        "Dodge Truck",
+        "Grand Caravan",
+        "Nitro",
+        "Stratus"
+      ]
+    },
+    {
+      "code": "345",
+      "name": "Jasper Blue",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2004,
+      "year_to": 2010,
+      "chipUrl": "https://www.paintref.com/chipimages/DXSG3A.png",
+      "chipHash": "f9a498902972ab60",
+      "ditzler": "903525",
+      "models": [
+        "Dodge",
+        "Dodge Truck",
+        "Sprinter"
+      ]
+    },
+    {
+      "code": "389",
+      "name": "Steel Blue",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2004,
+      "year_to": 2009,
+      "chipUrl": "https://www.paintref.com/chipimages/G5XEDH.png",
+      "chipHash": "0605cee488912322",
+      "ditzler": "903528",
+      "models": [
+        "Dodge",
+        "Dodge Truck",
+        "Sprinter"
+      ]
+    },
+    {
+      "code": "PD3",
+      "name": "Brilliant Silver",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2004,
+      "year_to": 2006,
+      "chipUrl": "https://www.paintref.com/chipimages/AWACAX.png",
+      "chipHash": "de5e65e74564e519",
+      "ditzler": "903523",
+      "models": [
+        "Dodge",
+        "Dodge Truck",
+        "Sprinter"
+      ]
+    },
+    {
+      "code": "P06",
+      "name": "Deep Red",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2004,
+      "year_to": 2005,
+      "chipUrl": "https://www.paintref.com/chipimages/WSGUGA.png",
+      "chipHash": "3e6c538aae2b304b",
+      "ditzler": "5984",
+      "models": [
+        "Dodge",
+        "Stratus"
+      ]
+    },
+    {
+      "code": "PV3",
+      "name": "Amber Red",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2004,
+      "year_to": 2006,
+      "chipUrl": "https://www.paintref.com/chipimages/3CXW55.png",
+      "chipHash": "eb5bbd995dcff0e0",
+      "ditzler": "903522",
+      "models": [
+        "Dodge",
+        "Dodge Truck",
+        "Sprinter"
+      ]
+    },
+    {
+      "code": "PWG",
+      "name": "Cool Vanilla",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2004,
+      "year_to": 2007,
+      "chipUrl": "https://www.paintref.com/chipimages/UEUSH5.png",
+      "chipHash": "b2b551fef40418a3",
+      "ditzler": "6211",
+      "models": [
+        "Caravan",
+        "Dodge",
+        "Dodge Truck",
+        "Durango",
+        "Intrepid",
+        "Magnum"
+      ]
+    },
+    {
+      "code": "PGJ",
+      "name": "Jeep Green",
+      "make": "Dodge",
+      "model": "Dakota",
+      "year_from": 2005,
+      "year_to": 2005,
+      "chipUrl": "https://www.paintref.com/chipimages/5CWXFC.png",
+      "chipHash": "74e9b4c6e5409dda",
+      "ditzler": "910466",
+      "models": [
+        "Dakota",
+        "Dodge",
+        "Dodge Truck",
+        "Durango"
+      ]
+    },
+    {
+      "code": "PA9",
+      "name": "Viper Silver",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2005,
+      "year_to": 2005,
+      "chipUrl": "https://www.paintref.com/chipimages/AHUFAU.png",
+      "chipHash": "889b398580c7c70b",
+      "ditzler": "36395",
+      "models": [
+        "Dodge"
+      ]
+    },
+    {
+      "code": "PRN",
+      "name": "Venom Red",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2005,
+      "year_to": 2005,
+      "chipUrl": "https://www.paintref.com/chipimages/S3GAX4.png",
+      "chipHash": "8fa7c6fec1c7a55a",
+      "ditzler": "918034",
+      "models": [
+        "Dodge"
+      ]
+    },
+    {
+      "code": "PVK",
+      "name": "Orange Blast",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2005,
+      "year_to": 2005,
+      "chipUrl": "https://www.paintref.com/chipimages/AHCSGG.png",
+      "chipHash": "39406bbfe9bf504d",
+      "ditzler": "905108",
+      "models": [
+        "Dodge",
+        "Neon",
+        "Stratus"
+      ]
+    },
+    {
+      "code": "PVR",
+      "name": "Copperhead Orange",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2005,
+      "year_to": 2005,
+      "chipUrl": "https://www.paintref.com/chipimages/AGS25D.png",
+      "chipHash": "705156d5455f54fe",
+      "ditzler": "906169",
+      "models": [
+        "Dodge"
+      ]
+    },
+    {
+      "code": "PWA",
+      "name": "Viper Bright White",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2005,
+      "year_to": 2015,
+      "chipUrl": "https://www.paintref.com/chipimages/4S4EUA.png",
+      "chipHash": "d41246b5812ca1e8",
+      "ditzler": "904049",
+      "models": [
+        "Dodge"
+      ]
+    },
+    {
+      "code": "103",
+      "name": "Black Gray",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2005,
+      "year_to": 2010,
+      "chipUrl": "https://www.paintref.com/chipimages/XGXGXG.png",
+      "chipHash": "759f72c6ff1da519",
+      "ditzler": "903494",
+      "models": [
+        "Dodge",
+        "Dodge Truck",
+        "Sprinter"
+      ]
+    },
+    {
+      "code": "147",
+      "name": "Arctic White",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2005,
+      "year_to": 2010,
+      "chipUrl": "https://www.paintref.com/chipimages/4S424F.png",
+      "chipHash": "1964a0699e87d88d",
+      "ditzler": "903492",
+      "models": [
+        "Dodge",
+        "Dodge Truck",
+        "Sprinter"
+      ]
+    },
+    {
+      "code": "154",
+      "name": "Carbon Black",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2005,
+      "year_to": 2010,
+      "chipUrl": "https://www.paintref.com/chipimages/5CDWF5.png",
+      "chipHash": "d268774e7ac01298",
+      "ditzler": "903496",
+      "models": [
+        "Dodge",
+        "Dodge Truck",
+        "Sprinter"
+      ]
+    },
+    {
+      "code": "160",
+      "name": "Stone Gray",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2005,
+      "year_to": 2010,
+      "chipUrl": "https://www.paintref.com/chipimages/3A3U2F.png",
+      "chipHash": "5fcdd02226e051bc",
+      "ditzler": "903514",
+      "models": [
+        "Dodge",
+        "Dodge Truck",
+        "Sprinter"
+      ]
+    },
+    {
+      "code": "212",
+      "name": "Broom Yellow",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2005,
+      "year_to": 2010,
+      "chipUrl": "https://www.paintref.com/chipimages/4THDGG.png",
+      "chipHash": "24d05fbda9b069d4",
+      "ditzler": "",
+      "models": [
+        "Dodge",
+        "Dodge Truck",
+        "Sprinter"
+      ]
+    },
+    {
+      "code": "224",
+      "name": "Graphite Gray",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2005,
+      "year_to": 2010,
+      "chipUrl": "https://www.paintref.com/chipimages/F4WWWT.png",
+      "chipHash": "307f98138bc664d3",
+      "ditzler": "918147",
+      "models": [
+        "Dodge",
+        "Dodge Truck",
+        "Sprinter"
+      ]
+    },
+    {
+      "code": "243",
+      "name": "Calcite Yellow",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2005,
+      "year_to": 2010,
+      "chipUrl": "https://www.paintref.com/chipimages/4CHCDC.png",
+      "chipHash": "cfe3c42b46ac464e",
+      "ditzler": "903495",
+      "models": [
+        "Dodge",
+        "Dodge Truck",
+        "Sprinter"
+      ]
+    },
+    {
+      "code": "376",
+      "name": "Hyacinth Blue",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2005,
+      "year_to": 2007,
+      "chipUrl": "https://www.paintref.com/chipimages/5XDWS2.png",
+      "chipHash": "ef7b6b5b6b0cdd72",
+      "ditzler": "903497",
+      "models": [
+        "Dodge",
+        "Dodge Truck",
+        "Sprinter"
+      ]
+    },
+    {
+      "code": "410",
+      "name": "UPS Brown",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2005,
+      "year_to": 2013,
+      "chipUrl": "https://www.paintref.com/chipimages/D5DXX3.png",
+      "chipHash": "5a90c1f26733cf89",
+      "ditzler": "932566",
+      "models": [
+        "Dodge",
+        "Dodge Truck",
+        "Sprinter"
+      ]
+    },
+    {
+      "code": "524",
+      "name": "Black Blue",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2005,
+      "year_to": 2010,
+      "chipUrl": "https://www.paintref.com/chipimages/5U5AD2.png",
+      "chipHash": "55f8000ef01e1cfc",
+      "ditzler": "903493",
+      "models": [
+        "Dodge",
+        "Dodge Truck",
+        "Sprinter"
+      ]
+    },
+    {
+      "code": "635",
+      "name": "Red 2000",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2005,
+      "year_to": 2007,
+      "chipUrl": "https://www.paintref.com/chipimages/H4XU5W.png",
+      "chipHash": "c64428e5ece01fe5",
+      "ditzler": "917893",
+      "models": [
+        "Dodge",
+        "Dodge Truck",
+        "Sprinter"
+      ]
+    },
+    {
+      "code": "636",
+      "name": "Piedmont Red",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2005,
+      "year_to": 2007,
+      "chipUrl": "https://www.paintref.com/chipimages/CWXHX3.png",
+      "chipHash": "cbbb043f86a5206a",
+      "ditzler": "903499",
+      "models": [
+        "Dodge",
+        "Dodge Truck",
+        "Sprinter"
+      ]
+    },
+    {
+      "code": "708",
+      "name": "Silver Gray",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2005,
+      "year_to": 2010,
+      "chipUrl": "https://www.paintref.com/chipimages/3SCF3U.png",
+      "chipHash": "bcc11dd29f104126",
+      "ditzler": "903500",
+      "models": [
+        "Dodge",
+        "Dodge Truck",
+        "Sprinter"
+      ]
+    },
+    {
+      "code": "856",
+      "name": "Turquoise Blue",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2005,
+      "year_to": 2007,
+      "chipUrl": "https://www.paintref.com/chipimages/5434C3.png",
+      "chipHash": "0cdb5a2348502e8e",
+      "ditzler": "",
+      "models": [
+        "Dodge",
+        "Dodge Truck",
+        "Sprinter"
+      ]
+    },
+    {
+      "code": "T34",
+      "name": "Modern Blue",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2005,
+      "year_to": 2005,
+      "chipUrl": "https://www.paintref.com/chipimages/XA53D5.png",
+      "chipHash": "387f502dd5f657e0",
+      "ditzler": "910469",
+      "models": [
+        "Dodge",
+        "Stratus"
+      ]
+    },
+    {
+      "code": "PK1",
+      "name": "Silver Beige",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2005,
+      "year_to": 2005,
+      "chipUrl": "https://www.paintref.com/chipimages/EXC3CX.png",
+      "chipHash": "4253fa39d5febc91",
+      "ditzler": "908502",
+      "models": [
+        "Dodge",
+        "Stratus"
+      ]
+    },
+    {
+      "code": "A33",
+      "name": "Prowler Silver",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2005,
+      "year_to": 2005,
+      "chipUrl": "https://www.paintref.com/chipimages/ADAEUA.png",
+      "chipHash": "c45e3533a95382b7",
+      "ditzler": "906554",
+      "models": [
+        "Dodge",
+        "Stratus"
+      ]
+    },
+    {
+      "code": "X13",
+      "name": "Black",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2005,
+      "year_to": 2005,
+      "chipUrl": "https://www.paintref.com/chipimages/GGGGGG.png",
+      "chipHash": "1f437854e2d31a87",
+      "ditzler": "95097",
+      "models": [
+        "Dodge",
+        "Stratus"
+      ]
+    },
+    {
+      "code": "RN",
+      "name": "Venom Red",
+      "make": "Dodge",
+      "model": "Viper",
+      "year_from": 2005,
+      "year_to": 2005,
+      "chipUrl": "https://www.paintref.com/chipimages/S3GAX4.png",
+      "chipHash": "8fa7c6fec1c7a55a",
+      "ditzler": "918034",
+      "models": [
+        "Viper"
+      ]
+    },
+    {
+      "code": "VR",
+      "name": "Copperhead Orange",
+      "make": "Dodge",
+      "model": "Viper",
+      "year_from": 2005,
+      "year_to": 2005,
+      "chipUrl": "https://www.paintref.com/chipimages/AGS25D.png",
+      "chipHash": "705156d5455f54fe",
+      "ditzler": "906169",
+      "models": [
+        "Viper"
+      ]
+    },
+    {
+      "code": "PA4",
+      "name": "Silver Steel",
+      "make": "Dodge",
+      "model": "Caravan",
+      "year_from": 2006,
+      "year_to": 2011,
+      "chipUrl": "https://www.paintref.com/chipimages/2TC5CC.png",
+      "chipHash": "e3bc08f2f2ac7f3a",
+      "ditzler": "907545",
+      "models": [
+        "Avenger",
+        "Caravan",
+        "Dodge",
+        "Dodge Truck",
+        "Journey",
+        "Magnum",
+        "Stratus"
+      ]
+    },
+    {
+      "code": "PRH",
+      "name": "Inferno Red",
+      "make": "Dodge",
+      "model": "Caravan",
+      "year_from": 2006,
+      "year_to": 2011,
+      "chipUrl": "https://www.paintref.com/chipimages/EGXCXH.png",
+      "chipHash": "8782132cce27ded8",
+      "ditzler": "5930",
+      "models": [
+        "Avenger",
+        "Caliber",
+        "Caravan",
+        "Dakota",
+        "Dodge",
+        "Dodge Truck",
+        "Durango",
+        "Grand Caravan",
+        "Journey",
+        "Magnum",
+        "Nitro",
+        "Stratus"
+      ]
+    },
+    {
+      "code": "A4",
+      "name": "Silver Steel",
+      "make": "Dodge",
+      "model": "Charger",
+      "year_from": 2006,
+      "year_to": 2011,
+      "chipUrl": "https://www.paintref.com/chipimages/2TC5CC.png",
+      "chipHash": "e3bc08f2f2ac7f3a",
+      "ditzler": "907545",
+      "models": [
+        "Avenger",
+        "Charger"
+      ]
+    },
+    {
+      "code": "B8",
+      "name": "Midnight Blue",
+      "make": "Dodge",
+      "model": "Charger",
+      "year_from": 2006,
+      "year_to": 2006,
+      "chipUrl": "https://www.paintref.com/chipimages/XF5DFU.png",
+      "chipHash": "35f5009f18b0b4ee",
+      "ditzler": "5982",
+      "models": [
+        "Charger"
+      ]
+    },
+    {
+      "code": "P4",
+      "name": "Satin Jade",
+      "make": "Dodge",
+      "model": "Charger",
+      "year_from": 2006,
+      "year_to": 2006,
+      "chipUrl": "https://www.paintref.com/chipimages/E2TEEC.png",
+      "chipHash": "d993d71e5b0e154f",
+      "ditzler": "5934",
+      "models": [
+        "Charger"
+      ]
+    },
+    {
+      "code": "PK",
+      "name": "Magnesium",
+      "make": "Dodge",
+      "model": "Charger",
+      "year_from": 2006,
+      "year_to": 2006,
+      "chipUrl": "https://www.paintref.com/chipimages/WA2E23.png",
+      "chipHash": "f32e32f33202c95d",
+      "ditzler": "6212",
+      "models": [
+        "Charger"
+      ]
+    },
+    {
+      "code": "RH",
+      "name": "Blaze Red",
+      "make": "Dodge",
+      "model": "Charger",
+      "year_from": 2006,
+      "year_to": 2007,
+      "chipUrl": "https://www.paintref.com/chipimages/EGXCXH.png",
+      "chipHash": "8782132cce27ded8",
+      "ditzler": "5930",
+      "models": [
+        "Charger"
+      ]
+    },
+    {
+      "code": "S2",
+      "name": "Bright Silver",
+      "make": "Dodge",
+      "model": "Charger",
+      "year_from": 2006,
+      "year_to": 2013,
+      "chipUrl": "https://www.paintref.com/chipimages/UGUSUX.png",
+      "chipHash": "02cefe86632161c9",
+      "ditzler": "915741",
+      "models": [
+        "Avenger",
+        "Caliber",
+        "Challenger",
+        "Charger",
+        "Dart",
+        "Dodge Truck",
+        "Magnum",
+        "Nitro"
+      ]
+    },
+    {
+      "code": "VE",
+      "name": "Go Mango (Tangerine)",
+      "make": "Dodge",
+      "model": "Charger",
+      "year_from": 2006,
+      "year_to": 2006,
+      "chipUrl": "https://www.paintref.com/chipimages/H4FSDT.png",
+      "chipHash": "ad520512272e4c54",
+      "ditzler": "5954",
+      "models": [
+        "Charger"
+      ]
+    },
+    {
+      "code": "W1",
+      "name": "Stone White",
+      "make": "Dodge",
+      "model": "Charger",
+      "year_from": 2006,
+      "year_to": 2012,
+      "chipUrl": "https://www.paintref.com/chipimages/4W42UC.png",
+      "chipHash": "efac8a4d6202429e",
+      "ditzler": "5072",
+      "models": [
+        "Avenger",
+        "Caliber",
+        "Challenger",
+        "Charger",
+        "Dodge Truck",
+        "Magnum",
+        "Nitro"
+      ]
+    },
+    {
+      "code": "WG",
+      "name": "Cool Vanilla",
+      "make": "Dodge",
+      "model": "Charger",
+      "year_from": 2006,
+      "year_to": 2006,
+      "chipUrl": "https://www.paintref.com/chipimages/UEUSH5.png",
+      "chipHash": "b2b551fef40418a3",
+      "ditzler": "6211",
+      "models": [
+        "Charger"
+      ]
+    },
+    {
+      "code": "XR",
+      "name": "Brilliant Black",
+      "make": "Dodge",
+      "model": "Charger",
+      "year_from": 2006,
+      "year_to": 2012,
+      "chipUrl": "https://www.paintref.com/chipimages/GGGGGG.png",
+      "chipHash": "1f437854e2d31a87",
+      "ditzler": "5931",
+      "models": [
+        "Avenger",
+        "Caliber",
+        "Challenger",
+        "Charger",
+        "Dodge Truck",
+        "Magnum",
+        "Nitro"
+      ]
+    },
+    {
+      "code": "YG",
+      "name": "Linen Gold",
+      "make": "Dodge",
+      "model": "Charger",
+      "year_from": 2006,
+      "year_to": 2006,
+      "chipUrl": "https://www.paintref.com/chipimages/4S4FA5.png",
+      "chipHash": "e7ce5da1bdd00a9c",
+      "ditzler": "6241",
+      "models": [
+        "Charger"
+      ]
+    },
+    {
+      "code": "YH",
+      "name": "Top Banana (Solar Yellow)",
+      "make": "Dodge",
+      "model": "Charger",
+      "year_from": 2006,
+      "year_to": 2006,
+      "chipUrl": "https://www.paintref.com/chipimages/42TSD3.png",
+      "chipHash": "5068f44303f97665",
+      "ditzler": "5513",
+      "models": [
+        "Charger"
+      ]
+    },
+    {
+      "code": "PJC",
+      "name": "Dark Khaki",
+      "make": "Dodge",
+      "model": "Dakota",
+      "year_from": 2006,
+      "year_to": 2006,
+      "chipUrl": "https://www.paintref.com/chipimages/SEWEDA.png",
+      "chipHash": "8648445eff61dbbe",
+      "ditzler": "6240",
+      "models": [
+        "Dakota",
+        "Dodge",
+        "Dodge Truck",
+        "Durango"
+      ]
+    },
+    {
+      "code": "PRJ",
+      "name": "Inferno Red",
+      "make": "Dodge",
+      "model": "Dakota",
+      "year_from": 2006,
+      "year_to": 2009,
+      "chipUrl": "https://www.paintref.com/chipimages/SGXFXX.png",
+      "chipHash": "6518117c5985c320",
+      "ditzler": "701463",
+      "models": [
+        "Dakota",
+        "Dodge",
+        "Dodge Truck",
+        "Durango"
+      ]
+    },
+    {
+      "code": "PBE",
+      "name": "Viper GTS Blue",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2006,
+      "year_to": 2010,
+      "chipUrl": "https://www.paintref.com/chipimages/X3F4CH.png",
+      "chipHash": "e7f493a18ef35978",
+      "ditzler": "19282",
+      "models": [
+        "Dodge"
+      ]
+    },
+    {
+      "code": "PVE",
+      "name": "Go Mango (Tangerine)",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2006,
+      "year_to": 2006,
+      "chipUrl": "https://www.paintref.com/chipimages/H4FSDT.png",
+      "chipHash": "ad520512272e4c54",
+      "ditzler": "5954",
+      "models": [
+        "Dodge"
+      ]
+    },
+    {
+      "code": "PYH",
+      "name": "Top Banana (Solar Yellow)",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2006,
+      "year_to": 2006,
+      "chipUrl": "https://www.paintref.com/chipimages/42TSD3.png",
+      "chipHash": "5068f44303f97665",
+      "ditzler": "5513",
+      "models": [
+        "Dodge"
+      ]
+    },
+    {
+      "code": "389",
+      "name": "Steel Blue Pearl",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2006,
+      "year_to": 2010,
+      "chipUrl": "https://www.paintref.com/chipimages/G5XEDH.png",
+      "chipHash": "0605cee488912322",
+      "ditzler": "903528",
+      "models": [
+        "Dodge",
+        "Dodge Truck",
+        "Sprinter"
+      ]
+    },
+    {
+      "code": "PB6",
+      "name": "Marine Blue",
+      "make": "Dodge",
+      "model": "Caliber",
+      "year_from": 2007,
+      "year_to": 2008,
+      "chipUrl": "https://www.paintref.com/chipimages/5TWX2E.png",
+      "chipHash": "758b689e9b3396ab",
+      "ditzler": "907394",
+      "models": [
+        "Caliber",
+        "Caravan",
+        "Dodge",
+        "Dodge Truck",
+        "Durango",
+        "Grand Caravan",
+        "Magnum"
+      ]
+    },
+    {
+      "code": "PBM",
+      "name": "Steel Blue",
+      "make": "Dodge",
+      "model": "Caliber",
+      "year_from": 2007,
+      "year_to": 2010,
+      "chipUrl": "https://www.paintref.com/chipimages/DWDSFW.png",
+      "chipHash": "e86ab8c542046cf7",
+      "ditzler": "907544",
+      "models": [
+        "Caliber",
+        "Dodge",
+        "Dodge Truck",
+        "Durango",
+        "Magnum"
+      ]
+    },
+    {
+      "code": "PV6",
+      "name": "Sunburst Orange",
+      "make": "Dodge",
+      "model": "Caliber",
+      "year_from": 2007,
+      "year_to": 2010,
+      "chipUrl": "https://www.paintref.com/chipimages/H5DEG3.png",
+      "chipHash": "9903dd5217923cb5",
+      "ditzler": "907546",
+      "models": [
+        "Avenger",
+        "Caliber",
+        "Caravan",
+        "Dakota",
+        "Dodge",
+        "Dodge Truck",
+        "Grand Caravan",
+        "Nitro",
+        "Stratus"
+      ]
+    },
+    {
+      "code": "PVJ",
+      "name": "Deep Coral Red",
+      "make": "Dodge",
+      "model": "Caravan",
+      "year_from": 2007,
+      "year_to": 2007,
+      "chipUrl": "https://www.paintref.com/chipimages/3UX4XD.png",
+      "chipHash": "95b50b5f4ab288b8",
+      "ditzler": "910468",
+      "models": [
+        "Caravan",
+        "Dodge",
+        "Dodge Truck",
+        "Durango",
+        "Grand Caravan"
+      ]
+    },
+    {
+      "code": "B6",
+      "name": "Marine Blue",
+      "make": "Dodge",
+      "model": "Charger",
+      "year_from": 2007,
+      "year_to": 2007,
+      "chipUrl": "https://www.paintref.com/chipimages/5TWX2E.png",
+      "chipHash": "758b689e9b3396ab",
+      "ditzler": "907394",
+      "models": [
+        "Charger"
+      ]
+    },
+    {
+      "code": "BM",
+      "name": "Steel Blue",
+      "make": "Dodge",
+      "model": "Charger",
+      "year_from": 2007,
+      "year_to": 2008,
+      "chipUrl": "https://www.paintref.com/chipimages/DXSG3A.png",
+      "chipHash": "f9a498902972ab60",
+      "ditzler": "903525",
+      "models": [
+        "Charger"
+      ]
+    },
+    {
+      "code": "HG",
+      "name": "Plum Crazy",
+      "make": "Dodge",
+      "model": "Charger",
+      "year_from": 2007,
+      "year_to": 2016,
+      "chipUrl": "https://www.paintref.com/chipimages/FDDSS4.png",
+      "chipHash": "6071cca1f0b3a581",
+      "ditzler": "914308",
+      "models": [
+        "Challenger",
+        "Charger"
+      ]
+    },
+    {
+      "code": "R3",
+      "name": "High Performance Red",
+      "make": "Dodge",
+      "model": "Charger",
+      "year_from": 2007,
+      "year_to": 2010,
+      "chipUrl": "https://www.paintref.com/chipimages/ASG3XT.png",
+      "chipHash": "da9200b24b02e6b1",
+      "ditzler": "77204",
+      "models": [
+        "Charger",
+        "Magnum"
+      ]
+    },
+    {
+      "code": "PBD",
+      "name": "Competition Blue",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2007,
+      "year_to": 2018,
+      "chipUrl": "https://www.paintref.com/chipimages/DXSDEC.png",
+      "chipHash": "e8d8c6c158b3a450",
+      "ditzler": "914046",
+      "models": [
+        "Dodge",
+        "Viper"
+      ]
+    },
+    {
+      "code": "PHG",
+      "name": "Plum Crazy",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2007,
+      "year_to": 2023,
+      "chipUrl": "https://www.paintref.com/chipimages/FDDSS4.png",
+      "chipHash": "6071cca1f0b3a581",
+      "ditzler": "914308",
+      "models": [
+        "Challenger",
+        "Charger",
+        "Dodge"
+      ]
+    },
+    {
+      "code": "PR3",
+      "name": "High Performance Red",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2007,
+      "year_to": 2010,
+      "chipUrl": "https://www.paintref.com/chipimages/ASG3XT.png",
+      "chipHash": "da9200b24b02e6b1",
+      "ditzler": "77204",
+      "models": [
+        "Dakota",
+        "Dodge",
+        "Dodge Truck",
+        "Magnum"
+      ]
+    },
+    {
+      "code": "PYB",
+      "name": "Detonator Yellow",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2007,
+      "year_to": 2025,
+      "chipUrl": "https://www.paintref.com/chipimages/AATCG2.png",
+      "chipHash": "035e36e219852438",
+      "ditzler": "912790",
+      "models": [
+        "Dakota",
+        "Dodge",
+        "Dodge Truck",
+        "Nitro"
+      ]
+    },
+    {
+      "code": "040",
+      "name": "Jet Black",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2007,
+      "year_to": 2010,
+      "chipUrl": "https://www.paintref.com/chipimages/GGGGGG.png",
+      "chipHash": "1f437854e2d31a87",
+      "ditzler": "903307",
+      "models": [
+        "Dodge",
+        "Dodge Truck",
+        "Sprinter"
+      ]
+    },
+    {
+      "code": "548",
+      "name": "Amber Red",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2007,
+      "year_to": 2010,
+      "chipUrl": "https://www.paintref.com/chipimages/3CXW55.png",
+      "chipHash": "eb5bbd995dcff0e0",
+      "ditzler": "903522",
+      "models": [
+        "Dodge",
+        "Dodge Truck",
+        "Sprinter"
+      ]
+    },
+    {
+      "code": "744",
+      "name": "Brilliant Silver",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2007,
+      "year_to": 2010,
+      "chipUrl": "https://www.paintref.com/chipimages/AWACAX.png",
+      "chipHash": "de5e65e74564e519",
+      "ditzler": "903523",
+      "models": [
+        "Dodge",
+        "Dodge Truck",
+        "Sprinter"
+      ]
+    },
+    {
+      "code": "830",
+      "name": "Aqua Green",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2007,
+      "year_to": 2010,
+      "chipUrl": "https://www.paintref.com/chipimages/XWDTD3.png",
+      "chipHash": "1762bfefea210263",
+      "ditzler": "917892",
+      "models": [
+        "Dodge",
+        "Dodge Truck",
+        "Sprinter"
+      ]
+    },
+    {
+      "code": "957",
+      "name": "Vanda Blue",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2007,
+      "year_to": 2010,
+      "chipUrl": "https://www.paintref.com/chipimages/XS5SF5.png",
+      "chipHash": "e5746561e8d231b3",
+      "ditzler": "917834",
+      "models": [
+        "Dodge",
+        "Dodge Truck",
+        "Sprinter"
+      ]
+    },
+    {
+      "code": "967",
+      "name": "Hibiscus Red",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2007,
+      "year_to": 2010,
+      "chipUrl": "https://www.paintref.com/chipimages/ESXC5A.png",
+      "chipHash": "df6192df3362632c",
+      "ditzler": "917833",
+      "models": [
+        "Dodge",
+        "Dodge Truck",
+        "Sprinter"
+      ]
+    },
+    {
+      "code": "635",
+      "name": "Coca Cola Red",
+      "make": "Dodge",
+      "model": "Dodge Truck",
+      "year_from": 2007,
+      "year_to": 2011,
+      "chipUrl": "https://www.paintref.com/chipimages/H4XU5W.png",
+      "chipHash": "c64428e5ece01fe5",
+      "ditzler": "917893",
+      "models": [
+        "Dodge",
+        "Dodge Truck",
+        "Sprinter"
+      ]
+    },
+    {
+      "code": "PKG",
+      "name": "Light Sandstone",
+      "make": "Dodge",
+      "model": "Avenger",
+      "year_from": 2008,
+      "year_to": 2011,
+      "chipUrl": "https://www.paintref.com/chipimages/HCHXEE.png",
+      "chipHash": "adbaf8b479356182",
+      "ditzler": "918036",
+      "models": [
+        "Avenger",
+        "Caravan",
+        "Dodge",
+        "Dodge Truck",
+        "Durango",
+        "Grand Caravan",
+        "Journey",
+        "Magnum"
+      ]
+    },
+    {
+      "code": "PQD",
+      "name": "Surf Blue",
+      "make": "Dodge",
+      "model": "Caliber",
+      "year_from": 2008,
+      "year_to": 2009,
+      "chipUrl": "https://www.paintref.com/chipimages/D222TA.png",
+      "chipHash": "a27b3759982e2e26",
+      "ditzler": "914632",
+      "models": [
+        "Caliber",
+        "Dodge",
+        "Dodge Truck",
+        "Journey"
+      ]
+    },
+    {
+      "code": "BS",
+      "name": "Deep Water Blue",
+      "make": "Dodge",
+      "model": "Challenger",
+      "year_from": 2008,
+      "year_to": 2011,
+      "chipUrl": "https://www.paintref.com/chipimages/XFDUSC.png",
+      "chipHash": "a6d317c1d7a65a1b",
+      "ditzler": "918189",
+      "models": [
+        "Avenger",
+        "Caliber",
+        "Challenger",
+        "Charger",
+        "Magnum",
+        "Nitro"
+      ]
+    },
+    {
+      "code": "LC",
+      "name": "Hemi Orange",
+      "make": "Dodge",
+      "model": "Challenger",
+      "year_from": 2008,
+      "year_to": 2013,
+      "chipUrl": "https://www.paintref.com/chipimages/H5DEG3.png",
+      "chipHash": "9903dd5217923cb5",
+      "ditzler": "914306",
+      "models": [
+        "Challenger"
+      ]
+    },
+    {
+      "code": "PL",
+      "name": "Melbourne Green",
+      "make": "Dodge",
+      "model": "Challenger",
+      "year_from": 2008,
+      "year_to": 2008,
+      "chipUrl": "https://www.paintref.com/chipimages/XEFCFD.png",
+      "chipHash": "7db43d5a83406192",
+      "ditzler": "918983",
+      "models": [
+        "Challenger"
+      ]
+    },
+    {
+      "code": "DT",
+      "name": "Dark Titanium",
+      "make": "Dodge",
+      "model": "Charger",
+      "year_from": 2008,
+      "year_to": 2010,
+      "chipUrl": "https://www.paintref.com/chipimages/2XSCSF.png",
+      "chipHash": "956bbb6bcbcb7c2b",
+      "ditzler": "916826",
+      "models": [
+        "Challenger",
+        "Charger",
+        "Magnum"
+      ]
+    },
+    {
+      "code": "KG",
+      "name": "Light Sandstone",
+      "make": "Dodge",
+      "model": "Charger",
+      "year_from": 2008,
+      "year_to": 2011,
+      "chipUrl": "https://www.paintref.com/chipimages/HCHXEE.png",
+      "chipHash": "adbaf8b479356182",
+      "ditzler": "918036",
+      "models": [
+        "Avenger",
+        "Caliber",
+        "Charger",
+        "Magnum",
+        "Nitro"
+      ]
+    },
+    {
+      "code": "RH",
+      "name": "Inferno Red",
+      "make": "Dodge",
+      "model": "Charger",
+      "year_from": 2008,
+      "year_to": 2011,
+      "chipUrl": "https://www.paintref.com/chipimages/EGXCXH.png",
+      "chipHash": "8782132cce27ded8",
+      "ditzler": "5930",
+      "models": [
+        "Avenger",
+        "Caliber",
+        "Challenger",
+        "Charger",
+        "Magnum",
+        "Nitro"
+      ]
+    },
+    {
+      "code": "P63",
+      "name": "Yellow",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2008,
+      "year_to": 2025,
+      "chipUrl": "https://www.paintref.com/chipimages/UDHAD3.png",
+      "chipHash": "ee000e6ff4b99b19",
+      "ditzler": "932189",
+      "models": [
+        "Dodge",
+        "Dodge Truck"
+      ]
+    },
+    {
+      "code": "PBC",
+      "name": "Viper Bright Blue",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2008,
+      "year_to": 2010,
+      "chipUrl": "https://www.paintref.com/chipimages/XU25T3.png",
+      "chipHash": "a7c4f0613fcd21c9",
+      "ditzler": "918037",
+      "models": [
+        "Dodge"
+      ]
+    },
+    {
+      "code": "PBS",
+      "name": "Deep Water Blue",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2008,
+      "year_to": 2011,
+      "chipUrl": "https://www.paintref.com/chipimages/XFDUSC.png",
+      "chipHash": "a6d317c1d7a65a1b",
+      "ditzler": "918189",
+      "models": [
+        "Caravan",
+        "Dakota",
+        "Dodge",
+        "Dodge Truck",
+        "Grand Caravan",
+        "Journey"
+      ]
+    },
+    {
+      "code": "PCV",
+      "name": "Viper Violet",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2008,
+      "year_to": 2008,
+      "chipUrl": "https://www.paintref.com/chipimages/DWDWF2.png",
+      "chipHash": "b8228de77fae3153",
+      "ditzler": "918035",
+      "models": [
+        "Dodge"
+      ]
+    },
+    {
+      "code": "PDT",
+      "name": "Dark Titanium",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2008,
+      "year_to": 2010,
+      "chipUrl": "https://www.paintref.com/chipimages/2XSCSF.png",
+      "chipHash": "956bbb6bcbcb7c2b",
+      "ditzler": "916826",
+      "models": [
+        "Caravan",
+        "Dodge",
+        "Dodge Truck",
+        "Grand Caravan",
+        "Magnum"
+      ]
+    },
+    {
+      "code": "PK3",
+      "name": "Viper Bright Orange",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2008,
+      "year_to": 2010,
+      "chipUrl": "https://www.paintref.com/chipimages/AADG5D.png",
+      "chipHash": "0838b4a15402c545",
+      "ditzler": "918039",
+      "models": [
+        "Dodge"
+      ]
+    },
+    {
+      "code": "PLC",
+      "name": "Hemi Orange",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2008,
+      "year_to": 2013,
+      "chipUrl": "https://www.paintref.com/chipimages/H5DEG3.png",
+      "chipHash": "9903dd5217923cb5",
+      "ditzler": "914306",
+      "models": [
+        "Dodge"
+      ]
+    },
+    {
+      "code": "PPL",
+      "name": "Melbourne Green",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2008,
+      "year_to": 2011,
+      "chipUrl": "https://www.paintref.com/chipimages/XEFCFD.png",
+      "chipHash": "7db43d5a83406192",
+      "ditzler": "918983",
+      "models": [
+        "Caravan",
+        "Dodge",
+        "Dodge Truck",
+        "Grand Caravan",
+        "Journey"
+      ]
+    },
+    {
+      "code": "432",
+      "name": "Flame Red",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2008,
+      "year_to": 2010,
+      "chipUrl": "https://www.paintref.com/chipimages/TT5E5W.png",
+      "chipHash": "597fe52862cafe20",
+      "ditzler": "917832",
+      "models": [
+        "Dakota",
+        "Dodge",
+        "Dodge Truck",
+        "Sprinter"
+      ]
+    },
+    {
+      "code": "583",
+      "name": "Velvet Red",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2008,
+      "year_to": 2010,
+      "chipUrl": "https://www.paintref.com/chipimages/F5X25W.png",
+      "chipHash": "e07a3aa057a2f7b9",
+      "ditzler": "917831",
+      "models": [
+        "Dodge",
+        "Dodge Truck",
+        "Sprinter"
+      ]
+    },
+    {
+      "code": "759",
+      "name": "Graphite",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2008,
+      "year_to": 2010,
+      "chipUrl": "https://www.paintref.com/chipimages/W3W2WF.png",
+      "chipHash": "6ad997ab6a5c6879",
+      "ditzler": "918776",
+      "models": [
+        "Dodge",
+        "Dodge Truck",
+        "Sprinter"
+      ]
+    },
+    {
+      "code": "PR3",
+      "name": "Tor Red",
+      "make": "Dodge",
+      "model": "Magnum",
+      "year_from": 2008,
+      "year_to": 2012,
+      "chipUrl": "https://www.paintref.com/chipimages/ASG3XT.png",
+      "chipHash": "da9200b24b02e6b1",
+      "ditzler": "77204",
+      "models": [
+        "Dodge",
+        "Magnum"
+      ]
+    },
+    {
+      "code": "PDA",
+      "name": "Light Graystone",
+      "make": "Dodge",
+      "model": "Nitro",
+      "year_from": 2008,
+      "year_to": 2011,
+      "chipUrl": "https://www.paintref.com/chipimages/HFHXT4.png",
+      "chipHash": "5c1f25ad0eb654c5",
+      "ditzler": "911376",
+      "models": [
+        "Dodge",
+        "Dodge Truck",
+        "Nitro"
+      ]
+    },
+    {
+      "code": "BC",
+      "name": "Viper Bright Blue",
+      "make": "Dodge",
+      "model": "Viper",
+      "year_from": 2008,
+      "year_to": 2010,
+      "chipUrl": "https://www.paintref.com/chipimages/XU25T3.png",
+      "chipHash": "a7c4f0613fcd21c9",
+      "ditzler": "918037",
+      "models": [
+        "Viper"
+      ]
+    },
+    {
+      "code": "CV",
+      "name": "Viper Violet",
+      "make": "Dodge",
+      "model": "Viper",
+      "year_from": 2008,
+      "year_to": 2008,
+      "chipUrl": "https://www.paintref.com/chipimages/DWDWF2.png",
+      "chipHash": "b8228de77fae3153",
+      "ditzler": "918035",
+      "models": [
+        "Viper"
+      ]
+    },
+    {
+      "code": "K3",
+      "name": "Viper Bright Orange",
+      "make": "Dodge",
+      "model": "Viper",
+      "year_from": 2008,
+      "year_to": 2010,
+      "chipUrl": "https://www.paintref.com/chipimages/AADG5D.png",
+      "chipHash": "0838b4a15402c545",
+      "ditzler": "918039",
+      "models": [
+        "Viper"
+      ]
+    },
+    {
+      "code": "R3",
+      "name": "Tor Red",
+      "make": "Dodge",
+      "model": "Avenger",
+      "year_from": 2009,
+      "year_to": 2012,
+      "chipUrl": "https://www.paintref.com/chipimages/ASG3XT.png",
+      "chipHash": "da9200b24b02e6b1",
+      "ditzler": "77204",
+      "models": [
+        "Avenger",
+        "Challenger",
+        "Charger",
+        "Magnum",
+        "Nitro"
+      ]
+    },
+    {
+      "code": "QD",
+      "name": "Surf Blue",
+      "make": "Dodge",
+      "model": "Caliber",
+      "year_from": 2009,
+      "year_to": 2009,
+      "chipUrl": "https://www.paintref.com/chipimages/D222TA.png",
+      "chipHash": "a27b3759982e2e26",
+      "ditzler": "914632",
+      "models": [
+        "Caliber"
+      ]
+    },
+    {
+      "code": "V6",
+      "name": "Sunburst Orange",
+      "make": "Dodge",
+      "model": "Caliber",
+      "year_from": 2009,
+      "year_to": 2011,
+      "chipUrl": "https://www.paintref.com/chipimages/H5DEG3.png",
+      "chipHash": "9903dd5217923cb5",
+      "ditzler": "907546",
+      "models": [
+        "Caliber",
+        "Nitro"
+      ]
+    },
+    {
+      "code": "PHF",
+      "name": "Crimson Crystal",
+      "make": "Dodge",
+      "model": "Caravan",
+      "year_from": 2009,
+      "year_to": 2009,
+      "chipUrl": "https://www.paintref.com/chipimages/W3GU5S.png",
+      "chipHash": "a8ae04402423089e",
+      "ditzler": "914629",
+      "models": [
+        "Caravan",
+        "Dodge",
+        "Dodge Truck",
+        "Grand Caravan"
+      ]
+    },
+    {
+      "code": "PSW",
+      "name": "Dark Carbon",
+      "make": "Dodge",
+      "model": "Caravan",
+      "year_from": 2009,
+      "year_to": 2009,
+      "chipUrl": "https://www.paintref.com/chipimages/GGGGGG.png",
+      "chipHash": "1f437854e2d31a87",
+      "ditzler": "",
+      "models": [
+        "Caravan",
+        "Dodge",
+        "Dodge Truck",
+        "Grand Caravan"
+      ]
+    },
+    {
+      "code": "QD",
+      "name": "B5 Blue",
+      "make": "Dodge",
+      "model": "Challenger",
+      "year_from": 2009,
+      "year_to": 2016,
+      "chipUrl": "https://www.paintref.com/chipimages/D222TA.png",
+      "chipHash": "a27b3759982e2e26",
+      "ditzler": "914632",
+      "models": [
+        "Challenger",
+        "Charger"
+      ]
+    },
+    {
+      "code": "PKL",
+      "name": "Austin Tan",
+      "make": "Dodge",
+      "model": "Dakota",
+      "year_from": 2009,
+      "year_to": 2011,
+      "chipUrl": "https://www.paintref.com/chipimages/23SAW4.png",
+      "chipHash": "ac51f571ed716cd9",
+      "ditzler": "919809",
+      "models": [
+        "Dakota",
+        "Dodge",
+        "Dodge Truck"
+      ]
+    },
+    {
+      "code": "PGR",
+      "name": "Anaconda Green",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2009,
+      "year_to": 2009,
+      "chipUrl": "https://www.paintref.com/chipimages/XSD4D4.png",
+      "chipHash": "5f055f53310d13bb",
+      "ditzler": "922658",
+      "models": [
+        "Dodge"
+      ]
+    },
+    {
+      "code": "PXS",
+      "name": "Diamond Black",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2009,
+      "year_to": 2009,
+      "chipUrl": "https://www.paintref.com/chipimages/GGGGGG.png",
+      "chipHash": "1f437854e2d31a87",
+      "ditzler": "922657",
+      "models": [
+        "Dodge"
+      ]
+    },
+    {
+      "code": "040",
+      "name": "Black",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2009,
+      "year_to": 2009,
+      "chipUrl": "https://www.paintref.com/chipimages/GGGGGG.png",
+      "chipHash": "1f437854e2d31a87",
+      "ditzler": "903307",
+      "models": [
+        "Dodge",
+        "Dodge Truck",
+        "Sprinter"
+      ]
+    },
+    {
+      "code": "PQN",
+      "name": "City Teal",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2009,
+      "year_to": 2010,
+      "chipUrl": "https://www.paintref.com/chipimages/XSFCS2.png",
+      "chipHash": "eeebb6745adeebec",
+      "ditzler": "918192",
+      "models": [
+        "Dodge",
+        "Dodge Truck",
+        "Durango"
+      ]
+    },
+    {
+      "code": "BL",
+      "name": "Modern Blue",
+      "make": "Dodge",
+      "model": "Nitro",
+      "year_from": 2009,
+      "year_to": 2010,
+      "chipUrl": "https://www.paintref.com/chipimages/XA53D5.png",
+      "chipHash": "387f502dd5f657e0",
+      "ditzler": "910469",
+      "models": [
+        "Nitro"
+      ]
+    },
+    {
+      "code": "DA",
+      "name": "Light Graystone",
+      "make": "Dodge",
+      "model": "Nitro",
+      "year_from": 2009,
+      "year_to": 2009,
+      "chipUrl": "https://www.paintref.com/chipimages/HFHXT4.png",
+      "chipHash": "5c1f25ad0eb654c5",
+      "ditzler": "911376",
+      "models": [
+        "Nitro"
+      ]
+    },
+    {
+      "code": "GR",
+      "name": "Anaconda Green",
+      "make": "Dodge",
+      "model": "Viper",
+      "year_from": 2009,
+      "year_to": 2009,
+      "chipUrl": "https://www.paintref.com/chipimages/XSD4D4.png",
+      "chipHash": "5f055f53310d13bb",
+      "ditzler": "922658",
+      "models": [
+        "Viper"
+      ]
+    },
+    {
+      "code": "XS",
+      "name": "Diamond Black",
+      "make": "Dodge",
+      "model": "Viper",
+      "year_from": 2009,
+      "year_to": 2009,
+      "chipUrl": "https://www.paintref.com/chipimages/GGGGGG.png",
+      "chipHash": "1f437854e2d31a87",
+      "ditzler": "922657",
+      "models": [
+        "Viper"
+      ]
+    },
+    {
+      "code": "WL",
+      "name": "White Gold",
+      "make": "Dodge",
+      "model": "Avenger",
+      "year_from": 2010,
+      "year_to": 2012,
+      "chipUrl": "https://www.paintref.com/chipimages/HAHWTX.png",
+      "chipHash": "ba0d53932c6e61a6",
+      "ditzler": "921362",
+      "models": [
+        "Avenger",
+        "Charger",
+        "Dodge Truck",
+        "Magnum"
+      ]
+    },
+    {
+      "code": "AV",
+      "name": "Dark Charcoal",
+      "make": "Dodge",
+      "model": "Caliber",
+      "year_from": 2010,
+      "year_to": 2012,
+      "chipUrl": "https://www.paintref.com/chipimages/FFFFFS.png",
+      "chipHash": "c0d742e0d21f0e94",
+      "ditzler": "921364",
+      "models": [
+        "Avenger",
+        "Caliber",
+        "Challenger",
+        "Dodge Truck",
+        "Nitro"
+      ]
+    },
+    {
+      "code": "FG",
+      "name": "Optic Green",
+      "make": "Dodge",
+      "model": "Caliber",
+      "year_from": 2010,
+      "year_to": 2010,
+      "chipUrl": "https://www.paintref.com/chipimages/TUT42T.png",
+      "chipHash": "99c68db859ee88df",
+      "ditzler": "923036",
+      "models": [
+        "Caliber"
+      ]
+    },
+    {
+      "code": "PBV",
+      "name": "Blackberry",
+      "make": "Dodge",
+      "model": "Caravan",
+      "year_from": 2010,
+      "year_to": 2012,
+      "chipUrl": "https://www.paintref.com/chipimages/5WXFDT.png",
+      "chipHash": "38ab460441335e21",
+      "ditzler": "921366",
+      "models": [
+        "Caravan",
+        "Dodge",
+        "Dodge Truck",
+        "Durango",
+        "Grand Caravan",
+        "Journey",
+        "Nitro"
+      ]
+    },
+    {
+      "code": "PRP",
+      "name": "Deep Cherry Red",
+      "make": "Dodge",
+      "model": "Caravan",
+      "year_from": 2010,
+      "year_to": 2018,
+      "chipUrl": "https://www.paintref.com/chipimages/3H5X52.png",
+      "chipHash": "7cdc7d851602b02b",
+      "ditzler": "926989",
+      "models": [
+        "Caravan",
+        "Dodge",
+        "Dodge Truck",
+        "Durango",
+        "Grand Caravan"
+      ]
+    },
+    {
+      "code": "PUV",
+      "name": "Dark Cordovan",
+      "make": "Dodge",
+      "model": "Caravan",
+      "year_from": 2010,
+      "year_to": 2010,
+      "chipUrl": "https://www.paintref.com/chipimages/D2DGD2.png",
+      "chipHash": "445c19bae49fe399",
+      "ditzler": "936931",
+      "models": [
+        "Caravan",
+        "Dodge",
+        "Dodge Truck",
+        "Grand Caravan"
+      ]
+    },
+    {
+      "code": "HP",
+      "name": "Furious Fuchsia",
+      "make": "Dodge",
+      "model": "Challenger",
+      "year_from": 2010,
+      "year_to": 2010,
+      "chipUrl": "https://www.paintref.com/chipimages/E2X4WX.png",
+      "chipHash": "3519df0b20115b43",
+      "ditzler": "2260",
+      "models": [
+        "Challenger"
+      ]
+    },
+    {
+      "code": "YB",
+      "name": "Detonator Yellow",
+      "make": "Dodge",
+      "model": "Challenger",
+      "year_from": 2010,
+      "year_to": 2010,
+      "chipUrl": "https://www.paintref.com/chipimages/AATCG2.png",
+      "chipHash": "035e36e219852438",
+      "ditzler": "912790",
+      "models": [
+        "Challenger"
+      ]
+    },
+    {
+      "code": "P62",
+      "name": "Omaha Orange",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2010,
+      "year_to": 2025,
+      "chipUrl": "https://www.paintref.com/chipimages/4GDHGX.png",
+      "chipHash": "ee9d544e1d21d519",
+      "ditzler": "932205",
+      "models": [
+        "Dodge",
+        "Dodge Truck"
+      ]
+    },
+    {
+      "code": "P64",
+      "name": "Light Cream",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2010,
+      "year_to": 2025,
+      "chipUrl": "https://www.paintref.com/chipimages/ASHHE5.png",
+      "chipHash": "5caa6950687f8c10",
+      "ditzler": "931311",
+      "models": [
+        "Dodge",
+        "Dodge Truck"
+      ]
+    },
+    {
+      "code": "PAV",
+      "name": "Dark Charcoal",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2010,
+      "year_to": 2012,
+      "chipUrl": "https://www.paintref.com/chipimages/FFFFFS.png",
+      "chipHash": "c0d742e0d21f0e94",
+      "ditzler": "921364",
+      "models": [
+        "Caravan",
+        "Dodge",
+        "Dodge Truck",
+        "Durango",
+        "Grand Caravan",
+        "Nitro"
+      ]
+    },
+    {
+      "code": "PFG",
+      "name": "Optic Green",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2010,
+      "year_to": 2010,
+      "chipUrl": "https://www.paintref.com/chipimages/TUT42T.png",
+      "chipHash": "99c68db859ee88df",
+      "ditzler": "923036",
+      "models": [
+        "Dodge"
+      ]
+    },
+    {
+      "code": "PGN",
+      "name": "Natural Green",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2010,
+      "year_to": 2011,
+      "chipUrl": "https://www.paintref.com/chipimages/DSDHX5.png",
+      "chipHash": "04c1ad7575ee91f2",
+      "ditzler": "923037",
+      "models": [
+        "Dodge",
+        "Dodge Truck",
+        "Durango"
+      ]
+    },
+    {
+      "code": "PGS",
+      "name": "Snakeskin Green",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2010,
+      "year_to": 2010,
+      "chipUrl": "https://www.paintref.com/chipimages/E3A3D4.png",
+      "chipHash": "aae2272d88e1d411",
+      "ditzler": "918038",
+      "models": [
+        "Dodge"
+      ]
+    },
+    {
+      "code": "PHP",
+      "name": "Furious Fuchsia",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2010,
+      "year_to": 2010,
+      "chipUrl": "https://www.paintref.com/chipimages/E2X4WX.png",
+      "chipHash": "3519df0b20115b43",
+      "ditzler": "2260",
+      "models": [
+        "Dodge"
+      ]
+    },
+    {
+      "code": "PQD",
+      "name": "B5 Blue",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2010,
+      "year_to": 2026,
+      "chipUrl": "https://www.paintref.com/chipimages/D222TA.png",
+      "chipHash": "a27b3759982e2e26",
+      "ditzler": "914632",
+      "models": [
+        "Challenger",
+        "Charger",
+        "Dodge",
+        "Dodge Truck",
+        "Durango"
+      ]
+    },
+    {
+      "code": "PRC",
+      "name": "Caliente Red",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2010,
+      "year_to": 2010,
+      "chipUrl": "https://www.paintref.com/chipimages/EXGUXC.png",
+      "chipHash": "ba3ffc81f7f63036",
+      "ditzler": "",
+      "models": [
+        "Dodge"
+      ]
+    },
+    {
+      "code": "PWL",
+      "name": "White Gold",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2010,
+      "year_to": 2012,
+      "chipUrl": "https://www.paintref.com/chipimages/HAHWTX.png",
+      "chipHash": "ba0d53932c6e61a6",
+      "ditzler": "921362",
+      "models": [
+        "Dakota",
+        "Dodge",
+        "Dodge Truck",
+        "Durango",
+        "Grand Caravan",
+        "Journey"
+      ]
+    },
+    {
+      "code": "PTW",
+      "name": "Rugged Brown",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2010,
+      "year_to": 2020,
+      "chipUrl": "https://www.paintref.com/chipimages/DS5F5C.png",
+      "chipHash": "27ed2b61ad8e7097",
+      "ditzler": "918191",
+      "models": [
+        "Dodge",
+        "Dodge Truck",
+        "Durango"
+      ]
+    },
+    {
+      "code": "PVG",
+      "name": "Mango Tango",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2010,
+      "year_to": 2012,
+      "chipUrl": "https://www.paintref.com/chipimages/TEWG5H.png",
+      "chipHash": "da6d7a0565cc9ed7",
+      "ditzler": "921365",
+      "models": [
+        "Caravan",
+        "Dodge",
+        "Dodge Truck",
+        "Grand Caravan",
+        "Journey",
+        "Nitro"
+      ]
+    },
+    {
+      "code": "PQD",
+      "name": "Blue",
+      "make": "Dodge",
+      "model": "Dodge Truck",
+      "year_from": 2010,
+      "year_to": 2010,
+      "chipUrl": "https://www.paintref.com/chipimages/D222TA.png",
+      "chipHash": "a27b3759982e2e26",
+      "ditzler": "914632",
+      "models": [
+        "Dodge Truck",
+        "Journey"
+      ]
+    },
+    {
+      "code": "GN",
+      "name": "Natural Green",
+      "make": "Dodge",
+      "model": "Nitro",
+      "year_from": 2010,
+      "year_to": 2010,
+      "chipUrl": "https://www.paintref.com/chipimages/DSDHX5.png",
+      "chipHash": "04c1ad7575ee91f2",
+      "ditzler": "923037",
+      "models": [
+        "Nitro"
+      ]
+    },
+    {
+      "code": "RC",
+      "name": "Caliente Red",
+      "make": "Dodge",
+      "model": "Nitro",
+      "year_from": 2010,
+      "year_to": 2010,
+      "chipUrl": "https://www.paintref.com/chipimages/EXGUXC.png",
+      "chipHash": "ba3ffc81f7f63036",
+      "ditzler": "",
+      "models": [
+        "Nitro"
+      ]
+    },
+    {
+      "code": "GS",
+      "name": "Snakeskin Green",
+      "make": "Dodge",
+      "model": "Viper",
+      "year_from": 2010,
+      "year_to": 2010,
+      "chipUrl": "https://www.paintref.com/chipimages/E3A3D4.png",
+      "chipHash": "aae2272d88e1d411",
+      "ditzler": "918038",
+      "models": [
+        "Viper"
+      ]
+    },
+    {
+      "code": "VG",
+      "name": "Toxic Orange",
+      "make": "Dodge",
+      "model": "Viper",
+      "year_from": 2010,
+      "year_to": 2011,
+      "chipUrl": "https://www.paintref.com/chipimages/TEWG5H.png",
+      "chipHash": "da6d7a0565cc9ed7",
+      "ditzler": "921365",
+      "models": [
+        "Challenger",
+        "Charger",
+        "Viper"
+      ]
+    },
+    {
+      "code": "DM",
+      "name": "Mineral Gray",
+      "make": "Dodge",
+      "model": "Avenger",
+      "year_from": 2011,
+      "year_to": 2012,
+      "chipUrl": "https://www.paintref.com/chipimages/W4SGSF.png",
+      "chipHash": "fc6714034781f4eb",
+      "ditzler": "6217",
+      "models": [
+        "Avenger",
+        "Caliber",
+        "Dodge Truck"
+      ]
+    },
+    {
+      "code": "RM",
+      "name": "Redline",
+      "make": "Dodge",
+      "model": "Avenger",
+      "year_from": 2011,
+      "year_to": 2013,
+      "chipUrl": "https://www.paintref.com/chipimages/TSGGXD.png",
+      "chipHash": "ee983916fc0c8c9e",
+      "ditzler": "929534",
+      "models": [
+        "Avenger",
+        "Caliber",
+        "Dart",
+        "Dodge Truck"
+      ]
+    },
+    {
+      "code": "VG",
+      "name": "Mango Tango",
+      "make": "Dodge",
+      "model": "Avenger",
+      "year_from": 2011,
+      "year_to": 2012,
+      "chipUrl": "https://www.paintref.com/chipimages/TEWG5H.png",
+      "chipHash": "da6d7a0565cc9ed7",
+      "ditzler": "921365",
+      "models": [
+        "Avenger",
+        "Caliber"
+      ]
+    },
+    {
+      "code": "W7",
+      "name": "Bright White",
+      "make": "Dodge",
+      "model": "Avenger",
+      "year_from": 2011,
+      "year_to": 2016,
+      "chipUrl": "https://www.paintref.com/chipimages/UEU4UH.png",
+      "chipHash": "dd6b563445aa8989",
+      "ditzler": "4037",
+      "models": [
+        "Avenger",
+        "Caliber",
+        "Challenger",
+        "Charger",
+        "Dart",
+        "Dodge Truck"
+      ]
+    },
+    {
+      "code": "X8",
+      "name": "Black",
+      "make": "Dodge",
+      "model": "Avenger",
+      "year_from": 2011,
+      "year_to": 2013,
+      "chipUrl": "https://www.paintref.com/chipimages/GGGGGG.png",
+      "chipHash": "1f437854e2d31a87",
+      "ditzler": "903307",
+      "models": [
+        "Avenger",
+        "Caliber",
+        "Dodge Truck"
+      ]
+    },
+    {
+      "code": "BV",
+      "name": "Blackberry",
+      "make": "Dodge",
+      "model": "Caliber",
+      "year_from": 2011,
+      "year_to": 2012,
+      "chipUrl": "https://www.paintref.com/chipimages/5WXFDT.png",
+      "chipHash": "38ab460441335e21",
+      "ditzler": "921366",
+      "models": [
+        "Avenger",
+        "Caliber",
+        "Challenger",
+        "Charger"
+      ]
+    },
+    {
+      "code": "EL",
+      "name": "Inferno Red",
+      "make": "Dodge",
+      "model": "Caliber",
+      "year_from": 2011,
+      "year_to": 2011,
+      "chipUrl": "https://www.paintref.com/chipimages/TDXT5X.png",
+      "chipHash": "69726575b77a19c7",
+      "ditzler": "5470",
+      "models": [
+        "Caliber"
+      ]
+    },
+    {
+      "code": "PRP",
+      "name": "Deep Cherry",
+      "make": "Dodge",
+      "model": "Caravan",
+      "year_from": 2011,
+      "year_to": 2016,
+      "chipUrl": "https://www.paintref.com/chipimages/3H5X52.png",
+      "chipHash": "7cdc7d851602b02b",
+      "ditzler": "926989",
+      "models": [
+        "Caravan",
+        "Dakota",
+        "Dodge",
+        "Dodge Truck",
+        "Grand Caravan",
+        "Journey"
+      ]
+    },
+    {
+      "code": "DM",
+      "name": "Tungsten",
+      "make": "Dodge",
+      "model": "Challenger",
+      "year_from": 2011,
+      "year_to": 2013,
+      "chipUrl": "https://www.paintref.com/chipimages/W4SGSF.png",
+      "chipHash": "fc6714034781f4eb",
+      "ditzler": "6217",
+      "models": [
+        "Avenger",
+        "Challenger",
+        "Charger",
+        "Dart"
+      ]
+    },
+    {
+      "code": "GE",
+      "name": "Green with Envy",
+      "make": "Dodge",
+      "model": "Challenger",
+      "year_from": 2011,
+      "year_to": 2011,
+      "chipUrl": "https://www.paintref.com/chipimages/2DT3XT.png",
+      "chipHash": "116e2215e8bd6ead",
+      "ditzler": "930558",
+      "models": [
+        "Challenger"
+      ]
+    },
+    {
+      "code": "RY",
+      "name": "Redline",
+      "make": "Dodge",
+      "model": "Challenger",
+      "year_from": 2011,
+      "year_to": 2013,
+      "chipUrl": "https://www.paintref.com/chipimages/HF5F5C.png",
+      "chipHash": "f0fe7972243b544c",
+      "ditzler": "929456",
+      "models": [
+        "Challenger",
+        "Charger"
+      ]
+    },
+    {
+      "code": "SC",
+      "name": "Billet Silver",
+      "make": "Dodge",
+      "model": "Challenger",
+      "year_from": 2011,
+      "year_to": 2016,
+      "chipUrl": "https://www.paintref.com/chipimages/TETET4.png",
+      "chipHash": "03c66faf2a3699eb",
+      "ditzler": "930559",
+      "models": [
+        "Avenger",
+        "Challenger",
+        "Charger",
+        "Dart",
+        "Viper"
+      ]
+    },
+    {
+      "code": "RY",
+      "name": "Redline 3",
+      "make": "Dodge",
+      "model": "Charger",
+      "year_from": 2011,
+      "year_to": 2011,
+      "chipUrl": "https://www.paintref.com/chipimages/HF5F5C.png",
+      "chipHash": "f0fe7972243b544c",
+      "ditzler": "929456",
+      "models": [
+        "Charger"
+      ]
+    },
+    {
+      "code": "PDM",
+      "name": "Tungsten",
+      "make": "Dodge",
+      "model": "Dakota",
+      "year_from": 2011,
+      "year_to": 2013,
+      "chipUrl": "https://www.paintref.com/chipimages/W4SGSF.png",
+      "chipHash": "fc6714034781f4eb",
+      "ditzler": "6217",
+      "models": [
+        "Dakota",
+        "Dodge",
+        "Dodge Truck",
+        "Durango",
+        "Nitro"
+      ]
+    },
+    {
+      "code": "PGT",
+      "name": "Hunter Green",
+      "make": "Dodge",
+      "model": "Dakota",
+      "year_from": 2011,
+      "year_to": 2011,
+      "chipUrl": "https://www.paintref.com/chipimages/5GDW5H.png",
+      "chipHash": "68dd930d49c6d68b",
+      "ditzler": "926990",
+      "models": [
+        "Dakota",
+        "Dodge",
+        "Dodge Truck"
+      ]
+    },
+    {
+      "code": "PRM",
+      "name": "Redline",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2011,
+      "year_to": 2023,
+      "chipUrl": "https://www.paintref.com/chipimages/TSGGXD.png",
+      "chipHash": "ee983916fc0c8c9e",
+      "ditzler": "929534",
+      "models": [
+        "Dodge",
+        "Dodge Truck",
+        "Durango",
+        "Grand Caravan",
+        "Journey",
+        "Nitro"
+      ]
+    },
+    {
+      "code": "PRY",
+      "name": "Redline",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2011,
+      "year_to": 2018,
+      "chipUrl": "https://www.paintref.com/chipimages/HF5F5C.png",
+      "chipHash": "f0fe7972243b544c",
+      "ditzler": "929456",
+      "models": [
+        "Challenger",
+        "Charger",
+        "Dodge",
+        "Dodge Truck",
+        "Durango"
+      ]
+    },
+    {
+      "code": "PSC",
+      "name": "Billet Silver",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2011,
+      "year_to": 2025,
+      "chipUrl": "https://www.paintref.com/chipimages/TETET4.png",
+      "chipHash": "03c66faf2a3699eb",
+      "ditzler": "930559",
+      "models": [
+        "Charger",
+        "Dodge",
+        "Dodge Truck",
+        "Durango",
+        "Grand Caravan",
+        "Journey",
+        "Viper"
+      ]
+    },
+    {
+      "code": "PGE",
+      "name": "Green with Envy",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2011,
+      "year_to": 2011,
+      "chipUrl": "https://www.paintref.com/chipimages/2DT3XT.png",
+      "chipHash": "116e2215e8bd6ead",
+      "ditzler": "930558",
+      "models": [
+        "Dodge"
+      ]
+    },
+    {
+      "code": "PGX",
+      "name": "Sagebrush",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2011,
+      "year_to": 2012,
+      "chipUrl": "https://www.paintref.com/chipimages/F3F35G.png",
+      "chipHash": "fa417684fa0c1b9a",
+      "ditzler": "930077",
+      "models": [
+        "Dodge",
+        "Dodge Truck"
+      ]
+    },
+    {
+      "code": "PUS",
+      "name": "Blazing Saddle",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2011,
+      "year_to": 2011,
+      "chipUrl": "https://www.paintref.com/chipimages/CA2CFF.png",
+      "chipHash": "fcb105aa97945028",
+      "ditzler": "929454",
+      "models": [
+        "Dodge",
+        "Dodge Truck"
+      ]
+    },
+    {
+      "code": "PW3",
+      "name": "White",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2011,
+      "year_to": 2016,
+      "chipUrl": "https://www.paintref.com/chipimages/4U424C.png",
+      "chipHash": "fb90a0398caa9d9e",
+      "ditzler": "930536",
+      "models": [
+        "Dodge",
+        "Dodge Truck",
+        "Journey"
+      ]
+    },
+    {
+      "code": "PY2",
+      "name": "Light Ivory Cream",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2011,
+      "year_to": 2013,
+      "chipUrl": "https://www.paintref.com/chipimages/444FHS.png",
+      "chipHash": "61d5a32553fa8598",
+      "ditzler": "3838",
+      "models": [
+        "Dodge",
+        "Dodge Truck"
+      ]
+    },
+    {
+      "code": "BU",
+      "name": "True Blue",
+      "make": "Dodge",
+      "model": "Avenger",
+      "year_from": 2012,
+      "year_to": 2016,
+      "chipUrl": "https://www.paintref.com/chipimages/5H52F4.png",
+      "chipHash": "a3bb5e783888465b",
+      "ditzler": "931389",
+      "models": [
+        "Avenger",
+        "Caliber",
+        "Dart",
+        "Dodge Truck",
+        "Viper"
+      ]
+    },
+    {
+      "code": "CL",
+      "name": "Blue Streak",
+      "make": "Dodge",
+      "model": "Avenger",
+      "year_from": 2012,
+      "year_to": 2014,
+      "chipUrl": "https://www.paintref.com/chipimages/XFDU2G.png",
+      "chipHash": "7e9e8541e593939b",
+      "ditzler": "931299",
+      "models": [
+        "Avenger",
+        "Caliber",
+        "Challenger",
+        "Charger",
+        "Dart"
+      ]
+    },
+    {
+      "code": "LB",
+      "name": "Copperhead",
+      "make": "Dodge",
+      "model": "Avenger",
+      "year_from": 2012,
+      "year_to": 2013,
+      "chipUrl": "https://www.paintref.com/chipimages/ESDWG2.png",
+      "chipHash": "a31647264edfa178",
+      "ditzler": "931616",
+      "models": [
+        "Avenger",
+        "Caliber",
+        "Charger",
+        "Dodge Truck"
+      ]
+    },
+    {
+      "code": "FE",
+      "name": "Citrus Peal",
+      "make": "Dodge",
+      "model": "Caliber",
+      "year_from": 2012,
+      "year_to": 2013,
+      "chipUrl": "https://www.paintref.com/chipimages/A2AUFW.png",
+      "chipHash": "47f2388322afc375",
+      "ditzler": "931573",
+      "models": [
+        "Caliber",
+        "Dart"
+      ]
+    },
+    {
+      "code": "R1",
+      "name": "Brilliant Red",
+      "make": "Dodge",
+      "model": "Caliber",
+      "year_from": 2012,
+      "year_to": 2012,
+      "chipUrl": "https://www.paintref.com/chipimages/3DG5GS.png",
+      "chipHash": "c20abe6c7fe18b12",
+      "ditzler": "931617",
+      "models": [
+        "Caliber",
+        "Dodge Truck"
+      ]
+    },
+    {
+      "code": "YC",
+      "name": "Bright Amber",
+      "make": "Dodge",
+      "model": "Caliber",
+      "year_from": 2012,
+      "year_to": 2012,
+      "chipUrl": "https://www.paintref.com/chipimages/UCHGFH.png",
+      "chipHash": "f94d2022b76cb702",
+      "ditzler": "927563",
+      "models": [
+        "Caliber"
+      ]
+    },
+    {
+      "code": "L4",
+      "name": "Header Orange",
+      "make": "Dodge",
+      "model": "Challenger",
+      "year_from": 2012,
+      "year_to": 2014,
+      "chipUrl": "https://www.paintref.com/chipimages/A4255S.png",
+      "chipHash": "216f1e6337b8a911",
+      "ditzler": "931301",
+      "models": [
+        "Challenger",
+        "Charger",
+        "Dart"
+      ]
+    },
+    {
+      "code": "YV",
+      "name": "Stinger Yellow",
+      "make": "Dodge",
+      "model": "Challenger",
+      "year_from": 2012,
+      "year_to": 2013,
+      "chipUrl": "https://www.paintref.com/chipimages/44HDG2.png",
+      "chipHash": "8fc5e398611d2cf5",
+      "ditzler": "931309",
+      "models": [
+        "Challenger",
+        "Charger"
+      ]
+    },
+    {
+      "code": "X8",
+      "name": "Pitch Black",
+      "make": "Dodge",
+      "model": "Charger",
+      "year_from": 2012,
+      "year_to": 2016,
+      "chipUrl": "https://www.paintref.com/chipimages/GGGGGG.png",
+      "chipHash": "1f437854e2d31a87",
+      "ditzler": "9700",
+      "models": [
+        "Avenger",
+        "Challenger",
+        "Charger",
+        "Dart"
+      ]
+    },
+    {
+      "code": "PAJ",
+      "name": "Storm Gray",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2012,
+      "year_to": 2017,
+      "chipUrl": "https://www.paintref.com/chipimages/WXWCSS.png",
+      "chipHash": "cd98b2b656983721",
+      "ditzler": "931614",
+      "models": [
+        "Dodge",
+        "Dodge Truck",
+        "Journey"
+      ]
+    },
+    {
+      "code": "PAR",
+      "name": "Maximum Steel",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2012,
+      "year_to": 2021,
+      "chipUrl": "https://www.paintref.com/chipimages/DGDEW5.png",
+      "chipHash": "31ddd39c91b0a917",
+      "ditzler": "931298",
+      "models": [
+        "Challenger",
+        "Charger",
+        "Dodge",
+        "Dodge Truck",
+        "Durango",
+        "Grand Caravan"
+      ]
+    },
+    {
+      "code": "PBP",
+      "name": "Blue",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2012,
+      "year_to": 2012,
+      "chipUrl": "https://www.paintref.com/chipimages/GUXGSH.png",
+      "chipHash": "008316590dde3c5d",
+      "ditzler": "931615",
+      "models": [
+        "Dodge",
+        "Journey"
+      ]
+    },
+    {
+      "code": "PBU",
+      "name": "True Blue",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2012,
+      "year_to": 2018,
+      "chipUrl": "https://www.paintref.com/chipimages/5H52F4.png",
+      "chipHash": "a3bb5e783888465b",
+      "ditzler": "931389",
+      "models": [
+        "Dodge",
+        "Dodge Truck",
+        "Durango",
+        "Grand Caravan"
+      ]
+    },
+    {
+      "code": "PCL",
+      "name": "Blue Streak",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2012,
+      "year_to": 2020,
+      "chipUrl": "https://www.paintref.com/chipimages/XFDU2G.png",
+      "chipHash": "7e9e8541e593939b",
+      "ditzler": "931299",
+      "models": [
+        "Dodge",
+        "Dodge Truck",
+        "Grand Caravan",
+        "Journey"
+      ]
+    },
+    {
+      "code": "PFE",
+      "name": "Citrus Peal",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2012,
+      "year_to": 2013,
+      "chipUrl": "https://www.paintref.com/chipimages/A2AUFW.png",
+      "chipHash": "47f2388322afc375",
+      "ditzler": "931573",
+      "models": [
+        "Dodge"
+      ]
+    },
+    {
+      "code": "PFS",
+      "name": "Sandstone",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2012,
+      "year_to": 2025,
+      "chipUrl": "https://www.paintref.com/chipimages/AEH3TF.png",
+      "chipHash": "0ce4cd1f29785bfc",
+      "ditzler": "931516",
+      "models": [
+        "Dodge",
+        "Dodge Truck",
+        "Durango",
+        "Grand Caravan"
+      ]
+    },
+    {
+      "code": "PL4",
+      "name": "Header Orange",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2012,
+      "year_to": 2014,
+      "chipUrl": "https://www.paintref.com/chipimages/A4255S.png",
+      "chipHash": "216f1e6337b8a911",
+      "ditzler": "931301",
+      "models": [
+        "Dodge"
+      ]
+    },
+    {
+      "code": "PLB",
+      "name": "Copperhead",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2012,
+      "year_to": 2017,
+      "chipUrl": "https://www.paintref.com/chipimages/ESDWG2.png",
+      "chipHash": "a31647264edfa178",
+      "ditzler": "931616",
+      "models": [
+        "Dodge",
+        "Dodge Truck",
+        "Grand Caravan",
+        "Journey"
+      ]
+    },
+    {
+      "code": "PR1",
+      "name": "Brilliant Red",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2012,
+      "year_to": 2012,
+      "chipUrl": "https://www.paintref.com/chipimages/3DG5GS.png",
+      "chipHash": "c20abe6c7fe18b12",
+      "ditzler": "931617",
+      "models": [
+        "Dodge",
+        "Journey"
+      ]
+    },
+    {
+      "code": "PUS",
+      "name": "Saddle Brown",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2012,
+      "year_to": 2012,
+      "chipUrl": "https://www.paintref.com/chipimages/CA2CFF.png",
+      "chipHash": "fcb105aa97945028",
+      "ditzler": "929454",
+      "models": [
+        "Dodge"
+      ]
+    },
+    {
+      "code": "PX8",
+      "name": "Pitch Black",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2012,
+      "year_to": 2024,
+      "chipUrl": "https://www.paintref.com/chipimages/GGGGGG.png",
+      "chipHash": "1f437854e2d31a87",
+      "ditzler": "9700",
+      "models": [
+        "Challenger",
+        "Charger",
+        "Dodge",
+        "Dodge Truck",
+        "Journey"
+      ]
+    },
+    {
+      "code": "PXR",
+      "name": "Black",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2012,
+      "year_to": 2012,
+      "chipUrl": "https://www.paintref.com/chipimages/GGGGGG.png",
+      "chipHash": "1f437854e2d31a87",
+      "ditzler": "5931",
+      "models": [
+        "Dodge"
+      ]
+    },
+    {
+      "code": "PYC",
+      "name": "Bright Amber",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2012,
+      "year_to": 2012,
+      "chipUrl": "https://www.paintref.com/chipimages/UCHGFH.png",
+      "chipHash": "f94d2022b76cb702",
+      "ditzler": "927563",
+      "models": [
+        "Dodge"
+      ]
+    },
+    {
+      "code": "PYV",
+      "name": "Stinger Yellow",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2012,
+      "year_to": 2022,
+      "chipUrl": "https://www.paintref.com/chipimages/44HDG2.png",
+      "chipHash": "8fc5e398611d2cf5",
+      "ditzler": "931309",
+      "models": [
+        "Challenger",
+        "Charger",
+        "Dodge"
+      ]
+    },
+    {
+      "code": "AJ",
+      "name": "Storm Gray",
+      "make": "Dodge",
+      "model": "Dodge Truck",
+      "year_from": 2012,
+      "year_to": 2012,
+      "chipUrl": "https://www.paintref.com/chipimages/WXWCSS.png",
+      "chipHash": "cd98b2b656983721",
+      "ditzler": "931614",
+      "models": [
+        "Dodge Truck"
+      ]
+    },
+    {
+      "code": "AR",
+      "name": "Maximum Steel",
+      "make": "Dodge",
+      "model": "Dodge Truck",
+      "year_from": 2012,
+      "year_to": 2016,
+      "chipUrl": "https://www.paintref.com/chipimages/DGDEW5.png",
+      "chipHash": "31ddd39c91b0a917",
+      "ditzler": "931298",
+      "models": [
+        "Challenger",
+        "Dart",
+        "Dodge Truck"
+      ]
+    },
+    {
+      "code": "BP",
+      "name": "Blue",
+      "make": "Dodge",
+      "model": "Dodge Truck",
+      "year_from": 2012,
+      "year_to": 2012,
+      "chipUrl": "https://www.paintref.com/chipimages/GUXGSH.png",
+      "chipHash": "008316590dde3c5d",
+      "ditzler": "931615",
+      "models": [
+        "Dodge Truck"
+      ]
+    },
+    {
+      "code": "FS",
+      "name": "Sandstone",
+      "make": "Dodge",
+      "model": "Dodge Truck",
+      "year_from": 2012,
+      "year_to": 2012,
+      "chipUrl": "https://www.paintref.com/chipimages/AEH3TF.png",
+      "chipHash": "0ce4cd1f29785bfc",
+      "ditzler": "931516",
+      "models": [
+        "Dodge Truck"
+      ]
+    },
+    {
+      "code": "GX",
+      "name": "Sagebrush",
+      "make": "Dodge",
+      "model": "Dodge Truck",
+      "year_from": 2012,
+      "year_to": 2012,
+      "chipUrl": "https://www.paintref.com/chipimages/F3F35G.png",
+      "chipHash": "fa417684fa0c1b9a",
+      "ditzler": "930077",
+      "models": [
+        "Dodge Truck"
+      ]
+    },
+    {
+      "code": "R4",
+      "name": "Flame Red",
+      "make": "Dodge",
+      "model": "Dodge Truck",
+      "year_from": 2012,
+      "year_to": 2012,
+      "chipUrl": "https://www.paintref.com/chipimages/TT5E5W.png",
+      "chipHash": "597fe52862cafe20",
+      "ditzler": "4679",
+      "models": [
+        "Dodge Truck"
+      ]
+    },
+    {
+      "code": "R8",
+      "name": "Deep Molten Red",
+      "make": "Dodge",
+      "model": "Dodge Truck",
+      "year_from": 2012,
+      "year_to": 2012,
+      "chipUrl": "https://www.paintref.com/chipimages/DHGT5W.png",
+      "chipHash": "9718db16a26eab7b",
+      "ditzler": "931736",
+      "models": [
+        "Dodge Truck"
+      ]
+    },
+    {
+      "code": "RP",
+      "name": "Deep Cherry",
+      "make": "Dodge",
+      "model": "Dodge Truck",
+      "year_from": 2012,
+      "year_to": 2012,
+      "chipUrl": "https://www.paintref.com/chipimages/3H5X52.png",
+      "chipHash": "7cdc7d851602b02b",
+      "ditzler": "926989",
+      "models": [
+        "Dodge Truck"
+      ]
+    },
+    {
+      "code": "TW",
+      "name": "Rugged Brown",
+      "make": "Dodge",
+      "model": "Dodge Truck",
+      "year_from": 2012,
+      "year_to": 2012,
+      "chipUrl": "https://www.paintref.com/chipimages/DS5F5C.png",
+      "chipHash": "27ed2b61ad8e7097",
+      "ditzler": "918191",
+      "models": [
+        "Dodge Truck"
+      ]
+    },
+    {
+      "code": "US",
+      "name": "Saddle Brown",
+      "make": "Dodge",
+      "model": "Dodge Truck",
+      "year_from": 2012,
+      "year_to": 2012,
+      "chipUrl": "https://www.paintref.com/chipimages/CA2CFF.png",
+      "chipHash": "fcb105aa97945028",
+      "ditzler": "929454",
+      "models": [
+        "Dodge Truck"
+      ]
+    },
+    {
+      "code": "W3",
+      "name": "White",
+      "make": "Dodge",
+      "model": "Dodge Truck",
+      "year_from": 2012,
+      "year_to": 2012,
+      "chipUrl": "https://www.paintref.com/chipimages/4U424C.png",
+      "chipHash": "fb90a0398caa9d9e",
+      "ditzler": "930536",
+      "models": [
+        "Dodge Truck"
+      ]
+    },
+    {
+      "code": "PMP",
+      "name": "Ox Blood",
+      "make": "Dodge",
+      "model": "Dodge Truck",
+      "year_from": 2012,
+      "year_to": 2012,
+      "chipUrl": "https://www.paintref.com/chipimages/FCXAXT.png",
+      "chipHash": "391c590c140b5321",
+      "ditzler": "",
+      "models": [
+        "Dodge Truck",
+        "Durango"
+      ]
+    },
+    {
+      "code": "P06",
+      "name": "Hills Green",
+      "make": "Dodge",
+      "model": "Dodge Truck",
+      "year_from": 2012,
+      "year_to": 2025,
+      "chipUrl": "https://www.paintref.com/chipimages/SFTFX3.png",
+      "chipHash": "63e16311b8714471",
+      "ditzler": "935373",
+      "models": [
+        "Dodge",
+        "Dodge Truck"
+      ]
+    },
+    {
+      "code": "P12",
+      "name": "Bright Red",
+      "make": "Dodge",
+      "model": "Dodge Truck",
+      "year_from": 2012,
+      "year_to": 2025,
+      "chipUrl": "https://www.paintref.com/chipimages/H4XU5W.png",
+      "chipHash": "c64428e5ece01fe5",
+      "ditzler": "917893",
+      "models": [
+        "Dodge",
+        "Dodge Truck"
+      ]
+    },
+    {
+      "code": "P12",
+      "name": "Case Construction Yellow",
+      "make": "Dodge",
+      "model": "Dodge Truck",
+      "year_from": 2012,
+      "year_to": 2012,
+      "chipUrl": "https://www.paintref.com/chipimages/AUE2DX.png",
+      "chipHash": "2e0c089103de384e",
+      "ditzler": "",
+      "models": [
+        "Dodge Truck"
+      ]
+    },
+    {
+      "code": "P61",
+      "name": "Case IH Red",
+      "make": "Dodge",
+      "model": "Dodge Truck",
+      "year_from": 2012,
+      "year_to": 2024,
+      "chipUrl": "https://www.paintref.com/chipimages/CDX2XU.png",
+      "chipHash": "c9fa3762bf0cdf88",
+      "ditzler": "932993",
+      "models": [
+        "Dodge",
+        "Dodge Truck"
+      ]
+    },
+    {
+      "code": "P72",
+      "name": "New Holland Blue",
+      "make": "Dodge",
+      "model": "Dodge Truck",
+      "year_from": 2012,
+      "year_to": 2012,
+      "chipUrl": "https://www.paintref.com/chipimages/D5FHEF.png",
+      "chipHash": "ffc3e945618d8622",
+      "ditzler": "932760",
+      "models": [
+        "Dodge Truck"
+      ]
+    },
+    {
+      "code": "P74",
+      "name": "National Fire Safety Lime Yellow",
+      "make": "Dodge",
+      "model": "Dodge Truck",
+      "year_from": 2012,
+      "year_to": 2012,
+      "chipUrl": "https://www.paintref.com/chipimages/A44XFG.png",
+      "chipHash": "45c7f95a2ee44f42",
+      "ditzler": "939561",
+      "models": [
+        "Dodge Truck"
+      ]
+    },
+    {
+      "code": "P81",
+      "name": "Case Power Tan",
+      "make": "Dodge",
+      "model": "Dodge Truck",
+      "year_from": 2012,
+      "year_to": 2012,
+      "chipUrl": "https://www.paintref.com/chipimages/H3TUCX.png",
+      "chipHash": "720fc4e67b857cd4",
+      "ditzler": "932761",
+      "models": [
+        "Dodge Truck"
+      ]
+    },
+    {
+      "code": "P81",
+      "name": "Dark Brown",
+      "make": "Dodge",
+      "model": "Dodge Truck",
+      "year_from": 2012,
+      "year_to": 2012,
+      "chipUrl": "https://www.paintref.com/chipimages/DWD552.png",
+      "chipHash": "bc695d4c23154cbd",
+      "ditzler": "",
+      "models": [
+        "Dodge Truck"
+      ]
+    },
+    {
+      "code": "PGC",
+      "name": "Light Green",
+      "make": "Dodge",
+      "model": "Dodge Truck",
+      "year_from": 2012,
+      "year_to": 2025,
+      "chipUrl": "https://www.paintref.com/chipimages/3SH5CH.png",
+      "chipHash": "87058f44c1601e52",
+      "ditzler": "932360",
+      "models": [
+        "Dodge",
+        "Dodge Truck"
+      ]
+    },
+    {
+      "code": "PJA",
+      "name": "Tequila Sunrise",
+      "make": "Dodge",
+      "model": "Dodge Truck",
+      "year_from": 2012,
+      "year_to": 2012,
+      "chipUrl": "https://www.paintref.com/chipimages/TGSGXW.png",
+      "chipHash": "3aec90dbc2c18636",
+      "ditzler": "931571",
+      "models": [
+        "Dodge Truck"
+      ]
+    },
+    {
+      "code": "PL1",
+      "name": "School Bus Yellow",
+      "make": "Dodge",
+      "model": "Dodge Truck",
+      "year_from": 2012,
+      "year_to": 2025,
+      "chipUrl": "https://www.paintref.com/chipimages/UDESDG.png",
+      "chipHash": "f300c0aaa77a964f",
+      "ditzler": "932204",
+      "models": [
+        "Dodge",
+        "Dodge Truck"
+      ]
+    },
+    {
+      "code": "DB",
+      "name": "Crystal Blue",
+      "make": "Dodge",
+      "model": "Avenger",
+      "year_from": 2013,
+      "year_to": 2013,
+      "chipUrl": "https://www.paintref.com/chipimages/EWTGHE.png",
+      "chipHash": "8b4b8f89d06c0801",
+      "ditzler": "931131",
+      "models": [
+        "Avenger"
+      ]
+    },
+    {
+      "code": "AU",
+      "name": "Granite Crystal",
+      "make": "Dodge",
+      "model": "Challenger",
+      "year_from": 2013,
+      "year_to": 2016,
+      "chipUrl": "https://www.paintref.com/chipimages/SGSGSG.png",
+      "chipHash": "a9553bbd5bdf32d7",
+      "ditzler": "933729",
+      "models": [
+        "Avenger",
+        "Challenger",
+        "Charger",
+        "Dart"
+      ]
+    },
+    {
+      "code": "BX",
+      "name": "Jazz Blue",
+      "make": "Dodge",
+      "model": "Challenger",
+      "year_from": 2013,
+      "year_to": 2016,
+      "chipUrl": "https://www.paintref.com/chipimages/5F52DU.png",
+      "chipHash": "507df1ab2ceeebf6",
+      "ditzler": "933728",
+      "models": [
+        "Challenger",
+        "Charger"
+      ]
+    },
+    {
+      "code": "R3",
+      "name": "Torr Red",
+      "make": "Dodge",
+      "model": "Challenger",
+      "year_from": 2013,
+      "year_to": 2013,
+      "chipUrl": "https://www.paintref.com/chipimages/ASG3XT.png",
+      "chipHash": "da9200b24b02e6b1",
+      "ditzler": "77204",
+      "models": [
+        "Challenger"
+      ]
+    },
+    {
+      "code": "SC",
+      "name": "Billet",
+      "make": "Dodge",
+      "model": "Challenger",
+      "year_from": 2013,
+      "year_to": 2013,
+      "chipUrl": "https://www.paintref.com/chipimages/TETET4.png",
+      "chipHash": "03c66faf2a3699eb",
+      "ditzler": "930559",
+      "models": [
+        "Challenger"
+      ]
+    },
+    {
+      "code": "XT",
+      "name": "Phantom Black",
+      "make": "Dodge",
+      "model": "Challenger",
+      "year_from": 2013,
+      "year_to": 2015,
+      "chipUrl": "https://www.paintref.com/chipimages/GGGGGG.png",
+      "chipHash": "1f437854e2d31a87",
+      "ditzler": "933731",
+      "models": [
+        "Challenger",
+        "Charger"
+      ]
+    },
+    {
+      "code": "WD",
+      "name": "Ivory",
+      "make": "Dodge",
+      "model": "Charger",
+      "year_from": 2013,
+      "year_to": 2016,
+      "chipUrl": "https://www.paintref.com/chipimages/UGUSUX.png",
+      "chipHash": "02cefe86632161c9",
+      "ditzler": "930136",
+      "models": [
+        "Challenger",
+        "Charger"
+      ]
+    },
+    {
+      "code": "BA",
+      "name": "Winter Chill",
+      "make": "Dodge",
+      "model": "Dart",
+      "year_from": 2013,
+      "year_to": 2013,
+      "chipUrl": "https://www.paintref.com/chipimages/TXTUHT.png",
+      "chipHash": "25c0406e42cc5ada",
+      "ditzler": "931575",
+      "models": [
+        "Dart"
+      ]
+    },
+    {
+      "code": "BH",
+      "name": "Laguna Blue",
+      "make": "Dodge",
+      "model": "Dart",
+      "year_from": 2013,
+      "year_to": 2013,
+      "chipUrl": "https://www.paintref.com/chipimages/SEC4TS.png",
+      "chipHash": "45f60a2bba7f8128",
+      "ditzler": "933860",
+      "models": [
+        "Dart"
+      ]
+    },
+    {
+      "code": "PAU",
+      "name": "Granite Crystal",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2013,
+      "year_to": 2025,
+      "chipUrl": "https://www.paintref.com/chipimages/SGSGSG.png",
+      "chipHash": "a9553bbd5bdf32d7",
+      "ditzler": "933729",
+      "models": [
+        "Charger",
+        "Dodge",
+        "Dodge Truck",
+        "Durango",
+        "Grand Caravan",
+        "Journey"
+      ]
+    },
+    {
+      "code": "PBA",
+      "name": "Winter Chill",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2013,
+      "year_to": 2013,
+      "chipUrl": "https://www.paintref.com/chipimages/TXTUHT.png",
+      "chipHash": "25c0406e42cc5ada",
+      "ditzler": "931575",
+      "models": [
+        "Dodge",
+        "Dodge Truck",
+        "Journey"
+      ]
+    },
+    {
+      "code": "PBE",
+      "name": "GTS Blue",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2013,
+      "year_to": 2013,
+      "chipUrl": "https://www.paintref.com/chipimages/X3F4CH.png",
+      "chipHash": "e7f493a18ef35978",
+      "ditzler": "19282",
+      "models": [
+        "Dodge"
+      ]
+    },
+    {
+      "code": "PBH",
+      "name": "Laguna Blue",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2013,
+      "year_to": 2013,
+      "chipUrl": "https://www.paintref.com/chipimages/SEC4TS.png",
+      "chipHash": "45f60a2bba7f8128",
+      "ditzler": "933860",
+      "models": [
+        "Dodge"
+      ]
+    },
+    {
+      "code": "PBX",
+      "name": "Jazz Blue",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2013,
+      "year_to": 2019,
+      "chipUrl": "https://www.paintref.com/chipimages/5F52DU.png",
+      "chipHash": "507df1ab2ceeebf6",
+      "ditzler": "933728",
+      "models": [
+        "Charger",
+        "Dodge",
+        "Dodge Truck",
+        "Journey"
+      ]
+    },
+    {
+      "code": "PBY",
+      "name": "Shadow Blue",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2013,
+      "year_to": 2014,
+      "chipUrl": "https://www.paintref.com/chipimages/GGGUFG.png",
+      "chipHash": "638557bd969ad4c3",
+      "ditzler": "934518",
+      "models": [
+        "Dodge"
+      ]
+    },
+    {
+      "code": "PCC",
+      "name": "Gunmetal",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2013,
+      "year_to": 2018,
+      "chipUrl": "https://www.paintref.com/chipimages/DUDHF4.png",
+      "chipHash": "cd1dfbfce800d637",
+      "ditzler": "934519",
+      "models": [
+        "Dodge",
+        "Viper"
+      ]
+    },
+    {
+      "code": "PDB",
+      "name": "Crystal Blue",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2013,
+      "year_to": 2013,
+      "chipUrl": "https://www.paintref.com/chipimages/EWTGHE.png",
+      "chipHash": "8b4b8f89d06c0801",
+      "ditzler": "931131",
+      "models": [
+        "Dodge"
+      ]
+    },
+    {
+      "code": "PFS",
+      "name": "Cashmere",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2013,
+      "year_to": 2015,
+      "chipUrl": "https://www.paintref.com/chipimages/AEH3TF.png",
+      "chipHash": "0ce4cd1f29785bfc",
+      "ditzler": "931516",
+      "models": [
+        "Dodge",
+        "Dodge Truck",
+        "Durango",
+        "Grand Caravan"
+      ]
+    },
+    {
+      "code": "PPS",
+      "name": "Fathom Blue",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2013,
+      "year_to": 2015,
+      "chipUrl": "https://www.paintref.com/chipimages/DDFHWT.png",
+      "chipHash": "c572cb2acce07c0a",
+      "ditzler": "933700",
+      "models": [
+        "Dodge",
+        "Dodge Truck",
+        "Journey"
+      ]
+    },
+    {
+      "code": "PR1",
+      "name": "Bright Red",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2013,
+      "year_to": 2013,
+      "chipUrl": "https://www.paintref.com/chipimages/3DG5GS.png",
+      "chipHash": "c20abe6c7fe18b12",
+      "ditzler": "931617",
+      "models": [
+        "Dodge",
+        "Dodge Truck",
+        "Journey"
+      ]
+    },
+    {
+      "code": "PR3",
+      "name": "Torr Red",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2013,
+      "year_to": 2013,
+      "chipUrl": "https://www.paintref.com/chipimages/ASG3XT.png",
+      "chipHash": "da9200b24b02e6b1",
+      "ditzler": "77204",
+      "models": [
+        "Dodge"
+      ]
+    },
+    {
+      "code": "PR7",
+      "name": "Adrenaline Red",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2013,
+      "year_to": 2018,
+      "chipUrl": "https://www.paintref.com/chipimages/A3XF5A.png",
+      "chipHash": "19a1353b37cc4e91",
+      "ditzler": "933699",
+      "models": [
+        "Dodge",
+        "Viper"
+      ]
+    },
+    {
+      "code": "PRA",
+      "name": "Passion Pearl",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2013,
+      "year_to": 2013,
+      "chipUrl": "https://www.paintref.com/chipimages/HF5GDW.png",
+      "chipHash": "6a0896a7c53def43",
+      "ditzler": "931618",
+      "models": [
+        "Dodge",
+        "Dodge Truck",
+        "Journey"
+      ]
+    },
+    {
+      "code": "PRK",
+      "name": "Stryker Red",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2013,
+      "year_to": 2013,
+      "chipUrl": "https://www.paintref.com/chipimages/HWGGGU.png",
+      "chipHash": "3c013d7de722e935",
+      "ditzler": "936689",
+      "models": [
+        "Dodge"
+      ]
+    },
+    {
+      "code": "PRP",
+      "name": "Deep Cherry Red Crystal",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2013,
+      "year_to": 2025,
+      "chipUrl": "https://www.paintref.com/chipimages/3H5X52.png",
+      "chipHash": "7cdc7d851602b02b",
+      "ditzler": "926989",
+      "models": [
+        "Dodge",
+        "Dodge Truck",
+        "Durango",
+        "Grand Caravan"
+      ]
+    },
+    {
+      "code": "PWA",
+      "name": "Bright White",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2013,
+      "year_to": 2013,
+      "chipUrl": "https://www.paintref.com/chipimages/4S4EUA.png",
+      "chipHash": "d41246b5812ca1e8",
+      "ditzler": "904049",
+      "models": [
+        "Dodge"
+      ]
+    },
+    {
+      "code": "PWD",
+      "name": "Ivory",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2013,
+      "year_to": 2020,
+      "chipUrl": "https://www.paintref.com/chipimages/UGUSUX.png",
+      "chipHash": "02cefe86632161c9",
+      "ditzler": "930136",
+      "models": [
+        "Charger",
+        "Dodge",
+        "Dodge Truck",
+        "Durango"
+      ]
+    },
+    {
+      "code": "PWH",
+      "name": "Pearl White",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2013,
+      "year_to": 2016,
+      "chipUrl": "https://www.paintref.com/chipimages/4W42UD.png",
+      "chipHash": "bd75b0acc8e0a037",
+      "ditzler": "931619",
+      "models": [
+        "Dodge",
+        "Dodge Truck",
+        "Journey"
+      ]
+    },
+    {
+      "code": "PXT",
+      "name": "Phantom Black",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2013,
+      "year_to": 2015,
+      "chipUrl": "https://www.paintref.com/chipimages/GGGGGG.png",
+      "chipHash": "1f437854e2d31a87",
+      "ditzler": "933731",
+      "models": [
+        "Dodge"
+      ]
+    },
+    {
+      "code": "PYR",
+      "name": "Race Yellow",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2013,
+      "year_to": 2014,
+      "chipUrl": "https://www.paintref.com/chipimages/44HFFU.png",
+      "chipHash": "e88a285d0f01916c",
+      "ditzler": "84030",
+      "models": [
+        "Dodge"
+      ]
+    },
+    {
+      "code": "635",
+      "name": "Bright Red",
+      "make": "Dodge",
+      "model": "Dodge Truck",
+      "year_from": 2013,
+      "year_to": 2013,
+      "chipUrl": "https://www.paintref.com/chipimages/H4XU5W.png",
+      "chipHash": "c64428e5ece01fe5",
+      "ditzler": "917893",
+      "models": [
+        "Dodge Truck"
+      ]
+    },
+    {
+      "code": "PEP",
+      "name": "Deep Auburn",
+      "make": "Dodge",
+      "model": "Dodge Truck",
+      "year_from": 2013,
+      "year_to": 2015,
+      "chipUrl": "https://www.paintref.com/chipimages/FW5XG5.png",
+      "chipHash": "526cf7dd2f9eaf69",
+      "ditzler": "931310",
+      "models": [
+        "Dodge",
+        "Dodge Truck"
+      ]
+    },
+    {
+      "code": "PFA",
+      "name": "Prairie",
+      "make": "Dodge",
+      "model": "Dodge Truck",
+      "year_from": 2013,
+      "year_to": 2015,
+      "chipUrl": "https://www.paintref.com/chipimages/SAS5W3.png",
+      "chipHash": "5fe07ffd1f6c4cdc",
+      "ditzler": "931300",
+      "models": [
+        "Dodge",
+        "Dodge Truck"
+      ]
+    },
+    {
+      "code": "PSC",
+      "name": "Billet",
+      "make": "Dodge",
+      "model": "Dodge Truck",
+      "year_from": 2013,
+      "year_to": 2023,
+      "chipUrl": "https://www.paintref.com/chipimages/TETET4.png",
+      "chipHash": "03c66faf2a3699eb",
+      "ditzler": "930559",
+      "models": [
+        "Challenger",
+        "Charger",
+        "Dodge",
+        "Dodge Truck",
+        "Durango",
+        "Grand Caravan",
+        "Journey"
+      ]
+    },
+    {
+      "code": "PUG",
+      "name": "Black Gold",
+      "make": "Dodge",
+      "model": "Dodge Truck",
+      "year_from": 2013,
+      "year_to": 2014,
+      "chipUrl": "https://www.paintref.com/chipimages/F3DCDW.png",
+      "chipHash": "3b8178691081b3ca",
+      "ditzler": "933154",
+      "models": [
+        "Dodge",
+        "Dodge Truck"
+      ]
+    },
+    {
+      "code": "BE",
+      "name": "GTS Blue",
+      "make": "Dodge",
+      "model": "Viper",
+      "year_from": 2013,
+      "year_to": 2013,
+      "chipUrl": "https://www.paintref.com/chipimages/X3F4CH.png",
+      "chipHash": "e7f493a18ef35978",
+      "ditzler": "19282",
+      "models": [
+        "Viper"
+      ]
+    },
+    {
+      "code": "BY",
+      "name": "Shadow Blue",
+      "make": "Dodge",
+      "model": "Viper",
+      "year_from": 2013,
+      "year_to": 2014,
+      "chipUrl": "https://www.paintref.com/chipimages/GGGUFG.png",
+      "chipHash": "638557bd969ad4c3",
+      "ditzler": "934518",
+      "models": [
+        "Viper"
+      ]
+    },
+    {
+      "code": "CC",
+      "name": "Gunmetal",
+      "make": "Dodge",
+      "model": "Viper",
+      "year_from": 2013,
+      "year_to": 2015,
+      "chipUrl": "https://www.paintref.com/chipimages/DUDHF4.png",
+      "chipHash": "cd1dfbfce800d637",
+      "ditzler": "934519",
+      "models": [
+        "Viper"
+      ]
+    },
+    {
+      "code": "R7",
+      "name": "Adrenaline Red",
+      "make": "Dodge",
+      "model": "Viper",
+      "year_from": 2013,
+      "year_to": 2015,
+      "chipUrl": "https://www.paintref.com/chipimages/A3XF5A.png",
+      "chipHash": "19a1353b37cc4e91",
+      "ditzler": "933699",
+      "models": [
+        "Viper"
+      ]
+    },
+    {
+      "code": "RK",
+      "name": "Stryker Red",
+      "make": "Dodge",
+      "model": "Viper",
+      "year_from": 2013,
+      "year_to": 2013,
+      "chipUrl": "https://www.paintref.com/chipimages/HWGGGU.png",
+      "chipHash": "3c013d7de722e935",
+      "ditzler": "936689",
+      "models": [
+        "Viper"
+      ]
+    },
+    {
+      "code": "WA",
+      "name": "Bright White",
+      "make": "Dodge",
+      "model": "Viper",
+      "year_from": 2013,
+      "year_to": 2013,
+      "chipUrl": "https://www.paintref.com/chipimages/4S4EUA.png",
+      "chipHash": "d41246b5812ca1e8",
+      "ditzler": "904049",
+      "models": [
+        "Viper"
+      ]
+    },
+    {
+      "code": "X8",
+      "name": "Black Venom",
+      "make": "Dodge",
+      "model": "Viper",
+      "year_from": 2013,
+      "year_to": 2013,
+      "chipUrl": "https://www.paintref.com/chipimages/GGGGGG.png",
+      "chipHash": "1f437854e2d31a87",
+      "ditzler": "9700",
+      "models": [
+        "Viper"
+      ]
+    },
+    {
+      "code": "YR",
+      "name": "Race Yellow",
+      "make": "Dodge",
+      "model": "Viper",
+      "year_from": 2013,
+      "year_to": 2014,
+      "chipUrl": "https://www.paintref.com/chipimages/44HFFU.png",
+      "chipHash": "e88a285d0f01916c",
+      "ditzler": "84030",
+      "models": [
+        "Viper"
+      ]
+    },
+    {
+      "code": "RM",
+      "name": "Redline Red",
+      "make": "Dodge",
+      "model": "Avenger",
+      "year_from": 2014,
+      "year_to": 2016,
+      "chipUrl": "https://www.paintref.com/chipimages/TSGGXD.png",
+      "chipHash": "ee983916fc0c8c9e",
+      "ditzler": "929534",
+      "models": [
+        "Avenger",
+        "Dart"
+      ]
+    },
+    {
+      "code": "RP",
+      "name": "Deep Cherry Red",
+      "make": "Dodge",
+      "model": "Avenger",
+      "year_from": 2014,
+      "year_to": 2014,
+      "chipUrl": "https://www.paintref.com/chipimages/3H5X52.png",
+      "chipHash": "7cdc7d851602b02b",
+      "ditzler": "926989",
+      "models": [
+        "Avenger"
+      ]
+    },
+    {
+      "code": "R3",
+      "name": "Torred",
+      "make": "Dodge",
+      "model": "Challenger",
+      "year_from": 2014,
+      "year_to": 2016,
+      "chipUrl": "https://www.paintref.com/chipimages/ASG3XT.png",
+      "chipHash": "da9200b24b02e6b1",
+      "ditzler": "77204",
+      "models": [
+        "Challenger",
+        "Charger",
+        "Dart"
+      ]
+    },
+    {
+      "code": "RY",
+      "name": "Redline Red",
+      "make": "Dodge",
+      "model": "Challenger",
+      "year_from": 2014,
+      "year_to": 2016,
+      "chipUrl": "https://www.paintref.com/chipimages/HF5F5C.png",
+      "chipHash": "f0fe7972243b544c",
+      "ditzler": "929456",
+      "models": [
+        "Challenger",
+        "Charger"
+      ]
+    },
+    {
+      "code": "PRR",
+      "name": "High Octane Red",
+      "make": "Dodge",
+      "model": "Challenger",
+      "year_from": 2014,
+      "year_to": 2014,
+      "chipUrl": "https://www.paintref.com/chipimages/2HXT5X.png",
+      "chipHash": "1c37f3bff9e763e9",
+      "ditzler": "936235",
+      "models": [
+        "Challenger",
+        "Dodge"
+      ]
+    },
+    {
+      "code": "PBU",
+      "name": "GTS R Blue",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2014,
+      "year_to": 2018,
+      "chipUrl": "https://www.paintref.com/chipimages/5H52F4.png",
+      "chipHash": "a3bb5e783888465b",
+      "ditzler": "931389",
+      "models": [
+        "Dodge",
+        "Viper"
+      ]
+    },
+    {
+      "code": "PR3",
+      "name": "Torred",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2014,
+      "year_to": 2023,
+      "chipUrl": "https://www.paintref.com/chipimages/ASG3XT.png",
+      "chipHash": "da9200b24b02e6b1",
+      "ditzler": "77204",
+      "models": [
+        "Challenger",
+        "Charger",
+        "Dodge",
+        "Dodge Truck",
+        "Durango"
+      ]
+    },
+    {
+      "code": "PRM",
+      "name": "Redline Red",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2014,
+      "year_to": 2016,
+      "chipUrl": "https://www.paintref.com/chipimages/TSGGXD.png",
+      "chipHash": "ee983916fc0c8c9e",
+      "ditzler": "929534",
+      "models": [
+        "Dodge",
+        "Dodge Truck",
+        "Durango",
+        "Grand Caravan",
+        "Journey"
+      ]
+    },
+    {
+      "code": "PRY",
+      "name": "Redline Red",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2014,
+      "year_to": 2016,
+      "chipUrl": "https://www.paintref.com/chipimages/HF5F5C.png",
+      "chipHash": "f0fe7972243b544c",
+      "ditzler": "929456",
+      "models": [
+        "Charger",
+        "Dodge"
+      ]
+    },
+    {
+      "code": "PWA",
+      "name": "Viper White",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2014,
+      "year_to": 2018,
+      "chipUrl": "https://www.paintref.com/chipimages/4S4EUA.png",
+      "chipHash": "d41246b5812ca1e8",
+      "ditzler": "904049",
+      "models": [
+        "Dodge",
+        "Viper"
+      ]
+    },
+    {
+      "code": "PXR",
+      "name": "Brilliant Black Crystal",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2014,
+      "year_to": 2014,
+      "chipUrl": "https://www.paintref.com/chipimages/GGGGGG.png",
+      "chipHash": "1f437854e2d31a87",
+      "ditzler": "5931",
+      "models": [
+        "Dodge",
+        "Dodge Truck",
+        "Durango",
+        "Grand Caravan"
+      ]
+    },
+    {
+      "code": "BU",
+      "name": "GTS R Blue",
+      "make": "Dodge",
+      "model": "Viper",
+      "year_from": 2014,
+      "year_to": 2014,
+      "chipUrl": "https://www.paintref.com/chipimages/5H52F4.png",
+      "chipHash": "a3bb5e783888465b",
+      "ditzler": "931389",
+      "models": [
+        "Viper"
+      ]
+    },
+    {
+      "code": "L4",
+      "name": "TA Orange",
+      "make": "Dodge",
+      "model": "Viper",
+      "year_from": 2014,
+      "year_to": 2014,
+      "chipUrl": "https://www.paintref.com/chipimages/A4255S.png",
+      "chipHash": "216f1e6337b8a911",
+      "ditzler": "931301",
+      "models": [
+        "Viper"
+      ]
+    },
+    {
+      "code": "WA",
+      "name": "Viper White",
+      "make": "Dodge",
+      "model": "Viper",
+      "year_from": 2014,
+      "year_to": 2014,
+      "chipUrl": "https://www.paintref.com/chipimages/4S4EUA.png",
+      "chipHash": "d41246b5812ca1e8",
+      "ditzler": "904049",
+      "models": [
+        "Viper"
+      ]
+    },
+    {
+      "code": "X8",
+      "name": "Venom Black",
+      "make": "Dodge",
+      "model": "Viper",
+      "year_from": 2014,
+      "year_to": 2015,
+      "chipUrl": "https://www.paintref.com/chipimages/GGGGGG.png",
+      "chipHash": "1f437854e2d31a87",
+      "ditzler": "9700",
+      "models": [
+        "Viper"
+      ]
+    },
+    {
+      "code": "FB",
+      "name": "Sublime",
+      "make": "Dodge",
+      "model": "Challenger",
+      "year_from": 2015,
+      "year_to": 2015,
+      "chipUrl": "https://www.paintref.com/chipimages/EGUGDE.png",
+      "chipHash": "6481c3393525cada",
+      "ditzler": "914307",
+      "models": [
+        "Challenger"
+      ]
+    },
+    {
+      "code": "BJ",
+      "name": "Laser Blue",
+      "make": "Dodge",
+      "model": "Dart",
+      "year_from": 2015,
+      "year_to": 2016,
+      "chipUrl": "https://www.paintref.com/chipimages/XUWET3.png",
+      "chipHash": "fb4133c308a7ed44",
+      "ditzler": "936933",
+      "models": [
+        "Dart"
+      ]
+    },
+    {
+      "code": "LC",
+      "name": "Vitamin C",
+      "make": "Dodge",
+      "model": "Dart",
+      "year_from": 2015,
+      "year_to": 2015,
+      "chipUrl": "https://www.paintref.com/chipimages/H5DEG3.png",
+      "chipHash": "9903dd5217923cb5",
+      "ditzler": "914306",
+      "models": [
+        "Dart"
+      ]
+    },
+    {
+      "code": "PRV",
+      "name": "Passion Red",
+      "make": "Dodge",
+      "model": "Dart",
+      "year_from": 2015,
+      "year_to": 2017,
+      "chipUrl": "https://www.paintref.com/chipimages/FUGAXD.png",
+      "chipHash": "29560d28ae511af4",
+      "ditzler": "937541",
+      "models": [
+        "Dart",
+        "Dodge",
+        "Dodge Truck"
+      ]
+    },
+    {
+      "code": "PAG",
+      "name": "Ceramic Blue",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2015,
+      "year_to": 2017,
+      "chipUrl": "https://www.paintref.com/chipimages/DEFCW5.png",
+      "chipHash": "4ee6fd95932dc296",
+      "ditzler": "936229",
+      "models": [
+        "Dodge",
+        "Dodge Truck",
+        "Viper"
+      ]
+    },
+    {
+      "code": "PAG",
+      "name": "Dark Ceramic Gray",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2015,
+      "year_to": 2015,
+      "chipUrl": "https://www.paintref.com/chipimages/DEFCW5.png",
+      "chipHash": "4ee6fd95932dc296",
+      "ditzler": "936229",
+      "models": [
+        "Dodge"
+      ]
+    },
+    {
+      "code": "PBJ",
+      "name": "Laser Blue",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2015,
+      "year_to": 2016,
+      "chipUrl": "https://www.paintref.com/chipimages/XUWET3.png",
+      "chipHash": "fb4133c308a7ed44",
+      "ditzler": "936933",
+      "models": [
+        "Dodge"
+      ]
+    },
+    {
+      "code": "PDR",
+      "name": "Anodized Carbon",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2015,
+      "year_to": 2015,
+      "chipUrl": "https://www.paintref.com/chipimages/WGFSFU.png",
+      "chipHash": "cabcdbd3f02280c6",
+      "ditzler": "938364",
+      "models": [
+        "Dodge"
+      ]
+    },
+    {
+      "code": "PFB",
+      "name": "Sublime",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2015,
+      "year_to": 2023,
+      "chipUrl": "https://www.paintref.com/chipimages/EGUGDE.png",
+      "chipHash": "6481c3393525cada",
+      "ditzler": "914307",
+      "models": [
+        "Challenger",
+        "Charger",
+        "Dodge",
+        "Dodge Truck"
+      ]
+    },
+    {
+      "code": "PGZ",
+      "name": "Black Forest Green",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2015,
+      "year_to": 2020,
+      "chipUrl": "https://www.paintref.com/chipimages/GEDG5X.png",
+      "chipHash": "750cd79b441e6b3a",
+      "ditzler": "931225",
+      "models": [
+        "Dodge",
+        "Dodge Truck",
+        "Durango"
+      ]
+    },
+    {
+      "code": "PHL",
+      "name": "Stryker Purple",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2015,
+      "year_to": 2026,
+      "chipUrl": "https://www.paintref.com/chipimages/FTDEWA.png",
+      "chipHash": "2fe42130cf11f2de",
+      "ditzler": "",
+      "models": [
+        "Dodge",
+        "Durango",
+        "Viper"
+      ]
+    },
+    {
+      "code": "PL4",
+      "name": "Ignition Orange",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2015,
+      "year_to": 2017,
+      "chipUrl": "https://www.paintref.com/chipimages/A4255S.png",
+      "chipHash": "216f1e6337b8a911",
+      "ditzler": "931301",
+      "models": [
+        "Dodge",
+        "Dodge Truck"
+      ]
+    },
+    {
+      "code": "PLC",
+      "name": "Vitamin C",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2015,
+      "year_to": 2015,
+      "chipUrl": "https://www.paintref.com/chipimages/H5DEG3.png",
+      "chipHash": "9903dd5217923cb5",
+      "ditzler": "914306",
+      "models": [
+        "Dodge"
+      ]
+    },
+    {
+      "code": "PWH",
+      "name": "Arctic White",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2015,
+      "year_to": 2015,
+      "chipUrl": "https://www.paintref.com/chipimages/4W42UD.png",
+      "chipHash": "bd75b0acc8e0a037",
+      "ditzler": "931619",
+      "models": [
+        "Dodge",
+        "Dodge Truck",
+        "Journey"
+      ]
+    },
+    {
+      "code": "PY5",
+      "name": "Dozer",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2015,
+      "year_to": 2015,
+      "chipUrl": "https://www.paintref.com/chipimages/45CTDG.png",
+      "chipHash": "676e87cfd72eafa8",
+      "ditzler": "931305",
+      "models": [
+        "Dodge"
+      ]
+    },
+    {
+      "code": "AG",
+      "name": "Dark Ceramic Gray",
+      "make": "Dodge",
+      "model": "Viper",
+      "year_from": 2015,
+      "year_to": 2015,
+      "chipUrl": "https://www.paintref.com/chipimages/DEFCW5.png",
+      "chipHash": "4ee6fd95932dc296",
+      "ditzler": "936229",
+      "models": [
+        "Viper"
+      ]
+    },
+    {
+      "code": "BD",
+      "name": "Competition Blue",
+      "make": "Dodge",
+      "model": "Viper",
+      "year_from": 2015,
+      "year_to": 2015,
+      "chipUrl": "https://www.paintref.com/chipimages/X2F33F.png",
+      "chipHash": "9ed33a12bcc9096b",
+      "ditzler": "936932",
+      "models": [
+        "Viper"
+      ]
+    },
+    {
+      "code": "DR",
+      "name": "Anodized Carbon",
+      "make": "Dodge",
+      "model": "Viper",
+      "year_from": 2015,
+      "year_to": 2015,
+      "chipUrl": "https://www.paintref.com/chipimages/WGFSFU.png",
+      "chipHash": "cabcdbd3f02280c6",
+      "ditzler": "938364",
+      "models": [
+        "Viper"
+      ]
+    },
+    {
+      "code": "HL",
+      "name": "Stryker Purple",
+      "make": "Dodge",
+      "model": "Viper",
+      "year_from": 2015,
+      "year_to": 2015,
+      "chipUrl": "https://www.paintref.com/chipimages/FTDEWA.png",
+      "chipHash": "2fe42130cf11f2de",
+      "ditzler": "",
+      "models": [
+        "Viper"
+      ]
+    },
+    {
+      "code": "Y5",
+      "name": "Yorange",
+      "make": "Dodge",
+      "model": "Viper",
+      "year_from": 2015,
+      "year_to": 2015,
+      "chipUrl": "https://www.paintref.com/chipimages/45CTDG.png",
+      "chipHash": "676e87cfd72eafa8",
+      "ditzler": "931305",
+      "models": [
+        "Viper"
+      ]
+    },
+    {
+      "code": "VP",
+      "name": "Go Mango",
+      "make": "Dodge",
+      "model": "Challenger",
+      "year_from": 2016,
+      "year_to": 2016,
+      "chipUrl": "https://www.paintref.com/chipimages/A454GX.png",
+      "chipHash": "f4d866005d6bbe8a",
+      "ditzler": "942106",
+      "models": [
+        "Challenger",
+        "Dart"
+      ]
+    },
+    {
+      "code": "PVP",
+      "name": "Go Mango",
+      "make": "Dodge",
+      "model": "Charger",
+      "year_from": 2016,
+      "year_to": 2023,
+      "chipUrl": "https://www.paintref.com/chipimages/A454GX.png",
+      "chipHash": "f4d866005d6bbe8a",
+      "ditzler": "942106",
+      "models": [
+        "Challenger",
+        "Charger",
+        "Dodge"
+      ]
+    },
+    {
+      "code": "P06",
+      "name": "Green Angels",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2016,
+      "year_to": 2018,
+      "chipUrl": "https://www.paintref.com/chipimages/SFTFX3.png",
+      "chipHash": "63e16311b8714471",
+      "ditzler": "935373",
+      "models": [
+        "Dodge",
+        "Dodge Truck"
+      ]
+    },
+    {
+      "code": "P12",
+      "name": "Coca Cola Red",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2016,
+      "year_to": 2016,
+      "chipUrl": "https://www.paintref.com/chipimages/H4XU5W.png",
+      "chipHash": "c64428e5ece01fe5",
+      "ditzler": "917893",
+      "models": [
+        "Dodge"
+      ]
+    },
+    {
+      "code": "P18",
+      "name": "Dark Brown",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2016,
+      "year_to": 2016,
+      "chipUrl": "https://www.paintref.com/chipimages/D5DXX3.png",
+      "chipHash": "5a90c1f26733cf89",
+      "ditzler": "932566",
+      "models": [
+        "Dodge"
+      ]
+    },
+    {
+      "code": "P67",
+      "name": "Broom Yellow",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2016,
+      "year_to": 2022,
+      "chipUrl": "https://www.paintref.com/chipimages/4THDGG.png",
+      "chipHash": "24d05fbda9b069d4",
+      "ditzler": "936829",
+      "models": [
+        "Dodge",
+        "Dodge Truck"
+      ]
+    },
+    {
+      "code": "P72",
+      "name": "Holland Blue",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2016,
+      "year_to": 2025,
+      "chipUrl": "https://www.paintref.com/chipimages/D5FHEF.png",
+      "chipHash": "ffc3e945618d8622",
+      "ditzler": "932760",
+      "models": [
+        "Dodge",
+        "Dodge Truck"
+      ]
+    },
+    {
+      "code": "P76",
+      "name": "Sheriffs Tan",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2016,
+      "year_to": 2016,
+      "chipUrl": "https://www.paintref.com/chipimages/ECC53X.png",
+      "chipHash": "448aad1bfda5549e",
+      "ditzler": "942049",
+      "models": [
+        "Dodge"
+      ]
+    },
+    {
+      "code": "P79",
+      "name": "Michigan State Police Blue",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2016,
+      "year_to": 2016,
+      "chipUrl": "https://www.paintref.com/chipimages/5WD5S5.png",
+      "chipHash": "d31de5f4804786e7",
+      "ditzler": "103898",
+      "models": [
+        "Dodge"
+      ]
+    },
+    {
+      "code": "P82",
+      "name": "Ranger Green",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2016,
+      "year_to": 2016,
+      "chipUrl": "https://www.paintref.com/chipimages/5EDUDH.png",
+      "chipHash": "f0a4d1e1cc4a2057",
+      "ditzler": "942005",
+      "models": [
+        "Dodge"
+      ]
+    },
+    {
+      "code": "PDT",
+      "name": "Rebel",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2016,
+      "year_to": 2016,
+      "chipUrl": "https://www.paintref.com/chipimages/DFD5DE.png",
+      "chipHash": "a28c3a0bc3f06407",
+      "ditzler": "942256",
+      "models": [
+        "Dodge",
+        "Dodge Truck"
+      ]
+    },
+    {
+      "code": "PWQ",
+      "name": "Pearl White",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2016,
+      "year_to": 2024,
+      "chipUrl": "https://www.paintref.com/chipimages/ATAFHT.png",
+      "chipHash": "84f9154a321772a0",
+      "ditzler": "942255",
+      "models": [
+        "Dodge",
+        "Dodge Truck",
+        "Journey"
+      ]
+    },
+    {
+      "code": "PY4",
+      "name": "Yellow Jacket",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2016,
+      "year_to": 2019,
+      "chipUrl": "https://www.paintref.com/chipimages/4CAFF3.png",
+      "chipHash": "3105916b86d8a323",
+      "ditzler": "945402",
+      "models": [
+        "Challenger",
+        "Charger",
+        "Dodge",
+        "Dodge Truck"
+      ]
+    },
+    {
+      "code": "PB4",
+      "name": "Cosmo Blue",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2016,
+      "year_to": 2016,
+      "chipUrl": "https://www.paintref.com/chipimages/55FWEX.png",
+      "chipHash": "52a8f05f04c5cde6",
+      "ditzler": "929244",
+      "models": [
+        "Dodge",
+        "Dodge Truck",
+        "Journey"
+      ]
+    },
+    {
+      "code": "PFG",
+      "name": "Olive Green",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2016,
+      "year_to": 2016,
+      "chipUrl": "https://www.paintref.com/chipimages/2U2ADA.png",
+      "chipHash": "15dedb952ab5e49b",
+      "ditzler": "914631",
+      "models": [
+        "Dodge",
+        "Dodge Truck",
+        "Journey"
+      ]
+    },
+    {
+      "code": "PG7",
+      "name": "Stryker Green",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2016,
+      "year_to": 2016,
+      "chipUrl": "https://www.paintref.com/chipimages/FUTE54.png",
+      "chipHash": "e35abd6bec9f64fb",
+      "ditzler": "938363",
+      "models": [
+        "Dodge",
+        "Viper"
+      ]
+    },
+    {
+      "code": "PKC",
+      "name": "Stryker Orange",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2016,
+      "year_to": 2018,
+      "chipUrl": "https://www.paintref.com/chipimages/TXDA55.png",
+      "chipHash": "a056cf597e621e57",
+      "ditzler": "",
+      "models": [
+        "Dodge",
+        "Viper"
+      ]
+    },
+    {
+      "code": "PRV",
+      "name": "Velvet Red",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2016,
+      "year_to": 2016,
+      "chipUrl": "https://www.paintref.com/chipimages/FUGAXD.png",
+      "chipHash": "29560d28ae511af4",
+      "ditzler": "937541",
+      "models": [
+        "Dodge",
+        "Dodge Truck",
+        "Durango"
+      ]
+    },
+    {
+      "code": "PT6",
+      "name": "Light Brownstone",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2016,
+      "year_to": 2016,
+      "chipUrl": "https://www.paintref.com/chipimages/2A232S.png",
+      "chipHash": "3e8a2e0554932b12",
+      "ditzler": "941979",
+      "models": [
+        "Dodge",
+        "Dodge Truck",
+        "Durango"
+      ]
+    },
+    {
+      "code": "PTW",
+      "name": "Luxury Brown",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2016,
+      "year_to": 2017,
+      "chipUrl": "https://www.paintref.com/chipimages/DS5F5C.png",
+      "chipHash": "27ed2b61ad8e7097",
+      "ditzler": "918191",
+      "models": [
+        "Dodge",
+        "Dodge Truck",
+        "Durango"
+      ]
+    },
+    {
+      "code": "PY5",
+      "name": "Yorange",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2016,
+      "year_to": 2018,
+      "chipUrl": "https://www.paintref.com/chipimages/45CTDG.png",
+      "chipHash": "676e87cfd72eafa8",
+      "ditzler": "931305",
+      "models": [
+        "Dodge",
+        "Viper"
+      ]
+    },
+    {
+      "code": "168",
+      "name": "Bright Red",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2016,
+      "year_to": 2016,
+      "chipUrl": "https://www.paintref.com/chipimages/E3XAXA.png",
+      "chipHash": "35b7bbb4a8251165",
+      "ditzler": "942031",
+      "models": [
+        "Dodge",
+        "Dodge Truck"
+      ]
+    },
+    {
+      "code": "632",
+      "name": "Black",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2016,
+      "year_to": 2016,
+      "chipUrl": "https://www.paintref.com/chipimages/GGGGGG.png",
+      "chipHash": "1f437854e2d31a87",
+      "ditzler": "939616",
+      "models": [
+        "Dodge",
+        "Dodge Truck"
+      ]
+    },
+    {
+      "code": "487B",
+      "name": "Blue Night",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2016,
+      "year_to": 2016,
+      "chipUrl": "https://www.paintref.com/chipimages/XS55DE.png",
+      "chipHash": "cb8c8e9eee526fc3",
+      "ditzler": "939585",
+      "models": [
+        "Dodge",
+        "Dodge Truck"
+      ]
+    },
+    {
+      "code": "695A",
+      "name": "Quartz Gray",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2016,
+      "year_to": 2016,
+      "chipUrl": "https://www.paintref.com/chipimages/FHWGWD.png",
+      "chipHash": "122b1611afc4e973",
+      "ditzler": "",
+      "models": [
+        "Dodge",
+        "Dodge Truck"
+      ]
+    },
+    {
+      "code": "293A",
+      "name": "Deep Red",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2016,
+      "year_to": 2018,
+      "chipUrl": "https://www.paintref.com/chipimages/WCXEXU.png",
+      "chipHash": "289b95fce505bb4b",
+      "ditzler": "939615",
+      "models": [
+        "Dodge",
+        "Dodge Truck"
+      ]
+    },
+    {
+      "code": "612A",
+      "name": "Silver",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2016,
+      "year_to": 2016,
+      "chipUrl": "https://www.paintref.com/chipimages/H2HWH5.png",
+      "chipHash": "863424794d329299",
+      "ditzler": "",
+      "models": [
+        "Dodge",
+        "Dodge Truck"
+      ]
+    },
+    {
+      "code": "PFP",
+      "name": "Olive Green",
+      "make": "Dodge",
+      "model": "Dodge Truck",
+      "year_from": 2016,
+      "year_to": 2024,
+      "chipUrl": "https://www.paintref.com/chipimages/SA2FWC.png",
+      "chipHash": "5cfffd8f6abbdd0f",
+      "ditzler": "942356",
+      "models": [
+        "Dodge",
+        "Dodge Truck",
+        "Journey"
+      ]
+    },
+    {
+      "code": "PX8",
+      "name": "Venom Black",
+      "make": "Dodge",
+      "model": "Viper",
+      "year_from": 2016,
+      "year_to": 2018,
+      "chipUrl": "https://www.paintref.com/chipimages/GGGGGG.png",
+      "chipHash": "1f437854e2d31a87",
+      "ditzler": "9700",
+      "models": [
+        "Viper"
+      ]
+    },
+    {
+      "code": "PAU",
+      "name": "Granite",
+      "make": "Dodge",
+      "model": "Challenger",
+      "year_from": 2017,
+      "year_to": 2023,
+      "chipUrl": "https://www.paintref.com/chipimages/SGSGSG.png",
+      "chipHash": "a9553bbd5bdf32d7",
+      "ditzler": "933729",
+      "models": [
+        "Challenger",
+        "Charger",
+        "Dodge",
+        "Dodge Truck",
+        "Durango",
+        "Grand Caravan",
+        "Journey"
+      ]
+    },
+    {
+      "code": "PBX",
+      "name": "Contusion Blue",
+      "make": "Dodge",
+      "model": "Challenger",
+      "year_from": 2017,
+      "year_to": 2020,
+      "chipUrl": "https://www.paintref.com/chipimages/5F52DU.png",
+      "chipHash": "507df1ab2ceeebf6",
+      "ditzler": "933728",
+      "models": [
+        "Challenger",
+        "Charger",
+        "Dodge",
+        "Dodge Truck",
+        "Grand Caravan",
+        "Journey"
+      ]
+    },
+    {
+      "code": "PDN",
+      "name": "Destroyer Gray",
+      "make": "Dodge",
+      "model": "Challenger",
+      "year_from": 2017,
+      "year_to": 2026,
+      "chipUrl": "https://www.paintref.com/chipimages/S4SAS2.png",
+      "chipHash": "15a1476429819818",
+      "ditzler": "945407",
+      "models": [
+        "Challenger",
+        "Charger",
+        "Dodge",
+        "Dodge Truck",
+        "Durango",
+        "Journey"
+      ]
+    },
+    {
+      "code": "PGM",
+      "name": "Green Go",
+      "make": "Dodge",
+      "model": "Challenger",
+      "year_from": 2017,
+      "year_to": 2018,
+      "chipUrl": "https://www.paintref.com/chipimages/24TUGG.png",
+      "chipHash": "f171ab6e76a7ee59",
+      "ditzler": "945408",
+      "models": [
+        "Challenger",
+        "Charger",
+        "Dodge"
+      ]
+    },
+    {
+      "code": "PRV",
+      "name": "Octane Red",
+      "make": "Dodge",
+      "model": "Challenger",
+      "year_from": 2017,
+      "year_to": 2026,
+      "chipUrl": "https://www.paintref.com/chipimages/FUGAXD.png",
+      "chipHash": "29560d28ae511af4",
+      "ditzler": "937541",
+      "models": [
+        "Challenger",
+        "Charger",
+        "Dodge",
+        "Dodge Truck",
+        "Durango",
+        "Grand Caravan"
+      ]
+    },
+    {
+      "code": "PW7",
+      "name": "White Knuckle",
+      "make": "Dodge",
+      "model": "Challenger",
+      "year_from": 2017,
+      "year_to": 2026,
+      "chipUrl": "https://www.paintref.com/chipimages/4W424C.png",
+      "chipHash": "bd32ba131bff11da",
+      "ditzler": "4037",
+      "models": [
+        "Challenger",
+        "Charger",
+        "Dodge",
+        "Dodge Truck",
+        "Durango",
+        "Grand Caravan"
+      ]
+    },
+    {
+      "code": "PUW",
+      "name": "Stout Brown",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2017,
+      "year_to": 2018,
+      "chipUrl": "https://www.paintref.com/chipimages/FUDAD3.png",
+      "chipHash": "cc1e37830de9f7bb",
+      "ditzler": "945442",
+      "models": [
+        "Dodge",
+        "Dodge Truck",
+        "Durango"
+      ]
+    },
+    {
+      "code": "PXJ",
+      "name": "DB Black Crystal",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2017,
+      "year_to": 2017,
+      "chipUrl": "https://www.paintref.com/chipimages/GGGGGG.png",
+      "chipHash": "1f437854e2d31a87",
+      "ditzler": "931430",
+      "models": [
+        "Dodge",
+        "Dodge Truck",
+        "Durango"
+      ]
+    },
+    {
+      "code": "PAF",
+      "name": "Silver",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2017,
+      "year_to": 2022,
+      "chipUrl": "https://www.paintref.com/chipimages/TGTUHA.png",
+      "chipHash": "5302f7fe3bee0940",
+      "ditzler": "945704",
+      "models": [
+        "Dodge",
+        "Dodge Truck"
+      ]
+    },
+    {
+      "code": "PBZ",
+      "name": "Blue Night",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2017,
+      "year_to": 2022,
+      "chipUrl": "https://www.paintref.com/chipimages/XS55DE.png",
+      "chipHash": "cb8c8e9eee526fc3",
+      "ditzler": "939585",
+      "models": [
+        "Dodge",
+        "Dodge Truck"
+      ]
+    },
+    {
+      "code": "PF2",
+      "name": "Blood Orange",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2017,
+      "year_to": 2020,
+      "chipUrl": "https://www.paintref.com/chipimages/UCFSDX.png",
+      "chipHash": "4fbaf9e125fd1bda",
+      "ditzler": "942381",
+      "models": [
+        "Dodge",
+        "Dodge Truck",
+        "Journey"
+      ]
+    },
+    {
+      "code": "PRD",
+      "name": "Deep Red",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2017,
+      "year_to": 2022,
+      "chipUrl": "https://www.paintref.com/chipimages/WCXEXU.png",
+      "chipHash": "289b95fce505bb4b",
+      "ditzler": "939615",
+      "models": [
+        "Dodge",
+        "Dodge Truck"
+      ]
+    },
+    {
+      "code": "PRS",
+      "name": "Bright Red",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2017,
+      "year_to": 2022,
+      "chipUrl": "https://www.paintref.com/chipimages/E3XAXA.png",
+      "chipHash": "35b7bbb4a8251165",
+      "ditzler": "942031",
+      "models": [
+        "Dodge",
+        "Dodge Truck"
+      ]
+    },
+    {
+      "code": "PSQ",
+      "name": "Bruiser Grey",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2017,
+      "year_to": 2019,
+      "chipUrl": "https://www.paintref.com/chipimages/D3DTFA.png",
+      "chipHash": "a1783ebe8b6b67cd",
+      "ditzler": "941975",
+      "models": [
+        "Dodge",
+        "Dodge Truck",
+        "Durango",
+        "Journey"
+      ]
+    },
+    {
+      "code": "PW3",
+      "name": "Vice White",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2017,
+      "year_to": 2017,
+      "chipUrl": "https://www.paintref.com/chipimages/4U424C.png",
+      "chipHash": "fb90a0398caa9d9e",
+      "ditzler": "930536",
+      "models": [
+        "Dodge",
+        "Dodge Truck",
+        "Journey"
+      ]
+    },
+    {
+      "code": "PWD",
+      "name": "Vice White",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2017,
+      "year_to": 2023,
+      "chipUrl": "https://www.paintref.com/chipimages/UGUSUX.png",
+      "chipHash": "02cefe86632161c9",
+      "ditzler": "930136",
+      "models": [
+        "Dodge",
+        "Dodge Truck",
+        "Durango",
+        "Journey"
+      ]
+    },
+    {
+      "code": "PWH",
+      "name": "White Noise",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2017,
+      "year_to": 2020,
+      "chipUrl": "https://www.paintref.com/chipimages/4W42UD.png",
+      "chipHash": "bd75b0acc8e0a037",
+      "ditzler": "931619",
+      "models": [
+        "Dodge",
+        "Dodge Truck",
+        "Journey"
+      ]
+    },
+    {
+      "code": "PXQ",
+      "name": "Black",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2017,
+      "year_to": 2020,
+      "chipUrl": "https://www.paintref.com/chipimages/GGGGGG.png",
+      "chipHash": "1f437854e2d31a87",
+      "ditzler": "939616",
+      "models": [
+        "Dodge",
+        "Dodge Truck"
+      ]
+    },
+    {
+      "code": "PBU",
+      "name": "Blue By You",
+      "make": "Dodge",
+      "model": "Durango",
+      "year_from": 2017,
+      "year_to": 2018,
+      "chipUrl": "https://www.paintref.com/chipimages/5H52F4.png",
+      "chipHash": "a3bb5e783888465b",
+      "ditzler": "931389",
+      "models": [
+        "Durango"
+      ]
+    },
+    {
+      "code": "PTW",
+      "name": "Bomber Brown",
+      "make": "Dodge",
+      "model": "Durango",
+      "year_from": 2017,
+      "year_to": 2017,
+      "chipUrl": "https://www.paintref.com/chipimages/DS5F5C.png",
+      "chipHash": "27ed2b61ad8e7097",
+      "ditzler": "918191",
+      "models": [
+        "Durango"
+      ]
+    },
+    {
+      "code": "PBM",
+      "name": "Indigo Blue",
+      "make": "Dodge",
+      "model": "Challenger",
+      "year_from": 2018,
+      "year_to": 2022,
+      "chipUrl": "https://www.paintref.com/chipimages/GGFECD.png",
+      "chipHash": "514d047dece741b0",
+      "ditzler": "947639",
+      "models": [
+        "Challenger",
+        "Charger",
+        "Dodge",
+        "Dodge Truck",
+        "Grand Caravan"
+      ]
+    },
+    {
+      "code": "PFQ",
+      "name": "F8 Green",
+      "make": "Dodge",
+      "model": "Challenger",
+      "year_from": 2018,
+      "year_to": 2023,
+      "chipUrl": "https://www.paintref.com/chipimages/D4WW5A.png",
+      "chipHash": "bf1674f4dc3a858d",
+      "ditzler": "947637",
+      "models": [
+        "Challenger",
+        "Charger",
+        "Dodge",
+        "Dodge Truck",
+        "Durango"
+      ]
+    },
+    {
+      "code": "P15",
+      "name": "Servpro Green",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2018,
+      "year_to": 2018,
+      "chipUrl": "https://www.paintref.com/chipimages/5HWE55.png",
+      "chipHash": "9efc286139bc0a92",
+      "ditzler": "",
+      "models": [
+        "Dodge",
+        "Dodge Truck"
+      ]
+    },
+    {
+      "code": "PBJ",
+      "name": "Hydro Blue",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2018,
+      "year_to": 2025,
+      "chipUrl": "https://www.paintref.com/chipimages/XUWET3.png",
+      "chipHash": "fb4133c308a7ed44",
+      "ditzler": "936933",
+      "models": [
+        "Dodge",
+        "Dodge Truck"
+      ]
+    },
+    {
+      "code": "PHR",
+      "name": "In-Violet",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2018,
+      "year_to": 2021,
+      "chipUrl": "https://www.paintref.com/chipimages/DFXWXA.png",
+      "chipHash": "df2389ee3f7113ef",
+      "ditzler": "947640",
+      "models": [
+        "Dodge",
+        "Dodge Truck",
+        "Durango"
+      ]
+    },
+    {
+      "code": "PXJ",
+      "name": "DB Black",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2018,
+      "year_to": 2025,
+      "chipUrl": "https://www.paintref.com/chipimages/GGGGGG.png",
+      "chipHash": "1f437854e2d31a87",
+      "ditzler": "931430",
+      "models": [
+        "Dodge",
+        "Dodge Truck",
+        "Durango"
+      ]
+    },
+    {
+      "code": "P18",
+      "name": "Earth Brown",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2018,
+      "year_to": 2020,
+      "chipUrl": "https://www.paintref.com/chipimages/D5DXX3.png",
+      "chipHash": "5a90c1f26733cf89",
+      "ditzler": "932566",
+      "models": [
+        "Dodge",
+        "Dodge Truck"
+      ]
+    },
+    {
+      "code": "PAJ",
+      "name": "Quartz Gray",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2018,
+      "year_to": 2022,
+      "chipUrl": "https://www.paintref.com/chipimages/WXWCSS.png",
+      "chipHash": "cd98b2b656983721",
+      "ditzler": "931614",
+      "models": [
+        "Dodge",
+        "Dodge Truck"
+      ]
+    },
+    {
+      "code": "PRV",
+      "name": "Delmonico Red",
+      "make": "Dodge",
+      "model": "Dodge Truck",
+      "year_from": 2018,
+      "year_to": 2025,
+      "chipUrl": "https://www.paintref.com/chipimages/FUGAXD.png",
+      "chipHash": "29560d28ae511af4",
+      "ditzler": "937541",
+      "models": [
+        "Dodge",
+        "Dodge Truck"
+      ]
+    },
+    {
+      "code": "PUW",
+      "name": "Walnut Brown",
+      "make": "Dodge",
+      "model": "Dodge Truck",
+      "year_from": 2018,
+      "year_to": 2023,
+      "chipUrl": "https://www.paintref.com/chipimages/FUDAD3.png",
+      "chipHash": "cc1e37830de9f7bb",
+      "ditzler": "945442",
+      "models": [
+        "Dodge",
+        "Dodge Truck"
+      ]
+    },
+    {
+      "code": "PXR",
+      "name": "Black Onyx Crystal Pearl",
+      "make": "Dodge",
+      "model": "Grand Caravan",
+      "year_from": 2018,
+      "year_to": 2018,
+      "chipUrl": "https://www.paintref.com/chipimages/GGGGGG.png",
+      "chipHash": "1f437854e2d31a87",
+      "ditzler": "5931",
+      "models": [
+        "Grand Caravan"
+      ]
+    },
+    {
+      "code": "PSE",
+      "name": "Triple Nickel",
+      "make": "Dodge",
+      "model": "Challenger",
+      "year_from": 2019,
+      "year_to": 2026,
+      "chipUrl": "https://www.paintref.com/chipimages/ETTAHX.png",
+      "chipHash": "d7b676848659be9c",
+      "ditzler": "949667",
+      "models": [
+        "Challenger",
+        "Charger",
+        "Dodge",
+        "Dodge Truck",
+        "Durango"
+      ]
+    },
+    {
+      "code": "PBF",
+      "name": "Reactor Blue",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2019,
+      "year_to": 2021,
+      "chipUrl": "https://www.paintref.com/chipimages/WE2TC2.png",
+      "chipHash": "afbb2e3d7fc22529",
+      "ditzler": "949232",
+      "models": [
+        "Dodge",
+        "Dodge Truck",
+        "Durango"
+      ]
+    },
+    {
+      "code": "PRS",
+      "name": "Rosso Speed",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2019,
+      "year_to": 2019,
+      "chipUrl": "https://www.paintref.com/chipimages/E3XAXA.png",
+      "chipHash": "35b7bbb4a8251165",
+      "ditzler": "942031",
+      "models": [
+        "Dodge"
+      ]
+    },
+    {
+      "code": "PXR",
+      "name": "Black Onyx Crystal",
+      "make": "Dodge",
+      "model": "Grand Caravan",
+      "year_from": 2019,
+      "year_to": 2020,
+      "chipUrl": "https://www.paintref.com/chipimages/GGGGGG.png",
+      "chipHash": "1f437854e2d31a87",
+      "ditzler": "5931",
+      "models": [
+        "Dodge",
+        "Dodge Truck",
+        "Grand Caravan"
+      ]
+    },
+    {
+      "code": "PAE",
+      "name": "Smoke Show",
+      "make": "Dodge",
+      "model": "Challenger",
+      "year_from": 2020,
+      "year_to": 2022,
+      "chipUrl": "https://www.paintref.com/chipimages/2T3D34.png",
+      "chipHash": "2693725505d20d97",
+      "ditzler": "976658",
+      "models": [
+        "Challenger",
+        "Charger",
+        "Dodge"
+      ]
+    },
+    {
+      "code": "PCA",
+      "name": "Frostbite",
+      "make": "Dodge",
+      "model": "Challenger",
+      "year_from": 2020,
+      "year_to": 2025,
+      "chipUrl": "https://www.paintref.com/chipimages/W23XCX.png",
+      "chipHash": "8ccd660b98da92ed",
+      "ditzler": "976659",
+      "models": [
+        "Challenger",
+        "Charger",
+        "Dodge",
+        "Dodge Truck",
+        "Durango"
+      ]
+    },
+    {
+      "code": "PCD",
+      "name": "Hellraisin",
+      "make": "Dodge",
+      "model": "Challenger",
+      "year_from": 2020,
+      "year_to": 2022,
+      "chipUrl": "https://www.paintref.com/chipimages/23FGFT.png",
+      "chipHash": "47c27d1eda8443b0",
+      "ditzler": "976679",
+      "models": [
+        "Challenger",
+        "Charger",
+        "Dodge"
+      ]
+    },
+    {
+      "code": "PEC",
+      "name": "Sinamon Stick",
+      "make": "Dodge",
+      "model": "Challenger",
+      "year_from": 2020,
+      "year_to": 2023,
+      "chipUrl": "https://www.paintref.com/chipimages/U5WWGX.png",
+      "chipHash": "e8280b69946795c8",
+      "ditzler": "977009",
+      "models": [
+        "Challenger",
+        "Charger",
+        "Dodge"
+      ]
+    },
+    {
+      "code": "PJB",
+      "name": "Gold Rush",
+      "make": "Dodge",
+      "model": "Challenger",
+      "year_from": 2020,
+      "year_to": 2021,
+      "chipUrl": "https://www.paintref.com/chipimages/TDCCD4.png",
+      "chipHash": "1e277c55060eba52",
+      "ditzler": "977010",
+      "models": [
+        "Challenger",
+        "Dodge"
+      ]
+    },
+    {
+      "code": "PPX",
+      "name": "Patriot Blue",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2020,
+      "year_to": 2025,
+      "chipUrl": "https://www.paintref.com/chipimages/GGFC2S.png",
+      "chipHash": "4787e1ca06b050a9",
+      "ditzler": "945559",
+      "models": [
+        "Dodge",
+        "Dodge Truck"
+      ]
+    },
+    {
+      "code": "PRV",
+      "name": "Red Pearl",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2020,
+      "year_to": 2020,
+      "chipUrl": "https://www.paintref.com/chipimages/FUGAXD.png",
+      "chipHash": "29560d28ae511af4",
+      "ditzler": "937541",
+      "models": [
+        "Dodge",
+        "Dodge Truck"
+      ]
+    },
+    {
+      "code": "PXJ",
+      "name": "Diamond Black Crystal",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2020,
+      "year_to": 2026,
+      "chipUrl": "https://www.paintref.com/chipimages/GGGGGG.png",
+      "chipHash": "1f437854e2d31a87",
+      "ditzler": "931430",
+      "models": [
+        "Charger",
+        "Dodge",
+        "Dodge Truck"
+      ]
+    },
+    {
+      "code": "P25",
+      "name": "Brazilian Post Yellow",
+      "make": "Dodge",
+      "model": "Dodge Truck",
+      "year_from": 2020,
+      "year_to": 2020,
+      "chipUrl": "https://www.paintref.com/chipimages/4ETS5E.png",
+      "chipHash": "c1015c5f0633bfee",
+      "ditzler": "976173",
+      "models": [
+        "Dodge Truck"
+      ]
+    },
+    {
+      "code": "P61",
+      "name": "Agriculture Red",
+      "make": "Dodge",
+      "model": "Dodge Truck",
+      "year_from": 2020,
+      "year_to": 2025,
+      "chipUrl": "https://www.paintref.com/chipimages/CDX2XU.png",
+      "chipHash": "c9fa3762bf0cdf88",
+      "ditzler": "932993",
+      "models": [
+        "Dodge",
+        "Dodge Truck"
+      ]
+    },
+    {
+      "code": "P64",
+      "name": "Cream",
+      "make": "Dodge",
+      "model": "Dodge Truck",
+      "year_from": 2020,
+      "year_to": 2020,
+      "chipUrl": "https://www.paintref.com/chipimages/ASHHE5.png",
+      "chipHash": "5caa6950687f8c10",
+      "ditzler": "931311",
+      "models": [
+        "Dodge Truck"
+      ]
+    },
+    {
+      "code": "P68",
+      "name": "Bright Green",
+      "make": "Dodge",
+      "model": "Dodge Truck",
+      "year_from": 2020,
+      "year_to": 2025,
+      "chipUrl": "https://www.paintref.com/chipimages/542HFG.png",
+      "chipHash": "5af826ddb79d3bf8",
+      "ditzler": "932759",
+      "models": [
+        "Dodge",
+        "Dodge Truck"
+      ]
+    },
+    {
+      "code": "P69",
+      "name": "Robin Egg Blue",
+      "make": "Dodge",
+      "model": "Dodge Truck",
+      "year_from": 2020,
+      "year_to": 2025,
+      "chipUrl": "https://www.paintref.com/chipimages/FS33TD.png",
+      "chipHash": "f7ee64666b25915e",
+      "ditzler": "935372",
+      "models": [
+        "Dodge",
+        "Dodge Truck"
+      ]
+    },
+    {
+      "code": "P71",
+      "name": "Construction Yellow",
+      "make": "Dodge",
+      "model": "Dodge Truck",
+      "year_from": 2020,
+      "year_to": 2025,
+      "chipUrl": "https://www.paintref.com/chipimages/ATCD5F.png",
+      "chipHash": "b297ef5ede15262a",
+      "ditzler": "932992",
+      "models": [
+        "Dodge",
+        "Dodge Truck"
+      ]
+    },
+    {
+      "code": "P73",
+      "name": "Tree Green",
+      "make": "Dodge",
+      "model": "Dodge Truck",
+      "year_from": 2020,
+      "year_to": 2025,
+      "chipUrl": "https://www.paintref.com/chipimages/F5SC54.png",
+      "chipHash": "4bea4340e2479ceb",
+      "ditzler": "932758",
+      "models": [
+        "Dodge",
+        "Dodge Truck"
+      ]
+    },
+    {
+      "code": "P74",
+      "name": "National Safety Yellow",
+      "make": "Dodge",
+      "model": "Dodge Truck",
+      "year_from": 2020,
+      "year_to": 2025,
+      "chipUrl": "https://www.paintref.com/chipimages/A44XFG.png",
+      "chipHash": "45c7f95a2ee44f42",
+      "ditzler": "939561",
+      "models": [
+        "Dodge",
+        "Dodge Truck"
+      ]
+    },
+    {
+      "code": "P81",
+      "name": "Power Tan",
+      "make": "Dodge",
+      "model": "Dodge Truck",
+      "year_from": 2020,
+      "year_to": 2025,
+      "chipUrl": "https://www.paintref.com/chipimages/H3TUCX.png",
+      "chipHash": "720fc4e67b857cd4",
+      "ditzler": "932761",
+      "models": [
+        "Dodge",
+        "Dodge Truck"
+      ]
+    },
+    {
+      "code": "P83",
+      "name": "Utility Orange",
+      "make": "Dodge",
+      "model": "Dodge Truck",
+      "year_from": 2020,
+      "year_to": 2025,
+      "chipUrl": "https://www.paintref.com/chipimages/A2DH5T.png",
+      "chipHash": "02f2370b4de8b247",
+      "ditzler": "951609",
+      "models": [
+        "Dodge",
+        "Dodge Truck"
+      ]
+    },
+    {
+      "code": "P24",
+      "name": "Squid Ink",
+      "make": "Dodge",
+      "model": "Dodge Truck",
+      "year_from": 2020,
+      "year_to": 2020,
+      "chipUrl": "https://www.paintref.com/chipimages/FUF5DU.png",
+      "chipHash": "4adc4f717873c3b9",
+      "ditzler": "953204",
+      "models": [
+        "Dodge Truck"
+      ]
+    },
+    {
+      "code": "P51",
+      "name": "ServPro Green",
+      "make": "Dodge",
+      "model": "Dodge Truck",
+      "year_from": 2020,
+      "year_to": 2020,
+      "chipUrl": "https://www.paintref.com/chipimages/GGEHF2.png",
+      "chipHash": "bd59eefc68514391",
+      "ditzler": "945443",
+      "models": [
+        "Dodge Truck"
+      ]
+    },
+    {
+      "code": "PAU",
+      "name": "Granite Pearl",
+      "make": "Dodge",
+      "model": "Challenger",
+      "year_from": 2021,
+      "year_to": 2022,
+      "chipUrl": "https://www.paintref.com/chipimages/SGSGSG.png",
+      "chipHash": "a9553bbd5bdf32d7",
+      "ditzler": "933729",
+      "models": [
+        "Challenger",
+        "Charger"
+      ]
+    },
+    {
+      "code": "PXQ",
+      "name": "Black Metallic",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2021,
+      "year_to": 2022,
+      "chipUrl": "https://www.paintref.com/chipimages/GGGGGG.png",
+      "chipHash": "1f437854e2d31a87",
+      "ditzler": "939616",
+      "models": [
+        "Dodge",
+        "Dodge Truck"
+      ]
+    },
+    {
+      "code": "487",
+      "name": "Blue Night",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2021,
+      "year_to": 2021,
+      "chipUrl": "https://www.paintref.com/chipimages/XS55DE.png",
+      "chipHash": "cb8c8e9eee526fc3",
+      "ditzler": "939585",
+      "models": [
+        "Dodge"
+      ]
+    },
+    {
+      "code": "PWD",
+      "name": "Ivory White",
+      "make": "Dodge",
+      "model": "Dodge Truck",
+      "year_from": 2021,
+      "year_to": 2024,
+      "chipUrl": "https://www.paintref.com/chipimages/UGUSUX.png",
+      "chipHash": "02cefe86632161c9",
+      "ditzler": "930136",
+      "models": [
+        "Dodge",
+        "Dodge Truck"
+      ]
+    },
+    {
+      "code": "P49",
+      "name": "Republic Blue",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2023,
+      "year_to": 2025,
+      "chipUrl": "https://www.paintref.com/chipimages/G4FW34.png",
+      "chipHash": "a63bd96e2220612e",
+      "ditzler": "",
+      "models": [
+        "Dodge",
+        "Dodge Truck"
+      ]
+    },
+    {
+      "code": "PH6",
+      "name": "Blue Steele",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2023,
+      "year_to": 2026,
+      "chipUrl": "https://www.paintref.com/chipimages/FCST24.png",
+      "chipHash": "094a597d1fc38a63",
+      "ditzler": "",
+      "models": [
+        "Dodge",
+        "Dodge Truck",
+        "Hornet"
+      ]
+    },
+    {
+      "code": "PL6",
+      "name": "Acapulco Gold",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2023,
+      "year_to": 2024,
+      "chipUrl": "https://www.paintref.com/chipimages/ES3WXU.png",
+      "chipHash": "26526f49d37c331f",
+      "ditzler": "",
+      "models": [
+        "Dodge",
+        "Dodge Truck",
+        "Hornet"
+      ]
+    },
+    {
+      "code": "PA5",
+      "name": "Gray Cray",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2023,
+      "year_to": 2026,
+      "chipUrl": "https://www.paintref.com/chipimages/W2WHWA.png",
+      "chipHash": "f1b30f1012ef28fc",
+      "ditzler": "945848",
+      "models": [
+        "Dodge",
+        "Dodge Truck",
+        "Hornet"
+      ]
+    },
+    {
+      "code": "PF2",
+      "name": "Spitfire Orange",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2023,
+      "year_to": 2025,
+      "chipUrl": "https://www.paintref.com/chipimages/UCFSDX.png",
+      "chipHash": "4fbaf9e125fd1bda",
+      "ditzler": "942381",
+      "models": [
+        "Dodge",
+        "Dodge Truck"
+      ]
+    },
+    {
+      "code": "217B",
+      "name": "Q Ball",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2023,
+      "year_to": 2024,
+      "chipUrl": "https://www.paintref.com/chipimages/UTU445.png",
+      "chipHash": "4393b7e64c027b83",
+      "ditzler": "944586",
+      "models": [
+        "Dodge",
+        "Dodge Truck",
+        "Hornet"
+      ]
+    },
+    {
+      "code": "756A",
+      "name": "Blu Bayou",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2023,
+      "year_to": 2026,
+      "chipUrl": "https://www.paintref.com/chipimages/GCDW2W.png",
+      "chipHash": "d59d243790884584",
+      "ditzler": "949712",
+      "models": [
+        "Dodge",
+        "Dodge Truck",
+        "Hornet"
+      ]
+    },
+    {
+      "code": "414C",
+      "name": "Hot Tamale",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2023,
+      "year_to": 2026,
+      "chipUrl": "https://www.paintref.com/chipimages/CXXEXT.png",
+      "chipHash": "e63f56267ee4e2d8",
+      "ditzler": "944100",
+      "models": [
+        "Dodge",
+        "Dodge Truck",
+        "Hornet"
+      ]
+    },
+    {
+      "code": "601",
+      "name": "8 Ball",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2023,
+      "year_to": 2024,
+      "chipUrl": "https://www.paintref.com/chipimages/GGGGGG.png",
+      "chipHash": "1f437854e2d31a87",
+      "ditzler": "939661",
+      "models": [
+        "Dodge",
+        "Dodge Truck",
+        "Hornet"
+      ]
+    },
+    {
+      "code": "PXJ",
+      "name": "Diamond Black",
+      "make": "Dodge",
+      "model": "Dodge Truck",
+      "year_from": 2023,
+      "year_to": 2026,
+      "chipUrl": "https://www.paintref.com/chipimages/GGGGGG.png",
+      "chipHash": "1f437854e2d31a87",
+      "ditzler": "931430",
+      "models": [
+        "Dodge",
+        "Dodge Truck",
+        "Durango"
+      ]
+    },
+    {
+      "code": "PAS",
+      "name": "Vapor Gray",
+      "make": "Dodge",
+      "model": "Charger",
+      "year_from": 2024,
+      "year_to": 2026,
+      "chipUrl": "https://www.paintref.com/chipimages/FEFFFF.png",
+      "chipHash": "83e3c3159f797b60",
+      "ditzler": "",
+      "models": [
+        "Charger",
+        "Dodge",
+        "Dodge Truck",
+        "Durango"
+      ]
+    },
+    {
+      "code": "PL4",
+      "name": "Peel Out",
+      "make": "Dodge",
+      "model": "Charger",
+      "year_from": 2024,
+      "year_to": 2026,
+      "chipUrl": "https://www.paintref.com/chipimages/A4255S.png",
+      "chipHash": "216f1e6337b8a911",
+      "ditzler": "931301",
+      "models": [
+        "Charger",
+        "Dodge"
+      ]
+    },
+    {
+      "code": "PPS",
+      "name": "After Dark",
+      "make": "Dodge",
+      "model": "Charger",
+      "year_from": 2024,
+      "year_to": 2026,
+      "chipUrl": "https://www.paintref.com/chipimages/DDFHWT.png",
+      "chipHash": "c572cb2acce07c0a",
+      "ditzler": "933700",
+      "models": [
+        "Charger",
+        "Dodge"
+      ]
+    },
+    {
+      "code": "PR6",
+      "name": "Redeye",
+      "make": "Dodge",
+      "model": "Charger",
+      "year_from": 2024,
+      "year_to": 2026,
+      "chipUrl": "https://www.paintref.com/chipimages/C3XSXS.png",
+      "chipHash": "1420a2f088d9f35f",
+      "ditzler": "",
+      "models": [
+        "Charger",
+        "Dodge"
+      ]
+    },
+    {
+      "code": "PCQ",
+      "name": "Night Moves",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2024,
+      "year_to": 2025,
+      "chipUrl": "https://www.paintref.com/chipimages/XCD5FT.png",
+      "chipHash": "78b387a97fbe18d7",
+      "ditzler": "",
+      "models": [
+        "Dodge",
+        "Dodge Truck",
+        "Durango"
+      ]
+    },
+    {
+      "code": "PHC",
+      "name": "Red Oxide",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2024,
+      "year_to": 2025,
+      "chipUrl": "https://www.paintref.com/chipimages/53XU5S.png",
+      "chipHash": "7e43dba2fd615b75",
+      "ditzler": "",
+      "models": [
+        "Dodge",
+        "Dodge Truck",
+        "Durango"
+      ]
+    },
+    {
+      "code": "PJ7",
+      "name": "Canyon Lake",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2024,
+      "year_to": 2025,
+      "chipUrl": "https://www.paintref.com/chipimages/WDWFFT.png",
+      "chipHash": "94ee04f02d2f0255",
+      "ditzler": "",
+      "models": [
+        "Dodge",
+        "Dodge Truck"
+      ]
+    },
+    {
+      "code": "PRV",
+      "name": "Demonico Red",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2024,
+      "year_to": 2024,
+      "chipUrl": "https://www.paintref.com/chipimages/FUGAXD.png",
+      "chipHash": "29560d28ae511af4",
+      "ditzler": "937541",
+      "models": [
+        "Dodge",
+        "Dodge Truck"
+      ]
+    },
+    {
+      "code": "PXJ",
+      "name": "Diamond Black Black",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2024,
+      "year_to": 2024,
+      "chipUrl": "https://www.paintref.com/chipimages/GGGGGG.png",
+      "chipHash": "1f437854e2d31a87",
+      "ditzler": "931430",
+      "models": [
+        "Dodge",
+        "Dodge Truck"
+      ]
+    },
+    {
+      "code": "PL5",
+      "name": "Acapulco Gold",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2025,
+      "year_to": 2026,
+      "chipUrl": "https://www.paintref.com/chipimages/UUTCFU.png",
+      "chipHash": "63128ffba3ebe570",
+      "ditzler": "",
+      "models": [
+        "Dodge",
+        "Hornet"
+      ]
+    },
+    {
+      "code": "PW1",
+      "name": "Q Ball",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2025,
+      "year_to": 2026,
+      "chipUrl": "https://www.paintref.com/chipimages/4E4FUW.png",
+      "chipHash": "0e3fca4b0e0124d8",
+      "ditzler": "",
+      "models": [
+        "Dodge",
+        "Hornet"
+      ]
+    },
+    {
+      "code": "PDN",
+      "name": "Ceramic Gray",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2025,
+      "year_to": 2025,
+      "chipUrl": "https://www.paintref.com/chipimages/S4SAS2.png",
+      "chipHash": "15a1476429819818",
+      "ditzler": "945407",
+      "models": [
+        "Dodge",
+        "Dodge Truck"
+      ]
+    },
+    {
+      "code": "PSE",
+      "name": "Silver Zynith",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2025,
+      "year_to": 2025,
+      "chipUrl": "https://www.paintref.com/chipimages/ETTAHX.png",
+      "chipHash": "d7b676848659be9c",
+      "ditzler": "949667",
+      "models": [
+        "Dodge",
+        "Dodge Truck"
+      ]
+    },
+    {
+      "code": "PTA",
+      "name": "Mocha Latte",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2025,
+      "year_to": 2025,
+      "chipUrl": "https://www.paintref.com/chipimages/EF342E.png",
+      "chipHash": "9a3bd74dcf29f1f9",
+      "ditzler": "941965",
+      "models": [
+        "Dodge",
+        "Dodge Truck"
+      ]
+    },
+    {
+      "code": "PXN",
+      "name": "8 Ball",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2025,
+      "year_to": 2026,
+      "chipUrl": "https://www.paintref.com/chipimages/GGGGGG.png",
+      "chipHash": "1f437854e2d31a87",
+      "ditzler": "935414",
+      "models": [
+        "Dodge",
+        "Hornet"
+      ]
+    },
+    {
+      "code": "PAS",
+      "name": "Steel Storm",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2025,
+      "year_to": 2025,
+      "chipUrl": "https://www.paintref.com/chipimages/FEFFFF.png",
+      "chipHash": "83e3c3159f797b60",
+      "ditzler": "",
+      "models": [
+        "Dodge",
+        "Dodge Truck"
+      ]
+    },
+    {
+      "code": "PCG",
+      "name": "Forged Blue",
+      "make": "Dodge",
+      "model": "Dodge",
+      "year_from": 2025,
+      "year_to": 2025,
+      "chipUrl": "https://www.paintref.com/chipimages/5HDGDE.png",
+      "chipHash": "16b163eca2a05e7f",
+      "ditzler": "",
+      "models": [
+        "Dodge"
+      ]
+    },
+    {
+      "code": "PBJ",
+      "name": "Bludicrous",
+      "make": "Dodge",
+      "model": "Charger",
+      "year_from": 2026,
+      "year_to": 2026,
+      "chipUrl": "https://www.paintref.com/chipimages/XUWET3.png",
+      "chipHash": "fb4133c308a7ed44",
+      "ditzler": "936933",
+      "models": [
+        "Charger"
+      ]
+    },
+    {
+      "code": "PFP",
+      "name": "Green Machine",
+      "make": "Dodge",
+      "model": "Charger",
+      "year_from": 2026,
+      "year_to": 2026,
+      "chipUrl": "https://www.paintref.com/chipimages/SA2FWC.png",
+      "chipHash": "5cfffd8f6abbdd0f",
+      "ditzler": "942356",
+      "models": [
+        "Charger",
+        "Durango"
+      ]
+    }
+  ],
+  "filters": {
+    "yearFrom": 2000,
+    "yearTo": 2026
+  }
+}

@@ -1,0 +1,3050 @@
+{
+  "$schema": "../../../schemas/exterior-paints-v1.schema.json",
+  "scopeId": "chrysler-paintref-v1",
+  "version": "1.0.0",
+  "paints": [
+    {
+      "code": "PGF",
+      "marketingName": "Emerald Green",
+      "finish": "solid",
+      "lab": {
+        "L": 19.03,
+        "a": -8.35,
+        "b": -5.56,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #193236 (PaintRef chip, OEM=Chrysler, code=PGF (year=2000), pixels=306, chipUrl=https://www.paintref.com/chipimages/XCD5DS.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:14dd1aaa1eaf1509"
+      }
+    },
+    {
+      "code": "PGS",
+      "marketingName": "Emerald Green",
+      "finish": "solid",
+      "lab": {
+        "L": 14.14,
+        "a": -7.03,
+        "b": -5.25,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #12272B (PaintRef chip, OEM=Chrysler, code=PGS (year=2000), pixels=306, chipUrl=https://www.paintref.com/chipimages/X5525T.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:cadd17229051dc4c"
+      }
+    },
+    {
+      "code": "PR4",
+      "marketingName": "Flame Red",
+      "finish": "solid",
+      "lab": {
+        "L": 41.78,
+        "a": 56.35,
+        "b": 39.25,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #BB2A25 (PaintRef chip, OEM=Chrysler, code=PR4 (years=2000-2008), pixels=306, chipUrl=https://www.paintref.com/chipimages/TT5E5W.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:597fe52862cafe20"
+      }
+    },
+    {
+      "code": "PA9",
+      "marketingName": "Viper Silver",
+      "finish": "solid",
+      "lab": {
+        "L": 89.85,
+        "a": -3.76,
+        "b": 1.99,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #DCE4DE (PaintRef chip, OEM=Chrysler, code=PA9 (years=2000-2002), pixels=306, chipUrl=https://www.paintref.com/chipimages/AHUFAU.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:889b398580c7c70b"
+      }
+    },
+    {
+      "code": "PAW",
+      "marketingName": "Deep Slate",
+      "finish": "solid",
+      "lab": {
+        "L": 21.9,
+        "a": 1.14,
+        "b": -1.73,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #353437 (PaintRef chip, OEM=Chrysler, code=PAW (years=2000-2002), pixels=306, chipUrl=https://www.paintref.com/chipimages/DWDFD2.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:e53c69449057b037"
+      }
+    },
+    {
+      "code": "PB3",
+      "marketingName": "Intense Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 50.14,
+        "a": -1.7,
+        "b": -42.25,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #237CBF (PaintRef chip, OEM=Chrysler, code=PB3 (years=2000-2001), pixels=306, chipUrl=https://www.paintref.com/chipimages/5D2HT4.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:5b57a65dcc72a446"
+      }
+    },
+    {
+      "code": "PB7",
+      "marketingName": "Patriot Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 29.55,
+        "a": 2.94,
+        "b": -32.47,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #184778 (PaintRef chip, OEM=Chrysler, code=PB7 (years=2000-2008), pixels=306, chipUrl=https://www.paintref.com/chipimages/X3F223.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:d12f88b4926e9b9e"
+      }
+    },
+    {
+      "code": "PBQ",
+      "marketingName": "Steel Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 35.26,
+        "a": -4.58,
+        "b": -12.79,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #3D5667 (PaintRef chip, OEM=Chrysler, code=PBQ (years=2000-2002), pixels=306, chipUrl=https://www.paintref.com/chipimages/DAWSS2.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:e02d3cc2c561cc56"
+      }
+    },
+    {
+      "code": "PBT",
+      "marketingName": "Patriot Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 23.43,
+        "a": -0.46,
+        "b": -24.94,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #103A5D (PaintRef chip, OEM=Chrysler, code=PBT (years=2000-2002), pixels=306, chipUrl=https://www.paintref.com/chipimages/XGDEWA.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:63dafeda0dd9ba7f"
+      }
+    },
+    {
+      "code": "PCN",
+      "marketingName": "Deep Amethyst",
+      "finish": "solid",
+      "lab": {
+        "L": 7.94,
+        "a": 10.38,
+        "b": -19.97,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #141432 (PaintRef chip, OEM=Chrysler, code=PCN (year=2000), pixels=306, chipUrl=https://www.paintref.com/chipimages/XFXFD5.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:e13c46506269d736"
+      }
+    },
+    {
+      "code": "PCS",
+      "marketingName": "Blackberry",
+      "finish": "solid",
+      "lab": {
+        "L": 15.24,
+        "a": 6.72,
+        "b": -14.78,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #24243B (PaintRef chip, OEM=Chrysler, code=PCS (year=2000), pixels=306, chipUrl=https://www.paintref.com/chipimages/5F5FDT.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:fa19b71c6ac9e28a"
+      }
+    },
+    {
+      "code": "PD4",
+      "marketingName": "Ice Silver",
+      "finish": "solid",
+      "lab": {
+        "L": 72.66,
+        "a": -1.96,
+        "b": -8.75,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #A6B4C2 (PaintRef chip, OEM=Chrysler, code=PD4 (years=2000-2002), pixels=306, chipUrl=https://www.paintref.com/chipimages/ESTFH5.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:bd43a147d3e47a81"
+      }
+    },
+    {
+      "code": "PE1",
+      "marketingName": "Colorado Red",
+      "finish": "solid",
+      "lab": {
+        "L": 32.99,
+        "a": 51.33,
+        "b": 38.22,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #9A1713 (PaintRef chip, OEM=Chrysler, code=PE1 (year=2000), pixels=306, chipUrl=https://www.paintref.com/chipimages/CEX2XD.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:42e6625f1a1f3288"
+      }
+    },
+    {
+      "code": "PE5",
+      "marketingName": "Salsa Red",
+      "finish": "solid",
+      "lab": {
+        "L": 45.62,
+        "a": 58.79,
+        "b": 48,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #CB311D (PaintRef chip, OEM=Chrysler, code=PE5 (years=2000-2002), pixels=306, chipUrl=https://www.paintref.com/chipimages/HTDXXA.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:f502394c573fcae7"
+      }
+    },
+    {
+      "code": "PEA",
+      "marketingName": "Chili Pepper Red",
+      "finish": "solid",
+      "lab": {
+        "L": 25.02,
+        "a": 36.93,
+        "b": 22.79,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #711C1B (PaintRef chip, OEM=Chrysler, code=PEA (year=2000), pixels=306, chipUrl=https://www.paintref.com/chipimages/2XXHXT.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:23f8fe39ca14ab81"
+      }
+    },
+    {
+      "code": "PEL",
+      "marketingName": "Inferno Red",
+      "finish": "solid",
+      "lab": {
+        "L": 38.69,
+        "a": 57.94,
+        "b": 37.85,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #B31B21 (PaintRef chip, OEM=Chrysler, code=PEL (years=2000-2002), pixels=306, chipUrl=https://www.paintref.com/chipimages/TDXT5X.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:69726575b77a19c7"
+      }
+    },
+    {
+      "code": "PFA",
+      "marketingName": "Light Driftwood",
+      "finish": "solid",
+      "lab": {
+        "L": 65.24,
+        "a": 3.35,
+        "b": 5.9,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #A99C94 (PaintRef chip, OEM=Chrysler, code=PFA (year=2000), pixels=306, chipUrl=https://www.paintref.com/chipimages/ECCHCF.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:0fd46442bde8d4e8"
+      }
+    },
+    {
+      "code": "PFK",
+      "marketingName": "Light Driftwood",
+      "finish": "solid",
+      "lab": {
+        "L": 69.45,
+        "a": 2.01,
+        "b": 5.93,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #B2A89F (PaintRef chip, OEM=Chrysler, code=PFK (year=2000), pixels=306, chipUrl=https://www.paintref.com/chipimages/T5E3C4.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:1c09378909f39708"
+      }
+    },
+    {
+      "code": "PG2",
+      "marketingName": "Light Cypress Green",
+      "finish": "solid",
+      "lab": {
+        "L": 68.34,
+        "a": -5.28,
+        "b": 8.04,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #A3A998 (PaintRef chip, OEM=Chrysler, code=PG2 (year=2000), pixels=306, chipUrl=https://www.paintref.com/chipimages/EDECC3.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:0b6c9f8febad7312"
+      }
+    },
+    {
+      "code": "PG4",
+      "marketingName": "Hunter Green",
+      "finish": "solid",
+      "lab": {
+        "L": 23.02,
+        "a": -20.62,
+        "b": 24.09,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #213E10 (PaintRef chip, OEM=Chrysler, code=PG4 (years=2000-2002), pixels=306, chipUrl=https://www.paintref.com/chipimages/5XDUXG.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:9aba7d8e3ecc1ca7"
+      }
+    },
+    {
+      "code": "PG8",
+      "marketingName": "Forest Green",
+      "finish": "solid",
+      "lab": {
+        "L": 30.07,
+        "a": -15.28,
+        "b": 7.99,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #314D3A (PaintRef chip, OEM=Chrysler, code=PG8 (years=2000-2002), pixels=306, chipUrl=https://www.paintref.com/chipimages/DXFADE.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:dc5732dd6f6419c3"
+      }
+    },
+    {
+      "code": "PGR",
+      "marketingName": "Shale Green",
+      "finish": "solid",
+      "lab": {
+        "L": 41.27,
+        "a": -17.03,
+        "b": 2.96,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #42695C (PaintRef chip, OEM=Chrysler, code=PGR (years=2000-2002), pixels=306, chipUrl=https://www.paintref.com/chipimages/F5SCWH.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:75446329519cbfe5"
+      }
+    },
+    {
+      "code": "PH2",
+      "marketingName": "Candy Apple Red",
+      "finish": "solid",
+      "lab": {
+        "L": 25.61,
+        "a": 39.65,
+        "b": 25.63,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #761918 (PaintRef chip, OEM=Chrysler, code=PH2 (year=2000), pixels=306, chipUrl=https://www.paintref.com/chipimages/2SXCX3.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:c0ec9ce32b185f9d"
+      }
+    },
+    {
+      "code": "PHK",
+      "marketingName": "Galaxy Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 29.6,
+        "a": 7.3,
+        "b": -33.62,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #26457A (PaintRef chip, OEM=Chrysler, code=PHK (year=2000), pixels=306, chipUrl=https://www.paintref.com/chipimages/5SFW2E.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:8d473b6e1694a585"
+      }
+    },
+    {
+      "code": "PJP",
+      "marketingName": "Medium Fern Green",
+      "finish": "solid",
+      "lab": {
+        "L": 38.09,
+        "a": -6.72,
+        "b": -1.6,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #4C5D5C (PaintRef chip, OEM=Chrysler, code=PJP (year=2000), pixels=306, chipUrl=https://www.paintref.com/chipimages/FHWAWH.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:f9da785d7184cc38"
+      }
+    },
+    {
+      "code": "PLB",
+      "marketingName": "Cinnamon Glaze",
+      "finish": "solid",
+      "lab": {
+        "L": 26.12,
+        "a": 16.36,
+        "b": 6.24,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #583435 (PaintRef chip, OEM=Chrysler, code=PLB (years=2000-2002), pixels=306, chipUrl=https://www.paintref.com/chipimages/W3DFDW.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:366cbe32c51b5ad3"
+      }
+    },
+    {
+      "code": "S23",
+      "marketingName": "Caffe Latte",
+      "finish": "solid",
+      "lab": {
+        "L": 61.75,
+        "a": 7.98,
+        "b": 6.51,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #A8908A (PaintRef chip, OEM=Chrysler, code=S23 (years=2000-2002), pixels=306, chipUrl=https://www.paintref.com/chipimages/E3CG3E.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:2b6518db09b069e5"
+      }
+    },
+    {
+      "code": "PMD",
+      "marketingName": "Medium Red",
+      "finish": "solid",
+      "lab": {
+        "L": 27.99,
+        "a": 42.37,
+        "b": 26.96,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #801B1B (PaintRef chip, OEM=Chrysler, code=PMD (years=2000-2002), pixels=306, chipUrl=https://www.paintref.com/chipimages/3GXTXT.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:7ca52efcfe8e4eb8"
+      }
+    },
+    {
+      "code": "PMT",
+      "marketingName": "Deep Cranberry",
+      "finish": "solid",
+      "lab": {
+        "L": 25.33,
+        "a": 35.49,
+        "b": -1.91,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #6A2140 (PaintRef chip, OEM=Chrysler, code=PMT (years=2000-2002), pixels=306, chipUrl=https://www.paintref.com/chipimages/SE5XFG.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:fb1d3f5d405e231d"
+      }
+    },
+    {
+      "code": "PPG",
+      "marketingName": "Dark Spruce",
+      "finish": "solid",
+      "lab": {
+        "L": 27.16,
+        "a": -3.75,
+        "b": -15.77,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #274358 (PaintRef chip, OEM=Chrysler, code=PPG (years=2000-2002), pixels=306, chipUrl=https://www.paintref.com/chipimages/52FDW3.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:d91d7818a5f459a1"
+      }
+    },
+    {
+      "code": "PPT",
+      "marketingName": "Everglade",
+      "finish": "solid",
+      "lab": {
+        "L": 23.81,
+        "a": -13.15,
+        "b": 2.22,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #223E35 (PaintRef chip, OEM=Chrysler, code=PPT (year=2000), pixels=306, chipUrl=https://www.paintref.com/chipimages/55DUDW.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:4bfe97b79db1b450"
+      }
+    },
+    {
+      "code": "T45",
+      "marketingName": "Slate Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 40.42,
+        "a": -4.72,
+        "b": -6.11,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #516269 (PaintRef chip, OEM=Chrysler, code=T45 (year=2000), pixels=306, chipUrl=https://www.paintref.com/chipimages/WXS5SC.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:52ff97260c779a98"
+      }
+    },
+    {
+      "code": "PQW",
+      "marketingName": "Aquamarine",
+      "finish": "solid",
+      "lab": {
+        "L": 28.44,
+        "a": -10.55,
+        "b": -4.73,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #2A484A (PaintRef chip, OEM=Chrysler, code=PQW (years=2000-2002), pixels=306, chipUrl=https://www.paintref.com/chipimages/5EF3FE.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:9e30e591cfaeea65"
+      }
+    },
+    {
+      "code": "PR8",
+      "marketingName": "Director Red",
+      "finish": "solid",
+      "lab": {
+        "L": 25.31,
+        "a": 36.15,
+        "b": 8.35,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #6E1F31 (PaintRef chip, OEM=Chrysler, code=PR8 (years=2000-2002), pixels=306, chipUrl=https://www.paintref.com/chipimages/SUX4DX.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:0017409b573a9937"
+      }
+    },
+    {
+      "code": "R87",
+      "marketingName": "Indy Red",
+      "finish": "solid",
+      "lab": {
+        "L": 42.7,
+        "a": 59.42,
+        "b": 43.79,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #C2261F (PaintRef chip, OEM=Chrysler, code=R87 (years=2000-2002), pixels=306, chipUrl=https://www.paintref.com/chipimages/H55SX4.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:8395cba09d3aaa5d"
+      }
+    },
+    {
+      "code": "PRD",
+      "marketingName": "Prowler Red",
+      "finish": "solid",
+      "lab": {
+        "L": 45.12,
+        "a": 70.58,
+        "b": 58.97,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #D80101 (PaintRef chip, OEM=Chrysler, code=PRD (year=2000), pixels=306, chipUrl=https://www.paintref.com/chipimages/A3GGGG.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:ab4f24520650a3d1"
+      }
+    },
+    {
+      "code": "PRN",
+      "marketingName": "Viper Red",
+      "finish": "solid",
+      "lab": {
+        "L": 43.88,
+        "a": 63.44,
+        "b": 40.13,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #CA2029 (PaintRef chip, OEM=Chrysler, code=PRN (years=2000-2008), pixels=306, chipUrl=https://www.paintref.com/chipimages/HE5G5C.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:c30b63c8b4dc663a"
+      }
+    },
+    {
+      "code": "PRV",
+      "marketingName": "Dark Garnet Red",
+      "finish": "solid",
+      "lab": {
+        "L": 26.8,
+        "a": 40.47,
+        "b": 12.73,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #781C2E (PaintRef chip, OEM=Chrysler, code=PRV (years=2000-2002), pixels=306, chipUrl=https://www.paintref.com/chipimages/23XH5U.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:78c6a72fafab292a"
+      }
+    },
+    {
+      "code": "PS2",
+      "marketingName": "Bright Silver",
+      "finish": "solid",
+      "lab": {
+        "L": 90.72,
+        "a": -2.91,
+        "b": 1.73,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #E0E6E1 (PaintRef chip, OEM=Chrysler, code=PS2 (years=2000-2008), pixels=306, chipUrl=https://www.paintref.com/chipimages/UGUSUX.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:02cefe86632161c9"
+      }
+    },
+    {
+      "code": "PS4",
+      "marketingName": "Bright Platinum",
+      "finish": "solid",
+      "lab": {
+        "L": 57.02,
+        "a": 0.94,
+        "b": 4.55,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #8E8881 (PaintRef chip, OEM=Chrysler, code=PS4 (years=2000-2001), pixels=306, chipUrl=https://www.paintref.com/chipimages/3U333X.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:1ae31957dd2b9cb5"
+      }
+    },
+    {
+      "code": "PS5",
+      "marketingName": "Silverstone",
+      "finish": "solid",
+      "lab": {
+        "L": 53.39,
+        "a": -3.8,
+        "b": -6.81,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #72828B (PaintRef chip, OEM=Chrysler, code=PS5 (years=2000-2002), pixels=306, chipUrl=https://www.paintref.com/chipimages/25353T.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:a778bcba0d0cc90d"
+      }
+    },
+    {
+      "code": "PS6",
+      "marketingName": "Viper Steel Gray",
+      "finish": "solid",
+      "lab": {
+        "L": 53.39,
+        "a": -3.8,
+        "b": -6.81,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #72828B (PaintRef chip, OEM=Chrysler, code=PS6 (year=2000), pixels=306, chipUrl=https://www.paintref.com/chipimages/25353T.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:a778bcba0d0cc90d"
+      }
+    },
+    {
+      "code": "PSA",
+      "marketingName": "Prowler Silver",
+      "finish": "solid",
+      "lab": {
+        "L": 87.05,
+        "a": 1.3,
+        "b": -10.09,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #D3DAED (PaintRef chip, OEM=Chrysler, code=PSA (years=2000-2002), pixels=306, chipUrl=https://www.paintref.com/chipimages/ADAEUA.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:c45e3533a95382b7"
+      }
+    },
+    {
+      "code": "PSC",
+      "marketingName": "Light Arctic Gray",
+      "finish": "solid",
+      "lab": {
+        "L": 68.03,
+        "a": 3.74,
+        "b": -5.67,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #A8A4B0 (PaintRef chip, OEM=Chrysler, code=PSC (years=2000-2002), pixels=306, chipUrl=https://www.paintref.com/chipimages/E3EFTG.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:f9e7603e33d9bffe"
+      }
+    },
+    {
+      "code": "PSH",
+      "marketingName": "Silverstone",
+      "finish": "solid",
+      "lab": {
+        "L": 68.36,
+        "a": 0.29,
+        "b": -6.9,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #A1A7B3 (PaintRef chip, OEM=Chrysler, code=PSH (years=2000-2002), pixels=306, chipUrl=https://www.paintref.com/chipimages/EXE2TD.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:9099a22ec28bfe36"
+      }
+    },
+    {
+      "code": "PTD",
+      "marketingName": "Desert Sand",
+      "finish": "solid",
+      "lab": {
+        "L": 49.9,
+        "a": 13.09,
+        "b": 15.54,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #956E5D (PaintRef chip, OEM=Chrysler, code=PTD (years=2000-2001), pixels=306, chipUrl=https://www.paintref.com/chipimages/CWSUWA.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:79e2c5fca66206b0"
+      }
+    },
+    {
+      "code": "PTE",
+      "marketingName": "Champagne",
+      "finish": "solid",
+      "lab": {
+        "L": 79.07,
+        "a": -0.27,
+        "b": 13.96,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #CEC3AA (PaintRef chip, OEM=Chrysler, code=PTE (years=2000-2001), pixels=306, chipUrl=https://www.paintref.com/chipimages/HUHDEE.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:72a0e8673b969d06"
+      }
+    },
+    {
+      "code": "PTH",
+      "marketingName": "Champagne",
+      "finish": "solid",
+      "lab": {
+        "L": 73.26,
+        "a": -0.7,
+        "b": 20.23,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #C1B38F (PaintRef chip, OEM=Chrysler, code=PTH (years=2000-2001), pixels=306, chipUrl=https://www.paintref.com/chipimages/HXTD34.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:5dc0b288d74c3571"
+      }
+    },
+    {
+      "code": "PTK",
+      "marketingName": "Taupe Frost",
+      "finish": "solid",
+      "lab": {
+        "L": 33.01,
+        "a": 2.31,
+        "b": 7.48,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #564C42 (PaintRef chip, OEM=Chrysler, code=PTK (years=2000-2002), pixels=306, chipUrl=https://www.paintref.com/chipimages/WSFHF5.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:3ab4e54a2e585d90"
+      }
+    },
+    {
+      "code": "PTL",
+      "marketingName": "Sierra Bronze",
+      "finish": "solid",
+      "lab": {
+        "L": 66.24,
+        "a": 2.78,
+        "b": 23,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #B59E78 (PaintRef chip, OEM=Chrysler, code=PTL (years=2000-2001), pixels=306, chipUrl=https://www.paintref.com/chipimages/TWCU23.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:64e3cd6dee4d214a"
+      }
+    },
+    {
+      "code": "PU7",
+      "marketingName": "Sienna Pearl",
+      "finish": "solid",
+      "lab": {
+        "L": 24.83,
+        "a": 36.42,
+        "b": 12.46,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #6E1D2A (PaintRef chip, OEM=Chrysler, code=PU7 (years=2000-2002), pixels=306, chipUrl=https://www.paintref.com/chipimages/SUXA5E.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:e14319a109300be0"
+      }
+    },
+    {
+      "code": "PUL",
+      "marketingName": "Sienna",
+      "finish": "solid",
+      "lab": {
+        "L": 13.42,
+        "a": 24,
+        "b": 13.59,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #431110 (PaintRef chip, OEM=Chrysler, code=PUL (years=2000-2001), pixels=306, chipUrl=https://www.paintref.com/chipimages/FDXXXG.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:917ec41436abdd48"
+      }
+    },
+    {
+      "code": "PV3",
+      "marketingName": "Amber Fire",
+      "finish": "solid",
+      "lab": {
+        "L": 62.63,
+        "a": 26.29,
+        "b": 68.59,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #DA8301 (PaintRef chip, OEM=Chrysler, code=PV3 (years=2000-2002), pixels=306, chipUrl=https://www.paintref.com/chipimages/AE3DGG.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:24fe344c52d1ffd6"
+      }
+    },
+    {
+      "code": "PW1",
+      "marketingName": "Stone White",
+      "finish": "solid",
+      "lab": {
+        "L": 96.75,
+        "a": -3.08,
+        "b": 6.49,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #F5F7E9 (PaintRef chip, OEM=Chrysler, code=PW1 (years=2000-2008), pixels=306, chipUrl=https://www.paintref.com/chipimages/4W42UC.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:efac8a4d6202429e"
+      }
+    },
+    {
+      "code": "PWP",
+      "marketingName": "Golden White",
+      "finish": "solid",
+      "lab": {
+        "L": 86.35,
+        "a": -0.71,
+        "b": 6.39,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #DCD8CC (PaintRef chip, OEM=Chrysler, code=PWP (year=2000), pixels=306, chipUrl=https://www.paintref.com/chipimages/AHA3HH.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:75d908c22cb40ef8"
+      }
+    },
+    {
+      "code": "PX3",
+      "marketingName": "Viper Black",
+      "finish": "solid",
+      "lab": {
+        "L": 0.27,
+        "a": 0,
+        "b": 0,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #010101 (PaintRef chip, OEM=Chrysler, code=PX3 (years=2000-2008), pixels=306, chipUrl=https://www.paintref.com/chipimages/GGGGGG.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:1f437854e2d31a87"
+      }
+    },
+    {
+      "code": "PX9",
+      "marketingName": "Black",
+      "finish": "solid",
+      "lab": {
+        "L": 0.27,
+        "a": 0,
+        "b": 0,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #010101 (PaintRef chip, OEM=Chrysler, code=PX9 (years=2000-2002), pixels=306, chipUrl=https://www.paintref.com/chipimages/GGGGGG.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:1f437854e2d31a87"
+      }
+    },
+    {
+      "code": "PXT",
+      "marketingName": "Prowler Black",
+      "finish": "solid",
+      "lab": {
+        "L": 0.27,
+        "a": 0,
+        "b": 0,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #010101 (PaintRef chip, OEM=Chrysler, code=PXT (years=2000-2002), pixels=306, chipUrl=https://www.paintref.com/chipimages/GGGGGG.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:1f437854e2d31a87"
+      }
+    },
+    {
+      "code": "PYH",
+      "marketingName": "Solar Yellow",
+      "finish": "solid",
+      "lab": {
+        "L": 78.18,
+        "a": 12.72,
+        "b": 68.86,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #F7B638 (PaintRef chip, OEM=Chrysler, code=PYH (years=2000-2002), pixels=306, chipUrl=https://www.paintref.com/chipimages/42TSD3.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:5068f44303f97665"
+      }
+    },
+    {
+      "code": "PX8",
+      "marketingName": "Black",
+      "finish": "solid",
+      "lab": {
+        "L": 0.27,
+        "a": 0,
+        "b": 0,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #010101 (PaintRef chip, OEM=Chrysler, code=PX8 (years=2000-2008), pixels=306, chipUrl=https://www.paintref.com/chipimages/GGGGGG.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:1f437854e2d31a87"
+      }
+    },
+    {
+      "code": "VXW",
+      "marketingName": "Carbon Black",
+      "finish": "solid",
+      "lab": {
+        "L": 18.74,
+        "a": 1.36,
+        "b": -0.97,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #2F2D2F (PaintRef chip, OEM=Chrysler, code=VXW (years=2000-2001), pixels=306, chipUrl=https://www.paintref.com/chipimages/545A54.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:4f1ab7e9310a3c8c"
+      }
+    },
+    {
+      "code": "HA2",
+      "marketingName": "Light Quartz",
+      "finish": "solid",
+      "lab": {
+        "L": 73.9,
+        "a": 1.52,
+        "b": -4.05,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #B5B5BD (PaintRef chip, OEM=Chrysler, code=HA2 (years=2000-2002), pixels=306, chipUrl=https://www.paintref.com/chipimages/TWTWTA.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:33f18407c4a3980a"
+      }
+    },
+    {
+      "code": "AY4KSJ",
+      "marketingName": "Dark Silver",
+      "finish": "solid",
+      "lab": {
+        "L": 59.03,
+        "a": 2.32,
+        "b": -3.98,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #8F8D95 (PaintRef chip, OEM=Chrysler, code=AY4KSJ (years=2000-2002), pixels=306, chipUrl=https://www.paintref.com/chipimages/343ACW.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:dd22bc8fee16ccfc"
+      }
+    },
+    {
+      "code": "AH4MSA",
+      "marketingName": "Argent Gray",
+      "finish": "solid",
+      "lab": {
+        "L": 49.7,
+        "a": 2.57,
+        "b": -3.43,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #78757C (PaintRef chip, OEM=Chrysler, code=AH4MSA (years=2000-2002), pixels=306, chipUrl=https://www.paintref.com/chipimages/232W2H.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:06e0565aa1fd628b"
+      }
+    },
+    {
+      "code": "AH4SPN",
+      "marketingName": "Dark Teal",
+      "finish": "solid",
+      "lab": {
+        "L": 45.36,
+        "a": 1.4,
+        "b": -5.83,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #696B75 (PaintRef chip, OEM=Chrysler, code=AH4SPN (years=2000-2002), pixels=306, chipUrl=https://www.paintref.com/chipimages/SCST2W.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:72214d2944b3b86a"
+      }
+    },
+    {
+      "code": "AW2TAE",
+      "marketingName": "Bright Silver",
+      "finish": "solid",
+      "lab": {
+        "L": 59.93,
+        "a": 0.29,
+        "b": -10.69,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #8791A3 (PaintRef chip, OEM=Chrysler, code=AW2TAE (years=2000-2002), pixels=306, chipUrl=https://www.paintref.com/chipimages/32CXED.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:2b9867fb21505e6d"
+      }
+    },
+    {
+      "code": "WD2",
+      "marketingName": "Euro Silver",
+      "finish": "solid",
+      "lab": {
+        "L": 83.6,
+        "a": -0.76,
+        "b": -3.06,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #CCD1D6 (PaintRef chip, OEM=Chrysler, code=WD2 (years=2000-2002), pixels=306, chipUrl=https://www.paintref.com/chipimages/HHAXAS.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:6907ec72489f1f83"
+      }
+    },
+    {
+      "code": "GX9",
+      "marketingName": "Black",
+      "finish": "solid",
+      "lab": {
+        "L": 0.27,
+        "a": 0,
+        "b": 0,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #010101 (PaintRef chip, OEM=Chrysler, code=GX9 (years=2000-2002), pixels=306, chipUrl=https://www.paintref.com/chipimages/GGGGGG.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:1f437854e2d31a87"
+      }
+    },
+    {
+      "code": "HS5",
+      "marketingName": "Dark Neutral Gray",
+      "finish": "solid",
+      "lab": {
+        "L": 46.1,
+        "a": 2.6,
+        "b": -3.48,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #6F6C73 (PaintRef chip, OEM=Chrysler, code=HS5 (years=2000-2002), pixels=306, chipUrl=https://www.paintref.com/chipimages/S4SH2D.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:bd1c7353065ff373"
+      }
+    },
+    {
+      "code": "AK101HCX",
+      "marketingName": "Black",
+      "finish": "solid",
+      "lab": {
+        "L": 5.4,
+        "a": 1.89,
+        "b": -2.74,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #131116 (PaintRef chip, OEM=Chrysler, code=AK101HCX (years=2000-2002), pixels=306, chipUrl=https://www.paintref.com/chipimages/XDXXXS.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:63b564c61ad9596f"
+      }
+    },
+    {
+      "code": "VF7",
+      "marketingName": "Medium Driftwood",
+      "finish": "solid",
+      "lab": {
+        "L": 45.35,
+        "a": 2.55,
+        "b": -0.98,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #6F6A6D (PaintRef chip, OEM=Chrysler, code=VF7 (years=2000-2002), pixels=306, chipUrl=https://www.paintref.com/chipimages/S4SESA.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:3207347cda8fbd20"
+      }
+    },
+    {
+      "code": "PM327VSE",
+      "marketingName": "Argent",
+      "finish": "solid",
+      "lab": {
+        "L": 43.26,
+        "a": 2.63,
+        "b": -3.52,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #68656C (PaintRef chip, OEM=Chrysler, code=PM327VSE (years=2000-2002), pixels=306, chipUrl=https://www.paintref.com/chipimages/S3SWSH.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:9d947b63845e8d41"
+      }
+    },
+    {
+      "code": "AH002YZB",
+      "marketingName": "Super Silver",
+      "finish": "solid",
+      "lab": {
+        "L": 65.8,
+        "a": 0.11,
+        "b": -3.49,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #9DA0A6 (PaintRef chip, OEM=Chrysler, code=AH002YZB (years=2000-2002), pixels=306, chipUrl=https://www.paintref.com/chipimages/CAEGES.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:2c0aea5ffd89b69b"
+      }
+    },
+    {
+      "code": "K9",
+      "marketingName": "Camel",
+      "finish": "solid",
+      "lab": {
+        "L": 42.93,
+        "a": 6.75,
+        "b": 10.75,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #776154 (PaintRef chip, OEM=Chrysler, code=K9 (years=2000-2002), pixels=306, chipUrl=https://www.paintref.com/chipimages/22SXWF.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:2494683dea9a0dec"
+      }
+    },
+    {
+      "code": "L2",
+      "marketingName": "Natural Beige",
+      "finish": "solid",
+      "lab": {
+        "L": 64.4,
+        "a": 1.46,
+        "b": 4.05,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #A29B95 (PaintRef chip, OEM=Chrysler, code=L2 (years=2000-2002), pixels=306, chipUrl=https://www.paintref.com/chipimages/E5CTCW.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:ea91d045a05a1427"
+      }
+    },
+    {
+      "code": "T9",
+      "marketingName": "Dark Saddle",
+      "finish": "solid",
+      "lab": {
+        "L": 39.03,
+        "a": 7.43,
+        "b": 14.99,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #705744 (PaintRef chip, OEM=Chrysler, code=T9 (years=2000-2002), pixels=306, chipUrl=https://www.paintref.com/chipimages/2GW2FF.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:8eeaa77c9e68c704"
+      }
+    },
+    {
+      "code": "TA",
+      "marketingName": "Light Sandstone",
+      "finish": "solid",
+      "lab": {
+        "L": 61.24,
+        "a": 2.18,
+        "b": 8.49,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #9E9285 (PaintRef chip, OEM=Chrysler, code=TA (years=2000-2001), pixels=306, chipUrl=https://www.paintref.com/chipimages/CUC53W.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:fe4e97e1d0370950"
+      }
+    },
+    {
+      "code": "TM",
+      "marketingName": "Dark Sandstone",
+      "finish": "solid",
+      "lab": {
+        "L": 38.78,
+        "a": 5.22,
+        "b": 8.39,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #69584E (PaintRef chip, OEM=Chrysler, code=TM (years=2000-2002), pixels=306, chipUrl=https://www.paintref.com/chipimages/SCW3FU.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:87a623d32ecea5c7"
+      }
+    },
+    {
+      "code": "UC",
+      "marketingName": "Cognac",
+      "finish": "solid",
+      "lab": {
+        "L": 40.55,
+        "a": 26.6,
+        "b": 21.39,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #904D3E (PaintRef chip, OEM=Chrysler, code=UC (years=2000-2002), pixels=306, chipUrl=https://www.paintref.com/chipimages/CGFADU.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:4ca8da928c713a5c"
+      }
+    },
+    {
+      "code": "AC20157",
+      "marketingName": "Black",
+      "finish": "solid",
+      "lab": {
+        "L": 3.01,
+        "a": -0.28,
+        "b": 1.62,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #0C0B07 (PaintRef chip, OEM=Chrysler, code=AC20157 (years=2000-2001), pixels=306, chipUrl=https://www.paintref.com/chipimages/GHGTG2.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:a9670c9bd8f97a65"
+      }
+    },
+    {
+      "code": "AW7LAZ",
+      "marketingName": "Agate",
+      "finish": "solid",
+      "lab": {
+        "L": 29.85,
+        "a": 0.41,
+        "b": 1.5,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #484644 (PaintRef chip, OEM=Chrysler, code=AW7LAZ (years=2000-2002), pixels=306, chipUrl=https://www.paintref.com/chipimages/F3FSFF.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:9b3193bab68e9013"
+      }
+    },
+    {
+      "code": "C1",
+      "marketingName": "Light Cirrus Gray",
+      "finish": "solid",
+      "lab": {
+        "L": 62.68,
+        "a": 1.11,
+        "b": -0.79,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #999799 (PaintRef chip, OEM=Chrysler, code=C1 (year=2000), pixels=306, chipUrl=https://www.paintref.com/chipimages/CCC2CC.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:b5c46afcfcb8e4dc"
+      }
+    },
+    {
+      "code": "C3",
+      "marketingName": "Cirrus Gray",
+      "finish": "solid",
+      "lab": {
+        "L": 47.39,
+        "a": 1.04,
+        "b": -2.76,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #707075 (PaintRef chip, OEM=Chrysler, code=C3 (years=2000-2001), pixels=306, chipUrl=https://www.paintref.com/chipimages/2G2G2W.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:afd81b18e42a38c9"
+      }
+    },
+    {
+      "code": "C8",
+      "marketingName": "Dark Cirrus Gray",
+      "finish": "solid",
+      "lab": {
+        "L": 32.37,
+        "a": 2.84,
+        "b": -5.02,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #4D4B54 (PaintRef chip, OEM=Chrysler, code=C8 (years=2000-2002), pixels=306, chipUrl=https://www.paintref.com/chipimages/FAFTWF.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:5cb0dfe6dab40fc8"
+      }
+    },
+    {
+      "code": "D5",
+      "marketingName": "Medium Quartz",
+      "finish": "solid",
+      "lab": {
+        "L": 41.91,
+        "a": -0.41,
+        "b": 1.13,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #636361 (PaintRef chip, OEM=Chrysler, code=D5 (years=2000-2001), pixels=306, chipUrl=https://www.paintref.com/chipimages/SDSDSX.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:993d7aebac0216fd"
+      }
+    },
+    {
+      "code": "F1",
+      "marketingName": "Light Neutral",
+      "finish": "solid",
+      "lab": {
+        "L": 69.92,
+        "a": 2.7,
+        "b": 3.86,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #B3A9A4 (PaintRef chip, OEM=Chrysler, code=F1 (years=2000-2002), pixels=306, chipUrl=https://www.paintref.com/chipimages/TDECEF.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:089c515e9208171f"
+      }
+    },
+    {
+      "code": "G8",
+      "marketingName": "Dark Green",
+      "finish": "solid",
+      "lab": {
+        "L": 31.98,
+        "a": -3.95,
+        "b": 2,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #464D48 (PaintRef chip, OEM=Chrysler, code=G8 (years=2000-2002), pixels=306, chipUrl=https://www.paintref.com/chipimages/FSFAF3.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:a81f89ff92334f65"
+      }
+    },
+    {
+      "code": "AB7RJJ",
+      "marketingName": "Light Silverfern",
+      "finish": "solid",
+      "lab": {
+        "L": 62.99,
+        "a": 0,
+        "b": 5.91,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #9D988E (PaintRef chip, OEM=Chrysler, code=AB7RJJ (years=2000-2001), pixels=306, chipUrl=https://www.paintref.com/chipimages/CAC33U.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:d6204ebed2a60481"
+      }
+    },
+    {
+      "code": "AB7RJK",
+      "marketingName": "Silverfern",
+      "finish": "solid",
+      "lab": {
+        "L": 51.2,
+        "a": -2.32,
+        "b": 2.88,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #787B75 (PaintRef chip, OEM=Chrysler, code=AB7RJK (years=2000-2001), pixels=306, chipUrl=https://www.paintref.com/chipimages/232T2W.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:605112b0affe78ce"
+      }
+    },
+    {
+      "code": "AW7RJL",
+      "marketingName": "Dark Silverfern",
+      "finish": "solid",
+      "lab": {
+        "L": 40.8,
+        "a": -1.81,
+        "b": 1.3,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #5E615E (PaintRef chip, OEM=Chrysler, code=AW7RJL (years=2000-2001), pixels=306, chipUrl=https://www.paintref.com/chipimages/WUSXWU.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:1d0018ec849e67c2"
+      }
+    },
+    {
+      "code": "K4",
+      "marketingName": "Light Camel",
+      "finish": "solid",
+      "lab": {
+        "L": 68.55,
+        "a": 5.27,
+        "b": 16.37,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #BCA38A (PaintRef chip, OEM=Chrysler, code=K4 (years=2000-2001), pixels=306, chipUrl=https://www.paintref.com/chipimages/THED3E.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:f1d05d693c25b9b1"
+      }
+    },
+    {
+      "code": "K5",
+      "marketingName": "Camel",
+      "finish": "solid",
+      "lab": {
+        "L": 52.95,
+        "a": 7.82,
+        "b": 15.08,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #957965 (PaintRef chip, OEM=Chrysler, code=K5 (years=2000-2002), pixels=306, chipUrl=https://www.paintref.com/chipimages/CW2CSW.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:046e690ee7bff701"
+      }
+    },
+    {
+      "code": "X8",
+      "marketingName": "Black",
+      "finish": "solid",
+      "lab": {
+        "L": 2.51,
+        "a": 0.12,
+        "b": 0.47,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #0A0908 (PaintRef chip, OEM=Chrysler, code=X8 (years=2000-2002), pixels=306, chipUrl=https://www.paintref.com/chipimages/GEGCG3.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:d1ea0f5afb27573b"
+      }
+    },
+    {
+      "code": "AK101KWC",
+      "marketingName": "Frost White",
+      "finish": "solid",
+      "lab": {
+        "L": 81.74,
+        "a": -1.37,
+        "b": -0.48,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #C8CCCC (PaintRef chip, OEM=Chrysler, code=AK101KWC (year=2000), pixels=306, chipUrl=https://www.paintref.com/chipimages/H3HHHH.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:3ba8036aeea83282"
+      }
+    },
+    {
+      "code": "PB2",
+      "marketingName": "Sterling Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 74,
+        "a": -4.65,
+        "b": -6.76,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #A6B9C2 (PaintRef chip, OEM=Chrysler, code=PB2 (years=2001-2002), pixels=306, chipUrl=https://www.paintref.com/chipimages/ESTCH5.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:635e7cd7feb5bb9b"
+      }
+    },
+    {
+      "code": "T67",
+      "marketingName": "Deep Indigo Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 9.28,
+        "a": 9.25,
+        "b": -25.8,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #07183D (PaintRef chip, OEM=Chrysler, code=T67 (year=2001), pixels=306, chipUrl=https://www.paintref.com/chipimages/G2X3DA.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:af7da186214118a3"
+      }
+    },
+    {
+      "code": "PBW",
+      "marketingName": "Sapphire Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 16.07,
+        "a": 0.94,
+        "b": -19.82,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #102944 (PaintRef chip, OEM=Chrysler, code=PBW (year=2001), pixels=306, chipUrl=https://www.paintref.com/chipimages/XG5CFF.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:16c995d27aa67983"
+      }
+    },
+    {
+      "code": "PE1",
+      "marketingName": "Colorado",
+      "finish": "solid",
+      "lab": {
+        "L": 32.99,
+        "a": 51.33,
+        "b": 38.22,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #9A1713 (PaintRef chip, OEM=Chrysler, code=PE1 (years=2001-2002), pixels=306, chipUrl=https://www.paintref.com/chipimages/CEX2XD.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:42e6625f1a1f3288"
+      }
+    },
+    {
+      "code": "PFF",
+      "marketingName": "Light Pewter",
+      "finish": "solid",
+      "lab": {
+        "L": 59.73,
+        "a": 4.51,
+        "b": 4.02,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #9B8D89 (PaintRef chip, OEM=Chrysler, code=PFF (years=2001-2002), pixels=306, chipUrl=https://www.paintref.com/chipimages/CT3A3C.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:cc28274218fc72af"
+      }
+    },
+    {
+      "code": "PFM",
+      "marketingName": "Bright Cactus",
+      "finish": "solid",
+      "lab": {
+        "L": 76.86,
+        "a": -10.92,
+        "b": 31.41,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #BFC283 (PaintRef chip, OEM=Chrysler, code=PFM (years=2001-2002), pixels=306, chipUrl=https://www.paintref.com/chipimages/T4H53D.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:d463fef66c82f31f"
+      }
+    },
+    {
+      "code": "G41",
+      "marketingName": "Deep Evergreen",
+      "finish": "solid",
+      "lab": {
+        "L": 25.51,
+        "a": -17.37,
+        "b": 11.16,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #25432B (PaintRef chip, OEM=Chrysler, code=G41 (years=2001-2002), pixels=306, chipUrl=https://www.paintref.com/chipimages/5WFD5T.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:e7b3b8d751fdff67"
+      }
+    },
+    {
+      "code": "PJC",
+      "marketingName": "Light Khaki",
+      "finish": "solid",
+      "lab": {
+        "L": 74.51,
+        "a": -3.41,
+        "b": 19.22,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #BFB894 (PaintRef chip, OEM=Chrysler, code=PJC (years=2001-2008), pixels=306, chipUrl=https://www.paintref.com/chipimages/T4T3CF.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:cc8543c5972de2f6"
+      }
+    },
+    {
+      "code": "PJR",
+      "marketingName": "Onyx Green",
+      "finish": "solid",
+      "lab": {
+        "L": 44.6,
+        "a": -11.59,
+        "b": 1.89,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #556F66 (PaintRef chip, OEM=Chrysler, code=PJR (years=2001-2002), pixels=306, chipUrl=https://www.paintref.com/chipimages/WWS4SS.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:5c4ce7032ee685fe"
+      }
+    },
+    {
+      "code": "PKJ",
+      "marketingName": "Light Almond",
+      "finish": "solid",
+      "lab": {
+        "L": 87.81,
+        "a": -1.24,
+        "b": 12.77,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #E4DCC4 (PaintRef chip, OEM=Chrysler, code=PKJ (years=2001-2002), pixels=306, chipUrl=https://www.paintref.com/chipimages/UFAHHF.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:2294178efc972590"
+      }
+    },
+    {
+      "code": "PR6",
+      "marketingName": "Ruby Red",
+      "finish": "solid",
+      "lab": {
+        "L": 24.79,
+        "a": 32.82,
+        "b": 23.52,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #6C2119 (PaintRef chip, OEM=Chrysler, code=PR6 (years=2001-2002), pixels=306, chipUrl=https://www.paintref.com/chipimages/SH5XXC.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:b653af9a7b2324ea"
+      }
+    },
+    {
+      "code": "PSB",
+      "marketingName": "Bright Silver",
+      "finish": "solid",
+      "lab": {
+        "L": 90.72,
+        "a": -2.91,
+        "b": 1.73,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #E0E6E1 (PaintRef chip, OEM=Chrysler, code=PSB (years=2001-2002), pixels=306, chipUrl=https://www.paintref.com/chipimages/UGUSUX.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:02cefe86632161c9"
+      }
+    },
+    {
+      "code": "S40",
+      "marketingName": "Light Beige",
+      "finish": "solid",
+      "lab": {
+        "L": 76.9,
+        "a": -4.17,
+        "b": 18.84,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #C4BF9B (PaintRef chip, OEM=Chrysler, code=S40 (year=2001), pixels=306, chipUrl=https://www.paintref.com/chipimages/HFT4CT.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:d534ea4926a015c0"
+      }
+    },
+    {
+      "code": "PUB",
+      "marketingName": "Woodland Brown",
+      "finish": "solid",
+      "lab": {
+        "L": 65.23,
+        "a": 4.53,
+        "b": 29.34,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #B89A6A (PaintRef chip, OEM=Chrysler, code=PUB (years=2001-2002), pixels=306, chipUrl=https://www.paintref.com/chipimages/T3CESE.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:e81890e08d68bcca"
+      }
+    },
+    {
+      "code": "PUR",
+      "marketingName": "Sienna",
+      "finish": "solid",
+      "lab": {
+        "L": 19.42,
+        "a": 24.51,
+        "b": 14.63,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #531E1B (PaintRef chip, OEM=Chrysler, code=PUR (year=2001), pixels=306, chipUrl=https://www.paintref.com/chipimages/WDXUXT.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:33e0fcd511d69dae"
+      }
+    },
+    {
+      "code": "PVF",
+      "marketingName": "Prowler Flame Orange",
+      "finish": "solid",
+      "lab": {
+        "L": 48.63,
+        "a": 62.06,
+        "b": 52.02,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #D9341C (PaintRef chip, OEM=Chrysler, code=PVF (years=2001-2002), pixels=306, chipUrl=https://www.paintref.com/chipimages/ACDFXH.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:db5c2cd00b78c017"
+      }
+    },
+    {
+      "code": "PVL",
+      "marketingName": "Amber Fire",
+      "finish": "solid",
+      "lab": {
+        "L": 66.87,
+        "a": 23.96,
+        "b": 62,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #E3902C (PaintRef chip, OEM=Chrysler, code=PVL (year=2001), pixels=306, chipUrl=https://www.paintref.com/chipimages/UDCG5H.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:5d3af8bc0c48184a"
+      }
+    },
+    {
+      "code": "PW7",
+      "marketingName": "Bright White",
+      "finish": "solid",
+      "lab": {
+        "L": 97.14,
+        "a": -0.31,
+        "b": -1.19,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #F5F7F9 (PaintRef chip, OEM=Chrysler, code=PW7 (years=2001-2008), pixels=306, chipUrl=https://www.paintref.com/chipimages/4W424C.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:bd32ba131bff11da"
+      }
+    },
+    {
+      "code": "W69",
+      "marketingName": "Satin White",
+      "finish": "solid",
+      "lab": {
+        "L": 91.02,
+        "a": -1.74,
+        "b": 3.77,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #E5E6DE (PaintRef chip, OEM=Chrysler, code=W69 (years=2001-2002), pixels=306, chipUrl=https://www.paintref.com/chipimages/UWUSAU.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:3c796b5ab4879c45"
+      }
+    },
+    {
+      "code": "PY6",
+      "marketingName": "Inca Gold",
+      "finish": "solid",
+      "lab": {
+        "L": 58.12,
+        "a": 13.6,
+        "b": 51.52,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #B8812D (PaintRef chip, OEM=Chrysler, code=PY6 (year=2001), pixels=306, chipUrl=https://www.paintref.com/chipimages/T33X5A.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:afdca955be18d68b"
+      }
+    },
+    {
+      "code": "PYR",
+      "marketingName": "Viper Race Yellow",
+      "finish": "solid",
+      "lab": {
+        "L": 82.44,
+        "a": 9.32,
+        "b": 64.76,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #FEC44E (PaintRef chip, OEM=Chrysler, code=PYR (years=2001-2002), pixels=306, chipUrl=https://www.paintref.com/chipimages/44HFFU.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:e88a285d0f01916c"
+      }
+    },
+    {
+      "code": "YBM",
+      "marketingName": "Dark Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 37.5,
+        "a": 3.31,
+        "b": -7.33,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #585764 (PaintRef chip, OEM=Chrysler, code=YBM (years=2001-2002), pixels=306, chipUrl=https://www.paintref.com/chipimages/W3W2SF.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:8c1167e1b3e02bed"
+      }
+    },
+    {
+      "code": "YQS",
+      "marketingName": "Aquamarine",
+      "finish": "solid",
+      "lab": {
+        "L": 47.38,
+        "a": -2.2,
+        "b": -7.03,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #66727C (PaintRef chip, OEM=Chrysler, code=YQS (years=2001-2002), pixels=306, chipUrl=https://www.paintref.com/chipimages/SS252H.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:b27723b5db8c2585"
+      }
+    },
+    {
+      "code": "YR8",
+      "marketingName": "Dark Garnet Red",
+      "finish": "solid",
+      "lab": {
+        "L": 40.79,
+        "a": 10.87,
+        "b": 0.3,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #725A60 (PaintRef chip, OEM=Chrysler, code=YR8 (years=2001-2002), pixels=306, chipUrl=https://www.paintref.com/chipimages/25WESG.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:a3a51fa60adaacde"
+      }
+    },
+    {
+      "code": "BP",
+      "marketingName": "Deep Royal Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 25.58,
+        "a": 1.58,
+        "b": -2.92,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #3D3C41 (PaintRef chip, OEM=Chrysler, code=BP (years=2001-2002), pixels=306, chipUrl=https://www.paintref.com/chipimages/DADHFX.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:f0f7039de11a891d"
+      }
+    },
+    {
+      "code": "QL",
+      "marketingName": "Navy Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 26.67,
+        "a": 1.25,
+        "b": -8.57,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #3A3F4C (PaintRef chip, OEM=Chrysler, code=QL (years=2001-2002), pixels=306, chipUrl=https://www.paintref.com/chipimages/DED4FH.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:264a96f9b2b67941"
+      }
+    },
+    {
+      "code": "C1",
+      "marketingName": "Light Mist Grey",
+      "finish": "solid",
+      "lab": {
+        "L": 62.68,
+        "a": 1.11,
+        "b": -0.79,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #999799 (PaintRef chip, OEM=Chrysler, code=C1 (year=2001), pixels=306, chipUrl=https://www.paintref.com/chipimages/CCC2CC.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:b5c46afcfcb8e4dc"
+      }
+    },
+    {
+      "code": "PB9",
+      "marketingName": "Prowler Midnight Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 12.88,
+        "a": 3.45,
+        "b": -4.85,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #232028 (PaintRef chip, OEM=Chrysler, code=PB9 (year=2002), pixels=306, chipUrl=https://www.paintref.com/chipimages/5D5G53.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:edd898c3d6621501"
+      }
+    },
+    {
+      "code": "PBJ",
+      "marketingName": "Atlantic Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 46.85,
+        "a": -0.53,
+        "b": -31.69,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #4372A4 (PaintRef chip, OEM=Chrysler, code=PBJ (year=2002), pixels=306, chipUrl=https://www.paintref.com/chipimages/FD25EF.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:e40a43cafeec55a0"
+      }
+    },
+    {
+      "code": "PBW",
+      "marketingName": "Deep Sapphire Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 16.07,
+        "a": 0.94,
+        "b": -19.82,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #102944 (PaintRef chip, OEM=Chrysler, code=PBW (year=2002), pixels=306, chipUrl=https://www.paintref.com/chipimages/XG5CFF.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:16c995d27aa67983"
+      }
+    },
+    {
+      "code": "PD9",
+      "marketingName": "Dark Titanium",
+      "finish": "solid",
+      "lab": {
+        "L": 33.92,
+        "a": 3.23,
+        "b": -12.86,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #4A4F64 (PaintRef chip, OEM=Chrysler, code=PD9 (year=2002), pixels=306, chipUrl=https://www.paintref.com/chipimages/FEF4SF.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:9112c3daf578c94e"
+      }
+    },
+    {
+      "code": "PDR",
+      "marketingName": "Graphite",
+      "finish": "solid",
+      "lab": {
+        "L": 35.73,
+        "a": -2.27,
+        "b": 2.5,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #525550 (PaintRef chip, OEM=Chrysler, code=PDR (year=2002), pixels=306, chipUrl=https://www.paintref.com/chipimages/W5WWWG.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:bcf5274b4123cb67"
+      }
+    },
+    {
+      "code": "PU2",
+      "marketingName": "Woodland Brown",
+      "finish": "solid",
+      "lab": {
+        "L": 40.76,
+        "a": 7.33,
+        "b": 19.22,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #765B41 (PaintRef chip, OEM=Chrysler, code=PU2 (year=2002), pixels=306, chipUrl=https://www.paintref.com/chipimages/2SWTFX.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:89c972aa6f6da149"
+      }
+    },
+    {
+      "code": "YY6",
+      "marketingName": "Inca Gold",
+      "finish": "solid",
+      "lab": {
+        "L": 58.12,
+        "a": 13.6,
+        "b": 51.52,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #B8812D (PaintRef chip, OEM=Chrysler, code=YY6 (year=2002), pixels=306, chipUrl=https://www.paintref.com/chipimages/T33X5A.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:afdca955be18d68b"
+      }
+    },
+    {
+      "code": "PYJ",
+      "marketingName": "Inca Gold",
+      "finish": "solid",
+      "lab": {
+        "L": 58.12,
+        "a": 13.6,
+        "b": 51.52,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #B8812D (PaintRef chip, OEM=Chrysler, code=PYJ (year=2002), pixels=306, chipUrl=https://www.paintref.com/chipimages/T33X5A.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:afdca955be18d68b"
+      }
+    },
+    {
+      "code": "AJ6",
+      "marketingName": "Onyx Green",
+      "finish": "solid",
+      "lab": {
+        "L": 47.74,
+        "a": 2.8,
+        "b": -4.01,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #737078 (PaintRef chip, OEM=Chrysler, code=AJ6 (year=2002), pixels=306, chipUrl=https://www.paintref.com/chipimages/2D2G23.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:d065ee3be2ec22c1"
+      }
+    },
+    {
+      "code": "ARX",
+      "marketingName": "Dark Garnet",
+      "finish": "solid",
+      "lab": {
+        "L": 33.62,
+        "a": 14.3,
+        "b": -1.63,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #644752 (PaintRef chip, OEM=Chrysler, code=ARX (year=2002), pixels=306, chipUrl=https://www.paintref.com/chipimages/SFF2W5.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:b8c2743f5e2cea79"
+      }
+    },
+    {
+      "code": "VU6",
+      "marketingName": "Sandalwood",
+      "finish": "solid",
+      "lab": {
+        "L": 52.93,
+        "a": 3.67,
+        "b": 4.38,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #887C77 (PaintRef chip, OEM=Chrysler, code=VU6 (year=2002), pixels=306, chipUrl=https://www.paintref.com/chipimages/332H22.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:bf9ab5aa499ffe92"
+      }
+    },
+    {
+      "code": "ZJQ",
+      "marketingName": "Onyx Green",
+      "finish": "solid",
+      "lab": {
+        "L": 40.72,
+        "a": -5.93,
+        "b": -1.36,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #546362 (PaintRef chip, OEM=Chrysler, code=ZJQ (year=2002), pixels=306, chipUrl=https://www.paintref.com/chipimages/WFSDS5.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:0508bcb282f4a367"
+      }
+    },
+    {
+      "code": "AH002YFD",
+      "marketingName": "Sparkle Pewter",
+      "finish": "solid",
+      "lab": {
+        "L": 72.36,
+        "a": 0.51,
+        "b": 1.91,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #B4B1AE (PaintRef chip, OEM=Chrysler, code=AH002YFD (year=2002), pixels=306, chipUrl=https://www.paintref.com/chipimages/TFTXEU.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:98a68f98191aebaa"
+      }
+    },
+    {
+      "code": "CK8",
+      "marketingName": "Burnt Orange",
+      "finish": "solid",
+      "lab": {
+        "L": 52.08,
+        "a": 42.53,
+        "b": 21.93,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #C65B59 (PaintRef chip, OEM=Chrysler, code=CK8 (year=2002), pixels=306, chipUrl=https://www.paintref.com/chipimages/HSWTWC.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:7892e37343a4ad6e"
+      }
+    },
+    {
+      "code": "LR",
+      "marketingName": "Very Dark Taupe",
+      "finish": "solid",
+      "lab": {
+        "L": 45.78,
+        "a": 2.99,
+        "b": -3.34,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #6F6B72 (PaintRef chip, OEM=Chrysler, code=LR (year=2002), pixels=306, chipUrl=https://www.paintref.com/chipimages/S4ST25.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:08ca15f12b18e1e0"
+      }
+    },
+    {
+      "code": "X4",
+      "marketingName": "Low Gloss Black",
+      "finish": "solid",
+      "lab": {
+        "L": 13.23,
+        "a": -0.24,
+        "b": 2.19,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #23221F (PaintRef chip, OEM=Chrysler, code=X4 (year=2002), pixels=306, chipUrl=https://www.paintref.com/chipimages/5D55X4.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:62d818564058b42a"
+      }
+    },
+    {
+      "code": "C3",
+      "marketingName": "Medium Mist Grey",
+      "finish": "solid",
+      "lab": {
+        "L": 47.39,
+        "a": 1.04,
+        "b": -2.76,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #707075 (PaintRef chip, OEM=Chrysler, code=C3 (year=2002), pixels=306, chipUrl=https://www.paintref.com/chipimages/2G2G2W.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:afd81b18e42a38c9"
+      }
+    },
+    {
+      "code": "775",
+      "marketingName": "Iridium Bright Silver",
+      "finish": "solid",
+      "lab": {
+        "L": 89.61,
+        "a": -1.56,
+        "b": 2.2,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #E0E2DD (PaintRef chip, OEM=Chrysler, code=775 (year=2008), pixels=306, chipUrl=https://www.paintref.com/chipimages/UGU5AA.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:fec07878f56174df"
+      }
+    },
+    {
+      "code": "PA4",
+      "marketingName": "Silver Steel",
+      "finish": "solid",
+      "lab": {
+        "L": 59.04,
+        "a": -6.55,
+        "b": -6.42,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #7B9299 (PaintRef chip, OEM=Chrysler, code=PA4 (year=2008), pixels=306, chipUrl=https://www.paintref.com/chipimages/2TC5CC.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:e3bc08f2f2ac7f3a"
+      }
+    },
+    {
+      "code": "PB5",
+      "marketingName": "Electric Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 40.69,
+        "a": 6.32,
+        "b": -45.67,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #1761AB (PaintRef chip, OEM=Chrysler, code=PB5 (year=2008), pixels=306, chipUrl=https://www.paintref.com/chipimages/X2SXET.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:0b1f0eebcb08a0a2"
+      }
+    },
+    {
+      "code": "PB6",
+      "marketingName": "Marine Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 33.57,
+        "a": 0.32,
+        "b": -27.31,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #2B517A (PaintRef chip, OEM=Chrysler, code=PB6 (year=2008), pixels=306, chipUrl=https://www.paintref.com/chipimages/5TWX2E.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:758b689e9b3396ab"
+      }
+    },
+    {
+      "code": "PBC",
+      "marketingName": "Viper Bright Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 46.67,
+        "a": 1.27,
+        "b": -43.72,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #1E72B8 (PaintRef chip, OEM=Chrysler, code=PBC (year=2008), pixels=306, chipUrl=https://www.paintref.com/chipimages/XU25T3.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:a7c4f0613fcd21c9"
+      }
+    },
+    {
+      "code": "PBD",
+      "marketingName": "Marathon Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 41.91,
+        "a": 7.27,
+        "b": -42.5,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #3163A9 (PaintRef chip, OEM=Chrysler, code=PBD (year=2008), pixels=306, chipUrl=https://www.paintref.com/chipimages/DXSDEC.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:e8d8c6c158b3a450"
+      }
+    },
+    {
+      "code": "PBE",
+      "marketingName": "Viper GTS Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 34.37,
+        "a": 12.24,
+        "b": -46.88,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #184F9C (PaintRef chip, OEM=Chrysler, code=PBE (year=2008), pixels=306, chipUrl=https://www.paintref.com/chipimages/X3F4CH.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:e7f493a18ef35978"
+      }
+    },
+    {
+      "code": "PBG",
+      "marketingName": "Clearwater Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 61.88,
+        "a": -13.86,
+        "b": -4.53,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #749D9D (PaintRef chip, OEM=Chrysler, code=PBG (year=2008), pixels=306, chipUrl=https://www.paintref.com/chipimages/2FCACA.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:ba21eb90916f5be6"
+      }
+    },
+    {
+      "code": "PBK",
+      "marketingName": "Aero Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 44.29,
+        "a": 3.27,
+        "b": -34.55,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #416AA2 (PaintRef chip, OEM=Chrysler, code=PBK (year=2008), pixels=306, chipUrl=https://www.paintref.com/chipimages/FXSEE5.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:521be78b3ae31129"
+      }
+    },
+    {
+      "code": "PBL",
+      "marketingName": "Modern Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 15.53,
+        "a": -1.64,
+        "b": -8.04,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #1D2832 (PaintRef chip, OEM=Chrysler, code=PBL (year=2008), pixels=306, chipUrl=https://www.paintref.com/chipimages/XA53D5.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:387f502dd5f657e0"
+      }
+    },
+    {
+      "code": "PBM",
+      "marketingName": "Steel Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 23.08,
+        "a": 3.42,
+        "b": -9.41,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #353645 (PaintRef chip, OEM=Chrysler, code=PBM (year=2008), pixels=306, chipUrl=https://www.paintref.com/chipimages/DWDSFW.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:e86ab8c542046cf7"
+      }
+    },
+    {
+      "code": "PCF",
+      "marketingName": "Opal",
+      "finish": "solid",
+      "lab": {
+        "L": 44.74,
+        "a": 2.08,
+        "b": -4.33,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #6A6971 (PaintRef chip, OEM=Chrysler, code=PCF (year=2008), pixels=306, chipUrl=https://www.paintref.com/chipimages/SESC2X.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:1530682b05268842"
+      }
+    },
+    {
+      "code": "PCV",
+      "marketingName": "Viper Violet",
+      "finish": "solid",
+      "lab": {
+        "L": 22.85,
+        "a": 4.66,
+        "b": -11.1,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #353547 (PaintRef chip, OEM=Chrysler, code=PCV (year=2008), pixels=306, chipUrl=https://www.paintref.com/chipimages/DWDWF2.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:b8228de77fae3153"
+      }
+    },
+    {
+      "code": "PDA",
+      "marketingName": "Light Graystone",
+      "finish": "solid",
+      "lab": {
+        "L": 78.25,
+        "a": 0.68,
+        "b": 1.37,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #C4C1BF (PaintRef chip, OEM=Chrysler, code=PDA (year=2008), pixels=306, chipUrl=https://www.paintref.com/chipimages/HFHXT4.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:5c1f25ad0eb654c5"
+      }
+    },
+    {
+      "code": "PDM",
+      "marketingName": "Mineral Gray",
+      "finish": "solid",
+      "lab": {
+        "L": 40.77,
+        "a": 0.47,
+        "b": -2.41,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #5F6064 (PaintRef chip, OEM=Chrysler, code=PDM (year=2008), pixels=306, chipUrl=https://www.paintref.com/chipimages/W4SGSF.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:fc6714034781f4eb"
+      }
+    },
+    {
+      "code": "PDR",
+      "marketingName": "Machine Gray",
+      "finish": "solid",
+      "lab": {
+        "L": 20.27,
+        "a": 2.79,
+        "b": -6.94,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #30303B (PaintRef chip, OEM=Chrysler, code=PDR (year=2008), pixels=306, chipUrl=https://www.paintref.com/chipimages/DGDGDT.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:7dcd28e9ad50f368"
+      }
+    },
+    {
+      "code": "PDT",
+      "marketingName": "Dark Titanium",
+      "finish": "solid",
+      "lab": {
+        "L": 44.99,
+        "a": 2.19,
+        "b": 3.94,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #716964 (PaintRef chip, OEM=Chrysler, code=PDT (year=2008), pixels=306, chipUrl=https://www.paintref.com/chipimages/2XSCSF.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:956bbb6bcbcb7c2b"
+      }
+    },
+    {
+      "code": "PEM",
+      "marketingName": "Red Rock Crystal",
+      "finish": "solid",
+      "lab": {
+        "L": 23.38,
+        "a": 39.69,
+        "b": 28.31,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #70120F (PaintRef chip, OEM=Chrysler, code=PEM (year=2008), pixels=306, chipUrl=https://www.paintref.com/chipimages/2GX5G4.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:cd842e2638e0ff27"
+      }
+    },
+    {
+      "code": "PGJ",
+      "marketingName": "Jeep Green",
+      "finish": "solid",
+      "lab": {
+        "L": 31.43,
+        "a": -16.37,
+        "b": 0.33,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #295149 (PaintRef chip, OEM=Chrysler, code=PGJ (year=2008), pixels=306, chipUrl=https://www.paintref.com/chipimages/5CWXFC.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:74e9b4c6e5409dda"
+      }
+    },
+    {
+      "code": "PGS",
+      "marketingName": "Snakeskin Green",
+      "finish": "solid",
+      "lab": {
+        "L": 80.62,
+        "a": -36.85,
+        "b": 66.46,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #A8D83F (PaintRef chip, OEM=Chrysler, code=PGS (year=2008), pixels=306, chipUrl=https://www.paintref.com/chipimages/E3A3D4.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:aae2272d88e1d411"
+      }
+    },
+    {
+      "code": "PHF",
+      "marketingName": "Deep Crimson Crystal",
+      "finish": "solid",
+      "lab": {
+        "L": 18.05,
+        "a": 34.54,
+        "b": 5.22,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #580E26 (PaintRef chip, OEM=Chrysler, code=PHF (year=2008), pixels=306, chipUrl=https://www.paintref.com/chipimages/W3GU5S.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:a8ae04402423089e"
+      }
+    },
+    {
+      "code": "PJR",
+      "marketingName": "Rescue Green",
+      "finish": "solid",
+      "lab": {
+        "L": 48,
+        "a": -13.66,
+        "b": 36.75,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #6F7731 (PaintRef chip, OEM=Chrysler, code=PJR (year=2008), pixels=306, chipUrl=https://www.paintref.com/chipimages/S422DX.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:524d0744fcadf887"
+      }
+    },
+    {
+      "code": "PK3",
+      "marketingName": "Viper Bright Orange",
+      "finish": "solid",
+      "lab": {
+        "L": 49.02,
+        "a": 64.58,
+        "b": 49.45,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #DD3023 (PaintRef chip, OEM=Chrysler, code=PK3 (year=2008), pixels=306, chipUrl=https://www.paintref.com/chipimages/AADG5D.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:0838b4a15402c545"
+      }
+    },
+    {
+      "code": "PKG",
+      "marketingName": "Light Sandstone",
+      "finish": "solid",
+      "lab": {
+        "L": 78.15,
+        "a": -1.07,
+        "b": 12.59,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #C9C1AA (PaintRef chip, OEM=Chrysler, code=PKG (year=2008), pixels=306, chipUrl=https://www.paintref.com/chipimages/HCHXEE.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:adbaf8b479356182"
+      }
+    },
+    {
+      "code": "PQD",
+      "marketingName": "Surf Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 49.1,
+        "a": 3.04,
+        "b": -42.7,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #3777BD (PaintRef chip, OEM=Chrysler, code=PQD (year=2008), pixels=306, chipUrl=https://www.paintref.com/chipimages/D222TA.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:a27b3759982e2e26"
+      }
+    },
+    {
+      "code": "PR3",
+      "marketingName": "High Performance Red",
+      "finish": "solid",
+      "lab": {
+        "L": 45.02,
+        "a": 69.77,
+        "b": 49.36,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #D6081B (PaintRef chip, OEM=Chrysler, code=PR3 (year=2008), pixels=306, chipUrl=https://www.paintref.com/chipimages/ASG3XT.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:da9200b24b02e6b1"
+      }
+    },
+    {
+      "code": "PRH",
+      "marketingName": "Inferno Red",
+      "finish": "solid",
+      "lab": {
+        "L": 34.51,
+        "a": 52.83,
+        "b": 35.22,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #A0191C (PaintRef chip, OEM=Chrysler, code=PRH (year=2008), pixels=306, chipUrl=https://www.paintref.com/chipimages/EGXCXH.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:8782132cce27ded8"
+      }
+    },
+    {
+      "code": "PRJ",
+      "marketingName": "Inferno Red",
+      "finish": "solid",
+      "lab": {
+        "L": 20.16,
+        "a": 33.67,
+        "b": 22.71,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #601411 (PaintRef chip, OEM=Chrysler, code=PRJ (year=2008), pixels=306, chipUrl=https://www.paintref.com/chipimages/SGXFXX.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:6518117c5985c320"
+      }
+    },
+    {
+      "code": "PRS",
+      "marketingName": "Venom Red",
+      "finish": "solid",
+      "lab": {
+        "L": 22.93,
+        "a": 37.18,
+        "b": 20.03,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #6B161B (PaintRef chip, OEM=Chrysler, code=PRS (year=2008), pixels=306, chipUrl=https://www.paintref.com/chipimages/STXSXT.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:321052849a9f2647"
+      }
+    },
+    {
+      "code": "PS3",
+      "marketingName": "Sapphire Silver",
+      "finish": "solid",
+      "lab": {
+        "L": 57.7,
+        "a": 3.79,
+        "b": -7.7,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #8B8998 (PaintRef chip, OEM=Chrysler, code=PS3 (year=2008), pixels=306, chipUrl=https://www.paintref.com/chipimages/3T3CC3.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:883047bd2540d57a"
+      }
+    },
+    {
+      "code": "PV6",
+      "marketingName": "Sunburst Orange",
+      "finish": "solid",
+      "lab": {
+        "L": 44.97,
+        "a": 52.4,
+        "b": 54.37,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #C23A08 (PaintRef chip, OEM=Chrysler, code=PV6 (year=2008), pixels=306, chipUrl=https://www.paintref.com/chipimages/H5DEG3.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:9903dd5217923cb5"
+      }
+    },
+    {
+      "code": "PVE",
+      "marketingName": "Tangerine",
+      "finish": "solid",
+      "lab": {
+        "L": 49.45,
+        "a": 53.37,
+        "b": 36.36,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #CF463B (PaintRef chip, OEM=Chrysler, code=PVE (year=2008), pixels=306, chipUrl=https://www.paintref.com/chipimages/H4FSDT.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:ad520512272e4c54"
+      }
+    },
+    {
+      "code": "PVJ",
+      "marketingName": "Deep Coral Red",
+      "finish": "solid",
+      "lab": {
+        "L": 31.3,
+        "a": 45.3,
+        "b": 35.78,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #8E1F13 (PaintRef chip, OEM=Chrysler, code=PVJ (year=2008), pixels=306, chipUrl=https://www.paintref.com/chipimages/3UX4XD.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:95b50b5f4ab288b8"
+      }
+    },
+    {
+      "code": "PWG",
+      "marketingName": "Cool Vanilla",
+      "finish": "solid",
+      "lab": {
+        "L": 90.77,
+        "a": -4.5,
+        "b": 18.06,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #EAE6C2 (PaintRef chip, OEM=Chrysler, code=PWG (year=2008), pixels=306, chipUrl=https://www.paintref.com/chipimages/UEUSH5.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:b2b551fef40418a3"
+      }
+    },
+    {
+      "code": "PXR",
+      "marketingName": "Brilliant Black",
+      "finish": "solid",
+      "lab": {
+        "L": 0.27,
+        "a": 0,
+        "b": 0,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #010101 (PaintRef chip, OEM=Chrysler, code=PXR (year=2008), pixels=306, chipUrl=https://www.paintref.com/chipimages/GGGGGG.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:1f437854e2d31a87"
+      }
+    },
+    {
+      "code": "PY3",
+      "marketingName": "Classic Yellow",
+      "finish": "solid",
+      "lab": {
+        "L": 78.6,
+        "a": 6.66,
+        "b": 73.73,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #F0BB29 (PaintRef chip, OEM=Chrysler, code=PY3 (year=2008), pixels=306, chipUrl=https://www.paintref.com/chipimages/4GTT5C.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:953965a720524a7a"
+      }
+    },
+    {
+      "code": "PYB",
+      "marketingName": "Detonator Yellow",
+      "finish": "solid",
+      "lab": {
+        "L": 76.12,
+        "a": -1.11,
+        "b": 77.28,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #DDB907 (PaintRef chip, OEM=Chrysler, code=PYB (year=2008), pixels=306, chipUrl=https://www.paintref.com/chipimages/AATCG2.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:035e36e219852438"
+      }
+    },
+    {
+      "code": "PYD",
+      "marketingName": "Pastel Yellow",
+      "finish": "solid",
+      "lab": {
+        "L": 87.2,
+        "a": -2.03,
+        "b": 47.03,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #F4D980 (PaintRef chip, OEM=Chrysler, code=PYD (year=2008), pixels=306, chipUrl=https://www.paintref.com/chipimages/4FAC3G.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:d44957c641aa7cfb"
+      }
+    },
+    {
+      "code": "534",
+      "marketingName": "Flame Red",
+      "finish": "solid",
+      "lab": {
+        "L": 40.76,
+        "a": 60.28,
+        "b": 45.66,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #BD1C17 (PaintRef chip, OEM=Chrysler, code=534 (year=2008), pixels=306, chipUrl=https://www.paintref.com/chipimages/TAXHX2.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:480b8e43a05da936"
+      }
+    },
+    {
+      "code": "P01",
+      "marketingName": "Arctic White",
+      "finish": "solid",
+      "lab": {
+        "L": 97.08,
+        "a": -0.86,
+        "b": 1.32,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #F6F7F4 (PaintRef chip, OEM=Chrysler, code=P01 (year=2008), pixels=306, chipUrl=https://www.paintref.com/chipimages/4S424F.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:1964a0699e87d88d"
+      }
+    },
+    {
+      "code": "P02",
+      "marketingName": "Black Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 18.94,
+        "a": 2.97,
+        "b": -6.22,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #2E2D37 (PaintRef chip, OEM=Chrysler, code=P02 (year=2008), pixels=306, chipUrl=https://www.paintref.com/chipimages/5U5AD2.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:55f8000ef01e1cfc"
+      }
+    }
+  ]
+}

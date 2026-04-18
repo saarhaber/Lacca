@@ -174,7 +174,7 @@ const en: TranslationKeys = {
   "tooltip.capped":
     "Tier capped at Close: source paint LAB is hex-derived, so an Excellent rating requires a spectrophotometer measurement.",
   "tooltip.finishPenalty":
-    "Finish mismatch: {penalty} added to composite score so color-only ΔE doesn't float metallic-vs-creme rows above better-matched finishes.",
+    "Finish type differs from your car's paint. Picks are ordered by ΔE (color distance); metallics and pearls can still read differently in person.",
   "tooltip.source": "Source: {source}",
 
   "form.vin.label": "VIN (optional)",

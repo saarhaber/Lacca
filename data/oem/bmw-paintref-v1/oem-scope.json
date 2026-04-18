@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../schemas/oem-scope-v1.schema.json",
+  "scopeId": "bmw-paintref-v1",
+  "oem": "BMW",
+  "modelYears": {
+    "from": 2000,
+    "to": 2026
+  },
+  "models": [],
+  "notes": "BMW exterior paint codes sourced from PaintRef (paintref.com) by fetch-paintref-all. Entries with LAB use confidence=\"spec\"; hex-only entries and chip-image samples use confidence=\"derived\". Chip-sampled rows carry source=\"paintref_chip\" with provenance back to the averaged PNG at data/sources/paintref/chipimages/. Verify spec-grade entries with spectro before production claims. 0 distinct models observed in advanced-search rows (sanitized). Merge with curated scopes via merge-oem-scopes to pick best-confidence LAB per code.",
+  "exteriorPaintFile": "./exterior-paints-v1.json"
+}

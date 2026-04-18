@@ -44,10 +44,10 @@ export type RankOptions = {
  * base LAB already carries conversion error.
  *
  * When both the input and an OPI SKU carry a `finish`, a finish penalty is
- * added to ΔE to form `matchScore`, and results are sorted by that composite
- * score. ΔE is still reported verbatim so UI copy can cite the color-only
- * number. If OPI finish metadata is missing, penalty is 0 and ranking is
- * unchanged from the color-only path.
+ * added to ΔE to form `matchScore` (for display / future use). **List order
+ * is by perceptual color distance:** ascending `deltaE`, then `matchScore`
+ * when ΔE ties, then `sku` for stability. Closest color to the paint always
+ * leads the list. If OPI finish metadata is missing, penalty is 0.
  */
 export function rankOpiMatches(
   paintLab: Lab,
@@ -74,7 +74,13 @@ export function rankOpiMatches(
         finishPenalty
       };
     })
-    .sort((a, b) => a.matchScore - b.matchScore)
+    .sort((a, b) => {
+      const byDe = a.deltaE - b.deltaE;
+      if (byDe !== 0) return byDe;
+      const byScore = a.matchScore - b.matchScore;
+      if (byScore !== 0) return byScore;
+      return a.opi.sku.localeCompare(b.opi.sku);
+    })
     .slice(0, topN)
     .map((r) => {
       const rawTier = tierFromDeltaE(r.deltaE, deltaEVersion);

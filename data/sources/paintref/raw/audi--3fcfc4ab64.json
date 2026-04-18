@@ -1,0 +1,5177 @@
+{
+  "oem": "Audi",
+  "fetchedAt": "2026-04-18T13:06:15.337Z",
+  "entries": [
+    {
+      "code": "LZ7X",
+      "name": "Nimbus Green",
+      "make": "Audi",
+      "year_from": 2000,
+      "year_to": 2002,
+      "chipUrl": "https://www.paintref.com/chipimages/D3DTDG.png",
+      "chipHash": "b2cae85a27654a21",
+      "ditzler": "37638"
+    },
+    {
+      "code": "L041",
+      "name": "Black",
+      "make": "Audi",
+      "year_from": 2000,
+      "year_to": 2017,
+      "chipUrl": "https://www.paintref.com/chipimages/GGGGGG.png",
+      "chipHash": "1f437854e2d31a87",
+      "ditzler": "95087",
+      "models": [
+        "Q7"
+      ]
+    },
+    {
+      "code": "LO9B",
+      "name": "Magnolia",
+      "make": "Audi",
+      "year_from": 2000,
+      "year_to": 2003,
+      "chipUrl": "https://www.paintref.com/chipimages/4H4SUE.png",
+      "chipHash": "807edb0fe8c8866f",
+      "ditzler": "91468"
+    },
+    {
+      "code": "LX6V",
+      "name": "Jaspisgruen",
+      "make": "Audi",
+      "year_from": 2000,
+      "year_to": 2000,
+      "chipUrl": "https://www.paintref.com/chipimages/55WD2D.png",
+      "chipHash": "3d25f5ff27f7da37",
+      "ditzler": "48934"
+    },
+    {
+      "code": "LY1B",
+      "name": "Brilliant Yellow",
+      "make": "Audi",
+      "year_from": 2000,
+      "year_to": 2000,
+      "chipUrl": "https://www.paintref.com/chipimages/UAAEXH.png",
+      "chipHash": "18e4b5b48fcbd3a0",
+      "ditzler": "83792"
+    },
+    {
+      "code": "LY1T",
+      "name": "Melange Beige",
+      "make": "Audi",
+      "year_from": 2000,
+      "year_to": 2001,
+      "chipUrl": "https://www.paintref.com/chipimages/32352A.png",
+      "chipHash": "26d8638cf601d439",
+      "ditzler": "28791"
+    },
+    {
+      "code": "LY3D",
+      "name": "Tornado Red",
+      "make": "Audi",
+      "year_from": 2000,
+      "year_to": 2001,
+      "chipUrl": "https://www.paintref.com/chipimages/E4X45X.png",
+      "chipHash": "e7d52e62bc4a7abe",
+      "ditzler": "72652"
+    },
+    {
+      "code": "LY3H",
+      "name": "Laser Red",
+      "make": "Audi",
+      "year_from": 2000,
+      "year_to": 2002,
+      "chipUrl": "https://www.paintref.com/chipimages/H2GU5G.png",
+      "chipHash": "36d27781aae1d88a",
+      "ditzler": "74179"
+    },
+    {
+      "code": "LY5T",
+      "name": "Pelican Blue",
+      "make": "Audi",
+      "year_from": 2000,
+      "year_to": 2000,
+      "chipUrl": "https://www.paintref.com/chipimages/F4CGTA.png",
+      "chipHash": "09418e5a320cf5cf",
+      "ditzler": "19878"
+    },
+    {
+      "code": "LY7W",
+      "name": "Light Silver",
+      "make": "Audi",
+      "year_from": 2000,
+      "year_to": 2009,
+      "chipUrl": "https://www.paintref.com/chipimages/CSEST5.png",
+      "chipHash": "0bfe692cb18b937c",
+      "ditzler": "37637",
+      "models": [
+        "A3",
+        "A4",
+        "A6",
+        "A8",
+        "A8L",
+        "Q7",
+        "Quattro",
+        "S4",
+        "S6",
+        "S8",
+        "TT"
+      ]
+    },
+    {
+      "code": "LY9B",
+      "name": "Brilliant Black",
+      "make": "Audi",
+      "year_from": 2000,
+      "year_to": 2026,
+      "chipUrl": "https://www.paintref.com/chipimages/GGGGGG.png",
+      "chipHash": "1f437854e2d31a87",
+      "ditzler": "9767",
+      "models": [
+        "A1",
+        "A3",
+        "A4",
+        "A5",
+        "A6",
+        "A7",
+        "A8",
+        "A8L",
+        "E-Tron",
+        "Q1",
+        "Q3",
+        "Q5",
+        "Q7",
+        "Quattro",
+        "R8",
+        "RS3",
+        "RS5",
+        "RS7",
+        "S1",
+        "S3",
+        "S4",
+        "S5",
+        "S6",
+        "S7",
+        "S8",
+        "SQ5",
+        "TT",
+        "TTS"
+      ]
+    },
+    {
+      "code": "LY9G",
+      "name": "Casablanca White",
+      "make": "Audi",
+      "year_from": 2000,
+      "year_to": 2000,
+      "chipUrl": "https://www.paintref.com/chipimages/4A4U4S.png",
+      "chipHash": "f9da03dc7ee53590",
+      "ditzler": "91417"
+    },
+    {
+      "code": "LZ1T",
+      "name": "Cashmere Gray",
+      "make": "Audi",
+      "year_from": 2000,
+      "year_to": 2001,
+      "chipUrl": "https://www.paintref.com/chipimages/FUFUW3.png",
+      "chipHash": "744cd09431a049ff",
+      "ditzler": "28328"
+    },
+    {
+      "code": "LZ3L",
+      "name": "Hibiscus Red",
+      "make": "Audi",
+      "year_from": 2000,
+      "year_to": 2002,
+      "chipUrl": "https://www.paintref.com/chipimages/F2X5X2.png",
+      "chipHash": "950bca16dbf3aa2e",
+      "ditzler": "75256"
+    },
+    {
+      "code": "LZ3S",
+      "name": "Jasper Red",
+      "make": "Audi",
+      "year_from": 2000,
+      "year_to": 2001,
+      "chipUrl": "https://www.paintref.com/chipimages/CG52XU.png",
+      "chipHash": "38f38be37cba35f1",
+      "ditzler": "77101"
+    },
+    {
+      "code": "LZ5K",
+      "name": "Santorin Blue",
+      "make": "Audi",
+      "year_from": 2000,
+      "year_to": 2002,
+      "chipUrl": "https://www.paintref.com/chipimages/GAX3FG.png",
+      "chipHash": "9fd949f4a7dfbf11",
+      "ditzler": "190749"
+    },
+    {
+      "code": "LZ5L",
+      "name": "Ming Blue",
+      "make": "Audi",
+      "year_from": 2000,
+      "year_to": 2003,
+      "chipUrl": "https://www.paintref.com/chipimages/XWXT5H.png",
+      "chipHash": "dc6a0ce129bd0f65",
+      "ditzler": "190043"
+    },
+    {
+      "code": "LZ5M",
+      "name": "Rasant Blue",
+      "make": "Audi",
+      "year_from": 2000,
+      "year_to": 2005,
+      "chipUrl": "https://www.paintref.com/chipimages/GGXF2E.png",
+      "chipHash": "efa5c9a344ec186b",
+      "ditzler": "190291",
+      "models": [
+        "S4"
+      ]
+    },
+    {
+      "code": "LZ5W",
+      "name": "Denim Blue",
+      "make": "Audi",
+      "year_from": 2000,
+      "year_to": 2003,
+      "chipUrl": "https://www.paintref.com/chipimages/5AWE2E.png",
+      "chipHash": "f25403af851de013",
+      "ditzler": "193293"
+    },
+    {
+      "code": "LZ6H",
+      "name": "Racing Green",
+      "make": "Audi",
+      "year_from": 2000,
+      "year_to": 2000,
+      "chipUrl": "https://www.paintref.com/chipimages/53D2DA.png",
+      "chipHash": "66f933a9dc5c1b63",
+      "ditzler": "48695"
+    },
+    {
+      "code": "LZ6L",
+      "name": "Cactus Green",
+      "make": "Audi",
+      "year_from": 2000,
+      "year_to": 2002,
+      "chipUrl": "https://www.paintref.com/chipimages/52F2DC.png",
+      "chipHash": "2c8e5873da254770",
+      "ditzler": "48337"
+    },
+    {
+      "code": "LZ6W",
+      "name": "Desert Green",
+      "make": "Audi",
+      "year_from": 2000,
+      "year_to": 2002,
+      "chipUrl": "https://www.paintref.com/chipimages/F5WDWS.png",
+      "chipHash": "eeb0739c9b8dad2c",
+      "ditzler": "401079"
+    },
+    {
+      "code": "LZ7W",
+      "name": "Aviator Gray",
+      "make": "Audi",
+      "year_from": 2000,
+      "year_to": 2002,
+      "chipUrl": "https://www.paintref.com/chipimages/C5CHCU.png",
+      "chipHash": "afc3042210669ffc",
+      "ditzler": "300197"
+    },
+    {
+      "code": "LZ8N",
+      "name": "Andorra Red",
+      "make": "Audi",
+      "year_from": 2000,
+      "year_to": 2000,
+      "chipUrl": "https://www.paintref.com/chipimages/DAX3XH.png",
+      "chipHash": "faad59a75aed9cd1",
+      "ditzler": "75257"
+    },
+    {
+      "code": "LZ8P",
+      "name": "Sambabraun",
+      "make": "Audi",
+      "year_from": 2000,
+      "year_to": 2000,
+      "chipUrl": "https://www.paintref.com/chipimages/5W5SXT.png",
+      "chipHash": "4f4c0f1ec60f8b8a",
+      "ditzler": "28557"
+    },
+    {
+      "code": "LZ9V",
+      "name": "Raven Black",
+      "make": "Audi",
+      "year_from": 2000,
+      "year_to": 2003,
+      "chipUrl": "https://www.paintref.com/chipimages/GGGGGG.png",
+      "chipHash": "1f437854e2d31a87",
+      "ditzler": "95440"
+    },
+    {
+      "code": "LZ9W",
+      "name": "Ebony",
+      "make": "Audi",
+      "year_from": 2000,
+      "year_to": 2006,
+      "chipUrl": "https://www.paintref.com/chipimages/GGGGGG.png",
+      "chipHash": "1f437854e2d31a87",
+      "ditzler": "95441",
+      "models": [
+        "A4",
+        "A8L",
+        "Quattro",
+        "S4"
+      ]
+    },
+    {
+      "code": "LY1C",
+      "name": "Imola Yellow",
+      "make": "Audi",
+      "year_from": 2001,
+      "year_to": 2015,
+      "chipUrl": "https://www.paintref.com/chipimages/UUHEWG.png",
+      "chipHash": "a11bd0488bcb0664",
+      "ditzler": "84479",
+      "models": [
+        "A3",
+        "A4",
+        "A5",
+        "A6",
+        "A7",
+        "RS4",
+        "S4",
+        "SR4",
+        "TT"
+      ]
+    },
+    {
+      "code": "LY1W",
+      "name": "Alpaka Beige",
+      "make": "Audi",
+      "year_from": 2001,
+      "year_to": 2009,
+      "chipUrl": "https://www.paintref.com/chipimages/DED5D5.png",
+      "chipHash": "1f2273d1b880a04f",
+      "ditzler": "901749",
+      "models": [
+        "A4",
+        "Quattro",
+        "S4"
+      ]
+    },
+    {
+      "code": "LY3C",
+      "name": "Amulet Red",
+      "make": "Audi",
+      "year_from": 2001,
+      "year_to": 2006,
+      "chipUrl": "https://www.paintref.com/chipimages/24XSXS.png",
+      "chipHash": "68d6448e007d29f9",
+      "ditzler": "77611",
+      "models": [
+        "A4"
+      ]
+    },
+    {
+      "code": "LY5T",
+      "name": "Pelikanblau",
+      "make": "Audi",
+      "year_from": 2001,
+      "year_to": 2001,
+      "chipUrl": "https://www.paintref.com/chipimages/F4CGTA.png",
+      "chipHash": "09418e5a320cf5cf",
+      "ditzler": "19878"
+    },
+    {
+      "code": "LY7Q",
+      "name": "Atlas Gray",
+      "make": "Audi",
+      "year_from": 2001,
+      "year_to": 2005,
+      "chipUrl": "https://www.paintref.com/chipimages/WTWUS5.png",
+      "chipHash": "b898a4c2dfdd1077",
+      "ditzler": "301518",
+      "models": [
+        "A4",
+        "A8L",
+        "Quattro",
+        "S6"
+      ]
+    },
+    {
+      "code": "LY9G",
+      "name": "Casablanca",
+      "make": "Audi",
+      "year_from": 2001,
+      "year_to": 2002,
+      "chipUrl": "https://www.paintref.com/chipimages/4A4U4S.png",
+      "chipHash": "f9da03dc7ee53590",
+      "ditzler": "91417"
+    },
+    {
+      "code": "LZ5S",
+      "name": "Nemoblau",
+      "make": "Audi",
+      "year_from": 2001,
+      "year_to": 2001,
+      "chipUrl": "https://www.paintref.com/chipimages/5TDGDU.png",
+      "chipHash": "da215e0832d413ae",
+      "ditzler": "193263"
+    },
+    {
+      "code": "LZ6H",
+      "name": "Racingruen",
+      "make": "Audi",
+      "year_from": 2001,
+      "year_to": 2001,
+      "chipUrl": "https://www.paintref.com/chipimages/53D2DA.png",
+      "chipHash": "66f933a9dc5c1b63",
+      "ditzler": "48695"
+    },
+    {
+      "code": "LZ6L",
+      "name": "Kaktusgruen",
+      "make": "Audi",
+      "year_from": 2001,
+      "year_to": 2001,
+      "chipUrl": "https://www.paintref.com/chipimages/52F2DC.png",
+      "chipHash": "2c8e5873da254770",
+      "ditzler": "48337"
+    },
+    {
+      "code": "LZ7X",
+      "name": "Nimbusgrau",
+      "make": "Audi",
+      "year_from": 2001,
+      "year_to": 2001,
+      "chipUrl": "https://www.paintref.com/chipimages/D3DTDG.png",
+      "chipHash": "b2cae85a27654a21",
+      "ditzler": "37638"
+    },
+    {
+      "code": "LZ8N",
+      "name": "Andorrarot",
+      "make": "Audi",
+      "year_from": 2001,
+      "year_to": 2001,
+      "chipUrl": "https://www.paintref.com/chipimages/DAX3XH.png",
+      "chipHash": "faad59a75aed9cd1",
+      "ditzler": "75257"
+    },
+    {
+      "code": "LY6J",
+      "name": "Highland Green",
+      "make": "Audi",
+      "year_from": 2001,
+      "year_to": 2005,
+      "chipUrl": "https://www.paintref.com/chipimages/5UD2DF.png",
+      "chipHash": "cb70ba6032453fcf",
+      "ditzler": "402533",
+      "models": [
+        "Quattro"
+      ]
+    },
+    {
+      "code": "LOB9",
+      "name": "Magnolia",
+      "make": "Audi",
+      "year_from": 2001,
+      "year_to": 2001,
+      "chipUrl": "https://www.paintref.com/chipimages/4H4SUE.png",
+      "chipHash": "807edb0fe8c8866f",
+      "ditzler": "91468"
+    },
+    {
+      "code": "LY1B",
+      "name": "Brilliantgelb",
+      "make": "Audi",
+      "year_from": 2001,
+      "year_to": 2001,
+      "chipUrl": "https://www.paintref.com/chipimages/UAAEXH.png",
+      "chipHash": "18e4b5b48fcbd3a0",
+      "ditzler": "83792"
+    },
+    {
+      "code": "LY7J",
+      "name": "Avussilber",
+      "make": "Audi",
+      "year_from": 2002,
+      "year_to": 2002,
+      "chipUrl": "https://www.paintref.com/chipimages/S3S43X.png",
+      "chipHash": "83a628fad54d6019",
+      "ditzler": "301586"
+    },
+    {
+      "code": "LZ3M",
+      "name": "Misanorot",
+      "make": "Audi",
+      "year_from": 2002,
+      "year_to": 2014,
+      "chipUrl": "https://www.paintref.com/chipimages/T4GGX5.png",
+      "chipHash": "2c1b92e8226053e6",
+      "ditzler": "77964"
+    },
+    {
+      "code": "LZ8X",
+      "name": "Espresso Brown",
+      "make": "Audi",
+      "year_from": 2002,
+      "year_to": 2003,
+      "chipUrl": "https://www.paintref.com/chipimages/FADU5E.png",
+      "chipHash": "30d2d8c918b93c46",
+      "ditzler": ""
+    },
+    {
+      "code": "LX7Z",
+      "name": "Delphingrau",
+      "make": "Audi",
+      "year_from": 2002,
+      "year_to": 2002,
+      "chipUrl": "https://www.paintref.com/chipimages/DTF5FC.png",
+      "chipHash": "28f8e2971f13cb5c",
+      "ditzler": "301517"
+    },
+    {
+      "code": "LY1X",
+      "name": "Canvas Beige",
+      "make": "Audi",
+      "year_from": 2002,
+      "year_to": 2005,
+      "chipUrl": "https://www.paintref.com/chipimages/3G2U2X.png",
+      "chipHash": "d433b9320ff4a46b",
+      "ditzler": "201489",
+      "models": [
+        "A4",
+        "A6",
+        "Quattro"
+      ]
+    },
+    {
+      "code": "LY7Q",
+      "name": "Atlasgrau",
+      "make": "Audi",
+      "year_from": 2002,
+      "year_to": 2002,
+      "chipUrl": "https://www.paintref.com/chipimages/WTWUS5.png",
+      "chipHash": "b898a4c2dfdd1077",
+      "ditzler": "301518"
+    },
+    {
+      "code": "LY7R",
+      "name": "Crystal Blue",
+      "make": "Audi",
+      "year_from": 2002,
+      "year_to": 2005,
+      "chipUrl": "https://www.paintref.com/chipimages/SF2G35.png",
+      "chipHash": "e9cf9bce3eeb09be",
+      "ditzler": "195022",
+      "models": [
+        "A4",
+        "A6"
+      ]
+    },
+    {
+      "code": "LY7W",
+      "name": "Silbersee",
+      "make": "Audi",
+      "year_from": 2002,
+      "year_to": 2002,
+      "chipUrl": "https://www.paintref.com/chipimages/CSEST5.png",
+      "chipHash": "0bfe692cb18b937c",
+      "ditzler": "37637"
+    },
+    {
+      "code": "LY9F",
+      "name": "Brilliant White",
+      "make": "Audi",
+      "year_from": 2002,
+      "year_to": 2003,
+      "chipUrl": "https://www.paintref.com/chipimages/UGUSUT.png",
+      "chipHash": "16a1d8689affe70b",
+      "ditzler": "93119"
+    },
+    {
+      "code": "LY9H",
+      "name": "Polar Weiss",
+      "make": "Audi",
+      "year_from": 2002,
+      "year_to": 2002,
+      "chipUrl": "https://www.paintref.com/chipimages/A4AUAT.png",
+      "chipHash": "126b8b19470cf6d0",
+      "ditzler": "93120"
+    },
+    {
+      "code": "LZ3K",
+      "name": "Burgundy Red",
+      "make": "Audi",
+      "year_from": 2002,
+      "year_to": 2004,
+      "chipUrl": "https://www.paintref.com/chipimages/53GTXD.png",
+      "chipHash": "b339f2ff14320b92",
+      "ditzler": "701696",
+      "models": [
+        "A6",
+        "A8L",
+        "Quattro",
+        "S6"
+      ]
+    },
+    {
+      "code": "LZ5J",
+      "name": "Moroblau",
+      "make": "Audi",
+      "year_from": 2002,
+      "year_to": 2002,
+      "chipUrl": "https://www.paintref.com/chipimages/XSXW5A.png",
+      "chipHash": "8272793220a1243d",
+      "ditzler": "103835"
+    },
+    {
+      "code": "LZ5S",
+      "name": "Nemo Blue",
+      "make": "Audi",
+      "year_from": 2002,
+      "year_to": 2002,
+      "chipUrl": "https://www.paintref.com/chipimages/5TDGDU.png",
+      "chipHash": "da215e0832d413ae",
+      "ditzler": "193263"
+    },
+    {
+      "code": "LZ6G",
+      "name": "Irish Green",
+      "make": "Audi",
+      "year_from": 2002,
+      "year_to": 2004,
+      "chipUrl": "https://www.paintref.com/chipimages/X2DG53.png",
+      "chipHash": "ba4308466af3da01",
+      "ditzler": "403068",
+      "models": [
+        "A6",
+        "A8L"
+      ]
+    },
+    {
+      "code": "LZ6X",
+      "name": "Goodwood Green",
+      "make": "Audi",
+      "year_from": 2002,
+      "year_to": 2005,
+      "chipUrl": "https://www.paintref.com/chipimages/XDDW5C.png",
+      "chipHash": "09e528ba079ce847",
+      "ditzler": "402541",
+      "models": [
+        "RS6",
+        "S4",
+        "S6"
+      ]
+    },
+    {
+      "code": "LX7Z",
+      "name": "Dolphin Gray",
+      "make": "Audi",
+      "year_from": 2003,
+      "year_to": 2009,
+      "chipUrl": "https://www.paintref.com/chipimages/DTF5FC.png",
+      "chipHash": "28f8e2971f13cb5c",
+      "ditzler": "301517",
+      "models": [
+        "A4",
+        "A6",
+        "S4"
+      ]
+    },
+    {
+      "code": "LY1S",
+      "name": "Cosmic Yellow",
+      "make": "Audi",
+      "year_from": 2003,
+      "year_to": 2006,
+      "chipUrl": "https://www.paintref.com/chipimages/CE23W5.png",
+      "chipHash": "ffc54eca92fc9ccb",
+      "ditzler": "902027",
+      "models": [
+        "A4"
+      ]
+    },
+    {
+      "code": "LY3J",
+      "name": "Brilliant Red",
+      "make": "Audi",
+      "year_from": 2003,
+      "year_to": 2016,
+      "chipUrl": "https://www.paintref.com/chipimages/HGGGGT.png",
+      "chipHash": "57772c51357cd0b7",
+      "ditzler": "902023",
+      "models": [
+        "A3",
+        "A4",
+        "A5",
+        "A6",
+        "A8",
+        "Q7",
+        "R8",
+        "RS4",
+        "S3",
+        "S4",
+        "S5",
+        "S6",
+        "S8",
+        "SR4",
+        "TT",
+        "TTS"
+      ]
+    },
+    {
+      "code": "LY5S",
+      "name": "Aquamarine Blue",
+      "make": "Audi",
+      "year_from": 2003,
+      "year_to": 2006,
+      "chipUrl": "https://www.paintref.com/chipimages/WXW42W.png",
+      "chipHash": "3fc20f78ba196ef1",
+      "ditzler": "902058",
+      "models": [
+        "A4"
+      ]
+    },
+    {
+      "code": "LY5X",
+      "name": "Aqua Blue",
+      "make": "Audi",
+      "year_from": 2003,
+      "year_to": 2004,
+      "chipUrl": "https://www.paintref.com/chipimages/5F5WDC.png",
+      "chipHash": "0d2d02eefc2612a5",
+      "ditzler": "902029",
+      "models": [
+        "S6"
+      ]
+    },
+    {
+      "code": "LY7J",
+      "name": "Avus Silver",
+      "make": "Audi",
+      "year_from": 2003,
+      "year_to": 2008,
+      "chipUrl": "https://www.paintref.com/chipimages/S3S43X.png",
+      "chipHash": "83a628fad54d6019",
+      "ditzler": "301586",
+      "models": [
+        "RS4",
+        "RS6"
+      ]
+    },
+    {
+      "code": "LY9D",
+      "name": "Arctic White",
+      "make": "Audi",
+      "year_from": 2003,
+      "year_to": 2006,
+      "chipUrl": "https://www.paintref.com/chipimages/A5ADHS.png",
+      "chipHash": "1c9dffd32a31c3f4",
+      "ditzler": "902025",
+      "models": [
+        "A3",
+        "A4",
+        "A6",
+        "A8L",
+        "S4",
+        "S6"
+      ]
+    },
+    {
+      "code": "LY9H",
+      "name": "Polar White",
+      "make": "Audi",
+      "year_from": 2003,
+      "year_to": 2003,
+      "chipUrl": "https://www.paintref.com/chipimages/A4AUAT.png",
+      "chipHash": "126b8b19470cf6d0",
+      "ditzler": "93120"
+    },
+    {
+      "code": "LZ5C",
+      "name": "Mauritius Blue",
+      "make": "Audi",
+      "year_from": 2003,
+      "year_to": 2008,
+      "chipUrl": "https://www.paintref.com/chipimages/5GWD3H.png",
+      "chipHash": "a4f46b2079c21067",
+      "ditzler": "902024",
+      "models": [
+        "A3",
+        "A4",
+        "TT"
+      ]
+    },
+    {
+      "code": "LZ5G",
+      "name": "Caribic Blue",
+      "make": "Audi",
+      "year_from": 2003,
+      "year_to": 2006,
+      "chipUrl": "https://www.paintref.com/chipimages/XUFC33.png",
+      "chipHash": "deae907aa22a51cc",
+      "ditzler": "902026",
+      "models": [
+        "A4"
+      ]
+    },
+    {
+      "code": "LZ5J",
+      "name": "Moro Blue",
+      "make": "Audi",
+      "year_from": 2003,
+      "year_to": 2009,
+      "chipUrl": "https://www.paintref.com/chipimages/XSXW5A.png",
+      "chipHash": "8272793220a1243d",
+      "ditzler": "103835",
+      "models": [
+        "A3",
+        "A4",
+        "S4",
+        "TT"
+      ]
+    },
+    {
+      "code": "LZ5Q",
+      "name": "Kobalt Blue",
+      "make": "Audi",
+      "year_from": 2003,
+      "year_to": 2012,
+      "chipUrl": "https://www.paintref.com/chipimages/5DXU5U.png",
+      "chipHash": "034e8f4f696c461c",
+      "ditzler": "195023",
+      "models": [
+        "Q7",
+        "Quattro"
+      ]
+    },
+    {
+      "code": "LZ6E",
+      "name": "Cambridge Green",
+      "make": "Audi",
+      "year_from": 2003,
+      "year_to": 2003,
+      "chipUrl": "https://www.paintref.com/chipimages/GUDG5F.png",
+      "chipHash": "1efe9508ae05d2fe",
+      "ditzler": "902028"
+    },
+    {
+      "code": "LZ6G",
+      "name": "Irischgruen",
+      "make": "Audi",
+      "year_from": 2003,
+      "year_to": 2003,
+      "chipUrl": "https://www.paintref.com/chipimages/X2DG53.png",
+      "chipHash": "ba4308466af3da01",
+      "ditzler": "403068"
+    },
+    {
+      "code": "LZ7J",
+      "name": "Dolmite Gray",
+      "make": "Audi",
+      "year_from": 2003,
+      "year_to": 2006,
+      "chipUrl": "https://www.paintref.com/chipimages/F3FAWW.png",
+      "chipHash": "ade5721235c180f1",
+      "ditzler": "902567",
+      "models": [
+        "TT"
+      ]
+    },
+    {
+      "code": "LZ7K",
+      "name": "Glacier Blue",
+      "make": "Audi",
+      "year_from": 2003,
+      "year_to": 2003,
+      "chipUrl": "https://www.paintref.com/chipimages/DDD3FD.png",
+      "chipHash": "8a89604602783287",
+      "ditzler": "902568"
+    },
+    {
+      "code": "LX6Z",
+      "name": "Silver Green",
+      "make": "Audi",
+      "year_from": 2004,
+      "year_to": 2004,
+      "chipUrl": "https://www.paintref.com/chipimages/2H333S.png",
+      "chipHash": "958c8924726b8b19",
+      "ditzler": "904301",
+      "models": [
+        "A8L"
+      ]
+    },
+    {
+      "code": "LY1G",
+      "name": "Citrus Yellow",
+      "make": "Audi",
+      "year_from": 2004,
+      "year_to": 2022,
+      "chipUrl": "https://www.paintref.com/chipimages/4AA5F5.png",
+      "chipHash": "c04e91f1082b3e1e",
+      "ditzler": "904234",
+      "models": [
+        "A4"
+      ]
+    },
+    {
+      "code": "LY2B",
+      "name": "Papaya Orange",
+      "make": "Audi",
+      "year_from": 2004,
+      "year_to": 2006,
+      "chipUrl": "https://www.paintref.com/chipimages/UASS5G.png",
+      "chipHash": "e1a0d7f6b7735826",
+      "ditzler": "904232",
+      "models": [
+        "TT"
+      ]
+    },
+    {
+      "code": "LY6J",
+      "name": "Hochlandgruen",
+      "make": "Audi",
+      "year_from": 2004,
+      "year_to": 2004,
+      "chipUrl": "https://www.paintref.com/chipimages/5UD2DF.png",
+      "chipHash": "cb70ba6032453fcf",
+      "ditzler": "402533"
+    },
+    {
+      "code": "LZ1Z",
+      "name": "Pearl Beige",
+      "make": "Audi",
+      "year_from": 2004,
+      "year_to": 2007,
+      "chipUrl": "https://www.paintref.com/chipimages/3F2TSA.png",
+      "chipHash": "9c3a309acc32c313",
+      "ditzler": "904237",
+      "models": [
+        "A8",
+        "A8L"
+      ]
+    },
+    {
+      "code": "LZ3H",
+      "name": "Crimson Red",
+      "make": "Audi",
+      "year_from": 2004,
+      "year_to": 2005,
+      "chipUrl": "https://www.paintref.com/chipimages/F2GEGH.png",
+      "chipHash": "7227212f10800343",
+      "ditzler": "904233",
+      "models": [
+        "A4"
+      ]
+    },
+    {
+      "code": "LZ3M",
+      "name": "Misano Red",
+      "make": "Audi",
+      "year_from": 2004,
+      "year_to": 2021,
+      "chipUrl": "https://www.paintref.com/chipimages/T4GGX5.png",
+      "chipHash": "2c1b92e8226053e6",
+      "ditzler": "77964",
+      "models": [
+        "A1",
+        "A3",
+        "A4",
+        "A5",
+        "A6",
+        "A7",
+        "Q3",
+        "RS4",
+        "RS5",
+        "RS6",
+        "RS7",
+        "S1",
+        "S3",
+        "S4",
+        "S5",
+        "S6",
+        "S7",
+        "TT",
+        "TTS"
+      ]
+    },
+    {
+      "code": "LZ5D",
+      "name": "Night Blue",
+      "make": "Audi",
+      "year_from": 2004,
+      "year_to": 2021,
+      "chipUrl": "https://www.paintref.com/chipimages/XTXT52.png",
+      "chipHash": "d2715b18d4fddfb0",
+      "ditzler": "904236",
+      "models": [
+        "A6",
+        "A8",
+        "A8L",
+        "S6",
+        "S8"
+      ]
+    },
+    {
+      "code": "LZ5E",
+      "name": "Mugello Blue",
+      "make": "Audi",
+      "year_from": 2004,
+      "year_to": 2014,
+      "chipUrl": "https://www.paintref.com/chipimages/525XFD.png",
+      "chipHash": "9afdf396f1717c43",
+      "ditzler": "904239",
+      "models": [
+        "Q7",
+        "R8",
+        "RS4",
+        "RS6"
+      ]
+    },
+    {
+      "code": "LZ5F",
+      "name": "Sprint Blue",
+      "make": "Audi",
+      "year_from": 2004,
+      "year_to": 2011,
+      "chipUrl": "https://www.paintref.com/chipimages/G3W5CD.png",
+      "chipHash": "ee086511c1de19a2",
+      "ditzler": "904299",
+      "models": [
+        "A3",
+        "A4",
+        "RS4",
+        "S4",
+        "S5",
+        "S6",
+        "TTS"
+      ]
+    },
+    {
+      "code": "LZ6E",
+      "name": "Tief Green",
+      "make": "Audi",
+      "year_from": 2004,
+      "year_to": 2014,
+      "chipUrl": "https://www.paintref.com/chipimages/GUDG5F.png",
+      "chipHash": "1efe9508ae05d2fe",
+      "ditzler": "902028",
+      "models": [
+        "A4",
+        "A6",
+        "A7",
+        "A8",
+        "A8L",
+        "S4",
+        "TT"
+      ]
+    },
+    {
+      "code": "LZ7Q",
+      "name": "Oyster Gray",
+      "make": "Audi",
+      "year_from": 2004,
+      "year_to": 2011,
+      "chipUrl": "https://www.paintref.com/chipimages/S2WASS.png",
+      "chipHash": "c88d99aa0598b14c",
+      "ditzler": "904238",
+      "models": [
+        "A6",
+        "A8",
+        "A8L"
+      ]
+    },
+    {
+      "code": "LZ7R",
+      "name": "Northern Blue",
+      "make": "Audi",
+      "year_from": 2004,
+      "year_to": 2010,
+      "chipUrl": "https://www.paintref.com/chipimages/2D223X.png",
+      "chipHash": "87585dcc14adb622",
+      "ditzler": "904300",
+      "models": [
+        "A8",
+        "A8L"
+      ]
+    },
+    {
+      "code": "LZ7S",
+      "name": "Daytona Gray",
+      "make": "Audi",
+      "year_from": 2004,
+      "year_to": 2026,
+      "chipUrl": "https://www.paintref.com/chipimages/24222W.png",
+      "chipHash": "8b5b9b705219d7c2",
+      "ditzler": "904302",
+      "models": [
+        "A1",
+        "A3",
+        "A4",
+        "A5",
+        "A6",
+        "A7",
+        "A8",
+        "E-Tron",
+        "Q1",
+        "Q3",
+        "Q5",
+        "Q7",
+        "Q8",
+        "R8",
+        "RS",
+        "RS3",
+        "RS4",
+        "RS5",
+        "RS6",
+        "RS7",
+        "RSGT",
+        "RSQ8",
+        "S",
+        "S1",
+        "S3",
+        "S4",
+        "S5",
+        "S6",
+        "S7",
+        "S8",
+        "SGT",
+        "SQ5",
+        "SQ6",
+        "SQ7",
+        "SQ8",
+        "TT",
+        "TTRS",
+        "TTS"
+      ]
+    },
+    {
+      "code": "LY3C",
+      "name": "Amulettrot",
+      "make": "Audi",
+      "model": "A4",
+      "year_from": 2004,
+      "year_to": 2004,
+      "chipUrl": "https://www.paintref.com/chipimages/24XSXS.png",
+      "chipHash": "68d6448e007d29f9",
+      "ditzler": "77611",
+      "models": [
+        "A4"
+      ]
+    },
+    {
+      "code": "LY1X",
+      "name": "Canvasbeige",
+      "make": "Audi",
+      "model": "Quattro",
+      "year_from": 2004,
+      "year_to": 2004,
+      "chipUrl": "https://www.paintref.com/chipimages/3G2U2X.png",
+      "chipHash": "d433b9320ff4a46b",
+      "ditzler": "201489",
+      "models": [
+        "Quattro"
+      ]
+    },
+    {
+      "code": "LZ6X",
+      "name": "Goodwoodgruen",
+      "make": "Audi",
+      "model": "TT",
+      "year_from": 2004,
+      "year_to": 2021,
+      "chipUrl": "https://www.paintref.com/chipimages/XDDW5C.png",
+      "chipHash": "09e528ba079ce847",
+      "ditzler": "402541",
+      "models": [
+        "TT"
+      ]
+    },
+    {
+      "code": "LY1Q",
+      "name": "Dark Gray",
+      "make": "Audi",
+      "year_from": 2005,
+      "year_to": 2005,
+      "chipUrl": "https://www.paintref.com/chipimages/WUW2WW.png",
+      "chipHash": "222cad83c4d01b87",
+      "ditzler": "908183",
+      "models": [
+        "A4",
+        "A6"
+      ]
+    },
+    {
+      "code": "LY5J",
+      "name": "Liquid Blue",
+      "make": "Audi",
+      "year_from": 2005,
+      "year_to": 2007,
+      "chipUrl": "https://www.paintref.com/chipimages/SXSC2U.png",
+      "chipHash": "ac0e3075244663e2",
+      "ditzler": "908185",
+      "models": [
+        "A3",
+        "A4"
+      ]
+    },
+    {
+      "code": "LY7G",
+      "name": "Quartz Gray",
+      "make": "Audi",
+      "year_from": 2005,
+      "year_to": 2015,
+      "chipUrl": "https://www.paintref.com/chipimages/CUEUE5.png",
+      "chipHash": "0adfde1f4469ea93",
+      "ditzler": "908113",
+      "models": [
+        "A4",
+        "A5",
+        "A6",
+        "A7",
+        "A8",
+        "A8L",
+        "Q5",
+        "Q7",
+        "R8",
+        "S4",
+        "S5",
+        "S6",
+        "S7",
+        "S8",
+        "TT"
+      ]
+    },
+    {
+      "code": "LY7H",
+      "name": "Akoya Silver",
+      "make": "Audi",
+      "year_from": 2005,
+      "year_to": 2009,
+      "chipUrl": "https://www.paintref.com/chipimages/F2FDWX.png",
+      "chipHash": "e7c42d1dcf97361f",
+      "ditzler": "908181",
+      "models": [
+        "A4",
+        "A8L"
+      ]
+    },
+    {
+      "code": "LY7R",
+      "name": "Kristallblau",
+      "make": "Audi",
+      "year_from": 2005,
+      "year_to": 2005,
+      "chipUrl": "https://www.paintref.com/chipimages/SF2G35.png",
+      "chipHash": "e9cf9bce3eeb09be",
+      "ditzler": "195022"
+    },
+    {
+      "code": "LZ3G",
+      "name": "Canyon Red",
+      "make": "Audi",
+      "year_from": 2005,
+      "year_to": 2006,
+      "chipUrl": "https://www.paintref.com/chipimages/SSGFGC.png",
+      "chipHash": "8bf73bbf0ad592c1",
+      "ditzler": "908184",
+      "models": [
+        "A6"
+      ]
+    },
+    {
+      "code": "LZ5B",
+      "name": "Strato Blue",
+      "make": "Audi",
+      "year_from": 2005,
+      "year_to": 2010,
+      "chipUrl": "https://www.paintref.com/chipimages/XH5FDD.png",
+      "chipHash": "e79ca5bee5eba0d6",
+      "ditzler": "908182",
+      "models": [
+        "A6",
+        "Q5"
+      ]
+    },
+    {
+      "code": "LV6T",
+      "name": "Gray Green",
+      "make": "Audi",
+      "year_from": 2005,
+      "year_to": 2005,
+      "chipUrl": "https://www.paintref.com/chipimages/555355.png",
+      "chipHash": "0be554e9d151075a",
+      "ditzler": "403143",
+      "models": [
+        "Quattro"
+      ]
+    },
+    {
+      "code": "LV7W",
+      "name": "Dark Gray",
+      "make": "Audi",
+      "year_from": 2005,
+      "year_to": 2005,
+      "chipUrl": "https://www.paintref.com/chipimages/WEW2WA.png",
+      "chipHash": "d6179aa455c7b827",
+      "ditzler": "301585",
+      "models": [
+        "Quattro"
+      ]
+    },
+    {
+      "code": "LY1Q",
+      "name": "Dark Beige",
+      "make": "Audi",
+      "year_from": 2006,
+      "year_to": 2011,
+      "chipUrl": "https://www.paintref.com/chipimages/WUW2WW.png",
+      "chipHash": "222cad83c4d01b87",
+      "ditzler": "908183",
+      "models": [
+        "A3",
+        "A4",
+        "A6",
+        "TT"
+      ]
+    },
+    {
+      "code": "LZ3F",
+      "name": "Garnet Red",
+      "make": "Audi",
+      "year_from": 2006,
+      "year_to": 2016,
+      "chipUrl": "https://www.paintref.com/chipimages/WHGGGC.png",
+      "chipHash": "ee3f42f325de2dfb",
+      "ditzler": "910802",
+      "models": [
+        "A3",
+        "A4",
+        "A5",
+        "A6",
+        "A7",
+        "A8",
+        "A8L",
+        "Q5",
+        "Q7",
+        "S4",
+        "S5",
+        "S6",
+        "S7"
+      ]
+    },
+    {
+      "code": "LZ4Z",
+      "name": "Venetian Violet",
+      "make": "Audi",
+      "year_from": 2006,
+      "year_to": 2006,
+      "chipUrl": "https://www.paintref.com/chipimages/5A5WF5.png",
+      "chipHash": "a35c9bc4a0150eb7",
+      "ditzler": "910804",
+      "models": [
+        "A3"
+      ]
+    },
+    {
+      "code": "LZ6Q",
+      "name": "Murano Green",
+      "make": "Audi",
+      "year_from": 2006,
+      "year_to": 2006,
+      "chipUrl": "https://www.paintref.com/chipimages/XFDSDE.png",
+      "chipHash": "a5f3df46fee2cccb",
+      "ditzler": "910805",
+      "models": [
+        "A3"
+      ]
+    },
+    {
+      "code": "LZ7L",
+      "name": "Lava Gray",
+      "make": "Audi",
+      "year_from": 2006,
+      "year_to": 2017,
+      "chipUrl": "https://www.paintref.com/chipimages/5U5U5U.png",
+      "chipHash": "2cf476744b4abc76",
+      "ditzler": "910803",
+      "models": [
+        "A3",
+        "A4",
+        "A5",
+        "Q5",
+        "Q7",
+        "R8",
+        "S4",
+        "S5",
+        "SQ5"
+      ]
+    },
+    {
+      "code": "LX5Z",
+      "name": "Petrol Blue",
+      "make": "Audi",
+      "model": "Audi",
+      "year_from": 2006,
+      "year_to": 2010,
+      "chipUrl": "https://www.paintref.com/chipimages/52FTWU.png",
+      "chipHash": "6f1df81ac871a8a0",
+      "ditzler": "",
+      "models": [
+        "Audi"
+      ]
+    },
+    {
+      "code": "LR9A",
+      "name": "Campanella White",
+      "make": "Audi",
+      "year_from": 2007,
+      "year_to": 2009,
+      "chipUrl": "https://www.paintref.com/chipimages/4DUAU4.png",
+      "chipHash": "0c586c5f09142545",
+      "ditzler": "901463",
+      "models": [
+        "Q7"
+      ]
+    },
+    {
+      "code": "LX1Z",
+      "name": "Bahia Beige",
+      "make": "Audi",
+      "year_from": 2007,
+      "year_to": 2014,
+      "chipUrl": "https://www.paintref.com/chipimages/EDCE3U.png",
+      "chipHash": "2b1c48f9cb379928",
+      "ditzler": "915777",
+      "models": [
+        "Q7"
+      ]
+    },
+    {
+      "code": "LX6Y",
+      "name": "Sycamore Green",
+      "make": "Audi",
+      "year_from": 2007,
+      "year_to": 2007,
+      "chipUrl": "https://www.paintref.com/chipimages/ESE23F.png",
+      "chipHash": "3f2a1ab635fd31df",
+      "ditzler": "915776",
+      "models": [
+        "Q7"
+      ]
+    },
+    {
+      "code": "LY7E",
+      "name": "Condor Gray",
+      "make": "Audi",
+      "year_from": 2007,
+      "year_to": 2011,
+      "chipUrl": "https://www.paintref.com/chipimages/S22X2C.png",
+      "chipHash": "cf62bcbafb7913ca",
+      "ditzler": "915773",
+      "models": [
+        "A6",
+        "Q7"
+      ]
+    },
+    {
+      "code": "LY9C",
+      "name": "Ibis White",
+      "make": "Audi",
+      "year_from": 2007,
+      "year_to": 2024,
+      "chipUrl": "https://www.paintref.com/chipimages/AAU5UD.png",
+      "chipHash": "19bfa5262b21a147",
+      "ditzler": "915774",
+      "models": [
+        "A3",
+        "A4",
+        "A5",
+        "A6",
+        "A7",
+        "A8",
+        "A8L",
+        "AQ",
+        "E-Tron",
+        "Q1",
+        "Q3",
+        "Q5",
+        "Q7",
+        "R8",
+        "RS",
+        "RS3",
+        "RS4",
+        "RS5",
+        "RS6",
+        "RS7",
+        "S3",
+        "S4",
+        "S5",
+        "S6",
+        "S7",
+        "S8",
+        "SQ5",
+        "SR4",
+        "TT",
+        "TTS"
+      ]
+    },
+    {
+      "code": "LZ5A",
+      "name": "Deep Sea Blue",
+      "make": "Audi",
+      "year_from": 2007,
+      "year_to": 2014,
+      "chipUrl": "https://www.paintref.com/chipimages/XU5SW5.png",
+      "chipHash": "1690afdc00bca43f",
+      "ditzler": "915775",
+      "models": [
+        "A3",
+        "A4",
+        "A5",
+        "Q5",
+        "S4",
+        "S5",
+        "TT"
+      ]
+    },
+    {
+      "code": "LZ9Y",
+      "name": "Phantom Black",
+      "make": "Audi",
+      "year_from": 2007,
+      "year_to": 2016,
+      "chipUrl": "https://www.paintref.com/chipimages/GGGGGG.png",
+      "chipHash": "1f437854e2d31a87",
+      "ditzler": "915572",
+      "models": [
+        "A3",
+        "A4",
+        "A5",
+        "A6",
+        "A7",
+        "A8",
+        "AQ",
+        "Q3",
+        "Q5",
+        "Q7",
+        "R8",
+        "RS4",
+        "RS5",
+        "RS6",
+        "RS7",
+        "S3",
+        "S4",
+        "S5",
+        "S6",
+        "S7",
+        "S8",
+        "SQ5",
+        "SR4",
+        "TT",
+        "TTS"
+      ]
+    },
+    {
+      "code": "LX5W",
+      "name": "Jet Blue",
+      "make": "Audi",
+      "year_from": 2008,
+      "year_to": 2012,
+      "chipUrl": "https://www.paintref.com/chipimages/WFSXS2.png",
+      "chipHash": "91ae9b7b51737860",
+      "ditzler": "919754",
+      "models": [
+        "R8"
+      ]
+    },
+    {
+      "code": "LX7W",
+      "name": "Ice Silver",
+      "make": "Audi",
+      "year_from": 2008,
+      "year_to": 2021,
+      "chipUrl": "https://www.paintref.com/chipimages/EDE2EE.png",
+      "chipHash": "5e55a82aaf4fef44",
+      "ditzler": "919755",
+      "models": [
+        "A3",
+        "A4",
+        "A5",
+        "A6",
+        "A7",
+        "A8",
+        "AQ",
+        "Q3",
+        "Q5",
+        "Q7",
+        "R8",
+        "S3",
+        "S4",
+        "S5",
+        "S6",
+        "S7",
+        "S8",
+        "SQ5",
+        "TT",
+        "TTS"
+      ]
+    },
+    {
+      "code": "LX7X",
+      "name": "Sahara Silver",
+      "make": "Audi",
+      "year_from": 2008,
+      "year_to": 2015,
+      "chipUrl": "https://www.paintref.com/chipimages/HXT4T3.png",
+      "chipHash": "b6b9699cbfe7eb91",
+      "ditzler": "918146",
+      "models": [
+        "A5",
+        "R8",
+        "TT"
+      ]
+    },
+    {
+      "code": "LZ1Y",
+      "name": "Impala Beige",
+      "make": "Audi",
+      "year_from": 2008,
+      "year_to": 2009,
+      "chipUrl": "https://www.paintref.com/chipimages/CA323G.png",
+      "chipHash": "794cf5095d244f71",
+      "ditzler": "919757",
+      "models": [
+        "A8",
+        "S8"
+      ]
+    },
+    {
+      "code": "LZ9X",
+      "name": "Cherry Black",
+      "make": "Audi",
+      "year_from": 2008,
+      "year_to": 2021,
+      "chipUrl": "https://www.paintref.com/chipimages/5XGGXU.png",
+      "chipHash": "368b30f409474c79",
+      "ditzler": "919756",
+      "models": [
+        "A8",
+        "S8"
+      ]
+    },
+    {
+      "code": "LX5V",
+      "name": "Aruba Blue",
+      "make": "Audi",
+      "year_from": 2009,
+      "year_to": 2011,
+      "chipUrl": "https://www.paintref.com/chipimages/GCFF2W.png",
+      "chipHash": "ca878cc46b993816",
+      "ditzler": "921224",
+      "models": [
+        "A3",
+        "A4",
+        "A5",
+        "TT"
+      ]
+    },
+    {
+      "code": "LX7V",
+      "name": "Monza Silver",
+      "make": "Audi",
+      "year_from": 2009,
+      "year_to": 2014,
+      "chipUrl": "https://www.paintref.com/chipimages/3WC2EF.png",
+      "chipHash": "d2725aa9d631ffa4",
+      "ditzler": "923016",
+      "models": [
+        "A3",
+        "A4",
+        "A5",
+        "A6",
+        "TT"
+      ]
+    },
+    {
+      "code": "LX7X",
+      "name": "Apolo Gray",
+      "make": "Audi",
+      "year_from": 2009,
+      "year_to": 2010,
+      "chipUrl": "https://www.paintref.com/chipimages/HXT4T3.png",
+      "chipHash": "b6b9699cbfe7eb91",
+      "ditzler": "918146",
+      "models": [
+        "A5",
+        "TT"
+      ]
+    },
+    {
+      "code": "LY2G",
+      "name": "Solar Orange",
+      "make": "Audi",
+      "year_from": 2009,
+      "year_to": 2021,
+      "chipUrl": "https://www.paintref.com/chipimages/4ASFG3.png",
+      "chipHash": "ee00b151d7158753",
+      "ditzler": "923401",
+      "models": [
+        "TTS"
+      ]
+    },
+    {
+      "code": "LZ7H",
+      "name": "Meteor Gray",
+      "make": "Audi",
+      "year_from": 2009,
+      "year_to": 2014,
+      "chipUrl": "https://www.paintref.com/chipimages/F5WGWE.png",
+      "chipHash": "0c3d04e467eea9e5",
+      "ditzler": "921223",
+      "models": [
+        "A3",
+        "A4",
+        "A5",
+        "Q5",
+        "S4",
+        "S5",
+        "TT",
+        "TTS"
+      ]
+    },
+    {
+      "code": "LC9X",
+      "name": "Black",
+      "make": "Audi",
+      "year_from": 2010,
+      "year_to": 2010,
+      "chipUrl": "https://www.paintref.com/chipimages/GGGGGG.png",
+      "chipHash": "1f437854e2d31a87",
+      "ditzler": "910602",
+      "models": [
+        "Q7"
+      ]
+    },
+    {
+      "code": "LM7W",
+      "name": "Graphite Gray",
+      "make": "Audi",
+      "year_from": 2010,
+      "year_to": 2018,
+      "chipUrl": "https://www.paintref.com/chipimages/SFS5W4.png",
+      "chipHash": "48772f99980af7ea",
+      "ditzler": "926503",
+      "models": [
+        "A8",
+        "Q7",
+        "TTS"
+      ]
+    },
+    {
+      "code": "LX5S",
+      "name": "Aventurine Blue",
+      "make": "Audi",
+      "year_from": 2010,
+      "year_to": 2011,
+      "chipUrl": "https://www.paintref.com/chipimages/5D5TFX.png",
+      "chipHash": "0c866459cc51d947",
+      "ditzler": "926231",
+      "models": [
+        "A6",
+        "S6"
+      ]
+    },
+    {
+      "code": "LX5X",
+      "name": "Sphere Blue",
+      "make": "Audi",
+      "year_from": 2010,
+      "year_to": 2010,
+      "chipUrl": "https://www.paintref.com/chipimages/W5SESE.png",
+      "chipHash": "436a14e3953dbc73",
+      "ditzler": "926527",
+      "models": [
+        "A3"
+      ]
+    },
+    {
+      "code": "LY2G",
+      "name": "Glutorange",
+      "make": "Audi",
+      "year_from": 2010,
+      "year_to": 2010,
+      "chipUrl": "https://www.paintref.com/chipimages/4ASFG3.png",
+      "chipHash": "ee00b151d7158753",
+      "ditzler": "923401",
+      "models": [
+        "TTS"
+      ]
+    },
+    {
+      "code": "LY5Q",
+      "name": "Sepang Blue",
+      "make": "Audi",
+      "year_from": 2010,
+      "year_to": 2022,
+      "chipUrl": "https://www.paintref.com/chipimages/XDDH2C.png",
+      "chipHash": "e40c4cfe547c167c",
+      "ditzler": "925991",
+      "models": [
+        "A1",
+        "A3",
+        "A4",
+        "A5",
+        "A6",
+        "A7",
+        "A8",
+        "A8L",
+        "Q3",
+        "Q5",
+        "R8",
+        "RS5",
+        "RS7",
+        "S5",
+        "S6",
+        "S7",
+        "SQ5",
+        "TT",
+        "TTS"
+      ]
+    },
+    {
+      "code": "LY7F",
+      "name": "Suzuka Gray",
+      "make": "Audi",
+      "year_from": 2010,
+      "year_to": 2024,
+      "chipUrl": "https://www.paintref.com/chipimages/TFHGHX.png",
+      "chipHash": "5d6c8e27f614bd69",
+      "ditzler": "926525",
+      "models": [
+        "A4",
+        "A5",
+        "E-Tron",
+        "Q3",
+        "Q5",
+        "R8",
+        "RS",
+        "RS4",
+        "RS5",
+        "RS7",
+        "TT"
+      ]
+    },
+    {
+      "code": "LZ1N",
+      "name": "Aurum Beige",
+      "make": "Audi",
+      "year_from": 2010,
+      "year_to": 2011,
+      "chipUrl": "https://www.paintref.com/chipimages/EGC23S.png",
+      "chipHash": "5ad33fad6977756c",
+      "ditzler": "926506",
+      "models": [
+        "A5"
+      ]
+    },
+    {
+      "code": "LZ1Y",
+      "name": "Savana Beige",
+      "make": "Audi",
+      "year_from": 2010,
+      "year_to": 2019,
+      "chipUrl": "https://www.paintref.com/chipimages/CA323G.png",
+      "chipHash": "794cf5095d244f71",
+      "ditzler": "919757",
+      "models": [
+        "A7",
+        "A8",
+        "S8"
+      ]
+    },
+    {
+      "code": "LZ4X",
+      "name": "Aubergine Gray",
+      "make": "Audi",
+      "year_from": 2010,
+      "year_to": 2010,
+      "chipUrl": "https://www.paintref.com/chipimages/WDFUWC.png",
+      "chipHash": "59c5cc6949417cb5",
+      "ditzler": "926526",
+      "models": [
+        "Q5"
+      ]
+    },
+    {
+      "code": "LZ8W",
+      "name": "Teak Brown",
+      "make": "Audi",
+      "year_from": 2010,
+      "year_to": 2021,
+      "chipUrl": "https://www.paintref.com/chipimages/WFFCD3.png",
+      "chipHash": "2f0f31342652a973",
+      "ditzler": "925990",
+      "models": [
+        "A1",
+        "A4",
+        "A5",
+        "AQ",
+        "Q5",
+        "Q7",
+        "R8",
+        "S1"
+      ]
+    },
+    {
+      "code": "LC9X",
+      "name": "Deep Black",
+      "make": "Audi",
+      "year_from": 2011,
+      "year_to": 2011,
+      "chipUrl": "https://www.paintref.com/chipimages/GGGGGG.png",
+      "chipHash": "1f437854e2d31a87",
+      "ditzler": "910602",
+      "models": [
+        "Q7"
+      ]
+    },
+    {
+      "code": "LX5Q",
+      "name": "Scuba Blue",
+      "make": "Audi",
+      "year_from": 2011,
+      "year_to": 2018,
+      "chipUrl": "https://www.paintref.com/chipimages/X454FC.png",
+      "chipHash": "bd5aadaa2924fa8e",
+      "ditzler": "930304",
+      "models": [
+        "A1",
+        "A3",
+        "A4",
+        "A5",
+        "AQ",
+        "Q5",
+        "Q7",
+        "S1",
+        "TT",
+        "TTS"
+      ]
+    },
+    {
+      "code": "LY3M",
+      "name": "Volcano Red",
+      "make": "Audi",
+      "year_from": 2011,
+      "year_to": 2018,
+      "chipUrl": "https://www.paintref.com/chipimages/S3GHXD.png",
+      "chipHash": "9b3a863ff54fd9e5",
+      "ditzler": "930302",
+      "models": [
+        "A4",
+        "A5",
+        "AQ",
+        "Q5",
+        "S4",
+        "S5",
+        "SQ5",
+        "TT",
+        "TTS"
+      ]
+    },
+    {
+      "code": "LY8X",
+      "name": "Havanna Black",
+      "make": "Audi",
+      "year_from": 2011,
+      "year_to": 2021,
+      "chipUrl": "https://www.paintref.com/chipimages/535DXT.png",
+      "chipHash": "e1c894a5797eed9d",
+      "ditzler": "930303",
+      "models": [
+        "A6",
+        "A7",
+        "A8",
+        "A8L",
+        "S6",
+        "S7",
+        "S8"
+      ]
+    },
+    {
+      "code": "LY9W",
+      "name": "Emerald Black",
+      "make": "Audi",
+      "year_from": 2011,
+      "year_to": 2014,
+      "chipUrl": "https://www.paintref.com/chipimages/XFX2XF.png",
+      "chipHash": "dfd16f909464d11b",
+      "ditzler": "925157",
+      "models": [
+        "A8",
+        "S8"
+      ]
+    },
+    {
+      "code": "LC9X",
+      "name": "Deep Black Pearl",
+      "make": "Audi",
+      "year_from": 2012,
+      "year_to": 2015,
+      "chipUrl": "https://www.paintref.com/chipimages/GGGGGG.png",
+      "chipHash": "1f437854e2d31a87",
+      "ditzler": "910602",
+      "models": [
+        "Q7"
+      ]
+    },
+    {
+      "code": "LS9R",
+      "name": "Glacier White",
+      "make": "Audi",
+      "year_from": 2012,
+      "year_to": 2026,
+      "chipUrl": "https://www.paintref.com/chipimages/4X4242.png",
+      "chipHash": "c13fae57bf573f06",
+      "ditzler": "932097",
+      "models": [
+        "A1",
+        "A3",
+        "A4",
+        "A5",
+        "A6",
+        "A7",
+        "A8",
+        "A8L",
+        "AQ",
+        "E-Tron",
+        "Q1",
+        "Q3",
+        "Q4",
+        "Q5",
+        "Q6",
+        "Q7",
+        "Q8",
+        "R8",
+        "RS",
+        "RS3",
+        "RS5",
+        "RS6",
+        "RS7",
+        "RSQ8",
+        "S1",
+        "S3",
+        "S4",
+        "S5",
+        "S6",
+        "S7",
+        "S8",
+        "SQ5",
+        "SQ6",
+        "SQ7",
+        "SQ8",
+        "TT",
+        "TTRS",
+        "TTS"
+      ]
+    },
+    {
+      "code": "LX2U",
+      "name": "Samoa Orange",
+      "make": "Audi",
+      "year_from": 2012,
+      "year_to": 2021,
+      "chipUrl": "https://www.paintref.com/chipimages/A53WXU.png",
+      "chipHash": "9e0d54408840d465",
+      "ditzler": "932098",
+      "models": [
+        "A1",
+        "Q3",
+        "R8",
+        "S1",
+        "TT",
+        "TTS"
+      ]
+    },
+    {
+      "code": "LX5N",
+      "name": "Aviator Blue",
+      "make": "Audi",
+      "year_from": 2012,
+      "year_to": 2016,
+      "chipUrl": "https://www.paintref.com/chipimages/FSFEWF.png",
+      "chipHash": "3b4e44f654fdb6f5",
+      "ditzler": "932100",
+      "models": [
+        "A6"
+      ]
+    },
+    {
+      "code": "LX5P",
+      "name": "Estoril Blue",
+      "make": "Audi",
+      "year_from": 2012,
+      "year_to": 2015,
+      "chipUrl": "https://www.paintref.com/chipimages/XXX4D4.png",
+      "chipHash": "f30e4ce25164f8a8",
+      "ditzler": "932101",
+      "models": [
+        "A6",
+        "R8",
+        "RS5",
+        "RS6",
+        "RS7",
+        "S3",
+        "S4",
+        "S5",
+        "S6",
+        "S7",
+        "SQ5"
+      ]
+    },
+    {
+      "code": "LX5R",
+      "name": "Moonlight Blue",
+      "make": "Audi",
+      "year_from": 2012,
+      "year_to": 2021,
+      "chipUrl": "https://www.paintref.com/chipimages/535TD4.png",
+      "chipHash": "412a0a0a7628ce0c",
+      "ditzler": "932103",
+      "models": [
+        "A3",
+        "A4",
+        "A5",
+        "A6",
+        "A7",
+        "A8",
+        "AQ",
+        "Q5",
+        "Q7",
+        "R8",
+        "RS5",
+        "RS7",
+        "S4",
+        "S5",
+        "S6",
+        "S7",
+        "S8",
+        "SQ5",
+        "TT",
+        "TTS"
+      ]
+    },
+    {
+      "code": "LX7R",
+      "name": "Monsoon Gray",
+      "make": "Audi",
+      "year_from": 2012,
+      "year_to": 2021,
+      "chipUrl": "https://www.paintref.com/chipimages/F5FDFA.png",
+      "chipHash": "e1030b2386cb4ac1",
+      "ditzler": "930562",
+      "models": [
+        "A3",
+        "A4",
+        "A5",
+        "A8",
+        "A8L",
+        "AQ",
+        "Q3",
+        "Q5",
+        "RS3",
+        "S3",
+        "S4",
+        "S5",
+        "S8",
+        "SQ5",
+        "TT"
+      ]
+    },
+    {
+      "code": "LX7U",
+      "name": "Oolong Gray",
+      "make": "Audi",
+      "year_from": 2012,
+      "year_to": 2018,
+      "chipUrl": "https://www.paintref.com/chipimages/54DGDW.png",
+      "chipHash": "74254268eb15da2b",
+      "ditzler": "930137",
+      "models": [
+        "A6",
+        "A7",
+        "A8",
+        "A8L",
+        "S6",
+        "S7",
+        "S8",
+        "TT",
+        "TTS"
+      ]
+    },
+    {
+      "code": "LY5Q",
+      "name": "Sepangblau",
+      "make": "Audi",
+      "year_from": 2012,
+      "year_to": 2015,
+      "chipUrl": "https://www.paintref.com/chipimages/XDDH2C.png",
+      "chipHash": "e40c4cfe547c167c",
+      "ditzler": "925991",
+      "models": [
+        "R8",
+        "RS5",
+        "S1",
+        "S3",
+        "S4",
+        "S5",
+        "S6",
+        "S7",
+        "SQ5",
+        "TT"
+      ]
+    },
+    {
+      "code": "LX1Y",
+      "name": "Cuvee Silver",
+      "make": "Audi",
+      "year_from": 2013,
+      "year_to": 2021,
+      "chipUrl": "https://www.paintref.com/chipimages/EEEEEE.png",
+      "chipHash": "cccf7a4eb17be8f8",
+      "ditzler": "930561",
+      "models": [
+        "A4",
+        "A5",
+        "A7",
+        "A8",
+        "A8L",
+        "AQ",
+        "Q3",
+        "Q5",
+        "S8"
+      ]
+    },
+    {
+      "code": "LX7S",
+      "name": "Arctic Silver",
+      "make": "Audi",
+      "year_from": 2013,
+      "year_to": 2014,
+      "chipUrl": "https://www.paintref.com/chipimages/TTTTHH.png",
+      "chipHash": "192136c3be4c21c1",
+      "ditzler": "930105",
+      "models": [
+        "Q5"
+      ]
+    },
+    {
+      "code": "LX7T",
+      "name": "Prism Silver",
+      "make": "Audi",
+      "year_from": 2013,
+      "year_to": 2014,
+      "chipUrl": "https://www.paintref.com/chipimages/HHHHHH.png",
+      "chipHash": "a6c7df3b26b61816",
+      "ditzler": "934993",
+      "models": [
+        "RS4",
+        "RS5",
+        "RS7"
+      ]
+    },
+    {
+      "code": "LX7W",
+      "name": "Cool Silver",
+      "make": "Audi",
+      "year_from": 2013,
+      "year_to": 2013,
+      "chipUrl": "https://www.paintref.com/chipimages/EDE2EE.png",
+      "chipHash": "5e55a82aaf4fef44",
+      "ditzler": "919755",
+      "models": [
+        "A3",
+        "A4",
+        "A5",
+        "A6",
+        "A7",
+        "A8",
+        "Q5",
+        "Q7",
+        "R8",
+        "RS5",
+        "RS7",
+        "S4",
+        "S5",
+        "S6",
+        "S7",
+        "S8",
+        "TT",
+        "TTS"
+      ]
+    },
+    {
+      "code": "LY1P",
+      "name": "Dakota Gray",
+      "make": "Audi",
+      "year_from": 2013,
+      "year_to": 2018,
+      "chipUrl": "https://www.paintref.com/chipimages/FTFHWX.png",
+      "chipHash": "f4cf67a8b5b4c696",
+      "ditzler": "932104",
+      "models": [
+        "A3",
+        "A4",
+        "A5",
+        "A6",
+        "A7",
+        "AQ",
+        "Q7",
+        "TT"
+      ]
+    },
+    {
+      "code": "LZ9Z",
+      "name": "Panther Black",
+      "make": "Audi",
+      "year_from": 2013,
+      "year_to": 2021,
+      "chipUrl": "https://www.paintref.com/chipimages/GGGGGG.png",
+      "chipHash": "1f437854e2d31a87",
+      "ditzler": "925156",
+      "models": [
+        "R8",
+        "RS3",
+        "RS4",
+        "RS5",
+        "RS6",
+        "RS7",
+        "S3",
+        "SQ5",
+        "TT",
+        "TTRS",
+        "TTS"
+      ]
+    },
+    {
+      "code": "L041",
+      "name": "Tiefschwarz",
+      "make": "Audi",
+      "year_from": 2014,
+      "year_to": 2014,
+      "chipUrl": "https://www.paintref.com/chipimages/GGGGGG.png",
+      "chipHash": "1f437854e2d31a87",
+      "ditzler": "95087"
+    },
+    {
+      "code": "LC9A",
+      "name": "Carraraweiss",
+      "make": "Audi",
+      "year_from": 2014,
+      "year_to": 2014,
+      "chipUrl": "https://www.paintref.com/chipimages/4H4H4A.png",
+      "chipHash": "497a6fcd673806bd",
+      "ditzler": "929844"
+    },
+    {
+      "code": "LC9X",
+      "name": "Orcaschwarz",
+      "make": "Audi",
+      "year_from": 2014,
+      "year_to": 2014,
+      "chipUrl": "https://www.paintref.com/chipimages/GGGGGG.png",
+      "chipHash": "1f437854e2d31a87",
+      "ditzler": "910602"
+    },
+    {
+      "code": "LH5X",
+      "name": "Atlantisblau",
+      "make": "Audi",
+      "year_from": 2014,
+      "year_to": 2014,
+      "chipUrl": "https://www.paintref.com/chipimages/G4XS5S.png",
+      "chipHash": "0f567df39946114b",
+      "ditzler": "930293"
+    },
+    {
+      "code": "LM7W",
+      "name": "Graphitgrau",
+      "make": "Audi",
+      "year_from": 2014,
+      "year_to": 2014,
+      "chipUrl": "https://www.paintref.com/chipimages/SFS5W4.png",
+      "chipHash": "48772f99980af7ea",
+      "ditzler": "926503"
+    },
+    {
+      "code": "LS9R",
+      "name": "Gletscherweiss",
+      "make": "Audi",
+      "year_from": 2014,
+      "year_to": 2014,
+      "chipUrl": "https://www.paintref.com/chipimages/4X4242.png",
+      "chipHash": "c13fae57bf573f06",
+      "ditzler": "932097"
+    },
+    {
+      "code": "LX1Z",
+      "name": "Bahiabeige",
+      "make": "Audi",
+      "year_from": 2014,
+      "year_to": 2014,
+      "chipUrl": "https://www.paintref.com/chipimages/EDCE3U.png",
+      "chipHash": "2b1c48f9cb379928",
+      "ditzler": "915777"
+    },
+    {
+      "code": "LX5L",
+      "name": "Utopia Blue",
+      "make": "Audi",
+      "year_from": 2014,
+      "year_to": 2021,
+      "chipUrl": "https://www.paintref.com/chipimages/WFWHSE.png",
+      "chipHash": "6d32ec02a65b4128",
+      "ditzler": "940822",
+      "models": [
+        "A1",
+        "A4",
+        "A5",
+        "Q3",
+        "Q5",
+        "S4",
+        "S5",
+        "SQ5"
+      ]
+    },
+    {
+      "code": "LX5M",
+      "name": "Sepang Blue",
+      "make": "Audi",
+      "year_from": 2014,
+      "year_to": 2016,
+      "chipUrl": "https://www.paintref.com/chipimages/D3FWS4.png",
+      "chipHash": "d7bacf2cb804cf40",
+      "ditzler": "938100",
+      "models": [
+        "A4",
+        "A5",
+        "R8"
+      ]
+    },
+    {
+      "code": "LX5N",
+      "name": "Aviatorblau",
+      "make": "Audi",
+      "year_from": 2014,
+      "year_to": 2014,
+      "chipUrl": "https://www.paintref.com/chipimages/FSFEWF.png",
+      "chipHash": "3b4e44f654fdb6f5",
+      "ditzler": "932100"
+    },
+    {
+      "code": "LX5P",
+      "name": "Estorilblau",
+      "make": "Audi",
+      "year_from": 2014,
+      "year_to": 2014,
+      "chipUrl": "https://www.paintref.com/chipimages/XXX4D4.png",
+      "chipHash": "f30e4ce25164f8a8",
+      "ditzler": "932101"
+    },
+    {
+      "code": "LX5Q",
+      "name": "Scubablau",
+      "make": "Audi",
+      "year_from": 2014,
+      "year_to": 2014,
+      "chipUrl": "https://www.paintref.com/chipimages/X454FC.png",
+      "chipHash": "bd5aadaa2924fa8e",
+      "ditzler": "930304"
+    },
+    {
+      "code": "LX7A",
+      "name": "Daytonagrau",
+      "make": "Audi",
+      "year_from": 2014,
+      "year_to": 2014,
+      "chipUrl": "https://www.paintref.com/chipimages/WCWWWU.png",
+      "chipHash": "e6863406bc35a32a",
+      "ditzler": "937873"
+    },
+    {
+      "code": "LX7R",
+      "name": "Monsungrau",
+      "make": "Audi",
+      "year_from": 2014,
+      "year_to": 2014,
+      "chipUrl": "https://www.paintref.com/chipimages/F5FDFA.png",
+      "chipHash": "e1030b2386cb4ac1",
+      "ditzler": "930562"
+    },
+    {
+      "code": "LX7T",
+      "name": "Primasilber",
+      "make": "Audi",
+      "year_from": 2014,
+      "year_to": 2014,
+      "chipUrl": "https://www.paintref.com/chipimages/HHHHHH.png",
+      "chipHash": "a6c7df3b26b61816",
+      "ditzler": "934993"
+    },
+    {
+      "code": "LX7U",
+      "name": "Oolongrau",
+      "make": "Audi",
+      "year_from": 2014,
+      "year_to": 2014,
+      "chipUrl": "https://www.paintref.com/chipimages/54DGDW.png",
+      "chipHash": "74254268eb15da2b",
+      "ditzler": "930137"
+    },
+    {
+      "code": "LX7W",
+      "name": "Eissilber",
+      "make": "Audi",
+      "year_from": 2014,
+      "year_to": 2014,
+      "chipUrl": "https://www.paintref.com/chipimages/EDE2EE.png",
+      "chipHash": "5e55a82aaf4fef44",
+      "ditzler": "919755"
+    },
+    {
+      "code": "LX7X",
+      "name": "Saharasilber",
+      "make": "Audi",
+      "year_from": 2014,
+      "year_to": 2014,
+      "chipUrl": "https://www.paintref.com/chipimages/HXT4T3.png",
+      "chipHash": "b6b9699cbfe7eb91",
+      "ditzler": "918146"
+    },
+    {
+      "code": "LY1P",
+      "name": "Dakotagrau",
+      "make": "Audi",
+      "year_from": 2014,
+      "year_to": 2014,
+      "chipUrl": "https://www.paintref.com/chipimages/FTFHWX.png",
+      "chipHash": "f4cf67a8b5b4c696",
+      "ditzler": "932104"
+    },
+    {
+      "code": "LY3J",
+      "name": "Brilliantrot",
+      "make": "Audi",
+      "year_from": 2014,
+      "year_to": 2014,
+      "chipUrl": "https://www.paintref.com/chipimages/HGGGGT.png",
+      "chipHash": "57772c51357cd0b7",
+      "ditzler": "902023"
+    },
+    {
+      "code": "LY3M",
+      "name": "Vulkanrot",
+      "make": "Audi",
+      "year_from": 2014,
+      "year_to": 2014,
+      "chipUrl": "https://www.paintref.com/chipimages/S3GHXD.png",
+      "chipHash": "9b3a863ff54fd9e5",
+      "ditzler": "930302"
+    },
+    {
+      "code": "LY4S",
+      "name": "Shirazrot",
+      "make": "Audi",
+      "year_from": 2014,
+      "year_to": 2014,
+      "chipUrl": "https://www.paintref.com/chipimages/SXG5XU.png",
+      "chipHash": "6536106822ec8c58",
+      "ditzler": "937834"
+    },
+    {
+      "code": "LY7C",
+      "name": "Nardograu",
+      "make": "Audi",
+      "year_from": 2014,
+      "year_to": 2014,
+      "chipUrl": "https://www.paintref.com/chipimages/SWSSSH.png",
+      "chipHash": "d221a20b4defadce",
+      "ditzler": "938040"
+    },
+    {
+      "code": "LY7F",
+      "name": "Suzukagrau",
+      "make": "Audi",
+      "year_from": 2014,
+      "year_to": 2014,
+      "chipUrl": "https://www.paintref.com/chipimages/TFHGHX.png",
+      "chipHash": "5d6c8e27f614bd69",
+      "ditzler": "926525"
+    },
+    {
+      "code": "LY7G",
+      "name": "Quarzgrau",
+      "make": "Audi",
+      "year_from": 2014,
+      "year_to": 2014,
+      "chipUrl": "https://www.paintref.com/chipimages/CUEUE5.png",
+      "chipHash": "0adfde1f4469ea93",
+      "ditzler": "908113"
+    },
+    {
+      "code": "LY8S",
+      "name": "Argussbraun",
+      "make": "Audi",
+      "year_from": 2014,
+      "year_to": 2014,
+      "chipUrl": "https://www.paintref.com/chipimages/WTFTF4.png",
+      "chipHash": "314cd3eb75507a16",
+      "ditzler": "940819"
+    },
+    {
+      "code": "LY8T",
+      "name": "Mayabraun",
+      "make": "Audi",
+      "year_from": 2014,
+      "year_to": 2014,
+      "chipUrl": "https://www.paintref.com/chipimages/WEFTDU.png",
+      "chipHash": "44daf663d0505c87",
+      "ditzler": "937832"
+    },
+    {
+      "code": "LY8U",
+      "name": "Beluga Brown",
+      "make": "Audi",
+      "year_from": 2014,
+      "year_to": 2021,
+      "chipUrl": "https://www.paintref.com/chipimages/FUDX5D.png",
+      "chipHash": "992f07b28972ba17",
+      "ditzler": "940820",
+      "models": [
+        "A3",
+        "S3"
+      ]
+    },
+    {
+      "code": "LY8X",
+      "name": "Havannaschwarz",
+      "make": "Audi",
+      "year_from": 2014,
+      "year_to": 2014,
+      "chipUrl": "https://www.paintref.com/chipimages/535DXT.png",
+      "chipHash": "e1c894a5797eed9d",
+      "ditzler": "930303"
+    },
+    {
+      "code": "LY8Z",
+      "name": "Java Brown",
+      "make": "Audi",
+      "year_from": 2014,
+      "year_to": 2021,
+      "chipUrl": "https://www.paintref.com/chipimages/WXF5D5.png",
+      "chipHash": "958a25f3ed150e1c",
+      "ditzler": "941250",
+      "models": [
+        "A6",
+        "A7"
+      ]
+    },
+    {
+      "code": "LY9B",
+      "name": "Brilliantschwarz",
+      "make": "Audi",
+      "year_from": 2014,
+      "year_to": 2021,
+      "chipUrl": "https://www.paintref.com/chipimages/GGGGGG.png",
+      "chipHash": "1f437854e2d31a87",
+      "ditzler": "9767"
+    },
+    {
+      "code": "LY9C",
+      "name": "Ibisweiss",
+      "make": "Audi",
+      "year_from": 2014,
+      "year_to": 2014,
+      "chipUrl": "https://www.paintref.com/chipimages/AAU5UD.png",
+      "chipHash": "19bfa5262b21a147",
+      "ditzler": "915774"
+    },
+    {
+      "code": "LZ1Y",
+      "name": "Impalabeige",
+      "make": "Audi",
+      "year_from": 2014,
+      "year_to": 2014,
+      "chipUrl": "https://www.paintref.com/chipimages/CA323G.png",
+      "chipHash": "794cf5095d244f71",
+      "ditzler": "919757"
+    },
+    {
+      "code": "LZ3F",
+      "name": "Granatrot",
+      "make": "Audi",
+      "year_from": 2014,
+      "year_to": 2014,
+      "chipUrl": "https://www.paintref.com/chipimages/WHGGGC.png",
+      "chipHash": "ee3f42f325de2dfb",
+      "ditzler": "910802"
+    },
+    {
+      "code": "LZ6E",
+      "name": "Tiefgrun",
+      "make": "Audi",
+      "year_from": 2014,
+      "year_to": 2014,
+      "chipUrl": "https://www.paintref.com/chipimages/GUDG5F.png",
+      "chipHash": "1efe9508ae05d2fe",
+      "ditzler": "902028"
+    },
+    {
+      "code": "LZ7G",
+      "name": "Florettsilber",
+      "make": "Audi",
+      "year_from": 2014,
+      "year_to": 2014,
+      "chipUrl": "https://www.paintref.com/chipimages/T2T2HX.png",
+      "chipHash": "bdfdd2ddd42995d5",
+      "ditzler": "940816"
+    },
+    {
+      "code": "LZ7L",
+      "name": "Lavagrau",
+      "make": "Audi",
+      "year_from": 2014,
+      "year_to": 2014,
+      "chipUrl": "https://www.paintref.com/chipimages/5U5U5U.png",
+      "chipHash": "2cf476744b4abc76",
+      "ditzler": "910803"
+    },
+    {
+      "code": "LZ7S",
+      "name": "Daytonagrau",
+      "make": "Audi",
+      "year_from": 2014,
+      "year_to": 2014,
+      "chipUrl": "https://www.paintref.com/chipimages/24222W.png",
+      "chipHash": "8b5b9b705219d7c2",
+      "ditzler": "904302"
+    },
+    {
+      "code": "LZ8W",
+      "name": "Teakbraun",
+      "make": "Audi",
+      "year_from": 2014,
+      "year_to": 2014,
+      "chipUrl": "https://www.paintref.com/chipimages/WFFCD3.png",
+      "chipHash": "2f0f31342652a973",
+      "ditzler": "925990"
+    },
+    {
+      "code": "LZ9Y",
+      "name": "Phantomschwarz",
+      "make": "Audi",
+      "year_from": 2014,
+      "year_to": 2014,
+      "chipUrl": "https://www.paintref.com/chipimages/GGGGGG.png",
+      "chipHash": "1f437854e2d31a87",
+      "ditzler": "915572"
+    },
+    {
+      "code": "LZ9Z",
+      "name": "Panterschwarz",
+      "make": "Audi",
+      "year_from": 2014,
+      "year_to": 2014,
+      "chipUrl": "https://www.paintref.com/chipimages/GGGGGG.png",
+      "chipHash": "1f437854e2d31a87",
+      "ditzler": "925156"
+    },
+    {
+      "code": "LS1U",
+      "name": "Platinbeige",
+      "make": "Audi",
+      "year_from": 2014,
+      "year_to": 2014,
+      "chipUrl": "https://www.paintref.com/chipimages/EFCU34.png",
+      "chipHash": "175b85ce6cd9c1bc",
+      "ditzler": ""
+    },
+    {
+      "code": "LS8S",
+      "name": "Karibubraun",
+      "make": "Audi",
+      "year_from": 2014,
+      "year_to": 2014,
+      "ditzler": ""
+    },
+    {
+      "code": "LY9K",
+      "name": "Amalfi White",
+      "make": "Audi",
+      "year_from": 2014,
+      "year_to": 2021,
+      "chipUrl": "https://www.paintref.com/chipimages/UWUEUT.png",
+      "chipHash": "6c2f36ac26caa648",
+      "ditzler": "941135",
+      "models": [
+        "A1",
+        "A3",
+        "Q3",
+        "S1",
+        "S3"
+      ]
+    },
+    {
+      "code": "LY9T",
+      "name": "Mythosschwarz",
+      "make": "Audi",
+      "year_from": 2014,
+      "year_to": 2014,
+      "chipUrl": "https://www.paintref.com/chipimages/GGGGGG.png",
+      "chipHash": "1f437854e2d31a87",
+      "ditzler": "940817"
+    },
+    {
+      "code": "LZ5Q",
+      "name": "Kobaltblau",
+      "make": "Audi",
+      "year_from": 2014,
+      "year_to": 2016,
+      "chipUrl": "https://www.paintref.com/chipimages/5DXU5U.png",
+      "chipHash": "034e8f4f696c461c",
+      "ditzler": "195023",
+      "models": [
+        "Q3"
+      ]
+    },
+    {
+      "code": "LY4S",
+      "name": "Shira Red",
+      "make": "Audi",
+      "model": "A1",
+      "year_from": 2014,
+      "year_to": 2015,
+      "chipUrl": "https://www.paintref.com/chipimages/SXG5XU.png",
+      "chipHash": "6536106822ec8c58",
+      "ditzler": "937834",
+      "models": [
+        "A1",
+        "A3",
+        "A5",
+        "S1"
+      ]
+    },
+    {
+      "code": "LZ7G",
+      "name": "Florett Silver",
+      "make": "Audi",
+      "model": "A1",
+      "year_from": 2014,
+      "year_to": 2026,
+      "chipUrl": "https://www.paintref.com/chipimages/T2T2HX.png",
+      "chipHash": "bdfdd2ddd42995d5",
+      "ditzler": "940816",
+      "models": [
+        "A1",
+        "A3",
+        "A4",
+        "A5",
+        "A6",
+        "A7",
+        "A8",
+        "A8L",
+        "E-Tron",
+        "Q1",
+        "Q3",
+        "Q5",
+        "Q7",
+        "Q8",
+        "R8",
+        "RS",
+        "RS3",
+        "RS5",
+        "RS6",
+        "RS7",
+        "RSGT",
+        "RSQ8",
+        "S",
+        "S1",
+        "S3",
+        "S4",
+        "S5",
+        "S6",
+        "S7",
+        "S8",
+        "SGT",
+        "SQ5",
+        "SQ7",
+        "SQ8",
+        "TT",
+        "TTRS",
+        "TTS"
+      ]
+    },
+    {
+      "code": "LY9T",
+      "name": "Mythos Black",
+      "make": "Audi",
+      "model": "A1",
+      "year_from": 2014,
+      "year_to": 2026,
+      "chipUrl": "https://www.paintref.com/chipimages/GGGGGG.png",
+      "chipHash": "1f437854e2d31a87",
+      "ditzler": "940817",
+      "models": [
+        "A1",
+        "A3",
+        "A4",
+        "A5",
+        "A6",
+        "A7",
+        "A8",
+        "A8L",
+        "E-Tron",
+        "Q1",
+        "Q3",
+        "Q4",
+        "Q5",
+        "Q6",
+        "Q7",
+        "Q8",
+        "R8",
+        "RS",
+        "RS3",
+        "RS5",
+        "RS6",
+        "RS7",
+        "RSGT",
+        "RSQ8",
+        "S",
+        "S1",
+        "S3",
+        "S4",
+        "S5",
+        "S6",
+        "S7",
+        "S8",
+        "SGT",
+        "SQ5",
+        "SQ6",
+        "SQ7",
+        "SQ8",
+        "TT",
+        "TTRS",
+        "TTS"
+      ]
+    },
+    {
+      "code": "LY8Z",
+      "name": "Javabraun",
+      "make": "Audi",
+      "model": "A6",
+      "year_from": 2014,
+      "year_to": 2014,
+      "chipUrl": "https://www.paintref.com/chipimages/WXF5D5.png",
+      "chipHash": "958a25f3ed150e1c",
+      "ditzler": "941250",
+      "models": [
+        "A6"
+      ]
+    },
+    {
+      "code": "LY8S",
+      "name": "Argus Brown",
+      "make": "Audi",
+      "model": "A8",
+      "year_from": 2014,
+      "year_to": 2021,
+      "chipUrl": "https://www.paintref.com/chipimages/WTFTF4.png",
+      "chipHash": "314cd3eb75507a16",
+      "ditzler": "940819",
+      "models": [
+        "A4",
+        "A5",
+        "A8",
+        "Q3",
+        "Q5",
+        "Q7",
+        "S8"
+      ]
+    },
+    {
+      "code": "LS1U",
+      "name": "Platinum Beige",
+      "make": "Audi",
+      "model": "Q3",
+      "year_from": 2014,
+      "year_to": 2016,
+      "chipUrl": "https://www.paintref.com/chipimages/EFCU34.png",
+      "chipHash": "175b85ce6cd9c1bc",
+      "ditzler": "",
+      "models": [
+        "Q3"
+      ]
+    },
+    {
+      "code": "LS8S",
+      "name": "Caribou",
+      "make": "Audi",
+      "model": "Q3",
+      "year_from": 2014,
+      "year_to": 2016,
+      "ditzler": "",
+      "models": [
+        "Q3"
+      ]
+    },
+    {
+      "code": "LY8T",
+      "name": "Maya Brown",
+      "make": "Audi",
+      "model": "Q5",
+      "year_from": 2014,
+      "year_to": 2016,
+      "chipUrl": "https://www.paintref.com/chipimages/WEFTDU.png",
+      "chipHash": "44daf663d0505c87",
+      "ditzler": "937832",
+      "models": [
+        "Q5"
+      ]
+    },
+    {
+      "code": "LC9A",
+      "name": "Pure White",
+      "make": "Audi",
+      "model": "Q7",
+      "year_from": 2014,
+      "year_to": 2015,
+      "chipUrl": "https://www.paintref.com/chipimages/4H4H4A.png",
+      "chipHash": "497a6fcd673806bd",
+      "ditzler": "929844",
+      "models": [
+        "Q7"
+      ]
+    },
+    {
+      "code": "LH5X",
+      "name": "Night Blue",
+      "make": "Audi",
+      "model": "Q7",
+      "year_from": 2014,
+      "year_to": 2015,
+      "chipUrl": "https://www.paintref.com/chipimages/G4XS5S.png",
+      "chipHash": "0f567df39946114b",
+      "ditzler": "930293",
+      "models": [
+        "Q7"
+      ]
+    },
+    {
+      "code": "LY7C",
+      "name": "Nardo Gray",
+      "make": "Audi",
+      "model": "RS5",
+      "year_from": 2014,
+      "year_to": 2026,
+      "chipUrl": "https://www.paintref.com/chipimages/SWSSSH.png",
+      "chipHash": "d221a20b4defadce",
+      "ditzler": "938040",
+      "models": [
+        "A6",
+        "A7",
+        "RS3",
+        "RS5",
+        "RS6",
+        "RS7",
+        "RSQ8",
+        "TTRS"
+      ]
+    },
+    {
+      "code": "LX7A",
+      "name": "Daytona Gray",
+      "make": "Audi",
+      "model": "RS6",
+      "year_from": 2014,
+      "year_to": 2015,
+      "chipUrl": "https://www.paintref.com/chipimages/WCWWWU.png",
+      "chipHash": "e6863406bc35a32a",
+      "ditzler": "937873",
+      "models": [
+        "RS6",
+        "RS7"
+      ]
+    },
+    {
+      "code": "LB5W",
+      "name": "Pacific Blue",
+      "make": "Audi",
+      "year_from": 2015,
+      "year_to": 2015,
+      "chipUrl": "https://www.paintref.com/chipimages/X452D2.png",
+      "chipHash": "a3a2a40191f1f5e4",
+      "ditzler": "194950",
+      "models": [
+        "A3"
+      ]
+    },
+    {
+      "code": "LB9A",
+      "name": "Candy White",
+      "make": "Audi",
+      "year_from": 2015,
+      "year_to": 2015,
+      "chipUrl": "https://www.paintref.com/chipimages/U3U3U3.png",
+      "chipHash": "93603d16a33c7f9a",
+      "ditzler": "940527",
+      "models": [
+        "A1",
+        "Q3"
+      ]
+    },
+    {
+      "code": "LW8Z",
+      "name": "Tundra Brown",
+      "make": "Audi",
+      "year_from": 2015,
+      "year_to": 2017,
+      "chipUrl": "https://www.paintref.com/chipimages/SDFAFD.png",
+      "chipHash": "4d35a5f2453ac4a3",
+      "ditzler": "",
+      "models": [
+        "A3",
+        "Q3"
+      ]
+    },
+    {
+      "code": "LX7P",
+      "name": "Tornado Gray",
+      "make": "Audi",
+      "year_from": 2015,
+      "year_to": 2021,
+      "chipUrl": "https://www.paintref.com/chipimages/CSC3E2.png",
+      "chipHash": "4fba8a8917065254",
+      "ditzler": "940818",
+      "models": [
+        "A4",
+        "A5",
+        "A6",
+        "A7",
+        "A8",
+        "S4",
+        "S5"
+      ]
+    },
+    {
+      "code": "LX7Q",
+      "name": "Lotus Gray",
+      "make": "Audi",
+      "year_from": 2015,
+      "year_to": 2016,
+      "chipUrl": "https://www.paintref.com/chipimages/E4ETTG.png",
+      "chipHash": "fcd979dc4a3a9e07",
+      "ditzler": "940821",
+      "models": [
+        "A3"
+      ]
+    },
+    {
+      "code": "LY8C",
+      "name": "Argus Brown",
+      "make": "Audi",
+      "year_from": 2015,
+      "year_to": 2016,
+      "chipUrl": "https://www.paintref.com/chipimages/FGDXD5.png",
+      "chipHash": "9cf40ac17eed2e95",
+      "ditzler": "",
+      "models": [
+        "A8",
+        "S8"
+      ]
+    },
+    {
+      "code": "LZ5Q",
+      "name": "Cobalt Blue",
+      "make": "Audi",
+      "year_from": 2015,
+      "year_to": 2015,
+      "chipUrl": "https://www.paintref.com/chipimages/5DXU5U.png",
+      "chipHash": "034e8f4f696c461c",
+      "ditzler": "195023",
+      "models": [
+        "Q3"
+      ]
+    },
+    {
+      "code": "LZ7X",
+      "name": "Nimbus Gray",
+      "make": "Audi",
+      "year_from": 2015,
+      "year_to": 2021,
+      "chipUrl": "https://www.paintref.com/chipimages/D3DTDG.png",
+      "chipHash": "b2cae85a27654a21",
+      "ditzler": "37638",
+      "models": [
+        "TT",
+        "TTS"
+      ]
+    },
+    {
+      "code": "LZ1A",
+      "name": "Vegas Yellow",
+      "make": "Audi",
+      "year_from": 2015,
+      "year_to": 2023,
+      "chipUrl": "https://www.paintref.com/chipimages/4WASXU.png",
+      "chipHash": "f5822af6d79c5e41",
+      "ditzler": "944396",
+      "models": [
+        "A1",
+        "Q1",
+        "R8",
+        "S1",
+        "S3",
+        "TT",
+        "TTRS",
+        "TTS"
+      ]
+    },
+    {
+      "code": "LY9X",
+      "name": "Mamba Black",
+      "make": "Audi",
+      "year_from": 2016,
+      "year_to": 2016,
+      "chipUrl": "https://www.paintref.com/chipimages/GHGUX5.png",
+      "chipHash": "ccb74b60192909c4",
+      "ditzler": ""
+    },
+    {
+      "code": "LB9A",
+      "name": "Cortina White",
+      "make": "Audi",
+      "year_from": 2016,
+      "year_to": 2018,
+      "chipUrl": "https://www.paintref.com/chipimages/U3U3U3.png",
+      "chipHash": "93603d16a33c7f9a",
+      "ditzler": "940527",
+      "models": [
+        "A1",
+        "Q3"
+      ]
+    },
+    {
+      "code": "LB9A",
+      "name": "Shell White",
+      "make": "Audi",
+      "year_from": 2016,
+      "year_to": 2016,
+      "chipUrl": "https://www.paintref.com/chipimages/U3U3U3.png",
+      "chipHash": "93603d16a33c7f9a",
+      "ditzler": "940527",
+      "models": [
+        "A1"
+      ]
+    },
+    {
+      "code": "LC5M",
+      "name": "Ink Blue",
+      "make": "Audi",
+      "year_from": 2016,
+      "year_to": 2018,
+      "chipUrl": "https://www.paintref.com/chipimages/5554FA.png",
+      "chipHash": "c6fb4bd655b9c2e6",
+      "ditzler": "940594",
+      "models": [
+        "Q7"
+      ]
+    },
+    {
+      "code": "LC9A",
+      "name": "Carrara White",
+      "make": "Audi",
+      "year_from": 2016,
+      "year_to": 2026,
+      "chipUrl": "https://www.paintref.com/chipimages/4H4H4A.png",
+      "chipHash": "497a6fcd673806bd",
+      "ditzler": "938093",
+      "models": [
+        "Q7",
+        "Q8",
+        "RS",
+        "RSQ8",
+        "SQ7",
+        "SQ8"
+      ]
+    },
+    {
+      "code": "LC9X",
+      "name": "Orca Black",
+      "make": "Audi",
+      "year_from": 2016,
+      "year_to": 2021,
+      "chipUrl": "https://www.paintref.com/chipimages/GGGGGG.png",
+      "chipHash": "1f437854e2d31a87",
+      "ditzler": "910602",
+      "models": [
+        "Q7",
+        "Q8",
+        "RS",
+        "SQ7",
+        "SQ8"
+      ]
+    },
+    {
+      "code": "LH5X",
+      "name": "Atlantis Blue",
+      "make": "Audi",
+      "year_from": 2016,
+      "year_to": 2016,
+      "chipUrl": "https://www.paintref.com/chipimages/G4XS5S.png",
+      "chipHash": "0f567df39946114b",
+      "ditzler": "930293"
+    },
+    {
+      "code": "LX5J",
+      "name": "Arablau Kristall",
+      "make": "Audi",
+      "year_from": 2016,
+      "year_to": 2016,
+      "chipUrl": "https://www.paintref.com/chipimages/55WD3T.png",
+      "chipHash": "53c8009642599f26",
+      "ditzler": "944381"
+    },
+    {
+      "code": "LX5K",
+      "name": "Hainan Blue",
+      "make": "Audi",
+      "year_from": 2016,
+      "year_to": 2018,
+      "chipUrl": "https://www.paintref.com/chipimages/WH32EF.png",
+      "chipHash": "e4073155685b4cbc",
+      "ditzler": "940859",
+      "models": [
+        "Q3"
+      ]
+    },
+    {
+      "code": "LX6S",
+      "name": "Azorean Green",
+      "make": "Audi",
+      "year_from": 2016,
+      "year_to": 2019,
+      "chipUrl": "https://www.paintref.com/chipimages/X35WXE.png",
+      "chipHash": "2e26261b4514e6ba",
+      "ditzler": "942893",
+      "models": [
+        "Q5",
+        "SQ5"
+      ]
+    },
+    {
+      "code": "LX6T",
+      "name": "Camouflage Green",
+      "make": "Audi",
+      "year_from": 2016,
+      "year_to": 2021,
+      "chipUrl": "https://www.paintref.com/chipimages/FFFEFA.png",
+      "chipHash": "606aa4b43ab00c28",
+      "ditzler": "941321",
+      "models": [
+        "Q3",
+        "R8"
+      ]
+    },
+    {
+      "code": "LX6U",
+      "name": "Camouflage Green Matte",
+      "make": "Audi",
+      "year_from": 2016,
+      "year_to": 2018,
+      "chipUrl": "https://www.paintref.com/chipimages/FFFEFA.png",
+      "chipHash": "606aa4b43ab00c28",
+      "ditzler": "941325",
+      "models": [
+        "R8"
+      ]
+    },
+    {
+      "code": "LX7A",
+      "name": "Daytona Gray Matt",
+      "make": "Audi",
+      "year_from": 2016,
+      "year_to": 2018,
+      "chipUrl": "https://www.paintref.com/chipimages/WCWWWU.png",
+      "chipHash": "e6863406bc35a32a",
+      "ditzler": "937873",
+      "models": [
+        "Q7",
+        "RS7"
+      ]
+    },
+    {
+      "code": "LX7K",
+      "name": "Florett Silver",
+      "make": "Audi",
+      "year_from": 2016,
+      "year_to": 2017,
+      "chipUrl": "https://www.paintref.com/chipimages/TXT3H2.png",
+      "chipHash": "ea783fb4bafeb2d1",
+      "ditzler": "942432",
+      "models": [
+        "R8"
+      ]
+    },
+    {
+      "code": "LX7M",
+      "name": "Nano Gray",
+      "make": "Audi",
+      "year_from": 2016,
+      "year_to": 2026,
+      "chipUrl": "https://www.paintref.com/chipimages/FWF3FT.png",
+      "chipHash": "32b5e9326f35dd35",
+      "ditzler": "941185",
+      "models": [
+        "A1",
+        "A3",
+        "A6",
+        "Q1",
+        "Q3",
+        "RS3",
+        "RS6",
+        "S3",
+        "TT",
+        "TTS"
+      ]
+    },
+    {
+      "code": "LX7T",
+      "name": "Prism Silver Crystal",
+      "make": "Audi",
+      "year_from": 2016,
+      "year_to": 2018,
+      "chipUrl": "https://www.paintref.com/chipimages/HHHHHH.png",
+      "chipHash": "a6c7df3b26b61816",
+      "ditzler": "934993",
+      "models": [
+        "A7",
+        "RS7"
+      ]
+    },
+    {
+      "code": "LY1C",
+      "name": "Imolagelb",
+      "make": "Audi",
+      "year_from": 2016,
+      "year_to": 2016,
+      "chipUrl": "https://www.paintref.com/chipimages/UUHEWG.png",
+      "chipHash": "a11bd0488bcb0664",
+      "ditzler": "84479"
+    },
+    {
+      "code": "LY2G",
+      "name": "Glut Orange",
+      "make": "Audi",
+      "year_from": 2016,
+      "year_to": 2017,
+      "chipUrl": "https://www.paintref.com/chipimages/4ASFG3.png",
+      "chipHash": "ee00b151d7158753",
+      "ditzler": "923401"
+    },
+    {
+      "code": "LY3N",
+      "name": "Dynamite Red",
+      "make": "Audi",
+      "year_from": 2016,
+      "year_to": 2018,
+      "chipUrl": "https://www.paintref.com/chipimages/U2GXGG.png",
+      "chipHash": "d25c872868f1b936",
+      "ditzler": "942603",
+      "models": [
+        "R8"
+      ]
+    },
+    {
+      "code": "LY3S",
+      "name": "Matador Red",
+      "make": "Audi",
+      "year_from": 2016,
+      "year_to": 2024,
+      "chipUrl": "https://www.paintref.com/chipimages/3D5C5C.png",
+      "chipHash": "279658b236bedc18",
+      "ditzler": "941322",
+      "models": [
+        "A4",
+        "A5",
+        "A6",
+        "A7",
+        "Q5",
+        "Q7",
+        "Q8",
+        "RS",
+        "RSQ8",
+        "S5",
+        "SQ5",
+        "SQ7",
+        "SQ8"
+      ]
+    },
+    {
+      "code": "LY3U",
+      "name": "Tango Red",
+      "make": "Audi",
+      "year_from": 2016,
+      "year_to": 2024,
+      "chipUrl": "https://www.paintref.com/chipimages/T25X5D.png",
+      "chipHash": "d21c49fb32067680",
+      "ditzler": "944499",
+      "models": [
+        "A3",
+        "A4",
+        "A5",
+        "A6",
+        "A7",
+        "A8",
+        "E-Tron",
+        "Q1",
+        "Q3",
+        "Q5",
+        "Q7",
+        "R8",
+        "RS",
+        "RS3",
+        "RS5",
+        "RS6",
+        "RS7",
+        "S3",
+        "S4",
+        "S5",
+        "S6",
+        "S7",
+        "S8",
+        "SQ5",
+        "TT",
+        "TTRS",
+        "TTS"
+      ]
+    },
+    {
+      "code": "LY4S",
+      "name": "Shiraz Red",
+      "make": "Audi",
+      "year_from": 2016,
+      "year_to": 2021,
+      "chipUrl": "https://www.paintref.com/chipimages/SXG5XU.png",
+      "chipHash": "6536106822ec8c58",
+      "ditzler": "937834",
+      "models": [
+        "A1",
+        "A5"
+      ]
+    },
+    {
+      "code": "LY6W",
+      "name": "Java Green",
+      "make": "Audi",
+      "year_from": 2016,
+      "year_to": 2021,
+      "chipUrl": "https://www.paintref.com/chipimages/FUCFDC.png",
+      "chipHash": "5915982b8f9f5f8c",
+      "ditzler": "402535"
+    },
+    {
+      "code": "LY8Q",
+      "name": "Argusbraun Matt",
+      "make": "Audi",
+      "year_from": 2016,
+      "year_to": 2016,
+      "chipUrl": "https://www.paintref.com/chipimages/WWFTFA.png",
+      "chipHash": "6885899254310ad3",
+      "ditzler": "941323"
+    },
+    {
+      "code": "LY8R",
+      "name": "Soho Brown",
+      "make": "Audi",
+      "year_from": 2016,
+      "year_to": 2023,
+      "chipUrl": "https://www.paintref.com/chipimages/W3FAFH.png",
+      "chipHash": "bc0ed43cd0e15c0a",
+      "ditzler": "940588",
+      "models": [
+        "A1",
+        "A6",
+        "A7"
+      ]
+    },
+    {
+      "code": "LY8Y",
+      "name": "Ipanema Brown",
+      "make": "Audi",
+      "year_from": 2016,
+      "year_to": 2021,
+      "chipUrl": "https://www.paintref.com/chipimages/3WFEX4.png",
+      "chipHash": "ab2509dadcdccca0",
+      "ditzler": ""
+    },
+    {
+      "code": "LZ1U",
+      "name": "Karat Beige",
+      "make": "Audi",
+      "year_from": 2016,
+      "year_to": 2017,
+      "chipUrl": "https://www.paintref.com/chipimages/C53E2U.png",
+      "chipHash": "f3396aab06f3568a",
+      "ditzler": "941251",
+      "models": [
+        "A6",
+        "A7",
+        "Q7"
+      ]
+    },
+    {
+      "code": "LZ4V",
+      "name": "Amethyst",
+      "make": "Audi",
+      "year_from": 2016,
+      "year_to": 2016,
+      "chipUrl": "https://www.paintref.com/chipimages/DD5EFA.png",
+      "chipHash": "5391c76f8ac15922",
+      "ditzler": "35817"
+    },
+    {
+      "code": "LZ7S",
+      "name": "Daytona Gray Pearl",
+      "make": "Audi",
+      "year_from": 2016,
+      "year_to": 2016,
+      "chipUrl": "https://www.paintref.com/chipimages/24222W.png",
+      "chipHash": "8b5b9b705219d7c2",
+      "ditzler": "904302",
+      "models": [
+        "A1",
+        "A4",
+        "A5"
+      ]
+    },
+    {
+      "code": "L0K1",
+      "name": "Oryx White",
+      "make": "Audi",
+      "year_from": 2017,
+      "year_to": 2017,
+      "chipUrl": "https://www.paintref.com/chipimages/UEUAUS.png",
+      "chipHash": "657e9b53ac2d4abe",
+      "ditzler": "932089",
+      "models": [
+        "Q7"
+      ]
+    },
+    {
+      "code": "LX5E",
+      "name": "Cosmos Blue",
+      "make": "Audi",
+      "year_from": 2017,
+      "year_to": 2021,
+      "chipUrl": "https://www.paintref.com/chipimages/5SDXFG.png",
+      "chipHash": "e478f5ff02c5d3c1",
+      "ditzler": "943883",
+      "models": [
+        "A3",
+        "Q3",
+        "Q5",
+        "RS3",
+        "S3",
+        "SQ5",
+        "TT"
+      ]
+    },
+    {
+      "code": "LX5F",
+      "name": "Ascari Blue",
+      "make": "Audi",
+      "year_from": 2017,
+      "year_to": 2026,
+      "chipUrl": "https://www.paintref.com/chipimages/5AFDS5.png",
+      "chipHash": "7cecd85eca831ff6",
+      "ditzler": "942894",
+      "models": [
+        "A3",
+        "A5",
+        "A6",
+        "A7",
+        "E-Tron",
+        "Q7",
+        "Q8",
+        "R8",
+        "RS",
+        "RS3",
+        "RS5",
+        "RS6",
+        "RS7",
+        "RSGT",
+        "RSQ8",
+        "S",
+        "S3",
+        "S5",
+        "S6",
+        "S7",
+        "SGT",
+        "SQ6",
+        "SQ7",
+        "SQ8"
+      ]
+    },
+    {
+      "code": "LX5H",
+      "name": "Navarra Blue",
+      "make": "Audi",
+      "year_from": 2017,
+      "year_to": 2026,
+      "chipUrl": "https://www.paintref.com/chipimages/5C5TFW.png",
+      "chipHash": "5c68291b03355d84",
+      "ditzler": "944365",
+      "models": [
+        "A3",
+        "A4",
+        "A5",
+        "A6",
+        "A7",
+        "A8",
+        "E-Tron",
+        "Q3",
+        "Q4",
+        "Q5",
+        "Q7",
+        "Q8",
+        "RS",
+        "RS5",
+        "RS6",
+        "RS7",
+        "RSQ8",
+        "S3",
+        "S4",
+        "S5",
+        "S6",
+        "S7",
+        "S8",
+        "SQ5",
+        "SQ7",
+        "SQ8",
+        "TT",
+        "TTS"
+      ]
+    },
+    {
+      "code": "LX5J",
+      "name": "Ara Blue",
+      "make": "Audi",
+      "year_from": 2017,
+      "year_to": 2017,
+      "chipUrl": "https://www.paintref.com/chipimages/55WD3T.png",
+      "chipHash": "53c8009642599f26",
+      "ditzler": "944381",
+      "models": [
+        "Q1",
+        "R8",
+        "S3",
+        "TT"
+      ]
+    },
+    {
+      "code": "LX6W",
+      "name": "Gotland Green",
+      "make": "Audi",
+      "year_from": 2017,
+      "year_to": 2019,
+      "chipUrl": "https://www.paintref.com/chipimages/FXF4FE.png",
+      "chipHash": "7f698f41ba1dc0a1",
+      "ditzler": "940589",
+      "models": [
+        "A4",
+        "A5",
+        "A6"
+      ]
+    },
+    {
+      "code": "LX7L",
+      "name": "Manhattan Gray",
+      "make": "Audi",
+      "year_from": 2017,
+      "year_to": 2026,
+      "chipUrl": "https://www.paintref.com/chipimages/FFDUF2.png",
+      "chipHash": "e60ac8ce0092fe2f",
+      "ditzler": "940874",
+      "models": [
+        "A3",
+        "A4",
+        "A5",
+        "A6",
+        "A7",
+        "E-Tron",
+        "Q5",
+        "Q6",
+        "Q8",
+        "S4",
+        "S5",
+        "SQ5"
+      ]
+    },
+    {
+      "code": "LY2Z",
+      "name": "Korallenorange",
+      "make": "Audi",
+      "year_from": 2017,
+      "year_to": 2017,
+      "chipUrl": "https://www.paintref.com/chipimages/TXDD5G.png",
+      "chipHash": "2a4d9ddb2f7eb0c3",
+      "ditzler": "943298",
+      "models": [
+        "Q1"
+      ]
+    },
+    {
+      "code": "LZ1W",
+      "name": "Siam Beige",
+      "make": "Audi",
+      "year_from": 2017,
+      "year_to": 2022,
+      "chipUrl": "https://www.paintref.com/chipimages/HSHXTA.png",
+      "chipHash": "3b9203e4de5ba661",
+      "ditzler": "943297",
+      "models": [
+        "A1",
+        "E-Tron"
+      ]
+    },
+    {
+      "code": "L1P9",
+      "name": "Black Mat",
+      "make": "Audi",
+      "year_from": 2017,
+      "year_to": 2017,
+      "chipUrl": "https://www.paintref.com/chipimages/FCFWFT.png",
+      "chipHash": "4e2dbb021029278a",
+      "ditzler": "",
+      "models": [
+        "A3",
+        "A4"
+      ]
+    },
+    {
+      "code": "L1QP",
+      "name": "Stein Grey",
+      "make": "Audi",
+      "year_from": 2017,
+      "year_to": 2017,
+      "chipUrl": "https://www.paintref.com/chipimages/SGWCSG.png",
+      "chipHash": "a5d7a0cc88ee681e",
+      "ditzler": "",
+      "models": [
+        "A5",
+        "A6",
+        "A8"
+      ]
+    },
+    {
+      "code": "L1RR",
+      "name": "Platinum Gray",
+      "make": "Audi",
+      "year_from": 2017,
+      "year_to": 2017,
+      "chipUrl": "https://www.paintref.com/chipimages/2H2E35.png",
+      "chipHash": "49801071bba190e7",
+      "ditzler": "",
+      "models": [
+        "A5",
+        "A6",
+        "A8",
+        "Q7",
+        "S3",
+        "S4"
+      ]
+    },
+    {
+      "code": "L3FZ",
+      "name": "Black Mat",
+      "make": "Audi",
+      "year_from": 2017,
+      "year_to": 2017,
+      "chipUrl": "https://www.paintref.com/chipimages/WSW5W3.png",
+      "chipHash": "2b174006828e44da",
+      "ditzler": "",
+      "models": [
+        "A3",
+        "A4",
+        "A5",
+        "A6",
+        "A8",
+        "R8",
+        "TT"
+      ]
+    },
+    {
+      "code": "L7DL",
+      "name": "Gray Mat",
+      "make": "Audi",
+      "year_from": 2017,
+      "year_to": 2017,
+      "chipUrl": "https://www.paintref.com/chipimages/F3FWFT.png",
+      "chipHash": "c801f058b2fb9c31",
+      "ditzler": "",
+      "models": [
+        "A3",
+        "A6"
+      ]
+    },
+    {
+      "code": "LV7W",
+      "name": "Soul Mat",
+      "make": "Audi",
+      "year_from": 2017,
+      "year_to": 2017,
+      "chipUrl": "https://www.paintref.com/chipimages/WEW2WA.png",
+      "chipHash": "d6179aa455c7b827",
+      "ditzler": "301585",
+      "models": [
+        "Q7"
+      ]
+    },
+    {
+      "code": "LVC2",
+      "name": "Titanium",
+      "make": "Audi",
+      "year_from": 2017,
+      "year_to": 2017,
+      "chipUrl": "https://www.paintref.com/chipimages/2F2523.png",
+      "chipHash": "9995abe5e9109221",
+      "ditzler": "",
+      "models": [
+        "R8"
+      ]
+    },
+    {
+      "code": "0L",
+      "name": "Temperament Red",
+      "make": "Audi",
+      "year_from": 2018,
+      "year_to": 2018,
+      "chipUrl": "https://www.paintref.com/chipimages/44GGDX.png",
+      "chipHash": "c7e940ca82451d8a",
+      "ditzler": "",
+      "models": [
+        "Q7"
+      ]
+    },
+    {
+      "code": "0R",
+      "name": "Tofana White Crystal",
+      "make": "Audi",
+      "year_from": 2018,
+      "year_to": 2018,
+      "chipUrl": "https://www.paintref.com/chipimages/U4U4U4.png",
+      "chipHash": "800b72b867bfb3a2",
+      "ditzler": "",
+      "models": [
+        "Q5",
+        "SQ5"
+      ]
+    },
+    {
+      "code": "4T",
+      "name": "Cobra Beige",
+      "make": "Audi",
+      "year_from": 2018,
+      "year_to": 2018,
+      "chipUrl": "https://www.paintref.com/chipimages/HWTCEU.png",
+      "chipHash": "1bfd4a12063a06fb",
+      "ditzler": "",
+      "models": [
+        "Q7"
+      ]
+    },
+    {
+      "code": "L041",
+      "name": "Night Black",
+      "make": "Audi",
+      "year_from": 2018,
+      "year_to": 2021,
+      "chipUrl": "https://www.paintref.com/chipimages/GGGGGG.png",
+      "chipHash": "1f437854e2d31a87",
+      "ditzler": "95087",
+      "models": [
+        "Q7",
+        "Q8",
+        "RS",
+        "SQ7",
+        "SQ8"
+      ]
+    },
+    {
+      "code": "LC1Y",
+      "name": "Kobrabeige",
+      "make": "Audi",
+      "year_from": 2018,
+      "year_to": 2018,
+      "chipUrl": "https://www.paintref.com/chipimages/CEC534.png",
+      "chipHash": "148956a64f5c34b9",
+      "ditzler": "951504",
+      "models": [
+        "Q7"
+      ]
+    },
+    {
+      "code": "LM7Q",
+      "name": "Samurai Gray",
+      "make": "Audi",
+      "year_from": 2018,
+      "year_to": 2026,
+      "chipUrl": "https://www.paintref.com/chipimages/W2WSWH.png",
+      "chipHash": "3202697b64269fb5",
+      "ditzler": "950285",
+      "models": [
+        "Q7",
+        "Q8"
+      ]
+    },
+    {
+      "code": "LV5Z",
+      "name": "Galaxy Blue",
+      "make": "Audi",
+      "year_from": 2018,
+      "year_to": 2023,
+      "chipUrl": "https://www.paintref.com/chipimages/GGSX34.png",
+      "chipHash": "7c011cccf500a7c4",
+      "ditzler": "947947",
+      "models": [
+        "E-Tron",
+        "Q7",
+        "Q8",
+        "RS",
+        "RSQ8",
+        "SQ7",
+        "SQ8"
+      ]
+    },
+    {
+      "code": "LX5J",
+      "name": "Ara Blue Crystal",
+      "make": "Audi",
+      "year_from": 2018,
+      "year_to": 2023,
+      "chipUrl": "https://www.paintref.com/chipimages/55WD3T.png",
+      "chipHash": "53c8009642599f26",
+      "ditzler": "944381",
+      "models": [
+        "A3",
+        "R8",
+        "RS3",
+        "S3",
+        "TTRS",
+        "TTS"
+      ]
+    },
+    {
+      "code": "LX6R",
+      "name": "Sonoma Green",
+      "make": "Audi",
+      "year_from": 2018,
+      "year_to": 2022,
+      "chipUrl": "https://www.paintref.com/chipimages/5XF455.png",
+      "chipHash": "4bd0d529d13945c7",
+      "ditzler": "946066",
+      "models": [
+        "RS5"
+      ]
+    },
+    {
+      "code": "LX7B",
+      "name": "Quantum Gray",
+      "make": "Audi",
+      "year_from": 2018,
+      "year_to": 2022,
+      "chipUrl": "https://www.paintref.com/chipimages/WWWHWH.png",
+      "chipHash": "ab8c898d2a688113",
+      "ditzler": "944999",
+      "models": [
+        "A3",
+        "A4",
+        "A5",
+        "Q5",
+        "S3",
+        "S4",
+        "S5",
+        "SQ5"
+      ]
+    },
+    {
+      "code": "LX7K",
+      "name": "Florett Silver Matte",
+      "make": "Audi",
+      "year_from": 2018,
+      "year_to": 2018,
+      "chipUrl": "https://www.paintref.com/chipimages/TXT3H2.png",
+      "chipHash": "ea783fb4bafeb2d1",
+      "ditzler": "942432",
+      "models": [
+        "S8"
+      ]
+    },
+    {
+      "code": "LY3T",
+      "name": "Catalunya Red",
+      "make": "Audi",
+      "year_from": 2018,
+      "year_to": 2022,
+      "chipUrl": "https://www.paintref.com/chipimages/44XXGG.png",
+      "chipHash": "a82e32caac9142d2",
+      "ditzler": "944768",
+      "models": [
+        "E-Tron",
+        "RS3",
+        "TTRS"
+      ]
+    },
+    {
+      "code": "LY8Q",
+      "name": "Argus Brown Matte",
+      "make": "Audi",
+      "year_from": 2018,
+      "year_to": 2018,
+      "chipUrl": "https://www.paintref.com/chipimages/WWFTFA.png",
+      "chipHash": "6885899254310ad3",
+      "ditzler": "941323",
+      "models": [
+        "R8"
+      ]
+    },
+    {
+      "code": "LZ1U",
+      "name": "Diamond Beige",
+      "make": "Audi",
+      "year_from": 2018,
+      "year_to": 2019,
+      "chipUrl": "https://www.paintref.com/chipimages/T2TXEA.png",
+      "chipHash": "a3fd5e2c188ec870",
+      "ditzler": "941251",
+      "models": [
+        "A6",
+        "A7"
+      ]
+    },
+    {
+      "code": "LC1Y",
+      "name": "Corba Beige",
+      "make": "Audi",
+      "year_from": 2019,
+      "year_to": 2019,
+      "chipUrl": "https://www.paintref.com/chipimages/CEC534.png",
+      "chipHash": "148956a64f5c34b9",
+      "ditzler": "951504",
+      "models": [
+        "Q7"
+      ]
+    },
+    {
+      "code": "LV5C",
+      "name": "Turbo Blue",
+      "make": "Audi",
+      "year_from": 2019,
+      "year_to": 2024,
+      "chipUrl": "https://www.paintref.com/chipimages/X2WS3H.png",
+      "chipHash": "8bcc98ef052f1c19",
+      "ditzler": "949350",
+      "models": [
+        "A4",
+        "A5",
+        "Q3",
+        "Q5",
+        "RS3",
+        "RS5",
+        "S3",
+        "S4",
+        "S5",
+        "TTRS",
+        "TTS"
+      ]
+    },
+    {
+      "code": "LV5S",
+      "name": "Antiguablau",
+      "make": "Audi",
+      "year_from": 2019,
+      "year_to": 2019,
+      "chipUrl": "https://www.paintref.com/chipimages/5WSG2U.png",
+      "chipHash": "bb2aa4d482aa0111",
+      "ditzler": "953903",
+      "models": [
+        "E-Tron"
+      ]
+    },
+    {
+      "code": "LV5X",
+      "name": "Triton Blue",
+      "make": "Audi",
+      "year_from": 2019,
+      "year_to": 2021,
+      "chipUrl": "https://www.paintref.com/chipimages/FXFXWU.png",
+      "chipHash": "5f39cc644de3b863",
+      "ditzler": "947783",
+      "models": [
+        "A7"
+      ]
+    },
+    {
+      "code": "LX5B",
+      "name": "Firmament Blue",
+      "make": "Audi",
+      "year_from": 2019,
+      "year_to": 2026,
+      "chipUrl": "https://www.paintref.com/chipimages/XC5UFT.png",
+      "chipHash": "2aa978570778f117",
+      "ditzler": "947061",
+      "models": [
+        "A5",
+        "A6",
+        "A7",
+        "A8",
+        "S6",
+        "S7",
+        "S8"
+      ]
+    },
+    {
+      "code": "LX6P",
+      "name": "Avalon Green",
+      "make": "Audi",
+      "year_from": 2019,
+      "year_to": 2021,
+      "chipUrl": "https://www.paintref.com/chipimages/DUW5WU.png",
+      "chipHash": "7e1c07e8e52bd08d",
+      "ditzler": "947064",
+      "models": [
+        "A6",
+        "A7",
+        "S6",
+        "S7"
+      ]
+    },
+    {
+      "code": "LX7G",
+      "name": "Chronos Gray",
+      "make": "Audi",
+      "year_from": 2019,
+      "year_to": 2026,
+      "chipUrl": "https://www.paintref.com/chipimages/WGWGW3.png",
+      "chipHash": "cfe4a783e5d97127",
+      "ditzler": "949349",
+      "models": [
+        "A4",
+        "A5",
+        "A6",
+        "A7",
+        "E-Tron",
+        "Q3",
+        "Q5",
+        "Q8",
+        "S4",
+        "S5",
+        "S6",
+        "S7",
+        "SQ5",
+        "TT",
+        "TTS"
+      ]
+    },
+    {
+      "code": "LX7H",
+      "name": "Terra Gray",
+      "make": "Audi",
+      "year_from": 2019,
+      "year_to": 2022,
+      "chipUrl": "https://www.paintref.com/chipimages/WUWUSG.png",
+      "chipHash": "ad7a1f08372e39d5",
+      "ditzler": "947407",
+      "models": [
+        "A4",
+        "A8",
+        "S8"
+      ]
+    },
+    {
+      "code": "LX7J",
+      "name": "Vesuvius Gray",
+      "make": "Audi",
+      "year_from": 2019,
+      "year_to": 2023,
+      "chipUrl": "https://www.paintref.com/chipimages/5T5HD5.png",
+      "chipHash": "b481b4d4840d50e6",
+      "ditzler": "946031",
+      "models": [
+        "A6",
+        "A7",
+        "A8",
+        "S6",
+        "S7",
+        "S8"
+      ]
+    },
+    {
+      "code": "LY2H",
+      "name": "Pulse Orange",
+      "make": "Audi",
+      "year_from": 2019,
+      "year_to": 2025,
+      "chipUrl": "https://www.paintref.com/chipimages/AFSXFH.png",
+      "chipHash": "02512b735fdaf01f",
+      "ditzler": "949576",
+      "models": [
+        "Q3",
+        "TT",
+        "TTRS",
+        "TTS"
+      ]
+    },
+    {
+      "code": "LY2Y",
+      "name": "Dragon Orange",
+      "make": "Audi",
+      "year_from": 2019,
+      "year_to": 2024,
+      "chipUrl": "https://www.paintref.com/chipimages/H5225D.png",
+      "chipHash": "c426163524f990ee",
+      "ditzler": "948475",
+      "models": [
+        "Q8",
+        "RS",
+        "RSQ8",
+        "SQ8"
+      ]
+    },
+    {
+      "code": "LZ3C",
+      "name": "Seville Red",
+      "make": "Audi",
+      "year_from": 2019,
+      "year_to": 2021,
+      "chipUrl": "https://www.paintref.com/chipimages/WWXUXU.png",
+      "chipHash": "069a9e14a009ed67",
+      "ditzler": "946656",
+      "models": [
+        "A6",
+        "A7",
+        "A8",
+        "S8"
+      ]
+    },
+    {
+      "code": "LZ6A",
+      "name": "Kyalami Green",
+      "make": "Audi",
+      "year_from": 2019,
+      "year_to": 2026,
+      "chipUrl": "https://www.paintref.com/chipimages/3WH4SD.png",
+      "chipHash": "7f14bdda315136a4",
+      "ditzler": "944676",
+      "models": [
+        "A3",
+        "RS3",
+        "TT",
+        "TTRS",
+        "TTS"
+      ]
+    },
+    {
+      "code": "LZ7F",
+      "name": "Typhoon Gray",
+      "make": "Audi",
+      "year_from": 2019,
+      "year_to": 2023,
+      "chipUrl": "https://www.paintref.com/chipimages/2D2522.png",
+      "chipHash": "6700f6681bbf40ec",
+      "ditzler": "947946",
+      "models": [
+        "A6",
+        "A7",
+        "E-Tron"
+      ]
+    },
+    {
+      "code": "LZ7W",
+      "name": "Arrow Gray",
+      "make": "Audi",
+      "year_from": 2019,
+      "year_to": 2026,
+      "chipUrl": "https://www.paintref.com/chipimages/C5CHCU.png",
+      "chipHash": "afc3042210669ffc",
+      "ditzler": "300197",
+      "models": [
+        "A3",
+        "Q3",
+        "S6",
+        "S7",
+        "TT"
+      ]
+    },
+    {
+      "code": "LZ1U",
+      "name": "Carat Beige",
+      "make": "Audi",
+      "model": "A7",
+      "year_from": 2019,
+      "year_to": 2021,
+      "chipUrl": "https://www.paintref.com/chipimages/T2TXEA.png",
+      "chipHash": "a3fd5e2c188ec870",
+      "ditzler": "941251",
+      "models": [
+        "A6",
+        "A7"
+      ]
+    },
+    {
+      "code": "LL1X",
+      "name": "Vicuna Beige",
+      "make": "Audi",
+      "year_from": 2020,
+      "year_to": 2024,
+      "chipUrl": "https://www.paintref.com/chipimages/HTH2T4.png",
+      "chipHash": "8da2a782e75bfd80",
+      "ditzler": "977767",
+      "models": [
+        "Q7",
+        "Q8",
+        "SQ7",
+        "SQ8"
+      ]
+    },
+    {
+      "code": "LM8Y",
+      "name": "Barrel Brown",
+      "make": "Audi",
+      "year_from": 2020,
+      "year_to": 2022,
+      "chipUrl": "https://www.paintref.com/chipimages/FAXTGU.png",
+      "chipHash": "074dcfce83ddcc7d",
+      "ditzler": "977768",
+      "models": [
+        "Q7",
+        "SQ7"
+      ]
+    },
+    {
+      "code": "LV5S",
+      "name": "Antigua Blue",
+      "make": "Audi",
+      "year_from": 2020,
+      "year_to": 2021,
+      "chipUrl": "https://www.paintref.com/chipimages/5WSG2U.png",
+      "chipHash": "bb2aa4d482aa0111",
+      "ditzler": "953903",
+      "models": [
+        "E-Tron"
+      ]
+    },
+    {
+      "code": "LX6M",
+      "name": "District Green",
+      "make": "Audi",
+      "year_from": 2020,
+      "year_to": 2026,
+      "chipUrl": "https://www.paintref.com/chipimages/SESUWD.png",
+      "chipHash": "0547e7ff5d8fbbb7",
+      "ditzler": "976754",
+      "models": [
+        "A3",
+        "A4",
+        "A5",
+        "A8",
+        "Q5",
+        "S3",
+        "S4",
+        "S5",
+        "S8",
+        "SQ5"
+      ]
+    },
+    {
+      "code": "LX6N",
+      "name": "Gavial Green",
+      "make": "Audi",
+      "year_from": 2020,
+      "year_to": 2021,
+      "chipUrl": "https://www.paintref.com/chipimages/DSFEWF.png",
+      "chipHash": "5a9438cd6eb8a824",
+      "ditzler": "949575",
+      "models": [
+        "A6"
+      ]
+    },
+    {
+      "code": "LX6S",
+      "name": "Azores Green",
+      "make": "Audi",
+      "year_from": 2020,
+      "year_to": 2020,
+      "chipUrl": "https://www.paintref.com/chipimages/X35WXE.png",
+      "chipHash": "2e26261b4514e6ba",
+      "ditzler": "942893",
+      "models": [
+        "Q5",
+        "SQ5"
+      ]
+    },
+    {
+      "code": "LX7F",
+      "name": "Kemora Gray",
+      "make": "Audi",
+      "year_from": 2020,
+      "year_to": 2026,
+      "chipUrl": "https://www.paintref.com/chipimages/FWWFWA.png",
+      "chipHash": "8d5bac9a8e34e211",
+      "ditzler": "951391",
+      "models": [
+        "A3",
+        "E-Tron",
+        "R8",
+        "RS",
+        "RS3",
+        "RSGT",
+        "S",
+        "SGT"
+      ]
+    },
+    {
+      "code": "LZ1Y",
+      "name": "Savannah Beige",
+      "make": "Audi",
+      "year_from": 2020,
+      "year_to": 2021,
+      "chipUrl": "https://www.paintref.com/chipimages/T5CE3W.png",
+      "chipHash": "55bd159543d42006",
+      "ditzler": "919757",
+      "models": [
+        "A8",
+        "S8"
+      ]
+    },
+    {
+      "code": "LQ82",
+      "name": "Oak Green",
+      "make": "Audi",
+      "year_from": 2021,
+      "year_to": 2021,
+      "chipUrl": "https://www.paintref.com/chipimages/SES5FU.png",
+      "chipHash": "98fd7a986d47ba6f",
+      "ditzler": ""
+    },
+    {
+      "code": "LQ83",
+      "name": "Palace Blue",
+      "make": "Audi",
+      "year_from": 2021,
+      "year_to": 2021,
+      "chipUrl": "https://www.paintref.com/chipimages/X5DHW2.png",
+      "chipHash": "5625bdff19e5fda8",
+      "ditzler": ""
+    },
+    {
+      "code": "LQ87",
+      "name": "Merlin Purple",
+      "make": "Audi",
+      "year_from": 2021,
+      "year_to": 2021,
+      "chipUrl": "https://www.paintref.com/chipimages/XUGC5U.png",
+      "chipHash": "cb994d74dacaa7d9",
+      "ditzler": ""
+    },
+    {
+      "code": "LY9X",
+      "name": "Momba Black",
+      "make": "Audi",
+      "year_from": 2021,
+      "year_to": 2021,
+      "chipUrl": "https://www.paintref.com/chipimages/GHGUX5.png",
+      "chipHash": "ccb74b60192909c4",
+      "ditzler": ""
+    },
+    {
+      "code": "L2D8",
+      "name": "Green",
+      "make": "Audi",
+      "year_from": 2021,
+      "year_to": 2021,
+      "chipUrl": "https://www.paintref.com/chipimages/DU24DC.png",
+      "chipHash": "fcb44ace4e97ab1c",
+      "ditzler": ""
+    },
+    {
+      "code": "LG5C",
+      "name": "Ultra Blue",
+      "make": "Audi",
+      "year_from": 2021,
+      "year_to": 2026,
+      "chipUrl": "https://www.paintref.com/chipimages/XHDCHC.png",
+      "chipHash": "6bc0b7c230edca47",
+      "ditzler": "",
+      "models": [
+        "A6",
+        "A7",
+        "A8",
+        "E-Tron",
+        "Q5",
+        "RS6",
+        "RS7",
+        "S6",
+        "S7",
+        "S8",
+        "SQ5",
+        "SQ8"
+      ]
+    },
+    {
+      "code": "LY1R",
+      "name": "Sand Beige",
+      "make": "Audi",
+      "year_from": 2021,
+      "year_to": 2021,
+      "chipUrl": "https://www.paintref.com/chipimages/E2342F.png",
+      "chipHash": "a5bbe8b358a48b20",
+      "ditzler": ""
+    },
+    {
+      "code": "LY2Z",
+      "name": "Coral Orange",
+      "make": "Audi",
+      "year_from": 2021,
+      "year_to": 2021,
+      "chipUrl": "https://www.paintref.com/chipimages/TTD353.png",
+      "chipHash": "e5506dd6b41abe9d",
+      "ditzler": ""
+    },
+    {
+      "code": "LY9U",
+      "name": "Sebring Black Crystal",
+      "make": "Audi",
+      "year_from": 2021,
+      "year_to": 2026,
+      "chipUrl": "https://www.paintref.com/chipimages/XGXGXG.png",
+      "chipHash": "759f72c6ff1da519",
+      "ditzler": "",
+      "models": [
+        "A6",
+        "A7",
+        "A8",
+        "RS5",
+        "RS6",
+        "RS7",
+        "S8"
+      ]
+    },
+    {
+      "code": "LZ3W",
+      "name": "Merlin Purple",
+      "make": "Audi",
+      "year_from": 2021,
+      "year_to": 2021,
+      "chipUrl": "https://www.paintref.com/chipimages/DEXSDH.png",
+      "chipHash": "5706e152df0645bf",
+      "ditzler": "193262"
+    },
+    {
+      "code": "LZ5M",
+      "name": "Rasantblau",
+      "make": "Audi",
+      "year_from": 2021,
+      "year_to": 2021,
+      "chipUrl": "https://www.paintref.com/chipimages/GGXF2E.png",
+      "chipHash": "efa5c9a344ec186b",
+      "ditzler": "190291"
+    },
+    {
+      "code": "LZ5Y",
+      "name": "Plasma Blue",
+      "make": "Audi",
+      "year_from": 2021,
+      "year_to": 2025,
+      "chipUrl": "https://www.paintref.com/chipimages/DWFDWW.png",
+      "chipHash": "3447c7e0643a0f24",
+      "ditzler": "",
+      "models": [
+        "E-Tron",
+        "Q6",
+        "Q8",
+        "SQ6"
+      ]
+    },
+    {
+      "code": "LZ6E",
+      "name": "Deep Green",
+      "make": "Audi",
+      "year_from": 2021,
+      "year_to": 2021,
+      "chipUrl": "https://www.paintref.com/chipimages/GUDG5F.png",
+      "chipHash": "1efe9508ae05d2fe",
+      "ditzler": "902028"
+    },
+    {
+      "code": "LZ5Z",
+      "name": "Atoll Blue",
+      "make": "Audi",
+      "year_from": 2022,
+      "year_to": 2023,
+      "chipUrl": "https://www.paintref.com/chipimages/XCWE2S.png",
+      "chipHash": "53eaa0f8086600bc",
+      "ditzler": "",
+      "models": [
+        "A3"
+      ]
+    },
+    {
+      "code": "LA7C",
+      "name": "Pebble Gray",
+      "make": "Audi",
+      "year_from": 2022,
+      "year_to": 2026,
+      "chipUrl": "https://www.paintref.com/chipimages/2F2C2A.png",
+      "chipHash": "e1952f0dd1fee3ce",
+      "ditzler": "",
+      "models": [
+        "E-Tron",
+        "Q4"
+      ]
+    },
+    {
+      "code": "LX1W",
+      "name": "Python Yellow",
+      "make": "Audi",
+      "year_from": 2022,
+      "year_to": 2026,
+      "chipUrl": "https://www.paintref.com/chipimages/ATAGFE.png",
+      "chipHash": "df689c5170d4e772",
+      "ditzler": "",
+      "models": [
+        "A3",
+        "RS3",
+        "S3"
+      ]
+    },
+    {
+      "code": "LX6C",
+      "name": "Tactical Green",
+      "make": "Audi",
+      "year_from": 2022,
+      "year_to": 2024,
+      "chipUrl": "https://www.paintref.com/chipimages/2U25FH.png",
+      "chipHash": "e8915f544ef3b5e2",
+      "ditzler": "",
+      "models": [
+        "E-Tron",
+        "RS"
+      ]
+    },
+    {
+      "code": "LZ3W",
+      "name": "Merlin",
+      "make": "Audi",
+      "year_from": 2022,
+      "year_to": 2022,
+      "chipUrl": "https://www.paintref.com/chipimages/DEXSDH.png",
+      "chipHash": "5706e152df0645bf",
+      "ditzler": "193262"
+    },
+    {
+      "code": "D6",
+      "name": "Paradisiegruen",
+      "make": "Audi",
+      "year_from": 2023,
+      "year_to": 2023,
+      "chipUrl": "https://www.paintref.com/chipimages/DS2HFH.png",
+      "chipHash": "9607782ec5cfdbae",
+      "ditzler": "48935"
+    },
+    {
+      "code": "LD8S",
+      "name": "Tamarind Brown",
+      "make": "Audi",
+      "year_from": 2023,
+      "year_to": 2026,
+      "chipUrl": "https://www.paintref.com/chipimages/F4DUDD.png",
+      "chipHash": "15f48098c25085ec",
+      "ditzler": "",
+      "models": [
+        "Q7",
+        "SQ7"
+      ]
+    },
+    {
+      "code": "LJ5L",
+      "name": "Meloe Blue",
+      "make": "Audi",
+      "year_from": 2023,
+      "year_to": 2023,
+      "chipUrl": "https://www.paintref.com/chipimages/GTXT2G.png",
+      "chipHash": "aab069c0b7719731",
+      "ditzler": ""
+    },
+    {
+      "code": "LM7P",
+      "name": "Satellite Silver",
+      "make": "Audi",
+      "year_from": 2023,
+      "year_to": 2026,
+      "chipUrl": "https://www.paintref.com/chipimages/HTAFAS.png",
+      "chipHash": "da7a62e17cbd7a8d",
+      "ditzler": "",
+      "models": [
+        "Q7",
+        "Q8",
+        "RS",
+        "RSQ8",
+        "SQ7",
+        "SQ8"
+      ]
+    },
+    {
+      "code": "LX7E",
+      "name": "Dew Silver",
+      "make": "Audi",
+      "year_from": 2023,
+      "year_to": 2023,
+      "chipUrl": "https://www.paintref.com/chipimages/HWHWHW.png",
+      "chipHash": "a5bbc4fb703f41e2",
+      "ditzler": "",
+      "models": [
+        "SQ8"
+      ]
+    },
+    {
+      "code": "D6",
+      "name": "Paradise Green",
+      "make": "Audi",
+      "model": "Q7",
+      "year_from": 2023,
+      "year_to": 2023,
+      "chipUrl": "https://www.paintref.com/chipimages/DS2HFH.png",
+      "chipHash": "9607782ec5cfdbae",
+      "ditzler": "48935",
+      "models": [
+        "Q7",
+        "Q8",
+        "RSQ8",
+        "SQ8"
+      ]
+    },
+    {
+      "code": "LJ5L",
+      "name": "Waitomo Blue",
+      "make": "Audi",
+      "model": "Q7",
+      "year_from": 2023,
+      "year_to": 2026,
+      "chipUrl": "https://www.paintref.com/chipimages/GTXT2G.png",
+      "chipHash": "aab069c0b7719731",
+      "ditzler": "",
+      "models": [
+        "Q7",
+        "Q8",
+        "RS",
+        "RSQ8",
+        "SQ7",
+        "SQ8"
+      ]
+    },
+    {
+      "code": "LU3H",
+      "name": "Grenadier Red",
+      "make": "Audi",
+      "year_from": 2024,
+      "year_to": 2025,
+      "chipUrl": "https://www.paintref.com/chipimages/C25WXA.png",
+      "chipHash": "bffed74f0aba04f7",
+      "ditzler": "",
+      "models": [
+        "A6",
+        "A7",
+        "RS6",
+        "RS7",
+        "S6",
+        "S7"
+      ]
+    },
+    {
+      "code": "LX7C",
+      "name": "Magnet Gray",
+      "make": "Audi",
+      "year_from": 2024,
+      "year_to": 2025,
+      "chipUrl": "https://www.paintref.com/chipimages/D4D4F5.png",
+      "chipHash": "1106b5f7f9a09e5f",
+      "ditzler": "",
+      "models": [
+        "E-Tron",
+        "Q4",
+        "Q6",
+        "Q8",
+        "SQ6",
+        "SQ8"
+      ]
+    },
+    {
+      "code": "LY3P",
+      "name": "Soneira Red",
+      "make": "Audi",
+      "year_from": 2024,
+      "year_to": 2025,
+      "chipUrl": "https://www.paintref.com/chipimages/UCDUDD.png",
+      "chipHash": "fb2593c662c9dd7b",
+      "ditzler": "",
+      "models": [
+        "E-Tron",
+        "SQ8"
+      ]
+    },
+    {
+      "code": "LY3Q",
+      "name": "Progressive Red",
+      "make": "Audi",
+      "year_from": 2024,
+      "year_to": 2026,
+      "chipUrl": "https://www.paintref.com/chipimages/UDDADX.png",
+      "chipHash": "fd03ab87f02ad0dd",
+      "ditzler": "",
+      "models": [
+        "A3",
+        "A4",
+        "A5",
+        "E-Tron",
+        "Q3",
+        "RS",
+        "RS3",
+        "RS5",
+        "RSGT",
+        "S",
+        "S3",
+        "S4",
+        "S5",
+        "SGT"
+      ]
+    },
+    {
+      "code": "LY9L",
+      "name": "Arkona White",
+      "make": "Audi",
+      "year_from": 2024,
+      "year_to": 2026,
+      "chipUrl": "https://www.paintref.com/chipimages/4W4S4W.png",
+      "chipHash": "4e62c4848923ffad",
+      "ditzler": "",
+      "models": [
+        "A3",
+        "A4",
+        "A5",
+        "A6",
+        "A7",
+        "E-Tron",
+        "Q3",
+        "Q5",
+        "RS",
+        "RS3",
+        "RSGT",
+        "S",
+        "S3",
+        "S4",
+        "S5",
+        "SGT",
+        "SQ5"
+      ]
+    },
+    {
+      "code": "LZ8S",
+      "name": "Madeira Brown",
+      "make": "Audi",
+      "year_from": 2024,
+      "year_to": 2026,
+      "chipUrl": "https://www.paintref.com/chipimages/FADUD4.png",
+      "chipHash": "4c35170ed492a055",
+      "ditzler": "",
+      "models": [
+        "A6",
+        "A7",
+        "A8",
+        "E-Tron",
+        "Q8",
+        "S8"
+      ]
+    },
+    {
+      "code": "LS3M",
+      "name": "Chili Red",
+      "make": "Audi",
+      "year_from": 2025,
+      "year_to": 2026,
+      "chipUrl": "https://www.paintref.com/chipimages/HHD253.png",
+      "chipHash": "bc6284e3dcec9599",
+      "ditzler": "",
+      "models": [
+        "Q7",
+        "Q8",
+        "RS",
+        "RSQ8",
+        "SQ7",
+        "SQ8"
+      ]
+    },
+    {
+      "code": "LX1V",
+      "name": "Sahkir Gold",
+      "make": "Audi",
+      "year_from": 2025,
+      "year_to": 2026,
+      "chipUrl": "https://www.paintref.com/chipimages/TCEF2U.png",
+      "chipHash": "3cf7ff6f212e5432",
+      "ditzler": "",
+      "models": [
+        "Q7",
+        "Q8",
+        "RS",
+        "RSQ8",
+        "SQ7",
+        "SQ8"
+      ]
+    },
+    {
+      "code": "LX6E",
+      "name": "Bedford Green",
+      "make": "Audi",
+      "year_from": 2025,
+      "year_to": 2026,
+      "chipUrl": "https://www.paintref.com/chipimages/2D2TS3.png",
+      "chipHash": "f0688e0f240578b9",
+      "ditzler": "",
+      "models": [
+        "E-Tron",
+        "RS",
+        "RSGT"
+      ]
+    },
+    {
+      "code": "LY5G",
+      "name": "Nimbus Grey",
+      "make": "Audi",
+      "year_from": 2025,
+      "year_to": 2026,
+      "chipUrl": "https://www.paintref.com/chipimages/FSFCFA.png",
+      "chipHash": "130e8294170139dd",
+      "ditzler": "",
+      "models": [
+        "E-Tron",
+        "RS",
+        "RSGT"
+      ]
+    },
+    {
+      "code": "LQ5E",
+      "name": "Horizon Blue",
+      "make": "Audi",
+      "model": "A5",
+      "year_from": 2026,
+      "year_to": 2026,
+      "chipUrl": "https://www.paintref.com/chipimages/2H3ACT.png",
+      "chipHash": "f50fead39678f972",
+      "ditzler": "",
+      "models": [
+        "A5",
+        "A6",
+        "S5"
+      ]
+    },
+    {
+      "code": "LU3H",
+      "name": "Grenadine Red",
+      "make": "Audi",
+      "model": "A5",
+      "year_from": 2026,
+      "year_to": 2026,
+      "chipUrl": "https://www.paintref.com/chipimages/C25WXA.png",
+      "chipHash": "bffed74f0aba04f7",
+      "ditzler": "",
+      "models": [
+        "A5",
+        "A6",
+        "A7",
+        "Q5",
+        "RS6",
+        "RS7",
+        "S5",
+        "SQ5"
+      ]
+    },
+    {
+      "code": "LX6F",
+      "name": "Midnight Green",
+      "make": "Audi",
+      "model": "A6",
+      "year_from": 2026,
+      "year_to": 2026,
+      "chipUrl": "https://www.paintref.com/chipimages/GGDXX4.png",
+      "chipHash": "2024294e10aecfac",
+      "ditzler": "",
+      "models": [
+        "A6"
+      ]
+    },
+    {
+      "code": "LV5J",
+      "name": "Malpelo Blue",
+      "make": "Audi",
+      "model": "Q3",
+      "year_from": 2026,
+      "year_to": 2026,
+      "chipUrl": "https://www.paintref.com/chipimages/GDSC2U.png",
+      "chipHash": "8e28d18ed4882271",
+      "ditzler": "",
+      "models": [
+        "Q3"
+      ]
+    },
+    {
+      "code": "LX6D",
+      "name": "Sage Green",
+      "make": "Audi",
+      "model": "Q3",
+      "year_from": 2026,
+      "year_to": 2026,
+      "chipUrl": "https://www.paintref.com/chipimages/SH3F3X.png",
+      "chipHash": "d8e2b960f0cd30c3",
+      "ditzler": "",
+      "models": [
+        "Q3"
+      ]
+    },
+    {
+      "code": "LZ7C",
+      "name": "Tambora Gray",
+      "make": "Audi",
+      "model": "Q5",
+      "year_from": 2026,
+      "year_to": 2026,
+      "chipUrl": "https://www.paintref.com/chipimages/WCWUSC.png",
+      "chipHash": "ee8f51a67d4bdf7b",
+      "ditzler": "",
+      "models": [
+        "Q5",
+        "SQ5"
+      ]
+    }
+  ],
+  "filters": {
+    "yearFrom": 2000,
+    "yearTo": 2026
+  }
+}

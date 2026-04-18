@@ -1,0 +1,755 @@
+{
+  "$schema": "../../../schemas/exterior-paints-v1.schema.json",
+  "scopeId": "alfa-romeo-paintref-v1",
+  "version": "1.0.0",
+  "paints": [
+    {
+      "code": "601",
+      "marketingName": "Onyx Black",
+      "finish": "solid",
+      "lab": {
+        "L": 0,
+        "a": 0,
+        "b": 0,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #000000 (PaintRef hex, OEM=Alfa Romeo, code=601 (models=164; years=1991-1995)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Alfa Romeo:164:601"
+      }
+    },
+    {
+      "code": "776",
+      "marketingName": "Anthracite Gray",
+      "finish": "solid",
+      "lab": {
+        "L": 44.9,
+        "a": 6.09,
+        "b": -2.2,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #73676E (PaintRef hex, OEM=Alfa Romeo, code=776 (models=164; year=1991)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Alfa Romeo:164:776"
+      }
+    },
+    {
+      "code": "676",
+      "marketingName": "Argento Silver",
+      "finish": "solid",
+      "lab": {
+        "L": 76.36,
+        "a": -0.77,
+        "b": -3.12,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #B8BDC2 (PaintRef hex, OEM=Alfa Romeo, code=676 (models=164, Spider; years=1991-1994)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Alfa Romeo:164:676"
+      }
+    },
+    {
+      "code": "632",
+      "marketingName": "Nero Pergusa",
+      "finish": "solid",
+      "lab": {
+        "L": 24.49,
+        "a": 0.21,
+        "b": 0.77,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #3B3A39 (PaintRef hex, OEM=Alfa Romeo, code=632 (models=164, Spider; years=1993-2008)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Alfa Romeo:164:632"
+      }
+    },
+    {
+      "code": "643",
+      "marketingName": "Champagne",
+      "finish": "solid",
+      "lab": {
+        "L": 54.29,
+        "a": 1.12,
+        "b": 2.83,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #86817D (PaintRef hex, OEM=Alfa Romeo, code=643 (models=164; year=1994)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Alfa Romeo:164:643"
+      }
+    },
+    {
+      "code": "612A",
+      "marketingName": "Grigio Chiaro",
+      "finish": "solid",
+      "lab": {
+        "L": 68.26,
+        "a": -0.25,
+        "b": -6.51,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #A0A7B2 (PaintRef hex, OEM=Alfa Romeo, code=612A (models=164, Spider; years=1994-2008)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Alfa Romeo:164:612A"
+      }
+    },
+    {
+      "code": "613A",
+      "marketingName": "Grigio Titanio",
+      "finish": "solid",
+      "lab": {
+        "L": 52.64,
+        "a": 1.38,
+        "b": -2.58,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #7E7D82 (PaintRef hex, OEM=Alfa Romeo, code=613A (models=164; years=1994-2000)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Alfa Romeo:164:613A"
+      }
+    },
+    {
+      "code": "643",
+      "marketingName": "Grigio Dakar",
+      "finish": "solid",
+      "lab": {
+        "L": 54.29,
+        "a": 1.12,
+        "b": 2.83,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #86817D (PaintRef hex, OEM=Alfa Romeo, code=643 (models=164; year=1995)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Alfa Romeo:164:643"
+      }
+    },
+    {
+      "code": "364",
+      "marketingName": "Midnight Jade Green",
+      "finish": "solid",
+      "lab": {
+        "L": 32.83,
+        "a": -3.59,
+        "b": -1.22,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #464F4F (PaintRef hex, OEM=Alfa Romeo, code=364 (models=164; years=1991-1993)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Alfa Romeo:164:364"
+      }
+    },
+    {
+      "code": "326B",
+      "marketingName": "Petrolio Scuro",
+      "finish": "solid",
+      "lab": {
+        "L": 27.04,
+        "a": -6.47,
+        "b": -2.83,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #324344 (PaintRef hex, OEM=Alfa Romeo, code=326B (models=164; years=1996-1999)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Alfa Romeo:164:326B"
+      }
+    },
+    {
+      "code": "130",
+      "marketingName": "Alfa Red",
+      "finish": "solid",
+      "lab": {
+        "L": 42.11,
+        "a": 67.24,
+        "b": 54.98,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #CA0004 (PaintRef hex, OEM=Alfa Romeo, code=130 (models=164, Spider; years=1991-1995)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Alfa Romeo:164:130"
+      }
+    },
+    {
+      "code": "146",
+      "marketingName": "Bordeaux",
+      "finish": "solid",
+      "lab": {
+        "L": 22.5,
+        "a": 21.35,
+        "b": 9.24,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #562829 (PaintRef hex, OEM=Alfa Romeo, code=146 (models=164; years=1991-1992)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Alfa Romeo:164:146"
+      }
+    },
+    {
+      "code": "146",
+      "marketingName": "Bordeaux Chiaro",
+      "finish": "solid",
+      "lab": {
+        "L": 22.5,
+        "a": 21.35,
+        "b": 9.24,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #562829 (PaintRef hex, OEM=Alfa Romeo, code=146 (models=164; year=1993)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Alfa Romeo:164:146"
+      }
+    },
+    {
+      "code": "210",
+      "marketingName": "Bianco Freddo",
+      "finish": "solid",
+      "lab": {
+        "L": 83.13,
+        "a": -0.99,
+        "b": -5.39,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #C8D0D9 (PaintRef hex, OEM=Alfa Romeo, code=210 (models=164; years=1988-2000)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Alfa Romeo:164:210"
+      }
+    },
+    {
+      "code": "230",
+      "marketingName": "Arctic White",
+      "finish": "solid",
+      "lab": {
+        "L": 91.12,
+        "a": -3.98,
+        "b": -1.38,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #DCE8E8 (PaintRef hex, OEM=Alfa Romeo, code=230 (models=164, Spider; years=1991-1995)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Alfa Romeo:164:230"
+      }
+    },
+    {
+      "code": "249",
+      "marketingName": "Bianco Banchisa",
+      "finish": "solid",
+      "lab": {
+        "L": 98.62,
+        "a": 0.2,
+        "b": -1.55,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #FAFBFE (PaintRef hex, OEM=Alfa Romeo, code=249 (models=164; years=1994-2005)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Alfa Romeo:164:249"
+      }
+    },
+    {
+      "code": "601",
+      "marketingName": "Nero",
+      "finish": "solid",
+      "lab": {
+        "L": 0,
+        "a": 0,
+        "b": 0,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #000000 (PaintRef hex, OEM=Alfa Romeo, code=601 (models=4C; years=2014-2015)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Alfa Romeo:4c:601"
+      }
+    },
+    {
+      "code": "672B",
+      "marketingName": "Grigio Basalto",
+      "finish": "solid",
+      "lab": {
+        "L": 43.14,
+        "a": -0.61,
+        "b": 2.96,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #676661 (PaintRef hex, OEM=Alfa Romeo, code=672B (models=4C; years=2014-2015)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Alfa Romeo:4c:672B"
+      }
+    },
+    {
+      "code": "115B",
+      "marketingName": "Rosso Competizione",
+      "finish": "solid",
+      "lab": {
+        "L": 40.89,
+        "a": 58.92,
+        "b": 37.79,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #BB2126 (PaintRef hex, OEM=Alfa Romeo, code=115B (models=4C; years=2014-2015)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Alfa Romeo:4c:115B"
+      }
+    },
+    {
+      "code": "289A",
+      "marketingName": "Rosso Alfa",
+      "finish": "solid",
+      "lab": {
+        "L": 21.47,
+        "a": 36.96,
+        "b": 22.08,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #671215 (PaintRef hex, OEM=Alfa Romeo, code=289A (models=4C; year=2015)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Alfa Romeo:4c:289A"
+      }
+    },
+    {
+      "code": "214B",
+      "marketingName": "Bianco",
+      "finish": "solid",
+      "lab": {
+        "L": 68.85,
+        "a": 1.08,
+        "b": 5.03,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #AEA79F (PaintRef hex, OEM=Alfa Romeo, code=214B (models=4C; years=2014-2015)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Alfa Romeo:4c:214B"
+      }
+    },
+    {
+      "code": "825A",
+      "marketingName": "Bianco Carrara",
+      "finish": "solid",
+      "lab": {
+        "L": 90.57,
+        "a": 0.02,
+        "b": -1.09,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #E3E4E6 (PaintRef hex, OEM=Alfa Romeo, code=825A (models=4C; years=2014-2015)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Alfa Romeo:4c:825A"
+      }
+    },
+    {
+      "code": "216A",
+      "marketingName": "Bianco Madre",
+      "finish": "solid",
+      "lab": {
+        "L": 86.3,
+        "a": 3.12,
+        "b": 14.38,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #E9D5BD (PaintRef hex, OEM=Alfa Romeo, code=216A (models=4C; years=2014-2015)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Alfa Romeo:4c:216A"
+      }
+    },
+    {
+      "code": "817",
+      "marketingName": "Onyx Black",
+      "finish": "solid",
+      "lab": {
+        "L": 5.24,
+        "a": -0.76,
+        "b": -2.31,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #0E1215 (PaintRef hex, OEM=Alfa Romeo, code=817 (models=Spider; years=1991-1994)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Alfa Romeo:spider:817"
+      }
+    },
+    {
+      "code": "401B",
+      "marketingName": "Blue Victoria",
+      "finish": "solid",
+      "lab": {
+        "L": 37.81,
+        "a": 9.56,
+        "b": -35.24,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #405792 (PaintRef hex, OEM=Alfa Romeo, code=401B (models=Spider; years=1998-2001)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Alfa Romeo:spider:401B"
+      }
+    },
+    {
+      "code": "427B",
+      "marketingName": "Blue Lightning",
+      "finish": "solid",
+      "lab": {
+        "L": 25.29,
+        "a": 7.04,
+        "b": -20.55,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #343A5B (PaintRef hex, OEM=Alfa Romeo, code=427B (models=Spider; years=2001-2006)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Alfa Romeo:spider:427B"
+      }
+    },
+    {
+      "code": "719A",
+      "marketingName": "Blue Cobalto",
+      "finish": "solid",
+      "lab": {
+        "L": 13.72,
+        "a": 13,
+        "b": -28.37,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #181F4B (PaintRef hex, OEM=Alfa Romeo, code=719A (models=Spider; years=2003-2008)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Alfa Romeo:spider:719A"
+      }
+    },
+    {
+      "code": "254A",
+      "marketingName": "Blue Reims",
+      "finish": "solid",
+      "lab": {
+        "L": 37.09,
+        "a": 5.34,
+        "b": -29.69,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #3E5787 (PaintRef hex, OEM=Alfa Romeo, code=254A (models=Spider; years=2005-2006)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Alfa Romeo:spider:254A"
+      }
+    },
+    {
+      "code": "659A",
+      "marketingName": "Grigio Eclisse",
+      "finish": "solid",
+      "lab": {
+        "L": 50.14,
+        "a": 1.14,
+        "b": -5.18,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #757780 (PaintRef hex, OEM=Alfa Romeo, code=659A (models=Spider; years=1998-2001)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Alfa Romeo:spider:659A"
+      }
+    },
+    {
+      "code": "114A",
+      "marketingName": "Aurora Novola",
+      "finish": "solid",
+      "lab": {
+        "L": 75.8,
+        "a": -4.06,
+        "b": 1.44,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #B4BDB8 (PaintRef hex, OEM=Alfa Romeo, code=114A (models=Spider; years=2000-2001)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Alfa Romeo:spider:114A"
+      }
+    },
+    {
+      "code": "677",
+      "marketingName": "Grigio Meteora",
+      "finish": "solid",
+      "lab": {
+        "L": 51.48,
+        "a": -0.98,
+        "b": 2.73,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #7B7B76 (PaintRef hex, OEM=Alfa Romeo, code=677 (models=Spider; years=2001-2008)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Alfa Romeo:spider:677"
+      }
+    },
+    {
+      "code": "702B",
+      "marketingName": "Titanio",
+      "finish": "solid",
+      "lab": {
+        "L": 40.98,
+        "a": 0.62,
+        "b": 4.71,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #656059 (PaintRef hex, OEM=Alfa Romeo, code=702B (models=Spider; years=2009-2010)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Alfa Romeo:spider:702B"
+      }
+    },
+    {
+      "code": "306",
+      "marketingName": "Foglia Green",
+      "finish": "solid",
+      "lab": {
+        "L": 19.58,
+        "a": -7.72,
+        "b": -6.09,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #1B3338 (PaintRef hex, OEM=Alfa Romeo, code=306 (models=Spider; years=1991-1994)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Alfa Romeo:spider:306"
+      }
+    },
+    {
+      "code": "302A",
+      "marketingName": "Verde Acido",
+      "finish": "solid",
+      "lab": {
+        "L": 73.52,
+        "a": -10.49,
+        "b": 47.89,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #BEB85A (PaintRef hex, OEM=Alfa Romeo, code=302A (models=Spider; years=1994-1998)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Alfa Romeo:spider:302A"
+      }
+    },
+    {
+      "code": "309A",
+      "marketingName": "Verde Tropico",
+      "finish": "solid",
+      "lab": {
+        "L": 26.33,
+        "a": -8.12,
+        "b": -1.95,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #2E4241 (PaintRef hex, OEM=Alfa Romeo, code=309A (models=Spider; years=1995-2000)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Alfa Romeo:spider:309A"
+      }
+    },
+    {
+      "code": "341A",
+      "marketingName": "Verde Oasi",
+      "finish": "solid",
+      "lab": {
+        "L": 43.72,
+        "a": -10.12,
+        "b": 4.25,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #586C60 (PaintRef hex, OEM=Alfa Romeo, code=341A (models=Spider; years=1998-2001)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Alfa Romeo:spider:341A"
+      }
+    },
+    {
+      "code": "361A",
+      "marketingName": "Verde Energy",
+      "finish": "solid",
+      "lab": {
+        "L": 14.29,
+        "a": -4.23,
+        "b": -0.65,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #1D2625 (PaintRef hex, OEM=Alfa Romeo, code=361A (models=Spider; years=1999-2006)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Alfa Romeo:spider:361A"
+      }
+    },
+    {
+      "code": "709A",
+      "marketingName": "Verde Racing",
+      "finish": "solid",
+      "lab": {
+        "L": 13.3,
+        "a": -7.55,
+        "b": 2.87,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #18251E (PaintRef hex, OEM=Alfa Romeo, code=709A (models=Spider; years=2004-2008)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Alfa Romeo:spider:709A"
+      }
+    },
+    {
+      "code": "167A",
+      "marketingName": "Rosso Miro",
+      "finish": "solid",
+      "lab": {
+        "L": 38.45,
+        "a": 55.44,
+        "b": 34.49,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #AF2126 (PaintRef hex, OEM=Alfa Romeo, code=167A (models=Spider; years=2000-2008)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Alfa Romeo:spider:167A"
+      }
+    },
+    {
+      "code": "117B",
+      "marketingName": "Rosso Brunello",
+      "finish": "solid",
+      "lab": {
+        "L": 21.17,
+        "a": 22.93,
+        "b": 4.56,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #53242D (PaintRef hex, OEM=Alfa Romeo, code=117B (models=Spider; years=2003-2008)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Alfa Romeo:spider:117B"
+      }
+    },
+    {
+      "code": "296A",
+      "marketingName": "Bianco Divino",
+      "finish": "solid",
+      "lab": {
+        "L": 84.3,
+        "a": -1.6,
+        "b": 3.34,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #D2D3CC (PaintRef hex, OEM=Alfa Romeo, code=296A (models=Spider; years=2007-2009)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Alfa Romeo:spider:296A"
+      }
+    },
+    {
+      "code": "258A",
+      "marketingName": "Giallo Bilbao",
+      "finish": "solid",
+      "lab": {
+        "L": 79.44,
+        "a": 8.6,
+        "b": 75.74,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #F6BC25 (PaintRef hex, OEM=Alfa Romeo, code=258A (models=Spider; years=1991-2008)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Alfa Romeo:spider:258A"
+      }
+    },
+    {
+      "code": "513",
+      "marketingName": "Giallo Zoe",
+      "finish": "solid",
+      "lab": {
+        "L": 68.44,
+        "a": 16.41,
+        "b": 48.52,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #DA9A4E (PaintRef hex, OEM=Alfa Romeo, code=513 (models=Spider; years=1999-2003)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Alfa Romeo:spider:513"
+      }
+    },
+    {
+      "code": "258",
+      "marketingName": "Giallo Ginestra",
+      "finish": "solid",
+      "lab": {
+        "L": 74.19,
+        "a": 17.59,
+        "b": 64.51,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #F1A839 (PaintRef hex, OEM=Alfa Romeo, code=258 (models=Spider; year=2002)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Alfa Romeo:spider:258"
+      }
+    }
+  ]
+}

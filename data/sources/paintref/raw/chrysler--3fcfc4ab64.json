@@ -1,0 +1,1818 @@
+{
+  "oem": "Chrysler",
+  "fetchedAt": "2026-04-17T17:50:43.660Z",
+  "entries": [
+    {
+      "code": "PGF",
+      "name": "Emerald Green",
+      "make": "Chrysler",
+      "year_from": 2000,
+      "year_to": 2000,
+      "chipUrl": "https://www.paintref.com/chipimages/XCD5DS.png",
+      "chipHash": "14dd1aaa1eaf1509",
+      "ditzler": "4639"
+    },
+    {
+      "code": "PGS",
+      "name": "Emerald Green",
+      "make": "Chrysler",
+      "year_from": 2000,
+      "year_to": 2000,
+      "chipUrl": "https://www.paintref.com/chipimages/X5525T.png",
+      "chipHash": "cadd17229051dc4c",
+      "ditzler": "4785"
+    },
+    {
+      "code": "PR4",
+      "name": "Flame Red",
+      "make": "Chrysler",
+      "year_from": 2000,
+      "year_to": 2008,
+      "chipUrl": "https://www.paintref.com/chipimages/TT5E5W.png",
+      "chipHash": "597fe52862cafe20",
+      "ditzler": "4679"
+    },
+    {
+      "code": "PA9",
+      "name": "Viper Silver",
+      "make": "Chrysler",
+      "year_from": 2000,
+      "year_to": 2002,
+      "chipUrl": "https://www.paintref.com/chipimages/AHUFAU.png",
+      "chipHash": "889b398580c7c70b",
+      "ditzler": "36395"
+    },
+    {
+      "code": "PAW",
+      "name": "Deep Slate",
+      "make": "Chrysler",
+      "year_from": 2000,
+      "year_to": 2002,
+      "chipUrl": "https://www.paintref.com/chipimages/DWDFD2.png",
+      "chipHash": "e53c69449057b037",
+      "ditzler": "5292"
+    },
+    {
+      "code": "PB3",
+      "name": "Intense Blue",
+      "make": "Chrysler",
+      "year_from": 2000,
+      "year_to": 2001,
+      "chipUrl": "https://www.paintref.com/chipimages/5D2HT4.png",
+      "chipHash": "5b57a65dcc72a446",
+      "ditzler": "5357"
+    },
+    {
+      "code": "PB7",
+      "name": "Patriot Blue",
+      "make": "Chrysler",
+      "year_from": 2000,
+      "year_to": 2008,
+      "chipUrl": "https://www.paintref.com/chipimages/X3F223.png",
+      "chipHash": "d12f88b4926e9b9e",
+      "ditzler": "5512"
+    },
+    {
+      "code": "PBQ",
+      "name": "Steel Blue",
+      "make": "Chrysler",
+      "year_from": 2000,
+      "year_to": 2002,
+      "chipUrl": "https://www.paintref.com/chipimages/DAWSS2.png",
+      "chipHash": "e02d3cc2c561cc56",
+      "ditzler": "5576"
+    },
+    {
+      "code": "PBT",
+      "name": "Patriot Blue",
+      "make": "Chrysler",
+      "year_from": 2000,
+      "year_to": 2002,
+      "chipUrl": "https://www.paintref.com/chipimages/XGDEWA.png",
+      "chipHash": "63dafeda0dd9ba7f",
+      "ditzler": "5522"
+    },
+    {
+      "code": "PCN",
+      "name": "Deep Amethyst",
+      "make": "Chrysler",
+      "year_from": 2000,
+      "year_to": 2000,
+      "chipUrl": "https://www.paintref.com/chipimages/XFXFD5.png",
+      "chipHash": "e13c46506269d736",
+      "ditzler": "5246"
+    },
+    {
+      "code": "PCS",
+      "name": "Blackberry",
+      "make": "Chrysler",
+      "year_from": 2000,
+      "year_to": 2000,
+      "chipUrl": "https://www.paintref.com/chipimages/5F5FDT.png",
+      "chipHash": "fa19b71c6ac9e28a",
+      "ditzler": "5462"
+    },
+    {
+      "code": "PD4",
+      "name": "Ice Silver",
+      "make": "Chrysler",
+      "year_from": 2000,
+      "year_to": 2002,
+      "chipUrl": "https://www.paintref.com/chipimages/ESTFH5.png",
+      "chipHash": "bd43a147d3e47a81",
+      "ditzler": "5632"
+    },
+    {
+      "code": "PE1",
+      "name": "Colorado Red",
+      "make": "Chrysler",
+      "year_from": 2000,
+      "year_to": 2000,
+      "chipUrl": "https://www.paintref.com/chipimages/CEX2XD.png",
+      "chipHash": "42e6625f1a1f3288",
+      "ditzler": "4451"
+    },
+    {
+      "code": "PE5",
+      "name": "Salsa Red",
+      "make": "Chrysler",
+      "year_from": 2000,
+      "year_to": 2002,
+      "chipUrl": "https://www.paintref.com/chipimages/HTDXXA.png",
+      "chipHash": "f502394c573fcae7",
+      "ditzler": "5442"
+    },
+    {
+      "code": "PEA",
+      "name": "Chili Pepper Red",
+      "make": "Chrysler",
+      "year_from": 2000,
+      "year_to": 2000,
+      "chipUrl": "https://www.paintref.com/chipimages/2XXHXT.png",
+      "chipHash": "23f8fe39ca14ab81",
+      "ditzler": "5361"
+    },
+    {
+      "code": "PEL",
+      "name": "Inferno Red",
+      "make": "Chrysler",
+      "year_from": 2000,
+      "year_to": 2002,
+      "chipUrl": "https://www.paintref.com/chipimages/TDXT5X.png",
+      "chipHash": "69726575b77a19c7",
+      "ditzler": "5470"
+    },
+    {
+      "code": "PFA",
+      "name": "Light Driftwood",
+      "make": "Chrysler",
+      "year_from": 2000,
+      "year_to": 2000,
+      "chipUrl": "https://www.paintref.com/chipimages/ECCHCF.png",
+      "chipHash": "0fd46442bde8d4e8",
+      "ditzler": "4569"
+    },
+    {
+      "code": "PFK",
+      "name": "Light Driftwood",
+      "make": "Chrysler",
+      "year_from": 2000,
+      "year_to": 2000,
+      "chipUrl": "https://www.paintref.com/chipimages/T5E3C4.png",
+      "chipHash": "1c09378909f39708",
+      "ditzler": "5011"
+    },
+    {
+      "code": "PG2",
+      "name": "Light Cypress Green",
+      "make": "Chrysler",
+      "year_from": 2000,
+      "year_to": 2000,
+      "chipUrl": "https://www.paintref.com/chipimages/EDECC3.png",
+      "chipHash": "0b6c9f8febad7312",
+      "ditzler": "5471"
+    },
+    {
+      "code": "PG4",
+      "name": "Hunter Green",
+      "make": "Chrysler",
+      "year_from": 2000,
+      "year_to": 2002,
+      "chipUrl": "https://www.paintref.com/chipimages/5XDUXG.png",
+      "chipHash": "9aba7d8e3ecc1ca7",
+      "ditzler": "4591"
+    },
+    {
+      "code": "PG8",
+      "name": "Forest Green",
+      "make": "Chrysler",
+      "year_from": 2000,
+      "year_to": 2002,
+      "chipUrl": "https://www.paintref.com/chipimages/DXFADE.png",
+      "chipHash": "dc5732dd6f6419c3",
+      "ditzler": "5065"
+    },
+    {
+      "code": "PGR",
+      "name": "Shale Green",
+      "make": "Chrysler",
+      "year_from": 2000,
+      "year_to": 2002,
+      "chipUrl": "https://www.paintref.com/chipimages/F5SCWH.png",
+      "chipHash": "75446329519cbfe5",
+      "ditzler": "5577"
+    },
+    {
+      "code": "PH2",
+      "name": "Candy Apple Red",
+      "make": "Chrysler",
+      "year_from": 2000,
+      "year_to": 2000,
+      "chipUrl": "https://www.paintref.com/chipimages/2SXCX3.png",
+      "chipHash": "c0ec9ce32b185f9d",
+      "ditzler": "5025"
+    },
+    {
+      "code": "PHK",
+      "name": "Galaxy Blue",
+      "make": "Chrysler",
+      "year_from": 2000,
+      "year_to": 2000,
+      "chipUrl": "https://www.paintref.com/chipimages/5SFW2E.png",
+      "chipHash": "8d473b6e1694a585",
+      "ditzler": "5578"
+    },
+    {
+      "code": "PJP",
+      "name": "Medium Fern Green",
+      "make": "Chrysler",
+      "year_from": 2000,
+      "year_to": 2000,
+      "chipUrl": "https://www.paintref.com/chipimages/FHWAWH.png",
+      "chipHash": "f9da785d7184cc38",
+      "ditzler": "4969"
+    },
+    {
+      "code": "PLB",
+      "name": "Cinnamon Glaze",
+      "make": "Chrysler",
+      "year_from": 2000,
+      "year_to": 2002,
+      "chipUrl": "https://www.paintref.com/chipimages/W3DFDW.png",
+      "chipHash": "366cbe32c51b5ad3",
+      "ditzler": "5313"
+    },
+    {
+      "code": "S23",
+      "name": "Caffe Latte",
+      "make": "Chrysler",
+      "year_from": 2000,
+      "year_to": 2002,
+      "chipUrl": "https://www.paintref.com/chipimages/E3CG3E.png",
+      "chipHash": "2b6518db09b069e5",
+      "ditzler": "5356"
+    },
+    {
+      "code": "PMD",
+      "name": "Medium Red",
+      "make": "Chrysler",
+      "year_from": 2000,
+      "year_to": 2002,
+      "chipUrl": "https://www.paintref.com/chipimages/3GXTXT.png",
+      "chipHash": "7ca52efcfe8e4eb8",
+      "ditzler": "5080"
+    },
+    {
+      "code": "PMT",
+      "name": "Deep Cranberry",
+      "make": "Chrysler",
+      "year_from": 2000,
+      "year_to": 2002,
+      "chipUrl": "https://www.paintref.com/chipimages/SE5XFG.png",
+      "chipHash": "fb1d3f5d405e231d",
+      "ditzler": "5359"
+    },
+    {
+      "code": "PPG",
+      "name": "Dark Spruce",
+      "make": "Chrysler",
+      "year_from": 2000,
+      "year_to": 2002,
+      "chipUrl": "https://www.paintref.com/chipimages/52FDW3.png",
+      "chipHash": "d91d7818a5f459a1",
+      "ditzler": "5081"
+    },
+    {
+      "code": "PPT",
+      "name": "Everglade",
+      "make": "Chrysler",
+      "year_from": 2000,
+      "year_to": 2000,
+      "chipUrl": "https://www.paintref.com/chipimages/55DUDW.png",
+      "chipHash": "4bfe97b79db1b450",
+      "ditzler": "5472"
+    },
+    {
+      "code": "T45",
+      "name": "Slate Blue",
+      "make": "Chrysler",
+      "year_from": 2000,
+      "year_to": 2000,
+      "chipUrl": "https://www.paintref.com/chipimages/WXS5SC.png",
+      "chipHash": "52ff97260c779a98",
+      "ditzler": "5507"
+    },
+    {
+      "code": "PQW",
+      "name": "Aquamarine",
+      "make": "Chrysler",
+      "year_from": 2000,
+      "year_to": 2002,
+      "chipUrl": "https://www.paintref.com/chipimages/5EF3FE.png",
+      "chipHash": "9e30e591cfaeea65",
+      "ditzler": "5579"
+    },
+    {
+      "code": "PR8",
+      "name": "Director Red",
+      "make": "Chrysler",
+      "year_from": 2000,
+      "year_to": 2002,
+      "chipUrl": "https://www.paintref.com/chipimages/SUX4DX.png",
+      "chipHash": "0017409b573a9937",
+      "ditzler": "4450"
+    },
+    {
+      "code": "R87",
+      "name": "Indy Red",
+      "make": "Chrysler",
+      "year_from": 2000,
+      "year_to": 2002,
+      "chipUrl": "https://www.paintref.com/chipimages/H55SX4.png",
+      "chipHash": "8395cba09d3aaa5d",
+      "ditzler": "4273"
+    },
+    {
+      "code": "PRD",
+      "name": "Prowler Red",
+      "make": "Chrysler",
+      "year_from": 2000,
+      "year_to": 2000,
+      "chipUrl": "https://www.paintref.com/chipimages/A3GGGG.png",
+      "chipHash": "ab4f24520650a3d1",
+      "ditzler": "74848"
+    },
+    {
+      "code": "PRN",
+      "name": "Viper Red",
+      "make": "Chrysler",
+      "year_from": 2000,
+      "year_to": 2008,
+      "chipUrl": "https://www.paintref.com/chipimages/HE5G5C.png",
+      "chipHash": "c30b63c8b4dc663a",
+      "ditzler": "73840"
+    },
+    {
+      "code": "PRV",
+      "name": "Dark Garnet Red",
+      "make": "Chrysler",
+      "year_from": 2000,
+      "year_to": 2002,
+      "chipUrl": "https://www.paintref.com/chipimages/23XH5U.png",
+      "chipHash": "78c6a72fafab292a",
+      "ditzler": "5591"
+    },
+    {
+      "code": "PS2",
+      "name": "Bright Silver",
+      "make": "Chrysler",
+      "year_from": 2000,
+      "year_to": 2008,
+      "chipUrl": "https://www.paintref.com/chipimages/UGUSUX.png",
+      "chipHash": "02cefe86632161c9",
+      "ditzler": "5464"
+    },
+    {
+      "code": "PS4",
+      "name": "Bright Platinum",
+      "make": "Chrysler",
+      "year_from": 2000,
+      "year_to": 2001,
+      "chipUrl": "https://www.paintref.com/chipimages/3U333X.png",
+      "chipHash": "1ae31957dd2b9cb5",
+      "ditzler": "4820"
+    },
+    {
+      "code": "PS5",
+      "name": "Silverstone",
+      "make": "Chrysler",
+      "year_from": 2000,
+      "year_to": 2002,
+      "chipUrl": "https://www.paintref.com/chipimages/25353T.png",
+      "chipHash": "a778bcba0d0cc90d",
+      "ditzler": "5580"
+    },
+    {
+      "code": "PS6",
+      "name": "Viper Steel Gray",
+      "make": "Chrysler",
+      "year_from": 2000,
+      "year_to": 2000,
+      "chipUrl": "https://www.paintref.com/chipimages/25353T.png",
+      "chipHash": "a778bcba0d0cc90d",
+      "ditzler": "36447"
+    },
+    {
+      "code": "PSA",
+      "name": "Prowler Silver",
+      "make": "Chrysler",
+      "year_from": 2000,
+      "year_to": 2002,
+      "chipUrl": "https://www.paintref.com/chipimages/ADAEUA.png",
+      "chipHash": "c45e3533a95382b7",
+      "ditzler": "37185"
+    },
+    {
+      "code": "PSC",
+      "name": "Light Arctic Gray",
+      "make": "Chrysler",
+      "year_from": 2000,
+      "year_to": 2002,
+      "chipUrl": "https://www.paintref.com/chipimages/E3EFTG.png",
+      "chipHash": "f9e7603e33d9bffe",
+      "ditzler": "4690"
+    },
+    {
+      "code": "PSH",
+      "name": "Silverstone",
+      "make": "Chrysler",
+      "year_from": 2000,
+      "year_to": 2002,
+      "chipUrl": "https://www.paintref.com/chipimages/EXE2TD.png",
+      "chipHash": "9099a22ec28bfe36",
+      "ditzler": "5581"
+    },
+    {
+      "code": "PTD",
+      "name": "Desert Sand",
+      "make": "Chrysler",
+      "year_from": 2000,
+      "year_to": 2001,
+      "chipUrl": "https://www.paintref.com/chipimages/CWSUWA.png",
+      "chipHash": "79e2c5fca66206b0",
+      "ditzler": "5474"
+    },
+    {
+      "code": "PTE",
+      "name": "Champagne",
+      "make": "Chrysler",
+      "year_from": 2000,
+      "year_to": 2001,
+      "chipUrl": "https://www.paintref.com/chipimages/HUHDEE.png",
+      "chipHash": "72a0e8673b969d06",
+      "ditzler": "5360"
+    },
+    {
+      "code": "PTH",
+      "name": "Champagne",
+      "make": "Chrysler",
+      "year_from": 2000,
+      "year_to": 2001,
+      "chipUrl": "https://www.paintref.com/chipimages/HXTD34.png",
+      "chipHash": "5dc0b288d74c3571",
+      "ditzler": "5475"
+    },
+    {
+      "code": "PTK",
+      "name": "Taupe Frost",
+      "make": "Chrysler",
+      "year_from": 2000,
+      "year_to": 2002,
+      "chipUrl": "https://www.paintref.com/chipimages/WSFHF5.png",
+      "chipHash": "3ab4e54a2e585d90",
+      "ditzler": "5244"
+    },
+    {
+      "code": "PTL",
+      "name": "Sierra Bronze",
+      "make": "Chrysler",
+      "year_from": 2000,
+      "year_to": 2001,
+      "chipUrl": "https://www.paintref.com/chipimages/TWCU23.png",
+      "chipHash": "64e3cd6dee4d214a",
+      "ditzler": "5582"
+    },
+    {
+      "code": "PU7",
+      "name": "Sienna Pearl",
+      "make": "Chrysler",
+      "year_from": 2000,
+      "year_to": 2002,
+      "chipUrl": "https://www.paintref.com/chipimages/SUXA5E.png",
+      "chipHash": "e14319a109300be0",
+      "ditzler": "52277"
+    },
+    {
+      "code": "PUL",
+      "name": "Sienna",
+      "make": "Chrysler",
+      "year_from": 2000,
+      "year_to": 2001,
+      "chipUrl": "https://www.paintref.com/chipimages/FDXXXG.png",
+      "chipHash": "917ec41436abdd48",
+      "ditzler": "5477"
+    },
+    {
+      "code": "PV3",
+      "name": "Amber Fire",
+      "make": "Chrysler",
+      "year_from": 2000,
+      "year_to": 2002,
+      "chipUrl": "https://www.paintref.com/chipimages/AE3DGG.png",
+      "chipHash": "24fe344c52d1ffd6",
+      "ditzler": "5583"
+    },
+    {
+      "code": "PW1",
+      "name": "Stone White",
+      "make": "Chrysler",
+      "year_from": 2000,
+      "year_to": 2008,
+      "chipUrl": "https://www.paintref.com/chipimages/4W42UC.png",
+      "chipHash": "efac8a4d6202429e",
+      "ditzler": "5072"
+    },
+    {
+      "code": "PW6",
+      "name": "Bright White",
+      "make": "Chrysler",
+      "year_from": 2000,
+      "year_to": 2002,
+      "chipUrl": "https://www.paintref.com/chipimages/4U4U4U.png",
+      "chipHash": "744653b84864279d",
+      "ditzler": "4056"
+    },
+    {
+      "code": "PWP",
+      "name": "Golden White",
+      "make": "Chrysler",
+      "year_from": 2000,
+      "year_to": 2000,
+      "chipUrl": "https://www.paintref.com/chipimages/AHA3HH.png",
+      "chipHash": "75d908c22cb40ef8",
+      "ditzler": "5067"
+    },
+    {
+      "code": "PX3",
+      "name": "Viper Black",
+      "make": "Chrysler",
+      "year_from": 2000,
+      "year_to": 2008,
+      "chipUrl": "https://www.paintref.com/chipimages/GGGGGG.png",
+      "chipHash": "1f437854e2d31a87",
+      "ditzler": "9874"
+    },
+    {
+      "code": "PX9",
+      "name": "Black",
+      "make": "Chrysler",
+      "year_from": 2000,
+      "year_to": 2002,
+      "chipUrl": "https://www.paintref.com/chipimages/GGGGGG.png",
+      "chipHash": "1f437854e2d31a87",
+      "ditzler": "9300"
+    },
+    {
+      "code": "PXT",
+      "name": "Prowler Black",
+      "make": "Chrysler",
+      "year_from": 2000,
+      "year_to": 2002,
+      "chipUrl": "https://www.paintref.com/chipimages/GGGGGG.png",
+      "chipHash": "1f437854e2d31a87",
+      "ditzler": "95009"
+    },
+    {
+      "code": "PYH",
+      "name": "Solar Yellow",
+      "make": "Chrysler",
+      "year_from": 2000,
+      "year_to": 2002,
+      "chipUrl": "https://www.paintref.com/chipimages/42TSD3.png",
+      "chipHash": "5068f44303f97665",
+      "ditzler": "5513"
+    },
+    {
+      "code": "PX8",
+      "name": "Black",
+      "make": "Chrysler",
+      "year_from": 2000,
+      "year_to": 2008,
+      "chipUrl": "https://www.paintref.com/chipimages/GGGGGG.png",
+      "chipHash": "1f437854e2d31a87",
+      "ditzler": "9700"
+    },
+    {
+      "code": "VXW",
+      "name": "Carbon Black",
+      "make": "Chrysler",
+      "year_from": 2000,
+      "year_to": 2001,
+      "chipUrl": "https://www.paintref.com/chipimages/545A54.png",
+      "chipHash": "4f1ab7e9310a3c8c",
+      "ditzler": "95165"
+    },
+    {
+      "code": "HA2",
+      "name": "Light Quartz",
+      "make": "Chrysler",
+      "year_from": 2000,
+      "year_to": 2002,
+      "chipUrl": "https://www.paintref.com/chipimages/TWTWTA.png",
+      "chipHash": "33f18407c4a3980a",
+      "ditzler": "34494"
+    },
+    {
+      "code": "AY4KSJ",
+      "name": "Dark Silver",
+      "make": "Chrysler",
+      "year_from": 2000,
+      "year_to": 2002,
+      "chipUrl": "https://www.paintref.com/chipimages/343ACW.png",
+      "chipHash": "dd22bc8fee16ccfc",
+      "ditzler": "35728"
+    },
+    {
+      "code": "AH4MSA",
+      "name": "Argent Gray",
+      "make": "Chrysler",
+      "year_from": 2000,
+      "year_to": 2002,
+      "chipUrl": "https://www.paintref.com/chipimages/232W2H.png",
+      "chipHash": "06e0565aa1fd628b",
+      "ditzler": "35568"
+    },
+    {
+      "code": "AH4SPN",
+      "name": "Dark Teal",
+      "make": "Chrysler",
+      "year_from": 2000,
+      "year_to": 2002,
+      "chipUrl": "https://www.paintref.com/chipimages/SCST2W.png",
+      "chipHash": "72214d2944b3b86a",
+      "ditzler": ""
+    },
+    {
+      "code": "AW2TAE",
+      "name": "Bright Silver",
+      "make": "Chrysler",
+      "year_from": 2000,
+      "year_to": 2002,
+      "chipUrl": "https://www.paintref.com/chipimages/32CXED.png",
+      "chipHash": "2b9867fb21505e6d",
+      "ditzler": "36445"
+    },
+    {
+      "code": "WD2",
+      "name": "Euro Silver",
+      "make": "Chrysler",
+      "year_from": 2000,
+      "year_to": 2002,
+      "chipUrl": "https://www.paintref.com/chipimages/HHAXAS.png",
+      "chipHash": "6907ec72489f1f83",
+      "ditzler": "37141"
+    },
+    {
+      "code": "GX9",
+      "name": "Black",
+      "make": "Chrysler",
+      "year_from": 2000,
+      "year_to": 2002,
+      "chipUrl": "https://www.paintref.com/chipimages/GGGGGG.png",
+      "chipHash": "1f437854e2d31a87",
+      "ditzler": "9440"
+    },
+    {
+      "code": "HS5",
+      "name": "Dark Neutral Gray",
+      "make": "Chrysler",
+      "year_from": 2000,
+      "year_to": 2002,
+      "chipUrl": "https://www.paintref.com/chipimages/S4SH2D.png",
+      "chipHash": "bd1c7353065ff373",
+      "ditzler": "34349"
+    },
+    {
+      "code": "AK101HCX",
+      "name": "Black",
+      "make": "Chrysler",
+      "year_from": 2000,
+      "year_to": 2002,
+      "chipUrl": "https://www.paintref.com/chipimages/XDXXXS.png",
+      "chipHash": "63b564c61ad9596f",
+      "ditzler": "9857"
+    },
+    {
+      "code": "SW1",
+      "name": "Stone White",
+      "make": "Chrysler",
+      "year_from": 2000,
+      "year_to": 2001,
+      "ditzler": ""
+    },
+    {
+      "code": "VF7",
+      "name": "Medium Driftwood",
+      "make": "Chrysler",
+      "year_from": 2000,
+      "year_to": 2002,
+      "chipUrl": "https://www.paintref.com/chipimages/S4SESA.png",
+      "chipHash": "3207347cda8fbd20",
+      "ditzler": "37054"
+    },
+    {
+      "code": "PM327VSE",
+      "name": "Argent",
+      "make": "Chrysler",
+      "year_from": 2000,
+      "year_to": 2002,
+      "chipUrl": "https://www.paintref.com/chipimages/S3SWSH.png",
+      "chipHash": "9d947b63845e8d41",
+      "ditzler": ""
+    },
+    {
+      "code": "AH002YZB",
+      "name": "Super Silver",
+      "make": "Chrysler",
+      "year_from": 2000,
+      "year_to": 2002,
+      "chipUrl": "https://www.paintref.com/chipimages/CAEGES.png",
+      "chipHash": "2c0aea5ffd89b69b",
+      "ditzler": "301496"
+    },
+    {
+      "code": "K9",
+      "name": "Camel",
+      "make": "Chrysler",
+      "year_from": 2000,
+      "year_to": 2002,
+      "chipUrl": "https://www.paintref.com/chipimages/22SXWF.png",
+      "chipHash": "2494683dea9a0dec",
+      "ditzler": "28589"
+    },
+    {
+      "code": "L2",
+      "name": "Natural Beige",
+      "make": "Chrysler",
+      "year_from": 2000,
+      "year_to": 2002,
+      "chipUrl": "https://www.paintref.com/chipimages/E5CTCW.png",
+      "chipHash": "ea91d045a05a1427",
+      "ditzler": "28419"
+    },
+    {
+      "code": "T9",
+      "name": "Dark Saddle",
+      "make": "Chrysler",
+      "year_from": 2000,
+      "year_to": 2002,
+      "chipUrl": "https://www.paintref.com/chipimages/2GW2FF.png",
+      "chipHash": "8eeaa77c9e68c704",
+      "ditzler": "28596"
+    },
+    {
+      "code": "TA",
+      "name": "Light Sandstone",
+      "make": "Chrysler",
+      "year_from": 2000,
+      "year_to": 2001,
+      "chipUrl": "https://www.paintref.com/chipimages/CUC53W.png",
+      "chipHash": "fe4e97e1d0370950",
+      "ditzler": "29117"
+    },
+    {
+      "code": "TM",
+      "name": "Dark Sandstone",
+      "make": "Chrysler",
+      "year_from": 2000,
+      "year_to": 2002,
+      "chipUrl": "https://www.paintref.com/chipimages/SCW3FU.png",
+      "chipHash": "87a623d32ecea5c7",
+      "ditzler": "29118"
+    },
+    {
+      "code": "UC",
+      "name": "Cognac",
+      "make": "Chrysler",
+      "year_from": 2000,
+      "year_to": 2002,
+      "chipUrl": "https://www.paintref.com/chipimages/CGFADU.png",
+      "chipHash": "4ca8da928c713a5c",
+      "ditzler": "28795"
+    },
+    {
+      "code": "AC20157",
+      "name": "Black",
+      "make": "Chrysler",
+      "year_from": 2000,
+      "year_to": 2001,
+      "chipUrl": "https://www.paintref.com/chipimages/GHGTG2.png",
+      "chipHash": "a9670c9bd8f97a65",
+      "ditzler": "95394"
+    },
+    {
+      "code": "AW7LAZ",
+      "name": "Agate",
+      "make": "Chrysler",
+      "year_from": 2000,
+      "year_to": 2002,
+      "chipUrl": "https://www.paintref.com/chipimages/F3FSFF.png",
+      "chipHash": "9b3193bab68e9013",
+      "ditzler": "9856"
+    },
+    {
+      "code": "C1",
+      "name": "Light Cirrus Gray",
+      "make": "Chrysler",
+      "year_from": 2000,
+      "year_to": 2000,
+      "chipUrl": "https://www.paintref.com/chipimages/CCC2CC.png",
+      "chipHash": "b5c46afcfcb8e4dc",
+      "ditzler": "36109"
+    },
+    {
+      "code": "C3",
+      "name": "Cirrus Gray",
+      "make": "Chrysler",
+      "year_from": 2000,
+      "year_to": 2001,
+      "chipUrl": "https://www.paintref.com/chipimages/2G2G2W.png",
+      "chipHash": "afd81b18e42a38c9",
+      "ditzler": "35799"
+    },
+    {
+      "code": "C8",
+      "name": "Dark Cirrus Gray",
+      "make": "Chrysler",
+      "year_from": 2000,
+      "year_to": 2002,
+      "chipUrl": "https://www.paintref.com/chipimages/FAFTWF.png",
+      "chipHash": "5cb0dfe6dab40fc8",
+      "ditzler": "36108"
+    },
+    {
+      "code": "D5",
+      "name": "Medium Quartz",
+      "make": "Chrysler",
+      "year_from": 2000,
+      "year_to": 2001,
+      "chipUrl": "https://www.paintref.com/chipimages/SDSDSX.png",
+      "chipHash": "993d7aebac0216fd",
+      "ditzler": "34618"
+    },
+    {
+      "code": "F1",
+      "name": "Light Neutral",
+      "make": "Chrysler",
+      "year_from": 2000,
+      "year_to": 2002,
+      "chipUrl": "https://www.paintref.com/chipimages/TDECEF.png",
+      "chipHash": "089c515e9208171f",
+      "ditzler": "28594"
+    },
+    {
+      "code": "G8",
+      "name": "Dark Green",
+      "make": "Chrysler",
+      "year_from": 2000,
+      "year_to": 2002,
+      "chipUrl": "https://www.paintref.com/chipimages/FSFAF3.png",
+      "chipHash": "a81f89ff92334f65",
+      "ditzler": "47091"
+    },
+    {
+      "code": "AB7RJJ",
+      "name": "Light Silverfern",
+      "make": "Chrysler",
+      "year_from": 2000,
+      "year_to": 2001,
+      "chipUrl": "https://www.paintref.com/chipimages/CAC33U.png",
+      "chipHash": "d6204ebed2a60481",
+      "ditzler": "47894"
+    },
+    {
+      "code": "AB7RJK",
+      "name": "Silverfern",
+      "make": "Chrysler",
+      "year_from": 2000,
+      "year_to": 2001,
+      "chipUrl": "https://www.paintref.com/chipimages/232T2W.png",
+      "chipHash": "605112b0affe78ce",
+      "ditzler": "35798"
+    },
+    {
+      "code": "AW7RJL",
+      "name": "Dark Silverfern",
+      "make": "Chrysler",
+      "year_from": 2000,
+      "year_to": 2001,
+      "chipUrl": "https://www.paintref.com/chipimages/WUSXWU.png",
+      "chipHash": "1d0018ec849e67c2",
+      "ditzler": "47895"
+    },
+    {
+      "code": "K4",
+      "name": "Light Camel",
+      "make": "Chrysler",
+      "year_from": 2000,
+      "year_to": 2001,
+      "chipUrl": "https://www.paintref.com/chipimages/THED3E.png",
+      "chipHash": "f1d05d693c25b9b1",
+      "ditzler": "27735"
+    },
+    {
+      "code": "K5",
+      "name": "Camel",
+      "make": "Chrysler",
+      "year_from": 2000,
+      "year_to": 2002,
+      "chipUrl": "https://www.paintref.com/chipimages/CW2CSW.png",
+      "chipHash": "046e690ee7bff701",
+      "ditzler": "27731"
+    },
+    {
+      "code": "X8",
+      "name": "Black",
+      "make": "Chrysler",
+      "year_from": 2000,
+      "year_to": 2002,
+      "chipUrl": "https://www.paintref.com/chipimages/GEGCG3.png",
+      "chipHash": "d1ea0f5afb27573b",
+      "ditzler": "9996"
+    },
+    {
+      "code": "AK101KWC",
+      "name": "Frost White",
+      "make": "Chrysler",
+      "year_from": 2000,
+      "year_to": 2000,
+      "chipUrl": "https://www.paintref.com/chipimages/H3HHHH.png",
+      "chipHash": "3ba8036aeea83282",
+      "ditzler": "90844"
+    },
+    {
+      "code": "PB2",
+      "name": "Sterling Blue",
+      "make": "Chrysler",
+      "year_from": 2001,
+      "year_to": 2002,
+      "chipUrl": "https://www.paintref.com/chipimages/ESTCH5.png",
+      "chipHash": "635e7cd7feb5bb9b",
+      "ditzler": "5694"
+    },
+    {
+      "code": "T67",
+      "name": "Deep Indigo Blue",
+      "make": "Chrysler",
+      "year_from": 2001,
+      "year_to": 2001,
+      "chipUrl": "https://www.paintref.com/chipimages/G2X3DA.png",
+      "chipHash": "af7da186214118a3",
+      "ditzler": "5721"
+    },
+    {
+      "code": "PBW",
+      "name": "Sapphire Blue",
+      "make": "Chrysler",
+      "year_from": 2001,
+      "year_to": 2001,
+      "chipUrl": "https://www.paintref.com/chipimages/XG5CFF.png",
+      "chipHash": "16c995d27aa67983",
+      "ditzler": "5695"
+    },
+    {
+      "code": "PE1",
+      "name": "Colorado",
+      "make": "Chrysler",
+      "year_from": 2001,
+      "year_to": 2002,
+      "chipUrl": "https://www.paintref.com/chipimages/CEX2XD.png",
+      "chipHash": "42e6625f1a1f3288",
+      "ditzler": "4451"
+    },
+    {
+      "code": "PFF",
+      "name": "Light Pewter",
+      "make": "Chrysler",
+      "year_from": 2001,
+      "year_to": 2002,
+      "chipUrl": "https://www.paintref.com/chipimages/CT3A3C.png",
+      "chipHash": "cc28274218fc72af",
+      "ditzler": "5696"
+    },
+    {
+      "code": "PFM",
+      "name": "Bright Cactus",
+      "make": "Chrysler",
+      "year_from": 2001,
+      "year_to": 2002,
+      "chipUrl": "https://www.paintref.com/chipimages/T4H53D.png",
+      "chipHash": "d463fef66c82f31f",
+      "ditzler": "5846"
+    },
+    {
+      "code": "G41",
+      "name": "Deep Evergreen",
+      "make": "Chrysler",
+      "year_from": 2001,
+      "year_to": 2002,
+      "chipUrl": "https://www.paintref.com/chipimages/5WFD5T.png",
+      "chipHash": "e7b3b8d751fdff67",
+      "ditzler": "5718"
+    },
+    {
+      "code": "PJC",
+      "name": "Light Khaki",
+      "make": "Chrysler",
+      "year_from": 2001,
+      "year_to": 2008,
+      "chipUrl": "https://www.paintref.com/chipimages/T4T3CF.png",
+      "chipHash": "cc8543c5972de2f6",
+      "ditzler": "5902"
+    },
+    {
+      "code": "PJR",
+      "name": "Onyx Green",
+      "make": "Chrysler",
+      "year_from": 2001,
+      "year_to": 2002,
+      "chipUrl": "https://www.paintref.com/chipimages/WWS4SS.png",
+      "chipHash": "5c4ce7032ee685fe",
+      "ditzler": "5822"
+    },
+    {
+      "code": "PKJ",
+      "name": "Light Almond",
+      "make": "Chrysler",
+      "year_from": 2001,
+      "year_to": 2002,
+      "chipUrl": "https://www.paintref.com/chipimages/UFAHHF.png",
+      "chipHash": "2294178efc972590",
+      "ditzler": "5820"
+    },
+    {
+      "code": "PR6",
+      "name": "Ruby Red",
+      "make": "Chrysler",
+      "year_from": 2001,
+      "year_to": 2002,
+      "chipUrl": "https://www.paintref.com/chipimages/SH5XXC.png",
+      "chipHash": "b653af9a7b2324ea",
+      "ditzler": "5717"
+    },
+    {
+      "code": "PSB",
+      "name": "Bright Silver",
+      "make": "Chrysler",
+      "year_from": 2001,
+      "year_to": 2002,
+      "chipUrl": "https://www.paintref.com/chipimages/UGUSUX.png",
+      "chipHash": "02cefe86632161c9",
+      "ditzler": "5473"
+    },
+    {
+      "code": "S40",
+      "name": "Light Beige",
+      "make": "Chrysler",
+      "year_from": 2001,
+      "year_to": 2001,
+      "chipUrl": "https://www.paintref.com/chipimages/HFT4CT.png",
+      "chipHash": "d534ea4926a015c0",
+      "ditzler": "5719"
+    },
+    {
+      "code": "PUB",
+      "name": "Woodland Brown",
+      "make": "Chrysler",
+      "year_from": 2001,
+      "year_to": 2002,
+      "chipUrl": "https://www.paintref.com/chipimages/T3CESE.png",
+      "chipHash": "e81890e08d68bcca",
+      "ditzler": "5699"
+    },
+    {
+      "code": "PUR",
+      "name": "Sienna",
+      "make": "Chrysler",
+      "year_from": 2001,
+      "year_to": 2001,
+      "chipUrl": "https://www.paintref.com/chipimages/WDXUXT.png",
+      "chipHash": "33e0fcd511d69dae",
+      "ditzler": "5510"
+    },
+    {
+      "code": "PVF",
+      "name": "Prowler Flame Orange",
+      "make": "Chrysler",
+      "year_from": 2001,
+      "year_to": 2002,
+      "chipUrl": "https://www.paintref.com/chipimages/ACDFXH.png",
+      "chipHash": "db5c2cd00b78c017",
+      "ditzler": "61930"
+    },
+    {
+      "code": "PVL",
+      "name": "Amber Fire",
+      "make": "Chrysler",
+      "year_from": 2001,
+      "year_to": 2001,
+      "chipUrl": "https://www.paintref.com/chipimages/UDCG5H.png",
+      "chipHash": "5d3af8bc0c48184a",
+      "ditzler": "5693"
+    },
+    {
+      "code": "PW7",
+      "name": "Bright White",
+      "make": "Chrysler",
+      "year_from": 2001,
+      "year_to": 2008,
+      "chipUrl": "https://www.paintref.com/chipimages/4W424C.png",
+      "chipHash": "bd32ba131bff11da",
+      "ditzler": "4037"
+    },
+    {
+      "code": "W69",
+      "name": "Satin White",
+      "make": "Chrysler",
+      "year_from": 2001,
+      "year_to": 2002,
+      "chipUrl": "https://www.paintref.com/chipimages/UWUSAU.png",
+      "chipHash": "3c796b5ab4879c45",
+      "ditzler": "5720"
+    },
+    {
+      "code": "PY6",
+      "name": "Inca Gold",
+      "make": "Chrysler",
+      "year_from": 2001,
+      "year_to": 2001,
+      "chipUrl": "https://www.paintref.com/chipimages/T33X5A.png",
+      "chipHash": "afdca955be18d68b",
+      "ditzler": "5700"
+    },
+    {
+      "code": "PYR",
+      "name": "Viper Race Yellow",
+      "make": "Chrysler",
+      "year_from": 2001,
+      "year_to": 2002,
+      "chipUrl": "https://www.paintref.com/chipimages/44HFFU.png",
+      "chipHash": "e88a285d0f01916c",
+      "ditzler": "84030"
+    },
+    {
+      "code": "YBM",
+      "name": "Dark Blue",
+      "make": "Chrysler",
+      "year_from": 2001,
+      "year_to": 2002,
+      "chipUrl": "https://www.paintref.com/chipimages/W3W2SF.png",
+      "chipHash": "8c1167e1b3e02bed",
+      "ditzler": "194377"
+    },
+    {
+      "code": "YQS",
+      "name": "Aquamarine",
+      "make": "Chrysler",
+      "year_from": 2001,
+      "year_to": 2002,
+      "chipUrl": "https://www.paintref.com/chipimages/SS252H.png",
+      "chipHash": "b27723b5db8c2585",
+      "ditzler": "401512"
+    },
+    {
+      "code": "YR8",
+      "name": "Dark Garnet Red",
+      "make": "Chrysler",
+      "year_from": 2001,
+      "year_to": 2002,
+      "chipUrl": "https://www.paintref.com/chipimages/25WESG.png",
+      "chipHash": "a3a51fa60adaacde",
+      "ditzler": "77615"
+    },
+    {
+      "code": "BP",
+      "name": "Deep Royal Blue",
+      "make": "Chrysler",
+      "year_from": 2001,
+      "year_to": 2002,
+      "chipUrl": "https://www.paintref.com/chipimages/DADHFX.png",
+      "chipHash": "f0f7039de11a891d",
+      "ditzler": "193022"
+    },
+    {
+      "code": "QL",
+      "name": "Navy Blue",
+      "make": "Chrysler",
+      "year_from": 2001,
+      "year_to": 2002,
+      "chipUrl": "https://www.paintref.com/chipimages/DED4FH.png",
+      "chipHash": "264a96f9b2b67941",
+      "ditzler": "193055"
+    },
+    {
+      "code": "C1",
+      "name": "Light Mist Grey",
+      "make": "Chrysler",
+      "year_from": 2001,
+      "year_to": 2001,
+      "chipUrl": "https://www.paintref.com/chipimages/CCC2CC.png",
+      "chipHash": "b5c46afcfcb8e4dc",
+      "ditzler": "36109"
+    },
+    {
+      "code": "PB9",
+      "name": "Prowler Midnight Blue",
+      "make": "Chrysler",
+      "year_from": 2002,
+      "year_to": 2002,
+      "chipUrl": "https://www.paintref.com/chipimages/5D5G53.png",
+      "chipHash": "edd898c3d6621501",
+      "ditzler": "195170"
+    },
+    {
+      "code": "PBJ",
+      "name": "Atlantic Blue",
+      "make": "Chrysler",
+      "year_from": 2002,
+      "year_to": 2002,
+      "chipUrl": "https://www.paintref.com/chipimages/FD25EF.png",
+      "chipHash": "e40a43cafeec55a0",
+      "ditzler": "5819"
+    },
+    {
+      "code": "PBW",
+      "name": "Deep Sapphire Blue",
+      "make": "Chrysler",
+      "year_from": 2002,
+      "year_to": 2002,
+      "chipUrl": "https://www.paintref.com/chipimages/XG5CFF.png",
+      "chipHash": "16c995d27aa67983",
+      "ditzler": "5695"
+    },
+    {
+      "code": "PD9",
+      "name": "Dark Titanium",
+      "make": "Chrysler",
+      "year_from": 2002,
+      "year_to": 2002,
+      "chipUrl": "https://www.paintref.com/chipimages/FEF4SF.png",
+      "chipHash": "9112c3daf578c94e",
+      "ditzler": "5853"
+    },
+    {
+      "code": "PDR",
+      "name": "Graphite",
+      "make": "Chrysler",
+      "year_from": 2002,
+      "year_to": 2002,
+      "chipUrl": "https://www.paintref.com/chipimages/W5WWWG.png",
+      "chipHash": "bcf5274b4123cb67",
+      "ditzler": "5855"
+    },
+    {
+      "code": "PU2",
+      "name": "Woodland Brown",
+      "make": "Chrysler",
+      "year_from": 2002,
+      "year_to": 2002,
+      "chipUrl": "https://www.paintref.com/chipimages/2SWTFX.png",
+      "chipHash": "89c972aa6f6da149",
+      "ditzler": "5698"
+    },
+    {
+      "code": "YY6",
+      "name": "Inca Gold",
+      "make": "Chrysler",
+      "year_from": 2002,
+      "year_to": 2002,
+      "chipUrl": "https://www.paintref.com/chipimages/T33X5A.png",
+      "chipHash": "afdca955be18d68b",
+      "ditzler": "5700"
+    },
+    {
+      "code": "PYJ",
+      "name": "Inca Gold",
+      "make": "Chrysler",
+      "year_from": 2002,
+      "year_to": 2002,
+      "chipUrl": "https://www.paintref.com/chipimages/T33X5A.png",
+      "chipHash": "afdca955be18d68b",
+      "ditzler": "85179"
+    },
+    {
+      "code": "AJ6",
+      "name": "Onyx Green",
+      "make": "Chrysler",
+      "year_from": 2002,
+      "year_to": 2002,
+      "chipUrl": "https://www.paintref.com/chipimages/2D2G23.png",
+      "chipHash": "d065ee3be2ec22c1",
+      "ditzler": "403011"
+    },
+    {
+      "code": "ARX",
+      "name": "Dark Garnet",
+      "make": "Chrysler",
+      "year_from": 2002,
+      "year_to": 2002,
+      "chipUrl": "https://www.paintref.com/chipimages/SFF2W5.png",
+      "chipHash": "b8c2743f5e2cea79",
+      "ditzler": "701528"
+    },
+    {
+      "code": "VU6",
+      "name": "Sandalwood",
+      "make": "Chrysler",
+      "year_from": 2002,
+      "year_to": 2002,
+      "chipUrl": "https://www.paintref.com/chipimages/332H22.png",
+      "chipHash": "bf9ab5aa499ffe92",
+      "ditzler": ""
+    },
+    {
+      "code": "ZJQ",
+      "name": "Onyx Green",
+      "make": "Chrysler",
+      "year_from": 2002,
+      "year_to": 2002,
+      "chipUrl": "https://www.paintref.com/chipimages/WFSDS5.png",
+      "chipHash": "0508bcb282f4a367",
+      "ditzler": "403001"
+    },
+    {
+      "code": "AH002YFD",
+      "name": "Sparkle Pewter",
+      "make": "Chrysler",
+      "year_from": 2002,
+      "year_to": 2002,
+      "chipUrl": "https://www.paintref.com/chipimages/TFTXEU.png",
+      "chipHash": "98a68f98191aebaa",
+      "ditzler": "201842"
+    },
+    {
+      "code": "CK8",
+      "name": "Burnt Orange",
+      "make": "Chrysler",
+      "year_from": 2002,
+      "year_to": 2002,
+      "chipUrl": "https://www.paintref.com/chipimages/HSWTWC.png",
+      "chipHash": "7892e37343a4ad6e",
+      "ditzler": ""
+    },
+    {
+      "code": "LR",
+      "name": "Very Dark Taupe",
+      "make": "Chrysler",
+      "year_from": 2002,
+      "year_to": 2002,
+      "chipUrl": "https://www.paintref.com/chipimages/S4ST25.png",
+      "chipHash": "08ca15f12b18e1e0",
+      "ditzler": ""
+    },
+    {
+      "code": "X4",
+      "name": "Low Gloss Black",
+      "make": "Chrysler",
+      "year_from": 2002,
+      "year_to": 2002,
+      "chipUrl": "https://www.paintref.com/chipimages/5D55X4.png",
+      "chipHash": "62d818564058b42a",
+      "ditzler": "9981"
+    },
+    {
+      "code": "C3",
+      "name": "Medium Mist Grey",
+      "make": "Chrysler",
+      "year_from": 2002,
+      "year_to": 2002,
+      "chipUrl": "https://www.paintref.com/chipimages/2G2G2W.png",
+      "chipHash": "afd81b18e42a38c9",
+      "ditzler": "35799"
+    },
+    {
+      "code": "775",
+      "name": "Iridium Bright Silver",
+      "make": "Chrysler",
+      "year_from": 2008,
+      "year_to": 2008,
+      "chipUrl": "https://www.paintref.com/chipimages/UGU5AA.png",
+      "chipHash": "fec07878f56174df",
+      "ditzler": "914457"
+    },
+    {
+      "code": "PA4",
+      "name": "Silver Steel",
+      "make": "Chrysler",
+      "year_from": 2008,
+      "year_to": 2008,
+      "chipUrl": "https://www.paintref.com/chipimages/2TC5CC.png",
+      "chipHash": "e3bc08f2f2ac7f3a",
+      "ditzler": "907545"
+    },
+    {
+      "code": "PB5",
+      "name": "Electric Blue",
+      "make": "Chrysler",
+      "year_from": 2008,
+      "year_to": 2008,
+      "chipUrl": "https://www.paintref.com/chipimages/X2SXET.png",
+      "chipHash": "0b1f0eebcb08a0a2",
+      "ditzler": "5929"
+    },
+    {
+      "code": "PB6",
+      "name": "Marine Blue",
+      "make": "Chrysler",
+      "year_from": 2008,
+      "year_to": 2008,
+      "chipUrl": "https://www.paintref.com/chipimages/5TWX2E.png",
+      "chipHash": "758b689e9b3396ab",
+      "ditzler": "907394"
+    },
+    {
+      "code": "PBC",
+      "name": "Viper Bright Blue",
+      "make": "Chrysler",
+      "year_from": 2008,
+      "year_to": 2008,
+      "chipUrl": "https://www.paintref.com/chipimages/XU25T3.png",
+      "chipHash": "a7c4f0613fcd21c9",
+      "ditzler": "918037"
+    },
+    {
+      "code": "PBD",
+      "name": "Marathon Blue",
+      "make": "Chrysler",
+      "year_from": 2008,
+      "year_to": 2008,
+      "chipUrl": "https://www.paintref.com/chipimages/DXSDEC.png",
+      "chipHash": "e8d8c6c158b3a450",
+      "ditzler": "914046"
+    },
+    {
+      "code": "PBE",
+      "name": "Viper GTS Blue",
+      "make": "Chrysler",
+      "year_from": 2008,
+      "year_to": 2008,
+      "chipUrl": "https://www.paintref.com/chipimages/X3F4CH.png",
+      "chipHash": "e7f493a18ef35978",
+      "ditzler": "19282"
+    },
+    {
+      "code": "PBG",
+      "name": "Clearwater Blue",
+      "make": "Chrysler",
+      "year_from": 2008,
+      "year_to": 2008,
+      "chipUrl": "https://www.paintref.com/chipimages/2FCACA.png",
+      "chipHash": "ba21eb90916f5be6",
+      "ditzler": "914630"
+    },
+    {
+      "code": "PBK",
+      "name": "Aero Blue",
+      "make": "Chrysler",
+      "year_from": 2008,
+      "year_to": 2008,
+      "chipUrl": "https://www.paintref.com/chipimages/FXSEE5.png",
+      "chipHash": "521be78b3ae31129",
+      "ditzler": "905994"
+    },
+    {
+      "code": "PBL",
+      "name": "Modern Blue",
+      "make": "Chrysler",
+      "year_from": 2008,
+      "year_to": 2008,
+      "chipUrl": "https://www.paintref.com/chipimages/XA53D5.png",
+      "chipHash": "387f502dd5f657e0",
+      "ditzler": "910469"
+    },
+    {
+      "code": "PBM",
+      "name": "Steel Blue",
+      "make": "Chrysler",
+      "year_from": 2008,
+      "year_to": 2008,
+      "chipUrl": "https://www.paintref.com/chipimages/DWDSFW.png",
+      "chipHash": "e86ab8c542046cf7",
+      "ditzler": "907544"
+    },
+    {
+      "code": "PCF",
+      "name": "Opal",
+      "make": "Chrysler",
+      "year_from": 2008,
+      "year_to": 2008,
+      "chipUrl": "https://www.paintref.com/chipimages/SESC2X.png",
+      "chipHash": "1530682b05268842",
+      "ditzler": "910467"
+    },
+    {
+      "code": "PCV",
+      "name": "Viper Violet",
+      "make": "Chrysler",
+      "year_from": 2008,
+      "year_to": 2008,
+      "chipUrl": "https://www.paintref.com/chipimages/DWDWF2.png",
+      "chipHash": "b8228de77fae3153",
+      "ditzler": "918035"
+    },
+    {
+      "code": "PDA",
+      "name": "Light Graystone",
+      "make": "Chrysler",
+      "year_from": 2008,
+      "year_to": 2008,
+      "chipUrl": "https://www.paintref.com/chipimages/HFHXT4.png",
+      "chipHash": "5c1f25ad0eb654c5",
+      "ditzler": "911376"
+    },
+    {
+      "code": "PDM",
+      "name": "Mineral Gray",
+      "make": "Chrysler",
+      "year_from": 2008,
+      "year_to": 2008,
+      "chipUrl": "https://www.paintref.com/chipimages/W4SGSF.png",
+      "chipHash": "fc6714034781f4eb",
+      "ditzler": "6217"
+    },
+    {
+      "code": "PDR",
+      "name": "Machine Gray",
+      "make": "Chrysler",
+      "year_from": 2008,
+      "year_to": 2008,
+      "chipUrl": "https://www.paintref.com/chipimages/DGDGDT.png",
+      "chipHash": "7dcd28e9ad50f368",
+      "ditzler": "909955"
+    },
+    {
+      "code": "PDT",
+      "name": "Dark Titanium",
+      "make": "Chrysler",
+      "year_from": 2008,
+      "year_to": 2008,
+      "chipUrl": "https://www.paintref.com/chipimages/2XSCSF.png",
+      "chipHash": "956bbb6bcbcb7c2b",
+      "ditzler": "916826"
+    },
+    {
+      "code": "PEM",
+      "name": "Red Rock Crystal",
+      "make": "Chrysler",
+      "year_from": 2008,
+      "year_to": 2008,
+      "chipUrl": "https://www.paintref.com/chipimages/2GX5G4.png",
+      "chipHash": "cd842e2638e0ff27",
+      "ditzler": "911375"
+    },
+    {
+      "code": "PGJ",
+      "name": "Jeep Green",
+      "make": "Chrysler",
+      "year_from": 2008,
+      "year_to": 2008,
+      "chipUrl": "https://www.paintref.com/chipimages/5CWXFC.png",
+      "chipHash": "74e9b4c6e5409dda",
+      "ditzler": "910466"
+    },
+    {
+      "code": "PGS",
+      "name": "Snakeskin Green",
+      "make": "Chrysler",
+      "year_from": 2008,
+      "year_to": 2008,
+      "chipUrl": "https://www.paintref.com/chipimages/E3A3D4.png",
+      "chipHash": "aae2272d88e1d411",
+      "ditzler": "918038"
+    },
+    {
+      "code": "PHF",
+      "name": "Deep Crimson Crystal",
+      "make": "Chrysler",
+      "year_from": 2008,
+      "year_to": 2008,
+      "chipUrl": "https://www.paintref.com/chipimages/W3GU5S.png",
+      "chipHash": "a8ae04402423089e",
+      "ditzler": "914629"
+    },
+    {
+      "code": "PJR",
+      "name": "Rescue Green",
+      "make": "Chrysler",
+      "year_from": 2008,
+      "year_to": 2008,
+      "chipUrl": "https://www.paintref.com/chipimages/S422DX.png",
+      "chipHash": "524d0744fcadf887",
+      "ditzler": "912789"
+    },
+    {
+      "code": "PK3",
+      "name": "Viper Bright Orange",
+      "make": "Chrysler",
+      "year_from": 2008,
+      "year_to": 2008,
+      "chipUrl": "https://www.paintref.com/chipimages/AADG5D.png",
+      "chipHash": "0838b4a15402c545",
+      "ditzler": "918039"
+    },
+    {
+      "code": "PKG",
+      "name": "Light Sandstone",
+      "make": "Chrysler",
+      "year_from": 2008,
+      "year_to": 2008,
+      "chipUrl": "https://www.paintref.com/chipimages/HCHXEE.png",
+      "chipHash": "adbaf8b479356182",
+      "ditzler": "918036"
+    },
+    {
+      "code": "PQD",
+      "name": "Surf Blue",
+      "make": "Chrysler",
+      "year_from": 2008,
+      "year_to": 2008,
+      "chipUrl": "https://www.paintref.com/chipimages/D222TA.png",
+      "chipHash": "a27b3759982e2e26",
+      "ditzler": "914632"
+    },
+    {
+      "code": "PR3",
+      "name": "High Performance Red",
+      "make": "Chrysler",
+      "year_from": 2008,
+      "year_to": 2008,
+      "chipUrl": "https://www.paintref.com/chipimages/ASG3XT.png",
+      "chipHash": "da9200b24b02e6b1",
+      "ditzler": "77204"
+    },
+    {
+      "code": "PRH",
+      "name": "Inferno Red",
+      "make": "Chrysler",
+      "year_from": 2008,
+      "year_to": 2008,
+      "chipUrl": "https://www.paintref.com/chipimages/EGXCXH.png",
+      "chipHash": "8782132cce27ded8",
+      "ditzler": "5930"
+    },
+    {
+      "code": "PRJ",
+      "name": "Inferno Red",
+      "make": "Chrysler",
+      "year_from": 2008,
+      "year_to": 2008,
+      "chipUrl": "https://www.paintref.com/chipimages/SGXFXX.png",
+      "chipHash": "6518117c5985c320",
+      "ditzler": "701463"
+    },
+    {
+      "code": "PRS",
+      "name": "Venom Red",
+      "make": "Chrysler",
+      "year_from": 2008,
+      "year_to": 2008,
+      "chipUrl": "https://www.paintref.com/chipimages/STXSXT.png",
+      "chipHash": "321052849a9f2647",
+      "ditzler": "918034"
+    },
+    {
+      "code": "PS3",
+      "name": "Sapphire Silver",
+      "make": "Chrysler",
+      "year_from": 2008,
+      "year_to": 2008,
+      "chipUrl": "https://www.paintref.com/chipimages/3T3CC3.png",
+      "chipHash": "883047bd2540d57a",
+      "ditzler": "903162"
+    },
+    {
+      "code": "PV6",
+      "name": "Sunburst Orange",
+      "make": "Chrysler",
+      "year_from": 2008,
+      "year_to": 2008,
+      "chipUrl": "https://www.paintref.com/chipimages/H5DEG3.png",
+      "chipHash": "9903dd5217923cb5",
+      "ditzler": "907546"
+    },
+    {
+      "code": "PVE",
+      "name": "Tangerine",
+      "make": "Chrysler",
+      "year_from": 2008,
+      "year_to": 2008,
+      "chipUrl": "https://www.paintref.com/chipimages/H4FSDT.png",
+      "chipHash": "ad520512272e4c54",
+      "ditzler": "5954"
+    },
+    {
+      "code": "PVJ",
+      "name": "Deep Coral Red",
+      "make": "Chrysler",
+      "year_from": 2008,
+      "year_to": 2008,
+      "chipUrl": "https://www.paintref.com/chipimages/3UX4XD.png",
+      "chipHash": "95b50b5f4ab288b8",
+      "ditzler": "910468"
+    },
+    {
+      "code": "PWG",
+      "name": "Cool Vanilla",
+      "make": "Chrysler",
+      "year_from": 2008,
+      "year_to": 2008,
+      "chipUrl": "https://www.paintref.com/chipimages/UEUSH5.png",
+      "chipHash": "b2b551fef40418a3",
+      "ditzler": "6211"
+    },
+    {
+      "code": "PXR",
+      "name": "Brilliant Black",
+      "make": "Chrysler",
+      "year_from": 2008,
+      "year_to": 2008,
+      "chipUrl": "https://www.paintref.com/chipimages/GGGGGG.png",
+      "chipHash": "1f437854e2d31a87",
+      "ditzler": "5931"
+    },
+    {
+      "code": "PY3",
+      "name": "Classic Yellow",
+      "make": "Chrysler",
+      "year_from": 2008,
+      "year_to": 2008,
+      "chipUrl": "https://www.paintref.com/chipimages/4GTT5C.png",
+      "chipHash": "953965a720524a7a",
+      "ditzler": "906990"
+    },
+    {
+      "code": "PYB",
+      "name": "Detonator Yellow",
+      "make": "Chrysler",
+      "year_from": 2008,
+      "year_to": 2008,
+      "chipUrl": "https://www.paintref.com/chipimages/AATCG2.png",
+      "chipHash": "035e36e219852438",
+      "ditzler": "912790"
+    },
+    {
+      "code": "PYD",
+      "name": "Pastel Yellow",
+      "make": "Chrysler",
+      "year_from": 2008,
+      "year_to": 2008,
+      "chipUrl": "https://www.paintref.com/chipimages/4FAC3G.png",
+      "chipHash": "d44957c641aa7cfb",
+      "ditzler": "911374"
+    },
+    {
+      "code": "534",
+      "name": "Flame Red",
+      "make": "Chrysler",
+      "year_from": 2008,
+      "year_to": 2008,
+      "chipUrl": "https://www.paintref.com/chipimages/TAXHX2.png",
+      "chipHash": "480b8e43a05da936",
+      "ditzler": "918326"
+    },
+    {
+      "code": "P01",
+      "name": "Arctic White",
+      "make": "Chrysler",
+      "year_from": 2008,
+      "year_to": 2008,
+      "chipUrl": "https://www.paintref.com/chipimages/4S424F.png",
+      "chipHash": "1964a0699e87d88d",
+      "ditzler": "903492"
+    },
+    {
+      "code": "P02",
+      "name": "Black Blue",
+      "make": "Chrysler",
+      "year_from": 2008,
+      "year_to": 2008,
+      "chipUrl": "https://www.paintref.com/chipimages/5U5AD2.png",
+      "chipHash": "55f8000ef01e1cfc",
+      "ditzler": "903493"
+    }
+  ],
+  "filters": {
+    "yearFrom": 2000,
+    "yearTo": 2026
+  }
+}

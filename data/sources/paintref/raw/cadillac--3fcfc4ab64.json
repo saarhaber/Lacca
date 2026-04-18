@@ -1,0 +1,4250 @@
+{
+  "oem": "Cadillac",
+  "fetchedAt": "2026-04-17T16:28:52.975Z",
+  "entries": [
+    {
+      "code": "06",
+      "name": "Light Mediumici Red",
+      "make": "Cadillac",
+      "model": "Cadillac",
+      "year_from": 2000,
+      "year_to": 2000,
+      "chipUrl": "https://www.paintref.com/chipimages/FUXT52.png",
+      "chipHash": "0be98f13def5b877",
+      "ditzler": "5208",
+      "models": [
+        "Cadillac",
+        "Deville",
+        "Eldorado",
+        "Seville"
+      ]
+    },
+    {
+      "code": "09",
+      "name": "Mary Kay Pearl",
+      "make": "Cadillac",
+      "model": "Cadillac",
+      "year_from": 2000,
+      "year_to": 2000,
+      "chipUrl": "https://www.paintref.com/chipimages/4GA3A3.png",
+      "chipHash": "b46632aa2ff7aa93",
+      "ditzler": "52366",
+      "models": [
+        "Cadillac",
+        "Deville",
+        "Eldorado",
+        "Seville"
+      ]
+    },
+    {
+      "code": "11",
+      "name": "Pewter",
+      "make": "Cadillac",
+      "model": "Cadillac",
+      "year_from": 2000,
+      "year_to": 2003,
+      "chipUrl": "https://www.paintref.com/chipimages/THT2T2.png",
+      "chipHash": "1168e1aded09dc72",
+      "ditzler": "5377",
+      "models": [
+        "Cadillac",
+        "Escalade"
+      ]
+    },
+    {
+      "code": "12",
+      "name": "Galaxy Silver",
+      "make": "Cadillac",
+      "model": "Cadillac",
+      "year_from": 2000,
+      "year_to": 2004,
+      "chipUrl": "https://www.paintref.com/chipimages/HCAXAH.png",
+      "chipHash": "b9291464078c8b51",
+      "ditzler": "5451",
+      "models": [
+        "CTS",
+        "Cadillac",
+        "Deville",
+        "Eldorado",
+        "Seville"
+      ]
+    },
+    {
+      "code": "40",
+      "name": "White",
+      "make": "Cadillac",
+      "model": "Cadillac",
+      "year_from": 2000,
+      "year_to": 2009,
+      "chipUrl": "https://www.paintref.com/chipimages/4C4SUS.png",
+      "chipHash": "46c683920093b8d3",
+      "ditzler": "4318",
+      "models": [
+        "Cadillac",
+        "DTS",
+        "Deville",
+        "Eldorado",
+        "Escalade",
+        "STS",
+        "Seville"
+      ]
+    },
+    {
+      "code": "41",
+      "name": "Black",
+      "make": "Cadillac",
+      "model": "Cadillac",
+      "year_from": 2000,
+      "year_to": 2007,
+      "chipUrl": "https://www.paintref.com/chipimages/GGGGGG.png",
+      "chipHash": "1f437854e2d31a87",
+      "ditzler": "4337",
+      "models": [
+        "CTS",
+        "Cadillac",
+        "DTS",
+        "Deville",
+        "Eldorado",
+        "Escalade",
+        "LAV",
+        "SRX",
+        "STS",
+        "Seville",
+        "XLR"
+      ]
+    },
+    {
+      "code": "44",
+      "name": "Medium Red",
+      "make": "Cadillac",
+      "model": "Cadillac",
+      "year_from": 2000,
+      "year_to": 2002,
+      "chipUrl": "https://www.paintref.com/chipimages/DSGHXG.png",
+      "chipHash": "a57624465f71a181",
+      "ditzler": "5590",
+      "models": [
+        "Cadillac",
+        "Deville",
+        "Eldorado",
+        "Seville"
+      ]
+    },
+    {
+      "code": "50",
+      "name": "Olympic White",
+      "make": "Cadillac",
+      "model": "Cadillac",
+      "year_from": 2000,
+      "year_to": 2004,
+      "chipUrl": "https://www.paintref.com/chipimages/4D45UH.png",
+      "chipHash": "34e9268ebabfd5bc",
+      "ditzler": "3800",
+      "models": [
+        "Cadillac",
+        "Escalade"
+      ]
+    },
+    {
+      "code": "51",
+      "name": "Dark Toreador",
+      "make": "Cadillac",
+      "model": "Cadillac",
+      "year_from": 2000,
+      "year_to": 2000,
+      "chipUrl": "https://www.paintref.com/chipimages/DXXWX2.png",
+      "chipHash": "55f28245ac37f4f2",
+      "ditzler": "5226",
+      "models": [
+        "Cadillac",
+        "Escalade"
+      ]
+    },
+    {
+      "code": "54",
+      "name": "Light Bronzemist",
+      "make": "Cadillac",
+      "model": "Cadillac",
+      "year_from": 2000,
+      "year_to": 2004,
+      "chipUrl": "https://www.paintref.com/chipimages/2422SC.png",
+      "chipHash": "5cb096933c43e631",
+      "ditzler": "5500",
+      "models": [
+        "CTS",
+        "Cadillac",
+        "Deville",
+        "Eldorado",
+        "SRX",
+        "STS",
+        "Seville"
+      ]
+    },
+    {
+      "code": "55",
+      "name": "Medium Blue",
+      "make": "Cadillac",
+      "model": "Cadillac",
+      "year_from": 2000,
+      "year_to": 2001,
+      "chipUrl": "https://www.paintref.com/chipimages/FXWW2G.png",
+      "chipHash": "2620733f62312c22",
+      "ditzler": "5518",
+      "models": [
+        "Cadillac",
+        "Deville",
+        "Eldorado",
+        "Seville"
+      ]
+    },
+    {
+      "code": "60",
+      "name": "Gold Firemist",
+      "make": "Cadillac",
+      "model": "Cadillac",
+      "year_from": 2000,
+      "year_to": 2000,
+      "chipUrl": "https://www.paintref.com/chipimages/3323S2.png",
+      "chipHash": "aca2f3ff28006fac",
+      "ditzler": "5383",
+      "models": [
+        "Cadillac",
+        "Deville",
+        "Eldorado",
+        "Seville"
+      ]
+    },
+    {
+      "code": "62",
+      "name": "Dark Blue",
+      "make": "Cadillac",
+      "model": "Cadillac",
+      "year_from": 2000,
+      "year_to": 2001,
+      "chipUrl": "https://www.paintref.com/chipimages/5F5ED2.png",
+      "chipHash": "5ee381730104b4aa",
+      "ditzler": "5592",
+      "models": [
+        "Cadillac",
+        "Deville",
+        "Eldorado",
+        "Seville"
+      ]
+    },
+    {
+      "code": "76",
+      "name": "Dark Bronzemist",
+      "make": "Cadillac",
+      "model": "Cadillac",
+      "year_from": 2000,
+      "year_to": 2003,
+      "chipUrl": "https://www.paintref.com/chipimages/WXW3SX.png",
+      "chipHash": "b3bbc81c35572953",
+      "ditzler": "5452",
+      "models": [
+        "Cadillac",
+        "Deville",
+        "Eldorado",
+        "Escalade",
+        "Seville"
+      ]
+    },
+    {
+      "code": "80",
+      "name": "Red",
+      "make": "Cadillac",
+      "model": "Cadillac",
+      "year_from": 2000,
+      "year_to": 2000,
+      "chipUrl": "https://www.paintref.com/chipimages/2GXSXE.png",
+      "chipHash": "8559438b5f3c82c3",
+      "ditzler": "908489",
+      "models": [
+        "Cadillac",
+        "Deville",
+        "Eldorado",
+        "Seville"
+      ]
+    },
+    {
+      "code": "91",
+      "name": "Polo Green",
+      "make": "Cadillac",
+      "model": "Cadillac",
+      "year_from": 2000,
+      "year_to": 2000,
+      "chipUrl": "https://www.paintref.com/chipimages/DXFFDT.png",
+      "chipHash": "964960ccb69daeeb",
+      "ditzler": "4235",
+      "models": [
+        "Cadillac",
+        "Catera",
+        "Deville",
+        "Eldorado",
+        "Seville"
+      ]
+    },
+    {
+      "code": "93",
+      "name": "White Diamond",
+      "make": "Cadillac",
+      "model": "Cadillac",
+      "year_from": 2000,
+      "year_to": 2001,
+      "chipUrl": "https://www.paintref.com/chipimages/USUXA5.png",
+      "chipHash": "493ee143c5b20919",
+      "ditzler": "4175",
+      "models": [
+        "Cadillac",
+        "Catera",
+        "Deville",
+        "Eldorado",
+        "Seville"
+      ]
+    },
+    {
+      "code": "11U",
+      "name": "Ivory",
+      "make": "Cadillac",
+      "model": "Cadillac",
+      "year_from": 2000,
+      "year_to": 2001,
+      "chipUrl": "https://www.paintref.com/chipimages/UAUWAS.png",
+      "chipHash": "34c4698575bad55c",
+      "ditzler": "91505",
+      "models": [
+        "Cadillac",
+        "Catera"
+      ]
+    },
+    {
+      "code": "41U",
+      "name": "Rainforest Green",
+      "make": "Cadillac",
+      "model": "Cadillac",
+      "year_from": 2000,
+      "year_to": 2001,
+      "chipUrl": "https://www.paintref.com/chipimages/5GFG5G.png",
+      "chipHash": "33f3948c77355376",
+      "ditzler": "49418",
+      "models": [
+        "Cadillac",
+        "Catera"
+      ]
+    },
+    {
+      "code": "57U",
+      "name": "Platinum",
+      "make": "Cadillac",
+      "model": "Cadillac",
+      "year_from": 2000,
+      "year_to": 2001,
+      "chipUrl": "https://www.paintref.com/chipimages/3WCEET.png",
+      "chipHash": "b68347e170212fc6",
+      "ditzler": "36460",
+      "models": [
+        "Cadillac",
+        "Catera"
+      ]
+    },
+    {
+      "code": "58U",
+      "name": "Sapphire Blue",
+      "make": "Cadillac",
+      "model": "Cadillac",
+      "year_from": 2000,
+      "year_to": 2001,
+      "chipUrl": "https://www.paintref.com/chipimages/XU52DF.png",
+      "chipHash": "a892e0b8b165e3f2",
+      "ditzler": "191560",
+      "models": [
+        "Cadillac",
+        "Catera"
+      ]
+    },
+    {
+      "code": "80U",
+      "name": "Ebony",
+      "make": "Cadillac",
+      "model": "Cadillac",
+      "year_from": 2000,
+      "year_to": 2001,
+      "chipUrl": "https://www.paintref.com/chipimages/GGGGGG.png",
+      "chipHash": "1f437854e2d31a87",
+      "ditzler": "9300",
+      "models": [
+        "Cadillac",
+        "Catera"
+      ]
+    },
+    {
+      "code": "91U",
+      "name": "Coca",
+      "make": "Cadillac",
+      "model": "Cadillac",
+      "year_from": 2000,
+      "year_to": 2000,
+      "chipUrl": "https://www.paintref.com/chipimages/FTFGFF.png",
+      "chipHash": "3204ccad4e900ec4",
+      "ditzler": "28600",
+      "models": [
+        "Cadillac",
+        "Catera"
+      ]
+    },
+    {
+      "code": "68U",
+      "name": "Sand",
+      "make": "Cadillac",
+      "model": "Cadillac",
+      "year_from": 2000,
+      "year_to": 2001,
+      "chipUrl": "https://www.paintref.com/chipimages/EECH3T.png",
+      "chipHash": "2fbf36993c3ab70a",
+      "ditzler": "28415",
+      "models": [
+        "Cadillac",
+        "Catera"
+      ]
+    },
+    {
+      "code": "74U",
+      "name": "Cranberry Red",
+      "make": "Cadillac",
+      "model": "Cadillac",
+      "year_from": 2000,
+      "year_to": 2000,
+      "chipUrl": "https://www.paintref.com/chipimages/CSXEXT.png",
+      "chipHash": "0f0bd0dc45057d0d",
+      "ditzler": "74730",
+      "models": [
+        "Cadillac",
+        "Catera"
+      ]
+    },
+    {
+      "code": "97U",
+      "name": "Sage",
+      "make": "Cadillac",
+      "model": "Cadillac",
+      "year_from": 2000,
+      "year_to": 2001,
+      "chipUrl": "https://www.paintref.com/chipimages/2T3G3G.png",
+      "chipHash": "73db5b5f86b5552a",
+      "ditzler": "28416",
+      "models": [
+        "Cadillac",
+        "Catera"
+      ]
+    },
+    {
+      "code": "09",
+      "name": "Mary Kay Pink",
+      "make": "Cadillac",
+      "model": "Cadillac",
+      "year_from": 2001,
+      "year_to": 2003,
+      "chipUrl": "https://www.paintref.com/chipimages/4GA3A3.png",
+      "chipHash": "b46632aa2ff7aa93",
+      "ditzler": "52366",
+      "models": [
+        "Cadillac",
+        "Deville",
+        "Seville"
+      ]
+    },
+    {
+      "code": "14",
+      "name": "Storm Gray",
+      "make": "Cadillac",
+      "model": "Cadillac",
+      "year_from": 2001,
+      "year_to": 2001,
+      "chipUrl": "https://www.paintref.com/chipimages/WDWEWU.png",
+      "chipHash": "162a3b38f5649544",
+      "ditzler": "5407",
+      "models": [
+        "Cadillac",
+        "Escalade"
+      ]
+    },
+    {
+      "code": "32",
+      "name": "Dark Otter",
+      "make": "Cadillac",
+      "model": "Cadillac",
+      "year_from": 2001,
+      "year_to": 2001,
+      "chipUrl": "https://www.paintref.com/chipimages/DHFDFT.png",
+      "chipHash": "dfea204e9ad78cb1",
+      "ditzler": "5123",
+      "models": [
+        "Cadillac",
+        "Deville",
+        "Seville"
+      ]
+    },
+    {
+      "code": "34",
+      "name": "Dark Classic Green",
+      "make": "Cadillac",
+      "model": "Cadillac",
+      "year_from": 2001,
+      "year_to": 2002,
+      "chipUrl": "https://www.paintref.com/chipimages/XU53XA.png",
+      "chipHash": "bf7f06eec183407a",
+      "ditzler": "5709",
+      "models": [
+        "Cadillac",
+        "Eldorado",
+        "Seville"
+      ]
+    },
+    {
+      "code": "39",
+      "name": "Indigo",
+      "make": "Cadillac",
+      "model": "Cadillac",
+      "year_from": 2001,
+      "year_to": 2001,
+      "chipUrl": "https://www.paintref.com/chipimages/GGX3FT.png",
+      "chipHash": "04df124959090f92",
+      "ditzler": "4717",
+      "models": [
+        "Cadillac",
+        "Escalade"
+      ]
+    },
+    {
+      "code": "47",
+      "name": "Medium Green",
+      "make": "Cadillac",
+      "model": "Cadillac",
+      "year_from": 2001,
+      "year_to": 2004,
+      "chipUrl": "https://www.paintref.com/chipimages/DXFFDT.png",
+      "chipHash": "964960ccb69daeeb",
+      "ditzler": "4301",
+      "models": [
+        "Cadillac",
+        "Escalade"
+      ]
+    },
+    {
+      "code": "51",
+      "name": "Dark Toreador Red",
+      "make": "Cadillac",
+      "model": "Cadillac",
+      "year_from": 2001,
+      "year_to": 2001,
+      "chipUrl": "https://www.paintref.com/chipimages/DXXWX2.png",
+      "chipHash": "55f28245ac37f4f2",
+      "ditzler": "5226",
+      "models": [
+        "Cadillac",
+        "Escalade"
+      ]
+    },
+    {
+      "code": "60",
+      "name": "Gold",
+      "make": "Cadillac",
+      "model": "Cadillac",
+      "year_from": 2001,
+      "year_to": 2001,
+      "chipUrl": "https://www.paintref.com/chipimages/3323S2.png",
+      "chipHash": "aca2f3ff28006fac",
+      "ditzler": "5346",
+      "models": [
+        "Cadillac",
+        "Escalade"
+      ]
+    },
+    {
+      "code": "71",
+      "name": "Sunset Orange",
+      "make": "Cadillac",
+      "model": "Cadillac",
+      "year_from": 2001,
+      "year_to": 2001,
+      "chipUrl": "https://www.paintref.com/chipimages/3HDS5T.png",
+      "chipHash": "f60410cddb5a579f",
+      "ditzler": "939931",
+      "models": [
+        "Cadillac",
+        "Escalade"
+      ]
+    },
+    {
+      "code": "72",
+      "name": "Redfire",
+      "make": "Cadillac",
+      "model": "Cadillac",
+      "year_from": 2001,
+      "year_to": 2003,
+      "chipUrl": "https://www.paintref.com/chipimages/WXXEXA.png",
+      "chipHash": "865c10c44f317638",
+      "ditzler": "5502",
+      "models": [
+        "Cadillac",
+        "Escalade"
+      ]
+    },
+    {
+      "code": "74",
+      "name": "Victory Red",
+      "make": "Cadillac",
+      "model": "Cadillac",
+      "year_from": 2001,
+      "year_to": 2007,
+      "chipUrl": "https://www.paintref.com/chipimages/TFGGGU.png",
+      "chipHash": "834b4741f8f57c33",
+      "ditzler": "4154",
+      "models": [
+        "Cadillac",
+        "Escalade",
+        "XLR"
+      ]
+    },
+    {
+      "code": "86",
+      "name": "Red",
+      "make": "Cadillac",
+      "model": "Cadillac",
+      "year_from": 2001,
+      "year_to": 2007,
+      "chipUrl": "https://www.paintref.com/chipimages/2GXSXE.png",
+      "chipHash": "8559438b5f3c82c3",
+      "ditzler": "5403",
+      "models": [
+        "Cadillac",
+        "DTS",
+        "Deville",
+        "Eldorado",
+        "STS",
+        "Seville",
+        "XLR"
+      ]
+    },
+    {
+      "code": "75U",
+      "name": "Cranberry Red",
+      "make": "Cadillac",
+      "model": "Cadillac",
+      "year_from": 2001,
+      "year_to": 2001,
+      "chipUrl": "https://www.paintref.com/chipimages/CSXEXT.png",
+      "chipHash": "0f0bd0dc45057d0d",
+      "ditzler": "74730",
+      "models": [
+        "Cadillac",
+        "Catera"
+      ]
+    },
+    {
+      "code": "25",
+      "name": "Dark Ming Blue",
+      "make": "Cadillac",
+      "model": "Cadillac",
+      "year_from": 2002,
+      "year_to": 2007,
+      "chipUrl": "https://www.paintref.com/chipimages/XS53D2.png",
+      "chipHash": "dd066036dce3efff",
+      "ditzler": "5833",
+      "models": [
+        "CTS",
+        "Cadillac",
+        "DTS",
+        "Deville",
+        "Escalade",
+        "SRX",
+        "STS",
+        "Seville"
+      ]
+    },
+    {
+      "code": "32",
+      "name": "Dark Otter Gray",
+      "make": "Cadillac",
+      "model": "Cadillac",
+      "year_from": 2002,
+      "year_to": 2002,
+      "chipUrl": "https://www.paintref.com/chipimages/XHXHDG.png",
+      "chipHash": "30f976b2be03a9a1",
+      "ditzler": "5739",
+      "models": [
+        "Cadillac",
+        "Deville",
+        "Seville"
+      ]
+    },
+    {
+      "code": "38",
+      "name": "Vermeer Green",
+      "make": "Cadillac",
+      "model": "Cadillac",
+      "year_from": 2002,
+      "year_to": 2002,
+      "chipUrl": "https://www.paintref.com/chipimages/DXDA5A.png",
+      "chipHash": "da7f030e9c3da432",
+      "ditzler": "402748",
+      "models": [
+        "Cadillac"
+      ]
+    },
+    {
+      "code": "39",
+      "name": "Indigo Blue",
+      "make": "Cadillac",
+      "model": "Cadillac",
+      "year_from": 2002,
+      "year_to": 2003,
+      "chipUrl": "https://www.paintref.com/chipimages/GGX3FT.png",
+      "chipHash": "04df124959090f92",
+      "ditzler": "4717",
+      "models": [
+        "Cadillac"
+      ]
+    },
+    {
+      "code": "45",
+      "name": "Cream White",
+      "make": "Cadillac",
+      "model": "Cadillac",
+      "year_from": 2002,
+      "year_to": 2002,
+      "chipUrl": "https://www.paintref.com/chipimages/4SUAH4.png",
+      "chipHash": "a26d416504fd7719",
+      "ditzler": "5857",
+      "models": [
+        "Cadillac",
+        "Eldorado"
+      ]
+    },
+    {
+      "code": "70",
+      "name": "Torch Red",
+      "make": "Cadillac",
+      "model": "Cadillac",
+      "year_from": 2002,
+      "year_to": 2002,
+      "chipUrl": "https://www.paintref.com/chipimages/T4X4XE.png",
+      "chipHash": "a24d69cb98a3a7d4",
+      "ditzler": "4230",
+      "models": [
+        "Cadillac",
+        "Eldorado"
+      ]
+    },
+    {
+      "code": "84",
+      "name": "Opera Red",
+      "make": "Cadillac",
+      "model": "Cadillac",
+      "year_from": 2002,
+      "year_to": 2003,
+      "chipUrl": "https://www.paintref.com/chipimages/WHXFX2.png",
+      "chipHash": "3176a4e3c0ff5a84",
+      "ditzler": "700366",
+      "models": [
+        "CTS",
+        "Cadillac"
+      ]
+    },
+    {
+      "code": "85",
+      "name": "Sunburst Orange",
+      "make": "Cadillac",
+      "model": "Cadillac",
+      "year_from": 2002,
+      "year_to": 2004,
+      "chipUrl": "https://www.paintref.com/chipimages/T2FT53.png",
+      "chipHash": "44d8fb4344550af5",
+      "ditzler": "62608",
+      "models": [
+        "CTS",
+        "Cadillac"
+      ]
+    },
+    {
+      "code": "98",
+      "name": "White Diamond",
+      "make": "Cadillac",
+      "model": "Cadillac",
+      "year_from": 2002,
+      "year_to": 2013,
+      "chipUrl": "https://www.paintref.com/chipimages/4U4UUE.png",
+      "chipHash": "4a5b0443f6c6966d",
+      "ditzler": "5852",
+      "models": [
+        "ATS",
+        "CTS",
+        "Cadillac",
+        "DTS",
+        "Deville",
+        "Eldorado",
+        "Escalade",
+        "SRX",
+        "STS",
+        "Seville",
+        "XTS"
+      ]
+    },
+    {
+      "code": "06",
+      "name": "Mary Kay Pearl",
+      "make": "Cadillac",
+      "model": "Cadillac",
+      "year_from": 2003,
+      "year_to": 2005,
+      "chipUrl": "https://www.paintref.com/chipimages/42HDAH.png",
+      "chipHash": "99fd6a12875438dd",
+      "ditzler": "6231",
+      "models": [
+        "Cadillac",
+        "Deville",
+        "STS",
+        "Seville"
+      ]
+    },
+    {
+      "code": "21",
+      "name": "Electron Blue",
+      "make": "Cadillac",
+      "model": "Cadillac",
+      "year_from": 2003,
+      "year_to": 2003,
+      "chipUrl": "https://www.paintref.com/chipimages/G45H2W.png",
+      "chipHash": "6afef60ac76cbdc8",
+      "ditzler": "195338",
+      "models": [
+        "Cadillac"
+      ]
+    },
+    {
+      "code": "46",
+      "name": "Shale",
+      "make": "Cadillac",
+      "model": "Cadillac",
+      "year_from": 2003,
+      "year_to": 2005,
+      "chipUrl": "https://www.paintref.com/chipimages/353D3W.png",
+      "chipHash": "3f062a4846a1332b",
+      "ditzler": "4995",
+      "models": [
+        "Cadillac",
+        "XLR"
+      ]
+    },
+    {
+      "code": "48",
+      "name": "Dark Meander Green",
+      "make": "Cadillac",
+      "model": "Cadillac",
+      "year_from": 2003,
+      "year_to": 2004,
+      "chipUrl": "https://www.paintref.com/chipimages/5ADADC.png",
+      "chipHash": "aca7a5e895eaef4d",
+      "ditzler": "5943",
+      "models": [
+        "Cadillac",
+        "STS",
+        "Seville"
+      ]
+    },
+    {
+      "code": "58",
+      "name": "Sandalwood",
+      "make": "Cadillac",
+      "model": "Cadillac",
+      "year_from": 2003,
+      "year_to": 2003,
+      "chipUrl": "https://www.paintref.com/chipimages/EW3A2X.png",
+      "chipHash": "f4e3f337a50df067",
+      "ditzler": "5843",
+      "models": [
+        "Cadillac"
+      ]
+    },
+    {
+      "code": "62",
+      "name": "Spiral Gray",
+      "make": "Cadillac",
+      "model": "Cadillac",
+      "year_from": 2003,
+      "year_to": 2003,
+      "chipUrl": "https://www.paintref.com/chipimages/XDXA53.png",
+      "chipHash": "2525209d281e419c",
+      "ditzler": "5940",
+      "models": [
+        "Cadillac"
+      ]
+    },
+    {
+      "code": "88",
+      "name": "Medium Spiral Gray",
+      "make": "Cadillac",
+      "model": "Cadillac",
+      "year_from": 2003,
+      "year_to": 2005,
+      "chipUrl": "https://www.paintref.com/chipimages/2G2C2U.png",
+      "chipHash": "7b7cca17c327aea5",
+      "ditzler": "5945",
+      "models": [
+        "Cadillac",
+        "Deville",
+        "STS",
+        "Seville",
+        "XLR"
+      ]
+    },
+    {
+      "code": "91",
+      "name": "Arrival Blue",
+      "make": "Cadillac",
+      "model": "Cadillac",
+      "year_from": 2003,
+      "year_to": 2003,
+      "chipUrl": "https://www.paintref.com/chipimages/X3W4CD.png",
+      "chipHash": "fee20006f89b32aa",
+      "ditzler": "5968",
+      "models": [
+        "Cadillac",
+        "Escalade"
+      ]
+    },
+    {
+      "code": "92",
+      "name": "Silver Green",
+      "make": "Cadillac",
+      "model": "Cadillac",
+      "year_from": 2003,
+      "year_to": 2005,
+      "chipUrl": "https://www.paintref.com/chipimages/32CX25.png",
+      "chipHash": "b6d777b8fb1e50f4",
+      "ditzler": "5946",
+      "models": [
+        "CTS",
+        "Cadillac",
+        "SRX",
+        "STS"
+      ]
+    },
+    {
+      "code": "95",
+      "name": "Majestic Amethyst",
+      "make": "Cadillac",
+      "model": "Cadillac",
+      "year_from": 2003,
+      "year_to": 2004,
+      "chipUrl": "https://www.paintref.com/chipimages/W2FUWC.png",
+      "chipHash": "6a7461d2303436e5",
+      "ditzler": "5001",
+      "models": [
+        "Cadillac",
+        "XLR"
+      ]
+    },
+    {
+      "code": "19",
+      "name": "Luxo Blue",
+      "make": "Cadillac",
+      "model": "Cadillac",
+      "year_from": 2004,
+      "year_to": 2007,
+      "chipUrl": "https://www.paintref.com/chipimages/GGG4W4.png",
+      "chipHash": "910aa4cdaf2305ac",
+      "ditzler": "931233",
+      "models": [
+        "Cadillac",
+        "XLR"
+      ]
+    },
+    {
+      "code": "29",
+      "name": "Sport Red",
+      "make": "Cadillac",
+      "model": "Cadillac",
+      "year_from": 2004,
+      "year_to": 2005,
+      "chipUrl": "https://www.paintref.com/chipimages/34XS55.png",
+      "chipHash": "b5f66c383b66cf93",
+      "ditzler": "6225",
+      "models": [
+        "CTS",
+        "Cadillac",
+        "SRX",
+        "STS"
+      ]
+    },
+    {
+      "code": "33",
+      "name": "Light Driftwood",
+      "make": "Cadillac",
+      "model": "Cadillac",
+      "year_from": 2004,
+      "year_to": 2004,
+      "chipUrl": "https://www.paintref.com/chipimages/TTE234.png",
+      "chipHash": "c413c1eb92a549e8",
+      "ditzler": "4454",
+      "models": [
+        "Cadillac"
+      ]
+    },
+    {
+      "code": "42",
+      "name": "Dark Tarnished Silver",
+      "make": "Cadillac",
+      "model": "Cadillac",
+      "year_from": 2004,
+      "year_to": 2005,
+      "chipUrl": "https://www.paintref.com/chipimages/CSCHCF.png",
+      "chipHash": "37d4b4ad71595400",
+      "ditzler": "6223",
+      "models": [
+        "CTS",
+        "Cadillac",
+        "SRX",
+        "STS"
+      ]
+    },
+    {
+      "code": "56",
+      "name": "Sunburst Orange",
+      "make": "Cadillac",
+      "model": "Cadillac",
+      "year_from": 2004,
+      "year_to": 2004,
+      "chipUrl": "https://www.paintref.com/chipimages/UGS552.png",
+      "chipHash": "c15e24fa9d9e8e2f",
+      "ditzler": "6218",
+      "models": [
+        "Cadillac"
+      ]
+    },
+    {
+      "code": "59",
+      "name": "Silver Birch",
+      "make": "Cadillac",
+      "model": "Cadillac",
+      "year_from": 2004,
+      "year_to": 2009,
+      "chipUrl": "https://www.paintref.com/chipimages/AWA5HX.png",
+      "chipHash": "898a31838d3c9015",
+      "ditzler": "6235",
+      "models": [
+        "Cadillac",
+        "Escalade"
+      ]
+    },
+    {
+      "code": "62",
+      "name": "Dark Spiral Gray",
+      "make": "Cadillac",
+      "model": "Cadillac",
+      "year_from": 2004,
+      "year_to": 2005,
+      "chipUrl": "https://www.paintref.com/chipimages/XDXA53.png",
+      "chipHash": "2525209d281e419c",
+      "ditzler": "5940",
+      "models": [
+        "CTS",
+        "Cadillac",
+        "SRX",
+        "STS"
+      ]
+    },
+    {
+      "code": "63",
+      "name": "Sport Red",
+      "make": "Cadillac",
+      "model": "Cadillac",
+      "year_from": 2004,
+      "year_to": 2007,
+      "chipUrl": "https://www.paintref.com/chipimages/35XDXX.png",
+      "chipHash": "b795df6a95c44bd4",
+      "ditzler": "5947",
+      "models": [
+        "Cadillac",
+        "Escalade"
+      ]
+    },
+    {
+      "code": "67",
+      "name": "Light Tarnished Silver",
+      "make": "Cadillac",
+      "model": "Cadillac",
+      "year_from": 2004,
+      "year_to": 2007,
+      "chipUrl": "https://www.paintref.com/chipimages/HDT4T5.png",
+      "chipHash": "af8d4bd7e9099508",
+      "ditzler": "6229",
+      "models": [
+        "CTS",
+        "Cadillac",
+        "DTS",
+        "Deville",
+        "SRX",
+        "STS",
+        "Seville",
+        "XLR"
+      ]
+    },
+    {
+      "code": "68",
+      "name": "Blue Ice",
+      "make": "Cadillac",
+      "model": "Cadillac",
+      "year_from": 2004,
+      "year_to": 2006,
+      "chipUrl": "https://www.paintref.com/chipimages/323UEF.png",
+      "chipHash": "ab2a01c553493add",
+      "ditzler": "6236",
+      "models": [
+        "Cadillac",
+        "DTS",
+        "Deville",
+        "Seville"
+      ]
+    },
+    {
+      "code": "93",
+      "name": "White Gold Pearl",
+      "make": "Cadillac",
+      "model": "Cadillac",
+      "year_from": 2004,
+      "year_to": 2007,
+      "chipUrl": "https://www.paintref.com/chipimages/4C4DAX.png",
+      "chipHash": "19fa310783115dfa",
+      "ditzler": "6222",
+      "models": [
+        "Cadillac",
+        "DTS",
+        "Deville",
+        "STS"
+      ]
+    },
+    {
+      "code": "64U",
+      "name": "Red Brown",
+      "make": "Cadillac",
+      "model": "Cadillac",
+      "year_from": 2004,
+      "year_to": 2004,
+      "chipUrl": "https://www.paintref.com/chipimages/E5X2XS.png",
+      "chipHash": "e250efed719ba3c6",
+      "ditzler": "904574",
+      "models": [
+        "Cadillac"
+      ]
+    },
+    {
+      "code": "15",
+      "name": "Cashmere",
+      "make": "Cadillac",
+      "model": "Cadillac",
+      "year_from": 2005,
+      "year_to": 2005,
+      "chipUrl": "https://www.paintref.com/chipimages/AUT434.png",
+      "chipHash": "4391a1cabb62f78e",
+      "ditzler": "6224",
+      "models": [
+        "Cadillac",
+        "Deville"
+      ]
+    },
+    {
+      "code": "23",
+      "name": "Green Jewel Frost",
+      "make": "Cadillac",
+      "model": "Cadillac",
+      "year_from": 2005,
+      "year_to": 2007,
+      "chipUrl": "https://www.paintref.com/chipimages/TFHGCT.png",
+      "chipHash": "687428bc45a06a7a",
+      "ditzler": "903796",
+      "models": [
+        "Cadillac",
+        "DTS",
+        "Deville"
+      ]
+    },
+    {
+      "code": "26",
+      "name": "Bermuda Blue",
+      "make": "Cadillac",
+      "model": "Cadillac",
+      "year_from": 2005,
+      "year_to": 2007,
+      "chipUrl": "https://www.paintref.com/chipimages/5EWFWS.png",
+      "chipHash": "6bbd3c0d0ba32274",
+      "ditzler": "906257",
+      "models": [
+        "Cadillac",
+        "Escalade"
+      ]
+    },
+    {
+      "code": "34",
+      "name": "Red Blue",
+      "make": "Cadillac",
+      "model": "Cadillac",
+      "year_from": 2005,
+      "year_to": 2005,
+      "chipUrl": "https://www.paintref.com/chipimages/S3253C.png",
+      "chipHash": "9e593e8a21628f6a",
+      "ditzler": "906255",
+      "models": [
+        "Cadillac",
+        "XLR"
+      ]
+    },
+    {
+      "code": "61",
+      "name": "Gold Slate",
+      "make": "Cadillac",
+      "model": "Cadillac",
+      "year_from": 2005,
+      "year_to": 2005,
+      "chipUrl": "https://www.paintref.com/chipimages/SUSXFA.png",
+      "chipHash": "bf976d569776cd9f",
+      "ditzler": "906271",
+      "models": [
+        "CTS",
+        "Cadillac",
+        "SRX",
+        "STS"
+      ]
+    },
+    {
+      "code": "93",
+      "name": "White Gold",
+      "make": "Cadillac",
+      "model": "Cadillac",
+      "year_from": 2005,
+      "year_to": 2005,
+      "chipUrl": "https://www.paintref.com/chipimages/4C4DAX.png",
+      "chipHash": "19fa310783115dfa",
+      "ditzler": "6222",
+      "models": [
+        "Cadillac",
+        "Deville"
+      ]
+    },
+    {
+      "code": "06",
+      "name": "Mary Kay Pearl III",
+      "make": "Cadillac",
+      "model": "Cadillac",
+      "year_from": 2006,
+      "year_to": 2007,
+      "chipUrl": "https://www.paintref.com/chipimages/42HDAH.png",
+      "chipHash": "99fd6a12875438dd",
+      "ditzler": "6231",
+      "models": [
+        "Cadillac",
+        "DTS",
+        "STS"
+      ]
+    },
+    {
+      "code": "15",
+      "name": "Light Cashmere",
+      "make": "Cadillac",
+      "model": "Cadillac",
+      "year_from": 2006,
+      "year_to": 2006,
+      "chipUrl": "https://www.paintref.com/chipimages/AUT434.png",
+      "chipHash": "4391a1cabb62f78e",
+      "ditzler": "6224",
+      "models": [
+        "Cadillac",
+        "DTS"
+      ]
+    },
+    {
+      "code": "19",
+      "name": "Xenon Blue",
+      "make": "Cadillac",
+      "model": "Cadillac",
+      "year_from": 2006,
+      "year_to": 2012,
+      "chipUrl": "https://www.paintref.com/chipimages/GGG4W4.png",
+      "chipHash": "910aa4cdaf2305ac",
+      "ditzler": "931233",
+      "models": [
+        "Cadillac",
+        "Escalade",
+        "SRX",
+        "XLR"
+      ]
+    },
+    {
+      "code": "23",
+      "name": "Green Silk",
+      "make": "Cadillac",
+      "model": "Cadillac",
+      "year_from": 2006,
+      "year_to": 2006,
+      "chipUrl": "https://www.paintref.com/chipimages/TFHGCT.png",
+      "chipHash": "687428bc45a06a7a",
+      "ditzler": "903796",
+      "models": [
+        "Cadillac",
+        "DTS"
+      ]
+    },
+    {
+      "code": "25",
+      "name": "Blue Chip",
+      "make": "Cadillac",
+      "model": "Cadillac",
+      "year_from": 2006,
+      "year_to": 2008,
+      "chipUrl": "https://www.paintref.com/chipimages/XS53D2.png",
+      "chipHash": "dd066036dce3efff",
+      "ditzler": "5833",
+      "models": [
+        "CTS",
+        "Cadillac",
+        "DTS",
+        "Escalade",
+        "SRX",
+        "STS"
+      ]
+    },
+    {
+      "code": "34",
+      "name": "Steel Blue",
+      "make": "Cadillac",
+      "model": "Cadillac",
+      "year_from": 2006,
+      "year_to": 2006,
+      "chipUrl": "https://www.paintref.com/chipimages/S3253C.png",
+      "chipHash": "9e593e8a21628f6a",
+      "ditzler": "906255",
+      "models": [
+        "Cadillac",
+        "XLR"
+      ]
+    },
+    {
+      "code": "41",
+      "name": "Black Raven",
+      "make": "Cadillac",
+      "model": "Cadillac",
+      "year_from": 2006,
+      "year_to": 2013,
+      "chipUrl": "https://www.paintref.com/chipimages/GGGGGG.png",
+      "chipHash": "1f437854e2d31a87",
+      "ditzler": "4337",
+      "models": [
+        "ATS",
+        "CTS",
+        "Cadillac",
+        "DTS",
+        "Escalade",
+        "SRX",
+        "STS",
+        "XLR",
+        "XTS"
+      ]
+    },
+    {
+      "code": "42",
+      "name": "Silver Smoke",
+      "make": "Cadillac",
+      "model": "Cadillac",
+      "year_from": 2006,
+      "year_to": 2012,
+      "chipUrl": "https://www.paintref.com/chipimages/CSCHCF.png",
+      "chipHash": "37d4b4ad71595400",
+      "ditzler": "6223",
+      "models": [
+        "CTS",
+        "Cadillac",
+        "SRX",
+        "STS"
+      ]
+    },
+    {
+      "code": "46",
+      "name": "Stealth Gray",
+      "make": "Cadillac",
+      "model": "Cadillac",
+      "year_from": 2006,
+      "year_to": 2010,
+      "chipUrl": "https://www.paintref.com/chipimages/253AC2.png",
+      "chipHash": "b80f6df605d5c29b",
+      "ditzler": "6220",
+      "models": [
+        "CTS",
+        "Cadillac",
+        "Escalade",
+        "SRX",
+        "STS"
+      ]
+    },
+    {
+      "code": "51",
+      "name": "Gold Mist",
+      "make": "Cadillac",
+      "model": "Cadillac",
+      "year_from": 2006,
+      "year_to": 2012,
+      "chipUrl": "https://www.paintref.com/chipimages/HET4C4.png",
+      "chipHash": "91677a4b69e5f84c",
+      "ditzler": "908593",
+      "models": [
+        "CTS",
+        "Cadillac",
+        "DTS",
+        "Escalade",
+        "SRX",
+        "STS",
+        "XLR"
+      ]
+    },
+    {
+      "code": "53",
+      "name": "Radiant Bronze",
+      "make": "Cadillac",
+      "model": "Cadillac",
+      "year_from": 2006,
+      "year_to": 2008,
+      "chipUrl": "https://www.paintref.com/chipimages/CE3SS3.png",
+      "chipHash": "7738332a47268e53",
+      "ditzler": "908546",
+      "models": [
+        "CTS",
+        "Cadillac",
+        "DTS",
+        "SRX",
+        "STS"
+      ]
+    },
+    {
+      "code": "61",
+      "name": "Sand Storm",
+      "make": "Cadillac",
+      "model": "Cadillac",
+      "year_from": 2006,
+      "year_to": 2006,
+      "chipUrl": "https://www.paintref.com/chipimages/SUSXFA.png",
+      "chipHash": "bf976d569776cd9f",
+      "ditzler": "906271",
+      "models": [
+        "CTS",
+        "Cadillac",
+        "SRX",
+        "STS"
+      ]
+    },
+    {
+      "code": "67",
+      "name": "Light Platinum",
+      "make": "Cadillac",
+      "model": "Cadillac",
+      "year_from": 2006,
+      "year_to": 2008,
+      "chipUrl": "https://www.paintref.com/chipimages/HDT4T5.png",
+      "chipHash": "af8d4bd7e9099508",
+      "ditzler": "6229",
+      "models": [
+        "CTS",
+        "Cadillac",
+        "DTS",
+        "SRX",
+        "STS",
+        "XLR"
+      ]
+    },
+    {
+      "code": "71",
+      "name": "Blackberry",
+      "make": "Cadillac",
+      "model": "Cadillac",
+      "year_from": 2006,
+      "year_to": 2006,
+      "chipUrl": "https://www.paintref.com/chipimages/D554DU.png",
+      "chipHash": "a896477c5837d3da",
+      "ditzler": "908594",
+      "models": [
+        "CTS",
+        "Cadillac",
+        "SRX",
+        "STS"
+      ]
+    },
+    {
+      "code": "77",
+      "name": "Glacier Gold",
+      "make": "Cadillac",
+      "model": "Cadillac",
+      "year_from": 2006,
+      "year_to": 2007,
+      "chipUrl": "https://www.paintref.com/chipimages/4W4GH3.png",
+      "chipHash": "fa35d15758cee96f",
+      "ditzler": "907829",
+      "models": [
+        "Cadillac",
+        "DTS",
+        "STS"
+      ]
+    },
+    {
+      "code": "80",
+      "name": "Infrared",
+      "make": "Cadillac",
+      "model": "Cadillac",
+      "year_from": 2006,
+      "year_to": 2011,
+      "chipUrl": "https://www.paintref.com/chipimages/3D5X5H.png",
+      "chipHash": "5182f5794e1a5a2c",
+      "ditzler": "908589",
+      "models": [
+        "CTS",
+        "Cadillac",
+        "Escalade",
+        "SRX",
+        "STS",
+        "XLR"
+      ]
+    },
+    {
+      "code": "86",
+      "name": "Crimson Pearl",
+      "make": "Cadillac",
+      "model": "Cadillac",
+      "year_from": 2006,
+      "year_to": 2006,
+      "chipUrl": "https://www.paintref.com/chipimages/2GXSXE.png",
+      "chipHash": "8559438b5f3c82c3",
+      "ditzler": "5403",
+      "models": [
+        "Cadillac",
+        "DTS"
+      ]
+    },
+    {
+      "code": "98",
+      "name": "White Lightning",
+      "make": "Cadillac",
+      "model": "Cadillac",
+      "year_from": 2006,
+      "year_to": 2006,
+      "chipUrl": "https://www.paintref.com/chipimages/4U4UUE.png",
+      "chipHash": "4a5b0443f6c6966d",
+      "ditzler": "5852",
+      "models": [
+        "CTS",
+        "Cadillac",
+        "Escalade",
+        "SRX",
+        "STS"
+      ]
+    },
+    {
+      "code": "99",
+      "name": "Gunmetal",
+      "make": "Cadillac",
+      "model": "Cadillac",
+      "year_from": 2006,
+      "year_to": 2008,
+      "chipUrl": "https://www.paintref.com/chipimages/22252F.png",
+      "chipHash": "9fc0266e9e4a2d3e",
+      "ditzler": "908547",
+      "models": [
+        "Cadillac",
+        "DTS"
+      ]
+    },
+    {
+      "code": "82U",
+      "name": "Star Black",
+      "make": "Cadillac",
+      "model": "Cadillac",
+      "year_from": 2006,
+      "year_to": 2006,
+      "chipUrl": "https://www.paintref.com/chipimages/GGGGGG.png",
+      "chipHash": "1f437854e2d31a87",
+      "ditzler": "5942",
+      "models": [
+        "Cadillac",
+        "XLR"
+      ]
+    },
+    {
+      "code": "14",
+      "name": "Cosmic Quartz",
+      "make": "Cadillac",
+      "model": "Cadillac",
+      "year_from": 2007,
+      "year_to": 2008,
+      "chipUrl": "https://www.paintref.com/chipimages/2S2C3H.png",
+      "chipHash": "ae1eb04f0dee0723",
+      "ditzler": "908592",
+      "models": [
+        "Cadillac",
+        "DTS"
+      ]
+    },
+    {
+      "code": "30",
+      "name": "Kevlava Gray",
+      "make": "Cadillac",
+      "model": "Cadillac",
+      "year_from": 2007,
+      "year_to": 2007,
+      "chipUrl": "https://www.paintref.com/chipimages/WDW5W3.png",
+      "chipHash": "326733e7033f19ed",
+      "ditzler": "912803",
+      "models": [
+        "CTS",
+        "Cadillac",
+        "SRX",
+        "STS"
+      ]
+    },
+    {
+      "code": "36",
+      "name": "Golden Quartz",
+      "make": "Cadillac",
+      "model": "Cadillac",
+      "year_from": 2007,
+      "year_to": 2008,
+      "chipUrl": "https://www.paintref.com/chipimages/SHS425.png",
+      "chipHash": "e146be5ada2fb2c9",
+      "ditzler": "912696",
+      "models": [
+        "Cadillac",
+        "XLR"
+      ]
+    },
+    {
+      "code": "53",
+      "name": "Antique Bronze",
+      "make": "Cadillac",
+      "model": "Cadillac",
+      "year_from": 2007,
+      "year_to": 2007,
+      "chipUrl": "https://www.paintref.com/chipimages/CE3SS3.png",
+      "chipHash": "7738332a47268e53",
+      "ditzler": "908546",
+      "models": [
+        "CTS",
+        "Cadillac",
+        "DTS",
+        "Escalade",
+        "SRX",
+        "STS"
+      ]
+    },
+    {
+      "code": "54",
+      "name": "Cognac Frost Pearl",
+      "make": "Cadillac",
+      "model": "Cadillac",
+      "year_from": 2007,
+      "year_to": 2007,
+      "chipUrl": "https://www.paintref.com/chipimages/U2H3TX.png",
+      "chipHash": "fdebe279684359ab",
+      "ditzler": "915634",
+      "models": [
+        "Cadillac",
+        "DTS"
+      ]
+    },
+    {
+      "code": "71",
+      "name": "Lunar Quartz",
+      "make": "Cadillac",
+      "model": "Cadillac",
+      "year_from": 2007,
+      "year_to": 2007,
+      "chipUrl": "https://www.paintref.com/chipimages/D554DU.png",
+      "chipHash": "a896477c5837d3da",
+      "ditzler": "908594",
+      "models": [
+        "CTS",
+        "Cadillac",
+        "SRX",
+        "STS"
+      ]
+    },
+    {
+      "code": "78",
+      "name": "Transition Blue",
+      "make": "Cadillac",
+      "model": "Cadillac",
+      "year_from": 2007,
+      "year_to": 2009,
+      "chipUrl": "https://www.paintref.com/chipimages/23333U.png",
+      "chipHash": "9f8ebb5940eb3623",
+      "ditzler": "912616",
+      "models": [
+        "CTS",
+        "Cadillac",
+        "DTS",
+        "SRX",
+        "STS"
+      ]
+    },
+    {
+      "code": "80",
+      "name": "Red Jewel",
+      "make": "Cadillac",
+      "model": "Cadillac",
+      "year_from": 2007,
+      "year_to": 2012,
+      "chipUrl": "https://www.paintref.com/chipimages/3D5X5H.png",
+      "chipHash": "5182f5794e1a5a2c",
+      "ditzler": "908589",
+      "models": [
+        "CTS",
+        "Cadillac",
+        "Escalade",
+        "SRX",
+        "STS",
+        "XLR"
+      ]
+    },
+    {
+      "code": "08",
+      "name": "Mary Kay Pink",
+      "make": "Cadillac",
+      "model": "Cadillac",
+      "year_from": 2008,
+      "year_to": 2016,
+      "chipUrl": "https://www.paintref.com/chipimages/4DAAU2.png",
+      "chipHash": "01f447138b9d0bae",
+      "ditzler": "917981",
+      "models": [
+        "CTS",
+        "Cadillac",
+        "DTS",
+        "SRX",
+        "STS"
+      ]
+    },
+    {
+      "code": "11",
+      "name": "Goldstream",
+      "make": "Cadillac",
+      "model": "Cadillac",
+      "year_from": 2008,
+      "year_to": 2008,
+      "chipUrl": "https://www.paintref.com/chipimages/AATHE4.png",
+      "chipHash": "849292fabb3e8938",
+      "ditzler": "917975",
+      "models": [
+        "Cadillac",
+        "XLR"
+      ]
+    },
+    {
+      "code": "12",
+      "name": "Black Cherry",
+      "make": "Cadillac",
+      "model": "Cadillac",
+      "year_from": 2008,
+      "year_to": 2009,
+      "chipUrl": "https://www.paintref.com/chipimages/5CXF5D.png",
+      "chipHash": "e18c7f4a40e53db1",
+      "ditzler": "917965",
+      "models": [
+        "CTS",
+        "Cadillac",
+        "DTS",
+        "Escalade",
+        "SRX",
+        "STS",
+        "XLR"
+      ]
+    },
+    {
+      "code": "30",
+      "name": "Thunder Gray",
+      "make": "Cadillac",
+      "model": "Cadillac",
+      "year_from": 2008,
+      "year_to": 2013,
+      "chipUrl": "https://www.paintref.com/chipimages/WDW5W3.png",
+      "chipHash": "326733e7033f19ed",
+      "ditzler": "912803",
+      "models": [
+        "ATS",
+        "CTS",
+        "Cadillac",
+        "SRX",
+        "STS"
+      ]
+    },
+    {
+      "code": "41",
+      "name": "Raven Black",
+      "make": "Cadillac",
+      "model": "Cadillac",
+      "year_from": 2008,
+      "year_to": 2010,
+      "chipUrl": "https://www.paintref.com/chipimages/GGGGGG.png",
+      "chipHash": "1f437854e2d31a87",
+      "ditzler": "4337",
+      "models": [
+        "CTS",
+        "Cadillac",
+        "DTS",
+        "Escalade",
+        "SRX",
+        "STS",
+        "XLR"
+      ]
+    },
+    {
+      "code": "54",
+      "name": "Cognac Frost",
+      "make": "Cadillac",
+      "model": "Cadillac",
+      "year_from": 2008,
+      "year_to": 2008,
+      "chipUrl": "https://www.paintref.com/chipimages/U2H3TX.png",
+      "chipHash": "fdebe279684359ab",
+      "ditzler": "915634",
+      "models": [
+        "Cadillac",
+        "DTS",
+        "STS"
+      ]
+    },
+    {
+      "code": "56",
+      "name": "Hot Lava Orange",
+      "make": "Cadillac",
+      "model": "Cadillac",
+      "year_from": 2008,
+      "year_to": 2008,
+      "chipUrl": "https://www.paintref.com/chipimages/UGS552.png",
+      "chipHash": "c15e24fa9d9e8e2f",
+      "ditzler": "6218",
+      "models": [
+        "CTS",
+        "Cadillac"
+      ]
+    },
+    {
+      "code": "59",
+      "name": "Quicksilver",
+      "make": "Cadillac",
+      "model": "Cadillac",
+      "year_from": 2008,
+      "year_to": 2008,
+      "chipUrl": "https://www.paintref.com/chipimages/AWA5HX.png",
+      "chipHash": "898a31838d3c9015",
+      "ditzler": "6235",
+      "models": [
+        "Cadillac",
+        "Escalade"
+      ]
+    },
+    {
+      "code": "66",
+      "name": "Sonoma Jewel",
+      "make": "Cadillac",
+      "model": "Cadillac",
+      "year_from": 2008,
+      "year_to": 2009,
+      "chipUrl": "https://www.paintref.com/chipimages/SHX5XH.png",
+      "chipHash": "533e06d39e68f53f",
+      "ditzler": "912800",
+      "models": [
+        "Cadillac",
+        "Escalade"
+      ]
+    },
+    {
+      "code": "76",
+      "name": "Double Espresso",
+      "make": "Cadillac",
+      "model": "Cadillac",
+      "year_from": 2008,
+      "year_to": 2008,
+      "chipUrl": "https://www.paintref.com/chipimages/WSFTF5.png",
+      "chipHash": "2aa822be9638f23b",
+      "ditzler": "917966",
+      "models": [
+        "Cadillac",
+        "DTS"
+      ]
+    },
+    {
+      "code": "78",
+      "name": "Sunset Blue",
+      "make": "Cadillac",
+      "model": "Cadillac",
+      "year_from": 2008,
+      "year_to": 2008,
+      "chipUrl": "https://www.paintref.com/chipimages/23333U.png",
+      "chipHash": "9f8ebb5940eb3623",
+      "ditzler": "912616",
+      "models": [
+        "CTS",
+        "Cadillac",
+        "SRX",
+        "STS"
+      ]
+    },
+    {
+      "code": "85",
+      "name": "Elektra Blue",
+      "make": "Cadillac",
+      "model": "Cadillac",
+      "year_from": 2008,
+      "year_to": 2008,
+      "chipUrl": "https://www.paintref.com/chipimages/DTSUC5.png",
+      "chipHash": "eb7e11d62dd82a3e",
+      "ditzler": "917976",
+      "models": [
+        "Cadillac",
+        "XLR"
+      ]
+    },
+    {
+      "code": "89",
+      "name": "Crystal Red",
+      "make": "Cadillac",
+      "model": "Cadillac",
+      "year_from": 2008,
+      "year_to": 2012,
+      "chipUrl": "https://www.paintref.com/chipimages/25X455.png",
+      "chipHash": "f0a4fdea7a5ccc8f",
+      "ditzler": "915635",
+      "models": [
+        "CTS",
+        "Cadillac",
+        "DTS",
+        "Escalade",
+        "SRX",
+        "STS",
+        "XLR"
+      ]
+    },
+    {
+      "code": "96",
+      "name": "Blue Diamond",
+      "make": "Cadillac",
+      "model": "Cadillac",
+      "year_from": 2008,
+      "year_to": 2009,
+      "chipUrl": "https://www.paintref.com/chipimages/FGFDFH.png",
+      "chipHash": "8609b405f1e094f4",
+      "ditzler": "917980",
+      "models": [
+        "CTS",
+        "Cadillac",
+        "DTS",
+        "SRX",
+        "STS"
+      ]
+    },
+    {
+      "code": "GAR",
+      "name": "Black Ice",
+      "make": "Cadillac",
+      "model": "Cadillac",
+      "year_from": 2008,
+      "year_to": 2014,
+      "chipUrl": "https://www.paintref.com/chipimages/DDDDDD.png",
+      "chipHash": "f30b7dff25d749a8",
+      "ditzler": "917964",
+      "models": [
+        "CTS",
+        "Cadillac",
+        "DTS",
+        "Escalade",
+        "SRX",
+        "STS"
+      ]
+    },
+    {
+      "code": "17",
+      "name": "Radiant Silver",
+      "make": "Cadillac",
+      "model": "Cadillac",
+      "year_from": 2009,
+      "year_to": 2013,
+      "chipUrl": "https://www.paintref.com/chipimages/AFA34X.png",
+      "chipHash": "45bac73a248a3392",
+      "ditzler": "919991",
+      "models": [
+        "ATS",
+        "CTS",
+        "Cadillac",
+        "DTS",
+        "Escalade",
+        "SRX",
+        "STS",
+        "XLR",
+        "XTS"
+      ]
+    },
+    {
+      "code": "25",
+      "name": "Ocean Pearl",
+      "make": "Cadillac",
+      "model": "Cadillac",
+      "year_from": 2009,
+      "year_to": 2010,
+      "chipUrl": "https://www.paintref.com/chipimages/XS53D2.png",
+      "chipHash": "dd066036dce3efff",
+      "ditzler": "5833",
+      "models": [
+        "Cadillac",
+        "DTS",
+        "Escalade"
+      ]
+    },
+    {
+      "code": "57",
+      "name": "Gray Flannel",
+      "make": "Cadillac",
+      "model": "Cadillac",
+      "year_from": 2009,
+      "year_to": 2011,
+      "chipUrl": "https://www.paintref.com/chipimages/SHST2E.png",
+      "chipHash": "31471c59b376bcc9",
+      "ditzler": "920131",
+      "models": [
+        "Cadillac",
+        "DTS",
+        "SRX",
+        "XLR"
+      ]
+    },
+    {
+      "code": "76",
+      "name": "Mocha Bronze",
+      "make": "Cadillac",
+      "model": "Cadillac",
+      "year_from": 2009,
+      "year_to": 2009,
+      "chipUrl": "https://www.paintref.com/chipimages/WSFTF5.png",
+      "chipHash": "2aa822be9638f23b",
+      "ditzler": "917966",
+      "models": [
+        "Cadillac",
+        "DTS"
+      ]
+    },
+    {
+      "code": "91",
+      "name": "Pearl Frost",
+      "make": "Cadillac",
+      "model": "Cadillac",
+      "year_from": 2009,
+      "year_to": 2010,
+      "chipUrl": "https://www.paintref.com/chipimages/4C4S4S.png",
+      "chipHash": "fbacfefe263d53cd",
+      "ditzler": "921093",
+      "models": [
+        "Cadillac",
+        "DTS"
+      ]
+    },
+    {
+      "code": "40",
+      "name": "Cotillion White",
+      "make": "Cadillac",
+      "model": "Cadillac",
+      "year_from": 2010,
+      "year_to": 2011,
+      "chipUrl": "https://www.paintref.com/chipimages/4C4SUS.png",
+      "chipHash": "46c683920093b8d3",
+      "ditzler": "4318",
+      "models": [
+        "Cadillac",
+        "DTS"
+      ]
+    },
+    {
+      "code": "97",
+      "name": "Vanilla Latte",
+      "make": "Cadillac",
+      "model": "Cadillac",
+      "year_from": 2010,
+      "year_to": 2011,
+      "chipUrl": "https://www.paintref.com/chipimages/AGHHTF.png",
+      "chipHash": "845d05d522f31bac",
+      "ditzler": "920808",
+      "models": [
+        "CTS",
+        "Cadillac",
+        "DTS",
+        "STS"
+      ]
+    },
+    {
+      "code": "G7Z",
+      "name": "Celestial Blue",
+      "make": "Cadillac",
+      "model": "Cadillac",
+      "year_from": 2010,
+      "year_to": 2010,
+      "chipUrl": "https://www.paintref.com/chipimages/X4FG2D.png",
+      "chipHash": "73ff97c3d26a4379",
+      "ditzler": "906256",
+      "models": [
+        "Cadillac",
+        "Escalade"
+      ]
+    },
+    {
+      "code": "GAP",
+      "name": "Imperial Blue",
+      "make": "Cadillac",
+      "model": "Cadillac",
+      "year_from": 2010,
+      "year_to": 2011,
+      "chipUrl": "https://www.paintref.com/chipimages/XE55D4.png",
+      "chipHash": "f943356067eff1bb",
+      "ditzler": "912617",
+      "models": [
+        "Cadillac",
+        "SRX"
+      ]
+    },
+    {
+      "code": "GBD",
+      "name": "Caribbean Blue",
+      "make": "Cadillac",
+      "model": "Cadillac",
+      "year_from": 2010,
+      "year_to": 2010,
+      "chipUrl": "https://www.paintref.com/chipimages/XTWH24.png",
+      "chipHash": "fc710728e4e3895e",
+      "ditzler": "920345",
+      "models": [
+        "Cadillac",
+        "SRX"
+      ]
+    },
+    {
+      "code": "GBO",
+      "name": "Blue Diamond",
+      "make": "Cadillac",
+      "model": "Cadillac",
+      "year_from": 2010,
+      "year_to": 2010,
+      "chipUrl": "https://www.paintref.com/chipimages/FGFDFH.png",
+      "chipHash": "8609b405f1e094f4",
+      "ditzler": "917980",
+      "models": [
+        "CTS",
+        "Cadillac",
+        "STS"
+      ]
+    },
+    {
+      "code": "GBR",
+      "name": "Platinum Ice",
+      "make": "Cadillac",
+      "model": "Cadillac",
+      "year_from": 2010,
+      "year_to": 2016,
+      "chipUrl": "https://www.paintref.com/chipimages/4GUAUT.png",
+      "chipHash": "df0bbb9d966caa71",
+      "ditzler": "918605",
+      "models": [
+        "Cadillac",
+        "SRX"
+      ]
+    },
+    {
+      "code": "GGU",
+      "name": "Evolution Green",
+      "make": "Cadillac",
+      "model": "Cadillac",
+      "year_from": 2010,
+      "year_to": 2013,
+      "chipUrl": "https://www.paintref.com/chipimages/WCWCWD.png",
+      "chipHash": "be2d10fd448e090a",
+      "ditzler": "923420",
+      "models": [
+        "CTS",
+        "Cadillac",
+        "DTS",
+        "SRX",
+        "STS"
+      ]
+    },
+    {
+      "code": "GGW",
+      "name": "Galaxy Gray",
+      "make": "Cadillac",
+      "model": "Cadillac",
+      "year_from": 2010,
+      "year_to": 2011,
+      "chipUrl": "https://www.paintref.com/chipimages/DX5UDX.png",
+      "chipHash": "d13bd1de48fe8725",
+      "ditzler": "923677",
+      "models": [
+        "CTS",
+        "Cadillac",
+        "Escalade",
+        "STS"
+      ]
+    },
+    {
+      "code": "GGX",
+      "name": "Tuscan Bronze",
+      "make": "Cadillac",
+      "model": "Cadillac",
+      "year_from": 2010,
+      "year_to": 2011,
+      "chipUrl": "https://www.paintref.com/chipimages/2SSUSG.png",
+      "chipHash": "067eb47a58545151",
+      "ditzler": "923419",
+      "models": [
+        "CTS",
+        "Cadillac",
+        "DTS",
+        "STS"
+      ]
+    },
+    {
+      "code": "GGZ",
+      "name": "Silver Lining",
+      "make": "Cadillac",
+      "model": "Cadillac",
+      "year_from": 2010,
+      "year_to": 2011,
+      "chipUrl": "https://www.paintref.com/chipimages/U3UCUE.png",
+      "chipHash": "8f856c3a41791689",
+      "ditzler": "923421",
+      "models": [
+        "Cadillac",
+        "Escalade"
+      ]
+    },
+    {
+      "code": "GIP",
+      "name": "Black Cherry",
+      "make": "Cadillac",
+      "model": "Cadillac",
+      "year_from": 2010,
+      "year_to": 2010,
+      "chipUrl": "https://www.paintref.com/chipimages/5CXF5D.png",
+      "chipHash": "e18c7f4a40e53db1",
+      "ditzler": "917965",
+      "models": [
+        "CTS",
+        "Cadillac",
+        "DTS",
+        "STS",
+        "XLR"
+      ]
+    },
+    {
+      "code": "GLH",
+      "name": "Thunder Gray",
+      "make": "Cadillac",
+      "model": "Cadillac",
+      "year_from": 2010,
+      "year_to": 2011,
+      "chipUrl": "https://www.paintref.com/chipimages/WDW5W3.png",
+      "chipHash": "326733e7033f19ed",
+      "ditzler": "912803",
+      "models": [
+        "CTS",
+        "Cadillac",
+        "STS"
+      ]
+    },
+    {
+      "code": "GHA",
+      "name": "Mocha Steel",
+      "make": "Cadillac",
+      "model": "Cadillac",
+      "year_from": 2011,
+      "year_to": 2014,
+      "chipUrl": "https://www.paintref.com/chipimages/3T352T.png",
+      "chipHash": "9af123840a140ce1",
+      "ditzler": "924221",
+      "models": [
+        "CTS",
+        "Cadillac",
+        "Escalade",
+        "SRX"
+      ]
+    },
+    {
+      "code": "GLF",
+      "name": "Blue Frost",
+      "make": "Cadillac",
+      "model": "Cadillac",
+      "year_from": 2011,
+      "year_to": 2011,
+      "chipUrl": "https://www.paintref.com/chipimages/C2T3H5.png",
+      "chipHash": "44bea28db761d357",
+      "ditzler": "926747",
+      "models": [
+        "Cadillac",
+        "Escalade",
+        "SRX"
+      ]
+    },
+    {
+      "code": "46",
+      "name": "Gray Flannel",
+      "make": "Cadillac",
+      "model": "Cadillac",
+      "year_from": 2012,
+      "year_to": 2013,
+      "chipUrl": "https://www.paintref.com/chipimages/253AC2.png",
+      "chipHash": "b80f6df605d5c29b",
+      "ditzler": "6220",
+      "models": [
+        "Cadillac",
+        "Escalade",
+        "SRX"
+      ]
+    },
+    {
+      "code": "GLK",
+      "name": "Black Diamond",
+      "make": "Cadillac",
+      "model": "Cadillac",
+      "year_from": 2012,
+      "year_to": 2024,
+      "chipUrl": "https://www.paintref.com/chipimages/GGGGGG.png",
+      "chipHash": "1f437854e2d31a87",
+      "ditzler": "929795",
+      "models": [
+        "ATS",
+        "CT4",
+        "CT5",
+        "CTS",
+        "Cadillac",
+        "Escalade",
+        "XTS"
+      ]
+    },
+    {
+      "code": "GTR",
+      "name": "Opulent Blue",
+      "make": "Cadillac",
+      "model": "Cadillac",
+      "year_from": 2012,
+      "year_to": 2026,
+      "chipUrl": "https://www.paintref.com/chipimages/XFDC24.png",
+      "chipHash": "5ea1bb90e2a7439b",
+      "ditzler": "931166",
+      "models": [
+        "ATS",
+        "CTS",
+        "Cadillac",
+        "LYRIQ",
+        "VISTIQ",
+        "XT5",
+        "XT6"
+      ]
+    },
+    {
+      "code": "16",
+      "name": "Graystone",
+      "make": "Cadillac",
+      "model": "Cadillac",
+      "year_from": 2012,
+      "year_to": 2012,
+      "chipUrl": "https://www.paintref.com/chipimages/C3CWCG.png",
+      "chipHash": "c3fbff761a4c375e",
+      "ditzler": "906254",
+      "models": [
+        "Cadillac",
+        "Escalade"
+      ]
+    },
+    {
+      "code": "57",
+      "name": "Cyber Gray",
+      "make": "Cadillac",
+      "model": "Cadillac",
+      "year_from": 2012,
+      "year_to": 2012,
+      "chipUrl": "https://www.paintref.com/chipimages/SHST2E.png",
+      "chipHash": "31471c59b376bcc9",
+      "ditzler": "920131",
+      "models": [
+        "Cadillac",
+        "SRX"
+      ]
+    },
+    {
+      "code": "62",
+      "name": "Dark Labyrinth",
+      "make": "Cadillac",
+      "model": "Cadillac",
+      "year_from": 2012,
+      "year_to": 2012,
+      "chipUrl": "https://www.paintref.com/chipimages/DX5UDX.png",
+      "chipHash": "d13bd1de48fe8725",
+      "ditzler": "923677",
+      "models": [
+        "Cadillac",
+        "Escalade"
+      ]
+    },
+    {
+      "code": "94",
+      "name": "Platinum Ice",
+      "make": "Cadillac",
+      "model": "Cadillac",
+      "year_from": 2012,
+      "year_to": 2015,
+      "chipUrl": "https://www.paintref.com/chipimages/4GUAUT.png",
+      "chipHash": "df0bbb9d966caa71",
+      "ditzler": "918605",
+      "models": [
+        "Cadillac",
+        "SRX"
+      ]
+    },
+    {
+      "code": "97",
+      "name": "Tiara Tan",
+      "make": "Cadillac",
+      "model": "Cadillac",
+      "year_from": 2012,
+      "year_to": 2012,
+      "chipUrl": "https://www.paintref.com/chipimages/AGHHTF.png",
+      "chipHash": "845d05d522f31bac",
+      "ditzler": "920808",
+      "models": [
+        "CTS",
+        "Cadillac"
+      ]
+    },
+    {
+      "code": "33",
+      "name": "Evolution Green",
+      "make": "Cadillac",
+      "model": "Cadillac",
+      "year_from": 2012,
+      "year_to": 2012,
+      "chipUrl": "https://www.paintref.com/chipimages/WCWCWD.png",
+      "chipHash": "be2d10fd448e090a",
+      "ditzler": "923420",
+      "models": [
+        "CTS",
+        "Cadillac",
+        "SRX"
+      ]
+    },
+    {
+      "code": "GWS",
+      "name": "Glacier Blue",
+      "make": "Cadillac",
+      "model": "ATS",
+      "year_from": 2013,
+      "year_to": 2013,
+      "chipUrl": "https://www.paintref.com/chipimages/CFTDT4.png",
+      "chipHash": "682b3707175beb60",
+      "ditzler": "933441",
+      "models": [
+        "ATS",
+        "Cadillac",
+        "SRX"
+      ]
+    },
+    {
+      "code": "GWT",
+      "name": "Silver Coast",
+      "make": "Cadillac",
+      "model": "ATS",
+      "year_from": 2013,
+      "year_to": 2017,
+      "chipUrl": "https://www.paintref.com/chipimages/AWH4T4.png",
+      "chipHash": "af1b71eacce6041a",
+      "ditzler": "932807",
+      "models": [
+        "ATS",
+        "CTS",
+        "Cadillac",
+        "Escalade",
+        "SRX",
+        "XT5",
+        "XTS"
+      ]
+    },
+    {
+      "code": "GWV",
+      "name": "Summer Gold",
+      "make": "Cadillac",
+      "model": "ATS",
+      "year_from": 2013,
+      "year_to": 2013,
+      "chipUrl": "https://www.paintref.com/chipimages/TTCXWC.png",
+      "chipHash": "cc552cd307b2c154",
+      "ditzler": "933440",
+      "models": [
+        "ATS",
+        "Cadillac"
+      ]
+    },
+    {
+      "code": "GLJ",
+      "name": "Graphite",
+      "make": "Cadillac",
+      "model": "Cadillac",
+      "year_from": 2013,
+      "year_to": 2016,
+      "chipUrl": "https://www.paintref.com/chipimages/FDFDFD.png",
+      "chipHash": "d1b392c0105a8fd3",
+      "ditzler": "931165",
+      "models": [
+        "CT6",
+        "Cadillac",
+        "ELR",
+        "SRX",
+        "XTS"
+      ]
+    },
+    {
+      "code": "GTR",
+      "name": "Xenon Blue",
+      "make": "Cadillac",
+      "model": "Cadillac",
+      "year_from": 2013,
+      "year_to": 2013,
+      "chipUrl": "https://www.paintref.com/chipimages/XFDC24.png",
+      "chipHash": "5ea1bb90e2a7439b",
+      "ditzler": "931166",
+      "models": [
+        "Cadillac",
+        "SRX"
+      ]
+    },
+    {
+      "code": "GXH",
+      "name": "Sapphire Blue",
+      "make": "Cadillac",
+      "model": "Cadillac",
+      "year_from": 2013,
+      "year_to": 2016,
+      "chipUrl": "https://www.paintref.com/chipimages/5A5AWE.png",
+      "chipHash": "95546e90a906a669",
+      "ditzler": "933593",
+      "models": [
+        "Cadillac",
+        "Escalade",
+        "SRX",
+        "XTS"
+      ]
+    },
+    {
+      "code": "G7E",
+      "name": "Red Obsession",
+      "make": "Cadillac",
+      "model": "ATS",
+      "year_from": 2014,
+      "year_to": 2020,
+      "chipUrl": "https://www.paintref.com/chipimages/SEXXXE.png",
+      "chipHash": "90f7baae00dab1e9",
+      "ditzler": "935785",
+      "models": [
+        "ATS",
+        "CT4",
+        "CT5",
+        "CTS",
+        "Cadillac"
+      ]
+    },
+    {
+      "code": "G7Q",
+      "name": "Gray",
+      "make": "Cadillac",
+      "model": "ATS",
+      "year_from": 2014,
+      "year_to": 2014,
+      "chipUrl": "https://www.paintref.com/chipimages/W3W3W3.png",
+      "chipHash": "712c7833968031a6",
+      "ditzler": "935784",
+      "models": [
+        "ATS",
+        "CTS",
+        "Cadillac"
+      ]
+    },
+    {
+      "code": "G7T",
+      "name": "Baroque Red",
+      "make": "Cadillac",
+      "model": "ATS",
+      "year_from": 2014,
+      "year_to": 2014,
+      "chipUrl": "https://www.paintref.com/chipimages/SCXFXT.png",
+      "chipHash": "1beb9379232cff45",
+      "ditzler": "935200",
+      "models": [
+        "ATS",
+        "CTS",
+        "Cadillac"
+      ]
+    },
+    {
+      "code": "G7U",
+      "name": "Midnight Plum",
+      "make": "Cadillac",
+      "model": "ATS",
+      "year_from": 2014,
+      "year_to": 2014,
+      "chipUrl": "https://www.paintref.com/chipimages/FCDCFF.png",
+      "chipHash": "cadfac8e2c38aebd",
+      "ditzler": "934440",
+      "models": [
+        "ATS",
+        "Cadillac",
+        "Escalade"
+      ]
+    },
+    {
+      "code": "GAN",
+      "name": "Radiant Silver",
+      "make": "Cadillac",
+      "model": "ATS",
+      "year_from": 2014,
+      "year_to": 2022,
+      "chipUrl": "https://www.paintref.com/chipimages/AFA34X.png",
+      "chipHash": "45bac73a248a3392",
+      "ditzler": "919991",
+      "models": [
+        "ATS",
+        "CT6",
+        "CTS",
+        "Cadillac",
+        "ELR",
+        "Escalade",
+        "SRX",
+        "XT4",
+        "XT5",
+        "XT6",
+        "XTS"
+      ]
+    },
+    {
+      "code": "GBA",
+      "name": "Black Raven",
+      "make": "Cadillac",
+      "model": "ATS",
+      "year_from": 2014,
+      "year_to": 2026,
+      "chipUrl": "https://www.paintref.com/chipimages/GGGGGG.png",
+      "chipHash": "1f437854e2d31a87",
+      "ditzler": "4337",
+      "models": [
+        "ATS",
+        "CT4",
+        "CT5",
+        "CT6",
+        "CTS",
+        "Cadillac",
+        "ELR",
+        "Escalade",
+        "OPTIQ",
+        "SRX",
+        "XTS"
+      ]
+    },
+    {
+      "code": "GBN",
+      "name": "White Diamond",
+      "make": "Cadillac",
+      "model": "ATS",
+      "year_from": 2014,
+      "year_to": 2015,
+      "chipUrl": "https://www.paintref.com/chipimages/4U4UUE.png",
+      "chipHash": "4a5b0443f6c6966d",
+      "ditzler": "5852",
+      "models": [
+        "ATS",
+        "CTS",
+        "Cadillac",
+        "Escalade",
+        "XTS"
+      ]
+    },
+    {
+      "code": "GKP",
+      "name": "Mary Kay Pink",
+      "make": "Cadillac",
+      "model": "ATS",
+      "year_from": 2014,
+      "year_to": 2020,
+      "chipUrl": "https://www.paintref.com/chipimages/4DAAU2.png",
+      "chipHash": "01f447138b9d0bae",
+      "ditzler": "917981",
+      "models": [
+        "ATS",
+        "CTS",
+        "Cadillac",
+        "SRX",
+        "XT5",
+        "XTS"
+      ]
+    },
+    {
+      "code": "GWS",
+      "name": "Silver Topaz",
+      "make": "Cadillac",
+      "model": "ATS",
+      "year_from": 2014,
+      "year_to": 2014,
+      "chipUrl": "https://www.paintref.com/chipimages/CFTDT4.png",
+      "chipHash": "682b3707175beb60",
+      "ditzler": "933441",
+      "models": [
+        "ATS",
+        "Cadillac",
+        "SRX"
+      ]
+    },
+    {
+      "code": "G7Q",
+      "name": "Phantom Gray",
+      "make": "Cadillac",
+      "model": "Cadillac",
+      "year_from": 2014,
+      "year_to": 2019,
+      "chipUrl": "https://www.paintref.com/chipimages/D5D2DE.png",
+      "chipHash": "770d6b10520badf4",
+      "ditzler": "935784",
+      "models": [
+        "ATS",
+        "CT6",
+        "CTS",
+        "Cadillac",
+        "XTS"
+      ]
+    },
+    {
+      "code": "G7U",
+      "name": "Majestic Plum",
+      "make": "Cadillac",
+      "model": "Cadillac",
+      "year_from": 2014,
+      "year_to": 2017,
+      "chipUrl": "https://www.paintref.com/chipimages/FCDCFF.png",
+      "chipHash": "cadfac8e2c38aebd",
+      "ditzler": "934440",
+      "models": [
+        "ATS",
+        "CTS",
+        "Cadillac",
+        "Escalade",
+        "SRX"
+      ]
+    },
+    {
+      "code": "GAZ",
+      "name": "Summit White",
+      "make": "Cadillac",
+      "model": "Cadillac",
+      "year_from": 2014,
+      "year_to": 2026,
+      "chipUrl": "https://www.paintref.com/chipimages/4D45UH.png",
+      "chipHash": "34e9268ebabfd5bc",
+      "ditzler": "6260",
+      "models": [
+        "CT4",
+        "CT5",
+        "Cadillac",
+        "XTS"
+      ]
+    },
+    {
+      "code": "GBE",
+      "name": "Crystal Red",
+      "make": "Cadillac",
+      "model": "Cadillac",
+      "year_from": 2014,
+      "year_to": 2016,
+      "chipUrl": "https://www.paintref.com/chipimages/25X455.png",
+      "chipHash": "f0a4fdea7a5ccc8f",
+      "ditzler": "915635",
+      "models": [
+        "Cadillac",
+        "ELR",
+        "Escalade",
+        "SRX",
+        "XTS"
+      ]
+    },
+    {
+      "code": "GWU",
+      "name": "Concord",
+      "make": "Cadillac",
+      "model": "Cadillac",
+      "year_from": 2014,
+      "year_to": 2014,
+      "chipUrl": "https://www.paintref.com/chipimages/XDXXF4.png",
+      "chipHash": "7e1aa5526b941c84",
+      "ditzler": "933594",
+      "models": [
+        "Cadillac",
+        "Escalade"
+      ]
+    },
+    {
+      "code": "GWX",
+      "name": "Subterranean",
+      "make": "Cadillac",
+      "model": "Cadillac",
+      "year_from": 2014,
+      "year_to": 2014,
+      "chipUrl": "https://www.paintref.com/chipimages/E5CE3C.png",
+      "chipHash": "49adda31c77992f7",
+      "ditzler": "932926",
+      "models": [
+        "Cadillac",
+        "SRX"
+      ]
+    },
+    {
+      "code": "G1M",
+      "name": "Dark Adriatic Blue",
+      "make": "Cadillac",
+      "model": "ATS",
+      "year_from": 2015,
+      "year_to": 2020,
+      "chipUrl": "https://www.paintref.com/chipimages/5C5HDH.png",
+      "chipHash": "bcd375a65542cf6a",
+      "ditzler": "934972",
+      "models": [
+        "ATS",
+        "CT6",
+        "CTS",
+        "Cadillac",
+        "Escalade",
+        "XTS"
+      ]
+    },
+    {
+      "code": "G1W",
+      "name": "Crystal White",
+      "make": "Cadillac",
+      "model": "ATS",
+      "year_from": 2015,
+      "year_to": 2026,
+      "chipUrl": "https://www.paintref.com/chipimages/HCH4AD.png",
+      "chipHash": "e04aca41ed4ebaca",
+      "ditzler": "934973",
+      "models": [
+        "ATS",
+        "CT4",
+        "CT5",
+        "CT6",
+        "CTS",
+        "Cadillac",
+        "ELR",
+        "Escalade",
+        "LYRIQ",
+        "OPTIQ",
+        "XT4",
+        "XT5",
+        "XT6",
+        "XTS"
+      ]
+    },
+    {
+      "code": "GBA",
+      "name": "Black Ravin",
+      "make": "Cadillac",
+      "model": "ATS",
+      "year_from": 2015,
+      "year_to": 2015,
+      "chipUrl": "https://www.paintref.com/chipimages/GGGGGG.png",
+      "chipHash": "1f437854e2d31a87",
+      "ditzler": "4337",
+      "models": [
+        "ATS",
+        "CTS",
+        "Cadillac",
+        "Escalade",
+        "SRX",
+        "XTS"
+      ]
+    },
+    {
+      "code": "G1F",
+      "name": "Cocoa Bronze",
+      "make": "Cadillac",
+      "model": "Cadillac",
+      "year_from": 2015,
+      "year_to": 2018,
+      "chipUrl": "https://www.paintref.com/chipimages/FUDEDH.png",
+      "chipHash": "f96cb9d9ada5fbf4",
+      "ditzler": "938121",
+      "models": [
+        "ATS",
+        "CT6",
+        "CTS",
+        "Cadillac",
+        "SRX",
+        "XTS"
+      ]
+    },
+    {
+      "code": "GWX",
+      "name": "Terra Mocha",
+      "make": "Cadillac",
+      "model": "Cadillac",
+      "year_from": 2015,
+      "year_to": 2017,
+      "chipUrl": "https://www.paintref.com/chipimages/E5CE3C.png",
+      "chipHash": "49adda31c77992f7",
+      "ditzler": "932926",
+      "models": [
+        "Cadillac",
+        "Escalade",
+        "SRX"
+      ]
+    },
+    {
+      "code": "GXG",
+      "name": "Dark Granite",
+      "make": "Cadillac",
+      "model": "Cadillac",
+      "year_from": 2015,
+      "year_to": 2019,
+      "chipUrl": "https://www.paintref.com/chipimages/DCDDDC.png",
+      "chipHash": "351f12a24d199ae4",
+      "ditzler": "932808",
+      "models": [
+        "Cadillac",
+        "Escalade",
+        "XT5"
+      ]
+    },
+    {
+      "code": "18",
+      "name": "Mary Kay Pink",
+      "make": "Cadillac",
+      "model": "Cadillac",
+      "year_from": 2015,
+      "year_to": 2015,
+      "chipUrl": "https://www.paintref.com/chipimages/4DAAU2.png",
+      "chipHash": "01f447138b9d0bae",
+      "ditzler": "917981",
+      "models": [
+        "Cadillac",
+        "SRX",
+        "XTS"
+      ]
+    },
+    {
+      "code": "G7V",
+      "name": "Crystal White",
+      "make": "Cadillac",
+      "model": "ATS",
+      "year_from": 2016,
+      "year_to": 2016,
+      "chipUrl": "https://www.paintref.com/chipimages/ACA4UD.png",
+      "chipHash": "57958152237b0d22",
+      "ditzler": "941745",
+      "models": [
+        "ATS",
+        "CTS",
+        "Cadillac"
+      ]
+    },
+    {
+      "code": "GA6",
+      "name": "Moonstone",
+      "make": "Cadillac",
+      "model": "ATS",
+      "year_from": 2016,
+      "year_to": 2018,
+      "chipUrl": "https://www.paintref.com/chipimages/F5F3F2.png",
+      "chipHash": "e7ee68531e0eeecb",
+      "ditzler": "941626",
+      "models": [
+        "ATS",
+        "CT6",
+        "CTS",
+        "Cadillac"
+      ]
+    },
+    {
+      "code": "GB8",
+      "name": "Stellar Black",
+      "make": "Cadillac",
+      "model": "ATS",
+      "year_from": 2016,
+      "year_to": 2026,
+      "chipUrl": "https://www.paintref.com/chipimages/XGXGXG.png",
+      "chipHash": "759f72c6ff1da519",
+      "ditzler": "940222",
+      "models": [
+        "ATS",
+        "CT6",
+        "CTS",
+        "Cadillac",
+        "ELR",
+        "LYRIQ",
+        "VISTIQ",
+        "XT4",
+        "XT5",
+        "XT6",
+        "XTS"
+      ]
+    },
+    {
+      "code": "GD1",
+      "name": "Vector Blue",
+      "make": "Cadillac",
+      "model": "ATS",
+      "year_from": 2016,
+      "year_to": 2018,
+      "chipUrl": "https://www.paintref.com/chipimages/G4F4TT.png",
+      "chipHash": "e47e33c585708f92",
+      "ditzler": "940550",
+      "models": [
+        "ATS",
+        "CTS",
+        "Cadillac"
+      ]
+    },
+    {
+      "code": "G1C",
+      "name": "Gray SIlk",
+      "make": "Cadillac",
+      "model": "Cadillac",
+      "year_from": 2016,
+      "year_to": 2017,
+      "chipUrl": "https://www.paintref.com/chipimages/SS2W3U.png",
+      "chipHash": "20e0d33c1bb5639a",
+      "ditzler": "937372",
+      "models": [
+        "Cadillac",
+        "Escalade"
+      ]
+    },
+    {
+      "code": "G1E",
+      "name": "Red Passion",
+      "make": "Cadillac",
+      "model": "Cadillac",
+      "year_from": 2016,
+      "year_to": 2020,
+      "chipUrl": "https://www.paintref.com/chipimages/W2GHX2.png",
+      "chipHash": "c714cda58ccce7f2",
+      "ditzler": "934971",
+      "models": [
+        "CT6",
+        "Cadillac",
+        "ELR",
+        "Escalade",
+        "XT5",
+        "XTS"
+      ]
+    },
+    {
+      "code": "GC8",
+      "name": "Dark Emerald",
+      "make": "Cadillac",
+      "model": "Cadillac",
+      "year_from": 2016,
+      "year_to": 2017,
+      "chipUrl": "https://www.paintref.com/chipimages/52DSD5.png",
+      "chipHash": "ef90dde144ca3802",
+      "ditzler": "941903",
+      "models": [
+        "CT6",
+        "Cadillac",
+        "Escalade",
+        "XTS"
+      ]
+    },
+    {
+      "code": "G1M",
+      "name": "Dark Adriatic",
+      "make": "Cadillac",
+      "model": "ATS",
+      "year_from": 2017,
+      "year_to": 2017,
+      "chipUrl": "https://www.paintref.com/chipimages/5C5HDH.png",
+      "chipHash": "bcd375a65542cf6a",
+      "ditzler": "934972",
+      "models": [
+        "ATS",
+        "CT6",
+        "CTS",
+        "Cadillac",
+        "Escalade",
+        "XT5",
+        "XTS"
+      ]
+    },
+    {
+      "code": "G7C",
+      "name": "Velocity Red",
+      "make": "Cadillac",
+      "model": "ATS",
+      "year_from": 2017,
+      "year_to": 2021,
+      "chipUrl": "https://www.paintref.com/chipimages/ADGGGW.png",
+      "chipHash": "656d0fb3f8a3c2f0",
+      "ditzler": "935115",
+      "models": [
+        "ATS",
+        "CT4",
+        "CT5",
+        "Cadillac"
+      ]
+    },
+    {
+      "code": "GGA",
+      "name": "Deep Amethyst",
+      "make": "Cadillac",
+      "model": "ATS",
+      "year_from": 2017,
+      "year_to": 2018,
+      "chipUrl": "https://www.paintref.com/chipimages/DT5S53.png",
+      "chipHash": "7890172c5a7c8899",
+      "ditzler": "945524",
+      "models": [
+        "ATS",
+        "CT6",
+        "CTS",
+        "Cadillac",
+        "Escalade",
+        "XT5",
+        "XTS"
+      ]
+    },
+    {
+      "code": "GGB",
+      "name": "Silver Moonlight",
+      "make": "Cadillac",
+      "model": "ATS",
+      "year_from": 2017,
+      "year_to": 2018,
+      "chipUrl": "https://www.paintref.com/chipimages/TEASU3.png",
+      "chipHash": "c2332af31d7c3f9c",
+      "ditzler": "945024",
+      "models": [
+        "ATS",
+        "CTS",
+        "Cadillac",
+        "XT5",
+        "XTS"
+      ]
+    },
+    {
+      "code": "GMU",
+      "name": "Bronze Dune",
+      "make": "Cadillac",
+      "model": "ATS",
+      "year_from": 2017,
+      "year_to": 2019,
+      "chipUrl": "https://www.paintref.com/chipimages/WTWEW2.png",
+      "chipHash": "07acefedf8d11f24",
+      "ditzler": "945146",
+      "models": [
+        "ATS",
+        "CT6",
+        "CTS",
+        "Cadillac",
+        "Escalade",
+        "XT5",
+        "XTS"
+      ]
+    },
+    {
+      "code": "GE8",
+      "name": "Crystal White",
+      "make": "Cadillac",
+      "model": "Cadillac",
+      "year_from": 2017,
+      "year_to": 2018,
+      "chipUrl": "https://www.paintref.com/chipimages/HCH4AD.png",
+      "chipHash": "e04aca41ed4ebaca",
+      "ditzler": "",
+      "models": [
+        "CT6",
+        "Cadillac"
+      ]
+    },
+    {
+      "code": "GH9",
+      "name": "Bronze Dune",
+      "make": "Cadillac",
+      "model": "Cadillac",
+      "year_from": 2017,
+      "year_to": 2018,
+      "chipUrl": "https://www.paintref.com/chipimages/WTWEW2.png",
+      "chipHash": "07acefedf8d11f24",
+      "ditzler": "947452",
+      "models": [
+        "CT6",
+        "Cadillac"
+      ]
+    },
+    {
+      "code": "GJ3",
+      "name": "Deep Amethyst",
+      "make": "Cadillac",
+      "model": "Cadillac",
+      "year_from": 2017,
+      "year_to": 2018,
+      "chipUrl": "https://www.paintref.com/chipimages/DT5S53.png",
+      "chipHash": "7890172c5a7c8899",
+      "ditzler": "947467",
+      "models": [
+        "CT6",
+        "Cadillac"
+      ]
+    },
+    {
+      "code": "G91",
+      "name": "Midnight Sky",
+      "make": "Cadillac",
+      "model": "ATS",
+      "year_from": 2018,
+      "year_to": 2018,
+      "chipUrl": "https://www.paintref.com/chipimages/X4XTDS.png",
+      "chipHash": "1a0ec4a36deb9090",
+      "ditzler": "947651",
+      "models": [
+        "ATS",
+        "CT6",
+        "CTS",
+        "Cadillac",
+        "Escalade",
+        "XT5"
+      ]
+    },
+    {
+      "code": "G9K",
+      "name": "Satin Steel",
+      "make": "Cadillac",
+      "model": "ATS",
+      "year_from": 2018,
+      "year_to": 2023,
+      "chipUrl": "https://www.paintref.com/chipimages/C5C5C5.png",
+      "chipHash": "8dacedaa4c47050d",
+      "ditzler": "946660",
+      "models": [
+        "ATS",
+        "CT4",
+        "CT5",
+        "CT6",
+        "CTS",
+        "Cadillac",
+        "Escalade",
+        "LYRIQ",
+        "XT5",
+        "XT6"
+      ]
+    },
+    {
+      "code": "G35",
+      "name": "Harbor Blue",
+      "make": "Cadillac",
+      "model": "Cadillac",
+      "year_from": 2018,
+      "year_to": 2019,
+      "chipUrl": "https://www.paintref.com/chipimages/GDXSDF.png",
+      "chipHash": "d04c14bd035869cf",
+      "ditzler": "947666",
+      "models": [
+        "Cadillac",
+        "XT5"
+      ]
+    },
+    {
+      "code": "G9F",
+      "name": "Glacier",
+      "make": "Cadillac",
+      "model": "Cadillac",
+      "year_from": 2018,
+      "year_to": 2018,
+      "chipUrl": "https://www.paintref.com/chipimages/AGAGAG.png",
+      "chipHash": "fabc59b56f4f5182",
+      "ditzler": "947648",
+      "models": [
+        "CTS",
+        "Cadillac"
+      ]
+    },
+    {
+      "code": "GPA",
+      "name": "Stone Gray",
+      "make": "Cadillac",
+      "model": "Cadillac",
+      "year_from": 2018,
+      "year_to": 2019,
+      "chipUrl": "https://www.paintref.com/chipimages/535UDX.png",
+      "chipHash": "80b913c18a88ab9f",
+      "ditzler": "943295",
+      "models": [
+        "CT6",
+        "Cadillac",
+        "XTS"
+      ]
+    },
+    {
+      "code": "GPJ",
+      "name": "Red Horizon",
+      "make": "Cadillac",
+      "model": "Cadillac",
+      "year_from": 2018,
+      "year_to": 2020,
+      "chipUrl": "https://www.paintref.com/chipimages/2XX4X4.png",
+      "chipHash": "a80c3d756a750a29",
+      "ditzler": "943289",
+      "models": [
+        "CT6",
+        "Cadillac",
+        "XT4",
+        "XT5",
+        "XT6",
+        "XTS"
+      ]
+    },
+    {
+      "code": "GUI",
+      "name": "Zeus Bronze",
+      "make": "Cadillac",
+      "model": "ATS",
+      "year_from": 2019,
+      "year_to": 2019,
+      "chipUrl": "https://www.paintref.com/chipimages/SFWWFA.png",
+      "chipHash": "c31f51a18f08e312",
+      "ditzler": "949304",
+      "models": [
+        "ATS",
+        "Cadillac"
+      ]
+    },
+    {
+      "code": "GCI",
+      "name": "Manhattan Noir",
+      "make": "Cadillac",
+      "model": "Cadillac",
+      "year_from": 2019,
+      "year_to": 2020,
+      "chipUrl": "https://www.paintref.com/chipimages/F5FHWH.png",
+      "chipHash": "3ef2e96c12d306a6",
+      "ditzler": "947695",
+      "models": [
+        "CT6",
+        "Cadillac",
+        "XT5",
+        "XT6"
+      ]
+    },
+    {
+      "code": "GJI",
+      "name": "Shadow",
+      "make": "Cadillac",
+      "model": "Cadillac",
+      "year_from": 2019,
+      "year_to": 2022,
+      "chipUrl": "https://www.paintref.com/chipimages/FHFAW5.png",
+      "chipHash": "4b055e5793be0f02",
+      "ditzler": "951907",
+      "models": [
+        "CT4",
+        "CT5",
+        "CT6",
+        "Cadillac",
+        "Escalade",
+        "XT4",
+        "XT5",
+        "XT6"
+      ]
+    },
+    {
+      "code": "GS0",
+      "name": "Hudson",
+      "make": "Cadillac",
+      "model": "Cadillac",
+      "year_from": 2019,
+      "year_to": 2020,
+      "chipUrl": "https://www.paintref.com/chipimages/F5FHWH.png",
+      "chipHash": "3ef2e96c12d306a6",
+      "ditzler": "947695",
+      "models": [
+        "Cadillac"
+      ]
+    },
+    {
+      "code": "GS6",
+      "name": "Dark Mocha",
+      "make": "Cadillac",
+      "model": "Cadillac",
+      "year_from": 2019,
+      "year_to": 2021,
+      "chipUrl": "https://www.paintref.com/chipimages/WUWHWU.png",
+      "chipHash": "d9b7f4808cf65a98",
+      "ditzler": "949324",
+      "models": [
+        "Cadillac",
+        "Escalade",
+        "XT5",
+        "XT6"
+      ]
+    },
+    {
+      "code": "GA0",
+      "name": "Twilight Blue",
+      "make": "Cadillac",
+      "model": "Cadillac",
+      "year_from": 2020,
+      "year_to": 2022,
+      "chipUrl": "https://www.paintref.com/chipimages/GDDTWD.png",
+      "chipHash": "fc12ee5c78ed55db",
+      "ditzler": "948912",
+      "models": [
+        "Cadillac",
+        "XT4"
+      ]
+    },
+    {
+      "code": "GCG",
+      "name": "Silver Dusk",
+      "make": "Cadillac",
+      "model": "Cadillac",
+      "year_from": 2020,
+      "year_to": 2020,
+      "chipUrl": "https://www.paintref.com/chipimages/WUSFSF.png",
+      "chipHash": "8c73679b2acc7823",
+      "ditzler": "953232",
+      "models": [
+        "Cadillac",
+        "XT4"
+      ]
+    },
+    {
+      "code": "GJ0",
+      "name": "Evergreen",
+      "make": "Cadillac",
+      "model": "Cadillac",
+      "year_from": 2020,
+      "year_to": 2021,
+      "chipUrl": "https://www.paintref.com/chipimages/XHDG5W.png",
+      "chipHash": "52dc8caa0a968cde",
+      "ditzler": "953236",
+      "models": [
+        "CT4",
+        "CT5",
+        "Cadillac"
+      ]
+    },
+    {
+      "code": "GKK",
+      "name": "Wave",
+      "make": "Cadillac",
+      "model": "Cadillac",
+      "year_from": 2020,
+      "year_to": 2025,
+      "chipUrl": "https://www.paintref.com/chipimages/XX5XF4.png",
+      "chipHash": "b2947b506ee2d2f6",
+      "ditzler": "949285",
+      "models": [
+        "CT4",
+        "CT5",
+        "Cadillac",
+        "XT4"
+      ]
+    },
+    {
+      "code": "GLR",
+      "name": "Garnet",
+      "make": "Cadillac",
+      "model": "Cadillac",
+      "year_from": 2020,
+      "year_to": 2022,
+      "chipUrl": "https://www.paintref.com/chipimages/FGXAXA.png",
+      "chipHash": "56e3b6805aef31d3",
+      "ditzler": "953240",
+      "models": [
+        "CT4",
+        "CT5",
+        "CT6",
+        "Cadillac",
+        "XT4",
+        "XT5",
+        "XT6"
+      ]
+    },
+    {
+      "code": "GLU",
+      "name": "Dark Moon",
+      "make": "Cadillac",
+      "model": "Cadillac",
+      "year_from": 2020,
+      "year_to": 2021,
+      "chipUrl": "https://www.paintref.com/chipimages/X35FFF.png",
+      "chipHash": "4061ada1608904fd",
+      "ditzler": "953228",
+      "models": [
+        "CT4",
+        "CT5",
+        "Cadillac"
+      ]
+    },
+    {
+      "code": "GM6",
+      "name": "Autumn",
+      "make": "Cadillac",
+      "model": "Cadillac",
+      "year_from": 2020,
+      "year_to": 2021,
+      "chipUrl": "https://www.paintref.com/chipimages/CWDUGG.png",
+      "chipHash": "3d0b32f15614e414",
+      "ditzler": "949322",
+      "models": [
+        "Cadillac",
+        "XT4"
+      ]
+    },
+    {
+      "code": "G9G",
+      "name": "Diamond Sky",
+      "make": "Cadillac",
+      "model": "Cadillac",
+      "year_from": 2021,
+      "year_to": 2022,
+      "chipUrl": "https://www.paintref.com/chipimages/AGAGAG.png",
+      "chipHash": "fabc59b56f4f5182",
+      "ditzler": "947648",
+      "models": [
+        "CT4",
+        "CT5",
+        "Cadillac"
+      ]
+    },
+    {
+      "code": "GAV",
+      "name": "Chocolate",
+      "make": "Cadillac",
+      "model": "Cadillac",
+      "year_from": 2021,
+      "year_to": 2021,
+      "chipUrl": "https://www.paintref.com/chipimages/DS5253.png",
+      "chipHash": "10d7e7a56cb15ad9",
+      "ditzler": "953231",
+      "models": [
+        "Cadillac",
+        "Escalade"
+      ]
+    },
+    {
+      "code": "GJW",
+      "name": "Sandstone",
+      "make": "Cadillac",
+      "model": "Cadillac",
+      "year_from": 2021,
+      "year_to": 2024,
+      "chipUrl": "https://www.paintref.com/chipimages/HUHTTU.png",
+      "chipHash": "41406ff0b9434c43",
+      "ditzler": "",
+      "models": [
+        "Cadillac",
+        "Escalade"
+      ]
+    },
+    {
+      "code": "GLU",
+      "name": "Dark Blue Moon",
+      "make": "Cadillac",
+      "model": "Cadillac",
+      "year_from": 2021,
+      "year_to": 2022,
+      "chipUrl": "https://www.paintref.com/chipimages/X35FFF.png",
+      "chipHash": "4061ada1608904fd",
+      "ditzler": "953228",
+      "models": [
+        "CT4",
+        "Cadillac",
+        "XT5",
+        "XT6"
+      ]
+    },
+    {
+      "code": "GRW",
+      "name": "Rift",
+      "make": "Cadillac",
+      "model": "Cadillac",
+      "year_from": 2021,
+      "year_to": 2023,
+      "chipUrl": "https://www.paintref.com/chipimages/AFAFHA.png",
+      "chipHash": "9548ee79eb039288",
+      "ditzler": "",
+      "models": [
+        "CT4",
+        "CT5",
+        "Cadillac"
+      ]
+    },
+    {
+      "code": "GSK",
+      "name": "Infrared",
+      "make": "Cadillac",
+      "model": "Cadillac",
+      "year_from": 2021,
+      "year_to": 2022,
+      "chipUrl": "https://www.paintref.com/chipimages/T3545S.png",
+      "chipHash": "bd9df5cc612a3521",
+      "ditzler": "X",
+      "models": [
+        "CT4",
+        "CT5",
+        "Cadillac",
+        "Escalade",
+        "XT4",
+        "XT5",
+        "XT6"
+      ]
+    },
+    {
+      "code": "G9F",
+      "name": "Diamond Sky",
+      "make": "Cadillac",
+      "model": "CT5",
+      "year_from": 2021,
+      "year_to": 2021,
+      "chipUrl": "https://www.paintref.com/chipimages/AGAGAG.png",
+      "chipHash": "fabc59b56f4f5182",
+      "ditzler": "947648",
+      "models": [
+        "CT5"
+      ]
+    },
+    {
+      "code": "GLU",
+      "name": "Dark Moon Blue",
+      "make": "Cadillac",
+      "model": "Escalade",
+      "year_from": 2021,
+      "year_to": 2024,
+      "chipUrl": "https://www.paintref.com/chipimages/X35FFF.png",
+      "chipHash": "4061ada1608904fd",
+      "ditzler": "953228",
+      "models": [
+        "Cadillac",
+        "Escalade"
+      ]
+    },
+    {
+      "code": "G48",
+      "name": "Mahogany",
+      "make": "Cadillac",
+      "model": "Cadillac",
+      "year_from": 2022,
+      "year_to": 2023,
+      "chipUrl": "https://www.paintref.com/chipimages/DAXWXF.png",
+      "chipHash": "1c681ef86ed0a5d7",
+      "ditzler": "",
+      "models": [
+        "Cadillac",
+        "Escalade"
+      ]
+    },
+    {
+      "code": "G5D",
+      "name": "Latte",
+      "make": "Cadillac",
+      "model": "Cadillac",
+      "year_from": 2022,
+      "year_to": 2025,
+      "chipUrl": "https://www.paintref.com/chipimages/EXCE3U.png",
+      "chipHash": "657fb270a75c6962",
+      "ditzler": "",
+      "models": [
+        "Cadillac",
+        "XT4",
+        "XT5",
+        "XT6"
+      ]
+    },
+    {
+      "code": "G6M",
+      "name": "Galactic Gray",
+      "make": "Cadillac",
+      "model": "Cadillac",
+      "year_from": 2022,
+      "year_to": 2025,
+      "chipUrl": "https://www.paintref.com/chipimages/DHDTF5.png",
+      "chipHash": "68ed07705ae8a252",
+      "ditzler": "",
+      "models": [
+        "Cadillac",
+        "Escalade",
+        "XT4"
+      ]
+    },
+    {
+      "code": "G7W",
+      "name": "Dark Emerald Frost",
+      "make": "Cadillac",
+      "model": "Cadillac",
+      "year_from": 2022,
+      "year_to": 2022,
+      "chipUrl": "https://www.paintref.com/chipimages/SD222G.png",
+      "chipHash": "d14e51a7c6675d9a",
+      "ditzler": "",
+      "models": [
+        "CT4",
+        "CT5",
+        "Cadillac"
+      ]
+    },
+    {
+      "code": "GCF",
+      "name": "Blaze Orange",
+      "make": "Cadillac",
+      "model": "Cadillac",
+      "year_from": 2022,
+      "year_to": 2023,
+      "chipUrl": "https://www.paintref.com/chipimages/HAFCGS.png",
+      "chipHash": "f59c021f9e5b058f",
+      "ditzler": "",
+      "models": [
+        "CT4",
+        "CT5",
+        "Cadillac"
+      ]
+    },
+    {
+      "code": "GCK",
+      "name": "Rosewood",
+      "make": "Cadillac",
+      "model": "Cadillac",
+      "year_from": 2022,
+      "year_to": 2023,
+      "chipUrl": "https://www.paintref.com/chipimages/WT5XX4.png",
+      "chipHash": "7ec295f38b0bfed1",
+      "ditzler": "",
+      "models": [
+        "Cadillac",
+        "XT4",
+        "XT5",
+        "XT6"
+      ]
+    },
+    {
+      "code": "GED",
+      "name": "Wilder",
+      "make": "Cadillac",
+      "model": "Cadillac",
+      "year_from": 2022,
+      "year_to": 2023,
+      "chipUrl": "https://www.paintref.com/chipimages/DCF4FH.png",
+      "chipHash": "fb5351dc5586070a",
+      "ditzler": "",
+      "models": [
+        "Cadillac",
+        "Escalade",
+        "XT5",
+        "XT6"
+      ]
+    },
+    {
+      "code": "GMO",
+      "name": "Electric Blue",
+      "make": "Cadillac",
+      "model": "Cadillac",
+      "year_from": 2022,
+      "year_to": 2023,
+      "chipUrl": "https://www.paintref.com/chipimages/GG32A3.png",
+      "chipHash": "acecb4a953040a8c",
+      "ditzler": "949325",
+      "models": [
+        "CT4",
+        "CT5",
+        "Cadillac"
+      ]
+    },
+    {
+      "code": "G6N",
+      "name": "Dark Emerald",
+      "make": "Cadillac",
+      "model": "Cadillac",
+      "year_from": 2023,
+      "year_to": 2024,
+      "chipUrl": "https://www.paintref.com/chipimages/3SCD3E.png",
+      "chipHash": "a52b4a1eef36605a",
+      "ditzler": "",
+      "models": [
+        "Cadillac",
+        "Escalade"
+      ]
+    },
+    {
+      "code": "GNT",
+      "name": "Radiant Red",
+      "make": "Cadillac",
+      "model": "Cadillac",
+      "year_from": 2023,
+      "year_to": 2026,
+      "chipUrl": "https://www.paintref.com/chipimages/CG5DXT.png",
+      "chipHash": "f64140c068c21170",
+      "ditzler": "",
+      "models": [
+        "CT4",
+        "CT5",
+        "Cadillac",
+        "Escalade",
+        "LYRIQ",
+        "OPTIQ",
+        "VISTIQ",
+        "XT4",
+        "XT5",
+        "XT6"
+      ]
+    },
+    {
+      "code": "GNW",
+      "name": "Maverick Noir Frost",
+      "make": "Cadillac",
+      "model": "Cadillac",
+      "year_from": 2023,
+      "year_to": 2023,
+      "chipUrl": "https://www.paintref.com/chipimages/W3WCWH.png",
+      "chipHash": "8b25dfe5a07e6d13",
+      "ditzler": "",
+      "models": [
+        "CT4",
+        "CT5",
+        "Cadillac"
+      ]
+    },
+    {
+      "code": "GXD",
+      "name": "Argent Silver",
+      "make": "Cadillac",
+      "model": "Cadillac",
+      "year_from": 2023,
+      "year_to": 2026,
+      "chipUrl": "https://www.paintref.com/chipimages/C2C4C4.png",
+      "chipHash": "08da3199a3620ebb",
+      "ditzler": "",
+      "models": [
+        "CT4",
+        "CT5",
+        "Cadillac",
+        "Escalade",
+        "LYRIQ",
+        "OPTIQ",
+        "VISTIQ",
+        "XT4",
+        "XT5",
+        "XT6"
+      ]
+    },
+    {
+      "code": "GXU",
+      "name": "Midnight Steel",
+      "make": "Cadillac",
+      "model": "Cadillac",
+      "year_from": 2023,
+      "year_to": 2024,
+      "chipUrl": "https://www.paintref.com/chipimages/5HFGWG.png",
+      "chipHash": "1884929e220676da",
+      "ditzler": "",
+      "models": [
+        "CT4",
+        "CT5",
+        "Cadillac"
+      ]
+    },
+    {
+      "code": "G6I",
+      "name": "Emerald Lake",
+      "make": "Cadillac",
+      "model": "Cadillac",
+      "year_from": 2024,
+      "year_to": 2026,
+      "chipUrl": "https://www.paintref.com/chipimages/XFSGSC.png",
+      "chipHash": "6cb8cff3bbe06909",
+      "ditzler": "949644",
+      "models": [
+        "Cadillac",
+        "LYRIQ",
+        "VISTIQ",
+        "XT4",
+        "XT5",
+        "XT6"
+      ]
+    },
+    {
+      "code": "G7C",
+      "name": "Cardinal Red",
+      "make": "Cadillac",
+      "model": "Cadillac",
+      "year_from": 2024,
+      "year_to": 2024,
+      "chipUrl": "https://www.paintref.com/chipimages/ADGGGW.png",
+      "chipHash": "656d0fb3f8a3c2f0",
+      "ditzler": "935115",
+      "models": [
+        "CT4",
+        "CT5",
+        "Cadillac"
+      ]
+    },
+    {
+      "code": "G7X",
+      "name": "Nimbus",
+      "make": "Cadillac",
+      "model": "Cadillac",
+      "year_from": 2024,
+      "year_to": 2026,
+      "chipUrl": "https://www.paintref.com/chipimages/HEAC4G.png",
+      "chipHash": "5ec73dd6f887dc8a",
+      "ditzler": "",
+      "models": [
+        "Cadillac",
+        "LYRIQ",
+        "OPTIQ",
+        "VISTIQ"
+      ]
+    },
+    {
+      "code": "GCP",
+      "name": "Cyber Yellow",
+      "make": "Cadillac",
+      "model": "Cadillac",
+      "year_from": 2024,
+      "year_to": 2026,
+      "chipUrl": "https://www.paintref.com/chipimages/AGEDGG.png",
+      "chipHash": "068c9a8307740ca0",
+      "ditzler": "",
+      "models": [
+        "CT4",
+        "CT5",
+        "Cadillac"
+      ]
+    },
+    {
+      "code": "GJV",
+      "name": "Coastal Blue",
+      "make": "Cadillac",
+      "model": "Cadillac",
+      "year_from": 2024,
+      "year_to": 2025,
+      "chipUrl": "https://www.paintref.com/chipimages/G3F33E.png",
+      "chipHash": "7b4b8be46610676a",
+      "ditzler": "",
+      "models": [
+        "CT4",
+        "CT5",
+        "Cadillac",
+        "OPTIQ"
+      ]
+    },
+    {
+      "code": "GJY",
+      "name": "Celestial",
+      "make": "Cadillac",
+      "model": "Cadillac",
+      "year_from": 2024,
+      "year_to": 2026,
+      "chipUrl": "https://www.paintref.com/chipimages/SASH3G.png",
+      "chipHash": "11f952352658a0a8",
+      "ditzler": "",
+      "models": [
+        "Cadillac",
+        "LYRIQ",
+        "OPTIQ",
+        "VISTIQ"
+      ]
+    },
+    {
+      "code": "GXF",
+      "name": "Midnight Sky",
+      "make": "Cadillac",
+      "model": "Cadillac",
+      "year_from": 2024,
+      "year_to": 2026,
+      "chipUrl": "https://www.paintref.com/chipimages/FSFDW4.png",
+      "chipHash": "74dfe0c2c9432ec9",
+      "ditzler": "",
+      "models": [
+        "CT4",
+        "CT5",
+        "Cadillac",
+        "XT4",
+        "XT5",
+        "XT6"
+      ]
+    },
+    {
+      "code": "GXP",
+      "name": "Deep Sea",
+      "make": "Cadillac",
+      "model": "Cadillac",
+      "year_from": 2024,
+      "year_to": 2026,
+      "chipUrl": "https://www.paintref.com/chipimages/5AF3SX.png",
+      "chipHash": "731d98fb68122940",
+      "ditzler": "",
+      "models": [
+        "Cadillac",
+        "Escalade",
+        "XT4"
+      ]
+    },
+    {
+      "code": "GAB",
+      "name": "Black Cherry",
+      "make": "Cadillac",
+      "model": "Cadillac",
+      "year_from": 2025,
+      "year_to": 2026,
+      "chipUrl": "https://www.paintref.com/chipimages/FS52D5.png",
+      "chipHash": "df882aba37c323a3",
+      "ditzler": "",
+      "models": [
+        "Cadillac",
+        "Escalade"
+      ]
+    },
+    {
+      "code": "GAE",
+      "name": "Drift",
+      "make": "Cadillac",
+      "model": "Cadillac",
+      "year_from": 2025,
+      "year_to": 2026,
+      "chipUrl": "https://www.paintref.com/chipimages/UXUAUU.png",
+      "chipHash": "e368b165460897b2",
+      "ditzler": "",
+      "models": [
+        "CT4",
+        "CT5",
+        "Cadillac"
+      ]
+    },
+    {
+      "code": "GAI",
+      "name": "Deep Space",
+      "make": "Cadillac",
+      "model": "Cadillac",
+      "year_from": 2025,
+      "year_to": 2026,
+      "chipUrl": "https://www.paintref.com/chipimages/W5S23X.png",
+      "chipHash": "0c9881eaa67f76cf",
+      "ditzler": "",
+      "models": [
+        "CT4",
+        "CT5",
+        "Cadillac",
+        "Escalade"
+      ]
+    },
+    {
+      "code": "GBD",
+      "name": "Aegean Stone",
+      "make": "Cadillac",
+      "model": "Cadillac",
+      "year_from": 2025,
+      "year_to": 2026,
+      "chipUrl": "https://www.paintref.com/chipimages/FXW5WC.png",
+      "chipHash": "a13e30df1e9b8fe6",
+      "ditzler": "",
+      "models": [
+        "Cadillac",
+        "Escalade"
+      ]
+    },
+    {
+      "code": "GBW",
+      "name": "Typhoon",
+      "make": "Cadillac",
+      "model": "Cadillac",
+      "year_from": 2025,
+      "year_to": 2026,
+      "chipUrl": "https://www.paintref.com/chipimages/FSSGWE.png",
+      "chipHash": "9793d02e715f2862",
+      "ditzler": "",
+      "models": [
+        "CT4",
+        "CT5",
+        "Cadillac"
+      ]
+    },
+    {
+      "code": "GLG",
+      "name": "Midnight Steel Frost",
+      "make": "Cadillac",
+      "model": "Cadillac",
+      "year_from": 2025,
+      "year_to": 2025,
+      "chipUrl": "https://www.paintref.com/chipimages/CTHSAH.png",
+      "chipHash": "44e142c31e40d4d4",
+      "ditzler": "",
+      "models": [
+        "Cadillac",
+        "Escalade"
+      ]
+    },
+    {
+      "code": "GSJ",
+      "name": "Flare",
+      "make": "Cadillac",
+      "model": "Cadillac",
+      "year_from": 2025,
+      "year_to": 2025,
+      "chipUrl": "https://www.paintref.com/chipimages/HSAXAW.png",
+      "chipHash": "008d3c21a904da6b",
+      "ditzler": "",
+      "models": [
+        "Cadillac",
+        "Escalade"
+      ]
+    },
+    {
+      "code": "G4J",
+      "name": "Vibrant White",
+      "make": "Cadillac",
+      "model": "CT4",
+      "year_from": 2026,
+      "year_to": 2026,
+      "chipUrl": "https://www.paintref.com/chipimages/U4U4U4.png",
+      "chipHash": "800b72b867bfb3a2",
+      "ditzler": "",
+      "models": [
+        "CT4",
+        "CT5",
+        "Escalade",
+        "LYRIQ",
+        "OPTIQ",
+        "VISTIQ"
+      ]
+    },
+    {
+      "code": "GJV",
+      "name": "Costal Blue",
+      "make": "Cadillac",
+      "model": "CT4",
+      "year_from": 2026,
+      "year_to": 2026,
+      "chipUrl": "https://www.paintref.com/chipimages/G3F33E.png",
+      "chipHash": "7b4b8be46610676a",
+      "ditzler": "",
+      "models": [
+        "CT4",
+        "CT5",
+        "OPTIQ"
+      ]
+    },
+    {
+      "code": "G42",
+      "name": "Sandstone",
+      "make": "Cadillac",
+      "model": "Escalade",
+      "year_from": 2026,
+      "year_to": 2026,
+      "chipUrl": "https://www.paintref.com/chipimages/EXCUCD.png",
+      "chipHash": "05b6194d47b7a0d5",
+      "ditzler": "",
+      "models": [
+        "Escalade"
+      ]
+    },
+    {
+      "code": "G6M",
+      "name": "Galactric Gray",
+      "make": "Cadillac",
+      "model": "Escalade",
+      "year_from": 2026,
+      "year_to": 2026,
+      "chipUrl": "https://www.paintref.com/chipimages/DHDTF5.png",
+      "chipHash": "68ed07705ae8a252",
+      "ditzler": "",
+      "models": [
+        "Escalade"
+      ]
+    },
+    {
+      "code": "GAG",
+      "name": "Monarch Orange",
+      "make": "Cadillac",
+      "model": "Escalade",
+      "year_from": 2026,
+      "year_to": 2026,
+      "chipUrl": "https://www.paintref.com/chipimages/44SGFU.png",
+      "chipHash": "e508342c59cf4d7c",
+      "ditzler": "",
+      "models": [
+        "Escalade",
+        "OPTIQ"
+      ]
+    },
+    {
+      "code": "GBL",
+      "name": "Magnus Metal Frost",
+      "make": "Cadillac",
+      "model": "Escalade",
+      "year_from": 2026,
+      "year_to": 2026,
+      "chipUrl": "https://www.paintref.com/chipimages/2H2SS4.png",
+      "chipHash": "43b3d211084dd7a9",
+      "ditzler": "",
+      "models": [
+        "Escalade",
+        "LYRIQ",
+        "OPTIQ"
+      ]
+    },
+    {
+      "code": "GNO",
+      "name": "Luna",
+      "make": "Cadillac",
+      "model": "Escalade",
+      "year_from": 2026,
+      "year_to": 2026,
+      "chipUrl": "https://www.paintref.com/chipimages/DEDEDE.png",
+      "chipHash": "6e094ab92d19df2e",
+      "ditzler": "949318",
+      "models": [
+        "Escalade"
+      ]
+    },
+    {
+      "code": "GNR",
+      "name": "Abobe Frost",
+      "make": "Cadillac",
+      "model": "Escalade",
+      "year_from": 2026,
+      "year_to": 2026,
+      "chipUrl": "https://www.paintref.com/chipimages/ED25S5.png",
+      "chipHash": "d6fc7254b7e7e78b",
+      "ditzler": "",
+      "models": [
+        "Escalade"
+      ]
+    },
+    {
+      "code": "G3Y",
+      "name": "Deep Green",
+      "make": "Cadillac",
+      "model": "OPTIQ",
+      "year_from": 2026,
+      "year_to": 2026,
+      "chipUrl": "https://www.paintref.com/chipimages/DGFCWX.png",
+      "chipHash": "329a724a595fdd91",
+      "ditzler": "",
+      "models": [
+        "OPTIQ"
+      ]
+    }
+  ],
+  "filters": {
+    "yearFrom": 2000,
+    "yearTo": 2026
+  }
+}

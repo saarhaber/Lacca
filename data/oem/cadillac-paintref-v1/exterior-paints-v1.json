@@ -1,0 +1,4325 @@
+{
+  "$schema": "../../../schemas/exterior-paints-v1.schema.json",
+  "scopeId": "cadillac-paintref-v1",
+  "version": "1.0.0",
+  "paints": [
+    {
+      "code": "06",
+      "marketingName": "Light Mediumici Red",
+      "finish": "solid",
+      "lab": {
+        "L": 18.15,
+        "a": 25.28,
+        "b": 4.35,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #4E1B27 (PaintRef chip, OEM=Cadillac, code=06 (models=Cadillac; year=2000), pixels=306, chipUrl=https://www.paintref.com/chipimages/FUXT52.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:0be98f13def5b877"
+      }
+    },
+    {
+      "code": "09",
+      "marketingName": "Mary Kay Pearl",
+      "finish": "solid",
+      "lab": {
+        "L": 88.25,
+        "a": 8.28,
+        "b": 3.02,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #F0D8D8 (PaintRef chip, OEM=Cadillac, code=09 (models=Cadillac; year=2000), pixels=306, chipUrl=https://www.paintref.com/chipimages/4GA3A3.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:b46632aa2ff7aa93"
+      }
+    },
+    {
+      "code": "11",
+      "marketingName": "Pewter",
+      "finish": "solid",
+      "lab": {
+        "L": 74.81,
+        "a": 1.76,
+        "b": 0.62,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #BCB7B7 (PaintRef chip, OEM=Cadillac, code=11 (models=Cadillac; years=2000-2003), pixels=306, chipUrl=https://www.paintref.com/chipimages/THT2T2.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:1168e1aded09dc72"
+      }
+    },
+    {
+      "code": "12",
+      "marketingName": "Galaxy Silver",
+      "finish": "solid",
+      "lab": {
+        "L": 83.54,
+        "a": -0.6,
+        "b": -6.37,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #C9D1DC (PaintRef chip, OEM=Cadillac, code=12 (models=Cadillac; years=2000-2004), pixels=306, chipUrl=https://www.paintref.com/chipimages/HCAXAH.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:b9291464078c8b51"
+      }
+    },
+    {
+      "code": "40",
+      "marketingName": "White",
+      "finish": "solid",
+      "lab": {
+        "L": 96.72,
+        "a": -1.71,
+        "b": 8.05,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #F9F6E6 (PaintRef chip, OEM=Cadillac, code=40 (models=Cadillac; years=2000-2009), pixels=306, chipUrl=https://www.paintref.com/chipimages/4C4SUS.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:46c683920093b8d3"
+      }
+    },
+    {
+      "code": "41",
+      "marketingName": "Black",
+      "finish": "solid",
+      "lab": {
+        "L": 0.27,
+        "a": 0,
+        "b": 0,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #010101 (PaintRef chip, OEM=Cadillac, code=41 (models=Cadillac; years=2000-2007), pixels=306, chipUrl=https://www.paintref.com/chipimages/GGGGGG.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:1f437854e2d31a87"
+      }
+    },
+    {
+      "code": "44",
+      "marketingName": "Medium Red",
+      "finish": "solid",
+      "lab": {
+        "L": 9.68,
+        "a": 21.25,
+        "b": 8,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #360C10 (PaintRef chip, OEM=Cadillac, code=44 (models=Cadillac; years=2000-2002), pixels=306, chipUrl=https://www.paintref.com/chipimages/DSGHXG.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:a57624465f71a181"
+      }
+    },
+    {
+      "code": "50",
+      "marketingName": "Olympic White",
+      "finish": "solid",
+      "lab": {
+        "L": 95.42,
+        "a": -0.71,
+        "b": 3.01,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #F3F2EC (PaintRef chip, OEM=Cadillac, code=50 (models=Cadillac; years=2000-2004), pixels=306, chipUrl=https://www.paintref.com/chipimages/4D45UH.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:34e9268ebabfd5bc"
+      }
+    },
+    {
+      "code": "51",
+      "marketingName": "Dark Toreador",
+      "finish": "solid",
+      "lab": {
+        "L": 10.93,
+        "a": 14.41,
+        "b": 5.07,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #311517 (PaintRef chip, OEM=Cadillac, code=51 (models=Cadillac; year=2000), pixels=306, chipUrl=https://www.paintref.com/chipimages/DXXWX2.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:55f28245ac37f4f2"
+      }
+    },
+    {
+      "code": "54",
+      "marketingName": "Light Bronzemist",
+      "finish": "solid",
+      "lab": {
+        "L": 50.36,
+        "a": 0.54,
+        "b": 8.81,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #7F7769 (PaintRef chip, OEM=Cadillac, code=54 (models=Cadillac; years=2000-2004), pixels=306, chipUrl=https://www.paintref.com/chipimages/2422SC.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:5cb096933c43e631"
+      }
+    },
+    {
+      "code": "55",
+      "marketingName": "Medium Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 35.58,
+        "a": -0.02,
+        "b": -17.88,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #415570 (PaintRef chip, OEM=Cadillac, code=55 (models=Cadillac; years=2000-2001), pixels=306, chipUrl=https://www.paintref.com/chipimages/FXWW2G.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:2620733f62312c22"
+      }
+    },
+    {
+      "code": "60",
+      "marketingName": "Gold Firemist",
+      "finish": "solid",
+      "lab": {
+        "L": 51.44,
+        "a": 3.3,
+        "b": 11.61,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #887867 (PaintRef chip, OEM=Cadillac, code=60 (models=Cadillac; year=2000), pixels=306, chipUrl=https://www.paintref.com/chipimages/3323S2.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:aca2f3ff28006fac"
+      }
+    },
+    {
+      "code": "62",
+      "marketingName": "Dark Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 17.02,
+        "a": 1.13,
+        "b": -9.22,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #242A37 (PaintRef chip, OEM=Cadillac, code=62 (models=Cadillac; years=2000-2001), pixels=306, chipUrl=https://www.paintref.com/chipimages/5F5ED2.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:5ee381730104b4aa"
+      }
+    },
+    {
+      "code": "76",
+      "marketingName": "Dark Bronzemist",
+      "finish": "solid",
+      "lab": {
+        "L": 37.1,
+        "a": -0.64,
+        "b": -6.12,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #515861 (PaintRef chip, OEM=Cadillac, code=76 (models=Cadillac; years=2000-2003), pixels=306, chipUrl=https://www.paintref.com/chipimages/WXW3SX.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:b3bbc81c35572953"
+      }
+    },
+    {
+      "code": "80",
+      "marketingName": "Red",
+      "finish": "solid",
+      "lab": {
+        "L": 23.98,
+        "a": 38.8,
+        "b": 22.18,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #70161A (PaintRef chip, OEM=Cadillac, code=80 (models=Cadillac; year=2000), pixels=306, chipUrl=https://www.paintref.com/chipimages/2GXSXE.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:8559438b5f3c82c3"
+      }
+    },
+    {
+      "code": "91",
+      "marketingName": "Polo Green",
+      "finish": "solid",
+      "lab": {
+        "L": 27.03,
+        "a": -9.77,
+        "b": 3.02,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #31443B (PaintRef chip, OEM=Cadillac, code=91 (models=Cadillac; year=2000), pixels=306, chipUrl=https://www.paintref.com/chipimages/DXFFDT.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:964960ccb69daeeb"
+      }
+    },
+    {
+      "code": "93",
+      "marketingName": "White Diamond",
+      "finish": "solid",
+      "lab": {
+        "L": 89.55,
+        "a": -0.86,
+        "b": 7.94,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #E6E1D2 (PaintRef chip, OEM=Cadillac, code=93 (models=Cadillac; years=2000-2001), pixels=306, chipUrl=https://www.paintref.com/chipimages/USUXA5.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:493ee143c5b20919"
+      }
+    },
+    {
+      "code": "11U",
+      "marketingName": "Ivory",
+      "finish": "solid",
+      "lab": {
+        "L": 91.19,
+        "a": 0.18,
+        "b": 8.27,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #EDE5D6 (PaintRef chip, OEM=Cadillac, code=11U (models=Cadillac; years=2000-2001), pixels=306, chipUrl=https://www.paintref.com/chipimages/UAUWAS.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:34c4698575bad55c"
+      }
+    },
+    {
+      "code": "41U",
+      "marketingName": "Rainforest Green",
+      "finish": "solid",
+      "lab": {
+        "L": 23.93,
+        "a": -19.74,
+        "b": 15.97,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #204020 (PaintRef chip, OEM=Cadillac, code=41U (models=Cadillac; years=2000-2001), pixels=306, chipUrl=https://www.paintref.com/chipimages/5GFG5G.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:33f3948c77355376"
+      }
+    },
+    {
+      "code": "57U",
+      "marketingName": "Platinum",
+      "finish": "solid",
+      "lab": {
+        "L": 62.54,
+        "a": -3.57,
+        "b": -11.33,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #859AAB (PaintRef chip, OEM=Cadillac, code=57U (models=Cadillac; years=2000-2001), pixels=306, chipUrl=https://www.paintref.com/chipimages/3WCEET.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:b68347e170212fc6"
+      }
+    },
+    {
+      "code": "58U",
+      "marketingName": "Sapphire Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 15.35,
+        "a": 0.08,
+        "b": -9.71,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #1E2734 (PaintRef chip, OEM=Cadillac, code=58U (models=Cadillac; years=2000-2001), pixels=306, chipUrl=https://www.paintref.com/chipimages/XU52DF.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:a892e0b8b165e3f2"
+      }
+    },
+    {
+      "code": "80U",
+      "marketingName": "Ebony",
+      "finish": "solid",
+      "lab": {
+        "L": 0.27,
+        "a": 0,
+        "b": 0,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #010101 (PaintRef chip, OEM=Cadillac, code=80U (models=Cadillac; years=2000-2001), pixels=306, chipUrl=https://www.paintref.com/chipimages/GGGGGG.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:1f437854e2d31a87"
+      }
+    },
+    {
+      "code": "91U",
+      "marketingName": "Coca",
+      "finish": "solid",
+      "lab": {
+        "L": 28.33,
+        "a": 5.54,
+        "b": -0.68,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #4B4044 (PaintRef chip, OEM=Cadillac, code=91U (models=Cadillac; year=2000), pixels=306, chipUrl=https://www.paintref.com/chipimages/FTFGFF.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:3204ccad4e900ec4"
+      }
+    },
+    {
+      "code": "68U",
+      "marketingName": "Sand",
+      "finish": "solid",
+      "lab": {
+        "L": 65.11,
+        "a": 2.25,
+        "b": 10.76,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #AA9C8B (PaintRef chip, OEM=Cadillac, code=68U (models=Cadillac; years=2000-2001), pixels=306, chipUrl=https://www.paintref.com/chipimages/EECH3T.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:2fbf36993c3ab70a"
+      }
+    },
+    {
+      "code": "74U",
+      "marketingName": "Cranberry Red",
+      "finish": "solid",
+      "lab": {
+        "L": 32.49,
+        "a": 49.57,
+        "b": 33.09,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #961A1B (PaintRef chip, OEM=Cadillac, code=74U (models=Cadillac; year=2000), pixels=306, chipUrl=https://www.paintref.com/chipimages/CSXEXT.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:0f0bd0dc45057d0d"
+      }
+    },
+    {
+      "code": "97U",
+      "marketingName": "Sage",
+      "finish": "solid",
+      "lab": {
+        "L": 53.18,
+        "a": -1.86,
+        "b": -0.65,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #7B8080 (PaintRef chip, OEM=Cadillac, code=97U (models=Cadillac; years=2000-2001), pixels=306, chipUrl=https://www.paintref.com/chipimages/2T3G3G.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:73db5b5f86b5552a"
+      }
+    },
+    {
+      "code": "09",
+      "marketingName": "Mary Kay Pink",
+      "finish": "solid",
+      "lab": {
+        "L": 88.25,
+        "a": 8.28,
+        "b": 3.02,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #F0D8D8 (PaintRef chip, OEM=Cadillac, code=09 (models=Cadillac; years=2001-2003), pixels=306, chipUrl=https://www.paintref.com/chipimages/4GA3A3.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:b46632aa2ff7aa93"
+      }
+    },
+    {
+      "code": "14",
+      "marketingName": "Storm Gray",
+      "finish": "solid",
+      "lab": {
+        "L": 37.77,
+        "a": -1.83,
+        "b": -3.24,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #535A5E (PaintRef chip, OEM=Cadillac, code=14 (models=Cadillac; year=2001), pixels=306, chipUrl=https://www.paintref.com/chipimages/WDWEWU.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:162a3b38f5649544"
+      }
+    },
+    {
+      "code": "32",
+      "marketingName": "Dark Otter",
+      "finish": "solid",
+      "lab": {
+        "L": 28.07,
+        "a": -0.87,
+        "b": -5.8,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #3C434B (PaintRef chip, OEM=Cadillac, code=32 (models=Cadillac; year=2001), pixels=306, chipUrl=https://www.paintref.com/chipimages/DHFDFT.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:dfea204e9ad78cb1"
+      }
+    },
+    {
+      "code": "34",
+      "marketingName": "Dark Classic Green",
+      "finish": "solid",
+      "lab": {
+        "L": 14.86,
+        "a": -7.15,
+        "b": 5.84,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #1E281D (PaintRef chip, OEM=Cadillac, code=34 (models=Cadillac; years=2001-2002), pixels=306, chipUrl=https://www.paintref.com/chipimages/XU53XA.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:bf7f06eec183407a"
+      }
+    },
+    {
+      "code": "39",
+      "marketingName": "Indigo",
+      "finish": "solid",
+      "lab": {
+        "L": 10.32,
+        "a": 14.95,
+        "b": -33.96,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #01184B (PaintRef chip, OEM=Cadillac, code=39 (models=Cadillac; year=2001), pixels=306, chipUrl=https://www.paintref.com/chipimages/GGX3FT.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:04df124959090f92"
+      }
+    },
+    {
+      "code": "47",
+      "marketingName": "Medium Green",
+      "finish": "solid",
+      "lab": {
+        "L": 27.03,
+        "a": -9.77,
+        "b": 3.02,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #31443B (PaintRef chip, OEM=Cadillac, code=47 (models=Cadillac; years=2001-2004), pixels=306, chipUrl=https://www.paintref.com/chipimages/DXFFDT.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:964960ccb69daeeb"
+      }
+    },
+    {
+      "code": "51",
+      "marketingName": "Dark Toreador Red",
+      "finish": "solid",
+      "lab": {
+        "L": 10.93,
+        "a": 14.41,
+        "b": 5.07,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #311517 (PaintRef chip, OEM=Cadillac, code=51 (models=Cadillac; year=2001), pixels=306, chipUrl=https://www.paintref.com/chipimages/DXXWX2.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:55f28245ac37f4f2"
+      }
+    },
+    {
+      "code": "60",
+      "marketingName": "Gold",
+      "finish": "solid",
+      "lab": {
+        "L": 51.44,
+        "a": 3.3,
+        "b": 11.61,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #887867 (PaintRef chip, OEM=Cadillac, code=60 (models=Cadillac; year=2001), pixels=306, chipUrl=https://www.paintref.com/chipimages/3323S2.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:aca2f3ff28006fac"
+      }
+    },
+    {
+      "code": "71",
+      "marketingName": "Sunset Orange",
+      "finish": "solid",
+      "lab": {
+        "L": 34.78,
+        "a": 35.87,
+        "b": 25.56,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #8C362B (PaintRef chip, OEM=Cadillac, code=71 (models=Cadillac; year=2001), pixels=306, chipUrl=https://www.paintref.com/chipimages/3HDS5T.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:f60410cddb5a579f"
+      }
+    },
+    {
+      "code": "72",
+      "marketingName": "Redfire",
+      "finish": "solid",
+      "lab": {
+        "L": 18.26,
+        "a": 26,
+        "b": 11.67,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #511A1D (PaintRef chip, OEM=Cadillac, code=72 (models=Cadillac; years=2001-2003), pixels=306, chipUrl=https://www.paintref.com/chipimages/WXXEXA.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:865c10c44f317638"
+      }
+    },
+    {
+      "code": "74",
+      "marketingName": "Victory Red",
+      "finish": "solid",
+      "lab": {
+        "L": 37.41,
+        "a": 61.71,
+        "b": 46.33,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #B4010E (PaintRef chip, OEM=Cadillac, code=74 (models=Cadillac; years=2001-2007), pixels=306, chipUrl=https://www.paintref.com/chipimages/TFGGGU.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:834b4741f8f57c33"
+      }
+    },
+    {
+      "code": "86",
+      "marketingName": "Red",
+      "finish": "solid",
+      "lab": {
+        "L": 23.98,
+        "a": 38.8,
+        "b": 22.18,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #70161A (PaintRef chip, OEM=Cadillac, code=86 (models=Cadillac; years=2001-2007), pixels=306, chipUrl=https://www.paintref.com/chipimages/2GXSXE.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:8559438b5f3c82c3"
+      }
+    },
+    {
+      "code": "75U",
+      "marketingName": "Cranberry Red",
+      "finish": "solid",
+      "lab": {
+        "L": 32.49,
+        "a": 49.57,
+        "b": 33.09,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #961A1B (PaintRef chip, OEM=Cadillac, code=75U (models=Cadillac; year=2001), pixels=306, chipUrl=https://www.paintref.com/chipimages/CSXEXT.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:0f0bd0dc45057d0d"
+      }
+    },
+    {
+      "code": "25",
+      "marketingName": "Dark Ming Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 15.3,
+        "a": -2.14,
+        "b": -11.96,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #162837 (PaintRef chip, OEM=Cadillac, code=25 (models=Cadillac; years=2002-2007), pixels=306, chipUrl=https://www.paintref.com/chipimages/XS53D2.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:dd066036dce3efff"
+      }
+    },
+    {
+      "code": "32",
+      "marketingName": "Dark Otter Gray",
+      "finish": "solid",
+      "lab": {
+        "L": 11.21,
+        "a": 6.08,
+        "b": -13.29,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #1C1C30 (PaintRef chip, OEM=Cadillac, code=32 (models=Cadillac; year=2002), pixels=306, chipUrl=https://www.paintref.com/chipimages/XHXHDG.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:30f976b2be03a9a1"
+      }
+    },
+    {
+      "code": "38",
+      "marketingName": "Vermeer Green",
+      "finish": "solid",
+      "lab": {
+        "L": 24.26,
+        "a": -8.63,
+        "b": 8.28,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #313D2D (PaintRef chip, OEM=Cadillac, code=38 (models=Cadillac; year=2002), pixels=306, chipUrl=https://www.paintref.com/chipimages/DXDA5A.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:da7f030e9c3da432"
+      }
+    },
+    {
+      "code": "39",
+      "marketingName": "Indigo Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 10.32,
+        "a": 14.95,
+        "b": -33.96,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #01184B (PaintRef chip, OEM=Cadillac, code=39 (models=Cadillac; years=2002-2003), pixels=306, chipUrl=https://www.paintref.com/chipimages/GGX3FT.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:04df124959090f92"
+      }
+    },
+    {
+      "code": "45",
+      "marketingName": "Cream White",
+      "finish": "solid",
+      "lab": {
+        "L": 93.74,
+        "a": -1.81,
+        "b": 15.63,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #F6EDCF (PaintRef chip, OEM=Cadillac, code=45 (models=Cadillac; year=2002), pixels=306, chipUrl=https://www.paintref.com/chipimages/4SUAH4.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:a26d416504fd7719"
+      }
+    },
+    {
+      "code": "70",
+      "marketingName": "Torch Red",
+      "finish": "solid",
+      "lab": {
+        "L": 41.43,
+        "a": 60.22,
+        "b": 44.94,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #BF1F1A (PaintRef chip, OEM=Cadillac, code=70 (models=Cadillac; year=2002), pixels=306, chipUrl=https://www.paintref.com/chipimages/T4X4XE.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:a24d69cb98a3a7d4"
+      }
+    },
+    {
+      "code": "84",
+      "marketingName": "Opera Red",
+      "finish": "solid",
+      "lab": {
+        "L": 19.38,
+        "a": 32.54,
+        "b": 17.71,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #5C1417 (PaintRef chip, OEM=Cadillac, code=84 (models=Cadillac; years=2002-2003), pixels=306, chipUrl=https://www.paintref.com/chipimages/WHXFX2.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:3176a4e3c0ff5a84"
+      }
+    },
+    {
+      "code": "85",
+      "marketingName": "Sunburst Orange",
+      "finish": "solid",
+      "lab": {
+        "L": 45.98,
+        "a": 41.82,
+        "b": 41.68,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #B74B28 (PaintRef chip, OEM=Cadillac, code=85 (models=Cadillac; years=2002-2004), pixels=306, chipUrl=https://www.paintref.com/chipimages/T2FT53.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:44d8fb4344550af5"
+      }
+    },
+    {
+      "code": "98",
+      "marketingName": "White Diamond",
+      "finish": "solid",
+      "lab": {
+        "L": 99.18,
+        "a": -3.37,
+        "b": 9.57,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #FEFEEA (PaintRef chip, OEM=Cadillac, code=98 (models=Cadillac; years=2002-2013), pixels=306, chipUrl=https://www.paintref.com/chipimages/4U4UUE.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:4a5b0443f6c6966d"
+      }
+    },
+    {
+      "code": "06",
+      "marketingName": "Mary Kay Pearl",
+      "finish": "solid",
+      "lab": {
+        "L": 83.95,
+        "a": 22.4,
+        "b": -5.32,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #F7C3DC (PaintRef chip, OEM=Cadillac, code=06 (models=Cadillac; years=2003-2005), pixels=306, chipUrl=https://www.paintref.com/chipimages/42HDAH.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:99fd6a12875438dd"
+      }
+    },
+    {
+      "code": "21",
+      "marketingName": "Electron Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 20.78,
+        "a": 19.74,
+        "b": -44.74,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #0F2C75 (PaintRef chip, OEM=Cadillac, code=21 (models=Cadillac; year=2003), pixels=306, chipUrl=https://www.paintref.com/chipimages/G45H2W.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:6afef60ac76cbdc8"
+      }
+    },
+    {
+      "code": "46",
+      "marketingName": "Shale",
+      "finish": "solid",
+      "lab": {
+        "L": 54.73,
+        "a": 0.03,
+        "b": -1.21,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #828385 (PaintRef chip, OEM=Cadillac, code=46 (models=Cadillac; years=2003-2005), pixels=306, chipUrl=https://www.paintref.com/chipimages/353D3W.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:3f062a4846a1332b"
+      }
+    },
+    {
+      "code": "48",
+      "marketingName": "Dark Meander Green",
+      "finish": "solid",
+      "lab": {
+        "L": 24.29,
+        "a": -7.5,
+        "b": 0.35,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #2D3D39 (PaintRef chip, OEM=Cadillac, code=48 (models=Cadillac; years=2003-2004), pixels=306, chipUrl=https://www.paintref.com/chipimages/5ADADC.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:aca7a5e895eaef4d"
+      }
+    },
+    {
+      "code": "58",
+      "marketingName": "Sandalwood",
+      "finish": "solid",
+      "lab": {
+        "L": 60.11,
+        "a": 4.74,
+        "b": 18.3,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #A58D71 (PaintRef chip, OEM=Cadillac, code=58 (models=Cadillac; year=2003), pixels=306, chipUrl=https://www.paintref.com/chipimages/EW3A2X.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:f4e3f337a50df067"
+      }
+    },
+    {
+      "code": "62",
+      "marketingName": "Spiral Gray",
+      "finish": "solid",
+      "lab": {
+        "L": 10.34,
+        "a": -0.74,
+        "b": -8.86,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #131D28 (PaintRef chip, OEM=Cadillac, code=62 (models=Cadillac; year=2003), pixels=306, chipUrl=https://www.paintref.com/chipimages/XDXA53.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:2525209d281e419c"
+      }
+    },
+    {
+      "code": "88",
+      "marketingName": "Medium Spiral Gray",
+      "finish": "solid",
+      "lab": {
+        "L": 50.25,
+        "a": -2.27,
+        "b": -3.88,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #70797E (PaintRef chip, OEM=Cadillac, code=88 (models=Cadillac; years=2003-2005), pixels=306, chipUrl=https://www.paintref.com/chipimages/2G2C2U.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:7b7cca17c327aea5"
+      }
+    },
+    {
+      "code": "91",
+      "marketingName": "Arrival Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 38.7,
+        "a": -1.84,
+        "b": -34.53,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #185F93 (PaintRef chip, OEM=Cadillac, code=91 (models=Cadillac; year=2003), pixels=306, chipUrl=https://www.paintref.com/chipimages/X3W4CD.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:fee20006f89b32aa"
+      }
+    },
+    {
+      "code": "92",
+      "marketingName": "Silver Green",
+      "finish": "solid",
+      "lab": {
+        "L": 58.62,
+        "a": -9.36,
+        "b": 15.28,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #879172 (PaintRef chip, OEM=Cadillac, code=92 (models=Cadillac; years=2003-2005), pixels=306, chipUrl=https://www.paintref.com/chipimages/32CX25.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:b6d777b8fb1e50f4"
+      }
+    },
+    {
+      "code": "95",
+      "marketingName": "Majestic Amethyst",
+      "finish": "solid",
+      "lab": {
+        "L": 34.39,
+        "a": 6.03,
+        "b": -5.09,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #574E59 (PaintRef chip, OEM=Cadillac, code=95 (models=Cadillac; years=2003-2004), pixels=306, chipUrl=https://www.paintref.com/chipimages/W2FUWC.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:6a7461d2303436e5"
+      }
+    },
+    {
+      "code": "19",
+      "marketingName": "Luxo Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 10.36,
+        "a": 29.89,
+        "b": -47.5,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #010F5F (PaintRef chip, OEM=Cadillac, code=19 (models=Cadillac; years=2004-2007), pixels=306, chipUrl=https://www.paintref.com/chipimages/GGG4W4.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:910aa4cdaf2305ac"
+      }
+    },
+    {
+      "code": "29",
+      "marketingName": "Sport Red",
+      "finish": "solid",
+      "lab": {
+        "L": 30.71,
+        "a": 48.81,
+        "b": 26.51,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #8F1622 (PaintRef chip, OEM=Cadillac, code=29 (models=Cadillac; years=2004-2005), pixels=306, chipUrl=https://www.paintref.com/chipimages/34XS55.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:b5f66c383b66cf93"
+      }
+    },
+    {
+      "code": "33",
+      "marketingName": "Light Driftwood",
+      "finish": "solid",
+      "lab": {
+        "L": 69.6,
+        "a": 3.43,
+        "b": 15.08,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #BBA78F (PaintRef chip, OEM=Cadillac, code=33 (models=Cadillac; year=2004), pixels=306, chipUrl=https://www.paintref.com/chipimages/TTE234.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:c413c1eb92a549e8"
+      }
+    },
+    {
+      "code": "42",
+      "marketingName": "Dark Tarnished Silver",
+      "finish": "solid",
+      "lab": {
+        "L": 63.67,
+        "a": -3.7,
+        "b": 3.44,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #969C94 (PaintRef chip, OEM=Cadillac, code=42 (models=Cadillac; years=2004-2005), pixels=306, chipUrl=https://www.paintref.com/chipimages/CSCHCF.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:37d4b4ad71595400"
+      }
+    },
+    {
+      "code": "56",
+      "marketingName": "Sunburst Orange",
+      "finish": "solid",
+      "lab": {
+        "L": 56.82,
+        "a": 46.15,
+        "b": 54.77,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #E06227 (PaintRef chip, OEM=Cadillac, code=56 (models=Cadillac; year=2004), pixels=306, chipUrl=https://www.paintref.com/chipimages/UGS552.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:c15e24fa9d9e8e2f"
+      }
+    },
+    {
+      "code": "59",
+      "marketingName": "Silver Birch",
+      "finish": "solid",
+      "lab": {
+        "L": 84.01,
+        "a": -1.9,
+        "b": 8.79,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #D5D2C1 (PaintRef chip, OEM=Cadillac, code=59 (models=Cadillac; years=2004-2009), pixels=306, chipUrl=https://www.paintref.com/chipimages/AWA5HX.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:898a31838d3c9015"
+      }
+    },
+    {
+      "code": "62",
+      "marketingName": "Dark Spiral Gray",
+      "finish": "solid",
+      "lab": {
+        "L": 10.34,
+        "a": -0.74,
+        "b": -8.86,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #131D28 (PaintRef chip, OEM=Cadillac, code=62 (models=Cadillac; years=2004-2005), pixels=306, chipUrl=https://www.paintref.com/chipimages/XDXA53.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:2525209d281e419c"
+      }
+    },
+    {
+      "code": "63",
+      "marketingName": "Sport Red",
+      "finish": "solid",
+      "lab": {
+        "L": 27.45,
+        "a": 45.11,
+        "b": 32.45,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #821311 (PaintRef chip, OEM=Cadillac, code=63 (models=Cadillac; years=2004-2007), pixels=306, chipUrl=https://www.paintref.com/chipimages/35XDXX.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:b795df6a95c44bd4"
+      }
+    },
+    {
+      "code": "67",
+      "marketingName": "Light Tarnished Silver",
+      "finish": "solid",
+      "lab": {
+        "L": 77.33,
+        "a": -0.89,
+        "b": 7.05,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #C3BFB2 (PaintRef chip, OEM=Cadillac, code=67 (models=Cadillac; years=2004-2007), pixels=306, chipUrl=https://www.paintref.com/chipimages/HDT4T5.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:af8d4bd7e9099508"
+      }
+    },
+    {
+      "code": "68",
+      "marketingName": "Blue Ice",
+      "finish": "solid",
+      "lab": {
+        "L": 59.14,
+        "a": 2.21,
+        "b": -12.45,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #878EA4 (PaintRef chip, OEM=Cadillac, code=68 (models=Cadillac; years=2004-2006), pixels=306, chipUrl=https://www.paintref.com/chipimages/323UEF.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:ab2a01c553493add"
+      }
+    },
+    {
+      "code": "93",
+      "marketingName": "White Gold Pearl",
+      "finish": "solid",
+      "lab": {
+        "L": 95.52,
+        "a": -3.48,
+        "b": 17.14,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #F9F3D1 (PaintRef chip, OEM=Cadillac, code=93 (models=Cadillac; years=2004-2007), pixels=306, chipUrl=https://www.paintref.com/chipimages/4C4DAX.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:19fa310783115dfa"
+      }
+    },
+    {
+      "code": "64U",
+      "marketingName": "Red Brown",
+      "finish": "solid",
+      "lab": {
+        "L": 34.71,
+        "a": 53.73,
+        "b": 38.82,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #A21716 (PaintRef chip, OEM=Cadillac, code=64U (models=Cadillac; year=2004), pixels=306, chipUrl=https://www.paintref.com/chipimages/E5X2XS.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:e250efed719ba3c6"
+      }
+    },
+    {
+      "code": "15",
+      "marketingName": "Cashmere",
+      "finish": "solid",
+      "lab": {
+        "L": 78.91,
+        "a": 4.28,
+        "b": 28.32,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #DEBF8F (PaintRef chip, OEM=Cadillac, code=15 (models=Cadillac; year=2005), pixels=306, chipUrl=https://www.paintref.com/chipimages/AUT434.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:4391a1cabb62f78e"
+      }
+    },
+    {
+      "code": "23",
+      "marketingName": "Green Jewel Frost",
+      "finish": "solid",
+      "lab": {
+        "L": 75.93,
+        "a": -10.66,
+        "b": 17.3,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #B4C09B (PaintRef chip, OEM=Cadillac, code=23 (models=Cadillac; years=2005-2007), pixels=306, chipUrl=https://www.paintref.com/chipimages/TFHGCT.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:687428bc45a06a7a"
+      }
+    },
+    {
+      "code": "26",
+      "marketingName": "Bermuda Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 32.93,
+        "a": -14,
+        "b": -5.71,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #2A5456 (PaintRef chip, OEM=Cadillac, code=26 (models=Cadillac; years=2005-2007), pixels=306, chipUrl=https://www.paintref.com/chipimages/5EWFWS.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:6bbd3c0d0ba32274"
+      }
+    },
+    {
+      "code": "34",
+      "marketingName": "Red Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 47.99,
+        "a": 1.65,
+        "b": -13.83,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #687289 (PaintRef chip, OEM=Cadillac, code=34 (models=Cadillac; year=2005), pixels=306, chipUrl=https://www.paintref.com/chipimages/S3253C.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:9e593e8a21628f6a"
+      }
+    },
+    {
+      "code": "61",
+      "marketingName": "Gold Slate",
+      "finish": "solid",
+      "lab": {
+        "L": 41.85,
+        "a": 1.81,
+        "b": 13.33,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #6E614D (PaintRef chip, OEM=Cadillac, code=61 (models=Cadillac; year=2005), pixels=306, chipUrl=https://www.paintref.com/chipimages/SUSXFA.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:bf976d569776cd9f"
+      }
+    },
+    {
+      "code": "93",
+      "marketingName": "White Gold",
+      "finish": "solid",
+      "lab": {
+        "L": 95.52,
+        "a": -3.48,
+        "b": 17.14,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #F9F3D1 (PaintRef chip, OEM=Cadillac, code=93 (models=Cadillac; year=2005), pixels=306, chipUrl=https://www.paintref.com/chipimages/4C4DAX.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:19fa310783115dfa"
+      }
+    },
+    {
+      "code": "06",
+      "marketingName": "Mary Kay Pearl III",
+      "finish": "solid",
+      "lab": {
+        "L": 83.95,
+        "a": 22.4,
+        "b": -5.32,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #F7C3DC (PaintRef chip, OEM=Cadillac, code=06 (models=Cadillac; years=2006-2007), pixels=306, chipUrl=https://www.paintref.com/chipimages/42HDAH.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:99fd6a12875438dd"
+      }
+    },
+    {
+      "code": "15",
+      "marketingName": "Light Cashmere",
+      "finish": "solid",
+      "lab": {
+        "L": 78.91,
+        "a": 4.28,
+        "b": 28.32,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #DEBF8F (PaintRef chip, OEM=Cadillac, code=15 (models=Cadillac; year=2006), pixels=306, chipUrl=https://www.paintref.com/chipimages/AUT434.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:4391a1cabb62f78e"
+      }
+    },
+    {
+      "code": "19",
+      "marketingName": "Xenon Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 10.36,
+        "a": 29.89,
+        "b": -47.5,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #010F5F (PaintRef chip, OEM=Cadillac, code=19 (models=Cadillac; years=2006-2012), pixels=306, chipUrl=https://www.paintref.com/chipimages/GGG4W4.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:910aa4cdaf2305ac"
+      }
+    },
+    {
+      "code": "23",
+      "marketingName": "Green Silk",
+      "finish": "solid",
+      "lab": {
+        "L": 75.93,
+        "a": -10.66,
+        "b": 17.3,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #B4C09B (PaintRef chip, OEM=Cadillac, code=23 (models=Cadillac; year=2006), pixels=306, chipUrl=https://www.paintref.com/chipimages/TFHGCT.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:687428bc45a06a7a"
+      }
+    },
+    {
+      "code": "25",
+      "marketingName": "Blue Chip",
+      "finish": "solid",
+      "lab": {
+        "L": 15.3,
+        "a": -2.14,
+        "b": -11.96,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #162837 (PaintRef chip, OEM=Cadillac, code=25 (models=Cadillac; years=2006-2008), pixels=306, chipUrl=https://www.paintref.com/chipimages/XS53D2.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:dd066036dce3efff"
+      }
+    },
+    {
+      "code": "34",
+      "marketingName": "Steel Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 47.99,
+        "a": 1.65,
+        "b": -13.83,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #687289 (PaintRef chip, OEM=Cadillac, code=34 (models=Cadillac; year=2006), pixels=306, chipUrl=https://www.paintref.com/chipimages/S3253C.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:9e593e8a21628f6a"
+      }
+    },
+    {
+      "code": "41",
+      "marketingName": "Black Raven",
+      "finish": "solid",
+      "lab": {
+        "L": 0.27,
+        "a": 0,
+        "b": 0,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #010101 (PaintRef chip, OEM=Cadillac, code=41 (models=Cadillac; years=2006-2013), pixels=306, chipUrl=https://www.paintref.com/chipimages/GGGGGG.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:1f437854e2d31a87"
+      }
+    },
+    {
+      "code": "42",
+      "marketingName": "Silver Smoke",
+      "finish": "solid",
+      "lab": {
+        "L": 63.67,
+        "a": -3.7,
+        "b": 3.44,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #969C94 (PaintRef chip, OEM=Cadillac, code=42 (models=Cadillac; years=2006-2012), pixels=306, chipUrl=https://www.paintref.com/chipimages/CSCHCF.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:37d4b4ad71595400"
+      }
+    },
+    {
+      "code": "46",
+      "marketingName": "Stealth Gray",
+      "finish": "solid",
+      "lab": {
+        "L": 56.94,
+        "a": -7.17,
+        "b": -8.46,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #728D97 (PaintRef chip, OEM=Cadillac, code=46 (models=Cadillac; years=2006-2010), pixels=306, chipUrl=https://www.paintref.com/chipimages/253AC2.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:b80f6df605d5c29b"
+      }
+    },
+    {
+      "code": "51",
+      "marketingName": "Gold Mist",
+      "finish": "solid",
+      "lab": {
+        "L": 77.47,
+        "a": -1.31,
+        "b": 17.56,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #CABF9F (PaintRef chip, OEM=Cadillac, code=51 (models=Cadillac; years=2006-2012), pixels=306, chipUrl=https://www.paintref.com/chipimages/HET4C4.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:91677a4b69e5f84c"
+      }
+    },
+    {
+      "code": "53",
+      "marketingName": "Radiant Bronze",
+      "finish": "solid",
+      "lab": {
+        "L": 57,
+        "a": 2.91,
+        "b": 18.97,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #9A8668 (PaintRef chip, OEM=Cadillac, code=53 (models=Cadillac; years=2006-2008), pixels=306, chipUrl=https://www.paintref.com/chipimages/CE3SS3.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:7738332a47268e53"
+      }
+    },
+    {
+      "code": "61",
+      "marketingName": "Sand Storm",
+      "finish": "solid",
+      "lab": {
+        "L": 41.85,
+        "a": 1.81,
+        "b": 13.33,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #6E614D (PaintRef chip, OEM=Cadillac, code=61 (models=Cadillac; year=2006), pixels=306, chipUrl=https://www.paintref.com/chipimages/SUSXFA.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:bf976d569776cd9f"
+      }
+    },
+    {
+      "code": "67",
+      "marketingName": "Light Platinum",
+      "finish": "solid",
+      "lab": {
+        "L": 77.33,
+        "a": -0.89,
+        "b": 7.05,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #C3BFB2 (PaintRef chip, OEM=Cadillac, code=67 (models=Cadillac; years=2006-2008), pixels=306, chipUrl=https://www.paintref.com/chipimages/HDT4T5.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:af8d4bd7e9099508"
+      }
+    },
+    {
+      "code": "71",
+      "marketingName": "Blackberry",
+      "finish": "solid",
+      "lab": {
+        "L": 20.28,
+        "a": 5.1,
+        "b": -8.97,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #322F3E (PaintRef chip, OEM=Cadillac, code=71 (models=Cadillac; year=2006), pixels=306, chipUrl=https://www.paintref.com/chipimages/D554DU.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:a896477c5837d3da"
+      }
+    },
+    {
+      "code": "77",
+      "marketingName": "Glacier Gold",
+      "finish": "solid",
+      "lab": {
+        "L": 94.27,
+        "a": -4.72,
+        "b": 19.98,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #F5F0C8 (PaintRef chip, OEM=Cadillac, code=77 (models=Cadillac; years=2006-2007), pixels=306, chipUrl=https://www.paintref.com/chipimages/4W4GH3.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:fa35d15758cee96f"
+      }
+    },
+    {
+      "code": "80",
+      "marketingName": "Infrared",
+      "finish": "solid",
+      "lab": {
+        "L": 29.65,
+        "a": 42.05,
+        "b": 18.22,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #83212C (PaintRef chip, OEM=Cadillac, code=80 (models=Cadillac; years=2006-2011), pixels=306, chipUrl=https://www.paintref.com/chipimages/3D5X5H.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:5182f5794e1a5a2c"
+      }
+    },
+    {
+      "code": "86",
+      "marketingName": "Crimson Pearl",
+      "finish": "solid",
+      "lab": {
+        "L": 23.98,
+        "a": 38.8,
+        "b": 22.18,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #70161A (PaintRef chip, OEM=Cadillac, code=86 (models=Cadillac; year=2006), pixels=306, chipUrl=https://www.paintref.com/chipimages/2GXSXE.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:8559438b5f3c82c3"
+      }
+    },
+    {
+      "code": "98",
+      "marketingName": "White Lightning",
+      "finish": "solid",
+      "lab": {
+        "L": 99.18,
+        "a": -3.37,
+        "b": 9.57,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #FEFEEA (PaintRef chip, OEM=Cadillac, code=98 (models=Cadillac; year=2006), pixels=306, chipUrl=https://www.paintref.com/chipimages/4U4UUE.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:4a5b0443f6c6966d"
+      }
+    },
+    {
+      "code": "99",
+      "marketingName": "Gunmetal",
+      "finish": "solid",
+      "lab": {
+        "L": 48.53,
+        "a": 2.32,
+        "b": -0.42,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #777274 (PaintRef chip, OEM=Cadillac, code=99 (models=Cadillac; years=2006-2008), pixels=306, chipUrl=https://www.paintref.com/chipimages/22252F.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:9fc0266e9e4a2d3e"
+      }
+    },
+    {
+      "code": "82U",
+      "marketingName": "Star Black",
+      "finish": "solid",
+      "lab": {
+        "L": 0.27,
+        "a": 0,
+        "b": 0,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #010101 (PaintRef chip, OEM=Cadillac, code=82U (models=Cadillac; year=2006), pixels=306, chipUrl=https://www.paintref.com/chipimages/GGGGGG.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:1f437854e2d31a87"
+      }
+    },
+    {
+      "code": "14",
+      "marketingName": "Cosmic Quartz",
+      "finish": "solid",
+      "lab": {
+        "L": 51.17,
+        "a": 3.02,
+        "b": -10.68,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #76798C (PaintRef chip, OEM=Cadillac, code=14 (models=Cadillac; years=2007-2008), pixels=306, chipUrl=https://www.paintref.com/chipimages/2S2C3H.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:ae1eb04f0dee0723"
+      }
+    },
+    {
+      "code": "30",
+      "marketingName": "Kevlava Gray",
+      "finish": "solid",
+      "lab": {
+        "L": 35.16,
+        "a": 1.72,
+        "b": -3.35,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #535258 (PaintRef chip, OEM=Cadillac, code=30 (models=Cadillac; year=2007), pixels=306, chipUrl=https://www.paintref.com/chipimages/WDW5W3.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:326733e7033f19ed"
+      }
+    },
+    {
+      "code": "36",
+      "marketingName": "Golden Quartz",
+      "finish": "solid",
+      "lab": {
+        "L": 46.67,
+        "a": -0.51,
+        "b": -2.06,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #6C6F72 (PaintRef chip, OEM=Cadillac, code=36 (models=Cadillac; years=2007-2008), pixels=306, chipUrl=https://www.paintref.com/chipimages/SHS425.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:e146be5ada2fb2c9"
+      }
+    },
+    {
+      "code": "53",
+      "marketingName": "Antique Bronze",
+      "finish": "solid",
+      "lab": {
+        "L": 57,
+        "a": 2.91,
+        "b": 18.97,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #9A8668 (PaintRef chip, OEM=Cadillac, code=53 (models=Cadillac; year=2007), pixels=306, chipUrl=https://www.paintref.com/chipimages/CE3SS3.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:7738332a47268e53"
+      }
+    },
+    {
+      "code": "54",
+      "marketingName": "Cognac Frost Pearl",
+      "finish": "solid",
+      "lab": {
+        "L": 82.63,
+        "a": 7.43,
+        "b": 15.54,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #E7C8B1 (PaintRef chip, OEM=Cadillac, code=54 (models=Cadillac; year=2007), pixels=306, chipUrl=https://www.paintref.com/chipimages/U2H3TX.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:fdebe279684359ab"
+      }
+    },
+    {
+      "code": "71",
+      "marketingName": "Lunar Quartz",
+      "finish": "solid",
+      "lab": {
+        "L": 20.28,
+        "a": 5.1,
+        "b": -8.97,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #322F3E (PaintRef chip, OEM=Cadillac, code=71 (models=Cadillac; year=2007), pixels=306, chipUrl=https://www.paintref.com/chipimages/D554DU.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:a896477c5837d3da"
+      }
+    },
+    {
+      "code": "78",
+      "marketingName": "Transition Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 55.64,
+        "a": -4.46,
+        "b": -5.17,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #78888E (PaintRef chip, OEM=Cadillac, code=78 (models=Cadillac; years=2007-2009), pixels=306, chipUrl=https://www.paintref.com/chipimages/23333U.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:9f8ebb5940eb3623"
+      }
+    },
+    {
+      "code": "80",
+      "marketingName": "Red Jewel",
+      "finish": "solid",
+      "lab": {
+        "L": 29.65,
+        "a": 42.05,
+        "b": 18.22,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #83212C (PaintRef chip, OEM=Cadillac, code=80 (models=Cadillac; years=2007-2012), pixels=306, chipUrl=https://www.paintref.com/chipimages/3D5X5H.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:5182f5794e1a5a2c"
+      }
+    },
+    {
+      "code": "08",
+      "marketingName": "Mary Kay Pink",
+      "finish": "solid",
+      "lab": {
+        "L": 90.11,
+        "a": 9.23,
+        "b": -2.14,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #F3DDE7 (PaintRef chip, OEM=Cadillac, code=08 (models=Cadillac; years=2008-2016), pixels=306, chipUrl=https://www.paintref.com/chipimages/4DAAU2.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:01f447138b9d0bae"
+      }
+    },
+    {
+      "code": "11",
+      "marketingName": "Goldstream",
+      "finish": "solid",
+      "lab": {
+        "L": 78.72,
+        "a": 9.76,
+        "b": 10.95,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #DDBCAF (PaintRef chip, OEM=Cadillac, code=11 (models=Cadillac; year=2008), pixels=306, chipUrl=https://www.paintref.com/chipimages/AATHE4.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:849292fabb3e8938"
+      }
+    },
+    {
+      "code": "12",
+      "marketingName": "Black Cherry",
+      "finish": "solid",
+      "lab": {
+        "L": 9.74,
+        "a": 13.55,
+        "b": -5.83,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #291423 (PaintRef chip, OEM=Cadillac, code=12 (models=Cadillac; years=2008-2009), pixels=306, chipUrl=https://www.paintref.com/chipimages/5CXF5D.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:e18c7f4a40e53db1"
+      }
+    },
+    {
+      "code": "30",
+      "marketingName": "Thunder Gray",
+      "finish": "solid",
+      "lab": {
+        "L": 35.16,
+        "a": 1.72,
+        "b": -3.35,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #535258 (PaintRef chip, OEM=Cadillac, code=30 (models=Cadillac; years=2008-2013), pixels=306, chipUrl=https://www.paintref.com/chipimages/WDW5W3.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:326733e7033f19ed"
+      }
+    },
+    {
+      "code": "41",
+      "marketingName": "Raven Black",
+      "finish": "solid",
+      "lab": {
+        "L": 0.27,
+        "a": 0,
+        "b": 0,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #010101 (PaintRef chip, OEM=Cadillac, code=41 (models=Cadillac; years=2008-2010), pixels=306, chipUrl=https://www.paintref.com/chipimages/GGGGGG.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:1f437854e2d31a87"
+      }
+    },
+    {
+      "code": "54",
+      "marketingName": "Cognac Frost",
+      "finish": "solid",
+      "lab": {
+        "L": 82.63,
+        "a": 7.43,
+        "b": 15.54,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #E7C8B1 (PaintRef chip, OEM=Cadillac, code=54 (models=Cadillac; year=2008), pixels=306, chipUrl=https://www.paintref.com/chipimages/U2H3TX.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:fdebe279684359ab"
+      }
+    },
+    {
+      "code": "56",
+      "marketingName": "Hot Lava Orange",
+      "finish": "solid",
+      "lab": {
+        "L": 56.82,
+        "a": 46.15,
+        "b": 54.77,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #E06227 (PaintRef chip, OEM=Cadillac, code=56 (models=Cadillac; year=2008), pixels=306, chipUrl=https://www.paintref.com/chipimages/UGS552.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:c15e24fa9d9e8e2f"
+      }
+    },
+    {
+      "code": "59",
+      "marketingName": "Quicksilver",
+      "finish": "solid",
+      "lab": {
+        "L": 84.01,
+        "a": -1.9,
+        "b": 8.79,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #D5D2C1 (PaintRef chip, OEM=Cadillac, code=59 (models=Cadillac; year=2008), pixels=306, chipUrl=https://www.paintref.com/chipimages/AWA5HX.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:898a31838d3c9015"
+      }
+    },
+    {
+      "code": "66",
+      "marketingName": "Sonoma Jewel",
+      "finish": "solid",
+      "lab": {
+        "L": 22.67,
+        "a": 38.93,
+        "b": 19.1,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #6C121C (PaintRef chip, OEM=Cadillac, code=66 (models=Cadillac; years=2008-2009), pixels=306, chipUrl=https://www.paintref.com/chipimages/SHX5XH.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:533e06d39e68f53f"
+      }
+    },
+    {
+      "code": "76",
+      "marketingName": "Double Espresso",
+      "finish": "solid",
+      "lab": {
+        "L": 32.71,
+        "a": 2.94,
+        "b": 7.06,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #564B42 (PaintRef chip, OEM=Cadillac, code=76 (models=Cadillac; year=2008), pixels=306, chipUrl=https://www.paintref.com/chipimages/WSFTF5.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:2aa822be9638f23b"
+      }
+    },
+    {
+      "code": "78",
+      "marketingName": "Sunset Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 55.64,
+        "a": -4.46,
+        "b": -5.17,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #78888E (PaintRef chip, OEM=Cadillac, code=78 (models=Cadillac; year=2008), pixels=306, chipUrl=https://www.paintref.com/chipimages/23333U.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:9f8ebb5940eb3623"
+      }
+    },
+    {
+      "code": "85",
+      "marketingName": "Elektra Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 44.46,
+        "a": -5.87,
+        "b": -24.83,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #3B6E92 (PaintRef chip, OEM=Cadillac, code=85 (models=Cadillac; year=2008), pixels=306, chipUrl=https://www.paintref.com/chipimages/DTSUC5.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:eb7e11d62dd82a3e"
+      }
+    },
+    {
+      "code": "89",
+      "marketingName": "Crystal Red",
+      "finish": "solid",
+      "lab": {
+        "L": 25.79,
+        "a": 36.42,
+        "b": 19.2,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #721F22 (PaintRef chip, OEM=Cadillac, code=89 (models=Cadillac; years=2008-2012), pixels=306, chipUrl=https://www.paintref.com/chipimages/25X455.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:f0a4fdea7a5ccc8f"
+      }
+    },
+    {
+      "code": "96",
+      "marketingName": "Blue Diamond",
+      "finish": "solid",
+      "lab": {
+        "L": 28.45,
+        "a": 0.93,
+        "b": -5.84,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #40434C (PaintRef chip, OEM=Cadillac, code=96 (models=Cadillac; years=2008-2009), pixels=306, chipUrl=https://www.paintref.com/chipimages/FGFDFH.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:8609b405f1e094f4"
+      }
+    },
+    {
+      "code": "GAR",
+      "marketingName": "Black Ice",
+      "finish": "solid",
+      "lab": {
+        "L": 21.25,
+        "a": 0,
+        "b": 0,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #333333 (PaintRef chip, OEM=Cadillac, code=GAR (models=Cadillac; years=2008-2014), pixels=306, chipUrl=https://www.paintref.com/chipimages/DDDDDD.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:f30b7dff25d749a8"
+      }
+    },
+    {
+      "code": "17",
+      "marketingName": "Radiant Silver",
+      "finish": "solid",
+      "lab": {
+        "L": 86.73,
+        "a": 3.47,
+        "b": -12.67,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #D4D8F1 (PaintRef chip, OEM=Cadillac, code=17 (models=Cadillac; years=2009-2013), pixels=306, chipUrl=https://www.paintref.com/chipimages/AFA34X.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:45bac73a248a3392"
+      }
+    },
+    {
+      "code": "25",
+      "marketingName": "Ocean Pearl",
+      "finish": "solid",
+      "lab": {
+        "L": 15.3,
+        "a": -2.14,
+        "b": -11.96,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #162837 (PaintRef chip, OEM=Cadillac, code=25 (models=Cadillac; years=2009-2010), pixels=306, chipUrl=https://www.paintref.com/chipimages/XS53D2.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:dd066036dce3efff"
+      }
+    },
+    {
+      "code": "57",
+      "marketingName": "Gray Flannel",
+      "finish": "solid",
+      "lab": {
+        "L": 45.78,
+        "a": 3.62,
+        "b": -8.18,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #6C6B7A (PaintRef chip, OEM=Cadillac, code=57 (models=Cadillac; years=2009-2011), pixels=306, chipUrl=https://www.paintref.com/chipimages/SHST2E.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:31471c59b376bcc9"
+      }
+    },
+    {
+      "code": "76",
+      "marketingName": "Mocha Bronze",
+      "finish": "solid",
+      "lab": {
+        "L": 32.71,
+        "a": 2.94,
+        "b": 7.06,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #564B42 (PaintRef chip, OEM=Cadillac, code=76 (models=Cadillac; year=2009), pixels=306, chipUrl=https://www.paintref.com/chipimages/WSFTF5.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:2aa822be9638f23b"
+      }
+    },
+    {
+      "code": "91",
+      "marketingName": "Pearl Frost",
+      "finish": "solid",
+      "lab": {
+        "L": 97.11,
+        "a": 1,
+        "b": 0.35,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #F9F6F6 (PaintRef chip, OEM=Cadillac, code=91 (models=Cadillac; years=2009-2010), pixels=306, chipUrl=https://www.paintref.com/chipimages/4C4S4S.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:fbacfefe263d53cd"
+      }
+    },
+    {
+      "code": "40",
+      "marketingName": "Cotillion White",
+      "finish": "solid",
+      "lab": {
+        "L": 96.72,
+        "a": -1.71,
+        "b": 8.05,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #F9F6E6 (PaintRef chip, OEM=Cadillac, code=40 (models=Cadillac; years=2010-2011), pixels=306, chipUrl=https://www.paintref.com/chipimages/4C4SUS.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:46c683920093b8d3"
+      }
+    },
+    {
+      "code": "97",
+      "marketingName": "Vanilla Latte",
+      "finish": "solid",
+      "lab": {
+        "L": 81.78,
+        "a": -2.69,
+        "b": 12.47,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #D0CCB4 (PaintRef chip, OEM=Cadillac, code=97 (models=Cadillac; years=2010-2011), pixels=306, chipUrl=https://www.paintref.com/chipimages/AGHHTF.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:845d05d522f31bac"
+      }
+    },
+    {
+      "code": "G7Z",
+      "marketingName": "Celestial Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 27.28,
+        "a": 6.73,
+        "b": -32.92,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #1F4073 (PaintRef chip, OEM=Cadillac, code=G7Z (models=Cadillac; year=2010), pixels=306, chipUrl=https://www.paintref.com/chipimages/X4FG2D.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:73ff97c3d26a4379"
+      }
+    },
+    {
+      "code": "GAP",
+      "marketingName": "Imperial Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 13.96,
+        "a": 6.45,
+        "b": -19.65,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #1A223F (PaintRef chip, OEM=Cadillac, code=GAP (models=Cadillac; years=2010-2011), pixels=306, chipUrl=https://www.paintref.com/chipimages/XE55D4.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:f943356067eff1bb"
+      }
+    },
+    {
+      "code": "GBD",
+      "marketingName": "Caribbean Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 36.78,
+        "a": -7.38,
+        "b": -25.4,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #1B5C7F (PaintRef chip, OEM=Cadillac, code=GBD (models=Cadillac; year=2010), pixels=306, chipUrl=https://www.paintref.com/chipimages/XTWH24.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:fc710728e4e3895e"
+      }
+    },
+    {
+      "code": "GBO",
+      "marketingName": "Blue Diamond",
+      "finish": "solid",
+      "lab": {
+        "L": 28.45,
+        "a": 0.93,
+        "b": -5.84,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #40434C (PaintRef chip, OEM=Cadillac, code=GBO (models=Cadillac; year=2010), pixels=306, chipUrl=https://www.paintref.com/chipimages/FGFDFH.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:8609b405f1e094f4"
+      }
+    },
+    {
+      "code": "GBR",
+      "marketingName": "Platinum Ice",
+      "finish": "solid",
+      "lab": {
+        "L": 93.92,
+        "a": 0.65,
+        "b": 1.32,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #F0EDEB (PaintRef chip, OEM=Cadillac, code=GBR (models=Cadillac; years=2010-2016), pixels=306, chipUrl=https://www.paintref.com/chipimages/4GUAUT.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:df0bbb9d966caa71"
+      }
+    },
+    {
+      "code": "GGU",
+      "marketingName": "Evolution Green",
+      "finish": "solid",
+      "lab": {
+        "L": 37.65,
+        "a": -1.23,
+        "b": 3.47,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #595953 (PaintRef chip, OEM=Cadillac, code=GGU (models=Cadillac; years=2010-2013), pixels=306, chipUrl=https://www.paintref.com/chipimages/WCWCWD.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:be2d10fd448e090a"
+      }
+    },
+    {
+      "code": "GGW",
+      "marketingName": "Galaxy Gray",
+      "finish": "solid",
+      "lab": {
+        "L": 19.34,
+        "a": 2.04,
+        "b": -1.44,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #312E31 (PaintRef chip, OEM=Cadillac, code=GGW (models=Cadillac; years=2010-2011), pixels=306, chipUrl=https://www.paintref.com/chipimages/DX5UDX.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:d13bd1de48fe8725"
+      }
+    },
+    {
+      "code": "GGX",
+      "marketingName": "Tuscan Bronze",
+      "finish": "solid",
+      "lab": {
+        "L": 46.77,
+        "a": 0.57,
+        "b": 8.94,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #766E60 (PaintRef chip, OEM=Cadillac, code=GGX (models=Cadillac; years=2010-2011), pixels=306, chipUrl=https://www.paintref.com/chipimages/2SSUSG.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:067eb47a58545151"
+      }
+    },
+    {
+      "code": "GGZ",
+      "marketingName": "Silver Lining",
+      "finish": "solid",
+      "lab": {
+        "L": 92.3,
+        "a": -0.16,
+        "b": -0.6,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #E8E9EA (PaintRef chip, OEM=Cadillac, code=GGZ (models=Cadillac; years=2010-2011), pixels=306, chipUrl=https://www.paintref.com/chipimages/U3UCUE.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:8f856c3a41791689"
+      }
+    },
+    {
+      "code": "GIP",
+      "marketingName": "Black Cherry",
+      "finish": "solid",
+      "lab": {
+        "L": 9.74,
+        "a": 13.55,
+        "b": -5.83,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #291423 (PaintRef chip, OEM=Cadillac, code=GIP (models=Cadillac; year=2010), pixels=306, chipUrl=https://www.paintref.com/chipimages/5CXF5D.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:e18c7f4a40e53db1"
+      }
+    },
+    {
+      "code": "GLH",
+      "marketingName": "Thunder Gray",
+      "finish": "solid",
+      "lab": {
+        "L": 35.16,
+        "a": 1.72,
+        "b": -3.35,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #535258 (PaintRef chip, OEM=Cadillac, code=GLH (models=Cadillac; years=2010-2011), pixels=306, chipUrl=https://www.paintref.com/chipimages/WDW5W3.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:326733e7033f19ed"
+      }
+    },
+    {
+      "code": "GHA",
+      "marketingName": "Mocha Steel",
+      "finish": "solid",
+      "lab": {
+        "L": 54.95,
+        "a": 2.11,
+        "b": 5.01,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #8B827B (PaintRef chip, OEM=Cadillac, code=GHA (models=Cadillac; years=2011-2014), pixels=306, chipUrl=https://www.paintref.com/chipimages/3T352T.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:9af123840a140ce1"
+      }
+    },
+    {
+      "code": "GLF",
+      "marketingName": "Blue Frost",
+      "finish": "solid",
+      "lab": {
+        "L": 72.73,
+        "a": -8.9,
+        "b": -8.75,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #97B8C2 (PaintRef chip, OEM=Cadillac, code=GLF (models=Cadillac; year=2011), pixels=306, chipUrl=https://www.paintref.com/chipimages/C2T3H5.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:44bea28db761d357"
+      }
+    },
+    {
+      "code": "46",
+      "marketingName": "Gray Flannel",
+      "finish": "solid",
+      "lab": {
+        "L": 56.94,
+        "a": -7.17,
+        "b": -8.46,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #728D97 (PaintRef chip, OEM=Cadillac, code=46 (models=Cadillac; years=2012-2013), pixels=306, chipUrl=https://www.paintref.com/chipimages/253AC2.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:b80f6df605d5c29b"
+      }
+    },
+    {
+      "code": "GLK",
+      "marketingName": "Black Diamond",
+      "finish": "solid",
+      "lab": {
+        "L": 0.27,
+        "a": 0,
+        "b": 0,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #010101 (PaintRef chip, OEM=Cadillac, code=GLK (models=Cadillac; years=2012-2024), pixels=306, chipUrl=https://www.paintref.com/chipimages/GGGGGG.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:1f437854e2d31a87"
+      }
+    },
+    {
+      "code": "GTR",
+      "marketingName": "Opulent Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 25.58,
+        "a": 15.1,
+        "b": -43.25,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #14397F (PaintRef chip, OEM=Cadillac, code=GTR (models=Cadillac; years=2012-2026), pixels=306, chipUrl=https://www.paintref.com/chipimages/XFDC24.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:5ea1bb90e2a7439b"
+      }
+    },
+    {
+      "code": "16",
+      "marketingName": "Graystone",
+      "finish": "solid",
+      "lab": {
+        "L": 61.81,
+        "a": 0.16,
+        "b": 3.02,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #989590 (PaintRef chip, OEM=Cadillac, code=16 (models=Cadillac; year=2012), pixels=306, chipUrl=https://www.paintref.com/chipimages/C3CWCG.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:c3fbff761a4c375e"
+      }
+    },
+    {
+      "code": "57",
+      "marketingName": "Cyber Gray",
+      "finish": "solid",
+      "lab": {
+        "L": 45.78,
+        "a": 3.62,
+        "b": -8.18,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #6C6B7A (PaintRef chip, OEM=Cadillac, code=57 (models=Cadillac; year=2012), pixels=306, chipUrl=https://www.paintref.com/chipimages/SHST2E.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:31471c59b376bcc9"
+      }
+    },
+    {
+      "code": "62",
+      "marketingName": "Dark Labyrinth",
+      "finish": "solid",
+      "lab": {
+        "L": 19.34,
+        "a": 2.04,
+        "b": -1.44,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #312E31 (PaintRef chip, OEM=Cadillac, code=62 (models=Cadillac; year=2012), pixels=306, chipUrl=https://www.paintref.com/chipimages/DX5UDX.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:d13bd1de48fe8725"
+      }
+    },
+    {
+      "code": "94",
+      "marketingName": "Platinum Ice",
+      "finish": "solid",
+      "lab": {
+        "L": 93.92,
+        "a": 0.65,
+        "b": 1.32,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #F0EDEB (PaintRef chip, OEM=Cadillac, code=94 (models=Cadillac; years=2012-2015), pixels=306, chipUrl=https://www.paintref.com/chipimages/4GUAUT.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:df0bbb9d966caa71"
+      }
+    },
+    {
+      "code": "97",
+      "marketingName": "Tiara Tan",
+      "finish": "solid",
+      "lab": {
+        "L": 81.78,
+        "a": -2.69,
+        "b": 12.47,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #D0CCB4 (PaintRef chip, OEM=Cadillac, code=97 (models=Cadillac; year=2012), pixels=306, chipUrl=https://www.paintref.com/chipimages/AGHHTF.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:845d05d522f31bac"
+      }
+    },
+    {
+      "code": "33",
+      "marketingName": "Evolution Green",
+      "finish": "solid",
+      "lab": {
+        "L": 37.65,
+        "a": -1.23,
+        "b": 3.47,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #595953 (PaintRef chip, OEM=Cadillac, code=33 (models=Cadillac; year=2012), pixels=306, chipUrl=https://www.paintref.com/chipimages/WCWCWD.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:be2d10fd448e090a"
+      }
+    },
+    {
+      "code": "GWS",
+      "marketingName": "Glacier Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 71.07,
+        "a": -7.84,
+        "b": -9.59,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #94B3BF (PaintRef chip, OEM=Cadillac, code=GWS (models=ATS; year=2013), pixels=306, chipUrl=https://www.paintref.com/chipimages/CFTDT4.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:682b3707175beb60"
+      }
+    },
+    {
+      "code": "GWT",
+      "marketingName": "Silver Coast",
+      "finish": "solid",
+      "lab": {
+        "L": 83.2,
+        "a": -0.67,
+        "b": 8.68,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #D5CFBF (PaintRef chip, OEM=Cadillac, code=GWT (models=ATS; years=2013-2017), pixels=306, chipUrl=https://www.paintref.com/chipimages/AWH4T4.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:af1b71eacce6041a"
+      }
+    },
+    {
+      "code": "GWV",
+      "marketingName": "Summer Gold",
+      "finish": "solid",
+      "lab": {
+        "L": 62.96,
+        "a": 9.02,
+        "b": 35.6,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #BB9159 (PaintRef chip, OEM=Cadillac, code=GWV (models=ATS; year=2013), pixels=306, chipUrl=https://www.paintref.com/chipimages/TTCXWC.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:cc552cd307b2c154"
+      }
+    },
+    {
+      "code": "GLJ",
+      "marketingName": "Graphite",
+      "finish": "solid",
+      "lab": {
+        "L": 28.41,
+        "a": 0,
+        "b": 0,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #434343 (PaintRef chip, OEM=Cadillac, code=GLJ (models=Cadillac; years=2013-2016), pixels=306, chipUrl=https://www.paintref.com/chipimages/FDFDFD.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:d1b392c0105a8fd3"
+      }
+    },
+    {
+      "code": "GTR",
+      "marketingName": "Xenon Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 25.58,
+        "a": 15.1,
+        "b": -43.25,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #14397F (PaintRef chip, OEM=Cadillac, code=GTR (models=Cadillac; year=2013), pixels=306, chipUrl=https://www.paintref.com/chipimages/XFDC24.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:5ea1bb90e2a7439b"
+      }
+    },
+    {
+      "code": "GXH",
+      "marketingName": "Sapphire Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 20.72,
+        "a": 13.66,
+        "b": -27.16,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #2D2D5A (PaintRef chip, OEM=Cadillac, code=GXH (models=Cadillac; years=2013-2016), pixels=306, chipUrl=https://www.paintref.com/chipimages/5A5AWE.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:95546e90a906a669"
+      }
+    },
+    {
+      "code": "G7E",
+      "marketingName": "Red Obsession",
+      "finish": "solid",
+      "lab": {
+        "L": 22.09,
+        "a": 38.5,
+        "b": 19.65,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #6A111A (PaintRef chip, OEM=Cadillac, code=G7E (models=ATS; years=2014-2020), pixels=306, chipUrl=https://www.paintref.com/chipimages/SEXXXE.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:90f7baae00dab1e9"
+      }
+    },
+    {
+      "code": "G7Q",
+      "marketingName": "Gray",
+      "finish": "solid",
+      "lab": {
+        "L": 37.41,
+        "a": 0,
+        "b": 0,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #585858 (PaintRef chip, OEM=Cadillac, code=G7Q (models=ATS; year=2014), pixels=306, chipUrl=https://www.paintref.com/chipimages/W3W3W3.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:712c7833968031a6"
+      }
+    },
+    {
+      "code": "G7T",
+      "marketingName": "Baroque Red",
+      "finish": "solid",
+      "lab": {
+        "L": 22.24,
+        "a": 37.23,
+        "b": 19.11,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #69141B (PaintRef chip, OEM=Cadillac, code=G7T (models=ATS; year=2014), pixels=306, chipUrl=https://www.paintref.com/chipimages/SCXFXT.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:1beb9379232cff45"
+      }
+    },
+    {
+      "code": "G7U",
+      "marketingName": "Midnight Plum",
+      "finish": "solid",
+      "lab": {
+        "L": 26.04,
+        "a": 9.26,
+        "b": -4.09,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #493944 (PaintRef chip, OEM=Cadillac, code=G7U (models=ATS; year=2014), pixels=306, chipUrl=https://www.paintref.com/chipimages/FCDCFF.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:cadfac8e2c38aebd"
+      }
+    },
+    {
+      "code": "GAN",
+      "marketingName": "Radiant Silver",
+      "finish": "solid",
+      "lab": {
+        "L": 86.73,
+        "a": 3.47,
+        "b": -12.67,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #D4D8F1 (PaintRef chip, OEM=Cadillac, code=GAN (models=ATS; years=2014-2022), pixels=306, chipUrl=https://www.paintref.com/chipimages/AFA34X.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:45bac73a248a3392"
+      }
+    },
+    {
+      "code": "GBA",
+      "marketingName": "Black Raven",
+      "finish": "solid",
+      "lab": {
+        "L": 0.27,
+        "a": 0,
+        "b": 0,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #010101 (PaintRef chip, OEM=Cadillac, code=GBA (models=ATS; years=2014-2026), pixels=306, chipUrl=https://www.paintref.com/chipimages/GGGGGG.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:1f437854e2d31a87"
+      }
+    },
+    {
+      "code": "GBN",
+      "marketingName": "White Diamond",
+      "finish": "solid",
+      "lab": {
+        "L": 99.18,
+        "a": -3.37,
+        "b": 9.57,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #FEFEEA (PaintRef chip, OEM=Cadillac, code=GBN (models=ATS; years=2014-2015), pixels=306, chipUrl=https://www.paintref.com/chipimages/4U4UUE.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:4a5b0443f6c6966d"
+      }
+    },
+    {
+      "code": "GKP",
+      "marketingName": "Mary Kay Pink",
+      "finish": "solid",
+      "lab": {
+        "L": 90.11,
+        "a": 9.23,
+        "b": -2.14,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #F3DDE7 (PaintRef chip, OEM=Cadillac, code=GKP (models=ATS; years=2014-2020), pixels=306, chipUrl=https://www.paintref.com/chipimages/4DAAU2.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:01f447138b9d0bae"
+      }
+    },
+    {
+      "code": "GWS",
+      "marketingName": "Silver Topaz",
+      "finish": "solid",
+      "lab": {
+        "L": 71.07,
+        "a": -7.84,
+        "b": -9.59,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #94B3BF (PaintRef chip, OEM=Cadillac, code=GWS (models=ATS; year=2014), pixels=306, chipUrl=https://www.paintref.com/chipimages/CFTDT4.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:682b3707175beb60"
+      }
+    },
+    {
+      "code": "G7Q",
+      "marketingName": "Phantom Gray",
+      "finish": "solid",
+      "lab": {
+        "L": 22.71,
+        "a": -1.38,
+        "b": -2.6,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #32373A (PaintRef chip, OEM=Cadillac, code=G7Q (models=Cadillac; years=2014-2019), pixels=306, chipUrl=https://www.paintref.com/chipimages/D5D2DE.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:770d6b10520badf4"
+      }
+    },
+    {
+      "code": "G7U",
+      "marketingName": "Majestic Plum",
+      "finish": "solid",
+      "lab": {
+        "L": 26.04,
+        "a": 9.26,
+        "b": -4.09,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #493944 (PaintRef chip, OEM=Cadillac, code=G7U (models=Cadillac; years=2014-2017), pixels=306, chipUrl=https://www.paintref.com/chipimages/FCDCFF.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:cadfac8e2c38aebd"
+      }
+    },
+    {
+      "code": "GAZ",
+      "marketingName": "Summit White",
+      "finish": "solid",
+      "lab": {
+        "L": 95.42,
+        "a": -0.71,
+        "b": 3.01,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #F3F2EC (PaintRef chip, OEM=Cadillac, code=GAZ (models=Cadillac; years=2014-2026), pixels=306, chipUrl=https://www.paintref.com/chipimages/4D45UH.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:34e9268ebabfd5bc"
+      }
+    },
+    {
+      "code": "GBE",
+      "marketingName": "Crystal Red",
+      "finish": "solid",
+      "lab": {
+        "L": 25.79,
+        "a": 36.42,
+        "b": 19.2,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #721F22 (PaintRef chip, OEM=Cadillac, code=GBE (models=Cadillac; years=2014-2016), pixels=306, chipUrl=https://www.paintref.com/chipimages/25X455.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:f0a4fdea7a5ccc8f"
+      }
+    },
+    {
+      "code": "GWU",
+      "marketingName": "Concord",
+      "finish": "solid",
+      "lab": {
+        "L": 9.83,
+        "a": 23.89,
+        "b": -37.49,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #13114F (PaintRef chip, OEM=Cadillac, code=GWU (models=Cadillac; year=2014), pixels=306, chipUrl=https://www.paintref.com/chipimages/XDXXF4.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:7e1aa5526b941c84"
+      }
+    },
+    {
+      "code": "GWX",
+      "marketingName": "Subterranean",
+      "finish": "solid",
+      "lab": {
+        "L": 63.84,
+        "a": -0.05,
+        "b": 9.98,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #A29A89 (PaintRef chip, OEM=Cadillac, code=GWX (models=Cadillac; year=2014), pixels=306, chipUrl=https://www.paintref.com/chipimages/E5CE3C.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:49adda31c77992f7"
+      }
+    },
+    {
+      "code": "G1M",
+      "marketingName": "Dark Adriatic Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 18.36,
+        "a": 3.14,
+        "b": -10.6,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #292C3C (PaintRef chip, OEM=Cadillac, code=G1M (models=ATS; years=2015-2020), pixels=306, chipUrl=https://www.paintref.com/chipimages/5C5HDH.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:bcd375a65542cf6a"
+      }
+    },
+    {
+      "code": "G1W",
+      "marketingName": "Crystal White",
+      "finish": "solid",
+      "lab": {
+        "L": 82.78,
+        "a": -1.29,
+        "b": -2.69,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #C9CFD3 (PaintRef chip, OEM=Cadillac, code=G1W (models=ATS; years=2015-2026), pixels=306, chipUrl=https://www.paintref.com/chipimages/HCH4AD.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:e04aca41ed4ebaca"
+      }
+    },
+    {
+      "code": "GBA",
+      "marketingName": "Black Ravin",
+      "finish": "solid",
+      "lab": {
+        "L": 0.27,
+        "a": 0,
+        "b": 0,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #010101 (PaintRef chip, OEM=Cadillac, code=GBA (models=ATS; year=2015), pixels=306, chipUrl=https://www.paintref.com/chipimages/GGGGGG.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:1f437854e2d31a87"
+      }
+    },
+    {
+      "code": "G1F",
+      "marketingName": "Cocoa Bronze",
+      "finish": "solid",
+      "lab": {
+        "L": 26.66,
+        "a": 9.19,
+        "b": 2.18,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #4E3A3C (PaintRef chip, OEM=Cadillac, code=G1F (models=Cadillac; years=2015-2018), pixels=306, chipUrl=https://www.paintref.com/chipimages/FUDEDH.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:f96cb9d9ada5fbf4"
+      }
+    },
+    {
+      "code": "GWX",
+      "marketingName": "Terra Mocha",
+      "finish": "solid",
+      "lab": {
+        "L": 63.84,
+        "a": -0.05,
+        "b": 9.98,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #A29A89 (PaintRef chip, OEM=Cadillac, code=GWX (models=Cadillac; years=2015-2017), pixels=306, chipUrl=https://www.paintref.com/chipimages/E5CE3C.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:49adda31c77992f7"
+      }
+    },
+    {
+      "code": "GXG",
+      "marketingName": "Dark Granite",
+      "finish": "solid",
+      "lab": {
+        "L": 22.06,
+        "a": 4,
+        "b": -2.81,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #393339 (PaintRef chip, OEM=Cadillac, code=GXG (models=Cadillac; years=2015-2019), pixels=306, chipUrl=https://www.paintref.com/chipimages/DCDDDC.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:351f12a24d199ae4"
+      }
+    },
+    {
+      "code": "18",
+      "marketingName": "Mary Kay Pink",
+      "finish": "solid",
+      "lab": {
+        "L": 90.11,
+        "a": 9.23,
+        "b": -2.14,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #F3DDE7 (PaintRef chip, OEM=Cadillac, code=18 (models=Cadillac; year=2015), pixels=306, chipUrl=https://www.paintref.com/chipimages/4DAAU2.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:01f447138b9d0bae"
+      }
+    },
+    {
+      "code": "G7V",
+      "marketingName": "Crystal White",
+      "finish": "solid",
+      "lab": {
+        "L": 88.48,
+        "a": -1.27,
+        "b": -2.66,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #D9DFE3 (PaintRef chip, OEM=Cadillac, code=G7V (models=ATS; year=2016), pixels=306, chipUrl=https://www.paintref.com/chipimages/ACA4UD.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:57958152237b0d22"
+      }
+    },
+    {
+      "code": "GA6",
+      "marketingName": "Moonstone",
+      "finish": "solid",
+      "lab": {
+        "L": 30.03,
+        "a": -2.68,
+        "b": -0.24,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #424847 (PaintRef chip, OEM=Cadillac, code=GA6 (models=ATS; years=2016-2018), pixels=306, chipUrl=https://www.paintref.com/chipimages/F5F3F2.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:e7ee68531e0eeecb"
+      }
+    },
+    {
+      "code": "GB8",
+      "marketingName": "Stellar Black",
+      "finish": "solid",
+      "lab": {
+        "L": 4.68,
+        "a": 0,
+        "b": 0,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #101010 (PaintRef chip, OEM=Cadillac, code=GB8 (models=ATS; years=2016-2026), pixels=306, chipUrl=https://www.paintref.com/chipimages/XGXGXG.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:759f72c6ff1da519"
+      }
+    },
+    {
+      "code": "GD1",
+      "marketingName": "Vector Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 36.52,
+        "a": 24.18,
+        "b": -61.84,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #0F4FBB (PaintRef chip, OEM=Cadillac, code=GD1 (models=ATS; years=2016-2018), pixels=306, chipUrl=https://www.paintref.com/chipimages/G4F4TT.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:e47e33c585708f92"
+      }
+    },
+    {
+      "code": "G1C",
+      "marketingName": "Gray SIlk",
+      "finish": "solid",
+      "lab": {
+        "L": 48.88,
+        "a": 0.5,
+        "b": -15.44,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #66758E (PaintRef chip, OEM=Cadillac, code=G1C (models=Cadillac; years=2016-2017), pixels=306, chipUrl=https://www.paintref.com/chipimages/SS2W3U.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:20e0d33c1bb5639a"
+      }
+    },
+    {
+      "code": "G1E",
+      "marketingName": "Red Passion",
+      "finish": "solid",
+      "lab": {
+        "L": 17.23,
+        "a": 33.76,
+        "b": 14.83,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #570C17 (PaintRef chip, OEM=Cadillac, code=G1E (models=Cadillac; years=2016-2020), pixels=306, chipUrl=https://www.paintref.com/chipimages/W2GHX2.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:c714cda58ccce7f2"
+      }
+    },
+    {
+      "code": "GC8",
+      "marketingName": "Dark Emerald",
+      "finish": "solid",
+      "lab": {
+        "L": 21.21,
+        "a": -7.22,
+        "b": 0.5,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #273632 (PaintRef chip, OEM=Cadillac, code=GC8 (models=Cadillac; years=2016-2017), pixels=306, chipUrl=https://www.paintref.com/chipimages/52DSD5.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:ef90dde144ca3802"
+      }
+    },
+    {
+      "code": "G1M",
+      "marketingName": "Dark Adriatic",
+      "finish": "solid",
+      "lab": {
+        "L": 18.36,
+        "a": 3.14,
+        "b": -10.6,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #292C3C (PaintRef chip, OEM=Cadillac, code=G1M (models=ATS; year=2017), pixels=306, chipUrl=https://www.paintref.com/chipimages/5C5HDH.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:bcd375a65542cf6a"
+      }
+    },
+    {
+      "code": "G7C",
+      "marketingName": "Velocity Red",
+      "finish": "solid",
+      "lab": {
+        "L": 44.07,
+        "a": 69.38,
+        "b": 56.63,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #D30105 (PaintRef chip, OEM=Cadillac, code=G7C (models=ATS; years=2017-2021), pixels=306, chipUrl=https://www.paintref.com/chipimages/ADGGGW.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:656d0fb3f8a3c2f0"
+      }
+    },
+    {
+      "code": "GGA",
+      "marketingName": "Deep Amethyst",
+      "finish": "solid",
+      "lab": {
+        "L": 17.78,
+        "a": 10.27,
+        "b": 2.7,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #3B2628 (PaintRef chip, OEM=Cadillac, code=GGA (models=ATS; years=2017-2018), pixels=306, chipUrl=https://www.paintref.com/chipimages/DT5S53.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:7890172c5a7c8899"
+      }
+    },
+    {
+      "code": "GGB",
+      "marketingName": "Silver Moonlight",
+      "finish": "solid",
+      "lab": {
+        "L": 84.15,
+        "a": -5.51,
+        "b": -11.95,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #BAD6E8 (PaintRef chip, OEM=Cadillac, code=GGB (models=ATS; years=2017-2018), pixels=306, chipUrl=https://www.paintref.com/chipimages/TEASU3.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:c2332af31d7c3f9c"
+      }
+    },
+    {
+      "code": "GMU",
+      "marketingName": "Bronze Dune",
+      "finish": "solid",
+      "lab": {
+        "L": 38.24,
+        "a": -0.22,
+        "b": 1.87,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #5B5A57 (PaintRef chip, OEM=Cadillac, code=GMU (models=ATS; years=2017-2019), pixels=306, chipUrl=https://www.paintref.com/chipimages/WTWEW2.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:07acefedf8d11f24"
+      }
+    },
+    {
+      "code": "GE8",
+      "marketingName": "Crystal White",
+      "finish": "solid",
+      "lab": {
+        "L": 82.78,
+        "a": -1.29,
+        "b": -2.69,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #C9CFD3 (PaintRef chip, OEM=Cadillac, code=GE8 (models=Cadillac; years=2017-2018), pixels=306, chipUrl=https://www.paintref.com/chipimages/HCH4AD.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:e04aca41ed4ebaca"
+      }
+    },
+    {
+      "code": "GH9",
+      "marketingName": "Bronze Dune",
+      "finish": "solid",
+      "lab": {
+        "L": 38.24,
+        "a": -0.22,
+        "b": 1.87,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #5B5A57 (PaintRef chip, OEM=Cadillac, code=GH9 (models=Cadillac; years=2017-2018), pixels=306, chipUrl=https://www.paintref.com/chipimages/WTWEW2.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:07acefedf8d11f24"
+      }
+    },
+    {
+      "code": "GJ3",
+      "marketingName": "Deep Amethyst",
+      "finish": "solid",
+      "lab": {
+        "L": 17.78,
+        "a": 10.27,
+        "b": 2.7,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #3B2628 (PaintRef chip, OEM=Cadillac, code=GJ3 (models=Cadillac; years=2017-2018), pixels=306, chipUrl=https://www.paintref.com/chipimages/DT5S53.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:7890172c5a7c8899"
+      }
+    },
+    {
+      "code": "G91",
+      "marketingName": "Midnight Sky",
+      "finish": "solid",
+      "lab": {
+        "L": 11.56,
+        "a": 9.94,
+        "b": -17.04,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #1F1B36 (PaintRef chip, OEM=Cadillac, code=G91 (models=ATS; year=2018), pixels=306, chipUrl=https://www.paintref.com/chipimages/X4XTDS.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:1a0ec4a36deb9090"
+      }
+    },
+    {
+      "code": "G9K",
+      "marketingName": "Satin Steel",
+      "finish": "solid",
+      "lab": {
+        "L": 60.56,
+        "a": 0,
+        "b": 0,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #929292 (PaintRef chip, OEM=Cadillac, code=G9K (models=ATS; years=2018-2023), pixels=306, chipUrl=https://www.paintref.com/chipimages/C5C5C5.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:8dacedaa4c47050d"
+      }
+    },
+    {
+      "code": "G35",
+      "marketingName": "Harbor Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 7.6,
+        "a": 5.77,
+        "b": -22.05,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #031634 (PaintRef chip, OEM=Cadillac, code=G35 (models=Cadillac; years=2018-2019), pixels=306, chipUrl=https://www.paintref.com/chipimages/GDXSDF.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:d04c14bd035869cf"
+      }
+    },
+    {
+      "code": "G9F",
+      "marketingName": "Glacier",
+      "finish": "solid",
+      "lab": {
+        "L": 83.48,
+        "a": 0,
+        "b": 0,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #D0D0D0 (PaintRef chip, OEM=Cadillac, code=G9F (models=Cadillac; year=2018), pixels=306, chipUrl=https://www.paintref.com/chipimages/AGAGAG.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:fabc59b56f4f5182"
+      }
+    },
+    {
+      "code": "GPA",
+      "marketingName": "Stone Gray",
+      "finish": "solid",
+      "lab": {
+        "L": 18.48,
+        "a": -1.82,
+        "b": -2.81,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #282E31 (PaintRef chip, OEM=Cadillac, code=GPA (models=Cadillac; years=2018-2019), pixels=306, chipUrl=https://www.paintref.com/chipimages/535UDX.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:80b913c18a88ab9f"
+      }
+    },
+    {
+      "code": "GPJ",
+      "marketingName": "Red Horizon",
+      "finish": "solid",
+      "lab": {
+        "L": 25.54,
+        "a": 35.89,
+        "b": 20.81,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #711F1F (PaintRef chip, OEM=Cadillac, code=GPJ (models=Cadillac; years=2018-2020), pixels=306, chipUrl=https://www.paintref.com/chipimages/2XX4X4.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:a80c3d756a750a29"
+      }
+    },
+    {
+      "code": "GUI",
+      "marketingName": "Zeus Bronze",
+      "finish": "solid",
+      "lab": {
+        "L": 37.38,
+        "a": 4.74,
+        "b": 6.95,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #64554D (PaintRef chip, OEM=Cadillac, code=GUI (models=ATS; year=2019), pixels=306, chipUrl=https://www.paintref.com/chipimages/SFWWFA.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:c31f51a18f08e312"
+      }
+    },
+    {
+      "code": "GCI",
+      "marketingName": "Manhattan Noir",
+      "finish": "solid",
+      "lab": {
+        "L": 32.03,
+        "a": 0.15,
+        "b": -10.72,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #424C5C (PaintRef chip, OEM=Cadillac, code=GCI (models=Cadillac; years=2019-2020), pixels=306, chipUrl=https://www.paintref.com/chipimages/F5FHWH.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:3ef2e96c12d306a6"
+      }
+    },
+    {
+      "code": "GJI",
+      "marketingName": "Shadow",
+      "finish": "solid",
+      "lab": {
+        "L": 32.82,
+        "a": 0.72,
+        "b": -3.09,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #4C4D52 (PaintRef chip, OEM=Cadillac, code=GJI (models=Cadillac; years=2019-2022), pixels=306, chipUrl=https://www.paintref.com/chipimages/FHFAW5.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:4b055e5793be0f02"
+      }
+    },
+    {
+      "code": "GS0",
+      "marketingName": "Hudson",
+      "finish": "solid",
+      "lab": {
+        "L": 32.03,
+        "a": 0.15,
+        "b": -10.72,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #424C5C (PaintRef chip, OEM=Cadillac, code=GS0 (models=Cadillac; years=2019-2020), pixels=306, chipUrl=https://www.paintref.com/chipimages/F5FHWH.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:3ef2e96c12d306a6"
+      }
+    },
+    {
+      "code": "GS6",
+      "marketingName": "Dark Mocha",
+      "finish": "solid",
+      "lab": {
+        "L": 39.31,
+        "a": 1.21,
+        "b": -0.86,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #5E5C5E (PaintRef chip, OEM=Cadillac, code=GS6 (models=Cadillac; years=2019-2021), pixels=306, chipUrl=https://www.paintref.com/chipimages/WUWHWU.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:d9b7f4808cf65a98"
+      }
+    },
+    {
+      "code": "GA0",
+      "marketingName": "Twilight Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 22.9,
+        "a": -6.86,
+        "b": -19.21,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #033B53 (PaintRef chip, OEM=Cadillac, code=GA0 (models=Cadillac; years=2020-2022), pixels=306, chipUrl=https://www.paintref.com/chipimages/GDDTWD.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:fc12ee5c78ed55db"
+      }
+    },
+    {
+      "code": "GCG",
+      "marketingName": "Silver Dusk",
+      "finish": "solid",
+      "lab": {
+        "L": 41.87,
+        "a": -2.32,
+        "b": -0.8,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #5E6464 (PaintRef chip, OEM=Cadillac, code=GCG (models=Cadillac; year=2020), pixels=306, chipUrl=https://www.paintref.com/chipimages/WUSFSF.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:8c73679b2acc7823"
+      }
+    },
+    {
+      "code": "GJ0",
+      "marketingName": "Evergreen",
+      "finish": "solid",
+      "lab": {
+        "L": 17.89,
+        "a": -11.12,
+        "b": 4.52,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #1C3025 (PaintRef chip, OEM=Cadillac, code=GJ0 (models=Cadillac; years=2020-2021), pixels=306, chipUrl=https://www.paintref.com/chipimages/XHDG5W.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:52dc8caa0a968cde"
+      }
+    },
+    {
+      "code": "GKK",
+      "marketingName": "Wave",
+      "finish": "solid",
+      "lab": {
+        "L": 14.24,
+        "a": 11.85,
+        "b": -30.29,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #11214F (PaintRef chip, OEM=Cadillac, code=GKK (models=Cadillac; years=2020-2025), pixels=306, chipUrl=https://www.paintref.com/chipimages/XX5XF4.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:b2947b506ee2d2f6"
+      }
+    },
+    {
+      "code": "GLR",
+      "marketingName": "Garnet",
+      "finish": "solid",
+      "lab": {
+        "L": 15.79,
+        "a": 16.96,
+        "b": 7.8,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #401D1D (PaintRef chip, OEM=Cadillac, code=GLR (models=Cadillac; years=2020-2022), pixels=306, chipUrl=https://www.paintref.com/chipimages/FGXAXA.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:56e3b6805aef31d3"
+      }
+    },
+    {
+      "code": "GLU",
+      "marketingName": "Dark Moon",
+      "finish": "solid",
+      "lab": {
+        "L": 14.81,
+        "a": 6.4,
+        "b": -21.79,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #182444 (PaintRef chip, OEM=Cadillac, code=GLU (models=Cadillac; years=2020-2021), pixels=306, chipUrl=https://www.paintref.com/chipimages/X35FFF.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:4061ada1608904fd"
+      }
+    },
+    {
+      "code": "GM6",
+      "marketingName": "Autumn",
+      "finish": "solid",
+      "lab": {
+        "L": 37.55,
+        "a": 34.01,
+        "b": 48.02,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #953E01 (PaintRef chip, OEM=Cadillac, code=GM6 (models=Cadillac; years=2020-2021), pixels=306, chipUrl=https://www.paintref.com/chipimages/CWDUGG.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:3d0b32f15614e414"
+      }
+    },
+    {
+      "code": "G9G",
+      "marketingName": "Diamond Sky",
+      "finish": "solid",
+      "lab": {
+        "L": 83.48,
+        "a": 0,
+        "b": 0,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #D0D0D0 (PaintRef chip, OEM=Cadillac, code=G9G (models=Cadillac; years=2021-2022), pixels=306, chipUrl=https://www.paintref.com/chipimages/AGAGAG.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:fabc59b56f4f5182"
+      }
+    },
+    {
+      "code": "GAV",
+      "marketingName": "Chocolate",
+      "finish": "solid",
+      "lab": {
+        "L": 17.41,
+        "a": 7.23,
+        "b": 2.08,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #362728 (PaintRef chip, OEM=Cadillac, code=GAV (models=Cadillac; year=2021), pixels=306, chipUrl=https://www.paintref.com/chipimages/DS5253.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:10d7e7a56cb15ad9"
+      }
+    },
+    {
+      "code": "GJW",
+      "marketingName": "Sandstone",
+      "finish": "solid",
+      "lab": {
+        "L": 81.59,
+        "a": -1.24,
+        "b": 6.85,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #CECBBE (PaintRef chip, OEM=Cadillac, code=GJW (models=Cadillac; years=2021-2024), pixels=306, chipUrl=https://www.paintref.com/chipimages/HUHTTU.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:41406ff0b9434c43"
+      }
+    },
+    {
+      "code": "GLU",
+      "marketingName": "Dark Blue Moon",
+      "finish": "solid",
+      "lab": {
+        "L": 14.81,
+        "a": 6.4,
+        "b": -21.79,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #182444 (PaintRef chip, OEM=Cadillac, code=GLU (models=Cadillac; years=2021-2022), pixels=306, chipUrl=https://www.paintref.com/chipimages/X35FFF.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:4061ada1608904fd"
+      }
+    },
+    {
+      "code": "GRW",
+      "marketingName": "Rift",
+      "finish": "solid",
+      "lab": {
+        "L": 84.74,
+        "a": -1.25,
+        "b": 3.46,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #D4D4CD (PaintRef chip, OEM=Cadillac, code=GRW (models=Cadillac; years=2021-2023), pixels=306, chipUrl=https://www.paintref.com/chipimages/AFAFHA.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:9548ee79eb039288"
+      }
+    },
+    {
+      "code": "GSK",
+      "marketingName": "Infrared",
+      "finish": "solid",
+      "lab": {
+        "L": 41.79,
+        "a": 53.81,
+        "b": 38.52,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #B82F26 (PaintRef chip, OEM=Cadillac, code=GSK (models=Cadillac; years=2021-2022), pixels=306, chipUrl=https://www.paintref.com/chipimages/T3545S.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:bd9df5cc612a3521"
+      }
+    },
+    {
+      "code": "G9F",
+      "marketingName": "Diamond Sky",
+      "finish": "solid",
+      "lab": {
+        "L": 83.48,
+        "a": 0,
+        "b": 0,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #D0D0D0 (PaintRef chip, OEM=Cadillac, code=G9F (models=CT5; year=2021), pixels=306, chipUrl=https://www.paintref.com/chipimages/AGAGAG.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:fabc59b56f4f5182"
+      }
+    },
+    {
+      "code": "GLU",
+      "marketingName": "Dark Moon Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 14.81,
+        "a": 6.4,
+        "b": -21.79,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #182444 (PaintRef chip, OEM=Cadillac, code=GLU (models=Escalade; years=2021-2024), pixels=306, chipUrl=https://www.paintref.com/chipimages/X35FFF.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:4061ada1608904fd"
+      }
+    },
+    {
+      "code": "G48",
+      "marketingName": "Mahogany",
+      "finish": "solid",
+      "lab": {
+        "L": 13.1,
+        "a": 19.58,
+        "b": 10.51,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #3D1514 (PaintRef chip, OEM=Cadillac, code=G48 (models=Cadillac; years=2022-2023), pixels=306, chipUrl=https://www.paintref.com/chipimages/DAXWXF.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:1c681ef86ed0a5d7"
+      }
+    },
+    {
+      "code": "G5D",
+      "marketingName": "Latte",
+      "finish": "solid",
+      "lab": {
+        "L": 63.87,
+        "a": 0.41,
+        "b": 7.21,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #A19A8E (PaintRef chip, OEM=Cadillac, code=G5D (models=Cadillac; years=2022-2025), pixels=306, chipUrl=https://www.paintref.com/chipimages/EXCE3U.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:657fb270a75c6962"
+      }
+    },
+    {
+      "code": "G6M",
+      "marketingName": "Galactic Gray",
+      "finish": "solid",
+      "lab": {
+        "L": 25.2,
+        "a": 2.07,
+        "b": -4.15,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #3C3B42 (PaintRef chip, OEM=Cadillac, code=G6M (models=Cadillac; years=2022-2025), pixels=306, chipUrl=https://www.paintref.com/chipimages/DHDTF5.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:68ed07705ae8a252"
+      }
+    },
+    {
+      "code": "G7W",
+      "marketingName": "Dark Emerald Frost",
+      "finish": "solid",
+      "lab": {
+        "L": 48.28,
+        "a": -8.89,
+        "b": 1.39,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #637770 (PaintRef chip, OEM=Cadillac, code=G7W (models=Cadillac; year=2022), pixels=306, chipUrl=https://www.paintref.com/chipimages/SD222G.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:d14e51a7c6675d9a"
+      }
+    },
+    {
+      "code": "GCF",
+      "marketingName": "Blaze Orange",
+      "finish": "solid",
+      "lab": {
+        "L": 49.21,
+        "a": 50.02,
+        "b": 58.39,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #CD4906 (PaintRef chip, OEM=Cadillac, code=GCF (models=Cadillac; years=2022-2023), pixels=306, chipUrl=https://www.paintref.com/chipimages/HAFCGS.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:f59c021f9e5b058f"
+      }
+    },
+    {
+      "code": "GCK",
+      "marketingName": "Rosewood",
+      "finish": "solid",
+      "lab": {
+        "L": 21.62,
+        "a": 26.5,
+        "b": 15.02,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #5B211F (PaintRef chip, OEM=Cadillac, code=GCK (models=Cadillac; years=2022-2023), pixels=306, chipUrl=https://www.paintref.com/chipimages/WT5XX4.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:7ec295f38b0bfed1"
+      }
+    },
+    {
+      "code": "GED",
+      "marketingName": "Wilder",
+      "finish": "solid",
+      "lab": {
+        "L": 31.77,
+        "a": -9.19,
+        "b": -0.98,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #394F4C (PaintRef chip, OEM=Cadillac, code=GED (models=Cadillac; years=2022-2023), pixels=306, chipUrl=https://www.paintref.com/chipimages/DCF4FH.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:fb5351dc5586070a"
+      }
+    },
+    {
+      "code": "GMO",
+      "marketingName": "Electric Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 54.33,
+        "a": -0.57,
+        "b": -49.81,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #0187D8 (PaintRef chip, OEM=Cadillac, code=GMO (models=Cadillac; years=2022-2023), pixels=306, chipUrl=https://www.paintref.com/chipimages/GG32A3.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:acecb4a953040a8c"
+      }
+    },
+    {
+      "code": "G6N",
+      "marketingName": "Dark Emerald",
+      "finish": "solid",
+      "lab": {
+        "L": 59.68,
+        "a": -6.49,
+        "b": 3.16,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #86938A (PaintRef chip, OEM=Cadillac, code=G6N (models=Cadillac; years=2023-2024), pixels=306, chipUrl=https://www.paintref.com/chipimages/3SCD3E.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:a52b4a1eef36605a"
+      }
+    },
+    {
+      "code": "GNT",
+      "marketingName": "Radiant Red",
+      "finish": "solid",
+      "lab": {
+        "L": 32.29,
+        "a": 44.79,
+        "b": 32.48,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #90231B (PaintRef chip, OEM=Cadillac, code=GNT (models=Cadillac; years=2023-2026), pixels=306, chipUrl=https://www.paintref.com/chipimages/CG5DXT.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:f64140c068c21170"
+      }
+    },
+    {
+      "code": "GNW",
+      "marketingName": "Maverick Noir Frost",
+      "finish": "solid",
+      "lab": {
+        "L": 37.83,
+        "a": 0.25,
+        "b": -1.87,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #58595C (PaintRef chip, OEM=Cadillac, code=GNW (models=Cadillac; year=2023), pixels=306, chipUrl=https://www.paintref.com/chipimages/W3WCWH.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:8b25dfe5a07e6d13"
+      }
+    },
+    {
+      "code": "GXD",
+      "marketingName": "Argent Silver",
+      "finish": "solid",
+      "lab": {
+        "L": 64.87,
+        "a": -2.85,
+        "b": -0.99,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #979F9F (PaintRef chip, OEM=Cadillac, code=GXD (models=Cadillac; years=2023-2026), pixels=306, chipUrl=https://www.paintref.com/chipimages/C2C4C4.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:08da3199a3620ebb"
+      }
+    },
+    {
+      "code": "GXU",
+      "marketingName": "Midnight Steel",
+      "finish": "solid",
+      "lab": {
+        "L": 26.1,
+        "a": -3.04,
+        "b": -12.15,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #2C4050 (PaintRef chip, OEM=Cadillac, code=GXU (models=Cadillac; years=2023-2024), pixels=306, chipUrl=https://www.paintref.com/chipimages/5HFGWG.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:1884929e220676da"
+      }
+    },
+    {
+      "code": "G6I",
+      "marketingName": "Emerald Lake",
+      "finish": "solid",
+      "lab": {
+        "L": 36.99,
+        "a": -18.63,
+        "b": -11.54,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #146069 (PaintRef chip, OEM=Cadillac, code=G6I (models=Cadillac; years=2024-2026), pixels=306, chipUrl=https://www.paintref.com/chipimages/XFSGSC.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:6cb8cff3bbe06909"
+      }
+    },
+    {
+      "code": "G7C",
+      "marketingName": "Cardinal Red",
+      "finish": "solid",
+      "lab": {
+        "L": 44.07,
+        "a": 69.38,
+        "b": 56.63,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #D30105 (PaintRef chip, OEM=Cadillac, code=G7C (models=Cadillac; year=2024), pixels=306, chipUrl=https://www.paintref.com/chipimages/ADGGGW.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:656d0fb3f8a3c2f0"
+      }
+    },
+    {
+      "code": "G7X",
+      "marketingName": "Nimbus",
+      "finish": "solid",
+      "lab": {
+        "L": 86.24,
+        "a": -0.42,
+        "b": -12.95,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #CAD9F0 (PaintRef chip, OEM=Cadillac, code=G7X (models=Cadillac; years=2024-2026), pixels=306, chipUrl=https://www.paintref.com/chipimages/HEAC4G.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:5ec73dd6f887dc8a"
+      }
+    },
+    {
+      "code": "GCP",
+      "marketingName": "Cyber Yellow",
+      "finish": "solid",
+      "lab": {
+        "L": 69.19,
+        "a": 4.72,
+        "b": 72.44,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #D0A301 (PaintRef chip, OEM=Cadillac, code=GCP (models=Cadillac; years=2024-2026), pixels=306, chipUrl=https://www.paintref.com/chipimages/AGEDGG.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:068c9a8307740ca0"
+      }
+    },
+    {
+      "code": "GJV",
+      "marketingName": "Coastal Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 30.69,
+        "a": 8.37,
+        "b": -41.85,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #08488A (PaintRef chip, OEM=Cadillac, code=GJV (models=Cadillac; years=2024-2025), pixels=306, chipUrl=https://www.paintref.com/chipimages/G3F33E.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:7b4b8be46610676a"
+      }
+    },
+    {
+      "code": "GJY",
+      "marketingName": "Celestial",
+      "finish": "solid",
+      "lab": {
+        "L": 46.36,
+        "a": 4.77,
+        "b": -10.9,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #6D6C80 (PaintRef chip, OEM=Cadillac, code=GJY (models=Cadillac; years=2024-2026), pixels=306, chipUrl=https://www.paintref.com/chipimages/SASH3G.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:11f952352658a0a8"
+      }
+    },
+    {
+      "code": "GXF",
+      "marketingName": "Midnight Sky",
+      "finish": "solid",
+      "lab": {
+        "L": 29.77,
+        "a": 8.21,
+        "b": -16.07,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #46435F (PaintRef chip, OEM=Cadillac, code=GXF (models=Cadillac; years=2024-2026), pixels=306, chipUrl=https://www.paintref.com/chipimages/FSFDW4.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:74dfe0c2c9432ec9"
+      }
+    },
+    {
+      "code": "GXP",
+      "marketingName": "Deep Sea",
+      "finish": "solid",
+      "lab": {
+        "L": 29.55,
+        "a": -2.29,
+        "b": -17.84,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #2D4861 (PaintRef chip, OEM=Cadillac, code=GXP (models=Cadillac; years=2024-2026), pixels=306, chipUrl=https://www.paintref.com/chipimages/5AF3SX.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:731d98fb68122940"
+      }
+    },
+    {
+      "code": "GAB",
+      "marketingName": "Black Cherry",
+      "finish": "solid",
+      "lab": {
+        "L": 19.98,
+        "a": 16.3,
+        "b": -0.89,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #462732 (PaintRef chip, OEM=Cadillac, code=GAB (models=Cadillac; years=2025-2026), pixels=306, chipUrl=https://www.paintref.com/chipimages/FS52D5.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:df882aba37c323a3"
+      }
+    },
+    {
+      "code": "GAE",
+      "marketingName": "Drift",
+      "finish": "solid",
+      "lab": {
+        "L": 92.9,
+        "a": -3.78,
+        "b": -1.86,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #E1EDEE (PaintRef chip, OEM=Cadillac, code=GAE (models=Cadillac; years=2025-2026), pixels=306, chipUrl=https://www.paintref.com/chipimages/UXUAUU.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:e368b165460897b2"
+      }
+    },
+    {
+      "code": "GAI",
+      "marketingName": "Deep Space",
+      "finish": "solid",
+      "lab": {
+        "L": 42.88,
+        "a": -0.95,
+        "b": -16.97,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #526781 (PaintRef chip, OEM=Cadillac, code=GAI (models=Cadillac; years=2025-2026), pixels=306, chipUrl=https://www.paintref.com/chipimages/W5S23X.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:0c9881eaa67f76cf"
+      }
+    },
+    {
+      "code": "GBD",
+      "marketingName": "Aegean Stone",
+      "finish": "solid",
+      "lab": {
+        "L": 33.73,
+        "a": -4.77,
+        "b": -6.27,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #415259 (PaintRef chip, OEM=Cadillac, code=GBD (models=Cadillac; years=2025-2026), pixels=306, chipUrl=https://www.paintref.com/chipimages/FXW5WC.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:a13e30df1e9b8fe6"
+      }
+    },
+    {
+      "code": "GBW",
+      "marketingName": "Typhoon",
+      "finish": "solid",
+      "lab": {
+        "L": 38.56,
+        "a": -11.11,
+        "b": 0.28,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #46605A (PaintRef chip, OEM=Cadillac, code=GBW (models=Cadillac; years=2025-2026), pixels=306, chipUrl=https://www.paintref.com/chipimages/FSSGWE.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:9793d02e715f2862"
+      }
+    },
+    {
+      "code": "GLG",
+      "marketingName": "Midnight Steel Frost",
+      "finish": "solid",
+      "lab": {
+        "L": 77.59,
+        "a": -9.08,
+        "b": -15.56,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #9BC6DC (PaintRef chip, OEM=Cadillac, code=GLG (models=Cadillac; year=2025), pixels=306, chipUrl=https://www.paintref.com/chipimages/CTHSAH.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:44e142c31e40d4d4"
+      }
+    },
+    {
+      "code": "GSJ",
+      "marketingName": "Flare",
+      "finish": "solid",
+      "lab": {
+        "L": 83.13,
+        "a": -2.95,
+        "b": -3.27,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #C6D1D5 (PaintRef chip, OEM=Cadillac, code=GSJ (models=Cadillac; year=2025), pixels=306, chipUrl=https://www.paintref.com/chipimages/HSAXAW.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:008d3c21a904da6b"
+      }
+    },
+    {
+      "code": "G4J",
+      "marketingName": "Vibrant White",
+      "finish": "solid",
+      "lab": {
+        "L": 94.45,
+        "a": 0,
+        "b": 0,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #EFEFEF (PaintRef chip, OEM=Cadillac, code=G4J (models=CT4; year=2026), pixels=306, chipUrl=https://www.paintref.com/chipimages/U4U4U4.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:800b72b867bfb3a2"
+      }
+    },
+    {
+      "code": "GJV",
+      "marketingName": "Costal Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 30.69,
+        "a": 8.37,
+        "b": -41.85,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #08488A (PaintRef chip, OEM=Cadillac, code=GJV (models=CT4; year=2026), pixels=306, chipUrl=https://www.paintref.com/chipimages/G3F33E.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:7b4b8be46610676a"
+      }
+    },
+    {
+      "code": "G42",
+      "marketingName": "Sandstone",
+      "finish": "solid",
+      "lab": {
+        "L": 65.07,
+        "a": -0.92,
+        "b": 6.13,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #A19E93 (PaintRef chip, OEM=Cadillac, code=G42 (models=Escalade; year=2026), pixels=306, chipUrl=https://www.paintref.com/chipimages/EXCUCD.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:05b6194d47b7a0d5"
+      }
+    },
+    {
+      "code": "G6M",
+      "marketingName": "Galactric Gray",
+      "finish": "solid",
+      "lab": {
+        "L": 25.2,
+        "a": 2.07,
+        "b": -4.15,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #3C3B42 (PaintRef chip, OEM=Cadillac, code=G6M (models=Escalade; year=2026), pixels=306, chipUrl=https://www.paintref.com/chipimages/DHDTF5.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:68ed07705ae8a252"
+      }
+    },
+    {
+      "code": "GAG",
+      "marketingName": "Monarch Orange",
+      "finish": "solid",
+      "lab": {
+        "L": 61.65,
+        "a": 59.11,
+        "b": 42.02,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #FE604E (PaintRef chip, OEM=Cadillac, code=GAG (models=Escalade; year=2026), pixels=306, chipUrl=https://www.paintref.com/chipimages/44SGFU.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:e508342c59cf4d7c"
+      }
+    },
+    {
+      "code": "GBL",
+      "marketingName": "Magnus Metal Frost",
+      "finish": "solid",
+      "lab": {
+        "L": 49.97,
+        "a": 0.98,
+        "b": 4.67,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #7C766F (PaintRef chip, OEM=Cadillac, code=GBL (models=Escalade; year=2026), pixels=306, chipUrl=https://www.paintref.com/chipimages/2H2SS4.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:43b3d211084dd7a9"
+      }
+    },
+    {
+      "code": "GNO",
+      "marketingName": "Luna",
+      "finish": "solid",
+      "lab": {
+        "L": 24.42,
+        "a": 0,
+        "b": 0,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #3A3A3A (PaintRef chip, OEM=Cadillac, code=GNO (models=Escalade; year=2026), pixels=306, chipUrl=https://www.paintref.com/chipimages/DEDEDE.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:6e094ab92d19df2e"
+      }
+    },
+    {
+      "code": "GNR",
+      "marketingName": "Abobe Frost",
+      "finish": "solid",
+      "lab": {
+        "L": 52.62,
+        "a": 17.25,
+        "b": 16.61,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #A37262 (PaintRef chip, OEM=Cadillac, code=GNR (models=Escalade; year=2026), pixels=306, chipUrl=https://www.paintref.com/chipimages/ED25S5.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:d6fc7254b7e7e78b"
+      }
+    },
+    {
+      "code": "G3Y",
+      "marketingName": "Deep Green",
+      "finish": "solid",
+      "lab": {
+        "L": 29.38,
+        "a": -7.19,
+        "b": -7.8,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from chip-image average #304951 (PaintRef chip, OEM=Cadillac, code=G3Y (models=OPTIQ; year=2026), pixels=306, chipUrl=https://www.paintref.com/chipimages/DGFCWX.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-chip:329a724a595fdd91"
+      }
+    }
+  ]
+}

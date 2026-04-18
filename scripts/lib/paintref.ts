@@ -30,6 +30,9 @@ import { dirname, join } from "node:path";
 import { fileURLToPath } from "node:url";
 import type { ColorSeed, Finish } from "../../src/pipeline/seedHelpers.js";
 import { round } from "../../src/pipeline/seedHelpers.js";
+// Importing for the side effect: installs a long-timeout undici dispatcher
+// so PaintRef's slow (15-20s) responses don't trip Node's 10s connect timeout.
+import "./httpDispatcher.js";
 
 export interface PaintRefEntry {
   code?: string;
@@ -52,6 +55,15 @@ export interface PaintRefEntry {
   model?: string;
   /** Union of all models observed for this code across pages / years. */
   models?: string[];
+  /**
+   * Absolute URL of the chip image PaintRef rendered for this row. Captured
+   * from `background-image: url(...)` or `<img src="...">` inside the swatch
+   * cell. Downstream, `scripts/lib/chipSampler.ts` fetches and averages this
+   * image to derive a LAB value.
+   */
+  chipUrl?: string;
+  /** Short `sha1(chipUrl)` prefix used as the sampler cache key. */
+  chipHash?: string;
 }
 
 export interface AdvancedSearchFilters {
@@ -118,7 +130,11 @@ function cachePath(
   cacheDir: string | undefined,
   filters: AdvancedSearchFilters | undefined
 ): string {
-  const dir = cacheDir ?? join(repoRoot(), "data/sources/paintref");
+  // New layout: parsed rows live under `raw/` so they're separate from the
+  // chip-image cache (`chipimages/`) and the sampler output (`chips/`). Old
+  // top-level `data/sources/paintref/<slug>.json` caches from the pre-fix
+  // parser are considered stale and intentionally ignored.
+  const dir = cacheDir ?? join(repoRoot(), "data/sources/paintref/raw");
   const slug = oemSlug(oem);
   const fp = filtersFingerprint(filters);
   return join(dir, fp ? `${slug}--${fp}.json` : `${slug}.json`);
@@ -215,9 +231,16 @@ export async function fetchPaintRefEntries(
 }
 
 async function fetchFromJsonEndpoint(oem: string): Promise<PaintRefEntry[]> {
+  // PaintRef's `colordata.cgi` endpoint has been removed from the public site
+  // (returns 404). We keep this stub in case it ever comes back, but callers
+  // should prefer the advanced-search path. We also switched the public param
+  // from `manuf=` to `make=`: PaintRef's advanced search interprets `manuf`
+  // as the parent manufacturer (Honda for Acura, Hyundai for Genesis, etc.),
+  // so most sub-brands return zero rows under `manuf=`. `make=` matches the
+  // brand name directly and works for every OEM in PAINTREF_OEMS.
   const url =
     `https://www.paintref.com/cgi-bin/colordata.cgi?` +
-    new URLSearchParams({ manuf: oem, format: "json" }).toString();
+    new URLSearchParams({ make: oem, format: "json" }).toString();
 
   console.log(`  [paintref] GET ${url}`);
   const res = await fetch(url, {
@@ -259,19 +282,36 @@ async function fetchFromAdvancedSearch(
 
   const aggregate = new Map<string, PaintRefEntry>();
 
+  // Circuit breaker: if the live CGI backend is in one of its long 503
+  // windows, we'd otherwise burn 9+ minutes of retries per OEM just to
+  // collect zero rows. Track consecutive empty/failed pages and bail early
+  // so the outer driver can jump to the static-shtml fallback.
+  let consecutiveEmpty = 0;
+  const BREAK_AFTER_EMPTY = 4;
+
   const runQuery = async (extra: Record<string, string>) => {
     let totalRows = 0;
     for (let page = 1; page <= maxPages; page++) {
       const params: Record<string, string> = {
-        manuf: oem,
+        // Use `make=` (not `manuf=`): PaintRef's advanced search interprets
+        // manuf as parent manufacturer (e.g. Honda for Acura), so sub-brands
+        // return zero rows. `make=` matches the brand directly.
+        make: oem,
         rows: String(rowsPerPage),
         page: String(page),
         ...extra
       };
       const html = await fetchAdvancedHtml(params);
-      if (!html) break;
+      if (!html) {
+        consecutiveEmpty++;
+        break;
+      }
       const parsed = parseAdvancedSearchHtml(html, oem);
-      if (parsed.length === 0) break;
+      if (parsed.length === 0) {
+        consecutiveEmpty++;
+        break;
+      }
+      consecutiveEmpty = 0;
       for (const e of parsed) mergeEntry(aggregate, e);
       totalRows += parsed.length;
       await sleep(ADVANCED_DELAY_MS);
@@ -300,6 +340,12 @@ async function fetchFromAdvancedSearch(
         console.warn(
           `  [paintref] ${oem} ${y}: ${err instanceof Error ? err.message : String(err)}`
         );
+      }
+      if (consecutiveEmpty >= BREAK_AFTER_EMPTY && aggregate.size === 0) {
+        console.warn(
+          `  [paintref] ${oem}: circuit breaker — ${consecutiveEmpty} consecutive empty pages, skipping to static-shtml fallback`
+        );
+        break;
       }
     }
   } else {
@@ -347,8 +393,13 @@ async function fetchAdvancedHtml(
           break;
         }
         const html = await res.text();
-        if (html.includes("508 Insufficient Resource")) {
-          lastErr = "508 Insufficient Resource (in body)";
+        // PaintRef's Apache sometimes returns 200 OK with a 503/508 body when
+        // the backend is momentarily overloaded. Treat those as retryable.
+        if (
+          html.includes("508 Insufficient Resource") ||
+          html.includes("503 Service Unavailable")
+        ) {
+          lastErr = "503/508 in body";
           await sleep(2000 * (attempt + 1));
           continue;
         }
@@ -360,8 +411,125 @@ async function fetchAdvancedHtml(
     }
   }
 
-  if (lastErr) console.warn(`  [paintref] advanced fetch failed: ${lastErr}`);
+  // Live site exhausted — fall back to Wayback Machine. Wayback has wide
+  // coverage of PaintRef advanced-search URLs (snapshots from 2022-2026) and
+  // serves real, fully-rendered HTML — including chip image URLs — so the
+  // same parser works against it. When paintref.com's Apache backend is in
+  // one of its 503 windows (they last hours at a time), Wayback is the only
+  // reliable way to progress. We try the exact URL first, then a couple of
+  // degraded variants (strip year, strip model) before giving up.
+  const wb = await fetchAdvancedHtmlFromWayback(params, qs);
+  if (wb) return wb;
+
+  if (lastErr) console.warn(`  [paintref] advanced fetch failed: ${lastErr} (wayback also empty)`);
   return null;
+}
+
+/**
+ * Pull a PaintRef advanced-search response out of the Internet Archive.
+ *
+ * Only worthwhile when the query includes BOTH `make` and `year`: Wayback
+ * snapshots of the un-filtered `make=X` endpoint show a cross-reference
+ * page with no year or paint-code cells (our parser correctly rejects it).
+ * Year-filtered snapshots are the ones that actually carry the same row
+ * structure as the live site, so we restrict the fallback to those.
+ *
+ * Wayback's CDX index is keyed on the exact original URL (case-sensitive
+ * on the query string). PaintRef's live URLs bounce between `http`, `https`,
+ * `www.paintref.com`, and bare `paintref.com`, so we probe a few canonical
+ * forms and accept the first snapshot whose parsed HTML still contains
+ * `class="odd"` rows. We fetch via `id_` so Wayback serves raw bytes
+ * without its toolbar/rewriting injection.
+ *
+ * Returns null when no useful snapshot exists (common — Wayback's crawl of
+ * paintref.com skews heavily toward unfiltered make pages).
+ */
+async function fetchAdvancedHtmlFromWayback(
+  params: Record<string, string>,
+  qs: string
+): Promise<string | null> {
+  if (!params.make || !params.year) return null;
+
+  const basePaths = [
+    "/cgi-bin/colorcodedisplay.cgi",
+    "/cgi-bin/colorcodedisplaym.cgi"
+  ];
+  const hostVariants = [
+    "https://www.paintref.com",
+    "https://paintref.com",
+    "http://www.paintref.com",
+    "http://paintref.com"
+  ];
+
+  // Try the exact qs first, then a couple of common crawl-friendly variants.
+  const compact = new URLSearchParams({
+    make: params.make,
+    year: params.year,
+    rows: "50"
+  }).toString();
+  const queryVariants = Array.from(new Set([qs, compact]));
+
+  for (const q of queryVariants) {
+    for (const base of basePaths) {
+      for (const host of hostVariants) {
+        const originalUrl = `${host}${base}?${q}`;
+        const snapshotUrl = await wayback_closestSnapshot(originalUrl);
+        if (!snapshotUrl) continue;
+        try {
+          console.log(`  [paintref] wayback GET ${snapshotUrl}`);
+          const res = await fetch(snapshotUrl, {
+            signal: AbortSignal.timeout(90_000),
+            headers: {
+              Accept: "text/html,application/xhtml+xml",
+              "User-Agent": "Mozilla/5.0 (compatible; lacca-color-pipeline/1.0)"
+            }
+          });
+          if (!res.ok) continue;
+          const html = await res.text();
+          if (
+            html.includes("508 Insufficient Resource") ||
+            html.includes("503 Service Unavailable")
+          )
+            continue;
+          if (!/class="(odd|even)"/.test(html)) continue;
+          console.log(`  [paintref] wayback hit (${html.length} bytes)`);
+          return html;
+        } catch (err) {
+          const msg = err instanceof Error ? err.message : String(err);
+          console.warn(`  [paintref] wayback fetch error: ${msg}`);
+        }
+      }
+    }
+  }
+  return null;
+}
+
+async function wayback_closestSnapshot(originalUrl: string): Promise<string | null> {
+  try {
+    const api =
+      `https://archive.org/wayback/available?url=` +
+      encodeURIComponent(originalUrl);
+    const res = await fetch(api, {
+      signal: AbortSignal.timeout(30_000),
+      headers: { "User-Agent": "Mozilla/5.0 (compatible; lacca-color-pipeline/1.0)" }
+    });
+    if (!res.ok) return null;
+    const json = (await res.json()) as {
+      archived_snapshots?: { closest?: { available?: boolean; timestamp?: string; url?: string } };
+    };
+    const closest = json.archived_snapshots?.closest;
+    if (!closest?.available || !closest.timestamp) return null;
+    // Use the `id_` suffix so Wayback serves raw HTML without injecting its
+    // toolbar/rewriting scripts. This keeps the page byte-for-byte what
+    // PaintRef served at crawl time, so our regex parser works unchanged.
+    // Wayback's availability API returns `closest.url` as an already-wrapped
+    // `http://web.archive.org/web/{ts}/{original}` URL; we want to build our
+    // OWN wrapped URL (with `id_`) against the bare original, so we ignore
+    // `closest.url` and use the input `originalUrl` directly.
+    return `https://web.archive.org/web/${closest.timestamp}id_/${originalUrl}`;
+  } catch {
+    return null;
+  }
 }
 
 function hasNextPage(html: string, currentPage: number): boolean {
@@ -406,7 +574,7 @@ function looksLikeYear(c: string): boolean {
   return /^(19|20)\d{2}$/.test(c);
 }
 
-function looksLikeName(c: string, oem: string): boolean {
+export function looksLikeName(c: string, oem: string): boolean {
   if (c.length < 3 || c.length > 60) return false;
   if (looksLikeYear(c)) return false;
   if (c.toLowerCase() === oem.toLowerCase()) return false;
@@ -513,6 +681,51 @@ function classifyCell(cellHtml: string): CellKind {
   return { kind: "unknown" };
 }
 
+const PAINTREF_BASE_URL = "https://www.paintref.com/";
+
+/**
+ * Resolve a possibly-relative chip-image URL against the PaintRef base.
+ * Returns `undefined` for obviously invalid (data:, javascript:, etc.) or
+ * empty values so the sampler never wastes a network call on garbage.
+ */
+function resolveChipUrl(raw: string | undefined): string | undefined {
+  if (!raw) return undefined;
+  const trimmed = raw.trim();
+  if (!trimmed) return undefined;
+  if (/^(data:|javascript:|about:|mailto:)/i.test(trimmed)) return undefined;
+  try {
+    return new URL(trimmed, PAINTREF_BASE_URL).toString();
+  } catch {
+    return undefined;
+  }
+}
+
+/** 16-char sha1 prefix of the chip URL — used as the on-disk cache key. */
+export function chipHashOf(url: string): string {
+  return createHash("sha1").update(url).digest("hex").slice(0, 16);
+}
+
+/**
+ * Pull a chip image URL out of a single cell's HTML. PaintRef renders the
+ * swatch in several ways: inline `background-image: url(...)` (desktop),
+ * `<img src="...">` (mobile skin), or occasionally a `data-bg` attribute.
+ * Try each in that priority order and return the first concrete candidate.
+ */
+function extractChipUrl(cellHtml: string): string | undefined {
+  const bgImg = cellHtml.match(
+    /background-image\s*:\s*url\(\s*['"]?([^'")]+)['"]?\s*\)/i
+  )?.[1];
+  if (bgImg) return resolveChipUrl(bgImg);
+
+  const imgSrc = cellHtml.match(/<img\b[^>]*\bsrc\s*=\s*["']([^"']+)["']/i)?.[1];
+  if (imgSrc) return resolveChipUrl(imgSrc);
+
+  const dataBg = cellHtml.match(/\bdata-bg\s*=\s*["']([^"']+)["']/i)?.[1];
+  if (dataBg) return resolveChipUrl(dataBg);
+
+  return undefined;
+}
+
 export function parseAdvancedSearchHtml(html: string, oem: string): PaintRefEntry[] {
   const rows = html.match(/<tr\b[^>]*>[\s\S]*?<\/tr>/gi) ?? [];
   const out: PaintRefEntry[] = [];
@@ -533,6 +746,7 @@ export function parseAdvancedSearchHtml(html: string, oem: string): PaintRefEntr
     const codes: string[] = [];
     let ditzler: string | undefined;
     let hex: string | undefined;
+    let chipUrl: string | undefined;
 
     for (const cell of cellHtml) {
       const k = classifyCell(cell);
@@ -569,6 +783,11 @@ export function parseAdvancedSearchHtml(html: string, oem: string): PaintRefEntr
           }
         }
       }
+
+      if (!chipUrl) {
+        const candidate = extractChipUrl(cell);
+        if (candidate) chipUrl = candidate;
+      }
     }
 
     if (codes.length === 0) continue;
@@ -584,6 +803,7 @@ export function parseAdvancedSearchHtml(html: string, oem: string): PaintRefEntr
       model: model?.trim(),
       year_from: year,
       year_to: year,
+      ...(chipUrl ? { chipUrl, chipHash: chipHashOf(chipUrl) } : {}),
       ...(ditzler ? { ditzler: ditzler.trim() } as unknown as Record<string, string> : {})
     });
   }
@@ -616,6 +836,10 @@ function mergeEntry(bag: Map<string, PaintRefEntry>, e: PaintRefEntry): void {
 
   if (!existing.hex && e.hex) existing.hex = e.hex;
   if (!existing.make && e.make) existing.make = e.make;
+  if (!existing.chipUrl && e.chipUrl) {
+    existing.chipUrl = e.chipUrl;
+    existing.chipHash = e.chipHash;
+  }
 }
 
 /* ------------------------------ Seed mapping ----------------------------- */
@@ -679,15 +903,43 @@ function contextSuffix(entry: PaintRefEntry): string {
 }
 
 /**
+ * Lookup shape consumed by {@link paintRefEntryToSeed} when resolving a
+ * chip hash to a sampled color. Kept structural (not tied to
+ * chipSampler.ts) so unit tests can pass in stubs.
+ */
+export interface ChipSampleLookup {
+  hex: string;
+  rgb?: [number, number, number];
+  pixels?: number;
+}
+
+/**
  * Convert a raw PaintRef entry to a ColorSeed. Returns null when the entry
- * has no usable color data. Upgrades LAB-bearing entries to `spec` confidence;
- * other entries fall back to hex → LAB (`derived`). Advanced-search entries
- * also get `models=` and `years=` baked into `note` and `provenanceId` so the
- * per-model / per-year context survives into the merged scope.
+ * has no usable color data. Priority:
+ *   1. Inline LAB from the JSON endpoint → `confidence: "spec"`, `source: "paintref"`.
+ *   2. Inline hex from `style="background:#…"` → `confidence: "derived"`, `source: "paintref_hex"`.
+ *   3. Chip-image sample resolved via `chipSampler.ts` (keyed by `entry.chipHash`)
+ *      → `confidence: "derived"`, `source: "paintref_chip"`. This is the bulk path
+ *      now that PaintRef serves chips via `background-image: url(...)` rather than
+ *      inline colors.
+ *   4. RGB fallback from the JSON endpoint.
+ *
+ * Advanced-search entries get `models=` and `years=` baked into `note` and
+ * `provenanceId` so per-model/per-year context survives into the merged scope.
  */
 export function paintRefEntryToSeed(
   entry: PaintRefEntry,
-  ctx: { oem: string; fallbackIdx: number }
+  ctx: {
+    oem: string;
+    fallbackIdx: number;
+    /**
+     * Optional lookup that resolves an entry's `chipHash` to a sampled
+     * hex. When provided and populated, entries without inline LAB/hex but
+     * with a sampled chip land in the `paintref_chip` bucket instead of
+     * being dropped.
+     */
+    chipSamples?: Map<string, ChipSampleLookup>;
+  }
 ): ColorSeed | null {
   const nameRaw = (entry.name ?? entry.colour ?? entry.color ?? "").trim();
   if (entry.code && entry.code.toUpperCase() === ctx.oem.toUpperCase()) {
@@ -740,6 +992,30 @@ export function paintRefEntryToSeed(
     }
   }
 
+  if (entry.chipHash && ctx.chipSamples) {
+    const sample = ctx.chipSamples.get(entry.chipHash);
+    if (sample) {
+      const hex = parseHex(sample.hex);
+      if (hex) {
+        const pixelsNote = sample.pixels ? `, pixels=${sample.pixels}` : "";
+        const urlNote = entry.chipUrl ? `, chipUrl=${entry.chipUrl}` : "";
+        return {
+          code,
+          marketingName: name,
+          finish: inferFinish(finishRaw),
+          hex,
+          source: "paintref_chip",
+          confidence: "derived",
+          provenanceId: `paintref-chip:${entry.chipHash}`,
+          note:
+            `Derived from chip-image average ${hex} (PaintRef chip, OEM=${ctx.oem}, ` +
+            `code=${code}${suffix}${pixelsNote}${urlNote}). ` +
+            `Attribution: paintref.com. Replace with spectro LAB before production claims.`
+        };
+      }
+    }
+  }
+
   if (entry.rgb) {
     const rgb = parseRgb(entry.rgb);
     if (rgb) {
@@ -764,6 +1040,19 @@ export function paintRefEntryToSeed(
   }
 
   return null;
+}
+
+/**
+ * Merge multiple batches of PaintRef entries into a single deduplicated
+ * list keyed on `(code, name)`. Used by `fetch-paintref-all.ts` when the
+ * batch driver issues separate year and per-model queries for the same
+ * OEM — each query returns overlapping rows that should collapse into a
+ * single entry whose `models`/year range span the union of inputs.
+ */
+export function mergePaintRefEntries(batches: PaintRefEntry[][]): PaintRefEntry[] {
+  const bag = new Map<string, PaintRefEntry>();
+  for (const batch of batches) for (const e of batch) mergeEntry(bag, e);
+  return [...bag.values()];
 }
 
 /**

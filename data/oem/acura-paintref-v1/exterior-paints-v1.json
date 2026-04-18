@@ -1,0 +1,5498 @@
+{
+  "$schema": "../../../schemas/exterior-paints-v1.schema.json",
+  "scopeId": "acura-paintref-v1",
+  "version": "1.0.0",
+  "paints": [
+    {
+      "code": "NH592P-L",
+      "marketingName": "Flamenco Black",
+      "finish": "solid",
+      "lab": {
+        "L": 0,
+        "a": 0,
+        "b": 0,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #000000 (PaintRef hex, OEM=Acura, code=NH592P-L (models=CL; years=1998-1999)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:cl:NH592P-L"
+      }
+    },
+    {
+      "code": "BG40P-L",
+      "marketingName": "Dark Blue Green",
+      "finish": "solid",
+      "lab": {
+        "L": 18.03,
+        "a": -3.91,
+        "b": -4.23,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #222E32 (PaintRef hex, OEM=Acura, code=BG40P-L (models=CL; years=1998-1999)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:cl:BG40P-L"
+      }
+    },
+    {
+      "code": "BG41P-L",
+      "marketingName": "Iced Teal",
+      "finish": "solid",
+      "lab": {
+        "L": 47.03,
+        "a": -4.38,
+        "b": -17.2,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #54738C (PaintRef hex, OEM=Acura, code=BG41P-L (models=CL; year=1998)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:cl:BG41P-L"
+      }
+    },
+    {
+      "code": "BG41P-L",
+      "marketingName": "Aqua Silver",
+      "finish": "solid",
+      "lab": {
+        "L": 47.03,
+        "a": -4.38,
+        "b": -17.2,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #54738C (PaintRef hex, OEM=Acura, code=BG41P-L (models=CL; year=1999)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:cl:BG41P-L"
+      }
+    },
+    {
+      "code": "G91M-A",
+      "marketingName": "Laguna Green",
+      "finish": "solid",
+      "lab": {
+        "L": 33.6,
+        "a": -2.79,
+        "b": -9.62,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #41515E (PaintRef hex, OEM=Acura, code=G91M-A (models=TL; years=1999-2001)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:tl:G91M-A"
+      }
+    },
+    {
+      "code": "B93P-A",
+      "marketingName": "Monterey Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 18.64,
+        "a": 2.95,
+        "b": -14.32,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #252D42 (PaintRef hex, OEM=Acura, code=B93P-A (models=TL; years=2000-2001)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:tl:B93P-A"
+      }
+    },
+    {
+      "code": "B92P-A",
+      "marketingName": "Nighthawk Black",
+      "finish": "solid",
+      "lab": {
+        "L": 10.24,
+        "a": 2.95,
+        "b": -5.98,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #1C1B24 (PaintRef hex, OEM=Acura, code=B92P-A (models=CL, RDX, TL; years=2000-2008)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:cl:B92P-A"
+      }
+    },
+    {
+      "code": "B504P-A",
+      "marketingName": "Aegean Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 18.66,
+        "a": 13.32,
+        "b": -28.5,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #252957 (PaintRef hex, OEM=Acura, code=B504P-A (models=CL, TL; years=2002-2004)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:cl:B504P-A"
+      }
+    },
+    {
+      "code": "B96P-A",
+      "marketingName": "Eternal Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 13.21,
+        "a": 9.64,
+        "b": -21.53,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #1C1F40 (PaintRef hex, OEM=Acura, code=B96P-A (models=TL; year=2003)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:tl:B96P-A"
+      }
+    },
+    {
+      "code": "YR524M-A",
+      "marketingName": "Naples Gold",
+      "finish": "solid",
+      "lab": {
+        "L": 67.47,
+        "a": 1.63,
+        "b": 4.66,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #ABA39C (PaintRef hex, OEM=Acura, code=YR524M-A (models=CL, RL; years=2000-2003)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:cl:YR524M-A"
+      }
+    },
+    {
+      "code": "YR538M-A",
+      "marketingName": "Desert Mist",
+      "finish": "solid",
+      "lab": {
+        "L": 62.17,
+        "a": -0.65,
+        "b": 9.23,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #9C9686 (PaintRef hex, OEM=Acura, code=YR538M-A (models=TL; years=2003-2007)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:tl:YR538M-A"
+      }
+    },
+    {
+      "code": "RP27M-L",
+      "marketingName": "Primrose Mist",
+      "finish": "solid",
+      "lab": {
+        "L": 71.87,
+        "a": 3.78,
+        "b": -14.28,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #AAAFCA (PaintRef hex, OEM=Acura, code=RP27M-L (models=CL; year=1998)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:cl:RP27M-L"
+      }
+    },
+    {
+      "code": "YR525M-L",
+      "marketingName": "Titanium",
+      "finish": "solid",
+      "lab": {
+        "L": 64.74,
+        "a": 0,
+        "b": 0,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #9D9D9D (PaintRef hex, OEM=Acura, code=YR525M-L (models=CL; year=1999)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:cl:YR525M-L"
+      }
+    },
+    {
+      "code": "NH623M-A",
+      "marketingName": "Satin Silver",
+      "finish": "solid",
+      "lab": {
+        "L": 78.35,
+        "a": -7.09,
+        "b": -2.42,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #B1C6C6 (PaintRef hex, OEM=Acura, code=NH623M-A (models=CL, TL; years=2000-2006)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:cl:NH623M-A"
+      }
+    },
+    {
+      "code": "NH643M-A",
+      "marketingName": "Anthracite Gray",
+      "finish": "solid",
+      "lab": {
+        "L": 36.26,
+        "a": 1.24,
+        "b": -5.48,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #53555E (PaintRef hex, OEM=Acura, code=NH643M-A (models=TL; years=2003-2006)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:tl:NH643M-A"
+      }
+    },
+    {
+      "code": "G87P-A",
+      "marketingName": "Dark Emerald Green",
+      "finish": "solid",
+      "lab": {
+        "L": 18.71,
+        "a": -8.76,
+        "b": 2.99,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #213129 (PaintRef hex, OEM=Acura, code=G87P-A (models=TL; years=2000-2002)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:tl:G87P-A"
+      }
+    },
+    {
+      "code": "G508P-A",
+      "marketingName": "Noble Green",
+      "finish": "solid",
+      "lab": {
+        "L": 25.25,
+        "a": -6.38,
+        "b": -4.89,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #2C3F43 (PaintRef hex, OEM=Acura, code=G508P-A (models=CL, TL; years=2002-2003)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:cl:G508P-A"
+      }
+    },
+    {
+      "code": "R96P-L",
+      "marketingName": "Inza Red",
+      "finish": "solid",
+      "lab": {
+        "L": 19.16,
+        "a": 23.79,
+        "b": 16.97,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #521E17 (PaintRef hex, OEM=Acura, code=R96P-L (models=CL; year=1998)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:cl:R96P-L"
+      }
+    },
+    {
+      "code": "YR529P-A",
+      "marketingName": "Sundance Gold",
+      "finish": "solid",
+      "lab": {
+        "L": 49.97,
+        "a": 36.96,
+        "b": 47.42,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #BE5A25 (PaintRef hex, OEM=Acura, code=YR529P-A (models=CL; year=2001)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:cl:YR529P-A"
+      }
+    },
+    {
+      "code": "R94-A",
+      "marketingName": "San Marino Red",
+      "finish": "solid",
+      "lab": {
+        "L": 26.48,
+        "a": 46.29,
+        "b": 28.45,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #800C16 (PaintRef hex, OEM=Acura, code=R94-A (models=CL, ILX, TLX; years=2001-2017)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:cl:R94-A"
+      }
+    },
+    {
+      "code": "NH578-L",
+      "marketingName": "Taffeta White",
+      "finish": "solid",
+      "lab": {
+        "L": 99.31,
+        "a": 0,
+        "b": 0,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #FDFDFD (PaintRef hex, OEM=Acura, code=NH578-L (models=CL; years=1998-1999)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:cl:NH578-L"
+      }
+    },
+    {
+      "code": "NH578-A",
+      "marketingName": "Taffeta White",
+      "finish": "solid",
+      "lab": {
+        "L": 99.31,
+        "a": 0,
+        "b": 0,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #FDFDFD (PaintRef hex, OEM=Acura, code=NH578-A (models=CL, TL; years=1999-2003)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:cl:NH578-A"
+      }
+    },
+    {
+      "code": "NH731P-E",
+      "marketingName": "Crystal Black",
+      "finish": "solid",
+      "lab": {
+        "L": 0,
+        "a": 0,
+        "b": 0,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #000000 (PaintRef hex, OEM=Acura, code=NH731P-E (models=ILX; years=2013-2015)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:ilx:NH731P-E"
+      }
+    },
+    {
+      "code": "NH731P-A",
+      "marketingName": "Crystal Black",
+      "finish": "solid",
+      "lab": {
+        "L": 0,
+        "a": 0,
+        "b": 0,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #000000 (PaintRef hex, OEM=Acura, code=NH731P-A (models=TL, TLX; years=2009-2016)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:tl:NH731P-A"
+      }
+    },
+    {
+      "code": "NH731P-B",
+      "marketingName": "Crystal Black",
+      "finish": "solid",
+      "lab": {
+        "L": 0,
+        "a": 0,
+        "b": 0,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #000000 (PaintRef hex, OEM=Acura, code=NH731P-B (models=MDX, TLX, ZDX; years=2010-2017)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:mdx:NH731P-B"
+      }
+    },
+    {
+      "code": "NH731P",
+      "marketingName": "Crystal Black",
+      "finish": "solid",
+      "lab": {
+        "L": 0,
+        "a": 0,
+        "b": 0,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #000000 (PaintRef hex, OEM=Acura, code=NH731P (models=TLX; years=2018-2019)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:tlx:NH731P"
+      }
+    },
+    {
+      "code": "NH893P",
+      "marketingName": "Majestic Black",
+      "finish": "solid",
+      "lab": {
+        "L": 0,
+        "a": 0,
+        "b": 0,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #000000 (PaintRef hex, OEM=Acura, code=NH893P (models=ILX, Integra, MDX, RLX, TLX, ZDX; years=2018-2026)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:ilx:NH893P"
+      }
+    },
+    {
+      "code": "B576P-A",
+      "marketingName": "Fathom Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 18.24,
+        "a": 9.95,
+        "b": -27.86,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #1D2A55 (PaintRef hex, OEM=Acura, code=B576P-A (models=ILX, MDX, TL; years=2013-2015)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:ilx:B576P-A"
+      }
+    },
+    {
+      "code": "B612P-A",
+      "marketingName": "Catalina Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 20.99,
+        "a": 8.31,
+        "b": -30.11,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #1A315F (PaintRef hex, OEM=Acura, code=B612P-A (models=ILX; years=2016-2017)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:ilx:B612P-A"
+      }
+    },
+    {
+      "code": "B612P",
+      "marketingName": "Catalina Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 20.99,
+        "a": 8.31,
+        "b": -30.11,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #1A315F (PaintRef hex, OEM=Acura, code=B612P (models=ILX; year=2018)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:ilx:B612P"
+      }
+    },
+    {
+      "code": "B621P",
+      "marketingName": "Apex Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 42.02,
+        "a": 46.38,
+        "b": -84.38,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #2B4FF2 (PaintRef hex, OEM=Acura, code=B621P (models=ILX, Integra, MDX, RDX, TLX; years=2019-2025)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:ilx:B621P"
+      }
+    },
+    {
+      "code": "YR632M",
+      "marketingName": "Canyon Bronze",
+      "finish": "solid",
+      "lab": {
+        "L": 43.92,
+        "a": 20.13,
+        "b": 25.15,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #925A3F (PaintRef hex, OEM=Acura, code=YR632M (models=ILX, MDX, RDX, TLX; years=2019-2020)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:ilx:YR632M"
+      }
+    },
+    {
+      "code": "NH700M-E",
+      "marketingName": "Alabaster Silver",
+      "finish": "solid",
+      "lab": {
+        "L": 75.54,
+        "a": -0.02,
+        "b": 1.13,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #BBBAB8 (PaintRef hex, OEM=Acura, code=NH700M-E (models=ILX, RDX; years=2013-2015)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:ilx:NH700M-E"
+      }
+    },
+    {
+      "code": "NH737M-B",
+      "marketingName": "Polished Metal",
+      "finish": "solid",
+      "lab": {
+        "L": 40.38,
+        "a": 3.03,
+        "b": -6.67,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #5F5E6A (PaintRef hex, OEM=Acura, code=NH737M-B (models=ILX, MDX; years=2010-2013)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:ilx:NH737M-B"
+      }
+    },
+    {
+      "code": "YR578M-C",
+      "marketingName": "Urban Titanium",
+      "finish": "solid",
+      "lab": {
+        "L": 68.16,
+        "a": 3.8,
+        "b": -1.55,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #ACA4A9 (PaintRef hex, OEM=Acura, code=YR578M-C (models=ILX; year=2013)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:ilx:YR578M-C"
+      }
+    },
+    {
+      "code": "NH737M-E",
+      "marketingName": "Polished Metal",
+      "finish": "solid",
+      "lab": {
+        "L": 40.38,
+        "a": 3.03,
+        "b": -6.67,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #5F5E6A (PaintRef hex, OEM=Acura, code=NH737M-E (models=ILX, MDX; years=2014-2015)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:ilx:NH737M-E"
+      }
+    },
+    {
+      "code": "YR578M-E",
+      "marketingName": "Urban Titanium",
+      "finish": "solid",
+      "lab": {
+        "L": 68.16,
+        "a": 3.8,
+        "b": -1.55,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #ACA4A9 (PaintRef hex, OEM=Acura, code=YR578M-E (models=ILX; years=2014-2015)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:ilx:YR578M-E"
+      }
+    },
+    {
+      "code": "NH782M-A",
+      "marketingName": "Graphite Luster",
+      "finish": "solid",
+      "lab": {
+        "L": 16.35,
+        "a": 3.22,
+        "b": -0.3,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #2D2729 (PaintRef hex, OEM=Acura, code=NH782M-A (models=MDX, RDX, TL, TLX, ZDX; years=2012-2016)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:mdx:NH782M-A"
+      }
+    },
+    {
+      "code": "NH829M-A",
+      "marketingName": "Slate Silver",
+      "finish": "solid",
+      "lab": {
+        "L": 65.87,
+        "a": 0,
+        "b": 0,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #A0A0A0 (PaintRef hex, OEM=Acura, code=NH829M-A (models=TLX; year=2016)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:tlx:NH829M-A"
+      }
+    },
+    {
+      "code": "NH830M-A",
+      "marketingName": "Lunar Silver",
+      "finish": "solid",
+      "lab": {
+        "L": 60.78,
+        "a": -0.49,
+        "b": -1.96,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #909396 (PaintRef hex, OEM=Acura, code=NH830M-A (models=MDX, TLX; years=2016-2017)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:mdx:NH830M-A"
+      }
+    },
+    {
+      "code": "NH797M-A",
+      "marketingName": "Modern Steel",
+      "finish": "solid",
+      "lab": {
+        "L": 39.05,
+        "a": 1.34,
+        "b": -10.59,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #555C6D (PaintRef hex, OEM=Acura, code=NH797M-A (models=ILX; year=2017)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:ilx:NH797M-A"
+      }
+    },
+    {
+      "code": "NH830M",
+      "marketingName": "Lunar Silver",
+      "finish": "solid",
+      "lab": {
+        "L": 60.78,
+        "a": -0.49,
+        "b": -1.96,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #909396 (PaintRef hex, OEM=Acura, code=NH830M (models=ILX, Integra, MDX, RDX, RLX, TLX, ZDX; years=2018-2025)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:ilx:NH830M"
+      }
+    },
+    {
+      "code": "NH797M",
+      "marketingName": "Modern Steel",
+      "finish": "solid",
+      "lab": {
+        "L": 39.05,
+        "a": 1.34,
+        "b": -10.59,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #555C6D (PaintRef hex, OEM=Acura, code=NH797M (models=ILX, MDX, RDX, RLX, TLX; years=2018-2023)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:ilx:NH797M"
+      }
+    },
+    {
+      "code": "R543P-E",
+      "marketingName": "Crimson",
+      "finish": "solid",
+      "lab": {
+        "L": 22.46,
+        "a": 41.61,
+        "b": 24.96,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #6F0A13 (PaintRef hex, OEM=Acura, code=R543P-E (models=ILX, MDX; years=2013-2015)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:ilx:R543P-E"
+      }
+    },
+    {
+      "code": "R548P-A",
+      "marketingName": "Basque Red",
+      "finish": "solid",
+      "lab": {
+        "L": 17.25,
+        "a": 39.05,
+        "b": 12.23,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #5C001B (PaintRef hex, OEM=Acura, code=R548P-A (models=ILX, RDX, TL, TLX; years=2012-2017)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:ilx:R548P-A"
+      }
+    },
+    {
+      "code": "R94",
+      "marketingName": "San Marino Red",
+      "finish": "solid",
+      "lab": {
+        "L": 26.48,
+        "a": 46.29,
+        "b": 28.45,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #800C16 (PaintRef hex, OEM=Acura, code=R94 (models=TLX; years=2018-2019)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:tlx:R94"
+      }
+    },
+    {
+      "code": "R568P",
+      "marketingName": "Performance Red",
+      "finish": "solid",
+      "lab": {
+        "L": 41.12,
+        "a": 49.98,
+        "b": 29.27,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #B03434 (PaintRef hex, OEM=Acura, code=R568P (models=ILX, Integra, MDX, RDX, TLX, ZDX; years=2019-2026)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:ilx:R568P"
+      }
+    },
+    {
+      "code": "NH788P-A",
+      "marketingName": "White Orchid",
+      "finish": "solid",
+      "lab": {
+        "L": 92.57,
+        "a": 1.01,
+        "b": 0.36,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #ECE9E9 (PaintRef hex, OEM=Acura, code=NH788P-A (models=ILX, MDX, RDX, TL, TLX; years=2012-2017)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:ilx:NH788P-A"
+      }
+    },
+    {
+      "code": "NH788P",
+      "marketingName": "Bellanova White",
+      "finish": "solid",
+      "lab": {
+        "L": 92.57,
+        "a": 1.01,
+        "b": 0.36,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #ECE9E9 (PaintRef hex, OEM=Acura, code=NH788P (models=TLX; year=2018)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:tlx:NH788P"
+      }
+    },
+    {
+      "code": "NH883P",
+      "marketingName": "Platinum White",
+      "finish": "solid",
+      "lab": {
+        "L": 93.75,
+        "a": 0,
+        "b": 0,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #EDEDED (PaintRef hex, OEM=Acura, code=NH883P (models=ILX, Integra, MDX, RDX, RLX, TLX, ZDX; years=2018-2026)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:ilx:NH883P"
+      }
+    },
+    {
+      "code": "NH503P",
+      "marketingName": "Granada Black",
+      "finish": "solid",
+      "lab": {
+        "L": 1.92,
+        "a": 0,
+        "b": 0,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #070707 (PaintRef hex, OEM=Acura, code=NH503P (models=Integra, Legend, Vigor; years=1994-1997)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:integra:NH503P"
+      }
+    },
+    {
+      "code": "NH592P",
+      "marketingName": "Flamenco Black",
+      "finish": "solid",
+      "lab": {
+        "L": 0,
+        "a": 0,
+        "b": 0,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #000000 (PaintRef hex, OEM=Acura, code=NH592P (models=Integra, Legend, TL; years=1996-2000)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:integra:NH592P"
+      }
+    },
+    {
+      "code": "G71P",
+      "marketingName": "Isle Green",
+      "finish": "solid",
+      "lab": {
+        "L": 27.38,
+        "a": -2,
+        "b": -6.2,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #38424A (PaintRef hex, OEM=Acura, code=G71P (models=Integra; years=1994-1995)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:integra:G71P"
+      }
+    },
+    {
+      "code": "BG33P",
+      "marketingName": "Paradise Blue Green",
+      "finish": "solid",
+      "lab": {
+        "L": 25.42,
+        "a": -1.24,
+        "b": -16.5,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #283E55 (PaintRef hex, OEM=Acura, code=BG33P (models=Integra; years=1994-1995)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:integra:BG33P"
+      }
+    },
+    {
+      "code": "G82P",
+      "marketingName": "Cypress Green",
+      "finish": "solid",
+      "lab": {
+        "L": 23.01,
+        "a": -14.58,
+        "b": -3.71,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #133D3C (PaintRef hex, OEM=Acura, code=G82P (models=Integra; years=1996-1998)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:integra:G82P"
+      }
+    },
+    {
+      "code": "B74P",
+      "marketingName": "Adriatic Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 12.23,
+        "a": 1.33,
+        "b": -9.54,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #1A202D (PaintRef hex, OEM=Acura, code=B74P (models=Integra; years=1997-1999)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:integra:B74P"
+      }
+    },
+    {
+      "code": "B73M",
+      "marketingName": "Cyclone Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 26.56,
+        "a": 2.07,
+        "b": -16.65,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #323F58 (PaintRef hex, OEM=Acura, code=B73M (models=Integra; year=1997)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:integra:B73M"
+      }
+    },
+    {
+      "code": "B90P",
+      "marketingName": "Supersonic Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 13.03,
+        "a": 25.35,
+        "b": -41.04,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #17175C (PaintRef hex, OEM=Acura, code=B90P (models=TL; year=1998)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:tl:B90P"
+      }
+    },
+    {
+      "code": "B91M",
+      "marketingName": "Crystal Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 53.04,
+        "a": 3.37,
+        "b": -27.14,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #677FAD (PaintRef hex, OEM=Acura, code=B91M (models=RL, TL; years=1998-1999)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:rl:B91M"
+      }
+    },
+    {
+      "code": "B97M",
+      "marketingName": "Voltage Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 33.95,
+        "a": 31.63,
+        "b": -63.66,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #2744B7 (PaintRef hex, OEM=Acura, code=B97M (models=Integra; years=2000-2001)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:integra:B97M"
+      }
+    },
+    {
+      "code": "B92P",
+      "marketingName": "Nighthawk Black",
+      "finish": "solid",
+      "lab": {
+        "L": 10.24,
+        "a": 2.95,
+        "b": -5.98,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #1C1B24 (PaintRef hex, OEM=Acura, code=B92P (models=RL, RSX; years=2000-2003)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:rl:B92P"
+      }
+    },
+    {
+      "code": "B657P",
+      "marketingName": "Double Apex Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 26.97,
+        "a": 26.31,
+        "b": -56.49,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #0D3798 (PaintRef hex, OEM=Acura, code=B657P (models=MDX; year=2026)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:mdx:B657P"
+      }
+    },
+    {
+      "code": "RP24P",
+      "marketingName": "Stealth Gray",
+      "finish": "solid",
+      "lab": {
+        "L": 22.2,
+        "a": 3.15,
+        "b": -6.71,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #35343F (PaintRef hex, OEM=Acura, code=RP24P (models=Integra; year=1994)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:integra:RP24P"
+      }
+    },
+    {
+      "code": "NH575M",
+      "marketingName": "Thunder Gray",
+      "finish": "solid",
+      "lab": {
+        "L": 34.4,
+        "a": 1.35,
+        "b": -11.5,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #495163 (PaintRef hex, OEM=Acura, code=NH575M (models=Integra; year=1994)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:integra:NH575M"
+      }
+    },
+    {
+      "code": "YR506M",
+      "marketingName": "Desert Mist",
+      "finish": "solid",
+      "lab": {
+        "L": 38.27,
+        "a": 2.83,
+        "b": -6.16,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #5A5964 (PaintRef hex, OEM=Acura, code=YR506M (models=Integra, Legend, Vigor; years=1994-1997)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:integra:YR506M"
+      }
+    },
+    {
+      "code": "RP21M",
+      "marketingName": "Horizon Gray",
+      "finish": "solid",
+      "lab": {
+        "L": 28.49,
+        "a": 4.37,
+        "b": -14.23,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #3E4259 (PaintRef hex, OEM=Acura, code=RP21M (models=Integra; year=1995)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:integra:RP21M"
+      }
+    },
+    {
+      "code": "NH583M",
+      "marketingName": "Vogue Silver",
+      "finish": "solid",
+      "lab": {
+        "L": 80.37,
+        "a": -1.92,
+        "b": -6.87,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #BDC9D4 (PaintRef hex, OEM=Acura, code=NH583M (models=Integra; years=1995-2000)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:integra:NH583M"
+      }
+    },
+    {
+      "code": "NH597M",
+      "marketingName": "Citrous Silver",
+      "finish": "solid",
+      "lab": {
+        "L": 81.67,
+        "a": -3.16,
+        "b": -2.78,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #C2CDD0 (PaintRef hex, OEM=Acura, code=NH597M (models=Integra; years=1997-1998)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:integra:NH597M"
+      }
+    },
+    {
+      "code": "NH623M",
+      "marketingName": "Satin Silver",
+      "finish": "solid",
+      "lab": {
+        "L": 78.35,
+        "a": -7.09,
+        "b": -2.42,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #B1C6C6 (PaintRef hex, OEM=Acura, code=NH623M (models=Integra, RL, RSX, TSX; years=2001-2004)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:integra:NH623M"
+      }
+    },
+    {
+      "code": "YR525M",
+      "marketingName": "Titanium Pearl",
+      "finish": "solid",
+      "lab": {
+        "L": 64.74,
+        "a": 0,
+        "b": 0,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #9D9D9D (PaintRef hex, OEM=Acura, code=YR525M (models=Integra; year=2001)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:integra:YR525M"
+      }
+    },
+    {
+      "code": "NH885M",
+      "marketingName": "Liquid Carbon",
+      "finish": "solid",
+      "lab": {
+        "L": 45.49,
+        "a": 0.51,
+        "b": -8.67,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #656C7A (PaintRef hex, OEM=Acura, code=NH885M (models=Integra, MDX, RDX, TLX; years=2022-2026)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:integra:NH885M"
+      }
+    },
+    {
+      "code": "NH932M",
+      "marketingName": "Solar Silver",
+      "finish": "solid",
+      "lab": {
+        "L": 68.72,
+        "a": -0.24,
+        "b": -3.58,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #A4A8AE (PaintRef hex, OEM=Acura, code=NH932M (models=MDX, RDX; years=2025-2026)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:mdx:NH932M"
+      }
+    },
+    {
+      "code": "NH912P",
+      "marketingName": "Urban Gray",
+      "finish": "solid",
+      "lab": {
+        "L": 59.65,
+        "a": -0.75,
+        "b": 0.93,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #8F908E (PaintRef hex, OEM=Acura, code=NH912P (models=MDX, RDX, TLX; years=2024-2026)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:mdx:NH912P"
+      }
+    },
+    {
+      "code": "G95P",
+      "marketingName": "Clover Green",
+      "finish": "solid",
+      "lab": {
+        "L": 24.13,
+        "a": -7.71,
+        "b": -4.61,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #273D40 (PaintRef hex, OEM=Acura, code=G95P (models=Integra; years=1999-2001)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:integra:G95P"
+      }
+    },
+    {
+      "code": "YR503M",
+      "marketingName": "Rosewood Brown",
+      "finish": "solid",
+      "lab": {
+        "L": 28.54,
+        "a": 3.4,
+        "b": -6.32,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #44424D (PaintRef hex, OEM=Acura, code=YR503M (models=Integra; year=1994)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:integra:YR503M"
+      }
+    },
+    {
+      "code": "PB76P",
+      "marketingName": "Dark Violet",
+      "finish": "solid",
+      "lab": {
+        "L": 17.58,
+        "a": 10.6,
+        "b": -17.29,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #2D2744 (PaintRef hex, OEM=Acura, code=PB76P (models=Integra; year=2000)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:integra:PB76P"
+      }
+    },
+    {
+      "code": "R81",
+      "marketingName": "Milano Red",
+      "finish": "solid",
+      "lab": {
+        "L": 43.37,
+        "a": 66.82,
+        "b": 46.76,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #CD0F1C (PaintRef hex, OEM=Acura, code=R81 (models=Integra, Legend, RSX; years=1994-2004)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:integra:R81"
+      }
+    },
+    {
+      "code": "R72P",
+      "marketingName": "Torino Red",
+      "finish": "solid",
+      "lab": {
+        "L": 17.13,
+        "a": 35.78,
+        "b": 16.22,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #590715 (PaintRef hex, OEM=Acura, code=R72P (models=Integra; years=1994-1995)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:integra:R72P"
+      }
+    },
+    {
+      "code": "RP25P",
+      "marketingName": "Black Currant",
+      "finish": "solid",
+      "lab": {
+        "L": 21.64,
+        "a": 3.99,
+        "b": -1.39,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #393236 (PaintRef hex, OEM=Acura, code=RP25P (models=Integra, Legend; years=1996-1997)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:integra:RP25P"
+      }
+    },
+    {
+      "code": "R93P",
+      "marketingName": "Matador Red",
+      "finish": "solid",
+      "lab": {
+        "L": 17.36,
+        "a": 21.21,
+        "b": 5.92,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #481D23 (PaintRef hex, OEM=Acura, code=R93P (models=Integra; years=1996-1997)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:integra:R93P"
+      }
+    },
+    {
+      "code": "R505P",
+      "marketingName": "New Burning Red",
+      "finish": "solid",
+      "lab": {
+        "L": 19.14,
+        "a": 36.63,
+        "b": 14.09,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #5F0C1C (PaintRef hex, OEM=Acura, code=R505P (models=Integra; years=1998-1999)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:integra:R505P"
+      }
+    },
+    {
+      "code": "R505P",
+      "marketingName": "Cayenne Red",
+      "finish": "solid",
+      "lab": {
+        "L": 19.14,
+        "a": 36.63,
+        "b": 14.09,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #5F0C1C (PaintRef hex, OEM=Acura, code=R505P (models=Integra; year=2000)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:integra:R505P"
+      }
+    },
+    {
+      "code": "R504P",
+      "marketingName": "Ruby Red",
+      "finish": "solid",
+      "lab": {
+        "L": 27.08,
+        "a": 50.05,
+        "b": 30.7,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #860014 (PaintRef hex, OEM=Acura, code=R504P (models=Integra, RL; years=2000-2002)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:integra:R504P"
+      }
+    },
+    {
+      "code": "NH538",
+      "marketingName": "Frost White",
+      "finish": "solid",
+      "lab": {
+        "L": 87.97,
+        "a": -2.78,
+        "b": 3.45,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #DADED6 (PaintRef hex, OEM=Acura, code=NH538 (models=Integra, Legend; years=1994-1998)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:integra:NH538"
+      }
+    },
+    {
+      "code": "NH0",
+      "marketingName": "Championship White",
+      "finish": "solid",
+      "lab": {
+        "L": 97.91,
+        "a": 0.97,
+        "b": 4.66,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #FFF8F0 (PaintRef hex, OEM=Acura, code=NH0 (models=Integra; years=1997-2001)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:integra:NH0"
+      }
+    },
+    {
+      "code": "NH578",
+      "marketingName": "Taffeta White",
+      "finish": "solid",
+      "lab": {
+        "L": 99.31,
+        "a": 0,
+        "b": 0,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #FDFDFD (PaintRef hex, OEM=Acura, code=NH578 (models=Integra, Legend, RSX, Vigor; years=1994-2004)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:integra:NH578"
+      }
+    },
+    {
+      "code": "Y56",
+      "marketingName": "Phoenix Yellow",
+      "finish": "solid",
+      "lab": {
+        "L": 88.11,
+        "a": -4.76,
+        "b": 86.74,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #FEDC0E (PaintRef hex, OEM=Acura, code=Y56 (models=Integra; years=2000-2001)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:integra:Y56"
+      }
+    },
+    {
+      "code": "G78P",
+      "marketingName": "Sherwood Green",
+      "finish": "solid",
+      "lab": {
+        "L": 19.12,
+        "a": -2.14,
+        "b": -10.19,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #21303D (PaintRef hex, OEM=Acura, code=G78P (models=Legend, Vigor; years=1994-1997)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:legend:G78P"
+      }
+    },
+    {
+      "code": "G83P",
+      "marketingName": "Dark Eucalyptus",
+      "finish": "solid",
+      "lab": {
+        "L": 27.75,
+        "a": -3.38,
+        "b": -13.54,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #2D4456 (PaintRef hex, OEM=Acura, code=G83P (models=Legend; year=1996)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:legend:G83P"
+      }
+    },
+    {
+      "code": "G79P",
+      "marketingName": "Juniper Green",
+      "finish": "solid",
+      "lab": {
+        "L": 20.36,
+        "a": -6.54,
+        "b": -2.14,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #243434 (PaintRef hex, OEM=Acura, code=G79P (models=Legend, RL, TL, Vigor; years=1995-1998)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:legend:G79P"
+      }
+    },
+    {
+      "code": "B75M",
+      "marketingName": "New Blue Silver Gray",
+      "finish": "solid",
+      "lab": {
+        "L": 37.76,
+        "a": 7.16,
+        "b": -24.31,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #4D5780 (PaintRef hex, OEM=Acura, code=B75M (models=Legend; year=1997)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:legend:B75M"
+      }
+    },
+    {
+      "code": "YR505M",
+      "marketingName": "Cashmere Silver",
+      "finish": "solid",
+      "lab": {
+        "L": 66.77,
+        "a": -3.66,
+        "b": 6.89,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #A1A496 (PaintRef hex, OEM=Acura, code=YR505M (models=Legend; years=1994-1995)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:legend:YR505M"
+      }
+    },
+    {
+      "code": "G75M",
+      "marketingName": "Canterberry Green",
+      "finish": "solid",
+      "lab": {
+        "L": 34.44,
+        "a": -3,
+        "b": -8.33,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #44535E (PaintRef hex, OEM=Acura, code=G75M (models=Legend; years=1994-1995)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:legend:G75M"
+      }
+    },
+    {
+      "code": "RP20M",
+      "marketingName": "Vineyard Gray",
+      "finish": "solid",
+      "lab": {
+        "L": 18.94,
+        "a": 2.97,
+        "b": -6.22,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #2E2D37 (PaintRef hex, OEM=Acura, code=RP20M (models=Legend; year=1994)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:legend:RP20M"
+      }
+    },
+    {
+      "code": "YR511P",
+      "marketingName": "Devon Slate",
+      "finish": "solid",
+      "lab": {
+        "L": 23.62,
+        "a": -0.47,
+        "b": -8.64,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #303945 (PaintRef hex, OEM=Acura, code=YR511P (models=Legend; years=1996-1997)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:legend:YR511P"
+      }
+    },
+    {
+      "code": "YR509P",
+      "marketingName": "Granite Silver",
+      "finish": "solid",
+      "lab": {
+        "L": 79.44,
+        "a": -2.9,
+        "b": -7.22,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #B8C7D2 (PaintRef hex, OEM=Acura, code=YR509P (models=Legend, TL, Vigor; years=1995-1998)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:legend:YR509P"
+      }
+    },
+    {
+      "code": "NH546M",
+      "marketingName": "Kaiser Silver",
+      "finish": "solid",
+      "lab": {
+        "L": 56.16,
+        "a": -2.02,
+        "b": -4.34,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #7F888E (PaintRef hex, OEM=Acura, code=NH546M (models=NSX; years=1997-1999)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:nsx:NH546M"
+      }
+    },
+    {
+      "code": "NH552M",
+      "marketingName": "Silver Stone",
+      "finish": "solid",
+      "lab": {
+        "L": 57.16,
+        "a": -2.19,
+        "b": -8.62,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #7D8B98 (PaintRef hex, OEM=Acura, code=NH552M (models=NSX; year=1997)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:nsx:NH552M"
+      }
+    },
+    {
+      "code": "YR508M",
+      "marketingName": "Heather Mist",
+      "finish": "solid",
+      "lab": {
+        "L": 82.07,
+        "a": 6.39,
+        "b": -10.64,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #CFC9E0 (PaintRef hex, OEM=Acura, code=YR508M (models=Legend, RL; years=1996-1998)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:legend:YR508M"
+      }
+    },
+    {
+      "code": "R91P",
+      "marketingName": "Garnet Red",
+      "finish": "solid",
+      "lab": {
+        "L": 13.49,
+        "a": 9.18,
+        "b": -1.62,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #2E1E25 (PaintRef hex, OEM=Acura, code=R91P (models=Legend, Vigor; years=1995-1997)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:legend:R91P"
+      }
+    },
+    {
+      "code": "NH515P",
+      "marketingName": "Sirius White",
+      "finish": "solid",
+      "lab": {
+        "L": 83.26,
+        "a": -1.6,
+        "b": 4.46,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #D0D0C7 (PaintRef hex, OEM=Acura, code=NH515P (models=Legend; year=1994)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:legend:NH515P"
+      }
+    },
+    {
+      "code": "NH585P",
+      "marketingName": "Cayman White",
+      "finish": "solid",
+      "lab": {
+        "L": 99.59,
+        "a": -2.56,
+        "b": 5.02,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #FDFFF4 (PaintRef hex, OEM=Acura, code=NH585P (models=Legend, RL, TL, Vigor; years=1995-1999)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:legend:NH585P"
+      }
+    },
+    {
+      "code": "NH707-H",
+      "marketingName": "Formal Black",
+      "finish": "solid",
+      "lab": {
+        "L": 0,
+        "a": 0,
+        "b": 0,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #000000 (PaintRef hex, OEM=Acura, code=NH707-H (models=MDX; years=2007-2008)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:mdx:NH707-H"
+      }
+    },
+    {
+      "code": "NH707-B",
+      "marketingName": "Formal Black",
+      "finish": "solid",
+      "lab": {
+        "L": 0,
+        "a": 0,
+        "b": 0,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #000000 (PaintRef hex, OEM=Acura, code=NH707-B (models=MDX; year=2009)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:mdx:NH707-B"
+      }
+    },
+    {
+      "code": "G501M-H",
+      "marketingName": "Fern Green",
+      "finish": "solid",
+      "lab": {
+        "L": 41.4,
+        "a": 1.42,
+        "b": -14.96,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #56627A (PaintRef hex, OEM=Acura, code=G501M-H (models=MDX; year=2001)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:mdx:G501M-H"
+      }
+    },
+    {
+      "code": "B92P-H",
+      "marketingName": "Nighthawk Black",
+      "finish": "solid",
+      "lab": {
+        "L": 10.24,
+        "a": 2.95,
+        "b": -5.98,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #1C1B24 (PaintRef hex, OEM=Acura, code=B92P-H (models=MDX; years=2001-2002)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:mdx:B92P-H"
+      }
+    },
+    {
+      "code": "G510P-H",
+      "marketingName": "Evergreen",
+      "finish": "solid",
+      "lab": {
+        "L": 26.21,
+        "a": -8.36,
+        "b": -4.78,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #2A4245 (PaintRef hex, OEM=Acura, code=G510P-H (models=MDX; year=2002)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:mdx:G510P-H"
+      }
+    },
+    {
+      "code": "BG50M-H",
+      "marketingName": "Havasu Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 73.58,
+        "a": -7.5,
+        "b": -14.03,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #96BACE (PaintRef hex, OEM=Acura, code=BG50M-H (models=MDX; year=2003)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:mdx:BG50M-H"
+      }
+    },
+    {
+      "code": "B518P-H",
+      "marketingName": "Midnight Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 18.35,
+        "a": 4.46,
+        "b": -18.21,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #222C47 (PaintRef hex, OEM=Acura, code=B518P-H (models=MDX; years=2003-2004)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:mdx:B518P-H"
+      }
+    },
+    {
+      "code": "NH662P-H",
+      "marketingName": "Sage Brush",
+      "finish": "solid",
+      "lab": {
+        "L": 39.9,
+        "a": -1.71,
+        "b": -15.5,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #4B6077 (PaintRef hex, OEM=Acura, code=NH662P-H (models=MDX; years=2003-2004)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:mdx:NH662P-H"
+      }
+    },
+    {
+      "code": "NH662P-H",
+      "marketingName": "Charcoal",
+      "finish": "solid",
+      "lab": {
+        "L": 39.9,
+        "a": -1.71,
+        "b": -15.5,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #4B6077 (PaintRef hex, OEM=Acura, code=NH662P-H (models=MDX; years=2005-2006)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:mdx:NH662P-H"
+      }
+    },
+    {
+      "code": "B92P-B",
+      "marketingName": "Nighthawk Black",
+      "finish": "solid",
+      "lab": {
+        "L": 10.24,
+        "a": 2.95,
+        "b": -5.98,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #1C1B24 (PaintRef hex, OEM=Acura, code=B92P-B (models=MDX; years=2005-2006)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:mdx:B92P-B"
+      }
+    },
+    {
+      "code": "B533M-H",
+      "marketingName": "Steel Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 35.33,
+        "a": -5.81,
+        "b": -1.95,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #475656 (PaintRef hex, OEM=Acura, code=B533M-H (models=MDX; years=2005-2007)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:mdx:B533M-H"
+      }
+    },
+    {
+      "code": "B552P-H",
+      "marketingName": "Ball Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 15.03,
+        "a": -1.65,
+        "b": -8.82,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #1B2732 (PaintRef hex, OEM=Acura, code=B552P-H (models=MDX; year=2009)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:mdx:B552P-H"
+      }
+    },
+    {
+      "code": "B552P-B",
+      "marketingName": "Ball Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 15.03,
+        "a": -1.65,
+        "b": -8.82,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #1B2732 (PaintRef hex, OEM=Acura, code=B552P-B (models=MDX, ZDX; years=2010-2013)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:mdx:B552P-B"
+      }
+    },
+    {
+      "code": "B588P-A",
+      "marketingName": "Obsidian Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 23.72,
+        "a": 4.02,
+        "b": -19.8,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #2B3856 (PaintRef hex, OEM=Acura, code=B588P-A (models=MDX, RDX, TL, TLX; years=2013-2017)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:mdx:B588P-A"
+      }
+    },
+    {
+      "code": "B588P",
+      "marketingName": "Obsidian Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 23.72,
+        "a": 4.02,
+        "b": -19.8,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #2B3856 (PaintRef hex, OEM=Acura, code=B588P (models=MDX, RDX, RLX, TLX; years=2018-2019)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:mdx:B588P"
+      }
+    },
+    {
+      "code": "B576P",
+      "marketingName": "Fathom Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 18.24,
+        "a": 9.95,
+        "b": -27.86,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #1D2A55 (PaintRef hex, OEM=Acura, code=B576P (models=MDX, RDX, TLX; years=2020-2022)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:mdx:B576P"
+      }
+    },
+    {
+      "code": "B640M",
+      "marketingName": "Canyon River Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 31.09,
+        "a": 5.57,
+        "b": -21.73,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #3D486B (PaintRef hex, OEM=Acura, code=B640M (models=RDX; year=2025)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:rdx:B640M"
+      }
+    },
+    {
+      "code": "YR530P-H",
+      "marketingName": "Dark Mahogany",
+      "finish": "solid",
+      "lab": {
+        "L": 14.6,
+        "a": 5.87,
+        "b": -0.01,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #2D2225 (PaintRef hex, OEM=Acura, code=YR530P-H (models=MDX; year=2001)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:mdx:YR530P-H"
+      }
+    },
+    {
+      "code": "YR520M-H",
+      "marketingName": "Mesa Beige",
+      "finish": "solid",
+      "lab": {
+        "L": 71.59,
+        "a": -0.33,
+        "b": 7.94,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #B5AFA1 (PaintRef hex, OEM=Acura, code=YR520M-H (models=MDX; years=2001-2002)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:mdx:YR520M-H"
+      }
+    },
+    {
+      "code": "YR530P-H",
+      "marketingName": "Deep Mahogany",
+      "finish": "solid",
+      "lab": {
+        "L": 14.6,
+        "a": 5.87,
+        "b": -0.01,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #2D2225 (PaintRef hex, OEM=Acura, code=YR530P-H (models=MDX; year=2002)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:mdx:YR530P-H"
+      }
+    },
+    {
+      "code": "YR542M-H",
+      "marketingName": "Sandstone",
+      "finish": "solid",
+      "lab": {
+        "L": 55.77,
+        "a": 0.1,
+        "b": 8.49,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #8C8577 (PaintRef hex, OEM=Acura, code=YR542M-H (models=MDX; years=2003-2004)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:mdx:YR542M-H"
+      }
+    },
+    {
+      "code": "YR543M-H",
+      "marketingName": "Burnished Bronze",
+      "finish": "solid",
+      "lab": {
+        "L": 30.15,
+        "a": 3.18,
+        "b": 6.56,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #50453D (PaintRef hex, OEM=Acura, code=YR543M-H (models=MDX; years=2004-2006)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:mdx:YR543M-H"
+      }
+    },
+    {
+      "code": "YR545M-H",
+      "marketingName": "Desert Rock",
+      "finish": "solid",
+      "lab": {
+        "L": 62.67,
+        "a": -0.21,
+        "b": 10.54,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #9F9785 (PaintRef hex, OEM=Acura, code=YR545M-H (models=MDX; years=2005-2007)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:mdx:YR545M-H"
+      }
+    },
+    {
+      "code": "G525M-H",
+      "marketingName": "Aberdeen Green",
+      "finish": "solid",
+      "lab": {
+        "L": 43.26,
+        "a": 2.82,
+        "b": 11.13,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #726454 (PaintRef hex, OEM=Acura, code=G525M-H (models=MDX; year=2007)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:mdx:G525M-H"
+      }
+    },
+    {
+      "code": "YR573M-H",
+      "marketingName": "Mocha",
+      "finish": "solid",
+      "lab": {
+        "L": 66.87,
+        "a": 2.07,
+        "b": 7.16,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #ACA196 (PaintRef hex, OEM=Acura, code=YR573M-H (models=MDX; year=2009)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:mdx:YR573M-H"
+      }
+    },
+    {
+      "code": "YR580M",
+      "marketingName": "Ionized Bronze",
+      "finish": "solid",
+      "lab": {
+        "L": 14.75,
+        "a": 14.96,
+        "b": 14.55,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #3D1C11 (PaintRef hex, OEM=Acura, code=YR580M (models=MDX, ZDX; years=2010-2011)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:mdx:YR580M"
+      }
+    },
+    {
+      "code": "YR573M-B",
+      "marketingName": "Mocha",
+      "finish": "solid",
+      "lab": {
+        "L": 66.87,
+        "a": 2.07,
+        "b": 7.16,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #ACA196 (PaintRef hex, OEM=Acura, code=YR573M-B (models=MDX; year=2010)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:mdx:YR573M-B"
+      }
+    },
+    {
+      "code": "YR573M-A",
+      "marketingName": "Mocha",
+      "finish": "solid",
+      "lab": {
+        "L": 66.87,
+        "a": 2.07,
+        "b": 7.16,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #ACA196 (PaintRef hex, OEM=Acura, code=YR573M-A (models=MDX; year=2011)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:mdx:YR573M-A"
+      }
+    },
+    {
+      "code": "YR580M-H",
+      "marketingName": "Ionized Bronze",
+      "finish": "solid",
+      "lab": {
+        "L": 14.75,
+        "a": 14.96,
+        "b": 14.55,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #3D1C11 (PaintRef hex, OEM=Acura, code=YR580M-H (models=ZDX; year=2012)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:zdx:YR580M-H"
+      }
+    },
+    {
+      "code": "YR651P",
+      "marketingName": "Tiger Eye",
+      "finish": "solid",
+      "lab": {
+        "L": 55.72,
+        "a": 12.42,
+        "b": 41.15,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #AD7C3D (PaintRef hex, OEM=Acura, code=YR651P (models=MDX, TLX; years=2021-2024)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:mdx:YR651P"
+      }
+    },
+    {
+      "code": "NH638M-H",
+      "marketingName": "Starlight Silver",
+      "finish": "solid",
+      "lab": {
+        "L": 87.7,
+        "a": -1.83,
+        "b": -1.19,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #D7DDDE (PaintRef hex, OEM=Acura, code=NH638M-H (models=MDX; years=2001-2004)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:mdx:NH638M-H"
+      }
+    },
+    {
+      "code": "NH689M-H",
+      "marketingName": "Billet Silver",
+      "finish": "solid",
+      "lab": {
+        "L": 86.11,
+        "a": -1.02,
+        "b": -0.36,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #D5D8D8 (PaintRef hex, OEM=Acura, code=NH689M-H (models=MDX; years=2005-2009)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:mdx:NH689M-H"
+      }
+    },
+    {
+      "code": "G521M-H",
+      "marketingName": "Amazon Green",
+      "finish": "solid",
+      "lab": {
+        "L": 45.57,
+        "a": -4.72,
+        "b": 4.66,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #676E64 (PaintRef hex, OEM=Acura, code=G521M-H (models=MDX; year=2006)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:mdx:G521M-H"
+      }
+    },
+    {
+      "code": "NH705M-H",
+      "marketingName": "Nimbus Gray",
+      "finish": "solid",
+      "lab": {
+        "L": 34.74,
+        "a": 4.13,
+        "b": -7.13,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #53505D (PaintRef hex, OEM=Acura, code=NH705M-H (models=MDX; years=2007-2008)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:mdx:NH705M-H"
+      }
+    },
+    {
+      "code": "NH741M-H",
+      "marketingName": "Sterling Gray",
+      "finish": "solid",
+      "lab": {
+        "L": 28.32,
+        "a": 1.7,
+        "b": -0.76,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #454244 (PaintRef hex, OEM=Acura, code=NH741M-H (models=MDX; year=2008)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:mdx:NH741M-H"
+      }
+    },
+    {
+      "code": "NH741M-B",
+      "marketingName": "Sterling Gray",
+      "finish": "solid",
+      "lab": {
+        "L": 28.32,
+        "a": 1.7,
+        "b": -0.76,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #454244 (PaintRef hex, OEM=Acura, code=NH741M-B (models=MDX; year=2009)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:mdx:NH741M-B"
+      }
+    },
+    {
+      "code": "NH736M-A",
+      "marketingName": "Grigio",
+      "finish": "solid",
+      "lab": {
+        "L": 36.27,
+        "a": 0.62,
+        "b": -0.44,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #565556 (PaintRef hex, OEM=Acura, code=NH736M-A (models=MDX, RDX, TL, ZDX; years=2010-2012)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:mdx:NH736M-A"
+      }
+    },
+    {
+      "code": "NH743M-A",
+      "marketingName": "Palladium",
+      "finish": "solid",
+      "lab": {
+        "L": 74.58,
+        "a": 2.68,
+        "b": -1.91,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #BBB6BB (PaintRef hex, OEM=Acura, code=NH743M-A (models=MDX, RDX, TL, ZDX; years=2009-2013)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:mdx:NH743M-A"
+      }
+    },
+    {
+      "code": "NH700M-B",
+      "marketingName": "Alabaster Silver",
+      "finish": "solid",
+      "lab": {
+        "L": 75.54,
+        "a": -0.02,
+        "b": 1.13,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #BBBAB8 (PaintRef hex, OEM=Acura, code=NH700M-B (models=MDX; years=2014-2015)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:mdx:NH700M-B"
+      }
+    },
+    {
+      "code": "G537M-H",
+      "marketingName": "Forest Mist",
+      "finish": "solid",
+      "lab": {
+        "L": 45.21,
+        "a": -10.5,
+        "b": 2.21,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #597067 (PaintRef hex, OEM=Acura, code=G537M-H (models=MDX; years=2014-2015)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:mdx:G537M-H"
+      }
+    },
+    {
+      "code": "G537M-B",
+      "marketingName": "Forest Mist",
+      "finish": "solid",
+      "lab": {
+        "L": 45.21,
+        "a": -10.5,
+        "b": 2.21,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #597067 (PaintRef hex, OEM=Acura, code=G537M-B (models=MDX; year=2016)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:mdx:G537M-B"
+      }
+    },
+    {
+      "code": "PB88M",
+      "marketingName": "Gunmetal",
+      "finish": "solid",
+      "lab": {
+        "L": 31.53,
+        "a": -0.58,
+        "b": -8.29,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #424B57 (PaintRef hex, OEM=Acura, code=PB88M (models=MDX, RDX; years=2019-2021)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:mdx:PB88M"
+      }
+    },
+    {
+      "code": "G87P-H",
+      "marketingName": "Dark Emerald",
+      "finish": "solid",
+      "lab": {
+        "L": 18.71,
+        "a": -8.76,
+        "b": 2.99,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #213129 (PaintRef hex, OEM=Acura, code=G87P-H (models=MDX; year=2001)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:mdx:G87P-H"
+      }
+    },
+    {
+      "code": "PB92P",
+      "marketingName": "Phantom Violet",
+      "finish": "solid",
+      "lab": {
+        "L": 28.95,
+        "a": 26.51,
+        "b": -33.83,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #503779 (PaintRef hex, OEM=Acura, code=PB92P (models=MDX, TLX; years=2021-2022)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:mdx:PB92P"
+      }
+    },
+    {
+      "code": "R519P-H",
+      "marketingName": "Red Rock",
+      "finish": "solid",
+      "lab": {
+        "L": 16.86,
+        "a": 26.7,
+        "b": 11.13,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #4E161B (PaintRef hex, OEM=Acura, code=R519P-H (models=MDX; years=2003-2006)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:mdx:R519P-H"
+      }
+    },
+    {
+      "code": "R529P-H",
+      "marketingName": "Dark Cherry",
+      "finish": "solid",
+      "lab": {
+        "L": 8.4,
+        "a": 28.22,
+        "b": 13.27,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #3B0000 (PaintRef hex, OEM=Acura, code=R529P-H (models=MDX; years=2007-2008)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:mdx:R529P-H"
+      }
+    },
+    {
+      "code": "R529P-B",
+      "marketingName": "Dark Cherry",
+      "finish": "solid",
+      "lab": {
+        "L": 8.4,
+        "a": 28.22,
+        "b": 13.27,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #3B0000 (PaintRef hex, OEM=Acura, code=R529P-B (models=MDX, ZDX; years=2009-2017)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:mdx:R529P-B"
+      }
+    },
+    {
+      "code": "NH578-H",
+      "marketingName": "Taffeta White",
+      "finish": "solid",
+      "lab": {
+        "L": 99.31,
+        "a": 0,
+        "b": 0,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #FDFDFD (PaintRef hex, OEM=Acura, code=NH578-H (models=MDX; years=2003-2007)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:mdx:NH578-H"
+      }
+    },
+    {
+      "code": "NH677P",
+      "marketingName": "Aspen White",
+      "finish": "solid",
+      "lab": {
+        "L": 95.13,
+        "a": -0.87,
+        "b": 6.75,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #F5F1E4 (PaintRef hex, OEM=Acura, code=NH677P (models=MDX; year=2004)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:mdx:NH677P"
+      }
+    },
+    {
+      "code": "NH677P-H",
+      "marketingName": "Aspen White Pearl",
+      "finish": "solid",
+      "lab": {
+        "L": 95.13,
+        "a": -0.87,
+        "b": 6.75,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #F5F1E4 (PaintRef hex, OEM=Acura, code=NH677P-H (models=MDX; year=2005)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:mdx:NH677P-H"
+      }
+    },
+    {
+      "code": "NH677P-H",
+      "marketingName": "Aspen White",
+      "finish": "solid",
+      "lab": {
+        "L": 95.13,
+        "a": -0.87,
+        "b": 6.75,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #F5F1E4 (PaintRef hex, OEM=Acura, code=NH677P-H (models=MDX, ZDX; years=2006-2013)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:mdx:NH677P-H"
+      }
+    },
+    {
+      "code": "NH814P-H",
+      "marketingName": "Aspen White",
+      "finish": "solid",
+      "lab": {
+        "L": 95.13,
+        "a": -0.87,
+        "b": 6.75,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #F5F1E4 (PaintRef hex, OEM=Acura, code=NH814P-H (models=ZDX; year=2012)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:zdx:NH814P-H"
+      }
+    },
+    {
+      "code": "NH603P-H",
+      "marketingName": "White Diamond",
+      "finish": "solid",
+      "lab": {
+        "L": 96.44,
+        "a": -7.95,
+        "b": 6.46,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #EAF9E8 (PaintRef hex, OEM=Acura, code=NH603P-H (models=MDX, RDX; years=2013-2017)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:mdx:NH603P-H"
+      }
+    },
+    {
+      "code": "NH603P-A",
+      "marketingName": "White Diamond",
+      "finish": "solid",
+      "lab": {
+        "L": 96.44,
+        "a": -7.95,
+        "b": 6.46,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #EAF9E8 (PaintRef hex, OEM=Acura, code=NH603P-A (models=MDX, RDX, TL; years=2005-2016)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:mdx:NH603P-A"
+      }
+    },
+    {
+      "code": "NH603P",
+      "marketingName": "White Diamond",
+      "finish": "solid",
+      "lab": {
+        "L": 96.44,
+        "a": -7.95,
+        "b": 6.46,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #EAF9E8 (PaintRef hex, OEM=Acura, code=NH603P (models=MDX, RDX; years=2018-2019)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:mdx:NH603P"
+      }
+    },
+    {
+      "code": "NH547",
+      "marketingName": "Berlina Black",
+      "finish": "solid",
+      "lab": {
+        "L": 0,
+        "a": 0,
+        "b": 0,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #000000 (PaintRef hex, OEM=Acura, code=NH547 (models=NSX; years=1994-2023)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:nsx:NH547"
+      }
+    },
+    {
+      "code": "NH547-T",
+      "marketingName": "Berlina Black",
+      "finish": "solid",
+      "lab": {
+        "L": 0,
+        "a": 0,
+        "b": 0,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #000000 (PaintRef hex, OEM=Acura, code=NH547-T (models=NSX; year=2005)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:nsx:NH547-T"
+      }
+    },
+    {
+      "code": "G70P",
+      "marketingName": "Brookland Green",
+      "finish": "solid",
+      "lab": {
+        "L": 28.38,
+        "a": -1.18,
+        "b": -7.95,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #3A444F (PaintRef hex, OEM=Acura, code=G70P (models=NSX; years=1994-1997)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:nsx:G70P"
+      }
+    },
+    {
+      "code": "BG32P",
+      "marketingName": "Estoril Turquoise",
+      "finish": "solid",
+      "lab": {
+        "L": 31.35,
+        "a": -5.4,
+        "b": -22.72,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #1C4E6D (PaintRef hex, OEM=Acura, code=BG32P (models=NSX; year=1997)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:nsx:BG32P"
+      }
+    },
+    {
+      "code": "B66P",
+      "marketingName": "Montecarlo Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 26.19,
+        "a": 2.42,
+        "b": -16.56,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #323E57 (PaintRef hex, OEM=Acura, code=B66P (models=NSX; years=1997-1999)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:nsx:B66P"
+      }
+    },
+    {
+      "code": "B82",
+      "marketingName": "Paul Ricard Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 33.93,
+        "a": 31.52,
+        "b": -67.85,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #0045BE (PaintRef hex, OEM=Acura, code=B82 (models=NSX; year=1997)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:nsx:B82"
+      }
+    },
+    {
+      "code": "B501P",
+      "marketingName": "Monaco Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 22,
+        "a": 29.06,
+        "b": -51.59,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #1F2983 (PaintRef hex, OEM=Acura, code=B501P (models=NSX; years=2000-2001)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:nsx:B501P"
+      }
+    },
+    {
+      "code": "B510P",
+      "marketingName": "Long Beach Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 22.83,
+        "a": 40.91,
+        "b": -65.14,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #17239B (PaintRef hex, OEM=Acura, code=B510P (models=NSX; years=2002-2004)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:nsx:B510P"
+      }
+    },
+    {
+      "code": "B510P-T",
+      "marketingName": "Long Beach Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 22.83,
+        "a": 40.91,
+        "b": -65.14,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #17239B (PaintRef hex, OEM=Acura, code=B510P-T (models=NSX; year=2005)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:nsx:B510P-T"
+      }
+    },
+    {
+      "code": "B605P",
+      "marketingName": "Nouvelle Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 32.1,
+        "a": 11.91,
+        "b": -46.92,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #054A96 (PaintRef hex, OEM=Acura, code=B605P (models=NSX; years=2017-2023)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:nsx:B605P"
+      }
+    },
+    {
+      "code": "B554P",
+      "marketingName": "Long Beach Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 51.27,
+        "a": 20.72,
+        "b": -69.85,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #0C76F3 (PaintRef hex, OEM=Acura, code=B554P (models=NSX, TLX; years=2021-2023)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:nsx:B554P"
+      }
+    },
+    {
+      "code": "NH604P",
+      "marketingName": "Magnum Gray",
+      "finish": "solid",
+      "lab": {
+        "L": 22.28,
+        "a": 3.68,
+        "b": -7.93,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #353441 (PaintRef hex, OEM=Acura, code=NH604P (models=NSX; year=1997)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:nsx:NH604P"
+      }
+    },
+    {
+      "code": "NH630M",
+      "marketingName": "Silver Stone",
+      "finish": "solid",
+      "lab": {
+        "L": 53.96,
+        "a": 0.92,
+        "b": -7.63,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #7C818E (PaintRef hex, OEM=Acura, code=NH630M (models=NSX; years=2000-2004)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:nsx:NH630M"
+      }
+    },
+    {
+      "code": "NH630M-T",
+      "marketingName": "Silver Stone",
+      "finish": "solid",
+      "lab": {
+        "L": 53.96,
+        "a": 0.92,
+        "b": -7.63,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #7C818E (PaintRef hex, OEM=Acura, code=NH630M-T (models=NSX; year=2005)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:nsx:NH630M-T"
+      }
+    },
+    {
+      "code": "G544M",
+      "marketingName": "Nord Gray",
+      "finish": "solid",
+      "lab": {
+        "L": 39.86,
+        "a": -0.8,
+        "b": 4.87,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #605E56 (PaintRef hex, OEM=Acura, code=G544M (models=NSX; years=2017-2018)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:nsx:G544M"
+      }
+    },
+    {
+      "code": "NH837M-U",
+      "marketingName": "Source Silver",
+      "finish": "solid",
+      "lab": {
+        "L": 78.22,
+        "a": 0.69,
+        "b": 0.25,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #C3C1C1 (PaintRef hex, OEM=Acura, code=NH837M-U (models=NSX; year=2017)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:nsx:NH837M-U"
+      }
+    },
+    {
+      "code": "NH837M",
+      "marketingName": "Source Silver",
+      "finish": "solid",
+      "lab": {
+        "L": 78.22,
+        "a": 0.69,
+        "b": 0.25,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #C3C1C1 (PaintRef hex, OEM=Acura, code=NH837M (models=NSX; years=2018-2021)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:nsx:NH837M"
+      }
+    },
+    {
+      "code": "zgothamgraymatte",
+      "marketingName": "Gotham Gray Matte",
+      "finish": "solid",
+      "lab": {
+        "L": 72.95,
+        "a": 0.45,
+        "b": -3.29,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #B1B3B9 (PaintRef hex, OEM=Acura, code=zgothamgraymatte (models=NSX; years=2022-2023)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:nsx:zgothamgraymatte"
+      }
+    },
+    {
+      "code": "YR514P",
+      "marketingName": "Imora Orange",
+      "finish": "solid",
+      "lab": {
+        "L": 54.2,
+        "a": 51.33,
+        "b": 53.18,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #DE5525 (PaintRef hex, OEM=Acura, code=YR514P (models=NSX; year=1997)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:nsx:YR514P"
+      }
+    },
+    {
+      "code": "YR536P",
+      "marketingName": "New Imora Orange",
+      "finish": "solid",
+      "lab": {
+        "L": 47.81,
+        "a": 41.29,
+        "b": 49.32,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #BD501C (PaintRef hex, OEM=Acura, code=YR536P (models=NSX; years=2002-2004)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:nsx:YR536P"
+      }
+    },
+    {
+      "code": "YR536P-T",
+      "marketingName": "New Imora Orange",
+      "finish": "solid",
+      "lab": {
+        "L": 47.81,
+        "a": 41.29,
+        "b": 49.32,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #BD501C (PaintRef hex, OEM=Acura, code=YR536P-T (models=NSX; year=2005)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:nsx:YR536P-T"
+      }
+    },
+    {
+      "code": "YR647P",
+      "marketingName": "Thermal Orange",
+      "finish": "solid",
+      "lab": {
+        "L": 67.85,
+        "a": 40.86,
+        "b": 74.21,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #FF8402 (PaintRef hex, OEM=Acura, code=YR647P (models=NSX, RDX; years=2019-2023)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:nsx:YR647P"
+      }
+    },
+    {
+      "code": "PB73P",
+      "marketingName": "Midnight Purple",
+      "finish": "solid",
+      "lab": {
+        "L": 14,
+        "a": 7.28,
+        "b": -13.19,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #242136 (PaintRef hex, OEM=Acura, code=PB73P (models=NSX; years=1995-1997)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:nsx:PB73P"
+      }
+    },
+    {
+      "code": "R77",
+      "marketingName": "Formula Red",
+      "finish": "solid",
+      "lab": {
+        "L": 32.71,
+        "a": 56.46,
+        "b": 40.91,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #9F000E (PaintRef hex, OEM=Acura, code=R77 (models=NSX; years=1994-1999)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:nsx:R77"
+      }
+    },
+    {
+      "code": "R501",
+      "marketingName": "Lemans Red",
+      "finish": "solid",
+      "lab": {
+        "L": 34.13,
+        "a": 58.22,
+        "b": 36.93,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #A50019 (PaintRef hex, OEM=Acura, code=R501 (models=NSX; year=1997)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:nsx:R501"
+      }
+    },
+    {
+      "code": "R510",
+      "marketingName": "Formula Red",
+      "finish": "solid",
+      "lab": {
+        "L": 42.64,
+        "a": 68,
+        "b": 47.05,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #CC001A (PaintRef hex, OEM=Acura, code=R510 (models=NSX; years=2000-2002)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:nsx:R510"
+      }
+    },
+    {
+      "code": "R510",
+      "marketingName": "New Formula Red",
+      "finish": "solid",
+      "lab": {
+        "L": 42.64,
+        "a": 68,
+        "b": 47.05,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #CC001A (PaintRef hex, OEM=Acura, code=R510 (models=NSX, RSX; years=2003-2004)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:nsx:R510"
+      }
+    },
+    {
+      "code": "R510-T",
+      "marketingName": "New Formula Red",
+      "finish": "solid",
+      "lab": {
+        "L": 42.64,
+        "a": 68,
+        "b": 47.05,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #CC001A (PaintRef hex, OEM=Acura, code=R510-T (models=NSX; year=2005)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:nsx:R510-T"
+      }
+    },
+    {
+      "code": "R559",
+      "marketingName": "Curva Red",
+      "finish": "solid",
+      "lab": {
+        "L": 38.16,
+        "a": 59.27,
+        "b": 51.25,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #B41302 (PaintRef hex, OEM=Acura, code=R559 (models=NSX, TLX; years=2017-2023)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:nsx:R559"
+      }
+    },
+    {
+      "code": "R556P",
+      "marketingName": "Valencia Red",
+      "finish": "solid",
+      "lab": {
+        "L": 35.74,
+        "a": 53.06,
+        "b": 35.01,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #A41D1F (PaintRef hex, OEM=Acura, code=R556P (models=NSX; years=2017-2023)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:nsx:R556P"
+      }
+    },
+    {
+      "code": "NH565",
+      "marketingName": "Grand Prix White",
+      "finish": "solid",
+      "lab": {
+        "L": 99.31,
+        "a": 0,
+        "b": 0,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #FDFDFD (PaintRef hex, OEM=Acura, code=NH565 (models=NSX; years=1994-2004)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:nsx:NH565"
+      }
+    },
+    {
+      "code": "NH565-T",
+      "marketingName": "Grand Prix White",
+      "finish": "solid",
+      "lab": {
+        "L": 99.31,
+        "a": 0,
+        "b": 0,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #FDFDFD (PaintRef hex, OEM=Acura, code=NH565-T (models=NSX; year=2005)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:nsx:NH565-T"
+      }
+    },
+    {
+      "code": "NH854",
+      "marketingName": "130R White",
+      "finish": "solid",
+      "lab": {
+        "L": 85.12,
+        "a": -2.27,
+        "b": 13.6,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #DBD5BB (PaintRef hex, OEM=Acura, code=NH854 (models=NSX, TLX; years=2017-2023)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:nsx:NH854"
+      }
+    },
+    {
+      "code": "NH839P",
+      "marketingName": "Casino White",
+      "finish": "solid",
+      "lab": {
+        "L": 90.89,
+        "a": -0.54,
+        "b": 2.55,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #E6E5E0 (PaintRef hex, OEM=Acura, code=NH839P (models=NSX; years=2017-2023)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:nsx:NH839P"
+      }
+    },
+    {
+      "code": "Y52P",
+      "marketingName": "Indy Yellow",
+      "finish": "solid",
+      "lab": {
+        "L": 72.03,
+        "a": 5.59,
+        "b": 72.73,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #DAAA12 (PaintRef hex, OEM=Acura, code=Y52P (models=NSX; years=1997-1998)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:nsx:Y52P"
+      }
+    },
+    {
+      "code": "Y52P",
+      "marketingName": "Spa Yellow",
+      "finish": "solid",
+      "lab": {
+        "L": 72.03,
+        "a": 5.59,
+        "b": 72.73,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #DAAA12 (PaintRef hex, OEM=Acura, code=Y52P (models=NSX; years=1999-2003)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:nsx:Y52P"
+      }
+    },
+    {
+      "code": "Y65P",
+      "marketingName": "Solar Yellow",
+      "finish": "solid",
+      "lab": {
+        "L": 70.27,
+        "a": 18.08,
+        "b": 73,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #E79D0C (PaintRef hex, OEM=Acura, code=Y65P (models=NSX; year=2004)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:nsx:Y65P"
+      }
+    },
+    {
+      "code": "Y65P-T",
+      "marketingName": "Rio Yellow",
+      "finish": "solid",
+      "lab": {
+        "L": 70.27,
+        "a": 18.08,
+        "b": 73,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #E79D0C (PaintRef hex, OEM=Acura, code=Y65P-T (models=NSX; year=2005)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:nsx:Y65P-T"
+      }
+    },
+    {
+      "code": "Y84P",
+      "marketingName": "Indy Yellow",
+      "finish": "solid",
+      "lab": {
+        "L": 72.03,
+        "a": 5.59,
+        "b": 72.73,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #DAAA12 (PaintRef hex, OEM=Acura, code=Y84P (models=NSX; years=2020-2023)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:nsx:Y84P"
+      }
+    },
+    {
+      "code": "B536P-A",
+      "marketingName": "Royal Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 15.04,
+        "a": 9.74,
+        "b": -24.16,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #1C2348 (PaintRef hex, OEM=Acura, code=B536P-A (models=RDX, TL; years=2007-2011)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:rdx:B536P-A"
+      }
+    },
+    {
+      "code": "YR562P-A",
+      "marketingName": "Carbon Bronze",
+      "finish": "solid",
+      "lab": {
+        "L": 53.03,
+        "a": 1.89,
+        "b": 8.6,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #887D70 (PaintRef hex, OEM=Acura, code=YR562P-A (models=RDX, TL; years=2006-2008)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:rdx:YR562P-A"
+      }
+    },
+    {
+      "code": "YR600M-E",
+      "marketingName": "Kona Coffee",
+      "finish": "solid",
+      "lab": {
+        "L": 26.14,
+        "a": 3.31,
+        "b": 3.28,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #453C39 (PaintRef hex, OEM=Acura, code=YR600M-E (models=RDX; years=2014-2015)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:rdx:YR600M-E"
+      }
+    },
+    {
+      "code": "YR600M-C",
+      "marketingName": "Kona Coffee",
+      "finish": "solid",
+      "lab": {
+        "L": 26.14,
+        "a": 3.31,
+        "b": 3.28,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #453C39 (PaintRef hex, OEM=Acura, code=YR600M-C (models=RDX; years=2016-2017)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:rdx:YR600M-C"
+      }
+    },
+    {
+      "code": "YR600M",
+      "marketingName": "Kona Coffee",
+      "finish": "solid",
+      "lab": {
+        "L": 26.14,
+        "a": 3.31,
+        "b": 3.28,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #453C39 (PaintRef hex, OEM=Acura, code=YR600M (models=RDX; year=2018)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:rdx:YR600M"
+      }
+    },
+    {
+      "code": "NH700M-A",
+      "marketingName": "Alabaster Silver",
+      "finish": "solid",
+      "lab": {
+        "L": 75.54,
+        "a": -0.02,
+        "b": 1.13,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #BBBAB8 (PaintRef hex, OEM=Acura, code=NH700M-A (models=RDX, TL; years=2007-2014)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:rdx:NH700M-A"
+      }
+    },
+    {
+      "code": "NH658P-A",
+      "marketingName": "Graphite",
+      "finish": "solid",
+      "lab": {
+        "L": 22.1,
+        "a": -1.6,
+        "b": -6.25,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #2D363E (PaintRef hex, OEM=Acura, code=NH658P-A (models=TL; year=2007)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:tl:NH658P-A"
+      }
+    },
+    {
+      "code": "NH737M-A",
+      "marketingName": "Polished Metal",
+      "finish": "solid",
+      "lab": {
+        "L": 40.38,
+        "a": 3.03,
+        "b": -6.67,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #5F5E6A (PaintRef hex, OEM=Acura, code=NH737M-A (models=RDX, RL, TL; years=2008-2012)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:rdx:NH737M-A"
+      }
+    },
+    {
+      "code": "NH736M",
+      "marketingName": "Grigio",
+      "finish": "solid",
+      "lab": {
+        "L": 36.27,
+        "a": 0.62,
+        "b": -0.44,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #565556 (PaintRef hex, OEM=Acura, code=NH736M (models=TSX; year=2009)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:tsx:NH736M"
+      }
+    },
+    {
+      "code": "NH789M-A",
+      "marketingName": "Forged Silver",
+      "finish": "solid",
+      "lab": {
+        "L": 65.63,
+        "a": -0.25,
+        "b": -6.56,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #99A0AB (PaintRef hex, OEM=Acura, code=NH789M-A (models=RDX, TL; years=2012-2013)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:rdx:NH789M-A"
+      }
+    },
+    {
+      "code": "YR578M-G",
+      "marketingName": "Urban Titanium",
+      "finish": "solid",
+      "lab": {
+        "L": 68.16,
+        "a": 3.8,
+        "b": -1.55,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #ACA4A9 (PaintRef hex, OEM=Acura, code=YR578M-G (models=RDX; year=2013)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:rdx:YR578M-G"
+      }
+    },
+    {
+      "code": "NH789M-L",
+      "marketingName": "Forged Silver",
+      "finish": "solid",
+      "lab": {
+        "L": 65.63,
+        "a": -0.25,
+        "b": -6.56,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #99A0AB (PaintRef hex, OEM=Acura, code=NH789M-L (models=RDX; years=2014-2015)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:rdx:NH789M-L"
+      }
+    },
+    {
+      "code": "R528P-A",
+      "marketingName": "Moroccan Red",
+      "finish": "solid",
+      "lab": {
+        "L": 27.4,
+        "a": 47.51,
+        "b": 28.44,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #840C18 (PaintRef hex, OEM=Acura, code=R528P-A (models=RDX, TL; years=2007-2008)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:rdx:R528P-A"
+      }
+    },
+    {
+      "code": "R530P-A",
+      "marketingName": "Basque Red",
+      "finish": "solid",
+      "lab": {
+        "L": 17.25,
+        "a": 39.05,
+        "b": 12.23,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #5C001B (PaintRef hex, OEM=Acura, code=R530P-A (models=RDX, TL; years=2009-2011)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:rdx:R530P-A"
+      }
+    },
+    {
+      "code": "R548P",
+      "marketingName": "Basque Red",
+      "finish": "solid",
+      "lab": {
+        "L": 17.25,
+        "a": 39.05,
+        "b": 12.23,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #5C001B (PaintRef hex, OEM=Acura, code=R548P (models=RDX; year=2018)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:rdx:R548P"
+      }
+    },
+    {
+      "code": "NH629M-C",
+      "marketingName": "Quantum Gray",
+      "finish": "solid",
+      "lab": {
+        "L": 11.22,
+        "a": 4.33,
+        "b": -1.47,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #231C20 (PaintRef hex, OEM=Acura, code=NH629M-C (models=RL; year=2002)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:rl:NH629M-C"
+      }
+    },
+    {
+      "code": "NH731P-C",
+      "marketingName": "Crystal Black",
+      "finish": "solid",
+      "lab": {
+        "L": 0,
+        "a": 0,
+        "b": 0,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #000000 (PaintRef hex, OEM=Acura, code=NH731P-C (models=RL, RLX, TSX; years=2009-2016)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:rl:NH731P-C"
+      }
+    },
+    {
+      "code": "B92P",
+      "marketingName": "New Blackish Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 10.24,
+        "a": 2.95,
+        "b": -5.98,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #1C1B24 (PaintRef hex, OEM=Acura, code=B92P (models=RL; year=1999)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:rl:B92P"
+      }
+    },
+    {
+      "code": "B93P",
+      "marketingName": "New Sapphire",
+      "finish": "solid",
+      "lab": {
+        "L": 18.64,
+        "a": 2.95,
+        "b": -14.32,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #252D42 (PaintRef hex, OEM=Acura, code=B93P (models=RL; year=1999)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:rl:B93P"
+      }
+    },
+    {
+      "code": "B93P",
+      "marketingName": "Monterey Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 18.64,
+        "a": 2.95,
+        "b": -14.32,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #252D42 (PaintRef hex, OEM=Acura, code=B93P (models=RL; year=2000)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:rl:B93P"
+      }
+    },
+    {
+      "code": "B502P",
+      "marketingName": "Indigo Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 14.54,
+        "a": 4.05,
+        "b": -15.92,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #1C243B (PaintRef hex, OEM=Acura, code=B502P (models=RL, TSX; years=2001-2004)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:rl:B502P"
+      }
+    },
+    {
+      "code": "B502P-C",
+      "marketingName": "Indigo Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 14.54,
+        "a": 4.05,
+        "b": -15.92,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #1C243B (PaintRef hex, OEM=Acura, code=B502P-C (models=RL; year=2003)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:rl:B502P-C"
+      }
+    },
+    {
+      "code": "B515M",
+      "marketingName": "Polar Bear Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 64.73,
+        "a": 1.7,
+        "b": -12.99,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #949DB4 (PaintRef hex, OEM=Acura, code=B515M (models=RL; year=2003)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:rl:B515M"
+      }
+    },
+    {
+      "code": "B92P-C",
+      "marketingName": "Nighthawk Black",
+      "finish": "solid",
+      "lab": {
+        "L": 10.24,
+        "a": 2.95,
+        "b": -5.98,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #1C1B24 (PaintRef hex, OEM=Acura, code=B92P-C (models=RL, RSX, TSX; years=2004-2008)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:rl:B92P-C"
+      }
+    },
+    {
+      "code": "B532P-C",
+      "marketingName": "Opulent Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 11.96,
+        "a": 15.19,
+        "b": -27.74,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #1A1A46 (PaintRef hex, OEM=Acura, code=B532P-C (models=RL; years=2005-2010)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:rl:B532P-C"
+      }
+    },
+    {
+      "code": "YR524M",
+      "marketingName": "Golden Opal",
+      "finish": "solid",
+      "lab": {
+        "L": 67.47,
+        "a": 1.63,
+        "b": 4.66,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #ABA39C (PaintRef hex, OEM=Acura, code=YR524M (models=RL; year=1999)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:rl:YR524M"
+      }
+    },
+    {
+      "code": "YR537P",
+      "marketingName": "Champagne Beige",
+      "finish": "solid",
+      "lab": {
+        "L": 74.53,
+        "a": -4.23,
+        "b": 11.06,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #B8B9A3 (PaintRef hex, OEM=Acura, code=YR537P (models=RL; years=2003-2004)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:rl:YR537P"
+      }
+    },
+    {
+      "code": "YR538M-C",
+      "marketingName": "Desert Mist",
+      "finish": "solid",
+      "lab": {
+        "L": 62.17,
+        "a": -0.65,
+        "b": 9.23,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #9C9686 (PaintRef hex, OEM=Acura, code=YR538M-C (models=RL; years=2005-2008)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:rl:YR538M-C"
+      }
+    },
+    {
+      "code": "YR575M-C",
+      "marketingName": "Tuscan Beige",
+      "finish": "solid",
+      "lab": {
+        "L": 66.97,
+        "a": 2.07,
+        "b": 11.22,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #AFA18F (PaintRef hex, OEM=Acura, code=YR575M-C (models=RL; years=2009-2010)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:rl:YR575M-C"
+      }
+    },
+    {
+      "code": "NH611M",
+      "marketingName": "Flint Gray",
+      "finish": "solid",
+      "lab": {
+        "L": 17.58,
+        "a": 3.28,
+        "b": -6.91,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #2B2A35 (PaintRef hex, OEM=Acura, code=NH611M (models=RL; year=1998)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:rl:NH611M"
+      }
+    },
+    {
+      "code": "NH537M",
+      "marketingName": "Pewter Gray",
+      "finish": "solid",
+      "lab": {
+        "L": 28.52,
+        "a": 0.98,
+        "b": -3.76,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #424349 (PaintRef hex, OEM=Acura, code=NH537M (models=RL; year=1999)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:rl:NH537M"
+      }
+    },
+    {
+      "code": "NH595M",
+      "marketingName": "Zinc Silver",
+      "finish": "solid",
+      "lab": {
+        "L": 77.26,
+        "a": -2.91,
+        "b": -7.26,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #B2C1CC (PaintRef hex, OEM=Acura, code=NH595M (models=RL; year=1999)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:rl:NH595M"
+      }
+    },
+    {
+      "code": "NH552M",
+      "marketingName": "Sebring Silver",
+      "finish": "solid",
+      "lab": {
+        "L": 57.16,
+        "a": -2.19,
+        "b": -8.62,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #7D8B98 (PaintRef hex, OEM=Acura, code=NH552M (models=RL; year=2000)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:rl:NH552M"
+      }
+    },
+    {
+      "code": "YR528M",
+      "marketingName": "Shoreline Mist",
+      "finish": "solid",
+      "lab": {
+        "L": 52.94,
+        "a": -5.04,
+        "b": 0.11,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #75817E (PaintRef hex, OEM=Acura, code=YR528M (models=RL; year=2002)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:rl:YR528M"
+      }
+    },
+    {
+      "code": "NH658P",
+      "marketingName": "Graphite",
+      "finish": "solid",
+      "lab": {
+        "L": 22.1,
+        "a": -1.6,
+        "b": -6.25,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #2D363E (PaintRef hex, OEM=Acura, code=NH658P (models=RL, TSX; years=2003-2004)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:rl:NH658P"
+      }
+    },
+    {
+      "code": "NH685M-C",
+      "marketingName": "Celestial Silver",
+      "finish": "solid",
+      "lab": {
+        "L": 40.83,
+        "a": 2.62,
+        "b": -2.28,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #635F64 (PaintRef hex, OEM=Acura, code=NH685M-C (models=RL; years=2005-2006)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:rl:NH685M-C"
+      }
+    },
+    {
+      "code": "NH658P-C",
+      "marketingName": "Graphite",
+      "finish": "solid",
+      "lab": {
+        "L": 22.1,
+        "a": -1.6,
+        "b": -6.25,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #2D363E (PaintRef hex, OEM=Acura, code=NH658P-C (models=RL, TSX; years=2005-2008)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:rl:NH658P-C"
+      }
+    },
+    {
+      "code": "NH686M-C",
+      "marketingName": "Lakeshore Silver",
+      "finish": "solid",
+      "lab": {
+        "L": 40.16,
+        "a": 7.52,
+        "b": -6.92,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #665B6A (PaintRef hex, OEM=Acura, code=NH686M-C (models=RL; years=2005-2008)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:rl:NH686M-C"
+      }
+    },
+    {
+      "code": "B522M",
+      "marketingName": "Meteor Silver",
+      "finish": "solid",
+      "lab": {
+        "L": 49.43,
+        "a": 1.33,
+        "b": -16.37,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #687691 (PaintRef hex, OEM=Acura, code=B522M (models=RL, TSX; years=2004-2006)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:rl:B522M"
+      }
+    },
+    {
+      "code": "NH727M-C",
+      "marketingName": "Platinum Frost",
+      "finish": "solid",
+      "lab": {
+        "L": 73.34,
+        "a": 1.97,
+        "b": -1.02,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #B7B3B6 (PaintRef hex, OEM=Acura, code=NH727M-C (models=RL; years=2007-2012)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:rl:NH727M-C"
+      }
+    },
+    {
+      "code": "NH754M-C",
+      "marketingName": "Forged Silver",
+      "finish": "solid",
+      "lab": {
+        "L": 65.63,
+        "a": -0.25,
+        "b": -6.56,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #99A0AB (PaintRef hex, OEM=Acura, code=NH754M-C (models=RL; years=2011-2012)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:rl:NH754M-C"
+      }
+    },
+    {
+      "code": "NH782M",
+      "marketingName": "Graphite Luster",
+      "finish": "solid",
+      "lab": {
+        "L": 16.35,
+        "a": 3.22,
+        "b": -0.3,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #2D2729 (PaintRef hex, OEM=Acura, code=NH782M (models=TSX; year=2011)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:tsx:NH782M"
+      }
+    },
+    {
+      "code": "NH782M-C",
+      "marketingName": "Graphite Luster",
+      "finish": "solid",
+      "lab": {
+        "L": 16.35,
+        "a": 3.22,
+        "b": -0.3,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #2D2729 (PaintRef hex, OEM=Acura, code=NH782M-C (models=RLX, TSX; years=2012-2017)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:rlx:NH782M-C"
+      }
+    },
+    {
+      "code": "G97P-C",
+      "marketingName": "New Aspen Green",
+      "finish": "solid",
+      "lab": {
+        "L": 21.26,
+        "a": -8.98,
+        "b": -2.86,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #203737 (PaintRef hex, OEM=Acura, code=G97P-C (models=RL; year=1999)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:rl:G97P-C"
+      }
+    },
+    {
+      "code": "G97P",
+      "marketingName": "Vermont Green",
+      "finish": "solid",
+      "lab": {
+        "L": 21.26,
+        "a": -8.98,
+        "b": -2.86,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #203737 (PaintRef hex, OEM=Acura, code=G97P (models=RL; years=2000-2002)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:rl:G97P"
+      }
+    },
+    {
+      "code": "NH750M-C",
+      "marketingName": "Silver Jade",
+      "finish": "solid",
+      "lab": {
+        "L": 39.28,
+        "a": -5.14,
+        "b": 0.84,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #545F5B (PaintRef hex, OEM=Acura, code=NH750M-C (models=RL; years=2009-2010)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:rl:NH750M-C"
+      }
+    },
+    {
+      "code": "R504P",
+      "marketingName": "New Vivid Red",
+      "finish": "solid",
+      "lab": {
+        "L": 27.08,
+        "a": 50.05,
+        "b": 30.7,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #860014 (PaintRef hex, OEM=Acura, code=R504P (models=RL; years=1998-1999)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:rl:R504P"
+      }
+    },
+    {
+      "code": "R507P",
+      "marketingName": "Fire Pepper",
+      "finish": "solid",
+      "lab": {
+        "L": 19.35,
+        "a": 37.63,
+        "b": 16.55,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #610A19 (PaintRef hex, OEM=Acura, code=R507P (models=RL; years=2001-2002)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:rl:R507P"
+      }
+    },
+    {
+      "code": "R522P-C",
+      "marketingName": "Royal Ruby Red Pearl",
+      "finish": "solid",
+      "lab": {
+        "L": 17.27,
+        "a": 29.31,
+        "b": 7.5,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #511421 (PaintRef hex, OEM=Acura, code=R522P-C (models=RL; year=2005)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:rl:R522P-C"
+      }
+    },
+    {
+      "code": "R522P-C",
+      "marketingName": "Royal Ruby Red",
+      "finish": "solid",
+      "lab": {
+        "L": 17.27,
+        "a": 29.31,
+        "b": 7.5,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #511421 (PaintRef hex, OEM=Acura, code=R522P-C (models=RL; year=2006)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:rl:R522P-C"
+      }
+    },
+    {
+      "code": "R522P-C",
+      "marketingName": "Redondo Red",
+      "finish": "solid",
+      "lab": {
+        "L": 17.27,
+        "a": 29.31,
+        "b": 7.5,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #511421 (PaintRef hex, OEM=Acura, code=R522P-C (models=RL; years=2007-2009)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:rl:R522P-C"
+      }
+    },
+    {
+      "code": "R540P-C",
+      "marketingName": "Pomegranate",
+      "finish": "solid",
+      "lab": {
+        "L": 16.24,
+        "a": 34.43,
+        "b": 9.1,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #54081D (PaintRef hex, OEM=Acura, code=R540P-C (models=RL, RLX; years=2011-2017)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:rl:R540P-C"
+      }
+    },
+    {
+      "code": "NH624P",
+      "marketingName": "New White",
+      "finish": "solid",
+      "lab": {
+        "L": 92.7,
+        "a": 0,
+        "b": 0,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #EAEAEA (PaintRef hex, OEM=Acura, code=NH624P (models=RL; year=1999)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:rl:NH624P"
+      }
+    },
+    {
+      "code": "NH624P",
+      "marketingName": "Premium White",
+      "finish": "solid",
+      "lab": {
+        "L": 92.7,
+        "a": 0,
+        "b": 0,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #EAEAEA (PaintRef hex, OEM=Acura, code=NH624P (models=RL, RSX, TL; years=2000-2004)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:rl:NH624P"
+      }
+    },
+    {
+      "code": "NH624P",
+      "marketingName": "Premium White Pearl",
+      "finish": "solid",
+      "lab": {
+        "L": 92.7,
+        "a": 0,
+        "b": 0,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #EAEAEA (PaintRef hex, OEM=Acura, code=NH624P (models=RL; years=2001-2002)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:rl:NH624P"
+      }
+    },
+    {
+      "code": "NH624P-C",
+      "marketingName": "Premium White",
+      "finish": "solid",
+      "lab": {
+        "L": 92.7,
+        "a": 0,
+        "b": 0,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #EAEAEA (PaintRef hex, OEM=Acura, code=NH624P-C (models=RL, RSX; years=2005-2008)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:rl:NH624P-C"
+      }
+    },
+    {
+      "code": "NH717P-C",
+      "marketingName": "Alberta White",
+      "finish": "solid",
+      "lab": {
+        "L": 93.4,
+        "a": -0.19,
+        "b": 1.57,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #EDECE9 (PaintRef hex, OEM=Acura, code=NH717P-C (models=RL; years=2009-2012)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:rl:NH717P-C"
+      }
+    },
+    {
+      "code": "NH700M",
+      "marketingName": "Alabaster Silver",
+      "finish": "solid",
+      "lab": {
+        "L": 75.54,
+        "a": -0.02,
+        "b": 1.13,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #BBBAB8 (PaintRef hex, OEM=Acura, code=NH700M (models=RLX, TSX; years=2014-2015)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:rlx:NH700M"
+      }
+    },
+    {
+      "code": "NH789M-C",
+      "marketingName": "Forged Silver",
+      "finish": "solid",
+      "lab": {
+        "L": 65.63,
+        "a": -0.25,
+        "b": -6.56,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #99A0AB (PaintRef hex, OEM=Acura, code=NH789M-C (models=RLX, TSX; years=2012-2015)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:rlx:NH789M-C"
+      }
+    },
+    {
+      "code": "YR596M-C",
+      "marketingName": "Gilded Pewter",
+      "finish": "solid",
+      "lab": {
+        "L": 44.34,
+        "a": 1.17,
+        "b": 2.95,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #6D6864 (PaintRef hex, OEM=Acura, code=YR596M-C (models=RLX; years=2014-2017)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:rlx:YR596M-C"
+      }
+    },
+    {
+      "code": "YR596M",
+      "marketingName": "Gilded Pewter",
+      "finish": "solid",
+      "lab": {
+        "L": 44.34,
+        "a": 1.17,
+        "b": 2.95,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #6D6864 (PaintRef hex, OEM=Acura, code=YR596M (models=RLX; years=2018-2020)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:rlx:YR596M"
+      }
+    },
+    {
+      "code": "R565M",
+      "marketingName": "Brilliant Red",
+      "finish": "solid",
+      "lab": {
+        "L": 32.2,
+        "a": 55.76,
+        "b": 45.78,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #9D0001 (PaintRef hex, OEM=Acura, code=R565M (models=RLX; years=2018-2020)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:rlx:R565M"
+      }
+    },
+    {
+      "code": "NH788P-C",
+      "marketingName": "White Orchid",
+      "finish": "solid",
+      "lab": {
+        "L": 92.57,
+        "a": 1.01,
+        "b": 0.36,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #ECE9E9 (PaintRef hex, OEM=Acura, code=NH788P-C (models=RLX; years=2014-2017)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:rlx:NH788P-C"
+      }
+    },
+    {
+      "code": "B507P",
+      "marketingName": "Arctic Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 25.15,
+        "a": 15.84,
+        "b": -39.51,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #243778 (PaintRef hex, OEM=Acura, code=B507P (models=RSX, TSX; years=2002-2004)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:rsx:B507P"
+      }
+    },
+    {
+      "code": "B96P",
+      "marketingName": "Eternal Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 13.21,
+        "a": 9.64,
+        "b": -21.53,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #1C1F40 (PaintRef hex, OEM=Acura, code=B96P (models=RSX; years=2002-2004)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:rsx:B96P"
+      }
+    },
+    {
+      "code": "B507P-C",
+      "marketingName": "Arctic Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 25.15,
+        "a": 15.84,
+        "b": -39.51,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #243778 (PaintRef hex, OEM=Acura, code=B507P-C (models=RSX, TSX; years=2003-2008)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:rsx:B507P-C"
+      }
+    },
+    {
+      "code": "B520P-S",
+      "marketingName": "Vivid Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 15.31,
+        "a": 28.44,
+        "b": -49.2,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #091B6E (PaintRef hex, OEM=Acura, code=B520P-S (models=RSX; years=2005-2006)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:rsx:B520P-S"
+      }
+    },
+    {
+      "code": "YR534M",
+      "marketingName": "Desert Silver",
+      "finish": "solid",
+      "lab": {
+        "L": 46.66,
+        "a": -1.85,
+        "b": -6.93,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #65707A (PaintRef hex, OEM=Acura, code=YR534M (models=RSX; years=2002-2004)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:rsx:YR534M"
+      }
+    },
+    {
+      "code": "G523M-S",
+      "marketingName": "Jade Green",
+      "finish": "solid",
+      "lab": {
+        "L": 52.55,
+        "a": -10.29,
+        "b": -5.85,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #638387 (PaintRef hex, OEM=Acura, code=G523M-S (models=RSX; years=2005-2006)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:rsx:G523M-S"
+      }
+    },
+    {
+      "code": "NH675M-S",
+      "marketingName": "Magnesium",
+      "finish": "solid",
+      "lab": {
+        "L": 51.34,
+        "a": -1.75,
+        "b": 3.69,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #7A7B74 (PaintRef hex, OEM=Acura, code=NH675M-S (models=RSX; year=2005)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:rsx:NH675M-S"
+      }
+    },
+    {
+      "code": "NH623M-C",
+      "marketingName": "Satin Silver",
+      "finish": "solid",
+      "lab": {
+        "L": 78.35,
+        "a": -7.09,
+        "b": -2.42,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #B1C6C6 (PaintRef hex, OEM=Acura, code=NH623M-C (models=RSX, TSX; years=2005-2006)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:rsx:NH623M-C"
+      }
+    },
+    {
+      "code": "NH700M-C",
+      "marketingName": "Alabaster Silver",
+      "finish": "solid",
+      "lab": {
+        "L": 75.54,
+        "a": -0.02,
+        "b": 1.13,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #BBBAB8 (PaintRef hex, OEM=Acura, code=NH700M-C (models=TSX; years=2006-2013)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:tsx:NH700M-C"
+      }
+    },
+    {
+      "code": "NH675M-S",
+      "marketingName": "Magnesium Silver",
+      "finish": "solid",
+      "lab": {
+        "L": 51.34,
+        "a": -1.75,
+        "b": 3.69,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #7A7B74 (PaintRef hex, OEM=Acura, code=NH675M-S (models=RSX; year=2006)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:rsx:NH675M-S"
+      }
+    },
+    {
+      "code": "YR552M-S",
+      "marketingName": "Blaze Orange",
+      "finish": "solid",
+      "lab": {
+        "L": 47.75,
+        "a": 38.31,
+        "b": 48.17,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #B9531E (PaintRef hex, OEM=Acura, code=YR552M-S (models=RSX; years=2005-2006)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:rsx:YR552M-S"
+      }
+    },
+    {
+      "code": "R522P",
+      "marketingName": "Redondo Red",
+      "finish": "solid",
+      "lab": {
+        "L": 17.27,
+        "a": 29.31,
+        "b": 7.5,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #511421 (PaintRef hex, OEM=Acura, code=R522P (models=RSX; year=2003)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:rsx:R522P"
+      }
+    },
+    {
+      "code": "R81-S",
+      "marketingName": "Milano Red",
+      "finish": "solid",
+      "lab": {
+        "L": 43.37,
+        "a": 66.82,
+        "b": 46.76,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #CD0F1C (PaintRef hex, OEM=Acura, code=R81-S (models=RSX; years=2005-2006)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:rsx:R81-S"
+      }
+    },
+    {
+      "code": "NH578-C",
+      "marketingName": "Taffeta White",
+      "finish": "solid",
+      "lab": {
+        "L": 99.31,
+        "a": 0,
+        "b": 0,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #FDFDFD (PaintRef hex, OEM=Acura, code=NH578-C (models=RSX; years=2005-2006)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:rsx:NH578-C"
+      }
+    },
+    {
+      "code": "826",
+      "marketingName": "Ebony Black",
+      "finish": "solid",
+      "lab": {
+        "L": 0,
+        "a": 0,
+        "b": 0,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #000000 (PaintRef hex, OEM=Acura, code=826 (models=SLX; years=1996-1997)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:slx:826"
+      }
+    },
+    {
+      "code": "774",
+      "marketingName": "Ebony Black",
+      "finish": "solid",
+      "lab": {
+        "L": 0,
+        "a": 0,
+        "b": 0,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #000000 (PaintRef hex, OEM=Acura, code=774 (models=SLX; year=1999)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:slx:774"
+      }
+    },
+    {
+      "code": "720",
+      "marketingName": "Baltic Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 19.77,
+        "a": 1.89,
+        "b": -15.31,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #243046 (PaintRef hex, OEM=Acura, code=720 (models=SLX; year=1999)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:slx:720"
+      }
+    },
+    {
+      "code": "753",
+      "marketingName": "Light Silver",
+      "finish": "solid",
+      "lab": {
+        "L": 78.07,
+        "a": -0.39,
+        "b": 3.26,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #C3C1BB (PaintRef hex, OEM=Acura, code=753 (models=SLX; years=1996-1999)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:slx:753"
+      }
+    },
+    {
+      "code": "871",
+      "marketingName": "Fir Green",
+      "finish": "solid",
+      "lab": {
+        "L": 38.11,
+        "a": -6.2,
+        "b": -4.68,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #4A5D61 (PaintRef hex, OEM=Acura, code=871 (models=SLX; years=1996-1999)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:slx:871"
+      }
+    },
+    {
+      "code": "752",
+      "marketingName": "Cream White",
+      "finish": "solid",
+      "lab": {
+        "L": 99.59,
+        "a": -2.56,
+        "b": 5.02,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #FDFFF4 (PaintRef hex, OEM=Acura, code=752 (models=SLX; years=1996-1997)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:slx:752"
+      }
+    },
+    {
+      "code": "748",
+      "marketingName": "Cream White",
+      "finish": "solid",
+      "lab": {
+        "L": 99.59,
+        "a": -2.56,
+        "b": 5.02,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #FDFFF4 (PaintRef hex, OEM=Acura, code=748 (models=SLX; year=1999)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:slx:748"
+      }
+    },
+    {
+      "code": "NH592P-A",
+      "marketingName": "Flamenco Black",
+      "finish": "solid",
+      "lab": {
+        "L": 0,
+        "a": 0,
+        "b": 0,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #000000 (PaintRef hex, OEM=Acura, code=NH592P-A (models=TL; year=1999)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:tl:NH592P-A"
+      }
+    },
+    {
+      "code": "B68P",
+      "marketingName": "Pacific Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 20.5,
+        "a": 5.91,
+        "b": -19.54,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #28304E (PaintRef hex, OEM=Acura, code=B68P (models=TL; year=1998)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:tl:B68P"
+      }
+    },
+    {
+      "code": "B93P-A",
+      "marketingName": "Sapphire Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 18.64,
+        "a": 2.95,
+        "b": -14.32,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #252D42 (PaintRef hex, OEM=Acura, code=B93P-A (models=TL; year=1999)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:tl:B93P-A"
+      }
+    },
+    {
+      "code": "B527P-A",
+      "marketingName": "Abyss Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 18.08,
+        "a": 5.54,
+        "b": -19.32,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #222B48 (PaintRef hex, OEM=Acura, code=B527P-A (models=TL; year=2005)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:tl:B527P-A"
+      }
+    },
+    {
+      "code": "B546P-A",
+      "marketingName": "Kinetic Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 21.54,
+        "a": 23.61,
+        "b": -45.37,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #202B78 (PaintRef hex, OEM=Acura, code=B546P-A (models=TL; years=2007-2008)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:tl:B546P-A"
+      }
+    },
+    {
+      "code": "B559P-A",
+      "marketingName": "Borealis Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 47.42,
+        "a": 2.68,
+        "b": -13.5,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #697087 (PaintRef hex, OEM=Acura, code=B559P-A (models=TL; years=2009-2011)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:tl:B559P-A"
+      }
+    },
+    {
+      "code": "YR574M-A",
+      "marketingName": "Bold Beige",
+      "finish": "solid",
+      "lab": {
+        "L": 38.97,
+        "a": 2.45,
+        "b": 7.98,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #655A4F (PaintRef hex, OEM=Acura, code=YR574M-A (models=TL; year=2008)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:tl:YR574M-A"
+      }
+    },
+    {
+      "code": "YR569M-A",
+      "marketingName": "Root Beer",
+      "finish": "solid",
+      "lab": {
+        "L": 13.43,
+        "a": 10.75,
+        "b": 16.85,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #361C08 (PaintRef hex, OEM=Acura, code=YR569M-A (models=TL; years=2009-2012)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:tl:YR569M-A"
+      }
+    },
+    {
+      "code": "NH623M-A",
+      "marketingName": "New Silver",
+      "finish": "solid",
+      "lab": {
+        "L": 78.35,
+        "a": -7.09,
+        "b": -2.42,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #B1C6C6 (PaintRef hex, OEM=Acura, code=NH623M-A (models=TL; year=1999)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:tl:NH623M-A"
+      }
+    },
+    {
+      "code": "NH643M-A",
+      "marketingName": "Anthracite",
+      "finish": "solid",
+      "lab": {
+        "L": 36.26,
+        "a": 1.24,
+        "b": -5.48,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #53555E (PaintRef hex, OEM=Acura, code=NH643M-A (models=TL; years=2002-2005)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:tl:NH643M-A"
+      }
+    },
+    {
+      "code": "G87P-A",
+      "marketingName": "New Dark Green",
+      "finish": "solid",
+      "lab": {
+        "L": 18.71,
+        "a": -8.76,
+        "b": 2.99,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #213129 (PaintRef hex, OEM=Acura, code=G87P-A (models=TL; year=1999)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:tl:G87P-A"
+      }
+    },
+    {
+      "code": "G516P-A",
+      "marketingName": "Deep Green",
+      "finish": "solid",
+      "lab": {
+        "L": 12.23,
+        "a": -1.76,
+        "b": -5.21,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #192127 (PaintRef hex, OEM=Acura, code=G516P-A (models=TL; years=2004-2005)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:tl:G516P-A"
+      }
+    },
+    {
+      "code": "YR508M-A",
+      "marketingName": "Heather Mist",
+      "finish": "solid",
+      "lab": {
+        "L": 82.07,
+        "a": 6.39,
+        "b": -10.64,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #CFC9E0 (PaintRef hex, OEM=Acura, code=YR508M-A (models=TL; year=1999)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:tl:YR508M-A"
+      }
+    },
+    {
+      "code": "R507P-A",
+      "marketingName": "Fire Pepper Red",
+      "finish": "solid",
+      "lab": {
+        "L": 19.35,
+        "a": 37.63,
+        "b": 16.55,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #610A19 (PaintRef hex, OEM=Acura, code=R507P-A (models=TL; years=1999-2004)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:tl:R507P-A"
+      }
+    },
+    {
+      "code": "R522P-A",
+      "marketingName": "Redondo Red",
+      "finish": "solid",
+      "lab": {
+        "L": 17.27,
+        "a": 29.31,
+        "b": 7.5,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #511421 (PaintRef hex, OEM=Acura, code=R522P-A (models=TL; years=2003-2004)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:tl:R522P-A"
+      }
+    },
+    {
+      "code": "R522P-A",
+      "marketingName": "Royal Ruby Red Pearl",
+      "finish": "solid",
+      "lab": {
+        "L": 17.27,
+        "a": 29.31,
+        "b": 7.5,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #511421 (PaintRef hex, OEM=Acura, code=R522P-A (models=TL; year=2005)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:tl:R522P-A"
+      }
+    },
+    {
+      "code": "R522P-A",
+      "marketingName": "Royal Ruby Red",
+      "finish": "solid",
+      "lab": {
+        "L": 17.27,
+        "a": 29.31,
+        "b": 7.5,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #511421 (PaintRef hex, OEM=Acura, code=R522P-A (models=TL; year=2006)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:tl:R522P-A"
+      }
+    },
+    {
+      "code": "NH603P-A",
+      "marketingName": "White Pearl",
+      "finish": "solid",
+      "lab": {
+        "L": 96.44,
+        "a": -7.95,
+        "b": 6.46,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #EAF9E8 (PaintRef hex, OEM=Acura, code=NH603P-A (models=TL; years=2000-2002)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:tl:NH603P-A"
+      }
+    },
+    {
+      "code": "NH603P-A",
+      "marketingName": "White",
+      "finish": "solid",
+      "lab": {
+        "L": 96.44,
+        "a": -7.95,
+        "b": 6.46,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #EAF9E8 (PaintRef hex, OEM=Acura, code=NH603P-A (models=TL; years=2003-2004)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:tl:NH603P-A"
+      }
+    },
+    {
+      "code": "B575P",
+      "marketingName": "Still Night",
+      "finish": "solid",
+      "lab": {
+        "L": 28.5,
+        "a": 15.4,
+        "b": -47.86,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #04408E (PaintRef hex, OEM=Acura, code=B575P (models=TLX; year=2018)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:tlx:B575P"
+      }
+    },
+    {
+      "code": "B575P",
+      "marketingName": "Still Night Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 28.5,
+        "a": 15.4,
+        "b": -47.86,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #04408E (PaintRef hex, OEM=Acura, code=B575P (models=TLX; year=2019)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:tlx:B575P"
+      }
+    },
+    {
+      "code": "YR601P",
+      "marketingName": "Black Bronze",
+      "finish": "solid",
+      "lab": {
+        "L": 13.17,
+        "a": 0.95,
+        "b": 10.01,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #282114 (PaintRef hex, OEM=Acura, code=YR601P (models=TLX; year=2015)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:tlx:YR601P"
+      }
+    },
+    {
+      "code": "YR601P-A",
+      "marketingName": "Black Bronze",
+      "finish": "solid",
+      "lab": {
+        "L": 13.17,
+        "a": 0.95,
+        "b": 10.01,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #282114 (PaintRef hex, OEM=Acura, code=YR601P-A (models=TLX; year=2016)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:tlx:YR601P-A"
+      }
+    },
+    {
+      "code": "YR601P-A",
+      "marketingName": "Black Copper",
+      "finish": "solid",
+      "lab": {
+        "L": 13.17,
+        "a": 0.95,
+        "b": 10.01,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #282114 (PaintRef hex, OEM=Acura, code=YR601P-A (models=TLX; year=2017)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:tlx:YR601P-A"
+      }
+    },
+    {
+      "code": "YR601P",
+      "marketingName": "Black Copper",
+      "finish": "solid",
+      "lab": {
+        "L": 13.17,
+        "a": 0.95,
+        "b": 10.01,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #282114 (PaintRef hex, OEM=Acura, code=YR601P (models=TLX; year=2018)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:tlx:YR601P"
+      }
+    },
+    {
+      "code": "NH829M",
+      "marketingName": "Slate Silver",
+      "finish": "solid",
+      "lab": {
+        "L": 65.87,
+        "a": 0,
+        "b": 0,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #A0A0A0 (PaintRef hex, OEM=Acura, code=NH829M (models=TLX; year=2015)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:tlx:NH829M"
+      }
+    },
+    {
+      "code": "B538M-C",
+      "marketingName": "Blueish Silver",
+      "finish": "solid",
+      "lab": {
+        "L": 52.16,
+        "a": 4.55,
+        "b": -15.03,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #777B96 (PaintRef hex, OEM=Acura, code=B538M-C (models=TSX; year=2006)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:tsx:B538M-C"
+      }
+    },
+    {
+      "code": "B536P-C",
+      "marketingName": "Royal Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 15.04,
+        "a": 9.74,
+        "b": -24.16,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #1C2348 (PaintRef hex, OEM=Acura, code=B536P-C (models=TSX; years=2006-2008)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:tsx:B536P-C"
+      }
+    },
+    {
+      "code": "B538M-C",
+      "marketingName": "Glacier Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 52.16,
+        "a": 4.55,
+        "b": -15.03,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #777B96 (PaintRef hex, OEM=Acura, code=B538M-C (models=TSX; years=2007-2010)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:tsx:B538M-C"
+      }
+    },
+    {
+      "code": "B553P-C",
+      "marketingName": "Vortex Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 9.82,
+        "a": 29.43,
+        "b": -43.67,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #100D58 (PaintRef hex, OEM=Acura, code=B553P-C (models=TSX; years=2009-2014)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:tsx:B553P-C"
+      }
+    },
+    {
+      "code": "NH743M-C",
+      "marketingName": "Palladium",
+      "finish": "solid",
+      "lab": {
+        "L": 74.58,
+        "a": 2.68,
+        "b": -1.91,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #BBB6BB (PaintRef hex, OEM=Acura, code=NH743M-C (models=TSX; years=2009-2010)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:tsx:NH743M-C"
+      }
+    },
+    {
+      "code": "NH737M-C",
+      "marketingName": "Polished Metal",
+      "finish": "solid",
+      "lab": {
+        "L": 40.38,
+        "a": 3.03,
+        "b": -6.67,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #5F5E6A (PaintRef hex, OEM=Acura, code=NH737M-C (models=TSX; years=2009-2010)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:tsx:NH737M-C"
+      }
+    },
+    {
+      "code": "NH789M",
+      "marketingName": "Forged Silver",
+      "finish": "solid",
+      "lab": {
+        "L": 65.63,
+        "a": -0.25,
+        "b": -6.56,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #99A0AB (PaintRef hex, OEM=Acura, code=NH789M (models=TSX; year=2011)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:tsx:NH789M"
+      }
+    },
+    {
+      "code": "G516P-C",
+      "marketingName": "Deep Green",
+      "finish": "solid",
+      "lab": {
+        "L": 12.23,
+        "a": -1.76,
+        "b": -5.21,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #192127 (PaintRef hex, OEM=Acura, code=G516P-C (models=TSX; years=2006-2008)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:tsx:G516P-C"
+      }
+    },
+    {
+      "code": "BG30P",
+      "marketingName": "Arcadia Green",
+      "finish": "solid",
+      "lab": {
+        "L": 31.59,
+        "a": -9.6,
+        "b": -5.12,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #334F52 (PaintRef hex, OEM=Acura, code=BG30P (models=Vigor; year=1994)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:vigor:BG30P"
+      }
+    },
+    {
+      "code": "RP18P",
+      "marketingName": "Regal Plum",
+      "finish": "solid",
+      "lab": {
+        "L": 6.08,
+        "a": 5.16,
+        "b": -3.15,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #191118 (PaintRef hex, OEM=Acura, code=RP18P (models=Vigor; year=1994)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:vigor:RP18P"
+      }
+    },
+    {
+      "code": "GB8",
+      "marketingName": "Cosmic Black",
+      "finish": "solid",
+      "lab": {
+        "L": 4.68,
+        "a": 0,
+        "b": 0,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #101010 (PaintRef hex, OEM=Acura, code=GB8 (models=ZDX; year=2025)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:zdx:GB8"
+      }
+    },
+    {
+      "code": "GTR",
+      "marketingName": "Blue Abyss",
+      "finish": "solid",
+      "lab": {
+        "L": 25.58,
+        "a": 15.1,
+        "b": -43.25,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #14397F (PaintRef hex, OEM=Acura, code=GTR (models=ZDX; years=2024-2025)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:zdx:GTR"
+      }
+    },
+    {
+      "code": "GZZ",
+      "marketingName": "Double Apex Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 39.58,
+        "a": -6.31,
+        "b": -32.57,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #006392 (PaintRef hex, OEM=Acura, code=GZZ (models=ZDX; year=2025)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:zdx:GZZ"
+      }
+    },
+    {
+      "code": "GZT",
+      "marketingName": "Tiger Eye",
+      "finish": "solid",
+      "lab": {
+        "L": 55.72,
+        "a": 12.42,
+        "b": 41.15,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #AD7C3D (PaintRef hex, OEM=Acura, code=GZT (models=ZDX; years=2024-2025)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:zdx:GZT"
+      }
+    },
+    {
+      "code": "GXD",
+      "marketingName": "Mercury Silver",
+      "finish": "solid",
+      "lab": {
+        "L": 64.87,
+        "a": -2.85,
+        "b": -0.99,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #979F9F (PaintRef hex, OEM=Acura, code=GXD (models=ZDX; year=2025)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:zdx:GXD"
+      }
+    },
+    {
+      "code": "GNT",
+      "marketingName": "Scarlet Red",
+      "finish": "solid",
+      "lab": {
+        "L": 32.29,
+        "a": 44.79,
+        "b": 32.48,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #90231B (PaintRef hex, OEM=Acura, code=GNT (models=ZDX; year=2025)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:zdx:GNT"
+      }
+    },
+    {
+      "code": "G1W",
+      "marketingName": "Snowfall",
+      "finish": "solid",
+      "lab": {
+        "L": 82.78,
+        "a": -1.29,
+        "b": -2.69,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #C9CFD3 (PaintRef hex, OEM=Acura, code=G1W (models=ZDX; year=2025)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:zdx:G1W"
+      }
+    }
+  ]
+}

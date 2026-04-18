@@ -1,0 +1,755 @@
+{
+  "$schema": "../../../schemas/exterior-paints-v1.schema.json",
+  "scopeId": "aston-martin-paintref-v1",
+  "version": "1.0.0",
+  "paints": [
+    {
+      "code": "1346",
+      "marketingName": "Blue Sapphire",
+      "finish": "solid",
+      "lab": {
+        "L": 12.49,
+        "a": 9.07,
+        "b": -22.71,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #171E40 (PaintRef hex, OEM=Aston Martin, code=1346 (models=DB9, V8 Vantage; years=2003-2008)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Aston Martin:db9:1346"
+      }
+    },
+    {
+      "code": "1348",
+      "marketingName": "Titanium Silver",
+      "finish": "solid",
+      "lab": {
+        "L": 62.06,
+        "a": -0.4,
+        "b": 2.23,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #979692 (PaintRef hex, OEM=Aston Martin, code=1348 (models=DB9, V8 Vantage; years=2003-2008)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Aston Martin:db9:1348"
+      }
+    },
+    {
+      "code": "1328",
+      "marketingName": "Jet Black",
+      "finish": "solid",
+      "lab": {
+        "L": 0,
+        "a": 0,
+        "b": 0,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #000000 (PaintRef hex, OEM=Aston Martin, code=1328 (models=V8 Vantage; years=2004-2008)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Aston Martin:v8-vantage:1328"
+      }
+    },
+    {
+      "code": "1335",
+      "marketingName": "Celeste Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 75.96,
+        "a": -3.35,
+        "b": -11.44,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #A9BED0 (PaintRef hex, OEM=Aston Martin, code=1335 (models=V8 Vantage; years=2003-2008)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Aston Martin:v8-vantage:1335"
+      }
+    },
+    {
+      "code": "1347",
+      "marketingName": "Marine Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 42.51,
+        "a": -17.63,
+        "b": -8.03,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #336D71 (PaintRef hex, OEM=Aston Martin, code=1347 (models=V8 Vantage; years=2003-2007)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Aston Martin:v8-vantage:1347"
+      }
+    },
+    {
+      "code": "1341",
+      "marketingName": "Midnight Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 15.63,
+        "a": 3.66,
+        "b": -10.65,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #242636 (PaintRef hex, OEM=Aston Martin, code=1341 (models=V8 Vantage; years=2003-2008)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Aston Martin:v8-vantage:1341"
+      }
+    },
+    {
+      "code": "1343",
+      "marketingName": "Slate Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 44.68,
+        "a": 2.75,
+        "b": -22.56,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #576A8F (PaintRef hex, OEM=Aston Martin, code=1343 (models=V8 Vantage; years=2007-2008)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Aston Martin:v8-vantage:1343"
+      }
+    },
+    {
+      "code": "1344",
+      "marketingName": "Meteorite Silver",
+      "finish": "solid",
+      "lab": {
+        "L": 39.43,
+        "a": -0.42,
+        "b": 1.15,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #5D5D5B (PaintRef hex, OEM=Aston Martin, code=1344 (models=V8 Vantage; years=2004-2008)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Aston Martin:v8-vantage:1344"
+      }
+    },
+    {
+      "code": "1340",
+      "marketingName": "Oyster Silver",
+      "finish": "solid",
+      "lab": {
+        "L": 51.31,
+        "a": 0.38,
+        "b": 0.13,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #7B7A7A (PaintRef hex, OEM=Aston Martin, code=1340 (models=V8 Vantage; years=2007-2008)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Aston Martin:v8-vantage:1340"
+      }
+    },
+    {
+      "code": "1338",
+      "marketingName": "California Sage",
+      "finish": "solid",
+      "lab": {
+        "L": 67.93,
+        "a": -5.11,
+        "b": 5.22,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #A0A89C (PaintRef hex, OEM=Aston Martin, code=1338 (models=V8 Vantage; years=2003-2008)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Aston Martin:v8-vantage:1338"
+      }
+    },
+    {
+      "code": "1339",
+      "marketingName": "Almond Green",
+      "finish": "solid",
+      "lab": {
+        "L": 49.9,
+        "a": -24.1,
+        "b": 17.56,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #558158 (PaintRef hex, OEM=Aston Martin, code=1339 (models=V8 Vantage; years=2007-2008)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Aston Martin:v8-vantage:1339"
+      }
+    },
+    {
+      "code": "B",
+      "marketingName": "Jet Black",
+      "finish": "solid",
+      "lab": {
+        "L": 0,
+        "a": 0,
+        "b": 0,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #000000 (PaintRef hex, OEM=Aston Martin, code=B (models=Valiant; year=1960)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Aston Martin:valiant:B"
+      }
+    },
+    {
+      "code": "B",
+      "marketingName": "Black",
+      "finish": "solid",
+      "lab": {
+        "L": 0,
+        "a": 0,
+        "b": 0,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #000000 (PaintRef hex, OEM=Aston Martin, code=B (models=Valiant; years=1961-1965)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Aston Martin:valiant:B"
+      }
+    },
+    {
+      "code": "B",
+      "marketingName": "Silhouette Black",
+      "finish": "solid",
+      "lab": {
+        "L": 0,
+        "a": 0,
+        "b": 0,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #000000 (PaintRef hex, OEM=Aston Martin, code=B (models=Valiant; year=1962)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Aston Martin:valiant:B"
+      }
+    },
+    {
+      "code": "B",
+      "marketingName": "Ebony Black",
+      "finish": "solid",
+      "lab": {
+        "L": 0,
+        "a": 0,
+        "b": 0,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #000000 (PaintRef hex, OEM=Aston Martin, code=B (models=Valiant; year=1963)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Aston Martin:valiant:B"
+      }
+    },
+    {
+      "code": "X9",
+      "marketingName": "Black Velvet",
+      "finish": "solid",
+      "lab": {
+        "L": 0,
+        "a": 0,
+        "b": 0,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #000000 (PaintRef hex, OEM=Aston Martin, code=X9 (models=Valiant; years=1969-1970)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Aston Martin:valiant:X9"
+      }
+    },
+    {
+      "code": "X9",
+      "marketingName": "Formal Black",
+      "finish": "solid",
+      "lab": {
+        "L": 0,
+        "a": 0,
+        "b": 0,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #000000 (PaintRef hex, OEM=Aston Martin, code=X9 (models=Valiant; years=1972-1975)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Aston Martin:valiant:X9"
+      }
+    },
+    {
+      "code": "Black-1973",
+      "marketingName": "Black",
+      "finish": "solid",
+      "lab": {
+        "L": 0,
+        "a": 0,
+        "b": 0,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #000000 (PaintRef hex, OEM=Aston Martin, code=Black-1973 (models=Valiant; year=1973)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Aston Martin:valiant:Black-1973"
+      }
+    },
+    {
+      "code": "D",
+      "marketingName": "Twilight Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 58.68,
+        "a": -9.16,
+        "b": -14.47,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #6A93A6 (PaintRef hex, OEM=Aston Martin, code=D (models=Valiant; year=1960)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Aston Martin:valiant:D"
+      }
+    },
+    {
+      "code": "D",
+      "marketingName": "Mediterranean Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 43.29,
+        "a": -5.42,
+        "b": -14.58,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #4C6A7E (PaintRef hex, OEM=Aston Martin, code=D (models=Valiant; year=1961)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Aston Martin:valiant:D"
+      }
+    },
+    {
+      "code": "C",
+      "marketingName": "Morning Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 71.81,
+        "a": -11.64,
+        "b": -9.64,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #8DB7C1 (PaintRef hex, OEM=Aston Martin, code=C (models=Valiant; year=1961)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Aston Martin:valiant:C"
+      }
+    },
+    {
+      "code": "D",
+      "marketingName": "Luminous Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 41.98,
+        "a": -1.24,
+        "b": -17.77,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #4E6580 (PaintRef hex, OEM=Aston Martin, code=D (models=Valiant; year=1962)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Aston Martin:valiant:D"
+      }
+    },
+    {
+      "code": "C",
+      "marketingName": "Pale Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 79.47,
+        "a": -2.69,
+        "b": -7.72,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #B8C7D3 (PaintRef hex, OEM=Aston Martin, code=C (models=Valiant; year=1962)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Aston Martin:valiant:C"
+      }
+    },
+    {
+      "code": "E",
+      "marketingName": "Dark Metallic Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 22.6,
+        "a": -0.31,
+        "b": -12.91,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #293749 (PaintRef hex, OEM=Aston Martin, code=E (models=Valiant; year=1963)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Aston Martin:valiant:E"
+      }
+    },
+    {
+      "code": "C",
+      "marketingName": "Light Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 80.33,
+        "a": -12.64,
+        "b": -9.28,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #A2CFD8 (PaintRef hex, OEM=Aston Martin, code=C (models=Valiant; years=1963-1965)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Aston Martin:valiant:C"
+      }
+    },
+    {
+      "code": "D",
+      "marketingName": "Medium Metallic Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 63.96,
+        "a": -5.43,
+        "b": -14.27,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #819FB4 (PaintRef hex, OEM=Aston Martin, code=D (models=Valiant; year=1963)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Aston Martin:valiant:D"
+      }
+    },
+    {
+      "code": "E",
+      "marketingName": "Dark Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 18.88,
+        "a": 4.71,
+        "b": -18.04,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #242D48 (PaintRef hex, OEM=Aston Martin, code=E (models=Valiant; years=1964-1965)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Aston Martin:valiant:E"
+      }
+    },
+    {
+      "code": "J",
+      "marketingName": "Light Turquoise",
+      "finish": "solid",
+      "lab": {
+        "L": 86.57,
+        "a": -20.1,
+        "b": -2.66,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #A9E4DD (PaintRef hex, OEM=Aston Martin, code=J (models=Valiant; years=1964-1965)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Aston Martin:valiant:J"
+      }
+    },
+    {
+      "code": "D",
+      "marketingName": "Medium Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 45.75,
+        "a": -2.59,
+        "b": -17.95,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #546F8A (PaintRef hex, OEM=Aston Martin, code=D (models=Valiant; years=1964-1965)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Aston Martin:valiant:D"
+      }
+    },
+    {
+      "code": "K",
+      "marketingName": "Medium Turquoise",
+      "finish": "solid",
+      "lab": {
+        "L": 59.44,
+        "a": -18.37,
+        "b": -9.43,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #5B999F (PaintRef hex, OEM=Aston Martin, code=K (models=Valiant; years=1964-1965)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Aston Martin:valiant:K"
+      }
+    },
+    {
+      "code": "B5",
+      "marketingName": "Blue Fire",
+      "finish": "solid",
+      "lab": {
+        "L": 39.93,
+        "a": 8.06,
+        "b": -43.9,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #285EA6 (PaintRef hex, OEM=Aston Martin, code=B5 (models=Valiant; years=1969-1970)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Aston Martin:valiant:B5"
+      }
+    },
+    {
+      "code": "B3",
+      "marketingName": "Ice Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 51.8,
+        "a": -0.22,
+        "b": -29.14,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #577EAD (PaintRef hex, OEM=Aston Martin, code=B3 (models=Valiant; years=1969-1970)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Aston Martin:valiant:B3"
+      }
+    },
+    {
+      "code": "B7",
+      "marketingName": "Jamaica Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 32.73,
+        "a": 2.93,
+        "b": -19.79,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #3E4D6C (PaintRef hex, OEM=Aston Martin, code=B7 (models=Valiant; years=1969-1970)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Aston Martin:valiant:B7"
+      }
+    },
+    {
+      "code": "Q5",
+      "marketingName": "Seafoam Turquoise",
+      "finish": "solid",
+      "lab": {
+        "L": 52.26,
+        "a": -23,
+        "b": -7.06,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #3D8888 (PaintRef hex, OEM=Aston Martin, code=Q5 (models=Valiant; year=1969)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Aston Martin:valiant:Q5"
+      }
+    },
+    {
+      "code": "C",
+      "marketingName": "Valiant Light Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 75.29,
+        "a": -12.32,
+        "b": -10.94,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #93C1CD (PaintRef hex, OEM=Aston Martin, code=C (models=Valiant; year=1969)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Aston Martin:valiant:C"
+      }
+    },
+    {
+      "code": "P6",
+      "marketingName": "Frosted Teal",
+      "finish": "solid",
+      "lab": {
+        "L": 42.57,
+        "a": -10.04,
+        "b": -9.66,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #466A74 (PaintRef hex, OEM=Aston Martin, code=P6 (models=Valiant; year=1970)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Aston Martin:valiant:P6"
+      }
+    },
+    {
+      "code": "B3",
+      "marketingName": "Basin Street Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 44.09,
+        "a": 5.74,
+        "b": -41.36,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #3669AD (PaintRef hex, OEM=Aston Martin, code=B3 (models=Valiant; years=1972-1973)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Aston Martin:valiant:B3"
+      }
+    },
+    {
+      "code": "B1",
+      "marketingName": "Blue Sky",
+      "finish": "solid",
+      "lab": {
+        "L": 68.88,
+        "a": -2.67,
+        "b": -18.43,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #8FABC9 (PaintRef hex, OEM=Aston Martin, code=B1 (models=Valiant; years=1972-1973)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Aston Martin:valiant:B1"
+      }
+    },
+    {
+      "code": "Q5",
+      "marketingName": "Coral Turquoise",
+      "finish": "solid",
+      "lab": {
+        "L": 42.5,
+        "a": -5.02,
+        "b": -27.31,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #326991 (PaintRef hex, OEM=Aston Martin, code=Q5 (models=Valiant; years=1972-1973)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Aston Martin:valiant:Q5"
+      }
+    },
+    {
+      "code": "B7",
+      "marketingName": "Evening Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 25.49,
+        "a": 1.86,
+        "b": -29.44,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #103E69 (PaintRef hex, OEM=Aston Martin, code=B7 (models=Valiant; year=1972)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Aston Martin:valiant:B7"
+      }
+    },
+    {
+      "code": "B9",
+      "marketingName": "Regal Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 12.35,
+        "a": -0.48,
+        "b": -9.39,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #17212D (PaintRef hex, OEM=Aston Martin, code=B9 (models=Valiant; years=1972-1973)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Aston Martin:valiant:B9"
+      }
+    },
+    {
+      "code": "B5",
+      "marketingName": "True Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 41.2,
+        "a": 2.44,
+        "b": -35.31,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #33639B (PaintRef hex, OEM=Aston Martin, code=B5 (models=Valiant; years=1972-1973)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Aston Martin:valiant:B5"
+      }
+    },
+    {
+      "code": "B5",
+      "marketingName": "Lucerne Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 40.71,
+        "a": 1.32,
+        "b": -31.89,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #376294 (PaintRef hex, OEM=Aston Martin, code=B5 (models=Valiant; year=1975)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Aston Martin:valiant:B5"
+      }
+    },
+    {
+      "code": "B1",
+      "marketingName": "Powder Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 73.05,
+        "a": -10.13,
+        "b": -14.89,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-17",
+        "notes": "Derived from #8DBACE (PaintRef hex, OEM=Aston Martin, code=B1 (models=Valiant; year=1975)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Aston Martin:valiant:B1"
+      }
+    }
+  ]
+}
