@@ -25,6 +25,13 @@ if [ "$PAINTREF_SCAN_MODELS" = "1" ]; then
   SCRAPE_MODEL_FLAG="--scan-models"
 fi
 
+# Merge LiteSpeed static .shtml pages (bypasses flaky CGI 503s). PAINTREF_SHTML_MERGE=0 to reduce traffic.
+PAINTREF_SHTML_MERGE="${PAINTREF_SHTML_MERGE:-1}"
+SHTML_MERGE_FLAG=()
+if [ "$PAINTREF_SHTML_MERGE" = "0" ]; then
+  SHTML_MERGE_FLAG=(--shtml-merge false)
+fi
+
 STATE_FILE="$LOG_DIR/paintref-pipeline.state"
 MAIN_LOG="$LOG_DIR/paintref-pipeline.log"
 SCRAPE_LOG="$LOG_DIR/paintref-scrape.log"
@@ -92,6 +99,7 @@ run_scrape() {
   npx tsx scripts/fetch-paintref-all.ts \
     --scan-years --sample-chips \
     ${SCRAPE_MODEL_FLAG:+"$SCRAPE_MODEL_FLAG"} \
+    "${SHTML_MERGE_FLAG[@]}" \
     --concurrency 1 --delay-ms 2500 \
     --year-from 2000 --year-to 2026 \
     >"$SCRAPE_LOG" 2>&1
@@ -112,6 +120,7 @@ run_scrape_resume() {
   npx tsx scripts/fetch-paintref-all.ts \
     --scan-years --sample-chips \
     ${SCRAPE_MODEL_FLAG:+"$SCRAPE_MODEL_FLAG"} \
+    "${SHTML_MERGE_FLAG[@]}" \
     --concurrency 1 --delay-ms 2500 \
     --year-from 2000 --year-to 2026 \
     >>"$SCRAPE_LOG" 2>&1
@@ -128,6 +137,7 @@ run_model_scan() {
   # scan means many model URLs will already be warm. No --force-refresh.
   npx tsx scripts/fetch-paintref-all.ts \
     --scan-years --scan-models --sample-chips \
+    "${SHTML_MERGE_FLAG[@]}" \
     --concurrency 1 --delay-ms 3500 \
     --year-from 2000 --year-to 2026 \
     >"$log_file" 2>&1
@@ -163,6 +173,7 @@ retry_failed() {
       --oems "$failed" \
       --scan-years --sample-chips \
       ${SCRAPE_MODEL_FLAG:+"$SCRAPE_MODEL_FLAG"} \
+      "${SHTML_MERGE_FLAG[@]}" \
       --concurrency 1 --delay-ms 2500 \
       --year-from 2000 --year-to 2026 \
       --force-refresh \
@@ -305,7 +316,7 @@ case "${1:-all}" in
     echo "  all          — full run (truncates scrape log)" >&2
     echo "  resume-fetch — append-only fetch (year-only skips finished OEMs; with PAINTREF_SCAN_MODELS=1 re-enriches)" >&2
     echo "  post-fetch   — retries, model scan, validate:data, BMW merge, acceptance" >&2
-    echo "Env: PAINTREF_SCAN_MODELS=1 (default) adds --scan-models; needs vPIC scopes. PAINTREF_SCAN_MODELS=0 is year-only + separate model pass." >&2
+    echo "Env: PAINTREF_SCAN_MODELS=1 (default); PAINTREF_SHTML_MERGE=1 (default) merges LiteSpeed .shtml to bypass CGI 503s; set =0 for fewer HTTP requests." >&2
     exit 1
     ;;
 esac

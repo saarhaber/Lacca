@@ -31,6 +31,7 @@ import "./lib/syncConsole.js";
  *   tsx scripts/fetch-paintref-all.ts --dry-run                 # no writes
  *   tsx scripts/fetch-paintref-all.ts --concurrency 2           # OEM-level parallelism (default 2)
  *   tsx scripts/fetch-paintref-all.ts --delay-ms 750            # politeness delay between requests
+ *   tsx scripts/fetch-paintref-all.ts --shtml-merge false       # omit LiteSpeed .shtml merge (default on: bypasses CGI 503s)
  *
  * Cache layout:
  *   data/sources/paintref/raw/<slug>[--<hash>].json  — parsed rows (from paintref.ts)
@@ -104,6 +105,10 @@ const CHIP_CONCURRENCY = Math.max(1, parseInt(args["chip-concurrency"] ?? "4", 1
 // backend is healthy; the pipeline automatically falls back to static-shtml
 // whenever the live fetch throws regardless of this flag.
 const SHTML_ENRICH = args["shtml-enrich"] === "true";
+// `--shtml-merge` (pipeline default: true) also runs the LiteSpeed static
+// crawl whenever vPIC models exist, merging with CGI/Wayback rows. Bypasses
+// the flaky CGI for pages served as `.shtml` (more HTTP volume; set false for dev).
+const SHTML_MERGE = args["shtml-merge"] !== "false";
 const SHTML_DELAY_MS = Math.max(0, parseInt(args["shtml-delay-ms"] ?? "200", 10));
 // Only used for log messaging — mirrors the COLORS list inside paintrefStaticShtml.ts.
 const STATIC_COLORS = 11;
@@ -218,9 +223,11 @@ async function fetchAllEntries(oem: string): Promise<PaintRefEntry[]> {
   // unconditionally when the live CGI fetch failed, and opportunistically
   // when `--shtml-enrich` is passed (off by default, to keep the polite
   // request budget small when live is healthy).
-  const shouldStatic = liveErr || SHTML_ENRICH;
+  const modelsForStatic = loadVpicModels(oem);
+  const shouldStatic =
+    liveErr || SHTML_ENRICH || (SHTML_MERGE && modelsForStatic.length > 0);
   if (shouldStatic) {
-    const models = loadVpicModels(oem);
+    const models = modelsForStatic;
     if (models.length > 0) {
       console.log(`  [paintref] static-shtml: probing ${models.length} models × ${STATIC_COLORS} colors for ${oem}`);
       try {
@@ -553,7 +560,7 @@ async function main() {
     `\nBatch PaintRef fetch for ${OEMS.length} OEM${OEMS.length === 1 ? "" : "s"} ` +
       `(concurrency=${CONCURRENCY}, delay=${DELAY_MS}ms, forceRefresh=${FORCE_REFRESH}, ` +
       `dryRun=${DRY_RUN}, mode=${MODE}, scanYears=${SCAN_YEARS}, scanModels=${SCAN_MODELS}, ` +
-      `sampleChips=${SAMPLE_CHIPS}, chipConcurrency=${CHIP_CONCURRENCY}).`
+      `sampleChips=${SAMPLE_CHIPS}, chipConcurrency=${CHIP_CONCURRENCY}, shtmlMerge=${SHTML_MERGE}).`
   );
 
   const results = await runBatch();

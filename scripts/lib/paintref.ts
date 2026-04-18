@@ -371,13 +371,18 @@ async function fetchAdvancedHtml(
   params: Record<string, string>
 ): Promise<string | null> {
   const qs = new URLSearchParams(params).toString();
+  // Extra `http://` endpoint: sometimes still routed differently from the
+  // overloaded CGI worker behind HTTPS. Single-try on hard 503/508 — retries
+  // rarely help when Apache is in a multi-hour 503 window; we prefer to reach
+  // Wayback + static-shtml sooner.
   const urls = [
     `https://www.paintref.com/cgi-bin/colorcodedisplay.cgi?${qs}`,
-    `https://www.paintref.com/cgi-bin/colorcodedisplaym.cgi?${qs}&mobile=yes`
+    `https://www.paintref.com/cgi-bin/colorcodedisplaym.cgi?${qs}&mobile=yes`,
+    `http://www.paintref.com/cgi-bin/colorcodedisplay.cgi?${qs}`
   ];
 
   let lastErr: string | null = null;
-  for (const url of urls) {
+  urlLoop: for (const url of urls) {
     for (let attempt = 0; attempt < 3; attempt++) {
       console.log(`  [paintref] GET ${url}${attempt > 0 ? ` (retry ${attempt})` : ""}`);
       try {
@@ -387,9 +392,14 @@ async function fetchAdvancedHtml(
             "User-Agent": "Mozilla/5.0 (compatible; lacca-color-pipeline/1.0)"
           }
         });
-        if (res.status === 508 || res.status === 429 || res.status === 503) {
+        // Hard overload: do not burn 3× retries per URL — try next mirror, then Wayback.
+        if (res.status === 503 || res.status === 508) {
           lastErr = `${res.status} ${res.statusText}`;
-          await sleep(1500 * (attempt + 1));
+          continue urlLoop;
+        }
+        if (res.status === 429) {
+          lastErr = `${res.status} ${res.statusText}`;
+          await sleep(2000 * (attempt + 1));
           continue;
         }
         if (!res.ok) {
@@ -397,15 +407,13 @@ async function fetchAdvancedHtml(
           break;
         }
         const html = await res.text();
-        // PaintRef's Apache sometimes returns 200 OK with a 503/508 body when
-        // the backend is momentarily overloaded. Treat those as retryable.
+        // 200 OK with an error document — same as above: fail fast to other URLs / Wayback.
         if (
           html.includes("508 Insufficient Resource") ||
           html.includes("503 Service Unavailable")
         ) {
           lastErr = "503/508 in body";
-          await sleep(2000 * (attempt + 1));
-          continue;
+          continue urlLoop;
         }
         return html;
       } catch (err) {
