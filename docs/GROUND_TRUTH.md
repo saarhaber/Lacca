@@ -54,16 +54,16 @@ Tier cutoffs (perfect &lt; 1, close &lt; 2, explore &lt; 4) are shared across bo
 
 ## Upgrading an OPI SKU from derived to measured
 
-The seed script [`scripts/seed-opi-catalog.ts`](../scripts/seed-opi-catalog.ts) generates `data/opi/catalog-1.1.0.json` with `confidence: "derived"` rows. To replace a row with a real spectrophotometer reading:
+The seed script [`scripts/seed-opi-catalog.ts`](../scripts/seed-opi-catalog.ts) can bootstrap rows; [`scripts/sync-opi-from-opicom.ts`](../scripts/sync-opi-from-opicom.ts) (`npm run sync:opi`) merges the live OPI.com catalog (hex metafields) into a new `data/opi/catalog-x.y.z.json`. Active snapshot is `data/pipeline/catalog-pointer.json`. Rows remain `confidence: "derived"` until measured. To replace a row with a real spectrophotometer reading:
 
 1. Measure the OPI bottle chip under D65 / 2° (sphere geometry SCI preferred).
-2. Edit the corresponding entry in `data/opi/catalog-1.1.0.json` (or a bumped `1.2.0` snapshot):
+2. Edit the corresponding entry in the active catalog JSON (see pointer):
    - Set `source` to `"spectro_reread"` (or the instrument name, e.g. `"spectro_xrite_ci64"`).
    - Set `confidence` to `"measured"`.
    - Replace `L`, `a`, `b` with the measured values; keep full precision.
    - Add `measurement.geometry` (e.g. `"sphere_SCI"`) and `measurement.instrument`.
    - Refresh `recordedAt` and, if the formula may rotate, set `validFrom` / `validTo`.
 3. Run `npm run validate:data` to confirm the Ajv schema still accepts the row.
-4. If you bumped the catalog version, update `data/pipeline/catalog-pointer.json` and the import path in `web/src/main.ts`.
+4. If you bumped the catalog version, update `data/pipeline/catalog-pointer.json` and `src/pipeline/validateData.ts` (`staticChecks` OPI path).
 
 Prefer landing measured rows in batches per shade family (e.g. all greys, all reds) so any cross-chip bias surfaces during QA rather than in production.

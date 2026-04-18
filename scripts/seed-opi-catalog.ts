@@ -8,6 +8,9 @@ import { assertValidOpiCatalog } from "../src/pipeline/validateData.js";
 /**
  * Seed a denser OPI catalog from HEX references.
  *
+ * For production URL + OPI metafield hex coverage, run `npm run sync:opi`
+ * (merges https://www.opi.com sitemap + product pages into a new catalog snapshot).
+ *
  * HEX values come from OPI.com swatches, press kits, and swatch enthusiast
  * references. They are NOT spectro measurements — each SKU is stored with
  * confidence: "derived" and source: "hex_derived" per docs/GROUND_TRUTH.md.

@@ -9,6 +9,7 @@
     "match:demo": "tsx scripts/demo-match.ts",
     "seed:oem": "tsx scripts/seed-oem-paints.ts",
     "seed:opi": "tsx scripts/seed-opi-catalog.ts",
+    "sync:opi": "tsx scripts/sync-opi-from-opicom.ts",
     "check:delta-e": "tsx scripts/check-delta-e.ts",
     "fetch:carapi": "tsx scripts/fetch-carapi-colors.ts",
     "fetch:nhtsa": "tsx scripts/fetch-nhtsa-colors.ts",
