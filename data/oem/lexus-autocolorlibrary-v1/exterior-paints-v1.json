@@ -1,0 +1,58 @@
+{
+  "$schema": "../../../schemas/exterior-paints-v1.schema.json",
+  "scopeId": "lexus-autocolorlibrary-v1",
+  "version": "1.0.0",
+  "paints": [
+    {
+      "code": "2002",
+      "marketingName": "Factory color 2002",
+      "finish": "solid",
+      "lab": {
+        "L": 85.09,
+        "a": -1.06,
+        "b": 1.85,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/1996-Lexus.html). Image data/sources/autocolorlibrary/pages/1996-lexus/1996-Lexus-pg01.jpg; bbox 47,0 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈41; verify chip alignment.",
+        "provenanceId": "acl:lexus:1996:2002:47,0,150x210"
+      }
+    },
+    {
+      "code": "3900",
+      "marketingName": "Factory color 3900",
+      "finish": "solid",
+      "lab": {
+        "L": 64.14,
+        "a": 0.94,
+        "b": -1.44,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/1992-Lexus.html). Image data/sources/autocolorlibrary/pages/1992-lexus/1992-Lexus-pg01.jpg; bbox 179,0 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈62; verify chip alignment.",
+        "provenanceId": "acl:lexus:1992:3900:179,0,150x210"
+      }
+    },
+    {
+      "code": "4997",
+      "marketingName": "Factory color 4997",
+      "finish": "solid",
+      "lab": {
+        "L": 80.19,
+        "a": -0.56,
+        "b": 2.62,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/1995-Lexus.html). Image data/sources/autocolorlibrary/pages/1995-lexus/1995-Lexus-pg01.jpg; bbox 56,0 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈75; verify chip alignment.",
+        "provenanceId": "acl:lexus:1995:4997:56,0,150x210"
+      }
+    }
+  ]
+}

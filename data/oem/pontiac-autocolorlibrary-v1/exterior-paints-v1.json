@@ -1,0 +1,41 @@
+{
+  "$schema": "../../../schemas/exterior-paints-v1.schema.json",
+  "scopeId": "pontiac-autocolorlibrary-v1",
+  "version": "1.0.0",
+  "paints": [
+    {
+      "code": "IML187",
+      "marketingName": "Factory color IML187",
+      "finish": "solid",
+      "lab": {
+        "L": 62.24,
+        "a": 2.7,
+        "b": 13.95,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/1938-Pontiac.html). Image data/sources/autocolorlibrary/pages/1938-pontiac/1938-pontiac-pg01.jpg; bbox 361,0 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈0; verify chip alignment.",
+        "provenanceId": "acl:pontiac:1938:IML187:361,0,150x210"
+      }
+    },
+    {
+      "code": "IMS1808",
+      "marketingName": "Factory color IMS1808",
+      "finish": "solid",
+      "lab": {
+        "L": 64.2,
+        "a": 1.65,
+        "b": 9.99,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/1938-Pontiac.html). Image data/sources/autocolorlibrary/pages/1938-pontiac/1938-pontiac-pg01.jpg; bbox 96,0 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈0; verify chip alignment.",
+        "provenanceId": "acl:pontiac:1938:IMS1808:96,0,150x210"
+      }
+    }
+  ]
+}

@@ -1,0 +1,262 @@
+{
+  "$schema": "../../../schemas/exterior-paints-v1.schema.json",
+  "scopeId": "toyota-autocolorlibrary-v1",
+  "version": "1.0.0",
+  "paints": [
+    {
+      "code": "207",
+      "marketingName": "Factory color 207",
+      "finish": "solid",
+      "lab": {
+        "L": 94.45,
+        "a": 1.15,
+        "b": 4.22,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/1973-Toyota.html). Image data/sources/autocolorlibrary/pages/1973-toyota/1973-toyota-pg06.jpg; bbox 145,436 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈0; verify chip alignment.",
+        "provenanceId": "acl:toyota:1973:207:145,436,150x210"
+      }
+    },
+    {
+      "code": "5641",
+      "marketingName": "Factory color 5641",
+      "finish": "solid",
+      "lab": {
+        "L": 96.29,
+        "a": 0.51,
+        "b": -0.36,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2003-Toyota.html). Image data/sources/autocolorlibrary/pages/2003-toyota/2003-Toyota-pg01.jpg; bbox 112,303 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈84; verify chip alignment.",
+        "provenanceId": "acl:toyota:2003:5641:112,303,150x210"
+      }
+    },
+    {
+      "code": "5758",
+      "marketingName": "Cristal lane ove",
+      "finish": "solid",
+      "lab": {
+        "L": 95.1,
+        "a": 1.53,
+        "b": -1.09,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2003-Toyota.html). Image data/sources/autocolorlibrary/pages/2003-toyota/2003-Toyota-pg01.jpg; bbox 113,569 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈86; verify chip alignment.",
+        "provenanceId": "acl:toyota:2003:5758:113,569,150x210"
+      }
+    },
+    {
+      "code": "5794",
+      "marketingName": "Factory color 5794",
+      "finish": "solid",
+      "lab": {
+        "L": 89.66,
+        "a": 0.5,
+        "b": 0.73,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2003-Toyota.html). Image data/sources/autocolorlibrary/pages/2003-toyota/2003-Toyota-pg01.jpg; bbox 286,0 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈88; verify chip alignment.",
+        "provenanceId": "acl:toyota:2003:5794:286,0,150x210"
+      }
+    },
+    {
+      "code": "5904",
+      "marketingName": "Crista",
+      "finish": "solid",
+      "lab": {
+        "L": 96.12,
+        "a": 1.35,
+        "b": -0.61,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2003-Toyota.html). Image data/sources/autocolorlibrary/pages/2003-toyota/2003-Toyota-pg01.jpg; bbox 113,441 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈82; verify chip alignment.",
+        "provenanceId": "acl:toyota:2003:5904:113,441,150x210"
+      }
+    },
+    {
+      "code": "702",
+      "marketingName": "Sircon Purpto",
+      "finish": "solid",
+      "lab": {
+        "L": 94.78,
+        "a": 0.98,
+        "b": 4.7,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/1973-Toyota.html). Image data/sources/autocolorlibrary/pages/1973-toyota/1973-toyota-pg09.jpg; bbox 149,291 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈0; verify chip alignment.",
+        "provenanceId": "acl:toyota:1973:702:149,291,150x210"
+      }
+    },
+    {
+      "code": "T1255",
+      "marketingName": "Factory color T1255",
+      "finish": "solid",
+      "lab": {
+        "L": 73.94,
+        "a": 0.37,
+        "b": 6.99,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/1969-Toyota.html). Image data/sources/autocolorlibrary/pages/1969-toyota/1969-toyota-pg01.jpg; bbox 36,777 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈0; verify chip alignment.",
+        "provenanceId": "acl:toyota:1969:T1255:36,777,150x210"
+      }
+    },
+    {
+      "code": "T1276",
+      "marketingName": "Factory color T1276",
+      "finish": "solid",
+      "lab": {
+        "L": 70.18,
+        "a": 1.7,
+        "b": 8.12,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/1969-Toyota.html). Image data/sources/autocolorlibrary/pages/1969-toyota/1969-toyota-pg01.jpg; bbox 179,0 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈0; verify chip alignment.",
+        "provenanceId": "acl:toyota:1969:T1276:179,0,150x210"
+      }
+    },
+    {
+      "code": "T1421",
+      "marketingName": "Factory color T1421",
+      "finish": "solid",
+      "lab": {
+        "L": 65.25,
+        "a": -1.49,
+        "b": 3,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/1969-Toyota.html). Image data/sources/autocolorlibrary/pages/1969-toyota/1969-toyota-pg01.jpg; bbox 323,779 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈53; verify chip alignment.",
+        "provenanceId": "acl:toyota:1969:T1421:323,779,150x210"
+      }
+    },
+    {
+      "code": "T1424",
+      "marketingName": "Factory color T1424",
+      "finish": "solid",
+      "lab": {
+        "L": 65.1,
+        "a": 2.63,
+        "b": 6.81,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/1969-Toyota.html). Image data/sources/autocolorlibrary/pages/1969-toyota/1969-toyota-pg01.jpg; bbox 467,0 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈0; verify chip alignment.",
+        "provenanceId": "acl:toyota:1969:T1424:467,0,150x210"
+      }
+    },
+    {
+      "code": "T1502",
+      "marketingName": "SATELLITE PEARL PAN WHITE",
+      "finish": "pearl",
+      "lab": {
+        "L": 65.62,
+        "a": 7.99,
+        "b": 8.81,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/1969-Toyota.html). Image data/sources/autocolorlibrary/pages/1969-toyota/1969-toyota-pg01.jpg; bbox 467,393 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈0; verify chip alignment.",
+        "provenanceId": "acl:toyota:1969:T1502:467,393,150x210"
+      }
+    },
+    {
+      "code": "T1506",
+      "marketingName": "Factory color T1506",
+      "finish": "solid",
+      "lab": {
+        "L": 73.27,
+        "a": 0.44,
+        "b": 9.31,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/1969-Toyota.html). Image data/sources/autocolorlibrary/pages/1969-toyota/1969-toyota-pg01.jpg; bbox 468,470 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈0; verify chip alignment.",
+        "provenanceId": "acl:toyota:1969:T1506:468,470,150x210"
+      }
+    },
+    {
+      "code": "T1540",
+      "marketingName": "MOONSTONE",
+      "finish": "solid",
+      "lab": {
+        "L": 72.69,
+        "a": 2.85,
+        "b": 9.62,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/1969-Toyota.html). Image data/sources/autocolorlibrary/pages/1969-toyota/1969-toyota-pg01.jpg; bbox 611,393 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈0; verify chip alignment.",
+        "provenanceId": "acl:toyota:1969:T1540:611,393,150x210"
+      }
+    },
+    {
+      "code": "T1551",
+      "marketingName": "Factory color T1551",
+      "finish": "solid",
+      "lab": {
+        "L": 72.67,
+        "a": -0.36,
+        "b": 6.76,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/1969-Toyota.html). Image data/sources/autocolorlibrary/pages/1969-toyota/1969-toyota-pg01.jpg; bbox 611,470 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈0; verify chip alignment.",
+        "provenanceId": "acl:toyota:1969:T1551:611,470,150x210"
+      }
+    },
+    {
+      "code": "TEM453",
+      "marketingName": "Factory color TEM453",
+      "finish": "solid",
+      "lab": {
+        "L": 71.01,
+        "a": 0.13,
+        "b": 10.41,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/1969-Toyota.html). Image data/sources/autocolorlibrary/pages/1969-toyota/1969-toyota-pg01.jpg; bbox 477,160 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈0; verify chip alignment.",
+        "provenanceId": "acl:toyota:1969:TEM453:477,160,150x210"
+      }
+    }
+  ]
+}

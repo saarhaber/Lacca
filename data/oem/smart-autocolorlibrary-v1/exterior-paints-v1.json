@@ -1,0 +1,211 @@
+{
+  "$schema": "../../../schemas/exterior-paints-v1.schema.json",
+  "scopeId": "smart-autocolorlibrary-v1",
+  "version": "1.0.0",
+  "paints": [
+    {
+      "code": "C21L",
+      "marketingName": "FOURTWO",
+      "finish": "solid",
+      "lab": {
+        "L": 33.09,
+        "a": 1.91,
+        "b": -2.66,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2008-Smart-Car.html). Image data/sources/autocolorlibrary/pages/2008-smart-car/2008-Smart-pg01.jpg; bbox 693,328 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈90; verify chip alignment.",
+        "provenanceId": "acl:smart:2008:C21L:693,328,150x210"
+      }
+    },
+    {
+      "code": "C36L",
+      "marketingName": "FOURTWO",
+      "finish": "solid",
+      "lab": {
+        "L": 50,
+        "a": 47.57,
+        "b": 20.95,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2008-Smart-Car.html). Image data/sources/autocolorlibrary/pages/2008-smart-car/2008-Smart-pg01.jpg; bbox 1105,326 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈92; verify chip alignment.",
+        "provenanceId": "acl:smart:2008:C36L:1105,326,150x210"
+      }
+    },
+    {
+      "code": "C43L",
+      "marketingName": "FOURTWO",
+      "finish": "solid",
+      "lab": {
+        "L": 92.98,
+        "a": -12.33,
+        "b": 32.89,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2008-Smart-Car.html). Image data/sources/autocolorlibrary/pages/2008-smart-car/2008-Smart-pg01.jpg; bbox 1518,324 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈85; verify chip alignment.",
+        "provenanceId": "acl:smart:2008:C43L:1518,324,150x210"
+      }
+    },
+    {
+      "code": "C46L",
+      "marketingName": "Factory color C46L",
+      "finish": "solid",
+      "lab": {
+        "L": 32.69,
+        "a": -0.19,
+        "b": -0.73,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2014-Smart-Car.html). Image data/sources/autocolorlibrary/pages/2014-smart-car/2014-Smart-pg01.jpg; bbox 35,295 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈91; verify chip alignment.",
+        "provenanceId": "acl:smart:2014:C46L:35,295,150x210"
+      }
+    },
+    {
+      "code": "C47L",
+      "marketingName": "Factory color C47L",
+      "finish": "solid",
+      "lab": {
+        "L": 3.92,
+        "a": -0.14,
+        "b": -0.59,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2014-Smart-Car.html). Image data/sources/autocolorlibrary/pages/2014-smart-car/2014-Smart-pg01.jpg; bbox 137,295 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈85; verify chip alignment.",
+        "provenanceId": "acl:smart:2014:C47L:137,295,150x210"
+      }
+    },
+    {
+      "code": "C48L",
+      "marketingName": "Factory color C48L",
+      "finish": "solid",
+      "lab": {
+        "L": 61.15,
+        "a": -2.27,
+        "b": -2.58,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2014-Smart-Car.html). Image data/sources/autocolorlibrary/pages/2014-smart-car/2014-Smart-pg01.jpg; bbox 448,293 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈87; verify chip alignment.",
+        "provenanceId": "acl:smart:2014:C48L:448,293,150x210"
+      }
+    },
+    {
+      "code": "C49L",
+      "marketingName": "Factory color C49L",
+      "finish": "solid",
+      "lab": {
+        "L": 50.23,
+        "a": -2.18,
+        "b": -5.09,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2014-Smart-Car.html). Image data/sources/autocolorlibrary/pages/2014-smart-car/2014-Smart-pg01.jpg; bbox 550,293 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈86; verify chip alignment.",
+        "provenanceId": "acl:smart:2014:C49L:550,293,150x210"
+      }
+    },
+    {
+      "code": "C50L",
+      "marketingName": "River Silver",
+      "finish": "solid",
+      "lab": {
+        "L": 71.39,
+        "a": 1.65,
+        "b": -2.3,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2015-Smart-Car.html). Image data/sources/autocolorlibrary/pages/2015-smart-car/2015-Smart-pg02.jpg; bbox 1115,331 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈80; verify chip alignment.",
+        "provenanceId": "acl:smart:2015:C50L:1115,331,150x210"
+      }
+    },
+    {
+      "code": "C55L",
+      "marketingName": "FOURTWO",
+      "finish": "solid",
+      "lab": {
+        "L": 35.55,
+        "a": 1.49,
+        "b": -2.77,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2008-Smart-Car.html). Image data/sources/autocolorlibrary/pages/2008-smart-car/2008-Smart-pg01.jpg; bbox 1107,890 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈87; verify chip alignment.",
+        "provenanceId": "acl:smart:2008:C55L:1107,890,150x210"
+      }
+    },
+    {
+      "code": "C70L",
+      "marketingName": "FOURTWO",
+      "finish": "solid",
+      "lab": {
+        "L": 37.53,
+        "a": 0.87,
+        "b": -2.31,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2008-Smart-Car.html). Image data/sources/autocolorlibrary/pages/2008-smart-car/2008-Smart-pg01.jpg; bbox 1519,888 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈91; verify chip alignment.",
+        "provenanceId": "acl:smart:2008:C70L:1519,888,150x210"
+      }
+    },
+    {
+      "code": "C78L",
+      "marketingName": "Pyritgrau 3ct",
+      "finish": "pearl",
+      "lab": {
+        "L": 44.54,
+        "a": 2.35,
+        "b": 0.84,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2015-Smart-Car.html). Image data/sources/autocolorlibrary/pages/2015-smart-car/2015-Smart-pg02.jpg; bbox 1528,329 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈89; verify chip alignment.",
+        "provenanceId": "acl:smart:2015:C78L:1528,329,150x210"
+      }
+    },
+    {
+      "code": "C92L",
+      "marketingName": "Factory color C92L",
+      "finish": "solid",
+      "lab": {
+        "L": 81.03,
+        "a": -0.96,
+        "b": 10.86,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2012-Smart-Car.html). Image data/sources/autocolorlibrary/pages/2012-smart-car/2012-Smart-pg01.jpg; bbox 1930,329 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈78; verify chip alignment.",
+        "provenanceId": "acl:smart:2012:C92L:1930,329,150x210"
+      }
+    }
+  ]
+}

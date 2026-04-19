@@ -42,6 +42,15 @@ export function isPlausibleMarketingName(raw: string): boolean {
   if (/\b(?:will|are|were|was|be)\s*[,;:]?\s*$/.test(t)) return false;
   // Starts with a lowercase article/preposition (not a color name opener)
   if (/^(?:a|an|the|of|on|in|at|by)\s+[A-Z]/i.test(t) && !/^an?\s+\d/.test(t)) return false;
+  // Short nonsense fragments — OCR artifacts without a recognizable color word
+  // e.g. "aie a", "seal i" — short lowercase multi-word garbage
+  if (t.length <= 7 && !/\d/.test(t) && words.length > 1 && singles.length >= words.length - 1) return false;
+  // 1-2 letter all-alpha single token — model/spec fragment, not a color name (e.g. "JS", "BC")
+  if (words.length === 1 && /^[A-Za-z]{1,2}$/.test(t)) return false;
+  // All-lowercase single word ≤ 5 chars — OCR fragment (e.g. "etal" from "Metallic", "cryst")
+  if (words.length === 1 && /^[a-z]{3,5}$/.test(t)) return false;
+  // Starts with punctuation OCR artifact (e.g. "'risa", ".color")
+  if (/^[^A-Za-z0-9]/.test(t)) return false;
 
   return true;
 }

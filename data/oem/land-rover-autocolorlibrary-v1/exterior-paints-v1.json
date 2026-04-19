@@ -1,0 +1,160 @@
+{
+  "$schema": "../../../schemas/exterior-paints-v1.schema.json",
+  "scopeId": "land-rover-autocolorlibrary-v1",
+  "version": "1.0.0",
+  "paints": [
+    {
+      "code": "2130",
+      "marketingName": "Indus Silver Fuji",
+      "finish": "solid",
+      "lab": {
+        "L": 96.81,
+        "a": -0.53,
+        "b": 1.44,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Land-Rover.html). Image data/sources/autocolorlibrary/pages/2019-land-rover/2019_LandRover_01.jpg; bbox 480,173 440×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈93; verify chip alignment.",
+        "provenanceId": "acl:land-rover:2019:2130:480,173,440x210"
+      }
+    },
+    {
+      "code": "2135",
+      "marketingName": "White Firenze",
+      "finish": "solid",
+      "lab": {
+        "L": 70.43,
+        "a": 14.18,
+        "b": 5.96,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Land-Rover.html). Image data/sources/autocolorlibrary/pages/2019-land-rover/2019_LandRover_01.jpg; bbox 890,173 439×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈93; verify chip alignment.",
+        "provenanceId": "acl:land-rover:2019:2135:890,173,439x210"
+      }
+    },
+    {
+      "code": "2144",
+      "marketingName": "Red 3ct Corris Grey",
+      "finish": "pearl",
+      "lab": {
+        "L": 73,
+        "a": 0.17,
+        "b": 0.63,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Land-Rover.html). Image data/sources/autocolorlibrary/pages/2019-land-rover/2019_LandRover_01.jpg; bbox 1299,172 438×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈91; verify chip alignment.",
+        "provenanceId": "acl:land-rover:2019:2144:1299,172,438x210"
+      }
+    },
+    {
+      "code": "921",
+      "marketingName": "Narvik Black",
+      "finish": "solid",
+      "lab": {
+        "L": 13.19,
+        "a": -0.24,
+        "b": 0.67,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Land-Rover.html). Image data/sources/autocolorlibrary/pages/2019-land-rover/2019_LandRover_01.jpg; bbox 0,653 178×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈75; verify chip alignment.",
+        "provenanceId": "acl:land-rover:2019:921:0,653,178x210"
+      }
+    },
+    {
+      "code": "942",
+      "marketingName": "Loire",
+      "finish": "solid",
+      "lab": {
+        "L": 17.87,
+        "a": 2.31,
+        "b": -5.78,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Land-Rover.html). Image data/sources/autocolorlibrary/pages/2019-land-rover/2019_LandRover_01.jpg; bbox 400,652 210×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈90; verify chip alignment.",
+        "provenanceId": "acl:land-rover:2019:942:400,652,210x210"
+      }
+    },
+    {
+      "code": "943",
+      "marketingName": "Scotia Grey",
+      "finish": "solid",
+      "lab": {
+        "L": 43.5,
+        "a": -2.3,
+        "b": -0.8,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Land-Rover.html). Image data/sources/autocolorlibrary/pages/2019-land-rover/2019_LandRover_01.jpg; bbox 810,651 209×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈91; verify chip alignment.",
+        "provenanceId": "acl:land-rover:2019:943:810,651,209x210"
+      }
+    },
+    {
+      "code": "995",
+      "marketingName": "Aruba",
+      "finish": "solid",
+      "lab": {
+        "L": 66.41,
+        "a": -1.3,
+        "b": 2.47,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Land-Rover.html). Image data/sources/autocolorlibrary/pages/2019-land-rover/2019_LandRover_01.jpg; bbox 1219,651 205×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈79; verify chip alignment.",
+        "provenanceId": "acl:land-rover:2019:995:1219,651,205x210"
+      }
+    },
+    {
+      "code": "997",
+      "marketingName": "Kaikoura Stone",
+      "finish": "solid",
+      "lab": {
+        "L": 41.75,
+        "a": 0.25,
+        "b": 5.83,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Land-Rover.html). Image data/sources/autocolorlibrary/pages/2019-land-rover/2019_LandRover_01.jpg; bbox 1627,650 208×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈93; verify chip alignment.",
+        "provenanceId": "acl:land-rover:2019:997:1627,650,208x210"
+      }
+    },
+    {
+      "code": "998",
+      "marketingName": "Estoril Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 19.77,
+        "a": 12.91,
+        "b": -31.38,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Land-Rover.html). Image data/sources/autocolorlibrary/pages/2019-land-rover/2019_LandRover_01.jpg; bbox 0,1132 231×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈93; verify chip alignment.",
+        "provenanceId": "acl:land-rover:2019:998:0,1132,231x210"
+      }
+    }
+  ]
+}

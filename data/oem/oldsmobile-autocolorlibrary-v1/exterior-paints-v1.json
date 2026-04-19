@@ -1,0 +1,24 @@
+{
+  "$schema": "../../../schemas/exterior-paints-v1.schema.json",
+  "scopeId": "oldsmobile-autocolorlibrary-v1",
+  "version": "1.0.0",
+  "paints": [
+    {
+      "code": "1949",
+      "marketingName": "Factory color 1949",
+      "finish": "solid",
+      "lab": {
+        "L": 89.22,
+        "a": -1.5,
+        "b": 14.82,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/1950-Oldsmobile.html). Image data/sources/autocolorlibrary/pages/1950-oldsmobile/1949-Oldsmobile_pg01.jpg; bbox 191,92 346×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈80; verify chip alignment.",
+        "provenanceId": "acl:oldsmobile:1950:1949:191,92,346x210"
+      }
+    }
+  ]
+}

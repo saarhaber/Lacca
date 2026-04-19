@@ -1,0 +1,41 @@
+{
+  "$schema": "../../../schemas/exterior-paints-v1.schema.json",
+  "scopeId": "plymouth-autocolorlibrary-v1",
+  "version": "1.0.0",
+  "paints": [
+    {
+      "code": "BT748",
+      "marketingName": "Factory color BT748",
+      "finish": "solid",
+      "lab": {
+        "L": 87.08,
+        "a": -0.7,
+        "b": 23.34,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/1978-Plymouth.html). Image data/sources/autocolorlibrary/pages/1978-plymouth/1978-Plymouth-pg01.jpg; bbox 35,0 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈0; verify chip alignment.",
+        "provenanceId": "acl:plymouth:1978:BT748:35,0,150x210"
+      }
+    },
+    {
+      "code": "D256",
+      "marketingName": "Factory color D256",
+      "finish": "solid",
+      "lab": {
+        "L": 75.79,
+        "a": 1.19,
+        "b": 16.28,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/1978-Plymouth.html). Image data/sources/autocolorlibrary/pages/1978-plymouth/1978-Plymouth-pg01.jpg; bbox 129,0 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈46; verify chip alignment.",
+        "provenanceId": "acl:plymouth:1978:D256:129,0,150x210"
+      }
+    }
+  ]
+}

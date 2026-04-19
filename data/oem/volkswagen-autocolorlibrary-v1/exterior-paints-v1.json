@@ -1,0 +1,228 @@
+{
+  "$schema": "../../../schemas/exterior-paints-v1.schema.json",
+  "scopeId": "volkswagen-autocolorlibrary-v1",
+  "version": "1.0.0",
+  "paints": [
+    {
+      "code": "200",
+      "marketingName": "Titian Red Satuengelb “Yellows",
+      "finish": "solid",
+      "lab": {
+        "L": 91.6,
+        "a": 0.37,
+        "b": 8.88,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/1973-Volkswagen.html). Image data/sources/autocolorlibrary/pages/1973-volkswagen/1973-volkswagen-pg07.jpg; bbox 168,0 160×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈0; verify chip alignment.",
+        "provenanceId": "acl:volkswagen:1973:200:168,0,160x210"
+      }
+    },
+    {
+      "code": "9094",
+      "marketingName": "Techno Blue Jazz Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 78.8,
+        "a": 1.35,
+        "b": -10.3,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Volkswagen.html). Image data/sources/autocolorlibrary/pages/2019-volkswagen/2019_VolkswagenAudi_03.jpg; bbox 111,1130 536×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈93; verify chip alignment.",
+        "provenanceId": "acl:volkswagen:2019:9094:111,1130,536x210"
+      }
+    },
+    {
+      "code": "9518",
+      "marketingName": "91 Blue Prussian Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 59.38,
+        "a": 2.11,
+        "b": -3.45,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Volkswagen.html). Image data/sources/autocolorlibrary/pages/2019-volkswagen/2019_VolkswagenAudi_02.jpg; bbox 250,2084 539×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈93; verify chip alignment.",
+        "provenanceId": "acl:volkswagen:2019:9518:250,2084,539x210"
+      }
+    },
+    {
+      "code": "9981",
+      "marketingName": "Moss Green Samurai Gray Curry Gold",
+      "finish": "solid",
+      "lab": {
+        "L": 44.98,
+        "a": 1.32,
+        "b": -4.59,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Volkswagen.html). Image data/sources/autocolorlibrary/pages/2019-volkswagen/2019_VolkswagenAudi_02.jpg; bbox 1065,2082 945×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈91; verify chip alignment.",
+        "provenanceId": "acl:volkswagen:2019:9981:1065,2082,945x210"
+      }
+    },
+    {
+      "code": "L041",
+      "marketingName": "Night Black G",
+      "finish": "solid",
+      "lab": {
+        "L": 22.03,
+        "a": -0.67,
+        "b": 0.48,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Volkswagen.html). Image data/sources/autocolorlibrary/pages/2019-volkswagen/2019_VolkswagenAudi_01.jpg; bbox 0,171 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈88; verify chip alignment.",
+        "provenanceId": "acl:volkswagen:2019:L041:0,171,150x210"
+      }
+    },
+    {
+      "code": "L69N",
+      "marketingName": "Factory color L69N",
+      "finish": "solid",
+      "lab": {
+        "L": 70.32,
+        "a": -21.06,
+        "b": -1.52,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Volkswagen.html). Image data/sources/autocolorlibrary/pages/2019-volkswagen/2019_VolkswagenAudi_01.jpg; bbox 811,172 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈85; verify chip alignment.",
+        "provenanceId": "acl:volkswagen:2019:L69N:811,172,150x210"
+      }
+    },
+    {
+      "code": "L94F",
+      "marketingName": "Factory color L94F",
+      "finish": "solid",
+      "lab": {
+        "L": 51.08,
+        "a": -0.98,
+        "b": 2.73,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Volkswagen.html). Image data/sources/autocolorlibrary/pages/2019-volkswagen/2019_VolkswagenAudi_01.jpg; bbox 1218,173 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈89; verify chip alignment.",
+        "provenanceId": "acl:volkswagen:2019:L94F:1218,173,150x210"
+      }
+    },
+    {
+      "code": "LZ50",
+      "marketingName": "Factory color LZ50",
+      "finish": "solid",
+      "lab": {
+        "L": 35.97,
+        "a": 1.49,
+        "b": -2.76,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2010-Volkswagen.html). Image data/sources/autocolorlibrary/pages/2010-volkswagen/2010-Audi-pg04.jpg; bbox 361,1466 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈87; verify chip alignment.",
+        "provenanceId": "acl:volkswagen:2010:LZ50:361,1466,150x210"
+      }
+    },
+    {
+      "code": "LZ70",
+      "marketingName": "Factory color LZ70",
+      "finish": "solid",
+      "lab": {
+        "L": 41.35,
+        "a": 1.24,
+        "b": -2.13,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2010-Volkswagen.html). Image data/sources/autocolorlibrary/pages/2010-volkswagen/2010-Audi-pg04.jpg; bbox 1598,1461 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈73; verify chip alignment.",
+        "provenanceId": "acl:volkswagen:2010:LZ70:1598,1461,150x210"
+      }
+    },
+    {
+      "code": "R611",
+      "marketingName": "Reseda Green",
+      "finish": "solid",
+      "lab": {
+        "L": 55.89,
+        "a": -18.47,
+        "b": 20.3,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Volkswagen.html). Image data/sources/autocolorlibrary/pages/2019-volkswagen/2019_VolkswagenAudi_04.jpg; bbox 137,2565 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈93; verify chip alignment.",
+        "provenanceId": "acl:volkswagen:2019:R611:137,2565,150x210"
+      }
+    },
+    {
+      "code": "R700",
+      "marketingName": "Squirrel Gray",
+      "finish": "solid",
+      "lab": {
+        "L": 58.23,
+        "a": -4.89,
+        "b": -5.88,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Volkswagen.html). Image data/sources/autocolorlibrary/pages/2019-volkswagen/2019_VolkswagenAudi_04.jpg; bbox 550,2564 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈93; verify chip alignment.",
+        "provenanceId": "acl:volkswagen:2019:R700:550,2564,150x210"
+      }
+    },
+    {
+      "code": "R715",
+      "marketingName": "Slate Grey",
+      "finish": "solid",
+      "lab": {
+        "L": 35.13,
+        "a": -2.47,
+        "b": -2.83,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Volkswagen.html). Image data/sources/autocolorlibrary/pages/2019-volkswagen/2019_VolkswagenAudi_04.jpg; bbox 960,2564 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈93; verify chip alignment.",
+        "provenanceId": "acl:volkswagen:2019:R715:960,2564,150x210"
+      }
+    },
+    {
+      "code": "R737",
+      "marketingName": "Dust Gray",
+      "finish": "solid",
+      "lab": {
+        "L": 54.39,
+        "a": -3.76,
+        "b": 1.14,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Volkswagen.html). Image data/sources/autocolorlibrary/pages/2019-volkswagen/2019_VolkswagenAudi_04.jpg; bbox 1370,2563 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈91; verify chip alignment.",
+        "provenanceId": "acl:volkswagen:2019:R737:1370,2563,150x210"
+      }
+    }
+  ]
+}

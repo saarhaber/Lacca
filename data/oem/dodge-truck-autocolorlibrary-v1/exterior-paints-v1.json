@@ -1,0 +1,41 @@
+{
+  "$schema": "../../../schemas/exterior-paints-v1.schema.json",
+  "scopeId": "dodge-truck-autocolorlibrary-v1",
+  "version": "1.0.0",
+  "paints": [
+    {
+      "code": "D906",
+      "marketingName": "Factory color D906",
+      "finish": "solid",
+      "lab": {
+        "L": 72.29,
+        "a": 7,
+        "b": 15.74,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/1978-Dodge-Truck.html). Image data/sources/autocolorlibrary/pages/1978-dodge-truck/1978-Dodgetruck-pg01.jpg; bbox 128,24 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈42; verify chip alignment.",
+        "provenanceId": "acl:dodge-truck:1978:D906:128,24,150x210"
+      }
+    },
+    {
+      "code": "EVZ00",
+      "marketingName": "Factory color EVZ00",
+      "finish": "solid",
+      "lab": {
+        "L": 80.72,
+        "a": 1.14,
+        "b": 9.38,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/1978-Dodge-Truck.html). Image data/sources/autocolorlibrary/pages/1978-dodge-truck/1978-Dodgetruck-pg01.jpg; bbox 36,24 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈0; verify chip alignment.",
+        "provenanceId": "acl:dodge-truck:1978:EVZ00:36,24,150x210"
+      }
+    }
+  ]
+}

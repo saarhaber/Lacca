@@ -1,0 +1,58 @@
+{
+  "$schema": "../../../schemas/exterior-paints-v1.schema.json",
+  "scopeId": "hyundai-autocolorlibrary-v1",
+  "version": "1.0.0",
+  "paints": [
+    {
+      "code": "9000",
+      "marketingName": "Factory color 9000",
+      "finish": "solid",
+      "lab": {
+        "L": 73.22,
+        "a": 5.76,
+        "b": 4.39,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/1986-Hyundai.html). Image data/sources/autocolorlibrary/pages/1986-hyundai/1986-Hyundai-pg03.jpg; bbox 146,209 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈51; verify chip alignment.",
+        "provenanceId": "acl:hyundai:1986:9000:146,209,150x210"
+      }
+    },
+    {
+      "code": "G80",
+      "marketingName": "Factory color G80",
+      "finish": "solid",
+      "lab": {
+        "L": 89.92,
+        "a": 1.34,
+        "b": 3.77,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Hyundai.html). Image data/sources/autocolorlibrary/pages/2019-hyundai/2019_Hyundai_02.jpg; bbox 1327,2811 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈95; verify chip alignment.",
+        "provenanceId": "acl:hyundai:2019:G80:1327,2811,150x210"
+      }
+    },
+    {
+      "code": "G90",
+      "marketingName": "Factory color G90",
+      "finish": "solid",
+      "lab": {
+        "L": 92.6,
+        "a": -0.71,
+        "b": 1.94,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2018-Hyundai.html). Image data/sources/autocolorlibrary/pages/2018-hyundai/2018-Hyundai-pg03.jpg; bbox 1553,3137 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈93; verify chip alignment.",
+        "provenanceId": "acl:hyundai:2018:G90:1553,3137,150x210"
+      }
+    }
+  ]
+}

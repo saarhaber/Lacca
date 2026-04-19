@@ -1,0 +1,126 @@
+{
+  "$schema": "../../../schemas/exterior-paints-v1.schema.json",
+  "scopeId": "subaru-autocolorlibrary-v1",
+  "version": "1.0.0",
+  "paints": [
+    {
+      "code": "B21",
+      "marketingName": "Factory color B21",
+      "finish": "solid",
+      "lab": {
+        "L": 79.45,
+        "a": 3.36,
+        "b": -2.76,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2010-Subaru.html). Image data/sources/autocolorlibrary/pages/2010-subaru/2010-Subaru-pg01.jpg; bbox 597,2703 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈51; verify chip alignment.",
+        "provenanceId": "acl:subaru:2010:B21:597,2703,150x210"
+      }
+    },
+    {
+      "code": "C62",
+      "marketingName": "Factory color C62",
+      "finish": "solid",
+      "lab": {
+        "L": 77.53,
+        "a": 2.85,
+        "b": -2.39,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2010-Subaru.html). Image data/sources/autocolorlibrary/pages/2010-subaru/2010-Subaru-pg01.jpg; bbox 678,2703 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈0; verify chip alignment.",
+        "provenanceId": "acl:subaru:2010:C62:678,2703,150x210"
+      }
+    },
+    {
+      "code": "H10",
+      "marketingName": "Twilight Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 56.54,
+        "a": -0.18,
+        "b": -17.07,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2018-Subaru.html). Image data/sources/autocolorlibrary/pages/2018-subaru/2018-Subaru-pg01.jpg; bbox 1643,322 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈88; verify chip alignment.",
+        "provenanceId": "acl:subaru:2018:H10:1643,322,150x210"
+      }
+    },
+    {
+      "code": "H20",
+      "marketingName": "Venetian Red",
+      "finish": "solid",
+      "lab": {
+        "L": 46.89,
+        "a": 25.92,
+        "b": 6.07,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2018-Subaru.html). Image data/sources/autocolorlibrary/pages/2018-subaru/2018-Subaru-pg01.jpg; bbox 2082,322 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈83; verify chip alignment.",
+        "provenanceId": "acl:subaru:2018:H20:2082,322,150x210"
+      }
+    },
+    {
+      "code": "H30",
+      "marketingName": "Deep Sea Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 33.12,
+        "a": 1.88,
+        "b": -1.33,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2017-Subaru.html). Image data/sources/autocolorlibrary/pages/2017-subaru/2017-Subaru-pg02.jpg; bbox 1527,899 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈80; verify chip alignment.",
+        "provenanceId": "acl:subaru:2017:H30:1527,899,150x210"
+      }
+    },
+    {
+      "code": "H40",
+      "marketingName": "Burnished Bronze",
+      "finish": "solid",
+      "lab": {
+        "L": 65.52,
+        "a": 1.81,
+        "b": 0.64,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2014-Subaru.html). Image data/sources/autocolorlibrary/pages/2014-subaru/2014-Subaru-pg01.jpg; bbox 443,1974 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈72; verify chip alignment.",
+        "provenanceId": "acl:subaru:2014:H40:443,1974,150x210"
+      }
+    },
+    {
+      "code": "H50",
+      "marketingName": "Burnished Bronze Jasmine Green",
+      "finish": "solid",
+      "lab": {
+        "L": 48.65,
+        "a": -0.72,
+        "b": -1.5,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2016-Subaru.html). Image data/sources/autocolorlibrary/pages/2016-subaru/2016-Subaru-pg02.jpg; bbox 1522,886 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈55; verify chip alignment.",
+        "provenanceId": "acl:subaru:2016:H50:1522,886,150x210"
+      }
+    }
+  ]
+}

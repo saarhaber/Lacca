@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../schemas/oem-scope-v1.schema.json",
+  "scopeId": "volvo-autocolorlibrary-v1",
+  "oem": "Volvo",
+  "modelYears": {
+    "from": 2004,
+    "to": 2019
+  },
+  "models": [],
+  "notes": "Volvo exterior paint rows sampled from Auto Color Library chip sheets (autocolorlibrary.com) via acl-labeler. LAB is hex-derived from averaged swatch regions; confidence=\"derived\", source=\"autocolorlibrary_swatch\". Merge with PaintRef or curated scopes via merge-oem-scopes. Verify with spectro before production claims.",
+  "exteriorPaintFile": "./exterior-paints-v1.json"
+}

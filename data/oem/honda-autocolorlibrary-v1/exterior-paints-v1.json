@@ -1,0 +1,3067 @@
+{
+  "$schema": "../../../schemas/exterior-paints-v1.schema.json",
+  "scopeId": "honda-autocolorlibrary-v1",
+  "version": "1.0.0",
+  "paints": [
+    {
+      "code": "5428",
+      "marketingName": "Factory color 5428",
+      "finish": "solid",
+      "lab": {
+        "L": 96.74,
+        "a": 1.02,
+        "b": -0.72,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2003-Honda.html). Image data/sources/autocolorlibrary/pages/2003-honda/2003-Honda-pg01.jpg; bbox 637,312 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈76; verify chip alignment.",
+        "provenanceId": "acl:honda:2003:5428:637,312,150x210"
+      }
+    },
+    {
+      "code": "5574",
+      "marketingName": "Factory color 5574",
+      "finish": "solid",
+      "lab": {
+        "L": 82.92,
+        "a": 0.89,
+        "b": -1.36,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2003-Honda.html). Image data/sources/autocolorlibrary/pages/2003-honda/2003-Honda-pg01.jpg; bbox 638,568 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈55; verify chip alignment.",
+        "provenanceId": "acl:honda:2003:5574:638,568,150x210"
+      }
+    },
+    {
+      "code": "5925",
+      "marketingName": "Factory color 5925",
+      "finish": "solid",
+      "lab": {
+        "L": 68.2,
+        "a": 3.17,
+        "b": -8.22,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2003-Honda.html). Image data/sources/autocolorlibrary/pages/2003-honda/2003-Honda-pg01.jpg; bbox 114,313 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈84; verify chip alignment.",
+        "provenanceId": "acl:honda:2003:5925:114,313,150x210"
+      }
+    },
+    {
+      "code": "5927",
+      "marketingName": "Factory color 5927",
+      "finish": "solid",
+      "lab": {
+        "L": 78.82,
+        "a": 1.74,
+        "b": 0.62,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2002-Honda.html). Image data/sources/autocolorlibrary/pages/2002-honda/2002-Honda-pg03.jpg; bbox 440,335 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈59; verify chip alignment.",
+        "provenanceId": "acl:honda:2002:5927:440,335,150x210"
+      }
+    },
+    {
+      "code": "B507P",
+      "marketingName": "Factory color B507P",
+      "finish": "solid",
+      "lab": {
+        "L": 40.68,
+        "a": 3.73,
+        "b": -14.83,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2008-Honda.html). Image data/sources/autocolorlibrary/pages/2008-honda/2008-Honda-pg01.jpg; bbox 294,308 151×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈92; verify chip alignment.",
+        "provenanceId": "acl:honda:2008:B507P:294,308,151x210"
+      }
+    },
+    {
+      "code": "B520P",
+      "marketingName": "Factory color B520P",
+      "finish": "solid",
+      "lab": {
+        "L": 42.4,
+        "a": 7.67,
+        "b": -25.5,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2008-Honda.html). Image data/sources/autocolorlibrary/pages/2008-honda/2008-Honda-pg01.jpg; bbox 706,307 151×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈92; verify chip alignment.",
+        "provenanceId": "acl:honda:2008:B520P:706,307,151x210"
+      }
+    },
+    {
+      "code": "B529P",
+      "marketingName": "Factory color B529P",
+      "finish": "solid",
+      "lab": {
+        "L": 36.95,
+        "a": 5.43,
+        "b": -13.16,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2008-Honda.html). Image data/sources/autocolorlibrary/pages/2008-honda/2008-Honda-pg01.jpg; bbox 1118,305 152×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈82; verify chip alignment.",
+        "provenanceId": "acl:honda:2008:B529P:1118,305,152x210"
+      }
+    },
+    {
+      "code": "B530M",
+      "marketingName": "Factory color B530M",
+      "finish": "solid",
+      "lab": {
+        "L": 46.18,
+        "a": 2.31,
+        "b": -11.8,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2010-Honda.html). Image data/sources/autocolorlibrary/pages/2010-honda/2010-Honda-pg01.jpg; bbox 297,346 157×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈91; verify chip alignment.",
+        "provenanceId": "acl:honda:2010:B530M:297,346,157x210"
+      }
+    },
+    {
+      "code": "B532P",
+      "marketingName": "Factory color B532P",
+      "finish": "solid",
+      "lab": {
+        "L": 25.1,
+        "a": 1.35,
+        "b": -2.31,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2010-Honda.html). Image data/sources/autocolorlibrary/pages/2010-honda/2010-Honda-pg01.jpg; bbox 709,345 151×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈91; verify chip alignment.",
+        "provenanceId": "acl:honda:2010:B532P:709,345,151x210"
+      }
+    },
+    {
+      "code": "B533M",
+      "marketingName": "Factory color B533M",
+      "finish": "solid",
+      "lab": {
+        "L": 44.18,
+        "a": -0.19,
+        "b": -7.05,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2008-Honda.html). Image data/sources/autocolorlibrary/pages/2008-honda/2008-Honda-pg01.jpg; bbox 294,873 158×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈92; verify chip alignment.",
+        "provenanceId": "acl:honda:2008:B533M:294,873,158x210"
+      }
+    },
+    {
+      "code": "B536P",
+      "marketingName": "Royal Blue Pearl Belize",
+      "finish": "pearl",
+      "lab": {
+        "L": 23.24,
+        "a": 1.19,
+        "b": -3.11,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2012-Honda.html). Image data/sources/autocolorlibrary/pages/2012-honda/2012-Honda-pg01.jpg; bbox 301,342 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈92; verify chip alignment.",
+        "provenanceId": "acl:honda:2012:B536P:301,342,150x210"
+      }
+    },
+    {
+      "code": "B537M",
+      "marketingName": "Atomic Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 35.45,
+        "a": 0.97,
+        "b": -15.56,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2011-Honda.html). Image data/sources/autocolorlibrary/pages/2011-honda/2011-Honda-pg01.jpg; bbox 703,331 158×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈90; verify chip alignment.",
+        "provenanceId": "acl:honda:2011:B537M:703,331,158x210"
+      }
+    },
+    {
+      "code": "B538M",
+      "marketingName": "Glacier Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 55.99,
+        "a": 1.68,
+        "b": -10.35,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2011-Honda.html). Image data/sources/autocolorlibrary/pages/2011-honda/2011-Honda-pg01.jpg; bbox 1116,330 158×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈89; verify chip alignment.",
+        "provenanceId": "acl:honda:2011:B538M:1116,330,158x210"
+      }
+    },
+    {
+      "code": "B545P",
+      "marketingName": "Factory color B545P",
+      "finish": "solid",
+      "lab": {
+        "L": 35.16,
+        "a": 6.78,
+        "b": -23.45,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2009-Honda.html). Image data/sources/autocolorlibrary/pages/2009-honda/2009-Honda-pg01.jpg; bbox 297,917 151×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈91; verify chip alignment.",
+        "provenanceId": "acl:honda:2009:B545P:297,917,151x210"
+      }
+    },
+    {
+      "code": "B546P",
+      "marketingName": "Factory color B546P",
+      "finish": "solid",
+      "lab": {
+        "L": 39.74,
+        "a": 4.72,
+        "b": -12.58,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2008-Honda.html). Image data/sources/autocolorlibrary/pages/2008-honda/2008-Honda-pg01.jpg; bbox 295,1437 151×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈91; verify chip alignment.",
+        "provenanceId": "acl:honda:2008:B546P:295,1437,151x210"
+      }
+    },
+    {
+      "code": "B547P",
+      "marketingName": "Factory color B547P",
+      "finish": "solid",
+      "lab": {
+        "L": 34.52,
+        "a": 0.44,
+        "b": -1.17,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2008-Honda.html). Image data/sources/autocolorlibrary/pages/2008-honda/2008-Honda-pg01.jpg; bbox 707,1436 151×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈60; verify chip alignment.",
+        "provenanceId": "acl:honda:2008:B547P:707,1436,151x210"
+      }
+    },
+    {
+      "code": "B548P",
+      "marketingName": "Factory color B548P",
+      "finish": "solid",
+      "lab": {
+        "L": 32.87,
+        "a": 3.77,
+        "b": -9.37,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2010-Honda.html). Image data/sources/autocolorlibrary/pages/2010-honda/2010-Honda-pg01.jpg; bbox 297,910 151×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈92; verify chip alignment.",
+        "provenanceId": "acl:honda:2010:B548P:297,910,151x210"
+      }
+    },
+    {
+      "code": "B549M",
+      "marketingName": "Factory color B549M",
+      "finish": "solid",
+      "lab": {
+        "L": 67.47,
+        "a": 2.1,
+        "b": -12.15,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2010-Honda.html). Image data/sources/autocolorlibrary/pages/2010-honda/2010-Honda-pg01.jpg; bbox 709,909 158×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈91; verify chip alignment.",
+        "provenanceId": "acl:honda:2010:B549M:709,909,158x210"
+      }
+    },
+    {
+      "code": "B551P",
+      "marketingName": "Belize Blue Pearl",
+      "finish": "pearl",
+      "lab": {
+        "L": 18.27,
+        "a": 7.76,
+        "b": -16.93,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2011-Honda.html). Image data/sources/autocolorlibrary/pages/2011-honda/2011-Honda-pg01.jpg; bbox 1528,329 151×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈91; verify chip alignment.",
+        "provenanceId": "acl:honda:2011:B551P:1528,329,151x210"
+      }
+    },
+    {
+      "code": "B552P",
+      "marketingName": "Bali Blue Pearl",
+      "finish": "pearl",
+      "lab": {
+        "L": 35.25,
+        "a": 1.86,
+        "b": -1.32,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2013-Honda.html). Image data/sources/autocolorlibrary/pages/2013-honda/2013-Honda-pg02.jpg; bbox 298,346 151×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈87; verify chip alignment.",
+        "provenanceId": "acl:honda:2013:B552P:298,346,151x210"
+      }
+    },
+    {
+      "code": "B553P",
+      "marketingName": "Vortex Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 33.66,
+        "a": 3.78,
+        "b": -11.33,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Honda.html). Image data/sources/autocolorlibrary/pages/2019-honda/2019_HondaAcura_01.jpg; bbox 2,174 151×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈91; verify chip alignment.",
+        "provenanceId": "acl:honda:2019:B553P:2,174,151x210"
+      }
+    },
+    {
+      "code": "B554P",
+      "marketingName": "Factory color B554P",
+      "finish": "solid",
+      "lab": {
+        "L": 39.1,
+        "a": 11.95,
+        "b": -45.21,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2009-Honda.html). Image data/sources/autocolorlibrary/pages/2009-honda/2009-Honda-pg01.jpg; bbox 709,1481 151×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈89; verify chip alignment.",
+        "provenanceId": "acl:honda:2009:B554P:709,1481,151x210"
+      }
+    },
+    {
+      "code": "B559P",
+      "marketingName": "Borealis Blue Pearl",
+      "finish": "pearl",
+      "lab": {
+        "L": 53.1,
+        "a": -1.04,
+        "b": -9.57,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2011-Honda.html). Image data/sources/autocolorlibrary/pages/2011-honda/2011-Honda-pg01.jpg; bbox 703,895 151×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈91; verify chip alignment.",
+        "provenanceId": "acl:honda:2011:B559P:703,895,151x210"
+      }
+    },
+    {
+      "code": "B561P",
+      "marketingName": "Dyno Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 32.77,
+        "a": 3.55,
+        "b": -10.81,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2016-Honda.html). Image data/sources/autocolorlibrary/pages/2016-honda/2016-Honda-pg02.jpg; bbox 293,335 151×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈92; verify chip alignment.",
+        "provenanceId": "acl:honda:2016:B561P:293,335,151x210"
+      }
+    },
+    {
+      "code": "B562P",
+      "marketingName": "Factory color B562P",
+      "finish": "solid",
+      "lab": {
+        "L": 83.39,
+        "a": -2.04,
+        "b": -0.71,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2010-Honda.html). Image data/sources/autocolorlibrary/pages/2010-honda/2010-Honda-pg01.jpg; bbox 1122,1473 151×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈91; verify chip alignment.",
+        "provenanceId": "acl:honda:2010:B562P:1122,1473,151x210"
+      }
+    },
+    {
+      "code": "B564M",
+      "marketingName": "Celestial Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 58.79,
+        "a": -2.54,
+        "b": -15.93,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2014-Honda.html). Image data/sources/autocolorlibrary/pages/2014-honda/2014-Honda-pg01.jpg; bbox 891,286 158×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈92; verify chip alignment.",
+        "provenanceId": "acl:honda:2014:B564M:891,286,158x210"
+      }
+    },
+    {
+      "code": "B570M",
+      "marketingName": "Twilight Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 40.19,
+        "a": 3.04,
+        "b": -12.52,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2014-Honda.html). Image data/sources/autocolorlibrary/pages/2014-honda/2014-Honda-pg01.jpg; bbox 1304,286 158×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈90; verify chip alignment.",
+        "provenanceId": "acl:honda:2014:B570M:1304,286,158x210"
+      }
+    },
+    {
+      "code": "B572P",
+      "marketingName": "Mediterranean",
+      "finish": "solid",
+      "lab": {
+        "L": 36.3,
+        "a": 1.2,
+        "b": -16.73,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2014-Honda.html). Image data/sources/autocolorlibrary/pages/2014-honda/2014-Honda-pg01.jpg; bbox 1717,287 151×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈89; verify chip alignment.",
+        "provenanceId": "acl:honda:2014:B572P:1717,287,151x210"
+      }
+    },
+    {
+      "code": "B575P",
+      "marketingName": "Still Night",
+      "finish": "solid",
+      "lab": {
+        "L": 36.24,
+        "a": 7.1,
+        "b": -19.88,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Honda.html). Image data/sources/autocolorlibrary/pages/2019-honda/2019_HondaAcura_01.jpg; bbox 412,175 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈90; verify chip alignment.",
+        "provenanceId": "acl:honda:2019:B575P:412,175,150x210"
+      }
+    },
+    {
+      "code": "B576P",
+      "marketingName": "Fathom Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 28.06,
+        "a": 1.08,
+        "b": -5.12,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2014-Honda.html). Image data/sources/autocolorlibrary/pages/2014-honda/2014-Honda-pg01.jpg; bbox 477,848 151×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈90; verify chip alignment.",
+        "provenanceId": "acl:honda:2014:B576P:477,848,151x210"
+      }
+    },
+    {
+      "code": "B578M",
+      "marketingName": "Blue Sky",
+      "finish": "solid",
+      "lab": {
+        "L": 58.39,
+        "a": 0.3,
+        "b": -10.75,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2017-Honda.html). Image data/sources/autocolorlibrary/pages/2017-honda/2017-Honda-pg02.jpg; bbox 1127,335 158×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈91; verify chip alignment.",
+        "provenanceId": "acl:honda:2017:B578M:1127,335,158x210"
+      }
+    },
+    {
+      "code": "B579P",
+      "marketingName": "Reflection Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 34.57,
+        "a": 8.06,
+        "b": -24.37,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2014-Honda.html). Image data/sources/autocolorlibrary/pages/2014-honda/2014-Honda-pg01.jpg; bbox 890,849 151×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈87; verify chip alignment.",
+        "provenanceId": "acl:honda:2014:B579P:890,849,151x210"
+      }
+    },
+    {
+      "code": "B586P",
+      "marketingName": "Pearl Dyno Blue Pearl II",
+      "finish": "pearl",
+      "lab": {
+        "L": 33.21,
+        "a": 2.38,
+        "b": -15.24,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2012-Honda.html). Image data/sources/autocolorlibrary/pages/2012-honda/2012-Honda-pg01.jpg; bbox 1537,905 151×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈91; verify chip alignment.",
+        "provenanceId": "acl:honda:2012:B586P:1537,905,151x210"
+      }
+    },
+    {
+      "code": "B588P",
+      "marketingName": "Obsidian Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 37.51,
+        "a": 3.53,
+        "b": -20.41,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2018-Honda.html). Image data/sources/autocolorlibrary/pages/2018-honda/2018-Honda-pg01.jpg; bbox 1231,331 156×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈91; verify chip alignment.",
+        "provenanceId": "acl:honda:2018:B588P:1231,331,156x210"
+      }
+    },
+    {
+      "code": "B593M",
+      "marketingName": "Obsidian Blue Aegean Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 40.03,
+        "a": 6.06,
+        "b": -23.79,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Honda.html). Image data/sources/autocolorlibrary/pages/2019-honda/2019_HondaAcura_01.jpg; bbox 1231,177 157×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈92; verify chip alignment.",
+        "provenanceId": "acl:honda:2019:B593M:1231,177,157x210"
+      }
+    },
+    {
+      "code": "B594P",
+      "marketingName": "Factory color B594P",
+      "finish": "solid",
+      "lab": {
+        "L": 24.44,
+        "a": 2.74,
+        "b": -4.63,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2017-Honda.html). Image data/sources/autocolorlibrary/pages/2017-honda/2017-Honda-pg02.jpg; bbox 304,901 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈93; verify chip alignment.",
+        "provenanceId": "acl:honda:2017:B594P:304,901,150x210"
+      }
+    },
+    {
+      "code": "B600M",
+      "marketingName": "Steel Sapphire",
+      "finish": "solid",
+      "lab": {
+        "L": 41.98,
+        "a": -0.9,
+        "b": -7.37,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Honda.html). Image data/sources/autocolorlibrary/pages/2019-honda/2019_HondaAcura_01.jpg; bbox 1639,179 157×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈90; verify chip alignment.",
+        "provenanceId": "acl:honda:2019:B600M:1639,179,157x210"
+      }
+    },
+    {
+      "code": "B605P",
+      "marketingName": "Immersion Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 37.79,
+        "a": 9.61,
+        "b": -27.31,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Honda.html). Image data/sources/autocolorlibrary/pages/2019-honda/2019_HondaAcura_01.jpg; bbox 0,652 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈91; verify chip alignment.",
+        "provenanceId": "acl:honda:2019:B605P:0,652,150x210"
+      }
+    },
+    {
+      "code": "B607M",
+      "marketingName": "Cosmic Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 31.93,
+        "a": 0.49,
+        "b": -2.51,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Honda.html). Image data/sources/autocolorlibrary/pages/2019-honda/2019_HondaAcura_01.jpg; bbox 410,653 157×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈93; verify chip alignment.",
+        "provenanceId": "acl:honda:2019:B607M:410,653,157x210"
+      }
+    },
+    {
+      "code": "B612P",
+      "marketingName": "Catalina Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 43.45,
+        "a": 6.64,
+        "b": -41.79,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2018-Honda.html). Image data/sources/autocolorlibrary/pages/2018-honda/2018-Honda-pg01.jpg; bbox 1231,835 156×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈89; verify chip alignment.",
+        "provenanceId": "acl:honda:2018:B612P:1231,835,156x210"
+      }
+    },
+    {
+      "code": "B615M",
+      "marketingName": "Deep Opal Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 32.23,
+        "a": 1.92,
+        "b": -2.67,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2016-Honda.html). Image data/sources/autocolorlibrary/pages/2016-honda/2016-Honda-pg02.jpg; bbox 1530,899 158×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈92; verify chip alignment.",
+        "provenanceId": "acl:honda:2016:B615M:1530,899,158x210"
+      }
+    },
+    {
+      "code": "B621P",
+      "marketingName": "Apex Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 35.42,
+        "a": 8.71,
+        "b": -28.01,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Honda.html). Image data/sources/autocolorlibrary/pages/2019-honda/2019_HondaAcura_01.jpg; bbox 820,654 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈92; verify chip alignment.",
+        "provenanceId": "acl:honda:2019:B621P:820,654,150x210"
+      }
+    },
+    {
+      "code": "B92P",
+      "marketingName": "Factory color B92P",
+      "finish": "solid",
+      "lab": {
+        "L": 34.7,
+        "a": 1.5,
+        "b": -2.78,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2009-Honda.html). Image data/sources/autocolorlibrary/pages/2009-honda/2009-Honda-pg01.jpg; bbox 289,2047 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈93; verify chip alignment.",
+        "provenanceId": "acl:honda:2009:B92P:289,2047,150x210"
+      }
+    },
+    {
+      "code": "BG51M",
+      "marketingName": "Factory color BG51M",
+      "finish": "solid",
+      "lab": {
+        "L": 74.67,
+        "a": -1.47,
+        "b": -6.24,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2008-Honda.html). Image data/sources/autocolorlibrary/pages/2008-honda/2008-Honda-pg01.jpg; bbox 707,1999 163×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈74; verify chip alignment.",
+        "provenanceId": "acl:honda:2008:BG51M:707,1999,163x210"
+      }
+    },
+    {
+      "code": "BG53M",
+      "marketingName": "Cerulean Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 55.63,
+        "a": -7.44,
+        "b": -23.78,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2011-Honda.html). Image data/sources/autocolorlibrary/pages/2011-honda/2011-Honda-pg01.jpg; bbox 290,1460 161×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈89; verify chip alignment.",
+        "provenanceId": "acl:honda:2011:BG53M:290,1460,161x210"
+      }
+    },
+    {
+      "code": "BG57P",
+      "marketingName": "North Shore Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 29.34,
+        "a": 1.46,
+        "b": -9.04,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2015-Honda.html). Image data/sources/autocolorlibrary/pages/2015-honda/2015-Honda-pg02.jpg; bbox 303,912 154×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈89; verify chip alignment.",
+        "provenanceId": "acl:honda:2015:BG57P:303,912,154x210"
+      }
+    },
+    {
+      "code": "BG59M",
+      "marketingName": "Blue Raspberry",
+      "finish": "solid",
+      "lab": {
+        "L": 55.56,
+        "a": -12.97,
+        "b": -18.18,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2014-Honda.html). Image data/sources/autocolorlibrary/pages/2014-honda/2014-Honda-pg01.jpg; bbox 63,1410 162×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈91; verify chip alignment.",
+        "provenanceId": "acl:honda:2014:BG59M:63,1410,162x210"
+      }
+    },
+    {
+      "code": "BG61M",
+      "marketingName": "Frosted Silver",
+      "finish": "solid",
+      "lab": {
+        "L": 65.14,
+        "a": -1.08,
+        "b": -4.5,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2013-Honda.html). Image data/sources/autocolorlibrary/pages/2013-honda/2013-Honda-pg02.jpg; bbox 710,1473 162×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈89; verify chip alignment.",
+        "provenanceId": "acl:honda:2013:BG61M:710,1473,162x210"
+      }
+    },
+    {
+      "code": "BG62M",
+      "marketingName": "Mountain Air",
+      "finish": "solid",
+      "lab": {
+        "L": 47.56,
+        "a": -3.25,
+        "b": -7.38,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2016-Honda.html). Image data/sources/autocolorlibrary/pages/2016-honda/2016-Honda-pg02.jpg; bbox 1942,898 162×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈92; verify chip alignment.",
+        "provenanceId": "acl:honda:2016:BG62M:1942,898,162x210"
+      }
+    },
+    {
+      "code": "BG66P",
+      "marketingName": "Moonlit Forest",
+      "finish": "solid",
+      "lab": {
+        "L": 32.2,
+        "a": -0.37,
+        "b": -1.47,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Honda.html). Image data/sources/autocolorlibrary/pages/2019-honda/2019_HondaAcura_01.jpg; bbox 1229,655 154×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈87; verify chip alignment.",
+        "provenanceId": "acl:honda:2019:BG66P:1229,655,154x210"
+      }
+    },
+    {
+      "code": "G516P",
+      "marketingName": "Factory color G516P",
+      "finish": "solid",
+      "lab": {
+        "L": 34.49,
+        "a": 0.48,
+        "b": -2.48,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2008-Honda.html). Image data/sources/autocolorlibrary/pages/2008-honda/2008-Honda-pg01.jpg; bbox 1119,1997 154×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈91; verify chip alignment.",
+        "provenanceId": "acl:honda:2008:G516P:1119,1997,154x210"
+      }
+    },
+    {
+      "code": "G525M",
+      "marketingName": "Factory color G525M",
+      "finish": "solid",
+      "lab": {
+        "L": 44.16,
+        "a": 2.55,
+        "b": 0.28,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2008-Honda.html). Image data/sources/autocolorlibrary/pages/2008-honda/2008-Honda-pg01.jpg; bbox 1532,1996 160×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈90; verify chip alignment.",
+        "provenanceId": "acl:honda:2008:G525M:1532,1996,160x210"
+      }
+    },
+    {
+      "code": "G526M",
+      "marketingName": "Factory color G526M",
+      "finish": "solid",
+      "lab": {
+        "L": 39.4,
+        "a": -0.62,
+        "b": 1.72,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2009-Honda.html). Image data/sources/autocolorlibrary/pages/2009-honda/2009-Honda-pg01.jpg; bbox 709,2045 160×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈91; verify chip alignment.",
+        "provenanceId": "acl:honda:2009:G526M:709,2045,160x210"
+      }
+    },
+    {
+      "code": "G530M",
+      "marketingName": "Factory color G530M",
+      "finish": "solid",
+      "lab": {
+        "L": 43.14,
+        "a": 0.08,
+        "b": -2.52,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2010-Honda.html). Image data/sources/autocolorlibrary/pages/2010-honda/2010-Honda-pg01.jpg; bbox 1946,1469 160×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈90; verify chip alignment.",
+        "provenanceId": "acl:honda:2010:G530M:1946,1469,160x210"
+      }
+    },
+    {
+      "code": "G532M",
+      "marketingName": "Opal Sage",
+      "finish": "solid",
+      "lab": {
+        "L": 44.73,
+        "a": -1.61,
+        "b": -5.63,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2013-Honda.html). Image data/sources/autocolorlibrary/pages/2013-honda/2013-Honda-pg02.jpg; bbox 1534,1472 160×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈91; verify chip alignment.",
+        "provenanceId": "acl:honda:2013:G532M:1534,1472,160x210"
+      }
+    },
+    {
+      "code": "G534M",
+      "marketingName": "Green Opal",
+      "finish": "solid",
+      "lab": {
+        "L": 58.43,
+        "a": -2.14,
+        "b": -4.96,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2016-Honda.html). Image data/sources/autocolorlibrary/pages/2016-honda/2016-Honda-pg02.jpg; bbox 293,1464 160×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈91; verify chip alignment.",
+        "provenanceId": "acl:honda:2016:G534M:293,1464,160x210"
+      }
+    },
+    {
+      "code": "G536M",
+      "marketingName": "Hematite",
+      "finish": "solid",
+      "lab": {
+        "L": 30.5,
+        "a": 1.68,
+        "b": -0.75,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2016-Honda.html). Image data/sources/autocolorlibrary/pages/2016-honda/2016-Honda-pg02.jpg; bbox 706,1464 160×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈90; verify chip alignment.",
+        "provenanceId": "acl:honda:2016:G536M:706,1464,160x210"
+      }
+    },
+    {
+      "code": "G537M",
+      "marketingName": "Forest Mist",
+      "finish": "solid",
+      "lab": {
+        "L": 40.44,
+        "a": -1.39,
+        "b": 0.16,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Honda.html). Image data/sources/autocolorlibrary/pages/2019-honda/2019_HondaAcura_01.jpg; bbox 1636,656 159×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈92; verify chip alignment.",
+        "provenanceId": "acl:honda:2019:G537M:1636,656,159x210"
+      }
+    },
+    {
+      "code": "G539P",
+      "marketingName": "Factory color G539P",
+      "finish": "solid",
+      "lab": {
+        "L": 41.99,
+        "a": -3.02,
+        "b": 10.38,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2018-Honda.html). Image data/sources/autocolorlibrary/pages/2018-honda/2018-Honda-pg01.jpg; bbox 357,1342 159×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈92; verify chip alignment.",
+        "provenanceId": "acl:honda:2018:G539P:357,1342,159x210"
+      }
+    },
+    {
+      "code": "G542P",
+      "marketingName": "Black Forest",
+      "finish": "solid",
+      "lab": {
+        "L": 29.1,
+        "a": -1.07,
+        "b": 1.66,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Honda.html). Image data/sources/autocolorlibrary/pages/2019-honda/2019_HondaAcura_01.jpg; bbox 0,1130 153×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈92; verify chip alignment.",
+        "provenanceId": "acl:honda:2019:G542P:0,1130,153x210"
+      }
+    },
+    {
+      "code": "G544M",
+      "marketingName": "Factory color G544M",
+      "finish": "solid",
+      "lab": {
+        "L": 51.93,
+        "a": -3.77,
+        "b": -3.14,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2018-Honda.html). Image data/sources/autocolorlibrary/pages/2018-honda/2018-Honda-pg01.jpg; bbox 1231,1337 166×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈81; verify chip alignment.",
+        "provenanceId": "acl:honda:2018:G544M:1231,1337,166x210"
+      }
+    },
+    {
+      "code": "G546M",
+      "marketingName": "Dark Olive",
+      "finish": "solid",
+      "lab": {
+        "L": 32.66,
+        "a": -0.64,
+        "b": 1.78,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Honda.html). Image data/sources/autocolorlibrary/pages/2019-honda/2019_HondaAcura_01.jpg; bbox 408,1131 159×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈89; verify chip alignment.",
+        "provenanceId": "acl:honda:2019:G546M:408,1131,159x210"
+      }
+    },
+    {
+      "code": "GY30P",
+      "marketingName": "Factory color GY30P",
+      "finish": "solid",
+      "lab": {
+        "L": 81.18,
+        "a": -42.78,
+        "b": 74.02,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2018-Honda.html). Image data/sources/autocolorlibrary/pages/2018-honda/2018-Honda-pg01.jpg; bbox 2105,1340 160×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈92; verify chip alignment.",
+        "provenanceId": "acl:honda:2018:GY30P:2105,1340,160x210"
+      }
+    },
+    {
+      "code": "NH547",
+      "marketingName": "Berlina Black",
+      "finish": "solid",
+      "lab": {
+        "L": 30.47,
+        "a": -0.63,
+        "b": 0.45,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Honda.html). Image data/sources/autocolorlibrary/pages/2019-honda/2019_HondaAcura_01.jpg; bbox 1227,1134 153×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈92; verify chip alignment.",
+        "provenanceId": "acl:honda:2019:NH547:1227,1134,153x210"
+      }
+    },
+    {
+      "code": "NH578",
+      "marketingName": "Taffeta White",
+      "finish": "solid",
+      "lab": {
+        "L": 94.25,
+        "a": -1.39,
+        "b": 3.86,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2018-Honda.html). Image data/sources/autocolorlibrary/pages/2018-honda/2018-Honda-pg01.jpg; bbox 1232,1849 160×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈91; verify chip alignment.",
+        "provenanceId": "acl:honda:2018:NH578:1232,1849,160x210"
+      }
+    },
+    {
+      "code": "NH603P",
+      "marketingName": "White Diamond",
+      "finish": "solid",
+      "lab": {
+        "L": 90.14,
+        "a": -2.78,
+        "b": 5.62,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Honda.html). Image data/sources/autocolorlibrary/pages/2019-honda/2019_HondaAcura_01.jpg; bbox 1635,1135 173×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈92; verify chip alignment.",
+        "provenanceId": "acl:honda:2019:NH603P:1635,1135,173x210"
+      }
+    },
+    {
+      "code": "NH624P",
+      "marketingName": "Premium White 3ct",
+      "finish": "pearl",
+      "lab": {
+        "L": 87.99,
+        "a": 0.65,
+        "b": 3.54,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2015-Honda.html). Image data/sources/autocolorlibrary/pages/2015-honda/2015-Honda-pg02.jpg; bbox 1128,1476 175×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈93; verify chip alignment.",
+        "provenanceId": "acl:honda:2015:NH624P:1128,1476,175x210"
+      }
+    },
+    {
+      "code": "NH642M",
+      "marketingName": "Midnight Amethyst",
+      "finish": "solid",
+      "lab": {
+        "L": 55.07,
+        "a": -0.37,
+        "b": -0.13,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Honda.html). Image data/sources/autocolorlibrary/pages/2019-honda/2019_HondaAcura_01.jpg; bbox 0,1609 181×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈91; verify chip alignment.",
+        "provenanceId": "acl:honda:2019:NH642M:0,1609,181x210"
+      }
+    },
+    {
+      "code": "NH658P",
+      "marketingName": "Factory color NH658P",
+      "finish": "solid",
+      "lab": {
+        "L": 32.91,
+        "a": 1.12,
+        "b": -2.95,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2008-Honda.html). Image data/sources/autocolorlibrary/pages/2008-honda/2008-Honda-pg02.jpg; bbox 1564,308 175×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈93; verify chip alignment.",
+        "provenanceId": "acl:honda:2008:NH658P:1564,308,175x210"
+      }
+    },
+    {
+      "code": "NH677P",
+      "marketingName": "Aspen White 3ct",
+      "finish": "pearl",
+      "lab": {
+        "L": 99,
+        "a": -2.22,
+        "b": 6.21,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2014-Honda.html). Image data/sources/autocolorlibrary/pages/2014-honda/2014-Honda-pg01.jpg; bbox 1301,1975 175×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈93; verify chip alignment.",
+        "provenanceId": "acl:honda:2014:NH677P:1301,1975,175x210"
+      }
+    },
+    {
+      "code": "NH678M",
+      "marketingName": "Factory color NH678M",
+      "finish": "solid",
+      "lab": {
+        "L": 68.6,
+        "a": 2.56,
+        "b": -2.58,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2009-Honda.html). Image data/sources/autocolorlibrary/pages/2009-honda/2009-Honda-pg02.jpg; bbox 316,354 181×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈92; verify chip alignment.",
+        "provenanceId": "acl:honda:2009:NH678M:316,354,181x210"
+      }
+    },
+    {
+      "code": "NH679M",
+      "marketingName": "Factory color NH679M",
+      "finish": "solid",
+      "lab": {
+        "L": 50.02,
+        "a": 2.46,
+        "b": -5.33,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2010-Honda.html). Image data/sources/autocolorlibrary/pages/2010-honda/2010-Honda-pg01.jpg; bbox 711,2602 182×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈92; verify chip alignment.",
+        "provenanceId": "acl:honda:2010:NH679M:711,2602,182x210"
+      }
+    },
+    {
+      "code": "NH684P",
+      "marketingName": "Magnetic Pearl",
+      "finish": "pearl",
+      "lab": {
+        "L": 34.25,
+        "a": 1.57,
+        "b": -4.09,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2011-Honda.html). Image data/sources/autocolorlibrary/pages/2011-honda/2011-Honda-pg01.jpg; bbox 1526,2022 175×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈92; verify chip alignment.",
+        "provenanceId": "acl:honda:2011:NH684P:1526,2022,175x210"
+      }
+    },
+    {
+      "code": "NH686M",
+      "marketingName": "Factory color NH686M",
+      "finish": "solid",
+      "lab": {
+        "L": 43.91,
+        "a": 3.82,
+        "b": -4.35,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2008-Honda.html). Image data/sources/autocolorlibrary/pages/2008-honda/2008-Honda-pg02.jpg; bbox 1556,872 182×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈89; verify chip alignment.",
+        "provenanceId": "acl:honda:2008:NH686M:1556,872,182x210"
+      }
+    },
+    {
+      "code": "NH689M",
+      "marketingName": "Factory color NH689M",
+      "finish": "solid",
+      "lab": {
+        "L": 81.48,
+        "a": 1.11,
+        "b": -2.98,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2009-Honda.html). Image data/sources/autocolorlibrary/pages/2009-honda/2009-Honda-pg02.jpg; bbox 1552,350 182×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈90; verify chip alignment.",
+        "provenanceId": "acl:honda:2009:NH689M:1552,350,182x210"
+      }
+    },
+    {
+      "code": "NH700M",
+      "marketingName": "Alabaster Silver",
+      "finish": "solid",
+      "lab": {
+        "L": 61.98,
+        "a": 1.74,
+        "b": -3.55,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2016-Honda.html). Image data/sources/autocolorlibrary/pages/2016-honda/2016-Honda-pg02.jpg; bbox 1119,2028 181×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈92; verify chip alignment.",
+        "provenanceId": "acl:honda:2016:NH700M:1119,2028,181x210"
+      }
+    },
+    {
+      "code": "NH701M",
+      "marketingName": "Factory color NH701M",
+      "finish": "solid",
+      "lab": {
+        "L": 40.19,
+        "a": 3.2,
+        "b": -0.14,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2008-Honda.html). Image data/sources/autocolorlibrary/pages/2008-honda/2008-Honda-pg02.jpg; bbox 732,1440 181×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈92; verify chip alignment.",
+        "provenanceId": "acl:honda:2008:NH701M:732,1440,181x210"
+      }
+    },
+    {
+      "code": "NH704M",
+      "marketingName": "Solar Silver",
+      "finish": "solid",
+      "lab": {
+        "L": 71.41,
+        "a": -0.16,
+        "b": -0.63,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Honda.html). Image data/sources/autocolorlibrary/pages/2019-honda/2019_HondaAcura_01.jpg; bbox 405,1610 181×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈90; verify chip alignment.",
+        "provenanceId": "acl:honda:2019:NH704M:405,1610,181x210"
+      }
+    },
+    {
+      "code": "NH705M",
+      "marketingName": "Factory color NH705M",
+      "finish": "solid",
+      "lab": {
+        "L": 38.96,
+        "a": 1.64,
+        "b": -2.01,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2008-Honda.html). Image data/sources/autocolorlibrary/pages/2008-honda/2008-Honda-pg02.jpg; bbox 1144,1438 181×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈91; verify chip alignment.",
+        "provenanceId": "acl:honda:2008:NH705M:1144,1438,181x210"
+      }
+    },
+    {
+      "code": "NH707",
+      "marketingName": "Formal Black",
+      "finish": "solid",
+      "lab": {
+        "L": 20.6,
+        "a": 1.64,
+        "b": -3.01,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2009-Honda.html). Image data/sources/autocolorlibrary/pages/2009-honda/2009-Honda-pg02.jpg; bbox 756,917 154×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈91; verify chip alignment.",
+        "provenanceId": "acl:honda:2009:NH707:756,917,154x210"
+      }
+    },
+    {
+      "code": "NH711M",
+      "marketingName": "Factory color NH711M",
+      "finish": "solid",
+      "lab": {
+        "L": 62.15,
+        "a": 2.7,
+        "b": -4.99,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2008-Honda.html). Image data/sources/autocolorlibrary/pages/2008-honda/2008-Honda-pg02.jpg; bbox 1968,1435 182×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈80; verify chip alignment.",
+        "provenanceId": "acl:honda:2008:NH711M:1968,1435,182x210"
+      }
+    },
+    {
+      "code": "NH717P",
+      "marketingName": "Alberta White Pearl 3ct",
+      "finish": "pearl",
+      "lab": {
+        "L": 98.05,
+        "a": 0.49,
+        "b": 0.71,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2012-Honda.html). Image data/sources/autocolorlibrary/pages/2012-honda/2012-Honda-pg01.jpg; bbox 300,2598 174×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈88; verify chip alignment.",
+        "provenanceId": "acl:honda:2012:NH717P:300,2598,174x210"
+      }
+    },
+    {
+      "code": "NH727M",
+      "marketingName": "Platinum Frost",
+      "finish": "solid",
+      "lab": {
+        "L": 64.8,
+        "a": 2.43,
+        "b": -3.26,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2012-Honda.html). Image data/sources/autocolorlibrary/pages/2012-honda/2012-Honda-pg01.jpg; bbox 712,2597 182×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈92; verify chip alignment.",
+        "provenanceId": "acl:honda:2012:NH727M:712,2597,182x210"
+      }
+    },
+    {
+      "code": "NH731P",
+      "marketingName": "Crystal Black",
+      "finish": "solid",
+      "lab": {
+        "L": 27,
+        "a": -0.66,
+        "b": 1.83,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Honda.html). Image data/sources/autocolorlibrary/pages/2019-honda/2019_HondaAcura_01.jpg; bbox 816,1611 174×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈91; verify chip alignment.",
+        "provenanceId": "acl:honda:2019:NH731P:816,1611,174x210"
+      }
+    },
+    {
+      "code": "NH736M",
+      "marketingName": "Grigio",
+      "finish": "solid",
+      "lab": {
+        "L": 25.36,
+        "a": 2.38,
+        "b": -1.23,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2012-Honda.html). Image data/sources/autocolorlibrary/pages/2012-honda/2012-Honda-pg01.jpg; bbox 1536,2595 182×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈92; verify chip alignment.",
+        "provenanceId": "acl:honda:2012:NH736M:1536,2595,182x210"
+      }
+    },
+    {
+      "code": "NH737M",
+      "marketingName": "Polished Metal",
+      "finish": "metallic",
+      "lab": {
+        "L": 38.87,
+        "a": -0.75,
+        "b": -1.56,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Honda.html). Image data/sources/autocolorlibrary/pages/2019-honda/2019_HondaAcura_01.jpg; bbox 1225,1612 181×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈91; verify chip alignment.",
+        "provenanceId": "acl:honda:2019:NH737M:1225,1612,181x210"
+      }
+    },
+    {
+      "code": "NH741M",
+      "marketingName": "Factory color NH741M",
+      "finish": "solid",
+      "lab": {
+        "L": 38.64,
+        "a": 2.3,
+        "b": -3.73,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2009-Honda.html). Image data/sources/autocolorlibrary/pages/2009-honda/2009-Honda-pg02.jpg; bbox 1141,1481 181×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈92; verify chip alignment.",
+        "provenanceId": "acl:honda:2009:NH741M:1141,1481,181x210"
+      }
+    },
+    {
+      "code": "NH743M",
+      "marketingName": "Factory color NH743M",
+      "finish": "solid",
+      "lab": {
+        "L": 61.43,
+        "a": 2.4,
+        "b": -0.93,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2013-Honda.html). Image data/sources/autocolorlibrary/pages/2013-honda/2013-Honda-pg02.jpg; bbox 1534,2596 183×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈92; verify chip alignment.",
+        "provenanceId": "acl:honda:2013:NH743M:1534,2596,183x210"
+      }
+    },
+    {
+      "code": "NH745M",
+      "marketingName": "Factory color NH745M",
+      "finish": "solid",
+      "lab": {
+        "L": 52.39,
+        "a": 2.43,
+        "b": -5.28,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2009-Honda.html). Image data/sources/autocolorlibrary/pages/2009-honda/2009-Honda-pg02.jpg; bbox 1965,1477 182×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈92; verify chip alignment.",
+        "provenanceId": "acl:honda:2009:NH745M:1965,1477,182x210"
+      }
+    },
+    {
+      "code": "NH750M",
+      "marketingName": "Factory color NH750M",
+      "finish": "solid",
+      "lab": {
+        "L": 43.49,
+        "a": 1.61,
+        "b": -1.97,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2009-Honda.html). Image data/sources/autocolorlibrary/pages/2009-honda/2009-Honda-pg02.jpg; bbox 318,2049 181×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈91; verify chip alignment.",
+        "provenanceId": "acl:honda:2009:NH750M:318,2049,181x210"
+      }
+    },
+    {
+      "code": "NH756P",
+      "marketingName": "Factory color NH756P",
+      "finish": "solid",
+      "lab": {
+        "L": 97.75,
+        "a": 1.04,
+        "b": -1.8,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2011-Honda.html). Image data/sources/autocolorlibrary/pages/2011-honda/2011-Honda-pg02.jpg; bbox 331,330 174×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈92; verify chip alignment.",
+        "provenanceId": "acl:honda:2011:NH756P:331,330,174x210"
+      }
+    },
+    {
+      "code": "NH777M",
+      "marketingName": "Smokey Topaz",
+      "finish": "solid",
+      "lab": {
+        "L": 32.88,
+        "a": 2.7,
+        "b": -1.03,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2017-Honda.html). Image data/sources/autocolorlibrary/pages/2017-honda/2017-Honda-pg02.jpg; bbox 1544,2588 182×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈91; verify chip alignment.",
+        "provenanceId": "acl:honda:2017:NH777M:1544,2588,182x210"
+      }
+    },
+    {
+      "code": "NH782M",
+      "marketingName": "Graphite Luster",
+      "finish": "solid",
+      "lab": {
+        "L": 44.13,
+        "a": 1.11,
+        "b": -4.05,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2018-Honda.html). Image data/sources/autocolorlibrary/pages/2018-honda/2018-Honda-pg01.jpg; bbox 1233,2357 189×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈93; verify chip alignment.",
+        "provenanceId": "acl:honda:2018:NH782M:1233,2357,189x210"
+      }
+    },
+    {
+      "code": "NH788P",
+      "marketingName": "White Orchid 3ct",
+      "finish": "pearl",
+      "lab": {
+        "L": 94.21,
+        "a": -3.25,
+        "b": 3.76,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Honda.html). Image data/sources/autocolorlibrary/pages/2019-honda/2019_HondaAcura_01.jpg; bbox 1633,1614 173×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈92; verify chip alignment.",
+        "provenanceId": "acl:honda:2019:NH788P:1633,1614,173x210"
+      }
+    },
+    {
+      "code": "NH789M",
+      "marketingName": "Forged Silver",
+      "finish": "solid",
+      "lab": {
+        "L": 47.38,
+        "a": 1.38,
+        "b": -5.78,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2015-Honda.html). Image data/sources/autocolorlibrary/pages/2015-honda/2015-Honda-pg02.jpg; bbox 1954,2038 182×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈93; verify chip alignment.",
+        "provenanceId": "acl:honda:2015:NH789M:1954,2038,182x210"
+      }
+    },
+    {
+      "code": "NH797M",
+      "marketingName": "Modern Steel",
+      "finish": "solid",
+      "lab": {
+        "L": 37.41,
+        "a": 0,
+        "b": 0,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Honda.html). Image data/sources/autocolorlibrary/pages/2019-honda/2019_HondaAcura_01.jpg; bbox 0,2087 182×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈92; verify chip alignment.",
+        "provenanceId": "acl:honda:2019:NH797M:0,2087,182x210"
+      }
+    },
+    {
+      "code": "NH814P",
+      "marketingName": "Aspen White Pearl II 3ct",
+      "finish": "pearl",
+      "lab": {
+        "L": 85.68,
+        "a": 1.7,
+        "b": 1.71,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2013-Honda.html). Image data/sources/autocolorlibrary/pages/2013-honda/2013-Honda-pg03.jpg; bbox 1976,341 175×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈88; verify chip alignment.",
+        "provenanceId": "acl:honda:2013:NH814P:1976,341,175x210"
+      }
+    },
+    {
+      "code": "NH821M",
+      "marketingName": "Mulberry",
+      "finish": "solid",
+      "lab": {
+        "L": 32.66,
+        "a": 1.92,
+        "b": -2.66,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2018-Honda.html). Image data/sources/autocolorlibrary/pages/2018-honda/2018-Honda-pg01.jpg; bbox 359,2865 189×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈92; verify chip alignment.",
+        "provenanceId": "acl:honda:2018:NH821M:359,2865,189x210"
+      }
+    },
+    {
+      "code": "NH829M",
+      "marketingName": "Slate Silver",
+      "finish": "solid",
+      "lab": {
+        "L": 80.8,
+        "a": 1.78,
+        "b": -6.7,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2018-Honda.html). Image data/sources/autocolorlibrary/pages/2018-honda/2018-Honda-pg01.jpg; bbox 796,2864 189×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈91; verify chip alignment.",
+        "provenanceId": "acl:honda:2018:NH829M:796,2864,189x210"
+      }
+    },
+    {
+      "code": "NH830M",
+      "marketingName": "Lunar Silver",
+      "finish": "solid",
+      "lab": {
+        "L": 66.2,
+        "a": 0.06,
+        "b": -2.32,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Honda.html). Image data/sources/autocolorlibrary/pages/2019-honda/2019_HondaAcura_01.jpg; bbox 403,2088 181×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈88; verify chip alignment.",
+        "provenanceId": "acl:honda:2019:NH830M:403,2088,181x210"
+      }
+    },
+    {
+      "code": "NH837M",
+      "marketingName": "Slipstream Silver",
+      "finish": "solid",
+      "lab": {
+        "L": 66.12,
+        "a": -0.29,
+        "b": -2.45,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Honda.html). Image data/sources/autocolorlibrary/pages/2019-honda/2019_HondaAcura_01.jpg; bbox 813,2089 181×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈91; verify chip alignment.",
+        "provenanceId": "acl:honda:2019:NH837M:813,2089,181x210"
+      }
+    },
+    {
+      "code": "NH839P",
+      "marketingName": "Satin Streak",
+      "finish": "solid",
+      "lab": {
+        "L": 80.22,
+        "a": -1.93,
+        "b": 1.02,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Honda.html). Image data/sources/autocolorlibrary/pages/2019-honda/2019_HondaAcura_01.jpg; bbox 1223,2090 174×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈92; verify chip alignment.",
+        "provenanceId": "acl:honda:2019:NH839P:1223,2090,174x210"
+      }
+    },
+    {
+      "code": "NH850",
+      "marketingName": "Jet Black",
+      "finish": "solid",
+      "lab": {
+        "L": 28.8,
+        "a": 1.92,
+        "b": -1.36,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2017-Honda.html). Image data/sources/autocolorlibrary/pages/2017-honda/2017-Honda-pg03.jpg; bbox 1290,901 154×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈90; verify chip alignment.",
+        "provenanceId": "acl:honda:2017:NH850:1290,901,154x210"
+      }
+    },
+    {
+      "code": "NH854",
+      "marketingName": "Ulexite White",
+      "finish": "solid",
+      "lab": {
+        "L": 98.25,
+        "a": -0.18,
+        "b": 0.48,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Honda.html). Image data/sources/autocolorlibrary/pages/2019-honda/2019_HondaAcura_01.jpg; bbox 1631,2091 154×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈90; verify chip alignment.",
+        "provenanceId": "acl:honda:2019:NH854:1631,2091,154x210"
+      }
+    },
+    {
+      "code": "NH862M",
+      "marketingName": "Pacific Pewter",
+      "finish": "solid",
+      "lab": {
+        "L": 37.86,
+        "a": -0.22,
+        "b": 3.18,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Honda.html). Image data/sources/autocolorlibrary/pages/2019-honda/2019_HondaAcura_01.jpg; bbox 0,2565 181×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈91; verify chip alignment.",
+        "provenanceId": "acl:honda:2019:NH862M:0,2565,181x210"
+      }
+    },
+    {
+      "code": "NH875P",
+      "marketingName": "Ivory 3ct",
+      "finish": "pearl",
+      "lab": {
+        "L": 86.22,
+        "a": 2.39,
+        "b": 3.07,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2017-Honda.html). Image data/sources/autocolorlibrary/pages/2017-honda/2017-Honda-pg03.jpg; bbox 2095,900 174×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈92; verify chip alignment.",
+        "provenanceId": "acl:honda:2017:NH875P:2095,900,174x210"
+      }
+    },
+    {
+      "code": "NH877P",
+      "marketingName": "Sonic Grey",
+      "finish": "solid",
+      "lab": {
+        "L": 57.53,
+        "a": -2.93,
+        "b": -4.03,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Honda.html). Image data/sources/autocolorlibrary/pages/2019-honda/2019_HondaAcura_01.jpg; bbox 401,2566 174×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈91; verify chip alignment.",
+        "provenanceId": "acl:honda:2019:NH877P:401,2566,174x210"
+      }
+    },
+    {
+      "code": "NH883P",
+      "marketingName": "Platinum White",
+      "finish": "solid",
+      "lab": {
+        "L": 89.4,
+        "a": -0.89,
+        "b": 2.44,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Honda.html). Image data/sources/autocolorlibrary/pages/2019-honda/2019_HondaAcura_01.jpg; bbox 811,2567 174×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈92; verify chip alignment.",
+        "provenanceId": "acl:honda:2019:NH883P:811,2567,174x210"
+      }
+    },
+    {
+      "code": "NH893P",
+      "marketingName": "Majestic Black",
+      "finish": "solid",
+      "lab": {
+        "L": 30.38,
+        "a": 1.05,
+        "b": -0.3,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Honda.html). Image data/sources/autocolorlibrary/pages/2019-honda/2019_HondaAcura_01.jpg; bbox 1221,2568 174×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈92; verify chip alignment.",
+        "provenanceId": "acl:honda:2019:NH893P:1221,2568,174x210"
+      }
+    },
+    {
+      "code": "NHESSP",
+      "marketingName": "Tat",
+      "finish": "solid",
+      "lab": {
+        "L": 84.68,
+        "a": 0.7,
+        "b": -0.87,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2004-Honda.html). Image data/sources/autocolorlibrary/pages/2004-honda/2004-Honda-pg01.jpg; bbox 460,125 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈0; verify chip alignment.",
+        "provenanceId": "acl:honda:2004:NHESSP:460,125,150x210"
+      }
+    },
+    {
+      "code": "NHO",
+      "marketingName": "Championship White",
+      "finish": "solid",
+      "lab": {
+        "L": 97.36,
+        "a": -1.56,
+        "b": 4.32,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Honda.html). Image data/sources/autocolorlibrary/pages/2019-honda/2019_HondaAcura_01.jpg; bbox 802,1133 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈89; verify chip alignment.",
+        "provenanceId": "acl:honda:2019:NHO:802,1133,150x210"
+      }
+    },
+    {
+      "code": "O207",
+      "marketingName": "Factory color O207",
+      "finish": "solid",
+      "lab": {
+        "L": 80.21,
+        "a": 4.23,
+        "b": 4.9,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2005-Honda.html). Image data/sources/autocolorlibrary/pages/2005-honda/2005-Honda-pg02.jpg; bbox 467,148 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈0; verify chip alignment.",
+        "provenanceId": "acl:honda:2005:O207:467,148,150x210"
+      }
+    },
+    {
+      "code": "PB83P",
+      "marketingName": "Blackberry Pearl",
+      "finish": "pearl",
+      "lab": {
+        "L": 32.23,
+        "a": 1.92,
+        "b": -2.67,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2010-Honda.html). Image data/sources/autocolorlibrary/pages/2010-honda/2010-Honda-pg02.jpg; bbox 1173,910 153×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈86; verify chip alignment.",
+        "provenanceId": "acl:honda:2010:PB83P:1173,910,153x210"
+      }
+    },
+    {
+      "code": "PB85P",
+      "marketingName": "Deep Violet",
+      "finish": "solid",
+      "lab": {
+        "L": 27.51,
+        "a": 2.16,
+        "b": -1.98,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2015-Honda.html). Image data/sources/autocolorlibrary/pages/2015-honda/2015-Honda-pg02.jpg; bbox 1130,2604 153×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈85; verify chip alignment.",
+        "provenanceId": "acl:honda:2015:PB85P:1130,2604,153x210"
+      }
+    },
+    {
+      "code": "PB88M",
+      "marketingName": "Gunmetal",
+      "finish": "solid",
+      "lab": {
+        "L": 40.38,
+        "a": 0.42,
+        "b": -1.14,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Honda.html). Image data/sources/autocolorlibrary/pages/2019-honda/2019_HondaAcura_01.jpg; bbox 1630,2569 159×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈74; verify chip alignment.",
+        "provenanceId": "acl:honda:2019:PB88M:1630,2569,159x210"
+      }
+    },
+    {
+      "code": "PB89P",
+      "marketingName": "Deep Violet",
+      "finish": "solid",
+      "lab": {
+        "L": 32.26,
+        "a": 1.88,
+        "b": -1.34,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2017-Honda.html). Image data/sources/autocolorlibrary/pages/2017-honda/2017-Honda-pg03.jpg; bbox 1704,1464 153×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈78; verify chip alignment.",
+        "provenanceId": "acl:honda:2017:PB89P:1704,1464,153x210"
+      }
+    },
+    {
+      "code": "R510",
+      "marketingName": "Factory color R510",
+      "finish": "solid",
+      "lab": {
+        "L": 42.77,
+        "a": 56.86,
+        "b": 28.22,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2009-Honda.html). Image data/sources/autocolorlibrary/pages/2009-honda/2009-Honda-pg02.jpg; bbox 1595,2043 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈96; verify chip alignment.",
+        "provenanceId": "acl:honda:2009:R510:1595,2043,150x210"
+      }
+    },
+    {
+      "code": "R513",
+      "marketingName": "Factory color R513",
+      "finish": "solid",
+      "lab": {
+        "L": 47.11,
+        "a": 53.36,
+        "b": 27.35,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Honda.html). Image data/sources/autocolorlibrary/pages/2019-honda/2019_HondaAcura_02.jpg; bbox 233,179 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈93; verify chip alignment.",
+        "provenanceId": "acl:honda:2019:R513:233,179,150x210"
+      }
+    },
+    {
+      "code": "R518",
+      "marketingName": "Poa Faden Ruts Pease",
+      "finish": "solid",
+      "lab": {
+        "L": 73.94,
+        "a": 6.05,
+        "b": 1.05,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2004-Honda.html). Image data/sources/autocolorlibrary/pages/2004-honda/2004-Honda-pg01.jpg; bbox 604,126 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈68; verify chip alignment.",
+        "provenanceId": "acl:honda:2004:R518:604,126,150x210"
+      }
+    },
+    {
+      "code": "R522P",
+      "marketingName": "Factory color R522P",
+      "finish": "solid",
+      "lab": {
+        "L": 24.15,
+        "a": 18.55,
+        "b": 6.78,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2009-Honda.html). Image data/sources/autocolorlibrary/pages/2009-honda/2009-Honda-pg02.jpg; bbox 349,2613 152×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈91; verify chip alignment.",
+        "provenanceId": "acl:honda:2009:R522P:349,2613,152x210"
+      }
+    },
+    {
+      "code": "R525P",
+      "marketingName": "Factory color R525P",
+      "finish": "solid",
+      "lab": {
+        "L": 40.96,
+        "a": 18.45,
+        "b": 6.92,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2011-Honda.html). Image data/sources/autocolorlibrary/pages/2011-honda/2011-Honda-pg02.jpg; bbox 2002,323 153×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈91; verify chip alignment.",
+        "provenanceId": "acl:honda:2011:R525P:2002,323,153x210"
+      }
+    },
+    {
+      "code": "R528P",
+      "marketingName": "Moroccan Red",
+      "finish": "solid",
+      "lab": {
+        "L": 40.54,
+        "a": 22.45,
+        "b": 8.27,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2008-Honda.html). Image data/sources/autocolorlibrary/pages/2008-honda/2008-Honda-pg02.jpg; bbox 1999,2562 154×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈91; verify chip alignment.",
+        "provenanceId": "acl:honda:2008:R528P:1999,2562,154x210"
+      }
+    },
+    {
+      "code": "R529P",
+      "marketingName": "Cherry",
+      "finish": "solid",
+      "lab": {
+        "L": 30.13,
+        "a": 3.79,
+        "b": 0.03,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2017-Honda.html). Image data/sources/autocolorlibrary/pages/2017-honda/2017-Honda-pg03.jpg; bbox 880,2029 152×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈90; verify chip alignment.",
+        "provenanceId": "acl:honda:2017:R529P:880,2029,152x210"
+      }
+    },
+    {
+      "code": "R530P",
+      "marketingName": "Red Pearl",
+      "finish": "pearl",
+      "lab": {
+        "L": 27.94,
+        "a": 7.34,
+        "b": 1.41,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2013-Honda.html). Image data/sources/autocolorlibrary/pages/2013-honda/2013-Honda-pg03.jpg; bbox 1175,907 152×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈90; verify chip alignment.",
+        "provenanceId": "acl:honda:2013:R530P:1175,907,152x210"
+      }
+    },
+    {
+      "code": "R538P",
+      "marketingName": "Factory color R538P",
+      "finish": "solid",
+      "lab": {
+        "L": 30.57,
+        "a": 2.12,
+        "b": -1.95,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2009-Honda.html). Image data/sources/autocolorlibrary/pages/2009-honda/2009-Honda-pg02.jpg; bbox 1997,2605 153×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈89; verify chip alignment.",
+        "provenanceId": "acl:honda:2009:R538P:1997,2605,153x210"
+      }
+    },
+    {
+      "code": "R539P",
+      "marketingName": "Factory color R539P",
+      "finish": "solid",
+      "lab": {
+        "L": 39.29,
+        "a": 26.99,
+        "b": 14.7,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Honda.html). Image data/sources/autocolorlibrary/pages/2019-honda/2019_HondaAcura_02.jpg; bbox 632,176 153×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈87; verify chip alignment.",
+        "provenanceId": "acl:honda:2019:R539P:632,176,153x210"
+      }
+    },
+    {
+      "code": "R540P",
+      "marketingName": "Pomegranate",
+      "finish": "solid",
+      "lab": {
+        "L": 32.9,
+        "a": 5.95,
+        "b": 3.55,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2018-Honda.html). Image data/sources/autocolorlibrary/pages/2018-honda/2018-Honda-pg02.jpg; bbox 1247,833 158×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈88; verify chip alignment.",
+        "provenanceId": "acl:honda:2018:R540P:1247,833,158x210"
+      }
+    },
+    {
+      "code": "R543P",
+      "marketingName": "Factory color R543P",
+      "finish": "solid",
+      "lab": {
+        "L": 31.9,
+        "a": 10.41,
+        "b": 5.4,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Honda.html). Image data/sources/autocolorlibrary/pages/2019-honda/2019_HondaAcura_02.jpg; bbox 1042,174 152×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈85; verify chip alignment.",
+        "provenanceId": "acl:honda:2019:R543P:1042,174,152x210"
+      }
+    },
+    {
+      "code": "R547P",
+      "marketingName": "Factory color R547P",
+      "finish": "solid",
+      "lab": {
+        "L": 30.92,
+        "a": 10.27,
+        "b": 2.64,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2012-Honda.html). Image data/sources/autocolorlibrary/pages/2012-honda/2012-Honda-pg02.jpg; bbox 1997,1468 153×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈90; verify chip alignment.",
+        "provenanceId": "acl:honda:2012:R547P:1997,1468,153x210"
+      }
+    },
+    {
+      "code": "R548P",
+      "marketingName": "Factory color R548P",
+      "finish": "solid",
+      "lab": {
+        "L": 27.88,
+        "a": 6.96,
+        "b": 2.63,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Honda.html). Image data/sources/autocolorlibrary/pages/2019-honda/2019_HondaAcura_02.jpg; bbox 1451,171 152×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈91; verify chip alignment.",
+        "provenanceId": "acl:honda:2019:R548P:1451,171,152x210"
+      }
+    },
+    {
+      "code": "R556P",
+      "marketingName": "Factory color R556P",
+      "finish": "solid",
+      "lab": {
+        "L": 34.86,
+        "a": 37.42,
+        "b": 16.3,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Honda.html). Image data/sources/autocolorlibrary/pages/2019-honda/2019_HondaAcura_02.jpg; bbox 1852,169 152×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈87; verify chip alignment.",
+        "provenanceId": "acl:honda:2019:R556P:1852,169,152x210"
+      }
+    },
+    {
+      "code": "R559",
+      "marketingName": "Factory color R559",
+      "finish": "solid",
+      "lab": {
+        "L": 50.66,
+        "a": 55.28,
+        "b": 30.53,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Honda.html). Image data/sources/autocolorlibrary/pages/2019-honda/2019_HondaAcura_02.jpg; bbox 235,657 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈96; verify chip alignment.",
+        "provenanceId": "acl:honda:2019:R559:235,657,150x210"
+      }
+    },
+    {
+      "code": "R560P",
+      "marketingName": "Burgundy Night",
+      "finish": "solid",
+      "lab": {
+        "L": 30.26,
+        "a": 0.2,
+        "b": 2.1,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2018-Honda.html). Image data/sources/autocolorlibrary/pages/2018-honda/2018-Honda-pg02.jpg; bbox 1247,1341 158×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈65; verify chip alignment.",
+        "provenanceId": "acl:honda:2018:R560P:1247,1341,158x210"
+      }
+    },
+    {
+      "code": "R561P",
+      "marketingName": "Factory color R561P",
+      "finish": "solid",
+      "lab": {
+        "L": 36.38,
+        "a": 12.6,
+        "b": 6.93,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Honda.html). Image data/sources/autocolorlibrary/pages/2019-honda/2019_HondaAcura_02.jpg; bbox 634,654 153×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈87; verify chip alignment.",
+        "provenanceId": "acl:honda:2019:R561P:634,654,153x210"
+      }
+    },
+    {
+      "code": "R565M",
+      "marketingName": "Factory color R565M",
+      "finish": "solid",
+      "lab": {
+        "L": 38.42,
+        "a": 39.81,
+        "b": 20.17,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Honda.html). Image data/sources/autocolorlibrary/pages/2019-honda/2019_HondaAcura_02.jpg; bbox 1035,652 160×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈90; verify chip alignment.",
+        "provenanceId": "acl:honda:2019:R565M:1035,652,160x210"
+      }
+    },
+    {
+      "code": "R567M",
+      "marketingName": "Bordeaux Red",
+      "finish": "solid",
+      "lab": {
+        "L": 33.38,
+        "a": 14.55,
+        "b": 2.53,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2018-Honda.html). Image data/sources/autocolorlibrary/pages/2018-honda/2018-Honda-pg02.jpg; bbox 2115,1339 165×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈85; verify chip alignment.",
+        "provenanceId": "acl:honda:2018:R567M:2115,1339,165x210"
+      }
+    },
+    {
+      "code": "R568P",
+      "marketingName": "Factory color R568P",
+      "finish": "solid",
+      "lab": {
+        "L": 37.09,
+        "a": 37.01,
+        "b": 16.92,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Honda.html). Image data/sources/autocolorlibrary/pages/2019-honda/2019_HondaAcura_02.jpg; bbox 1453,650 152×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈84; verify chip alignment.",
+        "provenanceId": "acl:honda:2019:R568P:1453,650,152x210"
+      }
+    },
+    {
+      "code": "R569M",
+      "marketingName": "Factory color R569M",
+      "finish": "solid",
+      "lab": {
+        "L": 31.47,
+        "a": 36.96,
+        "b": 16.63,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Honda.html). Image data/sources/autocolorlibrary/pages/2019-honda/2019_HondaAcura_02.jpg; bbox 1846,647 158×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈91; verify chip alignment.",
+        "provenanceId": "acl:honda:2019:R569M:1846,647,158x210"
+      }
+    },
+    {
+      "code": "R81",
+      "marketingName": "Factory color R81",
+      "finish": "solid",
+      "lab": {
+        "L": 52.79,
+        "a": 42.68,
+        "b": 17.62,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Honda.html). Image data/sources/autocolorlibrary/pages/2019-honda/2019_HondaAcura_02.jpg; bbox 244,1135 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈94; verify chip alignment.",
+        "provenanceId": "acl:honda:2019:R81:244,1135,150x210"
+      }
+    },
+    {
+      "code": "R94",
+      "marketingName": "Factory color R94",
+      "finish": "solid",
+      "lab": {
+        "L": 47.51,
+        "a": 36.34,
+        "b": 13.96,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Honda.html). Image data/sources/autocolorlibrary/pages/2019-honda/2019_HondaAcura_02.jpg; bbox 657,1133 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈96; verify chip alignment.",
+        "provenanceId": "acl:honda:2019:R94:657,1133,150x210"
+      }
+    },
+    {
+      "code": "RP46P",
+      "marketingName": "Passion Berry",
+      "finish": "solid",
+      "lab": {
+        "L": 26.02,
+        "a": 1.3,
+        "b": -0.92,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2017-Honda.html). Image data/sources/autocolorlibrary/pages/2017-honda/2017-Honda-pg04.jpg; bbox 718,331 155×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈92; verify chip alignment.",
+        "provenanceId": "acl:honda:2017:RP46P:718,331,155x210"
+      }
+    },
+    {
+      "code": "SE03",
+      "marketingName": "i... |",
+      "finish": "solid",
+      "lab": {
+        "L": 76.6,
+        "a": 12.37,
+        "b": 4.06,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2005-Honda.html). Image data/sources/autocolorlibrary/pages/2005-honda/2005-Honda-pg02.jpg; bbox 182,166 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈48; verify chip alignment.",
+        "provenanceId": "acl:honda:2005:SE03:182,166,150x210"
+      }
+    },
+    {
+      "code": "Y65P",
+      "marketingName": "Factory color Y65P",
+      "finish": "solid",
+      "lab": {
+        "L": 77.18,
+        "a": 19.15,
+        "b": 61.79,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2009-Honda.html). Image data/sources/autocolorlibrary/pages/2009-honda/2009-Honda-pg03.jpg; bbox 1115,351 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈92; verify chip alignment.",
+        "provenanceId": "acl:honda:2009:Y65P:1115,351,150x210"
+      }
+    },
+    {
+      "code": "Y70P",
+      "marketingName": "Factory color Y70P",
+      "finish": "solid",
+      "lab": {
+        "L": 79.69,
+        "a": -1.75,
+        "b": 46.2,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Honda.html). Image data/sources/autocolorlibrary/pages/2019-honda/2019_HondaAcura_02.jpg; bbox 1056,1130 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈87; verify chip alignment.",
+        "provenanceId": "acl:honda:2019:Y70P:1056,1130,150x210"
+      }
+    },
+    {
+      "code": "Y71M",
+      "marketingName": "Energetic Yellow",
+      "finish": "solid",
+      "lab": {
+        "L": 62.22,
+        "a": -4.15,
+        "b": 30.43,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2013-Honda.html). Image data/sources/autocolorlibrary/pages/2013-honda/2013-Honda-pg03.jpg; bbox 2006,1470 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈91; verify chip alignment.",
+        "provenanceId": "acl:honda:2013:Y71M:2006,1470,150x210"
+      }
+    },
+    {
+      "code": "Y72P",
+      "marketingName": "Mystic Yellow",
+      "finish": "solid",
+      "lab": {
+        "L": 75.9,
+        "a": -7.91,
+        "b": 49.96,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2017-Honda.html). Image data/sources/autocolorlibrary/pages/2017-honda/2017-Honda-pg04.jpg; bbox 1121,330 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈84; verify chip alignment.",
+        "provenanceId": "acl:honda:2017:Y72P:1121,330,150x210"
+      }
+    },
+    {
+      "code": "Y78P",
+      "marketingName": "Factory color Y78P",
+      "finish": "solid",
+      "lab": {
+        "L": 87.95,
+        "a": -18.01,
+        "b": 50.37,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Honda.html). Image data/sources/autocolorlibrary/pages/2019-honda/2019_HondaAcura_02.jpg; bbox 1465,1128 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈92; verify chip alignment.",
+        "provenanceId": "acl:honda:2019:Y78P:1465,1128,150x210"
+      }
+    },
+    {
+      "code": "YR538M",
+      "marketingName": "Factory color YR538M",
+      "finish": "solid",
+      "lab": {
+        "L": 60.42,
+        "a": 4.45,
+        "b": 1.61,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2008-Honda.html). Image data/sources/autocolorlibrary/pages/2008-honda/2008-Honda-pg03.jpg; bbox 293,885 182×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈89; verify chip alignment.",
+        "provenanceId": "acl:honda:2008:YR538M:293,885,182x210"
+      }
+    },
+    {
+      "code": "YR552M",
+      "marketingName": "Factory color YR552M",
+      "finish": "solid",
+      "lab": {
+        "L": 43.45,
+        "a": 30.47,
+        "b": 17.67,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2008-Honda.html). Image data/sources/autocolorlibrary/pages/2008-honda/2008-Honda-pg03.jpg; bbox 706,883 181×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈92; verify chip alignment.",
+        "provenanceId": "acl:honda:2008:YR552M:706,883,181x210"
+      }
+    },
+    {
+      "code": "YR557P",
+      "marketingName": "Factory color YR557P",
+      "finish": "solid",
+      "lab": {
+        "L": 40.17,
+        "a": 18.66,
+        "b": 6.39,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2008-Honda.html). Image data/sources/autocolorlibrary/pages/2008-honda/2008-Honda-pg03.jpg; bbox 1118,881 175×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈91; verify chip alignment.",
+        "provenanceId": "acl:honda:2008:YR557P:1118,881,175x210"
+      }
+    },
+    {
+      "code": "YR562P",
+      "marketingName": "Factory color YR562P",
+      "finish": "solid",
+      "lab": {
+        "L": 42.12,
+        "a": 2.79,
+        "b": -1.56,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2008-Honda.html). Image data/sources/autocolorlibrary/pages/2008-honda/2008-Honda-pg03.jpg; bbox 1530,880 175×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈92; verify chip alignment.",
+        "provenanceId": "acl:honda:2008:YR562P:1530,880,175x210"
+      }
+    },
+    {
+      "code": "YR563M",
+      "marketingName": "Factory color YR563M",
+      "finish": "solid",
+      "lab": {
+        "L": 45.13,
+        "a": 33.79,
+        "b": 20.77,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2008-Honda.html). Image data/sources/autocolorlibrary/pages/2008-honda/2008-Honda-pg03.jpg; bbox 1943,878 181×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈92; verify chip alignment.",
+        "provenanceId": "acl:honda:2008:YR563M:1943,878,181x210"
+      }
+    },
+    {
+      "code": "YR566M",
+      "marketingName": "Factory color YR566M",
+      "finish": "solid",
+      "lab": {
+        "L": 63.86,
+        "a": 4.24,
+        "b": 3.3,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2009-Honda.html). Image data/sources/autocolorlibrary/pages/2009-honda/2009-Honda-pg03.jpg; bbox 1534,349 182×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈90; verify chip alignment.",
+        "provenanceId": "acl:honda:2009:YR566M:1534,349,182x210"
+      }
+    },
+    {
+      "code": "YR569M",
+      "marketingName": "Factory color YR569M",
+      "finish": "solid",
+      "lab": {
+        "L": 28.17,
+        "a": 1.09,
+        "b": -1.67,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2012-Honda.html). Image data/sources/autocolorlibrary/pages/2012-honda/2012-Honda-pg02.jpg; bbox 1556,2034 182×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈83; verify chip alignment.",
+        "provenanceId": "acl:honda:2012:YR569M:1556,2034,182x210"
+      }
+    },
+    {
+      "code": "YR573M",
+      "marketingName": "Factory color YR573M",
+      "finish": "solid",
+      "lab": {
+        "L": 45.49,
+        "a": 2.58,
+        "b": 4.08,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2013-Honda.html). Image data/sources/autocolorlibrary/pages/2013-honda/2013-Honda-pg03.jpg; bbox 322,2038 182×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈91; verify chip alignment.",
+        "provenanceId": "acl:honda:2013:YR573M:322,2038,182x210"
+      }
+    },
+    {
+      "code": "YR574M",
+      "marketingName": "Factory color YR574M",
+      "finish": "solid",
+      "lab": {
+        "L": 46.75,
+        "a": 4.72,
+        "b": 2.98,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2009-Honda.html). Image data/sources/autocolorlibrary/pages/2009-honda/2009-Honda-pg03.jpg; bbox 711,916 181×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈92; verify chip alignment.",
+        "provenanceId": "acl:honda:2009:YR574M:711,916,181x210"
+      }
+    },
+    {
+      "code": "YR575M",
+      "marketingName": "Factory color YR575M",
+      "finish": "solid",
+      "lab": {
+        "L": 70.83,
+        "a": 3.42,
+        "b": 4.12,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2009-Honda.html). Image data/sources/autocolorlibrary/pages/2009-honda/2009-Honda-pg03.jpg; bbox 1123,915 181×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈91; verify chip alignment.",
+        "provenanceId": "acl:honda:2009:YR575M:1123,915,181x210"
+      }
+    },
+    {
+      "code": "YR576M",
+      "marketingName": "Factory color YR576M",
+      "finish": "solid",
+      "lab": {
+        "L": 53.2,
+        "a": 29.11,
+        "b": 27.1,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2011-Honda.html). Image data/sources/autocolorlibrary/pages/2011-honda/2011-Honda-pg02.jpg; bbox 1149,1456 181×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈91; verify chip alignment.",
+        "provenanceId": "acl:honda:2011:YR576M:1149,1456,181x210"
+      }
+    },
+    {
+      "code": "YR577P",
+      "marketingName": "Factory color YR577P",
+      "finish": "solid",
+      "lab": {
+        "L": 37.27,
+        "a": 30.53,
+        "b": 15.04,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2011-Honda.html). Image data/sources/autocolorlibrary/pages/2011-honda/2011-Honda-pg02.jpg; bbox 1570,1454 174×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈90; verify chip alignment.",
+        "provenanceId": "acl:honda:2011:YR577P:1570,1454,174x210"
+      }
+    },
+    {
+      "code": "YR5782M",
+      "marketingName": "Titanium",
+      "finish": "solid",
+      "lab": {
+        "L": 39.51,
+        "a": 4.02,
+        "b": -1.13,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2010-Honda.html). Image data/sources/autocolorlibrary/pages/2010-honda/2010-Honda-pg02.jpg; bbox 732,2605 181×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈0; verify chip alignment.",
+        "provenanceId": "acl:honda:2010:YR5782M:732,2605,181x210"
+      }
+    },
+    {
+      "code": "YR578M",
+      "marketingName": "Urban Titanium",
+      "finish": "solid",
+      "lab": {
+        "L": 32.88,
+        "a": 4.57,
+        "b": -1,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2015-Honda.html). Image data/sources/autocolorlibrary/pages/2015-honda/2015-Honda-pg03.jpg; bbox 1139,909 181×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈93; verify chip alignment.",
+        "provenanceId": "acl:honda:2015:YR578M:1139,909,181x210"
+      }
+    },
+    {
+      "code": "YR579M",
+      "marketingName": "Citrus Fire",
+      "finish": "solid",
+      "lab": {
+        "L": 41.97,
+        "a": 37.97,
+        "b": 20.13,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2010-Honda.html). Image data/sources/autocolorlibrary/pages/2010-honda/2010-Honda-pg02.jpg; bbox 1144,2603 181×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈87; verify chip alignment.",
+        "provenanceId": "acl:honda:2010:YR579M:1144,2603,181x210"
+      }
+    },
+    {
+      "code": "YR585",
+      "marketingName": "Factory color YR585",
+      "finish": "solid",
+      "lab": {
+        "L": 50.17,
+        "a": 36.19,
+        "b": 29.01,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Honda.html). Image data/sources/autocolorlibrary/pages/2019-honda/2019_HondaAcura_02.jpg; bbox 1851,1125 153×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈91; verify chip alignment.",
+        "provenanceId": "acl:honda:2019:YR585:1851,1125,153x210"
+      }
+    },
+    {
+      "code": "YR587M",
+      "marketingName": "Dark Amber",
+      "finish": "solid",
+      "lab": {
+        "L": 28.99,
+        "a": 2.75,
+        "b": -1.05,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2015-Honda.html). Image data/sources/autocolorlibrary/pages/2015-honda/2015-Honda-pg03.jpg; bbox 1552,908 181×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈92; verify chip alignment.",
+        "provenanceId": "acl:honda:2015:YR587M:1552,908,181x210"
+      }
+    },
+    {
+      "code": "YR589P",
+      "marketingName": "Factory color YR589P",
+      "finish": "solid",
+      "lab": {
+        "L": 34.19,
+        "a": 32.34,
+        "b": 12.59,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2013-Honda.html). Image data/sources/autocolorlibrary/pages/2013-honda/2013-Honda-pg03.jpg; bbox 1568,2035 174×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈90; verify chip alignment.",
+        "provenanceId": "acl:honda:2013:YR589P:1568,2035,174x210"
+      }
+    },
+    {
+      "code": "YR591P",
+      "marketingName": "Factory color YR591P",
+      "finish": "solid",
+      "lab": {
+        "L": 70.94,
+        "a": 0.04,
+        "b": 8.08,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Honda.html). Image data/sources/autocolorlibrary/pages/2019-honda/2019_HondaAcura_02.jpg; bbox 206,1613 174×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈93; verify chip alignment.",
+        "provenanceId": "acl:honda:2019:YR591P:206,1613,174x210"
+      }
+    },
+    {
+      "code": "YR592M",
+      "marketingName": "Factory color YR592M",
+      "finish": "solid",
+      "lab": {
+        "L": 42.86,
+        "a": 26.08,
+        "b": 22.14,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Honda.html). Image data/sources/autocolorlibrary/pages/2019-honda/2019_HondaAcura_02.jpg; bbox 608,1611 181×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈92; verify chip alignment.",
+        "provenanceId": "acl:honda:2019:YR592M:608,1611,181x210"
+      }
+    },
+    {
+      "code": "YR593P",
+      "marketingName": "Truffle",
+      "finish": "solid",
+      "lab": {
+        "L": 35.91,
+        "a": 1.05,
+        "b": -1.6,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2014-Honda.html). Image data/sources/autocolorlibrary/pages/2014-honda/2014-Honda-pg02.jpg; bbox 1477,1410 175×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈92; verify chip alignment.",
+        "provenanceId": "acl:honda:2014:YR593P:1477,1410,175x210"
+      }
+    },
+    {
+      "code": "YR594P",
+      "marketingName": "Tiger Eye",
+      "finish": "solid",
+      "lab": {
+        "L": 24.98,
+        "a": 2.6,
+        "b": -0.46,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2015-Honda.html). Image data/sources/autocolorlibrary/pages/2015-honda/2015-Honda-pg03.jpg; bbox 323,1475 174×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈91; verify chip alignment.",
+        "provenanceId": "acl:honda:2015:YR594P:323,1475,174x210"
+      }
+    },
+    {
+      "code": "YR596M",
+      "marketingName": "Factory color YR596M",
+      "finish": "solid",
+      "lab": {
+        "L": 50.92,
+        "a": -0.02,
+        "b": 3.69,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Honda.html). Image data/sources/autocolorlibrary/pages/2019-honda/2019_HondaAcura_02.jpg; bbox 1018,1608 181×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈91; verify chip alignment.",
+        "provenanceId": "acl:honda:2019:YR596M:1018,1608,181x210"
+      }
+    },
+    {
+      "code": "YR600M",
+      "marketingName": "Kona Coffee",
+      "finish": "solid",
+      "lab": {
+        "L": 33.27,
+        "a": 0.19,
+        "b": 2.06,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2018-Honda.html). Image data/sources/autocolorlibrary/pages/2018-honda/2018-Honda-pg02.jpg; bbox 1216,2360 189×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈89; verify chip alignment.",
+        "provenanceId": "acl:honda:2018:YR600M:1216,2360,189x210"
+      }
+    },
+    {
+      "code": "YR601P",
+      "marketingName": "Factory color YR601P",
+      "finish": "solid",
+      "lab": {
+        "L": 31.22,
+        "a": 0.62,
+        "b": 2.24,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Honda.html). Image data/sources/autocolorlibrary/pages/2019-honda/2019_HondaAcura_02.jpg; bbox 1436,1606 173×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈93; verify chip alignment.",
+        "provenanceId": "acl:honda:2019:YR601P:1436,1606,173x210"
+      }
+    },
+    {
+      "code": "YR602M",
+      "marketingName": "Sandstorm Silver",
+      "finish": "solid",
+      "lab": {
+        "L": 60.59,
+        "a": 1.84,
+        "b": 0.65,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2017-Honda.html). Image data/sources/autocolorlibrary/pages/2017-honda/2017-Honda-pg04.jpg; bbox 1129,893 181×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈89; verify chip alignment.",
+        "provenanceId": "acl:honda:2017:YR602M:1129,893,181x210"
+      }
+    },
+    {
+      "code": "YR612P",
+      "marketingName": "Orange Fire",
+      "finish": "solid",
+      "lab": {
+        "L": 48.02,
+        "a": 40.55,
+        "b": 32.67,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2015-Honda.html). Image data/sources/autocolorlibrary/pages/2015-honda/2015-Honda-pg03.jpg; bbox 1973,1472 174×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈89; verify chip alignment.",
+        "provenanceId": "acl:honda:2015:YR612P:1973,1472,174x210"
+      }
+    },
+    {
+      "code": "YR620M",
+      "marketingName": "Factory color YR620M",
+      "finish": "solid",
+      "lab": {
+        "L": 67.67,
+        "a": 0.43,
+        "b": 8.3,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Honda.html). Image data/sources/autocolorlibrary/pages/2019-honda/2019_HondaAcura_02.jpg; bbox 1824,1603 180×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈93; verify chip alignment.",
+        "provenanceId": "acl:honda:2019:YR620M:1824,1603,180x210"
+      }
+    },
+    {
+      "code": "YR632M",
+      "marketingName": "Bronze",
+      "finish": "solid",
+      "lab": {
+        "L": 36.08,
+        "a": 2.69,
+        "b": 7.51,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Honda.html). Image data/sources/autocolorlibrary/pages/2019-honda/2019_HondaAcura_02.jpg; bbox 200,2091 181×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈92; verify chip alignment.",
+        "provenanceId": "acl:honda:2019:YR632M:200,2091,181x210"
+      }
+    },
+    {
+      "code": "YR647P",
+      "marketingName": "Thermal Orange 3ct",
+      "finish": "pearl",
+      "lab": {
+        "L": 60.94,
+        "a": 45.35,
+        "b": 48.23,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Honda.html). Image data/sources/autocolorlibrary/pages/2019-honda/2019_HondaAcura_02.jpg; bbox 619,2089 174×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈92; verify chip alignment.",
+        "provenanceId": "acl:honda:2019:YR647P:619,2089,174x210"
+      }
+    },
+    {
+      "code": "YRS73M",
+      "marketingName": "Mocha",
+      "finish": "solid",
+      "lab": {
+        "L": 49.6,
+        "a": 5.03,
+        "b": 1.83,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2010-Honda.html). Image data/sources/autocolorlibrary/pages/2010-honda/2010-Honda-pg02.jpg; bbox 732,2040 181×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈42; verify chip alignment.",
+        "provenanceId": "acl:honda:2010:YRS73M:732,2040,181x210"
+      }
+    },
+    {
+      "code": "YRS74M",
+      "marketingName": "Bold Beige Tuscan Beige",
+      "finish": "solid",
+      "lab": {
+        "L": 55.15,
+        "a": 4.95,
+        "b": 3.01,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2010-Honda.html). Image data/sources/autocolorlibrary/pages/2010-honda/2010-Honda-pg02.jpg; bbox 1144,2039 181×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈60; verify chip alignment.",
+        "provenanceId": "acl:honda:2010:YRS74M:1144,2039,181x210"
+      }
+    },
+    {
+      "code": "YRS87M",
+      "marketingName": "Factory color YRS87M",
+      "finish": "solid",
+      "lab": {
+        "L": 28.96,
+        "a": 2.54,
+        "b": -0.45,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2013-Honda.html). Image data/sources/autocolorlibrary/pages/2013-honda/2013-Honda-pg03.jpg; bbox 1147,2036 181×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈49; verify chip alignment.",
+        "provenanceId": "acl:honda:2013:YRS87M:1147,2036,181x210"
+      }
+    }
+  ]
+}

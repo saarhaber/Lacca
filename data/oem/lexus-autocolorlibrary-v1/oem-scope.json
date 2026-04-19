@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../schemas/oem-scope-v1.schema.json",
+  "scopeId": "lexus-autocolorlibrary-v1",
+  "oem": "Lexus",
+  "modelYears": {
+    "from": 1992,
+    "to": 1996
+  },
+  "models": [],
+  "notes": "Lexus exterior paint rows sampled from Auto Color Library chip sheets (autocolorlibrary.com) via acl-labeler. LAB is hex-derived from averaged swatch regions; confidence=\"derived\", source=\"autocolorlibrary_swatch\". Merge with PaintRef or curated scopes via merge-oem-scopes. Verify with spectro before production claims.",
+  "exteriorPaintFile": "./exterior-paints-v1.json"
+}

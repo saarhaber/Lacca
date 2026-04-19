@@ -1,0 +1,41 @@
+{
+  "$schema": "../../../schemas/exterior-paints-v1.schema.json",
+  "scopeId": "ahmg-autocolorlibrary-v1",
+  "version": "1.0.0",
+  "paints": [
+    {
+      "code": "G30",
+      "marketingName": "Factory color G30",
+      "finish": "solid",
+      "lab": {
+        "L": 59.71,
+        "a": -0.95,
+        "b": 5.04,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/1969-Ahmg.html). Image data/sources/autocolorlibrary/pages/1969-ahmg/1969-ahmg-pg01.jpg; bbox 400,318 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈0; verify chip alignment.",
+        "provenanceId": "acl:ahmg:1969:G30:400,318,150x210"
+      }
+    },
+    {
+      "code": "GN29",
+      "marketingName": "Factory color GN29",
+      "finish": "solid",
+      "lab": {
+        "L": 58.89,
+        "a": -3.02,
+        "b": 4.94,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/1969-Ahmg.html). Image data/sources/autocolorlibrary/pages/1969-ahmg/1969-ahmg-pg01.jpg; bbox 257,318 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈51; verify chip alignment.",
+        "provenanceId": "acl:ahmg:1969:GN29:257,318,150x210"
+      }
+    }
+  ]
+}

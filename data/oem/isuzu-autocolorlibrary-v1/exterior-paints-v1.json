@@ -1,0 +1,41 @@
+{
+  "$schema": "../../../schemas/exterior-paints-v1.schema.json",
+  "scopeId": "isuzu-autocolorlibrary-v1",
+  "version": "1.0.0",
+  "paints": [
+    {
+      "code": "150",
+      "marketingName": "Factory color 150",
+      "finish": "solid",
+      "lab": {
+        "L": 98.37,
+        "a": 0.51,
+        "b": -0.36,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2005-Isuzu.html). Image data/sources/autocolorlibrary/pages/2005-isuzu/2005-Isuzu-pg01.jpg; bbox 104,313 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈58; verify chip alignment.",
+        "provenanceId": "acl:isuzu:2005:150:104,313,150x210"
+      }
+    },
+    {
+      "code": "190",
+      "marketingName": "Factory color 190",
+      "finish": "solid",
+      "lab": {
+        "L": 97.93,
+        "a": 0,
+        "b": 0,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2004-Isuzu.html). Image data/sources/autocolorlibrary/pages/2004-isuzu/2004-Isuzu-pg01.jpg; bbox 78,545 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈62; verify chip alignment.",
+        "provenanceId": "acl:isuzu:2004:190:78,545,150x210"
+      }
+    }
+  ]
+}

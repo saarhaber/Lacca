@@ -1,0 +1,92 @@
+{
+  "$schema": "../../../schemas/exterior-paints-v1.schema.json",
+  "scopeId": "desoto-autocolorlibrary-v1",
+  "version": "1.0.0",
+  "paints": [
+    {
+      "code": "A30",
+      "marketingName": "Factory color A30",
+      "finish": "solid",
+      "lab": {
+        "L": 96.87,
+        "a": -0.87,
+        "b": 6.72,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/1957-Desoto.html). Image data/sources/autocolorlibrary/pages/1957-desoto/1957-desoto-pg03.jpg; bbox 10,201 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈0; verify chip alignment.",
+        "provenanceId": "acl:desoto:1957:A30:10,201,150x210"
+      }
+    },
+    {
+      "code": "C16",
+      "marketingName": "Factory color C16",
+      "finish": "solid",
+      "lab": {
+        "L": 67.83,
+        "a": 0.91,
+        "b": 10.78,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/1937-Desoto.html). Image data/sources/autocolorlibrary/pages/1937-desoto/1937-desoto-pg01.jpg; bbox 247,0 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈66; verify chip alignment.",
+        "provenanceId": "acl:desoto:1937:C16:247,0,150x210"
+      }
+    },
+    {
+      "code": "C44",
+      "marketingName": "Factory color C44",
+      "finish": "solid",
+      "lab": {
+        "L": 65.98,
+        "a": 1.09,
+        "b": 10.32,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/1937-Desoto.html). Image data/sources/autocolorlibrary/pages/1937-desoto/1937-desoto-pg01.jpg; bbox 202,0 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈62; verify chip alignment.",
+        "provenanceId": "acl:desoto:1937:C44:202,0,150x210"
+      }
+    },
+    {
+      "code": "C45",
+      "marketingName": "Factory color C45",
+      "finish": "solid",
+      "lab": {
+        "L": 67.08,
+        "a": 0.91,
+        "b": 10.8,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/1937-Desoto.html). Image data/sources/autocolorlibrary/pages/1937-desoto/1937-desoto-pg01.jpg; bbox 226,0 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈68; verify chip alignment.",
+        "provenanceId": "acl:desoto:1937:C45:226,0,150x210"
+      }
+    },
+    {
+      "code": "S048",
+      "marketingName": "Factory color S048",
+      "finish": "solid",
+      "lab": {
+        "L": 96.81,
+        "a": -0.88,
+        "b": 4.56,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/1957-Desoto.html). Image data/sources/autocolorlibrary/pages/1957-desoto/1957-desoto-pg03.jpg; bbox 345,210 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈0; verify chip alignment.",
+        "provenanceId": "acl:desoto:1957:S048:345,210,150x210"
+      }
+    }
+  ]
+}

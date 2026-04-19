@@ -1,0 +1,41 @@
+{
+  "$schema": "../../../schemas/exterior-paints-v1.schema.json",
+  "scopeId": "renault-autocolorlibrary-v1",
+  "version": "1.0.0",
+  "paints": [
+    {
+      "code": "9000",
+      "marketingName": "Factory color 9000",
+      "finish": "solid",
+      "lab": {
+        "L": 73.22,
+        "a": 5.76,
+        "b": 4.39,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/1986-Renault.html). Image data/sources/autocolorlibrary/pages/1986-renault/1986-Renault-pg03.jpg; bbox 146,209 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈51; verify chip alignment.",
+        "provenanceId": "acl:renault:1986:9000:146,209,150x210"
+      }
+    },
+    {
+      "code": "910",
+      "marketingName": "Royale Gris",
+      "finish": "solid",
+      "lab": {
+        "L": 93.74,
+        "a": 0.83,
+        "b": 6.28,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/1976-Renault.html). Image data/sources/autocolorlibrary/pages/1976-renault/1976-renault-pg03.jpg; bbox 146,209 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈43; verify chip alignment.",
+        "provenanceId": "acl:renault:1976:910:146,209,150x210"
+      }
+    }
+  ]
+}

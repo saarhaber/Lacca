@@ -1,0 +1,24 @@
+{
+  "$schema": "../../../schemas/exterior-paints-v1.schema.json",
+  "scopeId": "kia-autocolorlibrary-v1",
+  "version": "1.0.0",
+  "paints": [
+    {
+      "code": "K900",
+      "marketingName": "Factory color K900",
+      "finish": "solid",
+      "lab": {
+        "L": 34.42,
+        "a": -0.21,
+        "b": 0.59,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Kia-Motors.html). Image data/sources/autocolorlibrary/pages/2019-kia-motors/2019_Kia_02.jpg; bbox 1402,718 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈60; verify chip alignment.",
+        "provenanceId": "acl:kia:2019:K900:1402,718,150x210"
+      }
+    }
+  ]
+}

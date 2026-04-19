@@ -1,0 +1,41 @@
+{
+  "$schema": "../../../schemas/exterior-paints-v1.schema.json",
+  "scopeId": "jaguar-autocolorlibrary-v1",
+  "version": "1.0.0",
+  "paints": [
+    {
+      "code": "2028",
+      "marketingName": "Lunar Gray Pearl Gunmetal Pearl",
+      "finish": "pearl",
+      "lab": {
+        "L": 86.92,
+        "a": 1.22,
+        "b": -1.23,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2010-Jaguar.html). Image data/sources/autocolorlibrary/pages/2010-jaguar/2010-Jaguar-pg01.jpg; bbox 1610,1472 559×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈88; verify chip alignment.",
+        "provenanceId": "acl:jaguar:2010:2028:1610,1472,559x210"
+      }
+    },
+    {
+      "code": "2232",
+      "marketingName": "Caesium Blue 3ct Borasco Grey",
+      "finish": "pearl",
+      "lab": {
+        "L": 90.5,
+        "a": 0.13,
+        "b": -4.35,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2018-Jaguar.html). Image data/sources/autocolorlibrary/pages/2018-jaguar/2018-Jaguar-pg01.jpg; bbox 1293,825 560×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈91; verify chip alignment.",
+        "provenanceId": "acl:jaguar:2018:2232:1293,825,560x210"
+      }
+    }
+  ]
+}

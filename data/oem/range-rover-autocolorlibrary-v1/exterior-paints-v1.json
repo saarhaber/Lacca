@@ -1,0 +1,24 @@
+{
+  "$schema": "../../../schemas/exterior-paints-v1.schema.json",
+  "scopeId": "range-rover-autocolorlibrary-v1",
+  "version": "1.0.0",
+  "paints": [
+    {
+      "code": "112",
+      "marketingName": "Fuji White",
+      "finish": "solid",
+      "lab": {
+        "L": 87.58,
+        "a": 0.86,
+        "b": -0.25,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2013-Range-Rover.html). Image data/sources/autocolorlibrary/pages/2013-range-rover/2013-Rangerover-pg02.jpg; bbox 713,2600 193×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈91; verify chip alignment.",
+        "provenanceId": "acl:range-rover:2013:112:713,2600,193x210"
+      }
+    }
+  ]
+}

@@ -1,0 +1,976 @@
+{
+  "$schema": "../../../schemas/exterior-paints-v1.schema.json",
+  "scopeId": "mitsubishi-autocolorlibrary-v1",
+  "version": "1.0.0",
+  "paints": [
+    {
+      "code": "4696",
+      "marketingName": "Factory color 4696",
+      "finish": "solid",
+      "lab": {
+        "L": 87.13,
+        "a": -0.04,
+        "b": 3.31,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/1993-Mitsubishi.html). Image data/sources/autocolorlibrary/pages/1993-mitsubishi/1993-Mitsubishi-pg02.jpg; bbox 312,240 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈58; verify chip alignment.",
+        "provenanceId": "acl:mitsubishi:1993:4696:312,240,150x210"
+      }
+    },
+    {
+      "code": "5612",
+      "marketingName": "Peta arco pina",
+      "finish": "solid",
+      "lab": {
+        "L": 89.08,
+        "a": 1.39,
+        "b": -1.71,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2003-Mitsubishi.html). Image data/sources/autocolorlibrary/pages/2003-mitsubishi/2003-Mitsubishi-pg03.jpg; bbox 462,57 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈72; verify chip alignment.",
+        "provenanceId": "acl:mitsubishi:2003:5612:462,57,150x210"
+      }
+    },
+    {
+      "code": "5885",
+      "marketingName": "Factory color 5885",
+      "finish": "solid",
+      "lab": {
+        "L": 88.83,
+        "a": 1.91,
+        "b": -2.08,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2003-Mitsubishi.html). Image data/sources/autocolorlibrary/pages/2003-mitsubishi/2003-Mitsubishi-pg03.jpg; bbox 461,0 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈63; verify chip alignment.",
+        "provenanceId": "acl:mitsubishi:2003:5885:461,0,150x210"
+      }
+    },
+    {
+      "code": "A02",
+      "marketingName": "Thunder Gray",
+      "finish": "solid",
+      "lab": {
+        "L": 38.63,
+        "a": 2.04,
+        "b": -1.87,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2016-Mitsubishi.html). Image data/sources/autocolorlibrary/pages/2016-mitsubishi/2016-Mitsubishi-pg02.jpg; bbox 271,331 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈76; verify chip alignment.",
+        "provenanceId": "acl:mitsubishi:2016:A02:271,331,150x210"
+      }
+    },
+    {
+      "code": "A31",
+      "marketingName": "Apex Silver",
+      "finish": "solid",
+      "lab": {
+        "L": 92.12,
+        "a": 0.49,
+        "b": 0.72,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2018-Mitsubishi.html). Image data/sources/autocolorlibrary/pages/2018-mitsubishi/2018-Mitsubishi-pg01.jpg; bbox 318,313 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈80; verify chip alignment.",
+        "provenanceId": "acl:mitsubishi:2018:A31:318,313,150x210"
+      }
+    },
+    {
+      "code": "A33",
+      "marketingName": "Factory color A33",
+      "finish": "solid",
+      "lab": {
+        "L": 84.41,
+        "a": 1.26,
+        "b": -2.35,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2008-Mitsubishi.html). Image data/sources/autocolorlibrary/pages/2008-mitsubishi/2008-Mitsubishi-pg01.jpg; bbox 687,327 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈92; verify chip alignment.",
+        "provenanceId": "acl:mitsubishi:2008:A33:687,327,150x210"
+      }
+    },
+    {
+      "code": "A39",
+      "marketingName": "EVO,L,O",
+      "finish": "solid",
+      "lab": {
+        "L": 57.76,
+        "a": 1.76,
+        "b": -3.6,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2012-Mitsubishi.html). Image data/sources/autocolorlibrary/pages/2012-mitsubishi/2012-Mitsubishi-pg01.jpg; bbox 686,342 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈92; verify chip alignment.",
+        "provenanceId": "acl:mitsubishi:2012:A39:686,342,150x210"
+      }
+    },
+    {
+      "code": "A56",
+      "marketingName": "EC,G,S",
+      "finish": "solid",
+      "lab": {
+        "L": 56.98,
+        "a": 2.1,
+        "b": -6.52,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2008-Mitsubishi.html). Image data/sources/autocolorlibrary/pages/2008-mitsubishi/2008-Mitsubishi-pg01.jpg; bbox 1512,323 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈82; verify chip alignment.",
+        "provenanceId": "acl:mitsubishi:2008:A56:1512,323,150x210"
+      }
+    },
+    {
+      "code": "A66",
+      "marketingName": "Starlight Silver",
+      "finish": "solid",
+      "lab": {
+        "L": 67.54,
+        "a": 1.4,
+        "b": -4.77,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2016-Mitsubishi.html). Image data/sources/autocolorlibrary/pages/2016-mitsubishi/2016-Mitsubishi-pg02.jpg; bbox 1096,331 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈75; verify chip alignment.",
+        "provenanceId": "acl:mitsubishi:2016:A66:1096,331,150x210"
+      }
+    },
+    {
+      "code": "A86",
+      "marketingName": "Factory color A86",
+      "finish": "solid",
+      "lab": {
+        "L": 57.02,
+        "a": -2.86,
+        "b": -8.85,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2009-Mitsubishi.html). Image data/sources/autocolorlibrary/pages/2009-mitsubishi/2009-Mitsubishi-pg01.jpg; bbox 1103,345 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈70; verify chip alignment.",
+        "provenanceId": "acl:mitsubishi:2009:A86:1103,345,150x210"
+      }
+    },
+    {
+      "code": "A88",
+      "marketingName": "Factory color A88",
+      "finish": "solid",
+      "lab": {
+        "L": 64.01,
+        "a": -2.4,
+        "b": -7.93,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2010-Mitsubishi.html). Image data/sources/autocolorlibrary/pages/2010-mitsubishi/2010-Mitsubishi-pg01.jpg; bbox 1101,333 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈73; verify chip alignment.",
+        "provenanceId": "acl:mitsubishi:2010:A88:1101,333,150x210"
+      }
+    },
+    {
+      "code": "AG66",
+      "marketingName": "Factory color AG66",
+      "finish": "solid",
+      "lab": {
+        "L": 65.59,
+        "a": 1.06,
+        "b": -4.92,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2015-Mitsubishi.html). Image data/sources/autocolorlibrary/pages/2015-mitsubishi/2015-Mitsubishi-pg02.jpg; bbox 1107,332 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈53; verify chip alignment.",
+        "provenanceId": "acl:mitsubishi:2015:AG66:1107,332,150x210"
+      }
+    },
+    {
+      "code": "B12",
+      "marketingName": "Factory color B12",
+      "finish": "solid",
+      "lab": {
+        "L": 88.77,
+        "a": -0.16,
+        "b": -0.61,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2002-Mitsubishi.html). Image data/sources/autocolorlibrary/pages/2002-mitsubishi/2002-Mitsubishi-pg01.jpg; bbox 482,184 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈46; verify chip alignment.",
+        "provenanceId": "acl:mitsubishi:2002:B12:482,184,150x210"
+      }
+    },
+    {
+      "code": "B30",
+      "marketingName": "Factory color B30",
+      "finish": "solid",
+      "lab": {
+        "L": 92.72,
+        "a": 0.18,
+        "b": -0.48,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2002-Mitsubishi.html). Image data/sources/autocolorlibrary/pages/2002-mitsubishi/2002-Mitsubishi-pg01.jpg; bbox 481,569 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈96; verify chip alignment.",
+        "provenanceId": "acl:mitsubishi:2002:B30:481,569,150x210"
+      }
+    },
+    {
+      "code": "C06",
+      "marketingName": "Quartz Brown",
+      "finish": "solid",
+      "lab": {
+        "L": 44.71,
+        "a": 0.98,
+        "b": 3.51,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Mitsubishi.html). Image data/sources/autocolorlibrary/pages/2019-mitsubishi/2019_Mitsubishi_01.jpg; bbox 390,170 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈85; verify chip alignment.",
+        "provenanceId": "acl:mitsubishi:2019:C06:390,170,150x210"
+      }
+    },
+    {
+      "code": "C07",
+      "marketingName": "Factory color C07",
+      "finish": "solid",
+      "lab": {
+        "L": 38.98,
+        "a": 14.46,
+        "b": 6.4,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2015-Mitsubishi.html). Image data/sources/autocolorlibrary/pages/2015-mitsubishi/2015-Mitsubishi-pg02.jpg; bbox 1520,335 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈92; verify chip alignment.",
+        "provenanceId": "acl:mitsubishi:2015:C07:1520,335,150x210"
+      }
+    },
+    {
+      "code": "D06",
+      "marketingName": "Bronze Octane Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 47.58,
+        "a": 2.9,
+        "b": -21.6,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Mitsubishi.html). Image data/sources/autocolorlibrary/pages/2019-mitsubishi/2019_Mitsubishi_01.jpg; bbox 1210,171 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈53; verify chip alignment.",
+        "provenanceId": "acl:mitsubishi:2019:D06:1210,171,150x210"
+      }
+    },
+    {
+      "code": "D14",
+      "marketingName": "Cosmic Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 43.14,
+        "a": 1.79,
+        "b": -1.27,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2016-Mitsubishi.html). Image data/sources/autocolorlibrary/pages/2016-mitsubishi/2016-Mitsubishi-pg02.jpg; bbox 274,895 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈78; verify chip alignment.",
+        "provenanceId": "acl:mitsubishi:2016:D14:274,895,150x210"
+      }
+    },
+    {
+      "code": "D17",
+      "marketingName": "Laguna Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 54.06,
+        "a": -7.64,
+        "b": -23.35,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2014-Mitsubishi.html). Image data/sources/autocolorlibrary/pages/2014-mitsubishi/2014-Mitsubishi-pg01.jpg; bbox 25,861 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈81; verify chip alignment.",
+        "provenanceId": "acl:mitsubishi:2014:D17:25,861,150x210"
+      }
+    },
+    {
+      "code": "D22",
+      "marketingName": "Aqua Marine Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 57.57,
+        "a": -8.88,
+        "b": -15.03,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2016-Mitsubishi.html). Image data/sources/autocolorlibrary/pages/2016-mitsubishi/2016-Mitsubishi-pg02.jpg; bbox 685,895 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈92; verify chip alignment.",
+        "provenanceId": "acl:mitsubishi:2016:D22:685,895,150x210"
+      }
+    },
+    {
+      "code": "F17",
+      "marketingName": "Factory color F17",
+      "finish": "solid",
+      "lab": {
+        "L": 63.2,
+        "a": -0.19,
+        "b": 0.52,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2008-Mitsubishi.html). Image data/sources/autocolorlibrary/pages/2008-mitsubishi/2008-Mitsubishi-pg01.jpg; bbox 1925,885 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈91; verify chip alignment.",
+        "provenanceId": "acl:mitsubishi:2008:F17:1925,885,150x210"
+      }
+    },
+    {
+      "code": "F24",
+      "marketingName": "Kiwi Green",
+      "finish": "solid",
+      "lab": {
+        "L": 70.41,
+        "a": -16.46,
+        "b": 15.25,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2016-Mitsubishi.html). Image data/sources/autocolorlibrary/pages/2016-mitsubishi/2016-Mitsubishi-pg02.jpg; bbox 1096,895 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈93; verify chip alignment.",
+        "provenanceId": "acl:mitsubishi:2016:F24:1096,895,150x210"
+      }
+    },
+    {
+      "code": "G41",
+      "marketingName": "Factory color G41",
+      "finish": "solid",
+      "lab": {
+        "L": 91.59,
+        "a": -0.36,
+        "b": 0.97,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2002-Mitsubishi.html). Image data/sources/autocolorlibrary/pages/2002-mitsubishi/2002-Mitsubishi-pg01.jpg; bbox 479,2481 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈87; verify chip alignment.",
+        "provenanceId": "acl:mitsubishi:2002:G41:479,2481,150x210"
+      }
+    },
+    {
+      "code": "H32",
+      "marketingName": "Factory color H32",
+      "finish": "solid",
+      "lab": {
+        "L": 89.48,
+        "a": -0.16,
+        "b": -0.61,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2002-Mitsubishi.html). Image data/sources/autocolorlibrary/pages/2002-mitsubishi/2002-Mitsubishi-pg01.jpg; bbox 1006,184 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈86; verify chip alignment.",
+        "provenanceId": "acl:mitsubishi:2002:H32:1006,184,150x210"
+      }
+    },
+    {
+      "code": "M03",
+      "marketingName": "EC,S",
+      "finish": "solid",
+      "lab": {
+        "L": 34.42,
+        "a": 30.78,
+        "b": 13.51,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2011-Mitsubishi.html). Image data/sources/autocolorlibrary/pages/2011-mitsubishi/2011-Mitsubishi-pg01.jpg; bbox 698,896 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈66; verify chip alignment.",
+        "provenanceId": "acl:mitsubishi:2011:M03:698,896,150x210"
+      }
+    },
+    {
+      "code": "N40",
+      "marketingName": "Factory color N40",
+      "finish": "solid",
+      "lab": {
+        "L": 95.77,
+        "a": -0.33,
+        "b": -0.12,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2002-Mitsubishi.html). Image data/sources/autocolorlibrary/pages/2002-mitsubishi/2002-Mitsubishi-pg01.jpg; bbox 1006,569 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈90; verify chip alignment.",
+        "provenanceId": "acl:mitsubishi:2002:N40:1006,569,150x210"
+      }
+    },
+    {
+      "code": "P19",
+      "marketingName": "Infrared",
+      "finish": "solid",
+      "lab": {
+        "L": 44.39,
+        "a": 28.79,
+        "b": 13.46,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Mitsubishi.html). Image data/sources/autocolorlibrary/pages/2019-mitsubishi/2019_Mitsubishi_01.jpg; bbox 389,649 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈97; verify chip alignment.",
+        "provenanceId": "acl:mitsubishi:2019:P19:389,649,150x210"
+      }
+    },
+    {
+      "code": "P26",
+      "marketingName": "Rally Red",
+      "finish": "solid",
+      "lab": {
+        "L": 43.7,
+        "a": 30.33,
+        "b": 13.11,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Mitsubishi.html). Image data/sources/autocolorlibrary/pages/2019-mitsubishi/2019_Mitsubishi_01.jpg; bbox 799,649 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈97; verify chip alignment.",
+        "provenanceId": "acl:mitsubishi:2019:P26:799,649,150x210"
+      }
+    },
+    {
+      "code": "P36",
+      "marketingName": "ECGS",
+      "finish": "solid",
+      "lab": {
+        "L": 56.35,
+        "a": 20.18,
+        "b": 6.88,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2012-Mitsubishi.html). Image data/sources/autocolorlibrary/pages/2012-mitsubishi/2012-Mitsubishi-pg01.jpg; bbox 1923,902 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈97; verify chip alignment.",
+        "provenanceId": "acl:mitsubishi:2012:P36:1923,902,150x210"
+      }
+    },
+    {
+      "code": "P39",
+      "marketingName": "Factory color P39",
+      "finish": "solid",
+      "lab": {
+        "L": 41.48,
+        "a": 6.82,
+        "b": 1.25,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2013-Mitsubishi.html). Image data/sources/autocolorlibrary/pages/2013-mitsubishi/2013-Mitsubishi-pg02.jpg; bbox 697,910 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈97; verify chip alignment.",
+        "provenanceId": "acl:mitsubishi:2013:P39:697,910,150x210"
+      }
+    },
+    {
+      "code": "P57",
+      "marketingName": "Wine Red",
+      "finish": "solid",
+      "lab": {
+        "L": 37.67,
+        "a": 9.89,
+        "b": 2.48,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Mitsubishi.html). Image data/sources/autocolorlibrary/pages/2019-mitsubishi/2019_Mitsubishi_01.jpg; bbox 1209,648 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈96; verify chip alignment.",
+        "provenanceId": "acl:mitsubishi:2019:P57:1209,648,150x210"
+      }
+    },
+    {
+      "code": "P62",
+      "marketingName": "Red Diamond",
+      "finish": "solid",
+      "lab": {
+        "L": 45.33,
+        "a": 31.58,
+        "b": 12.47,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Mitsubishi.html). Image data/sources/autocolorlibrary/pages/2019-mitsubishi/2019_Mitsubishi_01.jpg; bbox 1617,648 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈97; verify chip alignment.",
+        "provenanceId": "acl:mitsubishi:2019:P62:1617,648,150x210"
+      }
+    },
+    {
+      "code": "R70",
+      "marketingName": "Factory color R70",
+      "finish": "solid",
+      "lab": {
+        "L": 95.05,
+        "a": 1.18,
+        "b": -0.13,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2002-Mitsubishi.html). Image data/sources/autocolorlibrary/pages/2002-mitsubishi/2002-Mitsubishi-pg01.jpg; bbox 1004,2481 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈96; verify chip alignment.",
+        "provenanceId": "acl:mitsubishi:2002:R70:1004,2481,150x210"
+      }
+    },
+    {
+      "code": "R87",
+      "marketingName": "Factory color R87",
+      "finish": "solid",
+      "lab": {
+        "L": 90.97,
+        "a": 0.18,
+        "b": -0.49,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2002-Mitsubishi.html). Image data/sources/autocolorlibrary/pages/2002-mitsubishi/2002-Mitsubishi-pg01.jpg; bbox 1531,184 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈95; verify chip alignment.",
+        "provenanceId": "acl:mitsubishi:2002:R87:1531,184,150x210"
+      }
+    },
+    {
+      "code": "T65",
+      "marketingName": "Factory color T65",
+      "finish": "solid",
+      "lab": {
+        "L": 44.31,
+        "a": 1.86,
+        "b": -3.78,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2008-Mitsubishi.html). Image data/sources/autocolorlibrary/pages/2008-mitsubishi/2008-Mitsubishi-pg01.jpg; bbox 693,2585 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈88; verify chip alignment.",
+        "provenanceId": "acl:mitsubishi:2008:T65:693,2585,150x210"
+      }
+    },
+    {
+      "code": "T69",
+      "marketingName": "Sapphire Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 41.9,
+        "a": -1.82,
+        "b": -16.69,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Mitsubishi.html). Image data/sources/autocolorlibrary/pages/2019-mitsubishi/2019_Mitsubishi_01.jpg; bbox 0,1128 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈81; verify chip alignment.",
+        "provenanceId": "acl:mitsubishi:2019:T69:0,1128,150x210"
+      }
+    },
+    {
+      "code": "T70",
+      "marketingName": "Factory color T70",
+      "finish": "solid",
+      "lab": {
+        "L": 46.65,
+        "a": 6.68,
+        "b": -15.23,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2008-Mitsubishi.html). Image data/sources/autocolorlibrary/pages/2008-mitsubishi/2008-Mitsubishi-pg01.jpg; bbox 1105,2582 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈87; verify chip alignment.",
+        "provenanceId": "acl:mitsubishi:2008:T70:1105,2582,150x210"
+      }
+    },
+    {
+      "code": "U02",
+      "marketingName": "Phantom Black",
+      "finish": "solid",
+      "lab": {
+        "L": 38.6,
+        "a": 1.83,
+        "b": -1.3,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2015-Mitsubishi.html). Image data/sources/autocolorlibrary/pages/2015-mitsubishi/2015-Mitsubishi-pg02.jpg; bbox 284,1466 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈61; verify chip alignment.",
+        "provenanceId": "acl:mitsubishi:2015:U02:284,1466,150x210"
+      }
+    },
+    {
+      "code": "U03",
+      "marketingName": "Factory color U03",
+      "finish": "solid",
+      "lab": {
+        "L": 47.33,
+        "a": 0.62,
+        "b": -1.66,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2009-Mitsubishi.html). Image data/sources/autocolorlibrary/pages/2009-mitsubishi/2009-Mitsubishi-pg01.jpg; bbox 285,2605 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈87; verify chip alignment.",
+        "provenanceId": "acl:mitsubishi:2009:U03:285,2605,150x210"
+      }
+    },
+    {
+      "code": "U04",
+      "marketingName": "Phantom Black Quick Silver",
+      "finish": "solid",
+      "lab": {
+        "L": 66.38,
+        "a": 2.56,
+        "b": -1.43,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2016-Mitsubishi.html). Image data/sources/autocolorlibrary/pages/2016-mitsubishi/2016-Mitsubishi-pg02.jpg; bbox 1098,1459 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈57; verify chip alignment.",
+        "provenanceId": "acl:mitsubishi:2016:U04:1098,1459,150x210"
+      }
+    },
+    {
+      "code": "U09",
+      "marketingName": "Carbon Pearl",
+      "finish": "pearl",
+      "lab": {
+        "L": 48.53,
+        "a": 2.32,
+        "b": -0.42,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2012-Mitsubishi.html). Image data/sources/autocolorlibrary/pages/2012-mitsubishi/2012-Mitsubishi-pg01.jpg; bbox 1512,1467 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈59; verify chip alignment.",
+        "provenanceId": "acl:mitsubishi:2012:U09:1512,1467,150x210"
+      }
+    },
+    {
+      "code": "U17",
+      "marketingName": "Mercury Gray",
+      "finish": "solid",
+      "lab": {
+        "L": 55.48,
+        "a": -0.17,
+        "b": -0.67,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Mitsubishi.html). Image data/sources/autocolorlibrary/pages/2019-mitsubishi/2019_Mitsubishi_01.jpg; bbox 390,1127 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈73; verify chip alignment.",
+        "provenanceId": "acl:mitsubishi:2019:U17:390,1127,150x210"
+      }
+    },
+    {
+      "code": "U25",
+      "marketingName": "Alloy Silver",
+      "finish": "solid",
+      "lab": {
+        "L": 92.5,
+        "a": 0.48,
+        "b": 1.81,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2018-Mitsubishi.html). Image data/sources/autocolorlibrary/pages/2018-mitsubishi/2018-Mitsubishi-pg01.jpg; bbox 760,1332 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈93; verify chip alignment.",
+        "provenanceId": "acl:mitsubishi:2018:U25:760,1332,150x210"
+      }
+    },
+    {
+      "code": "W13",
+      "marketingName": "Diamond White",
+      "finish": "solid",
+      "lab": {
+        "L": 93.55,
+        "a": -1.21,
+        "b": 2.3,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2018-Mitsubishi.html). Image data/sources/autocolorlibrary/pages/2018-mitsubishi/2018-Mitsubishi-pg01.jpg; bbox 1203,1332 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈89; verify chip alignment.",
+        "provenanceId": "acl:mitsubishi:2018:W13:1203,1332,150x210"
+      }
+    },
+    {
+      "code": "W19",
+      "marketingName": "Cloud White",
+      "finish": "solid",
+      "lab": {
+        "L": 88.06,
+        "a": -0.36,
+        "b": 0.98,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2015-Mitsubishi.html). Image data/sources/autocolorlibrary/pages/2015-mitsubishi/2015-Mitsubishi-pg02.jpg; bbox 287,2031 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈43; verify chip alignment.",
+        "provenanceId": "acl:mitsubishi:2015:W19:287,2031,150x210"
+      }
+    },
+    {
+      "code": "W37",
+      "marketingName": "Wicked White",
+      "finish": "solid",
+      "lab": {
+        "L": 89,
+        "a": 0.66,
+        "b": 1.34,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2016-Mitsubishi.html). Image data/sources/autocolorlibrary/pages/2016-mitsubishi/2016-Mitsubishi-pg02.jpg; bbox 1101,2023 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈90; verify chip alignment.",
+        "provenanceId": "acl:mitsubishi:2016:W37:1101,2023,150x210"
+      }
+    },
+    {
+      "code": "W54",
+      "marketingName": "3ct Pearl White 3ct",
+      "finish": "pearl",
+      "lab": {
+        "L": 94.15,
+        "a": -1.72,
+        "b": 2.66,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2018-Mitsubishi.html). Image data/sources/autocolorlibrary/pages/2018-mitsubishi/2018-Mitsubishi-pg01.jpg; bbox 1644,1332 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈74; verify chip alignment.",
+        "provenanceId": "acl:mitsubishi:2018:W54:1644,1332,150x210"
+      }
+    },
+    {
+      "code": "W55",
+      "marketingName": "White 3ct",
+      "finish": "pearl",
+      "lab": {
+        "L": 82.49,
+        "a": 1.89,
+        "b": 1.23,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2016-Mitsubishi.html). Image data/sources/autocolorlibrary/pages/2016-mitsubishi/2016-Mitsubishi-pg02.jpg; bbox 1925,2022 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈91; verify chip alignment.",
+        "provenanceId": "acl:mitsubishi:2016:W55:1925,2022,150x210"
+      }
+    },
+    {
+      "code": "W69",
+      "marketingName": "White Pearl 3ct",
+      "finish": "pearl",
+      "lab": {
+        "L": 85.35,
+        "a": -0.04,
+        "b": 3.32,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2009-Mitsubishi.html). Image data/sources/autocolorlibrary/pages/2009-mitsubishi/2009-Mitsubishi-pg02.jpg; bbox 362,345 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈71; verify chip alignment.",
+        "provenanceId": "acl:mitsubishi:2009:W69:362,345,150x210"
+      }
+    },
+    {
+      "code": "W75",
+      "marketingName": "Factory color W75",
+      "finish": "solid",
+      "lab": {
+        "L": 94.5,
+        "a": 0.16,
+        "b": 0.6,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2002-Mitsubishi.html). Image data/sources/autocolorlibrary/pages/2002-mitsubishi/2002-Mitsubishi-pg02.jpg; bbox 489,166 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈52; verify chip alignment.",
+        "provenanceId": "acl:mitsubishi:2002:W75:489,166,150x210"
+      }
+    },
+    {
+      "code": "WW19",
+      "marketingName": "3ct Cloud White",
+      "finish": "pearl",
+      "lab": {
+        "L": 88.39,
+        "a": -0.54,
+        "b": 1.47,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2016-Mitsubishi.html). Image data/sources/autocolorlibrary/pages/2016-mitsubishi/2016-Mitsubishi-pg02.jpg; bbox 689,2023 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈41; verify chip alignment.",
+        "provenanceId": "acl:mitsubishi:2016:WW19:689,2023,150x210"
+      }
+    },
+    {
+      "code": "X08",
+      "marketingName": "Mystic Black",
+      "finish": "solid",
+      "lab": {
+        "L": 23.52,
+        "a": -0.23,
+        "b": 2.03,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Mitsubishi.html). Image data/sources/autocolorlibrary/pages/2019-mitsubishi/2019_Mitsubishi_01.jpg; bbox 0,1605 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈75; verify chip alignment.",
+        "provenanceId": "acl:mitsubishi:2019:X08:0,1605,150x210"
+      }
+    },
+    {
+      "code": "X13",
+      "marketingName": "Kalapana Black",
+      "finish": "solid",
+      "lab": {
+        "L": 44.62,
+        "a": 1.22,
+        "b": -2.1,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2012-Mitsubishi.html). Image data/sources/autocolorlibrary/pages/2012-mitsubishi/2012-Mitsubishi-pg01.jpg; bbox 1922,2028 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈97; verify chip alignment.",
+        "provenanceId": "acl:mitsubishi:2012:X13:1922,2028,150x210"
+      }
+    },
+    {
+      "code": "X40",
+      "marketingName": "Black",
+      "finish": "solid",
+      "lab": {
+        "L": 35.06,
+        "a": 0.6,
+        "b": 2.19,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Mitsubishi.html). Image data/sources/autocolorlibrary/pages/2019-mitsubishi/2019_Mitsubishi_01.jpg; bbox 387,1605 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈95; verify chip alignment.",
+        "provenanceId": "acl:mitsubishi:2019:X40:387,1605,150x210"
+      }
+    },
+    {
+      "code": "X42",
+      "marketingName": "Tarmac Black",
+      "finish": "solid",
+      "lab": {
+        "L": 35.79,
+        "a": -0.02,
+        "b": 2.62,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Mitsubishi.html). Image data/sources/autocolorlibrary/pages/2019-mitsubishi/2019_Mitsubishi_01.jpg; bbox 797,1605 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈94; verify chip alignment.",
+        "provenanceId": "acl:mitsubishi:2019:X42:797,1605,150x210"
+      }
+    },
+    {
+      "code": "X48",
+      "marketingName": "Factory color X48",
+      "finish": "solid",
+      "lab": {
+        "L": 87.69,
+        "a": -0.34,
+        "b": -0.12,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2002-Mitsubishi.html). Image data/sources/autocolorlibrary/pages/2002-mitsubishi/2002-Mitsubishi-pg02.jpg; bbox 1539,159 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈94; verify chip alignment.",
+        "provenanceId": "acl:mitsubishi:2002:X48:1539,159,150x210"
+      }
+    },
+    {
+      "code": "Y19",
+      "marketingName": "Solar",
+      "finish": "solid",
+      "lab": {
+        "L": 76.69,
+        "a": 20.06,
+        "b": 62.56,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2009-Mitsubishi.html). Image data/sources/autocolorlibrary/pages/2009-mitsubishi/2009-Mitsubishi-pg02.jpg; bbox 1603,343 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈86; verify chip alignment.",
+        "provenanceId": "acl:mitsubishi:2009:Y19:1603,343,150x210"
+      }
+    }
+  ]
+}

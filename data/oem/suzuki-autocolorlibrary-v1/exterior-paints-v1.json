@@ -1,0 +1,109 @@
+{
+  "$schema": "../../../schemas/exterior-paints-v1.schema.json",
+  "scopeId": "suzuki-autocolorlibrary-v1",
+  "version": "1.0.0",
+  "paints": [
+    {
+      "code": "A20",
+      "marketingName": "Red River",
+      "finish": "solid",
+      "lab": {
+        "L": 52.11,
+        "a": 43.99,
+        "b": 15.48,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2010-Suzuki.html). Image data/sources/autocolorlibrary/pages/2010-suzuki/2010-Suzuki-pg01.jpg; bbox 275,341 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈89; verify chip alignment.",
+        "provenanceId": "acl:suzuki:2010:A20:275,341,150x210"
+      }
+    },
+    {
+      "code": "B17",
+      "marketingName": "Bay Blue Pearl",
+      "finish": "pearl",
+      "lab": {
+        "L": 38.91,
+        "a": 9.7,
+        "b": -21.21,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2013-Suzuki.html). Image data/sources/autocolorlibrary/pages/2013-suzuki/2013-Suzuki-pg02.jpg; bbox 284,340 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈97; verify chip alignment.",
+        "provenanceId": "acl:suzuki:2013:B17:284,340,150x210"
+      }
+    },
+    {
+      "code": "K12",
+      "marketingName": "Liquid Metal",
+      "finish": "metallic",
+      "lab": {
+        "L": 81.56,
+        "a": 1.45,
+        "b": -2.86,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2011-Suzuki.html). Image data/sources/autocolorlibrary/pages/2011-suzuki/2011-Suzuki-pg01.jpg; bbox 272,895 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈92; verify chip alignment.",
+        "provenanceId": "acl:suzuki:2011:K12:272,895,150x210"
+      }
+    },
+    {
+      "code": "K23",
+      "marketingName": "Silver Alloy",
+      "finish": "solid",
+      "lab": {
+        "L": 70.65,
+        "a": 1.65,
+        "b": -2.31,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2013-Suzuki.html). Image data/sources/autocolorlibrary/pages/2013-suzuki/2013-Suzuki-pg02.jpg; bbox 696,339 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈93; verify chip alignment.",
+        "provenanceId": "acl:suzuki:2013:K23:696,339,150x210"
+      }
+    },
+    {
+      "code": "K26",
+      "marketingName": "Night Armor",
+      "finish": "solid",
+      "lab": {
+        "L": 43.46,
+        "a": 1.4,
+        "b": -1.41,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2013-Suzuki.html). Image data/sources/autocolorlibrary/pages/2013-suzuki/2013-Suzuki-pg02.jpg; bbox 1109,339 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈92; verify chip alignment.",
+        "provenanceId": "acl:suzuki:2013:K26:1109,339,150x210"
+      }
+    },
+    {
+      "code": "K27",
+      "marketingName": "Granite Grey",
+      "finish": "solid",
+      "lab": {
+        "L": 42.17,
+        "a": 1.23,
+        "b": -2.12,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2010-Suzuki.html). Image data/sources/autocolorlibrary/pages/2010-suzuki/2010-Suzuki-pg01.jpg; bbox 1100,339 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈92; verify chip alignment.",
+        "provenanceId": "acl:suzuki:2010:K27:1100,339,150x210"
+      }
+    }
+  ]
+}

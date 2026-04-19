@@ -1,0 +1,41 @@
+{
+  "$schema": "../../../schemas/exterior-paints-v1.schema.json",
+  "scopeId": "maserati-autocolorlibrary-v1",
+  "version": "1.0.0",
+  "paints": [
+    {
+      "code": "9000",
+      "marketingName": "Factory color 9000",
+      "finish": "solid",
+      "lab": {
+        "L": 73.22,
+        "a": 5.76,
+        "b": 4.39,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/1986-Maserati.html). Image data/sources/autocolorlibrary/pages/1986-maserati/1986-Maserati-pg03.jpg; bbox 146,209 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈51; verify chip alignment.",
+        "provenanceId": "acl:maserati:1986:9000:146,209,150x210"
+      }
+    },
+    {
+      "code": "903",
+      "marketingName": "Factory color 903",
+      "finish": "solid",
+      "lab": {
+        "L": 96.86,
+        "a": -0.18,
+        "b": 0.48,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/1988-Maserati.html). Image data/sources/autocolorlibrary/pages/1988-maserati/1988-Maserati-pg08.jpg; bbox 316,0 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈50; verify chip alignment.",
+        "provenanceId": "acl:maserati:1988:903:316,0,150x210"
+      }
+    }
+  ]
+}

@@ -1,0 +1,1775 @@
+{
+  "$schema": "../../../schemas/exterior-paints-v1.schema.json",
+  "scopeId": "mercedes-benz-autocolorlibrary-v1",
+  "version": "1.0.0",
+  "paints": [
+    {
+      "code": "033",
+      "marketingName": "Designo Mokka Black",
+      "finish": "solid",
+      "lab": {
+        "L": 20.72,
+        "a": -0.46,
+        "b": 1.27,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Mercedes-Benz.html). Image data/sources/autocolorlibrary/pages/2019-mercedes-benz/2019_Mercedes-Benz_01.jpg; bbox 405,171 211×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈93; verify chip alignment.",
+        "provenanceId": "acl:mercedes-benz:2019:033:405,171,211x210"
+      }
+    },
+    {
+      "code": "040",
+      "marketingName": "Black",
+      "finish": "solid",
+      "lab": {
+        "L": 16.96,
+        "a": -0.7,
+        "b": 1.96,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Mercedes-Benz.html). Image data/sources/autocolorlibrary/pages/2019-mercedes-benz/2019_Mercedes-Benz_01.jpg; bbox 815,172 209×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈93; verify chip alignment.",
+        "provenanceId": "acl:mercedes-benz:2019:040:815,172,209x210"
+      }
+    },
+    {
+      "code": "041",
+      "marketingName": "Designo Graphite",
+      "finish": "solid",
+      "lab": {
+        "L": 32.48,
+        "a": -1.47,
+        "b": 1.49,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Mercedes-Benz.html). Image data/sources/autocolorlibrary/pages/2019-mercedes-benz/2019_Mercedes-Benz_01.jpg; bbox 1224,172 207×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈89; verify chip alignment.",
+        "provenanceId": "acl:mercedes-benz:2019:041:1224,172,207x210"
+      }
+    },
+    {
+      "code": "044",
+      "marketingName": "Designo Alanitgrau",
+      "finish": "solid",
+      "lab": {
+        "L": 58.12,
+        "a": -0.54,
+        "b": -0.79,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Mercedes-Benz.html). Image data/sources/autocolorlibrary/pages/2019-mercedes-benz/2019_Mercedes-Benz_01.jpg; bbox 1632,172 211×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈84; verify chip alignment.",
+        "provenanceId": "acl:mercedes-benz:2019:044:1632,172,211x210"
+      }
+    },
+    {
+      "code": "046",
+      "marketingName": "Designo Platinschwarz",
+      "finish": "solid",
+      "lab": {
+        "L": 22.59,
+        "a": 2.23,
+        "b": -2.04,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2015-Mercedes-Benz.html). Image data/sources/autocolorlibrary/pages/2015-mercedes-benz/2015-Mercedesbenz-pg02.jpg; bbox 706,903 213×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈91; verify chip alignment.",
+        "provenanceId": "acl:mercedes-benz:2015:046:706,903,213x210"
+      }
+    },
+    {
+      "code": "049",
+      "marketingName": "Designo Magno",
+      "finish": "matte",
+      "lab": {
+        "L": 97.2,
+        "a": -1.18,
+        "b": 8.76,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Mercedes-Benz.html). Image data/sources/autocolorlibrary/pages/2019-mercedes-benz/2019_Mercedes-Benz_01.jpg; bbox 0,650 212×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈89; verify chip alignment.",
+        "provenanceId": "acl:mercedes-benz:2019:049:0,650,212x210"
+      }
+    },
+    {
+      "code": "056",
+      "marketingName": "Designo Magno Nachtschwarz Designo",
+      "finish": "matte",
+      "lab": {
+        "L": 27.82,
+        "a": 1.51,
+        "b": -1.52,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2015-Mercedes-Benz.html). Image data/sources/autocolorlibrary/pages/2015-mercedes-benz/2015-Mercedesbenz-pg02.jpg; bbox 295,1468 212×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈85; verify chip alignment.",
+        "provenanceId": "acl:mercedes-benz:2015:056:295,1468,212x210"
+      }
+    },
+    {
+      "code": "1147",
+      "marketingName": "Artikweiss",
+      "finish": "solid",
+      "lab": {
+        "L": 86.47,
+        "a": 0.7,
+        "b": -0.86,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2016-Mercedes-Benz.html). Image data/sources/autocolorlibrary/pages/2016-mercedes-benz/2016-Mercedesbenz-pg02.jpg; bbox 1531,891 211×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈0; verify chip alignment.",
+        "provenanceId": "acl:mercedes-benz:2016:1147:1531,891,211x210"
+      }
+    },
+    {
+      "code": "1149",
+      "marketingName": "Polar White",
+      "finish": "solid",
+      "lab": {
+        "L": 90.71,
+        "a": 0.31,
+        "b": 2.3,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2016-Mercedes-Benz.html). Image data/sources/autocolorlibrary/pages/2016-mercedes-benz/2016-Mercedesbenz-pg02.jpg; bbox 1943,890 211×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈0; verify chip alignment.",
+        "provenanceId": "acl:mercedes-benz:2016:1149:1943,890,211x210"
+      }
+    },
+    {
+      "code": "134",
+      "marketingName": "Factory color 134",
+      "finish": "solid",
+      "lab": {
+        "L": 91.82,
+        "a": -0.85,
+        "b": 0.25,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2018-Mercedes-Benz.html). Image data/sources/autocolorlibrary/pages/2018-mercedes-benz/2018-Mercedesbenz-pg01.jpg; bbox 795,829 221×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈91; verify chip alignment.",
+        "provenanceId": "acl:mercedes-benz:2018:134:795,829,221x210"
+      }
+    },
+    {
+      "code": "136",
+      "marketingName": "Factory color 136",
+      "finish": "solid",
+      "lab": {
+        "L": 85.2,
+        "a": 1.01,
+        "b": 2.58,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2013-Mercedes-Benz.html). Image data/sources/autocolorlibrary/pages/2013-mercedes-benz/2013-Mercedesbenz-pg04.jpg; bbox 712,1473 211×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈93; verify chip alignment.",
+        "provenanceId": "acl:mercedes-benz:2013:136:712,1473,211x210"
+      }
+    },
+    {
+      "code": "144",
+      "marketingName": "Digitalweiss",
+      "finish": "solid",
+      "lab": {
+        "L": 35.55,
+        "a": -0.8,
+        "b": -0.28,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Mercedes-Benz.html). Image data/sources/autocolorlibrary/pages/2019-mercedes-benz/2019_Mercedes-Benz_01.jpg; bbox 404,650 210×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈75; verify chip alignment.",
+        "provenanceId": "acl:mercedes-benz:2019:144:404,650,210x210"
+      }
+    },
+    {
+      "code": "147",
+      "marketingName": "Factory color 147",
+      "finish": "solid",
+      "lab": {
+        "L": 92.52,
+        "a": -0.85,
+        "b": 0.25,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2018-Mercedes-Benz.html). Image data/sources/autocolorlibrary/pages/2018-mercedes-benz/2018-Mercedesbenz-pg01.jpg; bbox 1235,828 220×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈87; verify chip alignment.",
+        "provenanceId": "acl:mercedes-benz:2018:147:1235,828,220x210"
+      }
+    },
+    {
+      "code": "149",
+      "marketingName": "Polar White",
+      "finish": "solid",
+      "lab": {
+        "L": 99.28,
+        "a": -0.17,
+        "b": 0.48,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Mercedes-Benz.html). Image data/sources/autocolorlibrary/pages/2019-mercedes-benz/2019_Mercedes-Benz_01.jpg; bbox 814,650 210×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈93; verify chip alignment.",
+        "provenanceId": "acl:mercedes-benz:2019:149:814,650,210x210"
+      }
+    },
+    {
+      "code": "154",
+      "marketingName": "Carbonschwarz Pearl",
+      "finish": "pearl",
+      "lab": {
+        "L": 20.17,
+        "a": 1.59,
+        "b": -1.59,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2013-Mercedes-Benz.html). Image data/sources/autocolorlibrary/pages/2013-mercedes-benz/2013-Mercedesbenz-pg04.jpg; bbox 300,2037 211×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈92; verify chip alignment.",
+        "provenanceId": "acl:mercedes-benz:2013:154:300,2037,211x210"
+      }
+    },
+    {
+      "code": "1599",
+      "marketingName": "Graphite Gray",
+      "finish": "solid",
+      "lab": {
+        "L": 34.25,
+        "a": 1.28,
+        "b": -2.2,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2015-Mercedes-Benz.html). Image data/sources/autocolorlibrary/pages/2015-mercedes-benz/2015-Mercedesbenz-pg03.jpg; bbox 1933,2022 211×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈56; verify chip alignment.",
+        "provenanceId": "acl:mercedes-benz:2015:1599:1933,2022,211x210"
+      }
+    },
+    {
+      "code": "160",
+      "marketingName": "Steingrau",
+      "finish": "solid",
+      "lab": {
+        "L": 59.9,
+        "a": 2.21,
+        "b": 0.79,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2013-Mercedes-Benz.html). Image data/sources/autocolorlibrary/pages/2013-mercedes-benz/2013-Mercedesbenz-pg04.jpg; bbox 712,2037 211×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈78; verify chip alignment.",
+        "provenanceId": "acl:mercedes-benz:2013:160:712,2037,211x210"
+      }
+    },
+    {
+      "code": "162",
+      "marketingName": "South Seas Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 37.24,
+        "a": -2.19,
+        "b": -28.32,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2017-Mercedes-Benz.html). Image data/sources/autocolorlibrary/pages/2017-mercedes-benz/2017-Mercedesbenz-pg02.jpg; bbox 714,1457 210×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈88; verify chip alignment.",
+        "provenanceId": "acl:mercedes-benz:2017:162:714,1457,210x210"
+      }
+    },
+    {
+      "code": "166",
+      "marketingName": "Factory color 166",
+      "finish": "solid",
+      "lab": {
+        "L": 80.5,
+        "a": -63.18,
+        "b": 76.23,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2018-Mercedes-Benz.html). Image data/sources/autocolorlibrary/pages/2018-mercedes-benz/2018-Mercedesbenz-pg01.jpg; bbox 2114,829 220×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈91; verify chip alignment.",
+        "provenanceId": "acl:mercedes-benz:2018:166:2114,829,220x210"
+      }
+    },
+    {
+      "code": "1723",
+      "marketingName": "Cubanitsilber",
+      "finish": "solid",
+      "lab": {
+        "L": 58.57,
+        "a": 3.16,
+        "b": 0.53,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2016-Mercedes-Benz.html). Image data/sources/autocolorlibrary/pages/2016-mercedes-benz/2016-Mercedesbenz-pg03.jpg; bbox 1941,1455 211×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈66; verify chip alignment.",
+        "provenanceId": "acl:mercedes-benz:2016:1723:1941,1455,211x210"
+      }
+    },
+    {
+      "code": "175",
+      "marketingName": "Kryptonite Green",
+      "finish": "solid",
+      "lab": {
+        "L": 56.99,
+        "a": -24.42,
+        "b": 33.13,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2018-Mercedes-Benz.html). Image data/sources/autocolorlibrary/pages/2018-mercedes-benz/2018-Mercedesbenz-pg01.jpg; bbox 354,1339 221×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈89; verify chip alignment.",
+        "provenanceId": "acl:mercedes-benz:2018:175:354,1339,221x210"
+      }
+    },
+    {
+      "code": "1764",
+      "marketingName": "Perl Silver",
+      "finish": "solid",
+      "lab": {
+        "L": 62.48,
+        "a": 3.49,
+        "b": 0.66,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2016-Mercedes-Benz.html). Image data/sources/autocolorlibrary/pages/2016-mercedes-benz/2016-Mercedesbenz-pg03.jpg; bbox 1941,2019 212×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈0; verify chip alignment.",
+        "provenanceId": "acl:mercedes-benz:2016:1764:1941,2019,212x210"
+      }
+    },
+    {
+      "code": "1787",
+      "marketingName": "Mountain Grey",
+      "finish": "solid",
+      "lab": {
+        "L": 44.33,
+        "a": 1.81,
+        "b": -2.52,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2016-Mercedes-Benz.html). Image data/sources/autocolorlibrary/pages/2016-mercedes-benz/2016-Mercedesbenz-pg03.jpg; bbox 704,2583 210×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈49; verify chip alignment.",
+        "provenanceId": "acl:mercedes-benz:2016:1787:704,2583,210x210"
+      }
+    },
+    {
+      "code": "1792",
+      "marketingName": "Palladium Silver",
+      "finish": "solid",
+      "lab": {
+        "L": 53.05,
+        "a": 1.35,
+        "b": -1.36,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2016-Mercedes-Benz.html). Image data/sources/autocolorlibrary/pages/2016-mercedes-benz/2016-Mercedesbenz-pg03.jpg; bbox 1116,2583 210×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈61; verify chip alignment.",
+        "provenanceId": "acl:mercedes-benz:2016:1792:1116,2583,210x210"
+      }
+    },
+    {
+      "code": "183",
+      "marketingName": "Magnetite Black",
+      "finish": "solid",
+      "lab": {
+        "L": 20.23,
+        "a": -0.44,
+        "b": -0.15,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Mercedes-Benz.html). Image data/sources/autocolorlibrary/pages/2019-mercedes-benz/2019_Mercedes-Benz_01.jpg; bbox 1223,650 209×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈93; verify chip alignment.",
+        "provenanceId": "acl:mercedes-benz:2019:183:1223,650,209x210"
+      }
+    },
+    {
+      "code": "191",
+      "marketingName": "Cosmos Black",
+      "finish": "solid",
+      "lab": {
+        "L": 16.9,
+        "a": -0.93,
+        "b": 1.15,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Mercedes-Benz.html). Image data/sources/autocolorlibrary/pages/2019-mercedes-benz/2019_Mercedes-Benz_01.jpg; bbox 1632,650 204×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈88; verify chip alignment.",
+        "provenanceId": "acl:mercedes-benz:2019:191:1632,650,204x210"
+      }
+    },
+    {
+      "code": "197",
+      "marketingName": "Obsidianschwarz",
+      "finish": "solid",
+      "lab": {
+        "L": 14.58,
+        "a": -0.71,
+        "b": 2,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Mercedes-Benz.html). Image data/sources/autocolorlibrary/pages/2019-mercedes-benz/2019_Mercedes-Benz_01.jpg; bbox 0,1128 210×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈93; verify chip alignment.",
+        "provenanceId": "acl:mercedes-benz:2019:197:0,1128,210x210"
+      }
+    },
+    {
+      "code": "243",
+      "marketingName": "Calcite Yellow",
+      "finish": "solid",
+      "lab": {
+        "L": 78.76,
+        "a": 15.09,
+        "b": 67.01,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2012-Mercedes-Benz.html). Image data/sources/autocolorlibrary/pages/2012-mercedes-benz/2012-Mercedesbenz-pg01.jpg; bbox 1946,1463 211×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈91; verify chip alignment.",
+        "provenanceId": "acl:mercedes-benz:2012:243:1946,1463,211x210"
+      }
+    },
+    {
+      "code": "271",
+      "marketingName": "Cintrinbraun Solarbeam",
+      "finish": "solid",
+      "lab": {
+        "L": 29.63,
+        "a": 3.39,
+        "b": 1.23,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2016-Mercedes-Benz.html). Image data/sources/autocolorlibrary/pages/2016-mercedes-benz/2016-Mercedesbenz-pg02.jpg; bbox 709,2022 206×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈65; verify chip alignment.",
+        "provenanceId": "acl:mercedes-benz:2016:271:709,2022,206x210"
+      }
+    },
+    {
+      "code": "278",
+      "marketingName": "Solarbeam Yellow 3ct",
+      "finish": "pearl",
+      "lab": {
+        "L": 68.31,
+        "a": 3.29,
+        "b": 52.94,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Mercedes-Benz.html). Image data/sources/autocolorlibrary/pages/2019-mercedes-benz/2019_Mercedes-Benz_01.jpg; bbox 403,1128 210×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈69; verify chip alignment.",
+        "provenanceId": "acl:mercedes-benz:2019:278:403,1128,210x210"
+      }
+    },
+    {
+      "code": "281",
+      "marketingName": "Shadow Grey",
+      "finish": "solid",
+      "lab": {
+        "L": 40.14,
+        "a": -0.79,
+        "b": -0.28,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Mercedes-Benz.html). Image data/sources/autocolorlibrary/pages/2019-mercedes-benz/2019_Mercedes-Benz_01.jpg; bbox 814,1128 205×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈85; verify chip alignment.",
+        "provenanceId": "acl:mercedes-benz:2019:281:814,1128,205x210"
+      }
+    },
+    {
+      "code": "296",
+      "marketingName": "Dune Silver",
+      "finish": "solid",
+      "lab": {
+        "L": 70.48,
+        "a": -0.33,
+        "b": 7.96,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Mercedes-Benz.html). Image data/sources/autocolorlibrary/pages/2019-mercedes-benz/2019_Mercedes-Benz_01.jpg; bbox 1223,1128 209×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈93; verify chip alignment.",
+        "provenanceId": "acl:mercedes-benz:2019:296:1223,1128,209x210"
+      }
+    },
+    {
+      "code": "297",
+      "marketingName": "Selenitgrau Magno",
+      "finish": "matte",
+      "lab": {
+        "L": 36.79,
+        "a": -0.75,
+        "b": -1.57,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Mercedes-Benz.html). Image data/sources/autocolorlibrary/pages/2019-mercedes-benz/2019_Mercedes-Benz_01.jpg; bbox 1631,1128 209×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈85; verify chip alignment.",
+        "provenanceId": "acl:mercedes-benz:2019:297:1631,1128,209x210"
+      }
+    },
+    {
+      "code": "345",
+      "marketingName": "Japisblau",
+      "finish": "solid",
+      "lab": {
+        "L": 34.48,
+        "a": 7.85,
+        "b": -41.85,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2018-Mercedes-Benz.html). Image data/sources/autocolorlibrary/pages/2018-mercedes-benz/2018-Mercedesbenz-pg01.jpg; bbox 2114,1849 221×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈92; verify chip alignment.",
+        "provenanceId": "acl:mercedes-benz:2018:345:2114,1849,221x210"
+      }
+    },
+    {
+      "code": "362",
+      "marketingName": "Brillantblau Andoritgrau Pearl",
+      "finish": "pearl",
+      "lab": {
+        "L": 49.4,
+        "a": -5.74,
+        "b": -21.23,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2013-Mercedes-Benz.html). Image data/sources/autocolorlibrary/pages/2013-mercedes-benz/2013-Mercedesbenz-pg05.jpg; bbox 692,909 211×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈93; verify chip alignment.",
+        "provenanceId": "acl:mercedes-benz:2013:362:692,909,211x210"
+      }
+    },
+    {
+      "code": "368",
+      "marketingName": "Flintgrau",
+      "finish": "solid",
+      "lab": {
+        "L": 54.47,
+        "a": 0.38,
+        "b": -12.71,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2018-Mercedes-Benz.html). Image data/sources/autocolorlibrary/pages/2018-mercedes-benz/2018-Mercedesbenz-pg01.jpg; bbox 353,2362 221×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈93; verify chip alignment.",
+        "provenanceId": "acl:mercedes-benz:2018:368:353,2362,221x210"
+      }
+    },
+    {
+      "code": "373",
+      "marketingName": "Atlantisblau",
+      "finish": "solid",
+      "lab": {
+        "L": 23.82,
+        "a": 14.12,
+        "b": -38.49,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2018-Mercedes-Benz.html). Image data/sources/autocolorlibrary/pages/2018-mercedes-benz/2018-Mercedesbenz-pg01.jpg; bbox 794,2361 220×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈48; verify chip alignment.",
+        "provenanceId": "acl:mercedes-benz:2018:373:794,2361,220x210"
+      }
+    },
+    {
+      "code": "376",
+      "marketingName": "Amg Performance Green",
+      "finish": "solid",
+      "lab": {
+        "L": 54.51,
+        "a": -30.06,
+        "b": 27.6,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Mercedes-Benz.html). Image data/sources/autocolorlibrary/pages/2019-mercedes-benz/2019_Mercedes-Benz_01.jpg; bbox 0,1606 210×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈93; verify chip alignment.",
+        "provenanceId": "acl:mercedes-benz:2019:376:0,1606,210x210"
+      }
+    },
+    {
+      "code": "389",
+      "marketingName": "Stahlblau",
+      "finish": "solid",
+      "lab": {
+        "L": 23.39,
+        "a": 2,
+        "b": -17.01,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2018-Mercedes-Benz.html). Image data/sources/autocolorlibrary/pages/2018-mercedes-benz/2018-Mercedesbenz-pg01.jpg; bbox 1234,2362 221×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈93; verify chip alignment.",
+        "provenanceId": "acl:mercedes-benz:2018:389:1234,2362,221x210"
+      }
+    },
+    {
+      "code": "432",
+      "marketingName": "Flame Red",
+      "finish": "solid",
+      "lab": {
+        "L": 43.4,
+        "a": 56.86,
+        "b": 28.48,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2011-Mercedes-Benz.html). Image data/sources/autocolorlibrary/pages/2011-mercedes-benz/2011-Mercedesbenz-pg02.jpg; bbox 707,317 211×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈93; verify chip alignment.",
+        "provenanceId": "acl:mercedes-benz:2011:432:707,317,211x210"
+      }
+    },
+    {
+      "code": "474",
+      "marketingName": "Peridot Brown",
+      "finish": "solid",
+      "lab": {
+        "L": 26.15,
+        "a": 1.95,
+        "b": -1.38,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2016-Mercedes-Benz.html). Image data/sources/autocolorlibrary/pages/2016-mercedes-benz/2016-Mercedesbenz-pg03.jpg; bbox 293,326 212×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈78; verify chip alignment.",
+        "provenanceId": "acl:mercedes-benz:2016:474:293,326,212x210"
+      }
+    },
+    {
+      "code": "4938",
+      "marketingName": "a.",
+      "finish": "solid",
+      "lab": {
+        "L": 82.12,
+        "a": -0.03,
+        "b": 3.35,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/1998-Mercedes-Benz.html). Image data/sources/autocolorlibrary/pages/1998-mercedes-benz/1998-Mercedesbenz-pg01.jpg; bbox 312,152 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈64; verify chip alignment.",
+        "provenanceId": "acl:mercedes-benz:1998:4938:312,152,150x210"
+      }
+    },
+    {
+      "code": "524",
+      "marketingName": "Schwarzblau",
+      "finish": "solid",
+      "lab": {
+        "L": 25.16,
+        "a": 1.54,
+        "b": -1.54,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2013-Mercedes-Benz.html). Image data/sources/autocolorlibrary/pages/2013-mercedes-benz/2013-Mercedesbenz-pg05.jpg; bbox 1930,1470 212×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈91; verify chip alignment.",
+        "provenanceId": "acl:mercedes-benz:2013:524:1930,1470,212x210"
+      }
+    },
+    {
+      "code": "526",
+      "marketingName": "Dolomite Brown",
+      "finish": "solid",
+      "lab": {
+        "L": 33.25,
+        "a": -0.19,
+        "b": 4.58,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Mercedes-Benz.html). Image data/sources/autocolorlibrary/pages/2019-mercedes-benz/2019_Mercedes-Benz_01.jpg; bbox 403,1606 210×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈91; verify chip alignment.",
+        "provenanceId": "acl:mercedes-benz:2019:526:403,1606,210x210"
+      }
+    },
+    {
+      "code": "548",
+      "marketingName": "Amber Red",
+      "finish": "solid",
+      "lab": {
+        "L": 34.4,
+        "a": 27.65,
+        "b": 10.16,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2013-Mercedes-Benz.html). Image data/sources/autocolorlibrary/pages/2013-mercedes-benz/2013-Mercedesbenz-pg05.jpg; bbox 1519,2035 211×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈93; verify chip alignment.",
+        "provenanceId": "acl:mercedes-benz:2013:548:1519,2035,211x210"
+      }
+    },
+    {
+      "code": "580",
+      "marketingName": "Granitgrun",
+      "finish": "solid",
+      "lab": {
+        "L": 28.48,
+        "a": 0.45,
+        "b": -1.21,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2015-Mercedes-Benz.html). Image data/sources/autocolorlibrary/pages/2015-mercedes-benz/2015-Mercedesbenz-pg03.jpg; bbox 284,895 211×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈89; verify chip alignment.",
+        "provenanceId": "acl:mercedes-benz:2015:580:284,895,211x210"
+      }
+    },
+    {
+      "code": "583",
+      "marketingName": "Velvet Red",
+      "finish": "solid",
+      "lab": {
+        "L": 24.52,
+        "a": 14.4,
+        "b": 2.47,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2018-Mercedes-Benz.html). Image data/sources/autocolorlibrary/pages/2018-mercedes-benz/2018-Mercedesbenz-pg01.jpg; bbox 354,2873 221×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈93; verify chip alignment.",
+        "provenanceId": "acl:mercedes-benz:2018:583:354,2873,221x210"
+      }
+    },
+    {
+      "code": "585",
+      "marketingName": "Velvet Red Covelline Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 30.07,
+        "a": 1.95,
+        "b": -2.7,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2016-Mercedes-Benz.html). Image data/sources/autocolorlibrary/pages/2016-mercedes-benz/2016-Mercedesbenz-pg03.jpg; bbox 1943,326 211×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈55; verify chip alignment.",
+        "provenanceId": "acl:mercedes-benz:2016:585:1943,326,211x210"
+      }
+    },
+    {
+      "code": "589",
+      "marketingName": "Jupiter Red",
+      "finish": "solid",
+      "lab": {
+        "L": 37.78,
+        "a": 50.19,
+        "b": 28.47,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Mercedes-Benz.html). Image data/sources/autocolorlibrary/pages/2019-mercedes-benz/2019_Mercedes-Benz_01.jpg; bbox 813,1606 210×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈61; verify chip alignment.",
+        "provenanceId": "acl:mercedes-benz:2019:589:813,1606,210x210"
+      }
+    },
+    {
+      "code": "590",
+      "marketingName": "Mars Red Northern Lights Violet",
+      "finish": "solid",
+      "lab": {
+        "L": 36.55,
+        "a": 47.37,
+        "b": 17.83,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2016-Mercedes-Benz.html). Image data/sources/autocolorlibrary/pages/2016-mercedes-benz/2016-Mercedesbenz-pg03.jpg; bbox 706,891 210×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈71; verify chip alignment.",
+        "provenanceId": "acl:mercedes-benz:2016:590:706,891,210x210"
+      }
+    },
+    {
+      "code": "610",
+      "marketingName": "Navy Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 28.74,
+        "a": 2.47,
+        "b": -7.34,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2016-Mercedes-Benz.html). Image data/sources/autocolorlibrary/pages/2016-mercedes-benz/2016-Mercedesbenz-pg03.jpg; bbox 1530,891 211×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈76; verify chip alignment.",
+        "provenanceId": "acl:mercedes-benz:2016:610:1530,891,211x210"
+      }
+    },
+    {
+      "code": "650",
+      "marketingName": "Blue Cirrus White",
+      "finish": "solid",
+      "lab": {
+        "L": 92.18,
+        "a": -2.93,
+        "b": 3.9,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2018-Mercedes-Benz.html). Image data/sources/autocolorlibrary/pages/2018-mercedes-benz/2018-Mercedesbenz-pg01.jpg; bbox 2117,2872 219×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈92; verify chip alignment.",
+        "provenanceId": "acl:mercedes-benz:2018:650:2117,2872,219x210"
+      }
+    },
+    {
+      "code": "660",
+      "marketingName": "Rubellitrot",
+      "finish": "solid",
+      "lab": {
+        "L": 19.03,
+        "a": 4.18,
+        "b": 3.01,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Mercedes-Benz.html). Image data/sources/autocolorlibrary/pages/2019-mercedes-benz/2019_Mercedes-Benz_01.jpg; bbox 1223,1606 209×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈92; verify chip alignment.",
+        "provenanceId": "acl:mercedes-benz:2019:660:1223,1606,209x210"
+      }
+    },
+    {
+      "code": "662",
+      "marketingName": "Mountaingrau Magno",
+      "finish": "matte",
+      "lab": {
+        "L": 44.94,
+        "a": 0.84,
+        "b": -2.23,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Mercedes-Benz.html). Image data/sources/autocolorlibrary/pages/2019-mercedes-benz/2019_Mercedes-Benz_01.jpg; bbox 1631,1606 208×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈93; verify chip alignment.",
+        "provenanceId": "acl:mercedes-benz:2019:662:1631,1606,208x210"
+      }
+    },
+    {
+      "code": "667",
+      "marketingName": "Denimblau",
+      "finish": "solid",
+      "lab": {
+        "L": 23.66,
+        "a": -0.39,
+        "b": -7.9,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Mercedes-Benz.html). Image data/sources/autocolorlibrary/pages/2019-mercedes-benz/2019_Mercedes-Benz_01.jpg; bbox 0,2084 210×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈93; verify chip alignment.",
+        "provenanceId": "acl:mercedes-benz:2019:667:0,2084,210x210"
+      }
+    },
+    {
+      "code": "696",
+      "marketingName": "Night Black",
+      "finish": "solid",
+      "lab": {
+        "L": 19.7,
+        "a": -0.91,
+        "b": 1.13,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Mercedes-Benz.html). Image data/sources/autocolorlibrary/pages/2019-mercedes-benz/2019_Mercedes-Benz_01.jpg; bbox 402,2084 210×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈93; verify chip alignment.",
+        "provenanceId": "acl:mercedes-benz:2019:696:402,2084,210x210"
+      }
+    },
+    {
+      "code": "701",
+      "marketingName": "Antimon Grey",
+      "finish": "solid",
+      "lab": {
+        "L": 75.92,
+        "a": -1.35,
+        "b": -1.61,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2018-Mercedes-Benz.html). Image data/sources/autocolorlibrary/pages/2018-mercedes-benz/2018-Mercedesbenz-pg02.jpg; bbox 1615,319 217×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈64; verify chip alignment.",
+        "provenanceId": "acl:mercedes-benz:2018:701:1615,319,217x210"
+      }
+    },
+    {
+      "code": "708",
+      "marketingName": "Silbergrau",
+      "finish": "solid",
+      "lab": {
+        "L": 64.08,
+        "a": 1.07,
+        "b": -4.94,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2013-Mercedes-Benz.html). Image data/sources/autocolorlibrary/pages/2013-mercedes-benz/2013-Mercedesbenz-pg02.jpg; bbox 1947,346 212×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈83; verify chip alignment.",
+        "provenanceId": "acl:mercedes-benz:2013:708:1947,346,212x210"
+      }
+    },
+    {
+      "code": "709",
+      "marketingName": "Blue Gray",
+      "finish": "solid",
+      "lab": {
+        "L": 53.08,
+        "a": -3.92,
+        "b": -16.08,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2018-Mercedes-Benz.html). Image data/sources/autocolorlibrary/pages/2018-mercedes-benz/2018-Mercedesbenz-pg02.jpg; bbox 2054,320 220×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈91; verify chip alignment.",
+        "provenanceId": "acl:mercedes-benz:2018:709:2054,320,220x210"
+      }
+    },
+    {
+      "code": "7159",
+      "marketingName": "Graphite Gray",
+      "finish": "solid",
+      "lab": {
+        "L": 46.25,
+        "a": -0.07,
+        "b": -6.32,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2018-Mercedes-Benz.html). Image data/sources/autocolorlibrary/pages/2018-mercedes-benz/2018-Mercedesbenz-pg02.jpg; bbox 1615,829 221×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈77; verify chip alignment.",
+        "provenanceId": "acl:mercedes-benz:2018:7159:1615,829,221x210"
+      }
+    },
+    {
+      "code": "723",
+      "marketingName": "Cubanitsilber",
+      "finish": "solid",
+      "lab": {
+        "L": 87.41,
+        "a": 2.59,
+        "b": 5.9,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2018-Mercedes-Benz.html). Image data/sources/autocolorlibrary/pages/2018-mercedes-benz/2018-Mercedesbenz-pg02.jpg; bbox 296,831 220×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈92; verify chip alignment.",
+        "provenanceId": "acl:mercedes-benz:2018:723:296,831,220x210"
+      }
+    },
+    {
+      "code": "744",
+      "marketingName": "Brillantsilber",
+      "finish": "solid",
+      "lab": {
+        "L": 94.35,
+        "a": 0.81,
+        "b": 3.01,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2018-Mercedes-Benz.html). Image data/sources/autocolorlibrary/pages/2018-mercedes-benz/2018-Mercedesbenz-pg02.jpg; bbox 735,831 221×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈80; verify chip alignment.",
+        "provenanceId": "acl:mercedes-benz:2018:744:735,831,221x210"
+      }
+    },
+    {
+      "code": "755",
+      "marketingName": "Steel Grey",
+      "finish": "solid",
+      "lab": {
+        "L": 40.59,
+        "a": 0.71,
+        "b": -10.09,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2018-Mercedes-Benz.html). Image data/sources/autocolorlibrary/pages/2018-mercedes-benz/2018-Mercedesbenz-pg02.jpg; bbox 1175,831 220×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈72; verify chip alignment.",
+        "provenanceId": "acl:mercedes-benz:2018:755:1175,831,220x210"
+      }
+    },
+    {
+      "code": "759",
+      "marketingName": "Graphite Gray",
+      "finish": "solid",
+      "lab": {
+        "L": 33.39,
+        "a": 1.29,
+        "b": -2.21,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2016-Mercedes-Benz.html). Image data/sources/autocolorlibrary/pages/2016-mercedes-benz/2016-Mercedesbenz-pg03.jpg; bbox 1117,2019 210×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈58; verify chip alignment.",
+        "provenanceId": "acl:mercedes-benz:2016:759:1117,2019,210x210"
+      }
+    },
+    {
+      "code": "761",
+      "marketingName": "Polar Silver",
+      "finish": "solid",
+      "lab": {
+        "L": 93.45,
+        "a": -1.33,
+        "b": -0.47,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2018-Mercedes-Benz.html). Image data/sources/autocolorlibrary/pages/2018-mercedes-benz/2018-Mercedesbenz-pg02.jpg; bbox 2055,829 215×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈91; verify chip alignment.",
+        "provenanceId": "acl:mercedes-benz:2018:761:2055,829,215x210"
+      }
+    },
+    {
+      "code": "764",
+      "marketingName": "Perl Silver",
+      "finish": "solid",
+      "lab": {
+        "L": 95.05,
+        "a": -1.06,
+        "b": 5.06,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2018-Mercedes-Benz.html). Image data/sources/autocolorlibrary/pages/2018-mercedes-benz/2018-Mercedesbenz-pg02.jpg; bbox 294,1341 222×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈91; verify chip alignment.",
+        "provenanceId": "acl:mercedes-benz:2018:764:294,1341,222x210"
+      }
+    },
+    {
+      "code": "7715",
+      "marketingName": "Iridium Silver",
+      "finish": "solid",
+      "lab": {
+        "L": 74.42,
+        "a": 0.22,
+        "b": -1.64,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Mercedes-Benz.html). Image data/sources/autocolorlibrary/pages/2019-mercedes-benz/2019_Mercedes-Benz_01.jpg; bbox 812,2084 210×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈63; verify chip alignment.",
+        "provenanceId": "acl:mercedes-benz:2019:7715:812,2084,210x210"
+      }
+    },
+    {
+      "code": "787",
+      "marketingName": "Mountain Grey",
+      "finish": "solid",
+      "lab": {
+        "L": 41.79,
+        "a": -1.01,
+        "b": 1.56,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Mercedes-Benz.html). Image data/sources/autocolorlibrary/pages/2019-mercedes-benz/2019_Mercedes-Benz_01.jpg; bbox 1222,2084 209×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈65; verify chip alignment.",
+        "provenanceId": "acl:mercedes-benz:2019:787:1222,2084,209x210"
+      }
+    },
+    {
+      "code": "792",
+      "marketingName": "Palladium Silver",
+      "finish": "solid",
+      "lab": {
+        "L": 76.3,
+        "a": -2.86,
+        "b": -2.7,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2018-Mercedes-Benz.html). Image data/sources/autocolorlibrary/pages/2018-mercedes-benz/2018-Mercedesbenz-pg02.jpg; bbox 1615,1340 221×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈80; verify chip alignment.",
+        "provenanceId": "acl:mercedes-benz:2018:792:1615,1340,221x210"
+      }
+    },
+    {
+      "code": "795",
+      "marketingName": "Maganite Grey",
+      "finish": "solid",
+      "lab": {
+        "L": 46.5,
+        "a": 3.72,
+        "b": 1.97,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2015-Mercedes-Benz.html). Image data/sources/autocolorlibrary/pages/2015-mercedes-benz/2015-Mercedesbenz-pg04.jpg; bbox 299,339 211×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈92; verify chip alignment.",
+        "provenanceId": "acl:mercedes-benz:2015:795:299,339,211x210"
+      }
+    },
+    {
+      "code": "796",
+      "marketingName": "Dakota Brown",
+      "finish": "solid",
+      "lab": {
+        "L": 27.84,
+        "a": 0.91,
+        "b": 4.43,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Mercedes-Benz.html). Image data/sources/autocolorlibrary/pages/2019-mercedes-benz/2019_Mercedes-Benz_01.jpg; bbox 1631,2084 208×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈93; verify chip alignment.",
+        "provenanceId": "acl:mercedes-benz:2019:796:1631,2084,208x210"
+      }
+    },
+    {
+      "code": "798",
+      "marketingName": "Factory color 798",
+      "finish": "solid",
+      "lab": {
+        "L": 80.87,
+        "a": 2.98,
+        "b": 13.95,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2018-Mercedes-Benz.html). Image data/sources/autocolorlibrary/pages/2018-mercedes-benz/2018-Mercedesbenz-pg02.jpg; bbox 295,1851 220×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈89; verify chip alignment.",
+        "provenanceId": "acl:mercedes-benz:2018:798:295,1851,220x210"
+      }
+    },
+    {
+      "code": "799",
+      "marketingName": "Designo Mysticweiss",
+      "finish": "solid",
+      "lab": {
+        "L": 97.52,
+        "a": -1.2,
+        "b": 7.67,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Mercedes-Benz.html). Image data/sources/autocolorlibrary/pages/2019-mercedes-benz/2019_Mercedes-Benz_01.jpg; bbox 0,2562 192×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈91; verify chip alignment.",
+        "provenanceId": "acl:mercedes-benz:2019:799:0,2562,192x210"
+      }
+    },
+    {
+      "code": "813",
+      "marketingName": "3ct B",
+      "finish": "pearl",
+      "lab": {
+        "L": 19.89,
+        "a": 9.67,
+        "b": -22.49,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Mercedes-Benz.html). Image data/sources/autocolorlibrary/pages/2019-mercedes-benz/2019_Mercedes-Benz_01.jpg; bbox 401,2562 210×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈41; verify chip alignment.",
+        "provenanceId": "acl:mercedes-benz:2019:813:401,2562,210x210"
+      }
+    },
+    {
+      "code": "818",
+      "marketingName": "C,GT",
+      "finish": "solid",
+      "lab": {
+        "L": 30.38,
+        "a": -1.05,
+        "b": 0.31,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Mercedes-Benz.html). Image data/sources/autocolorlibrary/pages/2019-mercedes-benz/2019_Mercedes-Benz_01.jpg; bbox 812,2562 210×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈93; verify chip alignment.",
+        "provenanceId": "acl:mercedes-benz:2019:818:812,2562,210x210"
+      }
+    },
+    {
+      "code": "830",
+      "marketingName": "MET,SPR,V",
+      "finish": "metallic",
+      "lab": {
+        "L": 25.4,
+        "a": -12.08,
+        "b": -10.71,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2018-Mercedes-Benz.html). Image data/sources/autocolorlibrary/pages/2018-mercedes-benz/2018-Mercedesbenz-pg02.jpg; bbox 1175,1852 220×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈92; verify chip alignment.",
+        "provenanceId": "acl:mercedes-benz:2018:830:1175,1852,220x210"
+      }
+    },
+    {
+      "code": "831",
+      "marketingName": "Factory color 831",
+      "finish": "solid",
+      "lab": {
+        "L": 27.06,
+        "a": -0.22,
+        "b": 0.61,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Mercedes-Benz.html). Image data/sources/autocolorlibrary/pages/2019-mercedes-benz/2019_Mercedes-Benz_01.jpg; bbox 1222,2562 205×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈91; verify chip alignment.",
+        "provenanceId": "acl:mercedes-benz:2019:831:1222,2562,205x210"
+      }
+    },
+    {
+      "code": "859",
+      "marketingName": "Factory color 859",
+      "finish": "solid",
+      "lab": {
+        "L": 55.18,
+        "a": -0.21,
+        "b": 2.96,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Mercedes-Benz.html). Image data/sources/autocolorlibrary/pages/2019-mercedes-benz/2019_Mercedes-Benz_01.jpg; bbox 1631,2562 209×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈93; verify chip alignment.",
+        "provenanceId": "acl:mercedes-benz:2019:859:1631,2562,209x210"
+      }
+    },
+    {
+      "code": "890",
+      "marketingName": "Lunar Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 16.3,
+        "a": 1.26,
+        "b": -3.26,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Mercedes-Benz.html). Image data/sources/autocolorlibrary/pages/2019-mercedes-benz/2019_Mercedes-Benz_02.jpg; bbox 173,173 210×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈63; verify chip alignment.",
+        "provenanceId": "acl:mercedes-benz:2019:890:173,173,210x210"
+      }
+    },
+    {
+      "code": "894",
+      "marketingName": "Universe Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 36.36,
+        "a": -2.1,
+        "b": -6.64,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2016-Mercedes-Benz.html). Image data/sources/autocolorlibrary/pages/2016-mercedes-benz/2016-Mercedesbenz-pg04.jpg; bbox 1945,318 212×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈45; verify chip alignment.",
+        "provenanceId": "acl:mercedes-benz:2016:894:1945,318,212x210"
+      }
+    },
+    {
+      "code": "895",
+      "marketingName": "Canyonbeige",
+      "finish": "solid",
+      "lab": {
+        "L": 71.72,
+        "a": 9.15,
+        "b": 37.16,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2018-Mercedes-Benz.html). Image data/sources/autocolorlibrary/pages/2018-mercedes-benz/2018-Mercedesbenz-pg02.jpg; bbox 294,2363 221×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈91; verify chip alignment.",
+        "provenanceId": "acl:mercedes-benz:2018:895:294,2363,221x210"
+      }
+    },
+    {
+      "code": "896",
+      "marketingName": "Brillantblau",
+      "finish": "solid",
+      "lab": {
+        "L": 21.16,
+        "a": 7.32,
+        "b": -22.51,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Mercedes-Benz.html). Image data/sources/autocolorlibrary/pages/2019-mercedes-benz/2019_Mercedes-Benz_02.jpg; bbox 583,173 210×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈91; verify chip alignment.",
+        "provenanceId": "acl:mercedes-benz:2019:896:583,173,210x210"
+      }
+    },
+    {
+      "code": "897",
+      "marketingName": "Ruby Black Sonnengelb",
+      "finish": "solid",
+      "lab": {
+        "L": 20.18,
+        "a": 1.14,
+        "b": 2.56,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Mercedes-Benz.html). Image data/sources/autocolorlibrary/pages/2019-mercedes-benz/2019_Mercedes-Benz_02.jpg; bbox 993,173 209×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈93; verify chip alignment.",
+        "provenanceId": "acl:mercedes-benz:2019:897:993,173,209x210"
+      }
+    },
+    {
+      "code": "922",
+      "marketingName": "Hightech Silber",
+      "finish": "solid",
+      "lab": {
+        "L": 66.65,
+        "a": -1.08,
+        "b": -4.48,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Mercedes-Benz.html). Image data/sources/autocolorlibrary/pages/2019-mercedes-benz/2019_Mercedes-Benz_02.jpg; bbox 1808,172 208×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈93; verify chip alignment.",
+        "provenanceId": "acl:mercedes-benz:2019:922:1808,172,208x210"
+      }
+    },
+    {
+      "code": "948",
+      "marketingName": "Pearl Carneolrot Pearl Amber Red",
+      "finish": "pearl",
+      "lab": {
+        "L": 33.92,
+        "a": 27.37,
+        "b": 12.04,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2011-Mercedes-Benz.html). Image data/sources/autocolorlibrary/pages/2011-mercedes-benz/2011-Mercedesbenz-pg02.jpg; bbox 1944,879 212×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈64; verify chip alignment.",
+        "provenanceId": "acl:mercedes-benz:2011:948:1944,879,212x210"
+      }
+    },
+    {
+      "code": "957",
+      "marketingName": "Vanda Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 30.19,
+        "a": 4.23,
+        "b": -14.82,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2013-Mercedes-Benz.html). Image data/sources/autocolorlibrary/pages/2013-mercedes-benz/2013-Mercedesbenz-pg02.jpg; bbox 1540,2603 210×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈93; verify chip alignment.",
+        "provenanceId": "acl:mercedes-benz:2013:957:1540,2603,210x210"
+      }
+    },
+    {
+      "code": "960",
+      "marketingName": "Alabasterweiss",
+      "finish": "solid",
+      "lab": {
+        "L": 99.68,
+        "a": 0.18,
+        "b": -0.48,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2009-Mercedes-Benz.html). Image data/sources/autocolorlibrary/pages/2009-mercedes-benz/2009-Mercedesbenz-pg02.jpg; bbox 1560,1477 174×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈96; verify chip alignment.",
+        "provenanceId": "acl:mercedes-benz:2009:960:1560,1477,174x210"
+      }
+    },
+    {
+      "code": "963",
+      "marketingName": "Indium Grey Designo Iridium Silver",
+      "finish": "solid",
+      "lab": {
+        "L": 34.46,
+        "a": -0.41,
+        "b": 3.82,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Mercedes-Benz.html). Image data/sources/autocolorlibrary/pages/2019-mercedes-benz/2019_Mercedes-Benz_02.jpg; bbox 173,651 210×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈93; verify chip alignment.",
+        "provenanceId": "acl:mercedes-benz:2019:963:173,651,210x210"
+      }
+    },
+    {
+      "code": "967",
+      "marketingName": "Hibiscus Red",
+      "finish": "solid",
+      "lab": {
+        "L": 40.61,
+        "a": 61.85,
+        "b": 27.39,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2018-Mercedes-Benz.html). Image data/sources/autocolorlibrary/pages/2018-mercedes-benz/2018-Mercedesbenz-pg02.jpg; bbox 2057,2363 220×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈93; verify chip alignment.",
+        "provenanceId": "acl:mercedes-benz:2018:967:2057,2363,220x210"
+      }
+    },
+    {
+      "code": "980",
+      "marketingName": "Granitgrun",
+      "finish": "solid",
+      "lab": {
+        "L": 24.98,
+        "a": -2.81,
+        "b": -7.25,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2018-Mercedes-Benz.html). Image data/sources/autocolorlibrary/pages/2018-mercedes-benz/2018-Mercedesbenz-pg01.jpg; bbox 2115,2360 220×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈84; verify chip alignment.",
+        "provenanceId": "acl:mercedes-benz:2018:980:2115,2360,220x210"
+      }
+    },
+    {
+      "code": "982",
+      "marketingName": "Iridium Silver",
+      "finish": "solid",
+      "lab": {
+        "L": 75.65,
+        "a": -0.82,
+        "b": -2,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Mercedes-Benz.html). Image data/sources/autocolorlibrary/pages/2019-mercedes-benz/2019_Mercedes-Benz_02.jpg; bbox 547,637 245×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈0; verify chip alignment.",
+        "provenanceId": "acl:mercedes-benz:2019:982:547,637,245x210"
+      }
+    },
+    {
+      "code": "986",
+      "marketingName": "Silver Luzonit Grey",
+      "finish": "solid",
+      "lab": {
+        "L": 41.27,
+        "a": 4.19,
+        "b": 0.88,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2015-Mercedes-Benz.html). Image data/sources/autocolorlibrary/pages/2015-mercedes-benz/2015-Mercedesbenz-pg04.jpg; bbox 1123,1468 211×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈93; verify chip alignment.",
+        "provenanceId": "acl:mercedes-benz:2015:986:1123,1468,211x210"
+      }
+    },
+    {
+      "code": "988",
+      "marketingName": "Diamond Silver",
+      "finish": "solid",
+      "lab": {
+        "L": 66.19,
+        "a": -1.42,
+        "b": -4.6,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Mercedes-Benz.html). Image data/sources/autocolorlibrary/pages/2019-mercedes-benz/2019_Mercedes-Benz_02.jpg; bbox 993,650 209×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈93; verify chip alignment.",
+        "provenanceId": "acl:mercedes-benz:2019:988:993,650,209x210"
+      }
+    },
+    {
+      "code": "989",
+      "marketingName": "Emerald Green",
+      "finish": "solid",
+      "lab": {
+        "L": 21.7,
+        "a": 0,
+        "b": 0,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Mercedes-Benz.html). Image data/sources/autocolorlibrary/pages/2019-mercedes-benz/2019_Mercedes-Benz_02.jpg; bbox 1402,650 209×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈93; verify chip alignment.",
+        "provenanceId": "acl:mercedes-benz:2019:989:1402,650,209x210"
+      }
+    },
+    {
+      "code": "990",
+      "marketingName": "Orient Brown",
+      "finish": "solid",
+      "lab": {
+        "L": 22.38,
+        "a": 2.55,
+        "b": 4.47,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Mercedes-Benz.html). Image data/sources/autocolorlibrary/pages/2019-mercedes-benz/2019_Mercedes-Benz_02.jpg; bbox 1807,650 209×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈93; verify chip alignment.",
+        "provenanceId": "acl:mercedes-benz:2019:990:1807,650,209x210"
+      }
+    },
+    {
+      "code": "991",
+      "marketingName": "Silver Magno",
+      "finish": "matte",
+      "lab": {
+        "L": 90.88,
+        "a": -1.6,
+        "b": -2.76,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2018-Mercedes-Benz.html). Image data/sources/autocolorlibrary/pages/2018-mercedes-benz/2018-Mercedesbenz-pg02.jpg; bbox 2058,2876 216×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈91; verify chip alignment.",
+        "provenanceId": "acl:mercedes-benz:2018:991:2058,2876,216x210"
+      }
+    },
+    {
+      "code": "992",
+      "marketingName": "Selenitgrau",
+      "finish": "solid",
+      "lab": {
+        "L": 42.87,
+        "a": 0.39,
+        "b": 0.14,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Mercedes-Benz.html). Image data/sources/autocolorlibrary/pages/2019-mercedes-benz/2019_Mercedes-Benz_02.jpg; bbox 173,1129 209×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈93; verify chip alignment.",
+        "provenanceId": "acl:mercedes-benz:2019:992:173,1129,209x210"
+      }
+    },
+    {
+      "code": "993",
+      "marketingName": "Patagonia Red",
+      "finish": "solid",
+      "lab": {
+        "L": 29.09,
+        "a": 40.29,
+        "b": 21.29,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Mercedes-Benz.html). Image data/sources/autocolorlibrary/pages/2019-mercedes-benz/2019_Mercedes-Benz_02.jpg; bbox 581,1129 210×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈91; verify chip alignment.",
+        "provenanceId": "acl:mercedes-benz:2019:993:581,1129,210x210"
+      }
+    },
+    {
+      "code": "996",
+      "marketingName": "Cardinal Red",
+      "finish": "solid",
+      "lab": {
+        "L": 31.42,
+        "a": 39.06,
+        "b": 19.9,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Mercedes-Benz.html). Image data/sources/autocolorlibrary/pages/2019-mercedes-benz/2019_Mercedes-Benz_02.jpg; bbox 992,1129 210×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈92; verify chip alignment.",
+        "provenanceId": "acl:mercedes-benz:2019:996:992,1129,210x210"
+      }
+    },
+    {
+      "code": "997",
+      "marketingName": "Kallaitblau",
+      "finish": "solid",
+      "lab": {
+        "L": 19.71,
+        "a": 1.59,
+        "b": -1.6,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2017-Mercedes-Benz.html). Image data/sources/autocolorlibrary/pages/2017-mercedes-benz/2017-Mercedesbenz-pg04.jpg; bbox 1135,2026 210×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈65; verify chip alignment.",
+        "provenanceId": "acl:mercedes-benz:2017:997:1135,2026,210x210"
+      }
+    },
+    {
+      "code": "998",
+      "marketingName": "Anthracite Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 18.25,
+        "a": -0.82,
+        "b": -1.75,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Mercedes-Benz.html). Image data/sources/autocolorlibrary/pages/2019-mercedes-benz/2019_Mercedes-Benz_02.jpg; bbox 1402,1128 208×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈75; verify chip alignment.",
+        "provenanceId": "acl:mercedes-benz:2019:998:1402,1128,208x210"
+      }
+    },
+    {
+      "code": "9990",
+      "marketingName": "Orientbraun Polar",
+      "finish": "solid",
+      "lab": {
+        "L": 30.26,
+        "a": 2.52,
+        "b": -0.45,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2015-Mercedes-Benz.html). Image data/sources/autocolorlibrary/pages/2015-mercedes-benz/2015-Mercedesbenz-pg04.jpg; bbox 299,2032 210×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈0; verify chip alignment.",
+        "provenanceId": "acl:mercedes-benz:2015:9990:299,2032,210x210"
+      }
+    },
+    {
+      "code": "DBO04",
+      "marketingName": "Factory color DBO04",
+      "finish": "solid",
+      "lab": {
+        "L": 79.39,
+        "a": -0.71,
+        "b": 0.88,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/1979-Mercedes-Benz.html). Image data/sources/autocolorlibrary/pages/1979-mercedes-benz/1979-Mercedesbenz-pg03.jpg; bbox 148,100 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈0; verify chip alignment.",
+        "provenanceId": "acl:mercedes-benz:1979:DBO04:148,100,150x210"
+      }
+    },
+    {
+      "code": "OA717",
+      "marketingName": "Factory color OA717",
+      "finish": "solid",
+      "lab": {
+        "L": 76.8,
+        "a": -0.26,
+        "b": 10.1,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/1979-Mercedes-Benz.html). Image data/sources/autocolorlibrary/pages/1979-mercedes-benz/1979-Mercedesbenz-pg03.jpg; bbox 240,100 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈0; verify chip alignment.",
+        "provenanceId": "acl:mercedes-benz:1979:OA717:240,100,150x210"
+      }
+    }
+  ]
+}
