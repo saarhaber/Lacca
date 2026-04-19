@@ -32,6 +32,8 @@ import "./lib/syncConsole.js";
  *   tsx scripts/fetch-paintref-all.ts --concurrency 2           # OEM-level parallelism (default 2)
  *   tsx scripts/fetch-paintref-all.ts --delay-ms 750            # politeness delay between requests
  *   tsx scripts/fetch-paintref-all.ts --shtml-merge false       # omit LiteSpeed .shtml merge (default on: bypasses CGI 503s)
+ *   tsx scripts/fetch-paintref-all.ts --static-only             # skip live CGI + Wayback; only LiteSpeed .shtml (needs vPIC models)
+ *   tsx scripts/fetch-paintref-all.ts --form-year-model-scan     # pilot: only OEMs in PAINTREF_HOMEPAGE_FORM_OEMS — vPIC model × year via homepage form CGI (no bulk advanced-search first)
  *
  * Cache layout:
  *   data/sources/paintref/raw/<slug>[--<hash>].json  — parsed rows (from paintref.ts)
@@ -56,7 +58,9 @@ import {
   type ChipSampleLookup,
   type PaintRefEntry,
   PAINTREF_OEMS,
+  PAINTREF_HOMEPAGE_FORM_OEMS,
   fetchPaintRefEntries,
+  paintRefUsesHomepageFormCgi,
   looksLikeName,
   mergePaintRefEntries,
   paintRefEntryToSeed,
@@ -110,6 +114,15 @@ const SHTML_ENRICH = args["shtml-enrich"] === "true";
 // the flaky CGI for pages served as `.shtml` (more HTTP volume; set false for dev).
 const SHTML_MERGE = args["shtml-merge"] !== "false";
 const SHTML_DELAY_MS = Math.max(0, parseInt(args["shtml-delay-ms"] ?? "200", 10));
+/** Skip `fetchPaintRefEntries` entirely (no CGI, no Wayback). Use when live PaintRef is overloaded / IP-throttled. Requires vPIC `oem-scope.json` models for `.shtml` URLs. */
+const STATIC_ONLY = args["static-only"] === "true";
+/**
+ * Pilot: for OEMs listed in `PAINTREF_HOMEPAGE_FORM_OEMS` (see paintref.ts), skip
+ * the bulk live fetch and issue one `fetchPaintRefEntries` per (vPIC model × year)
+ * so each request can use homepage form CGI (`action=Get+Paint+Codes`). Requires
+ * `data/oem/<slug>-vpic-v1/oem-scope.json` models.
+ */
+const FORM_YEAR_MODEL_SCAN = args["form-year-model-scan"] === "true";
 // Only used for log messaging — mirrors the COLORS list inside paintrefStaticShtml.ts.
 const STATIC_COLORS = 11;
 
@@ -173,45 +186,95 @@ async function fetchAllEntries(oem: string): Promise<PaintRefEntry[]> {
     ? { yearFrom: YEAR_FROM, yearTo: YEAR_TO }
     : undefined;
 
-  // The live CGI endpoint is unreliable (Apache 2.2.3 often 503s for hours
-  // at a time). We always attempt it first, but catch failures and fall
-  // through to the static-shtml fallback so a single bad OEM pass doesn't
-  // terminate the run. Whichever source(s) succeed get merged.
+  const modelsForStatic = loadVpicModels(oem);
   let liveErr: unknown;
-  try {
-    const base = await fetchPaintRefEntries(oem, {
-      forceRefresh: FORCE_REFRESH,
-      mode: MODE,
-      filters: yearFilters
-    });
-    batches.push(base);
-  } catch (err) {
-    liveErr = err;
-    const msg = err instanceof Error ? err.message : String(err);
-    console.warn(`  [paintref] ${oem} advanced-search failed, will try static-shtml: ${msg}`);
-  }
 
-  if (SCAN_MODELS) {
+  if (STATIC_ONLY) {
+    console.log(
+      `  [paintref] static-only: skipping live PaintRef (CGI + Wayback) and per-model CGI queries for ${oem}`
+    );
+    liveErr = new Error("PaintRef live fetch skipped (--static-only)");
+  } else if (FORM_YEAR_MODEL_SCAN && paintRefUsesHomepageFormCgi(oem)) {
+    console.log(
+      `  [paintref] --form-year-model-scan: skipping bulk advanced-search; using homepage form CGI for each vPIC model × year (${YEAR_FROM}–${YEAR_TO}) for ${oem}`
+    );
     const models = loadVpicModels(oem);
     if (models.length === 0) {
-      console.log(`  [paintref] --scan-models: no vPIC models for ${oem}, skipping`);
+      liveErr = new Error(
+        `--form-year-model-scan needs vPIC models under data/oem/${oemSlug(oem)}-vpic-v1/oem-scope.json (or *-benz-vpic-v1)`
+      );
     } else {
+      const from = Math.min(YEAR_FROM, YEAR_TO);
+      const to = Math.max(YEAR_FROM, YEAR_TO);
+      const nYears = to - from + 1;
       console.log(
-        `  [paintref] --scan-models: issuing ${models.length} per-model queries for ${oem}`
+        `  [paintref] --form-year-model-scan: ${models.length} models × ${nYears} years (${models.length * nYears} requests)`
       );
       for (const model of models) {
-        try {
-          const extra = await fetchPaintRefEntries(oem, {
-            forceRefresh: FORCE_REFRESH,
-            mode: MODE,
-            filters: { model }
-          });
-          batches.push(extra);
-        } catch (err) {
-          const msg = err instanceof Error ? err.message : String(err);
-          console.warn(`  [paintref] ${oem} model="${model}": ${msg}`);
+        for (let y = from; y <= to; y++) {
+          try {
+            const rows = await fetchPaintRefEntries(oem, {
+              forceRefresh: FORCE_REFRESH,
+              mode: MODE,
+              filters: { model, year: y }
+            });
+            if (rows.length > 0) batches.push(rows);
+          } catch (err) {
+            const msg = err instanceof Error ? err.message : String(err);
+            console.warn(`  [paintref] ${oem} model="${model}" year=${y}: ${msg}`);
+          }
+          if (DELAY_MS > 0) await sleep(DELAY_MS);
         }
-        if (DELAY_MS > 0) await sleep(DELAY_MS);
+      }
+      if (batches.length === 0) {
+        liveErr = new Error("form-year-model-scan returned no batches (all requests failed or empty)");
+      }
+    }
+  } else {
+    if (FORM_YEAR_MODEL_SCAN && !paintRefUsesHomepageFormCgi(oem)) {
+      console.warn(
+        `  [paintref] --form-year-model-scan ignored for ${oem} (pilot list: ${PAINTREF_HOMEPAGE_FORM_OEMS.join(", ")}); using standard live fetch`
+      );
+    }
+    // The live CGI endpoint is unreliable (Apache 2.2.3 often 503s for hours
+    // at a time). We always attempt it first, but catch failures and fall
+    // through to the static-shtml fallback so a single bad OEM pass doesn't
+    // terminate the run. Whichever source(s) succeed get merged.
+    try {
+      const base = await fetchPaintRefEntries(oem, {
+        forceRefresh: FORCE_REFRESH,
+        mode: MODE,
+        filters: yearFilters
+      });
+      batches.push(base);
+    } catch (err) {
+      liveErr = err;
+      const msg = err instanceof Error ? err.message : String(err);
+      console.warn(`  [paintref] ${oem} advanced-search failed, will try static-shtml: ${msg}`);
+    }
+
+    if (SCAN_MODELS) {
+      const models = loadVpicModels(oem);
+      if (models.length === 0) {
+        console.log(`  [paintref] --scan-models: no vPIC models for ${oem}, skipping`);
+      } else {
+        console.log(
+          `  [paintref] --scan-models: issuing ${models.length} per-model queries for ${oem}`
+        );
+        for (const model of models) {
+          try {
+            const extra = await fetchPaintRefEntries(oem, {
+              forceRefresh: FORCE_REFRESH,
+              mode: MODE,
+              filters: { model }
+            });
+            batches.push(extra);
+          } catch (err) {
+            const msg = err instanceof Error ? err.message : String(err);
+            console.warn(`  [paintref] ${oem} model="${model}": ${msg}`);
+          }
+          if (DELAY_MS > 0) await sleep(DELAY_MS);
+        }
       }
     }
   }
@@ -222,10 +285,13 @@ async function fetchAllEntries(oem: string): Promise<PaintRefEntry[]> {
   // `paintref_hex` seeds via the existing downstream pipeline. We run this
   // unconditionally when the live CGI fetch failed, and opportunistically
   // when `--shtml-enrich` is passed (off by default, to keep the polite
-  // request budget small when live is healthy).
-  const modelsForStatic = loadVpicModels(oem);
+  // request budget small when live is healthy). `--static-only` forces this
+  // path and never hits the network via `fetchPaintRefEntries`.
   const shouldStatic =
-    liveErr || SHTML_ENRICH || (SHTML_MERGE && modelsForStatic.length > 0);
+    STATIC_ONLY ||
+    liveErr ||
+    SHTML_ENRICH ||
+    (SHTML_MERGE && modelsForStatic.length > 0);
   if (shouldStatic) {
     const models = modelsForStatic;
     if (models.length > 0) {
@@ -241,11 +307,20 @@ async function fetchAllEntries(oem: string): Promise<PaintRefEntry[]> {
         const msg = err instanceof Error ? err.message : String(err);
         console.warn(`  [paintref] ${oem} static-shtml failed: ${msg}`);
       }
+    } else if (STATIC_ONLY) {
+      throw new Error(
+        `static-only needs vPIC models under data/oem/${oemSlug(oem)}-vpic-v1/oem-scope.json ` +
+          `(or *-benz-vpic-v1); none found for ${oem}`
+      );
     }
   }
 
   if (batches.length === 0) {
-    // Re-throw live error so the caller records this OEM as failed.
+    if (STATIC_ONLY) {
+      throw new Error(
+        `static-only: no .shtml rows for ${oem} (${modelsForStatic.length} vPIC models were probed)`
+      );
+    }
     throw liveErr ?? new Error(`no data sources produced entries for ${oem}`);
   }
 
@@ -384,7 +459,7 @@ async function processOem(oem: string): Promise<Result> {
   // Resume support: if a full scope exists we skip — unless `--scan-models`
   // is on, in which case we re-run fetch (year pulls are usually cache-cold
   // fast; per-model queries add new rows). --force-refresh always re-fetches.
-  if (!FORCE_REFRESH && !SCAN_MODELS) {
+  if (!FORCE_REFRESH && !SCAN_MODELS && !FORM_YEAR_MODEL_SCAN) {
     const existingScope = join(repoRoot(), "data/oem", scopeId, "exterior-paints-v1.json");
     if (existsSync(existingScope)) {
       try {
@@ -560,7 +635,8 @@ async function main() {
     `\nBatch PaintRef fetch for ${OEMS.length} OEM${OEMS.length === 1 ? "" : "s"} ` +
       `(concurrency=${CONCURRENCY}, delay=${DELAY_MS}ms, forceRefresh=${FORCE_REFRESH}, ` +
       `dryRun=${DRY_RUN}, mode=${MODE}, scanYears=${SCAN_YEARS}, scanModels=${SCAN_MODELS}, ` +
-      `sampleChips=${SAMPLE_CHIPS}, chipConcurrency=${CHIP_CONCURRENCY}, shtmlMerge=${SHTML_MERGE}).`
+      `formYearModelScan=${FORM_YEAR_MODEL_SCAN}, sampleChips=${SAMPLE_CHIPS}, chipConcurrency=${CHIP_CONCURRENCY}, shtmlMerge=${SHTML_MERGE}, ` +
+      `staticOnly=${STATIC_ONLY}).`
   );
 
   const results = await runBatch();

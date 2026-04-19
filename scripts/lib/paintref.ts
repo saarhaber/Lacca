@@ -1,13 +1,16 @@
 /**
  * Reusable PaintRef (paintref.com) client with on-disk caching.
  *
- * Two retrieval strategies:
+ * Retrieval strategies:
  *
  *   1. `colordata.cgi` JSON endpoint (preferred when live — may include LAB).
  *   2. `colorcodedisplay.cgi` / `colorcodedisplaym.cgi` advanced-search HTML
- *      (paginated, supports model/year/keyword filters). Hex-only, so
- *      confidence caps at "derived", but the rows carry make/model/year
- *      context that we preserve on the emitted seeds.
+ *      (paginated `rows`/`page`, supports model/year/keyword filters).
+ *   3. Homepage form submission shape: same CGI with `action=Get+Paint+Codes`,
+ *      `gncl=All`, and explicit `year`+`make`+`model` (no pagination). Used as
+ *      the first attempt for OEMs in `PAINTREF_HOMEPAGE_FORM_OEMS` when both
+ *      year and model are present — sometimes succeeds when the paginated
+ *      query returns Apache overload HTML.
  *
  * `mode`:
  *   - "auto"     (default): JSON first, advanced-search fallback.
@@ -253,6 +256,7 @@ async function fetchFromJsonEndpoint(oem: string): Promise<PaintRefEntry[]> {
     throw new Error(`json endpoint returned ${res.status} ${res.statusText}`);
   }
   const text = await res.text();
+  assertNotPaintRefOverloadBody(text, "json-candidate");
   let parsed: unknown;
   try {
     parsed = JSON.parse(text);
@@ -273,6 +277,39 @@ async function fetchFromJsonEndpoint(oem: string): Promise<PaintRefEntry[]> {
 
 /* ---------------------------- Advanced search ---------------------------- */
 
+/** Genuine empty search result — not an overload error. */
+function isPaintRefZeroRecordsHtml(html: string): boolean {
+  return /\b0\s+records\s+found\b/i.test(html);
+}
+
+/**
+ * PaintRef's CGI often returns HTTP 200 with an error document in the body.
+ * For `json-candidate` bodies we only match explicit overload phrases so a
+ * minimal `[]` / `{...}` payload is never misclassified.
+ */
+function isPaintRefOverloadBody(raw: string, kind: "html" | "json-candidate"): boolean {
+  if (isPaintRefZeroRecordsHtml(raw)) return false;
+  const lower = raw.toLowerCase();
+  if (
+    lower.includes("508 insufficient resource") ||
+    lower.includes("503 service unavailable") ||
+    lower.includes("limit reached") ||
+    lower.includes("database error")
+  ) {
+    return true;
+  }
+  if (kind === "json-candidate") return false;
+  const looksLikeTable = raw.includes("<table");
+  const mentionsPaintref = lower.includes("paintref");
+  return !looksLikeTable && !mentionsPaintref;
+}
+
+function assertNotPaintRefOverloadBody(raw: string, kind: "html" | "json-candidate"): void {
+  if (isPaintRefOverloadBody(raw, kind)) {
+    throw new Error("HTTP 508/503 (Fake 200): PaintRef CGI is overloaded.");
+  }
+}
+
 async function fetchFromAdvancedSearch(
   oem: string,
   filters?: AdvancedSearchFilters
@@ -290,6 +327,22 @@ async function fetchFromAdvancedSearch(
   const BREAK_AFTER_EMPTY = 4;
 
   const runQuery = async (extra: Record<string, string>) => {
+    if (shouldTryHomepageFormCgiFirst(oem, extra)) {
+      const html = await fetchHomepageFormHtml(oem, extra.year!, extra.model!);
+      if (html && !isPaintRefZeroRecordsHtml(html)) {
+        const parsed = parseAdvancedSearchHtml(html, oem);
+        if (parsed.length > 0) {
+          consecutiveEmpty = 0;
+          for (const e of parsed) mergeEntry(aggregate, e);
+          await sleep(ADVANCED_DELAY_MS);
+          return parsed.length;
+        }
+      }
+      console.log(
+        `  [paintref] ${oem}: homepage form-CGI got no rows for year=${extra.year} model=${extra.model}; trying paginated advanced-search`
+      );
+    }
+
     let totalRows = 0;
     for (let page = 1; page <= maxPages; page++) {
       const params: Record<string, string> = {
@@ -307,6 +360,9 @@ async function fetchFromAdvancedSearch(
           `  [paintref] ${oem}: no usable HTML for year=${params.year ?? "?"} page=${page} (PaintRef down / rate-limited and no Wayback hit)`
         );
         consecutiveEmpty++;
+        break;
+      }
+      if (isPaintRefZeroRecordsHtml(html)) {
         break;
       }
       const parsed = parseAdvancedSearchHtml(html, oem);
@@ -367,9 +423,39 @@ async function fetchFromAdvancedSearch(
   return [...aggregate.values()];
 }
 
-async function fetchAdvancedHtml(
-  params: Record<string, string>
+/**
+ * OEMs for which we try the homepage "Get Paint Codes" query shape before
+ * paginated `rows`/`page` advanced-search when both `year` and `model` are set.
+ * Expand deliberately — confirm form CGI works for each make on live PaintRef.
+ */
+export const PAINTREF_HOMEPAGE_FORM_OEMS = ["Ford"] as const;
+
+export function paintRefUsesHomepageFormCgi(oem: string): boolean {
+  return (PAINTREF_HOMEPAGE_FORM_OEMS as readonly string[]).includes(oem);
+}
+
+function shouldTryHomepageFormCgiFirst(oem: string, extra: Record<string, string>): boolean {
+  return paintRefUsesHomepageFormCgi(oem) && !!extra.year && !!extra.model;
+}
+
+/** Same CGI as advanced-search, but matches the public homepage form POST target. */
+async function fetchHomepageFormHtml(
+  oem: string,
+  year: string,
+  model: string
 ): Promise<string | null> {
+  const params: Record<string, string> = {
+    year,
+    make: oem,
+    model,
+    gncl: "All",
+    action: "Get Paint Codes"
+  };
+  console.log(`  [paintref] homepage form-CGI make=${oem} year=${year} model=${model}`);
+  return fetchColorDisplayHtml(params);
+}
+
+async function fetchColorDisplayHtml(params: Record<string, string>): Promise<string | null> {
   const qs = new URLSearchParams(params).toString();
   // Extra `http://` endpoint: sometimes still routed differently from the
   // overloaded CGI worker behind HTTPS. Single-try on hard 503/508 — retries
@@ -407,14 +493,9 @@ async function fetchAdvancedHtml(
           break;
         }
         const html = await res.text();
-        // 200 OK with an error document — same as above: fail fast to other URLs / Wayback.
-        if (
-          html.includes("508 Insufficient Resource") ||
-          html.includes("503 Service Unavailable")
-        ) {
-          lastErr = "503/508 in body";
-          continue urlLoop;
-        }
+        // Fail fast on CGI overload pages (HTTP 200 + error body) so callers can
+        // retry/back off instead of parsing empty tables or caching bad results.
+        assertNotPaintRefOverloadBody(html, "html");
         return html;
       } catch (err) {
         lastErr = err instanceof Error ? err.message : String(err);
@@ -431,15 +512,23 @@ async function fetchAdvancedHtml(
   // reliable way to progress. We try the exact URL first, then a couple of
   // degraded variants (strip year, strip model) before giving up.
   const y = params.year ?? "?";
-  const pg = params.page ?? "?";
+  const loc = params.page
+    ? `page=${params.page}`
+    : params.action
+      ? `form model=${params.model ?? "?"}`
+      : "?";
   console.log(
-    `  [paintref] live PaintRef exhausted for ${params.make} year=${y} page=${pg} (${lastErr ?? "no response"}) → trying archive.org (often 30–120s of silence per page if IA is slow)`
+    `  [paintref] live PaintRef exhausted for ${params.make} year=${y} ${loc} (${lastErr ?? "no response"}) → trying archive.org (often 30–120s of silence per page if IA is slow)`
   );
   const wb = await fetchAdvancedHtmlFromWayback(params, qs);
   if (wb) return wb;
 
   if (lastErr) console.warn(`  [paintref] advanced fetch failed: ${lastErr} (wayback also empty)`);
   return null;
+}
+
+async function fetchAdvancedHtml(params: Record<string, string>): Promise<string | null> {
+  return fetchColorDisplayHtml(params);
 }
 
 /**
@@ -509,11 +598,7 @@ async function fetchAdvancedHtmlFromWayback(
           });
           if (!res.ok) continue;
           const html = await res.text();
-          if (
-            html.includes("508 Insufficient Resource") ||
-            html.includes("503 Service Unavailable")
-          )
-            continue;
+          if (isPaintRefOverloadBody(html, "html")) continue;
           if (!/class="(odd|even)"/.test(html)) continue;
           console.log(`  [paintref] wayback hit (${html.length} bytes)`);
           return html;

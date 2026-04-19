@@ -1,0 +1,46 @@
+{
+  "generatedAt": "2026-04-18T17:35:16.734Z",
+  "modelYear": 2023,
+  "delayMs": 300,
+  "makeCount": 3,
+  "VPIC_BASE": "https://vpic.nhtsa.dot.gov/api",
+  "index": [
+    {
+      "make": "Toyota",
+      "anyColorPaths": true,
+      "endpoints": [
+        "GetModelsForMake",
+        "GetModelsForMakeYear",
+        "GetVehicleTypesForMake",
+        "GetMakeForManufacturer",
+        "GetWMIsForManufacturer",
+        "GetCanadianVehicleSpecifications"
+      ]
+    },
+    {
+      "make": "Honda",
+      "anyColorPaths": false,
+      "endpoints": [
+        "GetModelsForMake",
+        "GetModelsForMakeYear",
+        "GetVehicleTypesForMake",
+        "GetMakeForManufacturer",
+        "GetWMIsForManufacturer",
+        "GetCanadianVehicleSpecifications"
+      ]
+    },
+    {
+      "make": "Pagani",
+      "anyColorPaths": false,
+      "endpoints": [
+        "GetModelsForMake",
+        "GetModelsForMakeYear",
+        "GetVehicleTypesForMake",
+        "GetMakeForManufacturer",
+        "GetWMIsForManufacturer",
+        "GetCanadianVehicleSpecifications"
+      ]
+    }
+  ],
+  "note": "Per-make JSON under by-make/. Check colorPaths in each file; GetCanadianVehicleSpecifications returns body dimensions, not paint."
+}

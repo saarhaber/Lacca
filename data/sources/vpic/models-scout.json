@@ -1,0 +1,10 @@
+{
+  "oem": "Scout",
+  "fetchedAt": "2026-04-18T17:06:28.033Z",
+  "models": [
+    "Scout1",
+    "Scout2",
+    "ScoutA",
+    "ScoutB"
+  ]
+}

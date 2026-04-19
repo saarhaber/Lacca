@@ -1,0 +1,466 @@
+{
+  "0b5d5a2d26c3a457": {
+    "hex": "#344682",
+    "rgb": [
+      52,
+      70,
+      130
+    ],
+    "pixels": 306,
+    "stdDev": [
+      2.3,
+      2.3,
+      2.3
+    ],
+    "url": "https://www.paintref.com/chipimages/DFFS35.png",
+    "sampledAt": "2026-04-18T19:53:47.826Z"
+  },
+  "1f437854e2d31a87": {
+    "hex": "#010101",
+    "rgb": [
+      1,
+      1,
+      1
+    ],
+    "pixels": 306,
+    "stdDev": [
+      1.54,
+      1.54,
+      1.54
+    ],
+    "url": "https://www.paintref.com/chipimages/GGGGGG.png",
+    "sampledAt": "2026-04-18T19:53:47.453Z"
+  },
+  "30fb634b6e42cc15": {
+    "hex": "#544499",
+    "rgb": [
+      84,
+      68,
+      153
+    ],
+    "pixels": 306,
+    "stdDev": [
+      2.3,
+      2.3,
+      2.3
+    ],
+    "url": "https://www.paintref.com/chipimages/WFFFCC.png",
+    "sampledAt": "2026-04-18T19:53:47.685Z"
+  },
+  "36279288320f72aa": {
+    "hex": "#575C65",
+    "rgb": [
+      87,
+      92,
+      101
+    ],
+    "pixels": 306,
+    "stdDev": [
+      2.3,
+      2.3,
+      2.3
+    ],
+    "url": "https://www.paintref.com/chipimages/W2WHSW.png",
+    "sampledAt": "2026-04-18T19:53:47.794Z"
+  },
+  "3fe682d2e2989c9e": {
+    "hex": "#EAEAEA",
+    "rgb": [
+      234,
+      234,
+      234
+    ],
+    "pixels": 306,
+    "stdDev": [
+      2.3,
+      2.3,
+      2.3
+    ],
+    "url": "https://www.paintref.com/chipimages/UEUEUE.png",
+    "sampledAt": "2026-04-18T19:53:47.643Z"
+  },
+  "5228fa28e3ed0f61": {
+    "hex": "#8C8899",
+    "rgb": [
+      140,
+      136,
+      153
+    ],
+    "pixels": 306,
+    "stdDev": [
+      2.3,
+      2.3,
+      2.3
+    ],
+    "url": "https://www.paintref.com/chipimages/3H33CC.png",
+    "sampledAt": "2026-04-18T19:53:47.541Z"
+  },
+  "52bd2abd5c97e8cc": {
+    "hex": "#CBD1D6",
+    "rgb": [
+      203,
+      209,
+      214
+    ],
+    "pixels": 306,
+    "stdDev": [
+      2.3,
+      2.3,
+      2.3
+    ],
+    "url": "https://www.paintref.com/chipimages/HTAXAS.png",
+    "sampledAt": "2026-04-18T19:53:47.592Z"
+  },
+  "5e069976eae4b17b": {
+    "hex": "#1D2125",
+    "rgb": [
+      29,
+      33,
+      37
+    ],
+    "pixels": 306,
+    "stdDev": [
+      2.3,
+      2.3,
+      2.3
+    ],
+    "url": "https://www.paintref.com/chipimages/XA5X5W.png",
+    "sampledAt": "2026-04-18T19:53:47.498Z"
+  },
+  "6c6f2b9e6916c57f": {
+    "hex": "#454646",
+    "rgb": [
+      69,
+      70,
+      70
+    ],
+    "pixels": 306,
+    "stdDev": [
+      2.3,
+      2.3,
+      2.3
+    ],
+    "url": "https://www.paintref.com/chipimages/FWFSFS.png",
+    "sampledAt": "2026-04-18T19:53:47.748Z"
+  },
+  "73d192699c7b9719": {
+    "hex": "#203040",
+    "rgb": [
+      32,
+      48,
+      64
+    ],
+    "pixels": 306,
+    "stdDev": [
+      2.3,
+      2.3,
+      2.3
+    ],
+    "url": "https://www.paintref.com/chipimages/5GDGFG.png",
+    "sampledAt": "2026-04-18T19:53:47.696Z"
+  },
+  "745ca993a21375c3": {
+    "hex": "#DDDBCE",
+    "rgb": [
+      221,
+      219,
+      206
+    ],
+    "pixels": 306,
+    "stdDev": [
+      2.3,
+      2.3,
+      2.3
+    ],
+    "url": "https://www.paintref.com/chipimages/AAATHU.png",
+    "sampledAt": "2026-04-18T19:53:47.749Z"
+  },
+  "759f72c6ff1da519": {
+    "hex": "#101010",
+    "rgb": [
+      16,
+      16,
+      16
+    ],
+    "pixels": 306,
+    "stdDev": [
+      2.3,
+      2.3,
+      2.3
+    ],
+    "url": "https://www.paintref.com/chipimages/XGXGXG.png",
+    "sampledAt": "2026-04-18T19:53:47.686Z"
+  },
+  "7d17d387c5634d06": {
+    "hex": "#3C2E7A",
+    "rgb": [
+      60,
+      46,
+      122
+    ],
+    "pixels": 306,
+    "stdDev": [
+      2.3,
+      2.3,
+      2.3
+    ],
+    "url": "https://www.paintref.com/chipimages/DH5U2E.png",
+    "sampledAt": "2026-04-18T19:53:47.591Z"
+  },
+  "864862b7b653dece": {
+    "hex": "#3A3156",
+    "rgb": [
+      58,
+      49,
+      86
+    ],
+    "pixels": 306,
+    "stdDev": [
+      2.3,
+      2.3,
+      2.3
+    ],
+    "url": "https://www.paintref.com/chipimages/DEDXWS.png",
+    "sampledAt": "2026-04-18T19:53:47.634Z"
+  },
+  "882a9b768a7d73d4": {
+    "hex": "#605E62",
+    "rgb": [
+      96,
+      94,
+      98
+    ],
+    "pixels": 306,
+    "stdDev": [
+      2.3,
+      2.3,
+      2.3
+    ],
+    "url": "https://www.paintref.com/chipimages/SGWUS5.png",
+    "sampledAt": "2026-04-18T19:53:47.644Z"
+  },
+  "9aab1d1e066cea54": {
+    "hex": "#642B26",
+    "rgb": [
+      100,
+      43,
+      38
+    ],
+    "pixels": 306,
+    "stdDev": [
+      2.3,
+      2.3,
+      2.3
+    ],
+    "url": "https://www.paintref.com/chipimages/SF5T5S.png",
+    "sampledAt": "2026-04-18T19:53:47.817Z"
+  },
+  "aabbe3f5d95f4c92": {
+    "hex": "#1B3321",
+    "rgb": [
+      27,
+      51,
+      33
+    ],
+    "pixels": 306,
+    "stdDev": [
+      2.3,
+      2.3,
+      2.3
+    ],
+    "url": "https://www.paintref.com/chipimages/XTDD5X.png",
+    "sampledAt": "2026-04-18T19:53:47.776Z"
+  },
+  "aef189c0e6576dd0": {
+    "hex": "#5D6466",
+    "rgb": [
+      93,
+      100,
+      102
+    ],
+    "pixels": 306,
+    "stdDev": [
+      2.3,
+      2.3,
+      2.3
+    ],
+    "url": "https://www.paintref.com/chipimages/WASFSS.png",
+    "sampledAt": "2026-04-18T19:53:47.643Z"
+  },
+  "b517b44c5593c7aa": {
+    "hex": "#302129",
+    "rgb": [
+      48,
+      33,
+      41
+    ],
+    "pixels": 306,
+    "stdDev": [
+      2.3,
+      2.3,
+      2.3
+    ],
+    "url": "https://www.paintref.com/chipimages/DG5X5C.png",
+    "sampledAt": "2026-04-18T19:53:47.737Z"
+  },
+  "b84141c0a5ee4274": {
+    "hex": "#42221A",
+    "rgb": [
+      66,
+      34,
+      26
+    ],
+    "pixels": 306,
+    "stdDev": [
+      2.3,
+      2.3,
+      2.3
+    ],
+    "url": "https://www.paintref.com/chipimages/F555XE.png",
+    "sampledAt": "2026-04-18T19:53:47.782Z"
+  },
+  "c206204086908ea5": {
+    "hex": "#011036",
+    "rgb": [
+      1,
+      16,
+      54
+    ],
+    "pixels": 306,
+    "stdDev": [
+      1.61,
+      2.3,
+      2.3
+    ],
+    "url": "https://www.paintref.com/chipimages/GXXGDS.png",
+    "sampledAt": "2026-04-18T19:53:47.732Z"
+  },
+  "d2953caf5c3c7e18": {
+    "hex": "#100D55",
+    "rgb": [
+      16,
+      13,
+      85
+    ],
+    "pixels": 306,
+    "stdDev": [
+      2.3,
+      2.3,
+      2.3
+    ],
+    "url": "https://www.paintref.com/chipimages/XGGAWW.png",
+    "sampledAt": "2026-04-18T19:53:47.803Z"
+  },
+  "d3de5ceec100acf5": {
+    "hex": "#B0B0B0",
+    "rgb": [
+      176,
+      176,
+      176
+    ],
+    "pixels": 306,
+    "stdDev": [
+      2.3,
+      2.3,
+      2.3
+    ],
+    "url": "https://www.paintref.com/chipimages/TGTGTG.png",
+    "sampledAt": "2026-04-18T19:53:47.695Z"
+  },
+  "d3f80e8d7416ebaa": {
+    "hex": "#99958E",
+    "rgb": [
+      153,
+      149,
+      142
+    ],
+    "pixels": 306,
+    "stdDev": [
+      2.3,
+      2.3,
+      2.3
+    ],
+    "url": "https://www.paintref.com/chipimages/CCCW3U.png",
+    "sampledAt": "2026-04-18T19:53:47.541Z"
+  },
+  "dd616fd8c32c768e": {
+    "hex": "#175454",
+    "rgb": [
+      23,
+      84,
+      84
+    ],
+    "pixels": 306,
+    "stdDev": [
+      2.3,
+      2.3,
+      2.3
+    ],
+    "url": "https://www.paintref.com/chipimages/X2WFWF.png",
+    "sampledAt": "2026-04-18T19:53:47.498Z"
+  },
+  "e15cfd5d6569e3a1": {
+    "hex": "#D9DED3",
+    "rgb": [
+      217,
+      222,
+      211
+    ],
+    "pixels": 306,
+    "stdDev": [
+      2.3,
+      2.3,
+      2.3
+    ],
+    "url": "https://www.paintref.com/chipimages/ACAUAD.png",
+    "sampledAt": "2026-04-18T19:53:47.599Z"
+  },
+  "f00da1398fbb7737": {
+    "hex": "#DDD3C3",
+    "rgb": [
+      221,
+      211,
+      195
+    ],
+    "pixels": 306,
+    "stdDev": [
+      2.3,
+      2.3,
+      2.3
+    ],
+    "url": "https://www.paintref.com/chipimages/AAADHD.png",
+    "sampledAt": "2026-04-18T19:53:47.592Z"
+  },
+  "f4b04a792a1f45f1": {
+    "hex": "#888E93",
+    "rgb": [
+      136,
+      142,
+      147
+    ],
+    "pixels": 306,
+    "stdDev": [
+      2.3,
+      2.3,
+      2.3
+    ],
+    "url": "https://www.paintref.com/chipimages/333UCD.png",
+    "sampledAt": "2026-04-18T19:53:47.843Z"
+  },
+  "f8d72f3e10a0888c": {
+    "hex": "#747474",
+    "rgb": [
+      116,
+      116,
+      116
+    ],
+    "pixels": 306,
+    "stdDev": [
+      2.3,
+      2.3,
+      2.3
+    ],
+    "url": "https://www.paintref.com/chipimages/2F2F2F.png",
+    "sampledAt": "2026-04-18T19:53:47.685Z"
+  }
+}

@@ -1,0 +1,247 @@
+{
+  "make": "Pagani",
+  "modelYear": 2023,
+  "data": {
+    "GetModelsForMake": {
+      "url": "https://vpic.nhtsa.dot.gov/api/vehicles/GetModelsForMake/Pagani?format=json",
+      "status": 200,
+      "topKeys": [
+        "Count",
+        "Message",
+        "Results",
+        "SearchCriteria"
+      ],
+      "count": 2,
+      "message": "Response returned successfully",
+      "resultsSummary": {
+        "length": 2,
+        "firstKeys": [
+          "Make_ID",
+          "Make_Name",
+          "Model_ID",
+          "Model_Name"
+        ],
+        "firstSample": {
+          "Make_ID": 4767,
+          "Make_Name": "Pagani",
+          "Model_ID": 10444,
+          "Model_Name": "Huayra"
+        }
+      },
+      "colorPaths": []
+    },
+    "GetModelsForMakeYear": {
+      "url": "https://vpic.nhtsa.dot.gov/api/vehicles/GetModelsForMakeYear/make/Pagani/modelyear/2023?format=json",
+      "status": 200,
+      "topKeys": [
+        "Count",
+        "Message",
+        "Results",
+        "SearchCriteria"
+      ],
+      "count": 1,
+      "message": "Results returned successfully",
+      "resultsSummary": {
+        "length": 1,
+        "firstKeys": [
+          "Make_ID",
+          "Make_Name",
+          "Model_ID",
+          "Model_Name"
+        ],
+        "firstSample": {
+          "Make_ID": 4767,
+          "Make_Name": "PAGANI",
+          "Model_ID": 10444,
+          "Model_Name": "Huayra"
+        }
+      },
+      "colorPaths": []
+    },
+    "GetVehicleTypesForMake": {
+      "url": "https://vpic.nhtsa.dot.gov/api/vehicles/GetVehicleTypesForMake/Pagani?format=json",
+      "status": 200,
+      "topKeys": [
+        "Count",
+        "Message",
+        "Results",
+        "SearchCriteria"
+      ],
+      "count": 1,
+      "message": "Response returned successfully",
+      "resultsSummary": {
+        "length": 1,
+        "firstKeys": [
+          "MakeId",
+          "MakeName",
+          "VehicleTypeId",
+          "VehicleTypeName"
+        ],
+        "firstSample": {
+          "MakeId": 4767,
+          "MakeName": "PAGANI",
+          "VehicleTypeId": 2,
+          "VehicleTypeName": "Passenger Car"
+        }
+      },
+      "colorPaths": []
+    },
+    "GetMakeForManufacturer": {
+      "url": "https://vpic.nhtsa.dot.gov/api/vehicles/GetMakeForManufacturer/Pagani?format=json",
+      "status": 200,
+      "topKeys": [
+        "Count",
+        "Message",
+        "Results",
+        "SearchCriteria"
+      ],
+      "count": 1,
+      "message": "Results returned successfully",
+      "resultsSummary": {
+        "length": 1,
+        "firstKeys": [
+          "Make_ID",
+          "Make_Name",
+          "Mfr_Name"
+        ],
+        "firstSample": {
+          "Make_ID": 4767,
+          "Make_Name": "PAGANI",
+          "Mfr_Name": "PAGANI SPA"
+        }
+      },
+      "colorPaths": []
+    },
+    "GetWMIsForManufacturer": {
+      "url": "https://vpic.nhtsa.dot.gov/api/vehicles/GetWMIsForManufacturer/Pagani?format=json",
+      "status": 200,
+      "topKeys": [
+        "Count",
+        "Message",
+        "Results",
+        "SearchCriteria"
+      ],
+      "count": 1,
+      "message": "Response returned successfully",
+      "resultsSummary": {
+        "length": 1,
+        "firstKeys": [
+          "Country",
+          "CreatedOn",
+          "DateAvailableToPublic",
+          "Id",
+          "Name",
+          "UpdatedOn",
+          "VehicleType",
+          "WMI"
+        ],
+        "firstSample": {
+          "Country": "ITALY",
+          "CreatedOn": "2016-03-02",
+          "DateAvailableToPublic": "2016-03-02",
+          "Id": 7176,
+          "Name": "PAGANI SPA",
+          "UpdatedOn": null,
+          "VehicleType": "Passenger Car",
+          "WMI": "ZA9F76"
+        }
+      },
+      "colorPaths": []
+    },
+    "GetCanadianVehicleSpecifications": {
+      "url": "https://vpic.nhtsa.dot.gov/api/vehicles/GetCanadianVehicleSpecifications/?year=2023&make=Pagani&format=json",
+      "status": 200,
+      "topKeys": [
+        "Count",
+        "Message",
+        "Results",
+        "SearchCriteria"
+      ],
+      "count": 1,
+      "message": "Results returned successfully",
+      "resultsSummary": {
+        "length": 1,
+        "firstKeys": [
+          "Specs"
+        ],
+        "firstSample": {
+          "Specs": [
+            {
+              "Name": "Make",
+              "Value": "PAGANI"
+            },
+            {
+              "Name": "Model",
+              "Value": "HUAYRA"
+            },
+            {
+              "Name": "MYR",
+              "Value": "15"
+            },
+            {
+              "Name": "OL",
+              "Value": "461"
+            },
+            {
+              "Name": "OW",
+              "Value": "204"
+            },
+            {
+              "Name": "OH",
+              "Value": "117"
+            },
+            {
+              "Name": "WB",
+              "Value": "280"
+            },
+            {
+              "Name": "CW",
+              "Value": "1350"
+            },
+            {
+              "Name": "A",
+              "Value": ""
+            },
+            {
+              "Name": "B",
+              "Value": ""
+            },
+            {
+              "Name": "C",
+              "Value": ""
+            },
+            {
+              "Name": "D",
+              "Value": ""
+            },
+            {
+              "Name": "E",
+              "Value": ""
+            },
+            {
+              "Name": "F",
+              "Value": ""
+            },
+            {
+              "Name": "G",
+              "Value": ""
+            },
+            {
+              "Name": "TWF",
+              "Value": ""
+            },
+            {
+              "Name": "TWR",
+              "Value": ""
+            },
+            {
+              "Name": "WD",
+              "Value": "44/56"
+            }
+          ]
+        }
+      },
+      "colorPaths": []
+    }
+  }
+}

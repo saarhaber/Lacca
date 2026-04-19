@@ -4,6 +4,23 @@
   "version": "1.0.0",
   "paints": [
     {
+      "code": "1328",
+      "marketingName": "Jet Black",
+      "finish": "solid",
+      "lab": {
+        "L": 0,
+        "a": 0,
+        "b": 0,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #000000 (PaintRef hex, OEM=Aston Martin, code=1328 (models=DB9, V8 Vantage, Vanquish; years=2004-2008)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Aston Martin:db9:1328"
+      }
+    },
+    {
       "code": "1346",
       "marketingName": "Blue Sapphire",
       "finish": "solid",
@@ -15,8 +32,8 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
-        "notes": "Derived from #171E40 (PaintRef hex, OEM=Aston Martin, code=1346 (models=DB9, V8 Vantage; years=2003-2008)). Replace with spectro LAB before production claims.",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #171E40 (PaintRef hex, OEM=Aston Martin, code=1346 (models=DB9, V8 Vantage, Vanquish; years=2003-2008)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Aston Martin:db9:1346"
       }
     },
@@ -32,26 +49,9 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
-        "notes": "Derived from #979692 (PaintRef hex, OEM=Aston Martin, code=1348 (models=DB9, V8 Vantage; years=2003-2008)). Replace with spectro LAB before production claims.",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #979692 (PaintRef hex, OEM=Aston Martin, code=1348 (models=DB9, V8 Vantage, Vanquish; years=2003-2008)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Aston Martin:db9:1348"
-      }
-    },
-    {
-      "code": "1328",
-      "marketingName": "Jet Black",
-      "finish": "solid",
-      "lab": {
-        "L": 0,
-        "a": 0,
-        "b": 0,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-17",
-        "notes": "Derived from #000000 (PaintRef hex, OEM=Aston Martin, code=1328 (models=V8 Vantage; years=2004-2008)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:Aston Martin:v8-vantage:1328"
       }
     },
     {
@@ -66,8 +66,8 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
-        "notes": "Derived from #A9BED0 (PaintRef hex, OEM=Aston Martin, code=1335 (models=V8 Vantage; years=2003-2008)). Replace with spectro LAB before production claims.",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #A9BED0 (PaintRef hex, OEM=Aston Martin, code=1335 (models=V8 Vantage, Vanquish; years=2003-2008)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Aston Martin:v8-vantage:1335"
       }
     },
@@ -83,8 +83,8 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
-        "notes": "Derived from #336D71 (PaintRef hex, OEM=Aston Martin, code=1347 (models=V8 Vantage; years=2003-2007)). Replace with spectro LAB before production claims.",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #336D71 (PaintRef hex, OEM=Aston Martin, code=1347 (models=V8 Vantage, Vanquish; years=2003-2007)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Aston Martin:v8-vantage:1347"
       }
     },
@@ -100,8 +100,8 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
-        "notes": "Derived from #242636 (PaintRef hex, OEM=Aston Martin, code=1341 (models=V8 Vantage; years=2003-2008)). Replace with spectro LAB before production claims.",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #242636 (PaintRef hex, OEM=Aston Martin, code=1341 (models=V8 Vantage, Vanquish; years=2003-2008)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Aston Martin:v8-vantage:1341"
       }
     },
@@ -117,8 +117,8 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
-        "notes": "Derived from #576A8F (PaintRef hex, OEM=Aston Martin, code=1343 (models=V8 Vantage; years=2007-2008)). Replace with spectro LAB before production claims.",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #576A8F (PaintRef hex, OEM=Aston Martin, code=1343 (models=V8 Vantage, Vanquish; years=2007-2008)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Aston Martin:v8-vantage:1343"
       }
     },
@@ -134,8 +134,8 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
-        "notes": "Derived from #5D5D5B (PaintRef hex, OEM=Aston Martin, code=1344 (models=V8 Vantage; years=2004-2008)). Replace with spectro LAB before production claims.",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #5D5D5B (PaintRef hex, OEM=Aston Martin, code=1344 (models=V8 Vantage, Vanquish; years=2004-2008)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Aston Martin:v8-vantage:1344"
       }
     },
@@ -151,8 +151,8 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
-        "notes": "Derived from #7B7A7A (PaintRef hex, OEM=Aston Martin, code=1340 (models=V8 Vantage; years=2007-2008)). Replace with spectro LAB before production claims.",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #7B7A7A (PaintRef hex, OEM=Aston Martin, code=1340 (models=V8 Vantage, Vanquish; years=2007-2008)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Aston Martin:v8-vantage:1340"
       }
     },
@@ -168,8 +168,8 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
-        "notes": "Derived from #A0A89C (PaintRef hex, OEM=Aston Martin, code=1338 (models=V8 Vantage; years=2003-2008)). Replace with spectro LAB before production claims.",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #A0A89C (PaintRef hex, OEM=Aston Martin, code=1338 (models=V8 Vantage, Vanquish; years=2003-2008)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Aston Martin:v8-vantage:1338"
       }
     },
@@ -185,8 +185,8 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
-        "notes": "Derived from #558158 (PaintRef hex, OEM=Aston Martin, code=1339 (models=V8 Vantage; years=2007-2008)). Replace with spectro LAB before production claims.",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #558158 (PaintRef hex, OEM=Aston Martin, code=1339 (models=V8 Vantage, Vanquish; years=2007-2008)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Aston Martin:v8-vantage:1339"
       }
     },
@@ -202,7 +202,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #000000 (PaintRef hex, OEM=Aston Martin, code=B (models=Valiant; year=1960)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Aston Martin:valiant:B"
       }
@@ -219,7 +219,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #000000 (PaintRef hex, OEM=Aston Martin, code=B (models=Valiant; years=1961-1965)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Aston Martin:valiant:B"
       }
@@ -236,7 +236,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #000000 (PaintRef hex, OEM=Aston Martin, code=B (models=Valiant; year=1962)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Aston Martin:valiant:B"
       }
@@ -253,7 +253,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #000000 (PaintRef hex, OEM=Aston Martin, code=B (models=Valiant; year=1963)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Aston Martin:valiant:B"
       }
@@ -270,7 +270,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #000000 (PaintRef hex, OEM=Aston Martin, code=X9 (models=Valiant; years=1969-1970)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Aston Martin:valiant:X9"
       }
@@ -287,7 +287,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #000000 (PaintRef hex, OEM=Aston Martin, code=X9 (models=Valiant; years=1972-1975)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Aston Martin:valiant:X9"
       }
@@ -304,7 +304,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #000000 (PaintRef hex, OEM=Aston Martin, code=Black-1973 (models=Valiant; year=1973)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Aston Martin:valiant:Black-1973"
       }
@@ -321,7 +321,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #6A93A6 (PaintRef hex, OEM=Aston Martin, code=D (models=Valiant; year=1960)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Aston Martin:valiant:D"
       }
@@ -338,7 +338,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #4C6A7E (PaintRef hex, OEM=Aston Martin, code=D (models=Valiant; year=1961)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Aston Martin:valiant:D"
       }
@@ -355,7 +355,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #8DB7C1 (PaintRef hex, OEM=Aston Martin, code=C (models=Valiant; year=1961)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Aston Martin:valiant:C"
       }
@@ -372,7 +372,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #4E6580 (PaintRef hex, OEM=Aston Martin, code=D (models=Valiant; year=1962)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Aston Martin:valiant:D"
       }
@@ -389,7 +389,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #B8C7D3 (PaintRef hex, OEM=Aston Martin, code=C (models=Valiant; year=1962)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Aston Martin:valiant:C"
       }
@@ -406,7 +406,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #293749 (PaintRef hex, OEM=Aston Martin, code=E (models=Valiant; year=1963)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Aston Martin:valiant:E"
       }
@@ -423,7 +423,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #A2CFD8 (PaintRef hex, OEM=Aston Martin, code=C (models=Valiant; years=1963-1965)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Aston Martin:valiant:C"
       }
@@ -440,7 +440,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #819FB4 (PaintRef hex, OEM=Aston Martin, code=D (models=Valiant; year=1963)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Aston Martin:valiant:D"
       }
@@ -457,7 +457,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #242D48 (PaintRef hex, OEM=Aston Martin, code=E (models=Valiant; years=1964-1965)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Aston Martin:valiant:E"
       }
@@ -474,7 +474,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #A9E4DD (PaintRef hex, OEM=Aston Martin, code=J (models=Valiant; years=1964-1965)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Aston Martin:valiant:J"
       }
@@ -491,7 +491,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #546F8A (PaintRef hex, OEM=Aston Martin, code=D (models=Valiant; years=1964-1965)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Aston Martin:valiant:D"
       }
@@ -508,7 +508,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #5B999F (PaintRef hex, OEM=Aston Martin, code=K (models=Valiant; years=1964-1965)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Aston Martin:valiant:K"
       }
@@ -525,7 +525,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #285EA6 (PaintRef hex, OEM=Aston Martin, code=B5 (models=Valiant; years=1969-1970)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Aston Martin:valiant:B5"
       }
@@ -542,7 +542,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #577EAD (PaintRef hex, OEM=Aston Martin, code=B3 (models=Valiant; years=1969-1970)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Aston Martin:valiant:B3"
       }
@@ -559,7 +559,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #3E4D6C (PaintRef hex, OEM=Aston Martin, code=B7 (models=Valiant; years=1969-1970)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Aston Martin:valiant:B7"
       }
@@ -576,7 +576,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #3D8888 (PaintRef hex, OEM=Aston Martin, code=Q5 (models=Valiant; year=1969)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Aston Martin:valiant:Q5"
       }
@@ -593,7 +593,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #93C1CD (PaintRef hex, OEM=Aston Martin, code=C (models=Valiant; year=1969)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Aston Martin:valiant:C"
       }
@@ -610,7 +610,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #466A74 (PaintRef hex, OEM=Aston Martin, code=P6 (models=Valiant; year=1970)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Aston Martin:valiant:P6"
       }
@@ -627,7 +627,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #3669AD (PaintRef hex, OEM=Aston Martin, code=B3 (models=Valiant; years=1972-1973)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Aston Martin:valiant:B3"
       }
@@ -644,7 +644,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #8FABC9 (PaintRef hex, OEM=Aston Martin, code=B1 (models=Valiant; years=1972-1973)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Aston Martin:valiant:B1"
       }
@@ -661,7 +661,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #326991 (PaintRef hex, OEM=Aston Martin, code=Q5 (models=Valiant; years=1972-1973)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Aston Martin:valiant:Q5"
       }
@@ -678,7 +678,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #103E69 (PaintRef hex, OEM=Aston Martin, code=B7 (models=Valiant; year=1972)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Aston Martin:valiant:B7"
       }
@@ -695,7 +695,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #17212D (PaintRef hex, OEM=Aston Martin, code=B9 (models=Valiant; years=1972-1973)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Aston Martin:valiant:B9"
       }
@@ -712,7 +712,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #33639B (PaintRef hex, OEM=Aston Martin, code=B5 (models=Valiant; years=1972-1973)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Aston Martin:valiant:B5"
       }
@@ -729,7 +729,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #376294 (PaintRef hex, OEM=Aston Martin, code=B5 (models=Valiant; year=1975)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Aston Martin:valiant:B5"
       }
@@ -746,9 +746,1624 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #8DBACE (PaintRef hex, OEM=Aston Martin, code=B1 (models=Valiant; year=1975)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Aston Martin:valiant:B1"
+      }
+    },
+    {
+      "code": "Y",
+      "marketingName": "Luminous Brown",
+      "finish": "solid",
+      "lab": {
+        "L": 44.67,
+        "a": 2.28,
+        "b": 6.5,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #72685F (PaintRef hex, OEM=Aston Martin, code=Y (models=Valiant; year=1962)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Aston Martin:valiant:Y"
+      }
+    },
+    {
+      "code": "T",
+      "marketingName": "Sandstone",
+      "finish": "solid",
+      "lab": {
+        "L": 76.84,
+        "a": 5.24,
+        "b": 7.01,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #CDBAB1 (PaintRef hex, OEM=Aston Martin, code=T (models=Valiant; year=1962)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Aston Martin:valiant:T"
+      }
+    },
+    {
+      "code": "M",
+      "marketingName": "Light Beige",
+      "finish": "solid",
+      "lab": {
+        "L": 77.96,
+        "a": 1.47,
+        "b": 12.38,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #CDBFAA (PaintRef hex, OEM=Aston Martin, code=M (models=Valiant; year=1963)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Aston Martin:valiant:M"
+      }
+    },
+    {
+      "code": "X",
+      "marketingName": "Medium Beige",
+      "finish": "solid",
+      "lab": {
+        "L": 66.55,
+        "a": 3.46,
+        "b": 12.32,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #B19F8C (PaintRef hex, OEM=Aston Martin, code=X (models=Valiant; year=1963)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Aston Martin:valiant:X"
+      }
+    },
+    {
+      "code": "Y",
+      "marketingName": "Metallic Brown",
+      "finish": "solid",
+      "lab": {
+        "L": 53.83,
+        "a": 7.28,
+        "b": 6.96,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #927C75 (PaintRef hex, OEM=Aston Martin, code=Y (models=Valiant; year=1963)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Aston Martin:valiant:Y"
+      }
+    },
+    {
+      "code": "X",
+      "marketingName": "Light Tan",
+      "finish": "solid",
+      "lab": {
+        "L": 74.18,
+        "a": 0.82,
+        "b": 13.4,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #C2B59E (PaintRef hex, OEM=Aston Martin, code=X (models=Valiant; years=1964-1965)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Aston Martin:valiant:X"
+      }
+    },
+    {
+      "code": "Y",
+      "marketingName": "Medium Tan",
+      "finish": "solid",
+      "lab": {
+        "L": 59.41,
+        "a": 0.99,
+        "b": 6.92,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #968E83 (PaintRef hex, OEM=Aston Martin, code=Y (models=Valiant; years=1964-1965)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Aston Martin:valiant:Y"
+      }
+    },
+    {
+      "code": "H",
+      "marketingName": "Copper",
+      "finish": "solid",
+      "lab": {
+        "L": 56.57,
+        "a": 25.81,
+        "b": 13.19,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #B97672 (PaintRef hex, OEM=Aston Martin, code=H (models=Valiant; year=1965)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Aston Martin:valiant:H"
+      }
+    },
+    {
+      "code": "A",
+      "marketingName": "Gold",
+      "finish": "solid",
+      "lab": {
+        "L": 54.03,
+        "a": 2.18,
+        "b": 15.3,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #8F7F67 (PaintRef hex, OEM=Aston Martin, code=A (models=Valiant; year=1965)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Aston Martin:valiant:A"
+      }
+    },
+    {
+      "code": "T5",
+      "marketingName": "Bronze Fire",
+      "finish": "solid",
+      "lab": {
+        "L": 36.34,
+        "a": 17.24,
+        "b": 23.18,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #794A31 (PaintRef hex, OEM=Aston Martin, code=T5 (models=Valiant; year=1969)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Aston Martin:valiant:T5"
+      }
+    },
+    {
+      "code": "Y6",
+      "marketingName": "Citron Gold",
+      "finish": "solid",
+      "lab": {
+        "L": 47.4,
+        "a": 0.44,
+        "b": 21.66,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #7E6F4C (PaintRef hex, OEM=Aston Martin, code=Y6 (models=Valiant; years=1969-1970)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Aston Martin:valiant:Y6"
+      }
+    },
+    {
+      "code": "T3",
+      "marketingName": "Honey Bronze",
+      "finish": "solid",
+      "lab": {
+        "L": 47.27,
+        "a": 3.82,
+        "b": 17.47,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #816D53 (PaintRef hex, OEM=Aston Martin, code=T3 (models=Valiant; year=1969)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Aston Martin:valiant:T3"
+      }
+    },
+    {
+      "code": "T7",
+      "marketingName": "Saddle Bronze",
+      "finish": "solid",
+      "lab": {
+        "L": 27.73,
+        "a": 10.3,
+        "b": 16.88,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #583B28 (PaintRef hex, OEM=Aston Martin, code=T7 (models=Valiant; year=1969)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Aston Martin:valiant:T7"
+      }
+    },
+    {
+      "code": "L1",
+      "marketingName": "Sand Pebble Beige",
+      "finish": "solid",
+      "lab": {
+        "L": 73.67,
+        "a": -3.73,
+        "b": 17.47,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #BBB695 (PaintRef hex, OEM=Aston Martin, code=L1 (models=Valiant; years=1969-1970)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Aston Martin:valiant:L1"
+      }
+    },
+    {
+      "code": "Y4",
+      "marketingName": "Spanish Gold",
+      "finish": "solid",
+      "lab": {
+        "L": 54.88,
+        "a": 0.47,
+        "b": 18.21,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #908264 (PaintRef hex, OEM=Aston Martin, code=Y4 (models=Valiant; year=1969)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Aston Martin:valiant:Y4"
+      }
+    },
+    {
+      "code": "T6",
+      "marketingName": "Burnt Tan",
+      "finish": "solid",
+      "lab": {
+        "L": 38.07,
+        "a": 9.88,
+        "b": 20.43,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #735339 (PaintRef hex, OEM=Aston Martin, code=T6 (models=Valiant; year=1970)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Aston Martin:valiant:T6"
+      }
+    },
+    {
+      "code": "Y4",
+      "marketingName": "Citron Mist",
+      "finish": "solid",
+      "lab": {
+        "L": 55.13,
+        "a": 1.03,
+        "b": 25.4,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #958258 (PaintRef hex, OEM=Aston Martin, code=Y4 (models=Valiant; year=1970)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Aston Martin:valiant:Y4"
+      }
+    },
+    {
+      "code": "T3",
+      "marketingName": "Sahara Tan",
+      "finish": "solid",
+      "lab": {
+        "L": 52.97,
+        "a": 7.69,
+        "b": 17.43,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #967961 (PaintRef hex, OEM=Aston Martin, code=T3 (models=Valiant; year=1970)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Aston Martin:valiant:T3"
+      }
+    },
+    {
+      "code": "T8",
+      "marketingName": "Walnut",
+      "finish": "solid",
+      "lab": {
+        "L": 24.89,
+        "a": 8.11,
+        "b": 16.16,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #4E3623 (PaintRef hex, OEM=Aston Martin, code=T8 (models=Valiant; year=1970)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Aston Martin:valiant:T8"
+      }
+    },
+    {
+      "code": "T8",
+      "marketingName": "Chestnut",
+      "finish": "solid",
+      "lab": {
+        "L": 22.58,
+        "a": 9.84,
+        "b": 14.38,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #4A3021 (PaintRef hex, OEM=Aston Martin, code=T8 (models=Valiant; years=1972-1973)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Aston Martin:valiant:T8"
+      }
+    },
+    {
+      "code": "Y8",
+      "marketingName": "Gold Leaf",
+      "finish": "solid",
+      "lab": {
+        "L": 42.47,
+        "a": 3.74,
+        "b": 23.81,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #77613D (PaintRef hex, OEM=Aston Martin, code=Y8 (models=Valiant; year=1972)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Aston Martin:valiant:Y8"
+      }
+    },
+    {
+      "code": "Y6",
+      "marketingName": "Golden Haze",
+      "finish": "solid",
+      "lab": {
+        "L": 40.34,
+        "a": 7.03,
+        "b": 23.41,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #765A39 (PaintRef hex, OEM=Aston Martin, code=Y6 (models=Valiant; years=1972-1973)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Aston Martin:valiant:Y6"
+      }
+    },
+    {
+      "code": "Y3",
+      "marketingName": "Honey Gold",
+      "finish": "solid",
+      "lab": {
+        "L": 64.1,
+        "a": 0.77,
+        "b": 34.69,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #B1995D (PaintRef hex, OEM=Aston Martin, code=Y3 (models=Valiant; years=1972-1973)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Aston Martin:valiant:Y3"
+      }
+    },
+    {
+      "code": "Y4",
+      "marketingName": "Honeydew",
+      "finish": "solid",
+      "lab": {
+        "L": 65.2,
+        "a": 0.81,
+        "b": 31.88,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #B39C65 (PaintRef hex, OEM=Aston Martin, code=Y4 (models=Valiant; year=1972)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Aston Martin:valiant:Y4"
+      }
+    },
+    {
+      "code": "T6",
+      "marketingName": "Mojave Tan",
+      "finish": "solid",
+      "lab": {
+        "L": 49.52,
+        "a": 16.45,
+        "b": 33.52,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #9F6A3D (PaintRef hex, OEM=Aston Martin, code=T6 (models=Valiant; years=1972-1973)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Aston Martin:valiant:T6"
+      }
+    },
+    {
+      "code": "L4",
+      "marketingName": "Sahara Beige",
+      "finish": "solid",
+      "lab": {
+        "L": 74.23,
+        "a": 0.32,
+        "b": 21.09,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #C6B590 (PaintRef hex, OEM=Aston Martin, code=L4 (models=Valiant; years=1972-1975)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Aston Martin:valiant:L4"
+      }
+    },
+    {
+      "code": "Y9",
+      "marketingName": "Tahitian Gold",
+      "finish": "solid",
+      "lab": {
+        "L": 20.56,
+        "a": 3.91,
+        "b": 12.06,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #3D2F20 (PaintRef hex, OEM=Aston Martin, code=Y9 (models=Valiant; years=1972-1973)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Aston Martin:valiant:Y9"
+      }
+    },
+    {
+      "code": "K6",
+      "marketingName": "Autumn Bronze",
+      "finish": "solid",
+      "lab": {
+        "L": 19.67,
+        "a": 14.09,
+        "b": 14.55,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #48271B (PaintRef hex, OEM=Aston Martin, code=K6 (models=Valiant; year=1973)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Aston Martin:valiant:K6"
+      }
+    },
+    {
+      "code": "T4",
+      "marketingName": "Cinnamon",
+      "finish": "solid",
+      "lab": {
+        "L": 22.26,
+        "a": 21.57,
+        "b": 14.35,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #572721 (PaintRef hex, OEM=Aston Martin, code=T4 (models=Valiant; year=1975)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Aston Martin:valiant:T4"
+      }
+    },
+    {
+      "code": "Y4",
+      "marketingName": "Golden Fawn",
+      "finish": "solid",
+      "lab": {
+        "L": 64.79,
+        "a": 0.33,
+        "b": 36.65,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #B39B5B (PaintRef hex, OEM=Aston Martin, code=Y4 (models=Valiant; year=1975)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Aston Martin:valiant:Y4"
+      }
+    },
+    {
+      "code": "Y6",
+      "marketingName": "Inca Gold",
+      "finish": "solid",
+      "lab": {
+        "L": 47.94,
+        "a": 4.3,
+        "b": 25.96,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #876E46 (PaintRef hex, OEM=Aston Martin, code=Y6 (models=Valiant; year=1975)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Aston Martin:valiant:Y6"
+      }
+    },
+    {
+      "code": "T5",
+      "marketingName": "Sienna",
+      "finish": "solid",
+      "lab": {
+        "L": 46.87,
+        "a": 26.73,
+        "b": 28.79,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #A45C40 (PaintRef hex, OEM=Aston Martin, code=T5 (models=Valiant; year=1975)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Aston Martin:valiant:T5"
+      }
+    },
+    {
+      "code": "Y9",
+      "marketingName": "Spanish Gold",
+      "finish": "solid",
+      "lab": {
+        "L": 34.26,
+        "a": 6.79,
+        "b": 17.56,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #644C35 (PaintRef hex, OEM=Aston Martin, code=Y9 (models=Valiant; year=1975)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Aston Martin:valiant:Y9"
+      }
+    },
+    {
+      "code": "M",
+      "marketingName": "Medallion Silver",
+      "finish": "solid",
+      "lab": {
+        "L": 56.69,
+        "a": -0.75,
+        "b": 5.76,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #8B887E (PaintRef hex, OEM=Aston Martin, code=M (models=Valiant; year=1960)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Aston Martin:valiant:M"
+      }
+    },
+    {
+      "code": "L",
+      "marketingName": "Platinum Gray",
+      "finish": "solid",
+      "lab": {
+        "L": 67.82,
+        "a": -0.93,
+        "b": -3.83,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #A0A6AC (PaintRef hex, OEM=Aston Martin, code=L (models=Valiant; year=1961)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Aston Martin:valiant:L"
+      }
+    },
+    {
+      "code": "M",
+      "marketingName": "Light Gray",
+      "finish": "solid",
+      "lab": {
+        "L": 66.99,
+        "a": 0,
+        "b": 0,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #A3A3A3 (PaintRef hex, OEM=Aston Martin, code=M (models=Valiant; year=1962)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Aston Martin:valiant:M"
+      }
+    },
+    {
+      "code": "N",
+      "marketingName": "Valiant Silver Gray",
+      "finish": "solid",
+      "lab": {
+        "L": 48.73,
+        "a": 0.28,
+        "b": -6.14,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #6F747E (PaintRef hex, OEM=Aston Martin, code=N (models=Valiant; year=1963)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Aston Martin:valiant:N"
+      }
+    },
+    {
+      "code": "M",
+      "marketingName": "Medium Gray",
+      "finish": "solid",
+      "lab": {
+        "L": 48.73,
+        "a": 0.28,
+        "b": -6.14,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #6F747E (PaintRef hex, OEM=Aston Martin, code=M (models=Valiant; year=1964)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Aston Martin:valiant:M"
+      }
+    },
+    {
+      "code": "N",
+      "marketingName": "Barracuda Silver",
+      "finish": "solid",
+      "lab": {
+        "L": 68.05,
+        "a": -2.16,
+        "b": 0.41,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #A2A7A5 (PaintRef hex, OEM=Aston Martin, code=N (models=Valiant; year=1965)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Aston Martin:valiant:N"
+      }
+    },
+    {
+      "code": "A4",
+      "marketingName": "Silver",
+      "finish": "solid",
+      "lab": {
+        "L": 61.89,
+        "a": -1.13,
+        "b": 1.98,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #959692 (PaintRef hex, OEM=Aston Martin, code=A4 (models=Valiant; year=1969)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Aston Martin:valiant:A4"
+      }
+    },
+    {
+      "code": "A4",
+      "marketingName": "Platinum",
+      "finish": "solid",
+      "lab": {
+        "L": 61.89,
+        "a": -1.13,
+        "b": 1.98,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #959692 (PaintRef hex, OEM=Aston Martin, code=A4 (models=Valiant; year=1970)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Aston Martin:valiant:A4"
+      }
+    },
+    {
+      "code": "A9",
+      "marketingName": "Charcoal",
+      "finish": "solid",
+      "lab": {
+        "L": 30.05,
+        "a": 2.01,
+        "b": -4.04,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #47464D (PaintRef hex, OEM=Aston Martin, code=A9 (models=Valiant; year=1972)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Aston Martin:valiant:A9"
+      }
+    },
+    {
+      "code": "A5",
+      "marketingName": "Silver Frost",
+      "finish": "solid",
+      "lab": {
+        "L": 37.6,
+        "a": -0.69,
+        "b": -2.85,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #55595D (PaintRef hex, OEM=Aston Martin, code=A5 (models=Valiant; years=1972-1973)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Aston Martin:valiant:A5"
+      }
+    },
+    {
+      "code": "A2",
+      "marketingName": "Silver Cloud",
+      "finish": "solid",
+      "lab": {
+        "L": 66.59,
+        "a": -2.83,
+        "b": -6.84,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #96A4AE (PaintRef hex, OEM=Aston Martin, code=A2 (models=Valiant; year=1975)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Aston Martin:valiant:A2"
+      }
+    },
+    {
+      "code": "G",
+      "marketingName": "Chrome Green",
+      "finish": "solid",
+      "lab": {
+        "L": 47.66,
+        "a": -14.87,
+        "b": 4.54,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #587869 (PaintRef hex, OEM=Aston Martin, code=G (models=Valiant; year=1960)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Aston Martin:valiant:G"
+      }
+    },
+    {
+      "code": "G",
+      "marketingName": "Emerald Green",
+      "finish": "solid",
+      "lab": {
+        "L": 48.79,
+        "a": -16.59,
+        "b": -1.54,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #507C76 (PaintRef hex, OEM=Aston Martin, code=G (models=Valiant; year=1961)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Aston Martin:valiant:G"
+      }
+    },
+    {
+      "code": "F",
+      "marketingName": "Spring Green",
+      "finish": "solid",
+      "lab": {
+        "L": 84,
+        "a": -23.92,
+        "b": 6.22,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #A3DEC5 (PaintRef hex, OEM=Aston Martin, code=F (models=Valiant; year=1961)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Aston Martin:valiant:F"
+      }
+    },
+    {
+      "code": "G",
+      "marketingName": "Luminous Green",
+      "finish": "solid",
+      "lab": {
+        "L": 44.6,
+        "a": -11.59,
+        "b": 1.89,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #556F66 (PaintRef hex, OEM=Aston Martin, code=G (models=Valiant; year=1962)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Aston Martin:valiant:G"
+      }
+    },
+    {
+      "code": "F",
+      "marketingName": "Pale Jade",
+      "finish": "solid",
+      "lab": {
+        "L": 80.42,
+        "a": -10.69,
+        "b": 8.17,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #B9CDB8 (PaintRef hex, OEM=Aston Martin, code=F (models=Valiant; year=1962)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Aston Martin:valiant:F"
+      }
+    },
+    {
+      "code": "F",
+      "marketingName": "Light Green",
+      "finish": "solid",
+      "lab": {
+        "L": 81.32,
+        "a": -11.7,
+        "b": 8.93,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #BAD0B9 (PaintRef hex, OEM=Aston Martin, code=F (models=Valiant; year=1963)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Aston Martin:valiant:F"
+      }
+    },
+    {
+      "code": "G",
+      "marketingName": "Metallic Green",
+      "finish": "solid",
+      "lab": {
+        "L": 61.96,
+        "a": -14.59,
+        "b": 4.1,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #7C9D8E (PaintRef hex, OEM=Aston Martin, code=G (models=Valiant; year=1963)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Aston Martin:valiant:G"
+      }
+    },
+    {
+      "code": "F3",
+      "marketingName": "Frost Green",
+      "finish": "solid",
+      "lab": {
+        "L": 65.02,
+        "a": -5.27,
+        "b": 10.47,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #9CA08B (PaintRef hex, OEM=Aston Martin, code=F3 (models=Valiant; year=1969)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Aston Martin:valiant:F3"
+      }
+    },
+    {
+      "code": "F8",
+      "marketingName": "Ivy Green",
+      "finish": "solid",
+      "lab": {
+        "L": 43.95,
+        "a": -10.16,
+        "b": 16.01,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #616C4D (PaintRef hex, OEM=Aston Martin, code=F8 (models=Valiant; years=1969-1970)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Aston Martin:valiant:F8"
+      }
+    },
+    {
+      "code": "F5",
+      "marketingName": "Limelight",
+      "finish": "solid",
+      "lab": {
+        "L": 47.83,
+        "a": -6.27,
+        "b": 12.1,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #6F745D (PaintRef hex, OEM=Aston Martin, code=F5 (models=Valiant; year=1969)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Aston Martin:valiant:F5"
+      }
+    },
+    {
+      "code": "999",
+      "marketingName": "Rallye Green",
+      "finish": "solid",
+      "lab": {
+        "L": 34.57,
+        "a": -22.15,
+        "b": 14.78,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #325A39 (PaintRef hex, OEM=Aston Martin, code=999 (models=Valiant; year=1969)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Aston Martin:valiant:999"
+      }
+    },
+    {
+      "code": "F",
+      "marketingName": "Valiant Light Green",
+      "finish": "solid",
+      "lab": {
+        "L": 78.56,
+        "a": -20.2,
+        "b": 4.17,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #9BCDBA (PaintRef hex, OEM=Aston Martin, code=F (models=Valiant; year=1969)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Aston Martin:valiant:F"
+      }
+    },
+    {
+      "code": "F4",
+      "marketingName": "Lime Green",
+      "finish": "solid",
+      "lab": {
+        "L": 52,
+        "a": -10.26,
+        "b": 23.07,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #798054 (PaintRef hex, OEM=Aston Martin, code=F4 (models=Valiant; year=1970)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Aston Martin:valiant:F4"
+      }
+    },
+    {
+      "code": "J5",
+      "marketingName": "Lime Light",
+      "finish": "solid",
+      "lab": {
+        "L": 84.64,
+        "a": -52.51,
+        "b": 70.36,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #92EA3E (PaintRef hex, OEM=Aston Martin, code=J5 (models=Valiant; year=1970)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Aston Martin:valiant:J5"
+      }
+    },
+    {
+      "code": "F8",
+      "marketingName": "Forest Green",
+      "finish": "solid",
+      "lab": {
+        "L": 22.41,
+        "a": -9.12,
+        "b": 9.64,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #2D3927 (PaintRef hex, OEM=Aston Martin, code=F8 (models=Valiant; years=1972-1973)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Aston Martin:valiant:F8"
+      }
+    },
+    {
+      "code": "J3",
+      "marketingName": "Meadow Green",
+      "finish": "solid",
+      "lab": {
+        "L": 70.56,
+        "a": -26.63,
+        "b": 45.11,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #97B857 (PaintRef hex, OEM=Aston Martin, code=J3 (models=Valiant; year=1972)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Aston Martin:valiant:J3"
+      }
+    },
+    {
+      "code": "F1",
+      "marketingName": "Mist Green",
+      "finish": "solid",
+      "lab": {
+        "L": 69.28,
+        "a": -18.4,
+        "b": 34.64,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #9EB169 (PaintRef hex, OEM=Aston Martin, code=F1 (models=Valiant; years=1972-1973)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Aston Martin:valiant:F1"
+      }
+    },
+    {
+      "code": "F7",
+      "marketingName": "Sherwood Green",
+      "finish": "solid",
+      "lab": {
+        "L": 26.1,
+        "a": -5.93,
+        "b": 8.98,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #3A4030 (PaintRef hex, OEM=Aston Martin, code=F7 (models=Valiant; year=1972)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Aston Martin:valiant:F7"
+      }
+    },
+    {
+      "code": "F3",
+      "marketingName": "Amber Sherwood",
+      "finish": "solid",
+      "lab": {
+        "L": 39.55,
+        "a": -9.91,
+        "b": 18.27,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #58613F (PaintRef hex, OEM=Aston Martin, code=F3 (models=Valiant; year=1973)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Aston Martin:valiant:F3"
+      }
+    },
+    {
+      "code": "G8",
+      "marketingName": "Deep Sherwood",
+      "finish": "solid",
+      "lab": {
+        "L": 21.6,
+        "a": -11.29,
+        "b": 10.45,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #283824 (PaintRef hex, OEM=Aston Martin, code=G8 (models=Valiant; year=1975)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Aston Martin:valiant:G8"
+      }
+    },
+    {
+      "code": "G2",
+      "marketingName": "Frosty Green",
+      "finish": "solid",
+      "lab": {
+        "L": 55.68,
+        "a": -20.53,
+        "b": 7.38,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #628F78 (PaintRef hex, OEM=Aston Martin, code=G2 (models=Valiant; year=1975)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Aston Martin:valiant:G2"
+      }
+    },
+    {
+      "code": "R4",
+      "marketingName": "Barracuda Orange",
+      "finish": "solid",
+      "lab": {
+        "L": 42.08,
+        "a": 55.24,
+        "b": 42.2,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #BB2D20 (PaintRef hex, OEM=Aston Martin, code=R4 (models=Valiant; year=1969)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Aston Martin:valiant:R4"
+      }
+    },
+    {
+      "code": "K2",
+      "marketingName": "Vitamin C",
+      "finish": "solid",
+      "lab": {
+        "L": 46.12,
+        "a": 58.71,
+        "b": 43.57,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #CC3327 (PaintRef hex, OEM=Aston Martin, code=K2 (models=Valiant; years=1969-1970)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Aston Martin:valiant:K2"
+      }
+    },
+    {
+      "code": "K3",
+      "marketingName": "Burnt Orange",
+      "finish": "solid",
+      "lab": {
+        "L": 32.19,
+        "a": 38.01,
+        "b": 25.32,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #872D26 (PaintRef hex, OEM=Aston Martin, code=K3 (models=Valiant; year=1970)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Aston Martin:valiant:K3"
+      }
+    },
+    {
+      "code": "K5",
+      "marketingName": "Deep Burnt Orange",
+      "finish": "solid",
+      "lab": {
+        "L": 32.51,
+        "a": 30.63,
+        "b": 23.51,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #7F3629 (PaintRef hex, OEM=Aston Martin, code=K5 (models=Valiant; year=1970)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Aston Martin:valiant:K5"
+      }
+    },
+    {
+      "code": "C7",
+      "marketingName": "In Violet",
+      "finish": "solid",
+      "lab": {
+        "L": 29.7,
+        "a": 19.25,
+        "b": -33.33,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #453E7A (PaintRef hex, OEM=Aston Martin, code=C7 (models=Valiant; year=1970)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Aston Martin:valiant:C7"
+      }
+    },
+    {
+      "code": "P",
+      "marketingName": "Valiant (Comet) Red",
+      "finish": "solid",
+      "lab": {
+        "L": 47.46,
+        "a": 60.86,
+        "b": 44.81,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #D33328 (PaintRef hex, OEM=Aston Martin, code=P (models=Valiant; year=1960)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Aston Martin:valiant:P"
+      }
+    },
+    {
+      "code": "P",
+      "marketingName": "Regal Red",
+      "finish": "solid",
+      "lab": {
+        "L": 37.67,
+        "a": 49.37,
+        "b": 30.11,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #A52B2B (PaintRef hex, OEM=Aston Martin, code=P (models=Valiant; year=1961)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Aston Martin:valiant:P"
+      }
+    },
+    {
+      "code": "P",
+      "marketingName": "Cherry Red",
+      "finish": "solid",
+      "lab": {
+        "L": 37.67,
+        "a": 49.37,
+        "b": 30.11,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #A52B2B (PaintRef hex, OEM=Aston Martin, code=P (models=Valiant; year=1962)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Aston Martin:valiant:P"
+      }
+    },
+    {
+      "code": "P",
+      "marketingName": "Red",
+      "finish": "solid",
+      "lab": {
+        "L": 37.67,
+        "a": 49.37,
+        "b": 30.11,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #A52B2B (PaintRef hex, OEM=Aston Martin, code=P (models=Valiant; years=1963-1964)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Aston Martin:valiant:P"
+      }
+    },
+    {
+      "code": "T",
+      "marketingName": "Signet Royal Red",
+      "finish": "solid",
+      "lab": {
+        "L": 28,
+        "a": 34.65,
+        "b": 18.2,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #762728 (PaintRef hex, OEM=Aston Martin, code=T (models=Valiant; year=1964)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Aston Martin:valiant:T"
+      }
+    },
+    {
+      "code": "T",
+      "marketingName": "Medium Red",
+      "finish": "solid",
+      "lab": {
+        "L": 31.93,
+        "a": 28.6,
+        "b": 15.02,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #793735 (PaintRef hex, OEM=Aston Martin, code=T (models=Valiant; year=1965)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Aston Martin:valiant:T"
+      }
+    },
+    {
+      "code": "P",
+      "marketingName": "Ruby",
+      "finish": "solid",
+      "lab": {
+        "L": 37.67,
+        "a": 49.37,
+        "b": 30.11,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #A52B2B (PaintRef hex, OEM=Aston Martin, code=P (models=Valiant; year=1965)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Aston Martin:valiant:P"
+      }
+    },
+    {
+      "code": "R6",
+      "marketingName": "Scorch Red",
+      "finish": "solid",
+      "lab": {
+        "L": 28.17,
+        "a": 38.43,
+        "b": 25.69,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #7C221D (PaintRef hex, OEM=Aston Martin, code=R6 (models=Valiant; years=1969-1970)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Aston Martin:valiant:R6"
+      }
+    },
+    {
+      "code": "E5",
+      "marketingName": "Rally Red",
+      "finish": "solid",
+      "lab": {
+        "L": 40.34,
+        "a": 55.02,
+        "b": 39.6,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #B52821 (PaintRef hex, OEM=Aston Martin, code=E5 (models=Valiant; year=1970)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Aston Martin:valiant:E5"
+      }
+    },
+    {
+      "code": "V2",
+      "marketingName": "Tor Red",
+      "finish": "solid",
+      "lab": {
+        "L": 47.8,
+        "a": 55.94,
+        "b": 43.27,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #CE3D2B (PaintRef hex, OEM=Aston Martin, code=V2 (models=Valiant; years=1970-1972)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Aston Martin:valiant:V2"
+      }
+    },
+    {
+      "code": "E5",
+      "marketingName": "Rallye Red",
+      "finish": "solid",
+      "lab": {
+        "L": 40.34,
+        "a": 55.02,
+        "b": 39.6,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #B52821 (PaintRef hex, OEM=Aston Martin, code=E5 (models=Valiant; years=1972-1975)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Aston Martin:valiant:E5"
+      }
+    },
+    {
+      "code": "E9",
+      "marketingName": "Vintage Red",
+      "finish": "solid",
+      "lab": {
+        "L": 22.5,
+        "a": 23.6,
+        "b": 10.68,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #592627 (PaintRef hex, OEM=Aston Martin, code=E9 (models=Valiant; year=1975)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Aston Martin:valiant:E9"
+      }
+    },
+    {
+      "code": "W",
+      "marketingName": "Oyster White",
+      "finish": "solid",
+      "lab": {
+        "L": 99.04,
+        "a": -1.71,
+        "b": 3.71,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #FCFDF5 (PaintRef hex, OEM=Aston Martin, code=W (models=Valiant; year=1960)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Aston Martin:valiant:W"
+      }
+    },
+    {
+      "code": "W",
+      "marketingName": "Glacier White",
+      "finish": "solid",
+      "lab": {
+        "L": 99.04,
+        "a": -1.71,
+        "b": 3.71,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #FCFDF5 (PaintRef hex, OEM=Aston Martin, code=W (models=Valiant; year=1961)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Aston Martin:valiant:W"
+      }
+    },
+    {
+      "code": "W",
+      "marketingName": "Ermine White",
+      "finish": "solid",
+      "lab": {
+        "L": 97.05,
+        "a": -3.41,
+        "b": 7.45,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #F6F8E8 (PaintRef hex, OEM=Aston Martin, code=W (models=Valiant; year=1962)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Aston Martin:valiant:W"
+      }
+    },
+    {
+      "code": "W",
+      "marketingName": "Ermine",
+      "finish": "solid",
+      "lab": {
+        "L": 97.05,
+        "a": -3.41,
+        "b": 7.45,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #F6F8E8 (PaintRef hex, OEM=Aston Martin, code=W (models=Valiant; year=1963)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Aston Martin:valiant:W"
+      }
+    },
+    {
+      "code": "W",
+      "marketingName": "White",
+      "finish": "solid",
+      "lab": {
+        "L": 85.83,
+        "a": -1.07,
+        "b": 2.95,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #D7D7D1 (PaintRef hex, OEM=Aston Martin, code=W (models=Valiant; years=1964-1965)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Aston Martin:valiant:W"
+      }
+    },
+    {
+      "code": "S",
+      "marketingName": "Ivory",
+      "finish": "solid",
+      "lab": {
+        "L": 86.49,
+        "a": 0.33,
+        "b": 18.3,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #E7D7B6 (PaintRef hex, OEM=Aston Martin, code=S (models=Valiant; year=1965)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Aston Martin:valiant:S"
+      }
+    },
+    {
+      "code": "W1",
+      "marketingName": "Alpine White",
+      "finish": "solid",
+      "lab": {
+        "L": 96.6,
+        "a": -2.8,
+        "b": 12.51,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #FAF6DD (PaintRef hex, OEM=Aston Martin, code=W1 (models=Valiant; years=1969-1970)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Aston Martin:valiant:W1"
+      }
+    },
+    {
+      "code": "W1",
+      "marketingName": "Spinnake White",
+      "finish": "solid",
+      "lab": {
+        "L": 96.6,
+        "a": -2.8,
+        "b": 12.51,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #FAF6DD (PaintRef hex, OEM=Aston Martin, code=W1 (models=Valiant; years=1972-1973)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Aston Martin:valiant:W1"
+      }
+    },
+    {
+      "code": "W1",
+      "marketingName": "Spinnaker White",
+      "finish": "solid",
+      "lab": {
+        "L": 96.6,
+        "a": -2.8,
+        "b": 12.51,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #FAF6DD (PaintRef hex, OEM=Aston Martin, code=W1 (models=Valiant; year=1975)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Aston Martin:valiant:W1"
+      }
+    },
+    {
+      "code": "Y2",
+      "marketingName": "Sunfire Yellow",
+      "finish": "solid",
+      "lab": {
+        "L": 88.46,
+        "a": -5.64,
+        "b": 39.59,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #EEDF92 (PaintRef hex, OEM=Aston Martin, code=Y2 (models=Valiant; years=1969-1973)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Aston Martin:valiant:Y2"
+      }
+    },
+    {
+      "code": "Y3",
+      "marketingName": "Yellow Gold",
+      "finish": "solid",
+      "lab": {
+        "L": 81.64,
+        "a": -1.52,
+        "b": 28.79,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #DCCA95 (PaintRef hex, OEM=Aston Martin, code=Y3 (models=Valiant; years=1969-1970)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Aston Martin:valiant:Y3"
+      }
+    },
+    {
+      "code": "Y1",
+      "marketingName": "Lemon Twist",
+      "finish": "solid",
+      "lab": {
+        "L": 91.27,
+        "a": -10.1,
+        "b": 87,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #FFE81E (PaintRef hex, OEM=Aston Martin, code=Y1 (models=Valiant; years=1970-1973)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Aston Martin:valiant:Y1"
+      }
+    },
+    {
+      "code": "Y5",
+      "marketingName": "Yellow Blaze",
+      "finish": "solid",
+      "lab": {
+        "L": 91.23,
+        "a": -12.15,
+        "b": 89.84,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #FCE903 (PaintRef hex, OEM=Aston Martin, code=Y5 (models=Valiant; year=1975)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Aston Martin:valiant:Y5"
       }
     }
   ]

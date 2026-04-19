@@ -1,0 +1,15 @@
+{
+  "pageUrl": "https://www.autocolorlibrary.com/pages/2019-Bmw.html",
+  "fetchedAt": "2026-04-18T22:10:35.242Z",
+  "pageDir": "data/sources/autocolorlibrary/pages/2019-bmw",
+  "htmlRelative": "page.html",
+  "images": [
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0040/1312/9763/files/2019_BMW_01.jpg?v=1582038628",
+      "localRelative": "2019_BMW_01.jpg",
+      "status": 200,
+      "bytes": 709373,
+      "sha1": "3778d5fa471b4b7e20f1e19a2450607ef674e782"
+    }
+  ]
+}

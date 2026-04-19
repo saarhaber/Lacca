@@ -15,7 +15,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #000000 (PaintRef hex, OEM=Acura, code=NH592P-L (models=CL; years=1998-1999)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:cl:NH592P-L"
       }
@@ -32,7 +32,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #222E32 (PaintRef hex, OEM=Acura, code=BG40P-L (models=CL; years=1998-1999)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:cl:BG40P-L"
       }
@@ -49,7 +49,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #54738C (PaintRef hex, OEM=Acura, code=BG41P-L (models=CL; year=1998)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:cl:BG41P-L"
       }
@@ -66,7 +66,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #54738C (PaintRef hex, OEM=Acura, code=BG41P-L (models=CL; year=1999)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:cl:BG41P-L"
       }
@@ -83,7 +83,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #41515E (PaintRef hex, OEM=Acura, code=G91M-A (models=TL; years=1999-2001)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:tl:G91M-A"
       }
@@ -100,7 +100,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #252D42 (PaintRef hex, OEM=Acura, code=B93P-A (models=TL; years=2000-2001)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:tl:B93P-A"
       }
@@ -117,7 +117,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #1C1B24 (PaintRef hex, OEM=Acura, code=B92P-A (models=CL, RDX, TL; years=2000-2008)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:cl:B92P-A"
       }
@@ -134,7 +134,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #252957 (PaintRef hex, OEM=Acura, code=B504P-A (models=CL, TL; years=2002-2004)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:cl:B504P-A"
       }
@@ -151,7 +151,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #1C1F40 (PaintRef hex, OEM=Acura, code=B96P-A (models=TL; year=2003)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:tl:B96P-A"
       }
@@ -168,7 +168,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #ABA39C (PaintRef hex, OEM=Acura, code=YR524M-A (models=CL, RL; years=2000-2003)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:cl:YR524M-A"
       }
@@ -185,7 +185,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #9C9686 (PaintRef hex, OEM=Acura, code=YR538M-A (models=TL; years=2003-2007)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:tl:YR538M-A"
       }
@@ -202,7 +202,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #AAAFCA (PaintRef hex, OEM=Acura, code=RP27M-L (models=CL; year=1998)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:cl:RP27M-L"
       }
@@ -219,7 +219,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #9D9D9D (PaintRef hex, OEM=Acura, code=YR525M-L (models=CL; year=1999)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:cl:YR525M-L"
       }
@@ -236,7 +236,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #B1C6C6 (PaintRef hex, OEM=Acura, code=NH623M-A (models=CL, TL; years=2000-2006)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:cl:NH623M-A"
       }
@@ -253,7 +253,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #53555E (PaintRef hex, OEM=Acura, code=NH643M-A (models=TL; years=2003-2006)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:tl:NH643M-A"
       }
@@ -270,7 +270,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #213129 (PaintRef hex, OEM=Acura, code=G87P-A (models=TL; years=2000-2002)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:tl:G87P-A"
       }
@@ -287,7 +287,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #2C3F43 (PaintRef hex, OEM=Acura, code=G508P-A (models=CL, TL; years=2002-2003)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:cl:G508P-A"
       }
@@ -304,7 +304,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #521E17 (PaintRef hex, OEM=Acura, code=R96P-L (models=CL; year=1998)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:cl:R96P-L"
       }
@@ -321,7 +321,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #BE5A25 (PaintRef hex, OEM=Acura, code=YR529P-A (models=CL; year=2001)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:cl:YR529P-A"
       }
@@ -338,7 +338,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #800C16 (PaintRef hex, OEM=Acura, code=R94-A (models=CL, ILX, TLX; years=2001-2017)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:cl:R94-A"
       }
@@ -355,7 +355,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #FDFDFD (PaintRef hex, OEM=Acura, code=NH578-L (models=CL; years=1998-1999)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:cl:NH578-L"
       }
@@ -372,7 +372,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #FDFDFD (PaintRef hex, OEM=Acura, code=NH578-A (models=CL, TL; years=1999-2003)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:cl:NH578-A"
       }
@@ -389,8 +389,8 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
-        "notes": "Derived from #000000 (PaintRef hex, OEM=Acura, code=NH731P-E (models=ILX; years=2013-2015)). Replace with spectro LAB before production claims.",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #000000 (PaintRef hex, OEM=Acura, code=NH731P-E (models=ILX, RDX; years=2013-2016)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:ilx:NH731P-E"
       }
     },
@@ -406,9 +406,9 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
-        "notes": "Derived from #000000 (PaintRef hex, OEM=Acura, code=NH731P-A (models=TL, TLX; years=2009-2016)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:Acura:tl:NH731P-A"
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #000000 (PaintRef hex, OEM=Acura, code=NH731P-A (models=RDX, TL, TLX; years=2009-2016)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:rdx:NH731P-A"
       }
     },
     {
@@ -423,7 +423,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #000000 (PaintRef hex, OEM=Acura, code=NH731P-B (models=MDX, TLX, ZDX; years=2010-2017)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:mdx:NH731P-B"
       }
@@ -440,7 +440,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #000000 (PaintRef hex, OEM=Acura, code=NH731P (models=TLX; years=2018-2019)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:tlx:NH731P"
       }
@@ -457,8 +457,8 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
-        "notes": "Derived from #000000 (PaintRef hex, OEM=Acura, code=NH893P (models=ILX, Integra, MDX, RLX, TLX, ZDX; years=2018-2026)). Replace with spectro LAB before production claims.",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #000000 (PaintRef hex, OEM=Acura, code=NH893P (models=ILX, Integra, MDX, RDX, RLX, TLX, ZDX; years=2018-2026)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:ilx:NH893P"
       }
     },
@@ -474,7 +474,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #1D2A55 (PaintRef hex, OEM=Acura, code=B576P-A (models=ILX, MDX, TL; years=2013-2015)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:ilx:B576P-A"
       }
@@ -491,7 +491,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #1A315F (PaintRef hex, OEM=Acura, code=B612P-A (models=ILX; years=2016-2017)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:ilx:B612P-A"
       }
@@ -508,7 +508,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #1A315F (PaintRef hex, OEM=Acura, code=B612P (models=ILX; year=2018)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:ilx:B612P"
       }
@@ -525,7 +525,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #2B4FF2 (PaintRef hex, OEM=Acura, code=B621P (models=ILX, Integra, MDX, RDX, TLX; years=2019-2025)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:ilx:B621P"
       }
@@ -542,7 +542,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #925A3F (PaintRef hex, OEM=Acura, code=YR632M (models=ILX, MDX, RDX, TLX; years=2019-2020)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:ilx:YR632M"
       }
@@ -559,7 +559,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #BBBAB8 (PaintRef hex, OEM=Acura, code=NH700M-E (models=ILX, RDX; years=2013-2015)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:ilx:NH700M-E"
       }
@@ -576,7 +576,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #5F5E6A (PaintRef hex, OEM=Acura, code=NH737M-B (models=ILX, MDX; years=2010-2013)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:ilx:NH737M-B"
       }
@@ -593,7 +593,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #ACA4A9 (PaintRef hex, OEM=Acura, code=YR578M-C (models=ILX; year=2013)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:ilx:YR578M-C"
       }
@@ -610,7 +610,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #5F5E6A (PaintRef hex, OEM=Acura, code=NH737M-E (models=ILX, MDX; years=2014-2015)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:ilx:NH737M-E"
       }
@@ -627,7 +627,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #ACA4A9 (PaintRef hex, OEM=Acura, code=YR578M-E (models=ILX; years=2014-2015)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:ilx:YR578M-E"
       }
@@ -644,7 +644,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #2D2729 (PaintRef hex, OEM=Acura, code=NH782M-A (models=MDX, RDX, TL, TLX, ZDX; years=2012-2016)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:mdx:NH782M-A"
       }
@@ -661,7 +661,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #A0A0A0 (PaintRef hex, OEM=Acura, code=NH829M-A (models=TLX; year=2016)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:tlx:NH829M-A"
       }
@@ -678,7 +678,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #909396 (PaintRef hex, OEM=Acura, code=NH830M-A (models=MDX, TLX; years=2016-2017)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:mdx:NH830M-A"
       }
@@ -695,7 +695,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #555C6D (PaintRef hex, OEM=Acura, code=NH797M-A (models=ILX; year=2017)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:ilx:NH797M-A"
       }
@@ -712,7 +712,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #909396 (PaintRef hex, OEM=Acura, code=NH830M (models=ILX, Integra, MDX, RDX, RLX, TLX, ZDX; years=2018-2025)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:ilx:NH830M"
       }
@@ -729,7 +729,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #555C6D (PaintRef hex, OEM=Acura, code=NH797M (models=ILX, MDX, RDX, RLX, TLX; years=2018-2023)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:ilx:NH797M"
       }
@@ -746,7 +746,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #6F0A13 (PaintRef hex, OEM=Acura, code=R543P-E (models=ILX, MDX; years=2013-2015)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:ilx:R543P-E"
       }
@@ -763,8 +763,8 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
-        "notes": "Derived from #5C001B (PaintRef hex, OEM=Acura, code=R548P-A (models=ILX, RDX, TL, TLX; years=2012-2017)). Replace with spectro LAB before production claims.",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #5C001B (PaintRef hex, OEM=Acura, code=R548P-A (models=ILX, RDX, TL, TLX, TSX; years=2012-2017)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:ilx:R548P-A"
       }
     },
@@ -780,7 +780,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #800C16 (PaintRef hex, OEM=Acura, code=R94 (models=TLX; years=2018-2019)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:tlx:R94"
       }
@@ -797,7 +797,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #B03434 (PaintRef hex, OEM=Acura, code=R568P (models=ILX, Integra, MDX, RDX, TLX, ZDX; years=2019-2026)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:ilx:R568P"
       }
@@ -814,7 +814,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #ECE9E9 (PaintRef hex, OEM=Acura, code=NH788P-A (models=ILX, MDX, RDX, TL, TLX; years=2012-2017)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:ilx:NH788P-A"
       }
@@ -831,7 +831,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #ECE9E9 (PaintRef hex, OEM=Acura, code=NH788P (models=TLX; year=2018)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:tlx:NH788P"
       }
@@ -848,7 +848,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #EDEDED (PaintRef hex, OEM=Acura, code=NH883P (models=ILX, Integra, MDX, RDX, RLX, TLX, ZDX; years=2018-2026)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:ilx:NH883P"
       }
@@ -865,7 +865,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #070707 (PaintRef hex, OEM=Acura, code=NH503P (models=Integra, Legend, Vigor; years=1994-1997)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:integra:NH503P"
       }
@@ -882,7 +882,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #000000 (PaintRef hex, OEM=Acura, code=NH592P (models=Integra, Legend, TL; years=1996-2000)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:integra:NH592P"
       }
@@ -899,7 +899,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #38424A (PaintRef hex, OEM=Acura, code=G71P (models=Integra; years=1994-1995)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:integra:G71P"
       }
@@ -916,7 +916,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #283E55 (PaintRef hex, OEM=Acura, code=BG33P (models=Integra; years=1994-1995)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:integra:BG33P"
       }
@@ -933,7 +933,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #133D3C (PaintRef hex, OEM=Acura, code=G82P (models=Integra; years=1996-1998)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:integra:G82P"
       }
@@ -950,7 +950,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #1A202D (PaintRef hex, OEM=Acura, code=B74P (models=Integra; years=1997-1999)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:integra:B74P"
       }
@@ -967,7 +967,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #323F58 (PaintRef hex, OEM=Acura, code=B73M (models=Integra; year=1997)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:integra:B73M"
       }
@@ -984,7 +984,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #17175C (PaintRef hex, OEM=Acura, code=B90P (models=TL; year=1998)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:tl:B90P"
       }
@@ -1001,7 +1001,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #677FAD (PaintRef hex, OEM=Acura, code=B91M (models=RL, TL; years=1998-1999)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:rl:B91M"
       }
@@ -1018,7 +1018,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #2744B7 (PaintRef hex, OEM=Acura, code=B97M (models=Integra; years=2000-2001)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:integra:B97M"
       }
@@ -1035,7 +1035,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #1C1B24 (PaintRef hex, OEM=Acura, code=B92P (models=RL, RSX; years=2000-2003)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:rl:B92P"
       }
@@ -1052,9 +1052,60 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #0D3798 (PaintRef hex, OEM=Acura, code=B657P (models=MDX; year=2026)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:mdx:B657P"
+      }
+    },
+    {
+      "code": "YR503M",
+      "marketingName": "Rosewood Brown",
+      "finish": "solid",
+      "lab": {
+        "L": 28.54,
+        "a": 3.4,
+        "b": -6.32,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #44424D (PaintRef hex, OEM=Acura, code=YR503M (models=Integra; year=1994)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:integra:YR503M"
+      }
+    },
+    {
+      "code": "YR506M",
+      "marketingName": "Desert Mist",
+      "finish": "solid",
+      "lab": {
+        "L": 38.27,
+        "a": 2.83,
+        "b": -6.16,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #5A5964 (PaintRef hex, OEM=Acura, code=YR506M (models=Integra, Legend, Vigor; years=1994-1997)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:integra:YR506M"
+      }
+    },
+    {
+      "code": "YR523M",
+      "marketingName": "Champagne Beige",
+      "finish": "solid",
+      "lab": {
+        "L": 74.36,
+        "a": -9.53,
+        "b": 18.87,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #B3BB94 (PaintRef hex, OEM=Acura, code=YR523M (models=Integra; year=2000)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:integra:YR523M"
       }
     },
     {
@@ -1069,7 +1120,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #35343F (PaintRef hex, OEM=Acura, code=RP24P (models=Integra; year=1994)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:integra:RP24P"
       }
@@ -1086,26 +1137,9 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #495163 (PaintRef hex, OEM=Acura, code=NH575M (models=Integra; year=1994)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:integra:NH575M"
-      }
-    },
-    {
-      "code": "YR506M",
-      "marketingName": "Desert Mist",
-      "finish": "solid",
-      "lab": {
-        "L": 38.27,
-        "a": 2.83,
-        "b": -6.16,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-17",
-        "notes": "Derived from #5A5964 (PaintRef hex, OEM=Acura, code=YR506M (models=Integra, Legend, Vigor; years=1994-1997)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:Acura:integra:YR506M"
       }
     },
     {
@@ -1120,7 +1154,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #3E4259 (PaintRef hex, OEM=Acura, code=RP21M (models=Integra; year=1995)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:integra:RP21M"
       }
@@ -1137,7 +1171,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #BDC9D4 (PaintRef hex, OEM=Acura, code=NH583M (models=Integra; years=1995-2000)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:integra:NH583M"
       }
@@ -1154,7 +1188,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #C2CDD0 (PaintRef hex, OEM=Acura, code=NH597M (models=Integra; years=1997-1998)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:integra:NH597M"
       }
@@ -1171,7 +1205,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #B1C6C6 (PaintRef hex, OEM=Acura, code=NH623M (models=Integra, RL, RSX, TSX; years=2001-2004)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:integra:NH623M"
       }
@@ -1188,7 +1222,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #9D9D9D (PaintRef hex, OEM=Acura, code=YR525M (models=Integra; year=2001)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:integra:YR525M"
       }
@@ -1205,7 +1239,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #656C7A (PaintRef hex, OEM=Acura, code=NH885M (models=Integra, MDX, RDX, TLX; years=2022-2026)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:integra:NH885M"
       }
@@ -1222,7 +1256,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #A4A8AE (PaintRef hex, OEM=Acura, code=NH932M (models=MDX, RDX; years=2025-2026)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:mdx:NH932M"
       }
@@ -1239,7 +1273,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #8F908E (PaintRef hex, OEM=Acura, code=NH912P (models=MDX, RDX, TLX; years=2024-2026)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:mdx:NH912P"
       }
@@ -1256,26 +1290,9 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #273D40 (PaintRef hex, OEM=Acura, code=G95P (models=Integra; years=1999-2001)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:integra:G95P"
-      }
-    },
-    {
-      "code": "YR503M",
-      "marketingName": "Rosewood Brown",
-      "finish": "solid",
-      "lab": {
-        "L": 28.54,
-        "a": 3.4,
-        "b": -6.32,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-17",
-        "notes": "Derived from #44424D (PaintRef hex, OEM=Acura, code=YR503M (models=Integra; year=1994)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:Acura:integra:YR503M"
       }
     },
     {
@@ -1290,7 +1307,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #2D2744 (PaintRef hex, OEM=Acura, code=PB76P (models=Integra; year=2000)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:integra:PB76P"
       }
@@ -1307,8 +1324,8 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
-        "notes": "Derived from #CD0F1C (PaintRef hex, OEM=Acura, code=R81 (models=Integra, Legend, RSX; years=1994-2004)). Replace with spectro LAB before production claims.",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #CD0F1C (PaintRef hex, OEM=Acura, code=R81 (models=Integra, Legend, RSX, TSX; years=1994-2004)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:integra:R81"
       }
     },
@@ -1324,7 +1341,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #590715 (PaintRef hex, OEM=Acura, code=R72P (models=Integra; years=1994-1995)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:integra:R72P"
       }
@@ -1341,7 +1358,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #393236 (PaintRef hex, OEM=Acura, code=RP25P (models=Integra, Legend; years=1996-1997)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:integra:RP25P"
       }
@@ -1358,7 +1375,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #481D23 (PaintRef hex, OEM=Acura, code=R93P (models=Integra; years=1996-1997)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:integra:R93P"
       }
@@ -1375,7 +1392,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #5F0C1C (PaintRef hex, OEM=Acura, code=R505P (models=Integra; years=1998-1999)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:integra:R505P"
       }
@@ -1392,7 +1409,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #5F0C1C (PaintRef hex, OEM=Acura, code=R505P (models=Integra; year=2000)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:integra:R505P"
       }
@@ -1409,7 +1426,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #860014 (PaintRef hex, OEM=Acura, code=R504P (models=Integra, RL; years=2000-2002)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:integra:R504P"
       }
@@ -1426,7 +1443,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #DADED6 (PaintRef hex, OEM=Acura, code=NH538 (models=Integra, Legend; years=1994-1998)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:integra:NH538"
       }
@@ -1443,7 +1460,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #FFF8F0 (PaintRef hex, OEM=Acura, code=NH0 (models=Integra; years=1997-2001)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:integra:NH0"
       }
@@ -1460,7 +1477,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #FDFDFD (PaintRef hex, OEM=Acura, code=NH578 (models=Integra, Legend, RSX, Vigor; years=1994-2004)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:integra:NH578"
       }
@@ -1477,7 +1494,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #FEDC0E (PaintRef hex, OEM=Acura, code=Y56 (models=Integra; years=2000-2001)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:integra:Y56"
       }
@@ -1494,7 +1511,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #21303D (PaintRef hex, OEM=Acura, code=G78P (models=Legend, Vigor; years=1994-1997)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:legend:G78P"
       }
@@ -1511,7 +1528,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #2D4456 (PaintRef hex, OEM=Acura, code=G83P (models=Legend; year=1996)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:legend:G83P"
       }
@@ -1528,7 +1545,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #243434 (PaintRef hex, OEM=Acura, code=G79P (models=Legend, RL, TL, Vigor; years=1995-1998)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:legend:G79P"
       }
@@ -1545,7 +1562,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #4D5780 (PaintRef hex, OEM=Acura, code=B75M (models=Legend; year=1997)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:legend:B75M"
       }
@@ -1562,7 +1579,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #A1A496 (PaintRef hex, OEM=Acura, code=YR505M (models=Legend; years=1994-1995)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:legend:YR505M"
       }
@@ -1579,7 +1596,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #44535E (PaintRef hex, OEM=Acura, code=G75M (models=Legend; years=1994-1995)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:legend:G75M"
       }
@@ -1596,7 +1613,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #2E2D37 (PaintRef hex, OEM=Acura, code=RP20M (models=Legend; year=1994)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:legend:RP20M"
       }
@@ -1613,7 +1630,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #303945 (PaintRef hex, OEM=Acura, code=YR511P (models=Legend; years=1996-1997)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:legend:YR511P"
       }
@@ -1630,7 +1647,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #B8C7D2 (PaintRef hex, OEM=Acura, code=YR509P (models=Legend, TL, Vigor; years=1995-1998)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:legend:YR509P"
       }
@@ -1647,7 +1664,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #7F888E (PaintRef hex, OEM=Acura, code=NH546M (models=NSX; years=1997-1999)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:nsx:NH546M"
       }
@@ -1664,7 +1681,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #7D8B98 (PaintRef hex, OEM=Acura, code=NH552M (models=NSX; year=1997)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:nsx:NH552M"
       }
@@ -1681,7 +1698,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #CFC9E0 (PaintRef hex, OEM=Acura, code=YR508M (models=Legend, RL; years=1996-1998)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:legend:YR508M"
       }
@@ -1698,7 +1715,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #2E1E25 (PaintRef hex, OEM=Acura, code=R91P (models=Legend, Vigor; years=1995-1997)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:legend:R91P"
       }
@@ -1715,7 +1732,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #D0D0C7 (PaintRef hex, OEM=Acura, code=NH515P (models=Legend; year=1994)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:legend:NH515P"
       }
@@ -1732,7 +1749,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #FDFFF4 (PaintRef hex, OEM=Acura, code=NH585P (models=Legend, RL, TL, Vigor; years=1995-1999)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:legend:NH585P"
       }
@@ -1749,7 +1766,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #000000 (PaintRef hex, OEM=Acura, code=NH707-H (models=MDX; years=2007-2008)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:mdx:NH707-H"
       }
@@ -1766,7 +1783,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #000000 (PaintRef hex, OEM=Acura, code=NH707-B (models=MDX; year=2009)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:mdx:NH707-B"
       }
@@ -1783,7 +1800,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #56627A (PaintRef hex, OEM=Acura, code=G501M-H (models=MDX; year=2001)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:mdx:G501M-H"
       }
@@ -1800,7 +1817,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #1C1B24 (PaintRef hex, OEM=Acura, code=B92P-H (models=MDX; years=2001-2002)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:mdx:B92P-H"
       }
@@ -1817,7 +1834,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #2A4245 (PaintRef hex, OEM=Acura, code=G510P-H (models=MDX; year=2002)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:mdx:G510P-H"
       }
@@ -1834,7 +1851,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #96BACE (PaintRef hex, OEM=Acura, code=BG50M-H (models=MDX; year=2003)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:mdx:BG50M-H"
       }
@@ -1851,7 +1868,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #222C47 (PaintRef hex, OEM=Acura, code=B518P-H (models=MDX; years=2003-2004)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:mdx:B518P-H"
       }
@@ -1868,7 +1885,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #4B6077 (PaintRef hex, OEM=Acura, code=NH662P-H (models=MDX; years=2003-2004)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:mdx:NH662P-H"
       }
@@ -1885,7 +1902,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #4B6077 (PaintRef hex, OEM=Acura, code=NH662P-H (models=MDX; years=2005-2006)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:mdx:NH662P-H"
       }
@@ -1902,7 +1919,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #1C1B24 (PaintRef hex, OEM=Acura, code=B92P-B (models=MDX; years=2005-2006)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:mdx:B92P-B"
       }
@@ -1919,7 +1936,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #475656 (PaintRef hex, OEM=Acura, code=B533M-H (models=MDX; years=2005-2007)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:mdx:B533M-H"
       }
@@ -1936,7 +1953,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #1B2732 (PaintRef hex, OEM=Acura, code=B552P-H (models=MDX; year=2009)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:mdx:B552P-H"
       }
@@ -1953,7 +1970,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #1B2732 (PaintRef hex, OEM=Acura, code=B552P-B (models=MDX, ZDX; years=2010-2013)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:mdx:B552P-B"
       }
@@ -1970,7 +1987,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #2B3856 (PaintRef hex, OEM=Acura, code=B588P-A (models=MDX, RDX, TL, TLX; years=2013-2017)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:mdx:B588P-A"
       }
@@ -1987,7 +2004,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #2B3856 (PaintRef hex, OEM=Acura, code=B588P (models=MDX, RDX, RLX, TLX; years=2018-2019)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:mdx:B588P"
       }
@@ -2004,7 +2021,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #1D2A55 (PaintRef hex, OEM=Acura, code=B576P (models=MDX, RDX, TLX; years=2020-2022)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:mdx:B576P"
       }
@@ -2021,7 +2038,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #3D486B (PaintRef hex, OEM=Acura, code=B640M (models=RDX; year=2025)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:rdx:B640M"
       }
@@ -2038,7 +2055,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #2D2225 (PaintRef hex, OEM=Acura, code=YR530P-H (models=MDX; year=2001)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:mdx:YR530P-H"
       }
@@ -2055,7 +2072,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #B5AFA1 (PaintRef hex, OEM=Acura, code=YR520M-H (models=MDX; years=2001-2002)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:mdx:YR520M-H"
       }
@@ -2072,7 +2089,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #2D2225 (PaintRef hex, OEM=Acura, code=YR530P-H (models=MDX; year=2002)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:mdx:YR530P-H"
       }
@@ -2089,7 +2106,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #8C8577 (PaintRef hex, OEM=Acura, code=YR542M-H (models=MDX; years=2003-2004)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:mdx:YR542M-H"
       }
@@ -2106,7 +2123,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #50453D (PaintRef hex, OEM=Acura, code=YR543M-H (models=MDX; years=2004-2006)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:mdx:YR543M-H"
       }
@@ -2123,7 +2140,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #9F9785 (PaintRef hex, OEM=Acura, code=YR545M-H (models=MDX; years=2005-2007)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:mdx:YR545M-H"
       }
@@ -2140,7 +2157,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #726454 (PaintRef hex, OEM=Acura, code=G525M-H (models=MDX; year=2007)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:mdx:G525M-H"
       }
@@ -2157,7 +2174,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #ACA196 (PaintRef hex, OEM=Acura, code=YR573M-H (models=MDX; year=2009)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:mdx:YR573M-H"
       }
@@ -2174,7 +2191,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #3D1C11 (PaintRef hex, OEM=Acura, code=YR580M (models=MDX, ZDX; years=2010-2011)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:mdx:YR580M"
       }
@@ -2191,7 +2208,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #ACA196 (PaintRef hex, OEM=Acura, code=YR573M-B (models=MDX; year=2010)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:mdx:YR573M-B"
       }
@@ -2208,7 +2225,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #ACA196 (PaintRef hex, OEM=Acura, code=YR573M-A (models=MDX; year=2011)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:mdx:YR573M-A"
       }
@@ -2225,7 +2242,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #3D1C11 (PaintRef hex, OEM=Acura, code=YR580M-H (models=ZDX; year=2012)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:zdx:YR580M-H"
       }
@@ -2242,7 +2259,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #AD7C3D (PaintRef hex, OEM=Acura, code=YR651P (models=MDX, TLX; years=2021-2024)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:mdx:YR651P"
       }
@@ -2259,7 +2276,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #D7DDDE (PaintRef hex, OEM=Acura, code=NH638M-H (models=MDX; years=2001-2004)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:mdx:NH638M-H"
       }
@@ -2276,7 +2293,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #D5D8D8 (PaintRef hex, OEM=Acura, code=NH689M-H (models=MDX; years=2005-2009)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:mdx:NH689M-H"
       }
@@ -2293,7 +2310,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #676E64 (PaintRef hex, OEM=Acura, code=G521M-H (models=MDX; year=2006)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:mdx:G521M-H"
       }
@@ -2310,7 +2327,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #53505D (PaintRef hex, OEM=Acura, code=NH705M-H (models=MDX; years=2007-2008)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:mdx:NH705M-H"
       }
@@ -2327,7 +2344,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #454244 (PaintRef hex, OEM=Acura, code=NH741M-H (models=MDX; year=2008)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:mdx:NH741M-H"
       }
@@ -2344,7 +2361,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #454244 (PaintRef hex, OEM=Acura, code=NH741M-B (models=MDX; year=2009)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:mdx:NH741M-B"
       }
@@ -2361,7 +2378,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #565556 (PaintRef hex, OEM=Acura, code=NH736M-A (models=MDX, RDX, TL, ZDX; years=2010-2012)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:mdx:NH736M-A"
       }
@@ -2378,7 +2395,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #BBB6BB (PaintRef hex, OEM=Acura, code=NH743M-A (models=MDX, RDX, TL, ZDX; years=2009-2013)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:mdx:NH743M-A"
       }
@@ -2395,7 +2412,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #BBBAB8 (PaintRef hex, OEM=Acura, code=NH700M-B (models=MDX; years=2014-2015)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:mdx:NH700M-B"
       }
@@ -2412,7 +2429,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #597067 (PaintRef hex, OEM=Acura, code=G537M-H (models=MDX; years=2014-2015)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:mdx:G537M-H"
       }
@@ -2429,7 +2446,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #597067 (PaintRef hex, OEM=Acura, code=G537M-B (models=MDX; year=2016)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:mdx:G537M-B"
       }
@@ -2446,7 +2463,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #424B57 (PaintRef hex, OEM=Acura, code=PB88M (models=MDX, RDX; years=2019-2021)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:mdx:PB88M"
       }
@@ -2463,7 +2480,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #213129 (PaintRef hex, OEM=Acura, code=G87P-H (models=MDX; year=2001)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:mdx:G87P-H"
       }
@@ -2480,7 +2497,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #503779 (PaintRef hex, OEM=Acura, code=PB92P (models=MDX, TLX; years=2021-2022)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:mdx:PB92P"
       }
@@ -2497,7 +2514,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #4E161B (PaintRef hex, OEM=Acura, code=R519P-H (models=MDX; years=2003-2006)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:mdx:R519P-H"
       }
@@ -2514,7 +2531,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #3B0000 (PaintRef hex, OEM=Acura, code=R529P-H (models=MDX; years=2007-2008)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:mdx:R529P-H"
       }
@@ -2531,7 +2548,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #3B0000 (PaintRef hex, OEM=Acura, code=R529P-B (models=MDX, ZDX; years=2009-2017)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:mdx:R529P-B"
       }
@@ -2548,7 +2565,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #FDFDFD (PaintRef hex, OEM=Acura, code=NH578-H (models=MDX; years=2003-2007)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:mdx:NH578-H"
       }
@@ -2565,7 +2582,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #F5F1E4 (PaintRef hex, OEM=Acura, code=NH677P (models=MDX; year=2004)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:mdx:NH677P"
       }
@@ -2582,7 +2599,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #F5F1E4 (PaintRef hex, OEM=Acura, code=NH677P-H (models=MDX; year=2005)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:mdx:NH677P-H"
       }
@@ -2599,7 +2616,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #F5F1E4 (PaintRef hex, OEM=Acura, code=NH677P-H (models=MDX, ZDX; years=2006-2013)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:mdx:NH677P-H"
       }
@@ -2616,7 +2633,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #F5F1E4 (PaintRef hex, OEM=Acura, code=NH814P-H (models=ZDX; year=2012)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:zdx:NH814P-H"
       }
@@ -2633,7 +2650,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #EAF9E8 (PaintRef hex, OEM=Acura, code=NH603P-H (models=MDX, RDX; years=2013-2017)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:mdx:NH603P-H"
       }
@@ -2650,7 +2667,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #EAF9E8 (PaintRef hex, OEM=Acura, code=NH603P-A (models=MDX, RDX, TL; years=2005-2016)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:mdx:NH603P-A"
       }
@@ -2667,7 +2684,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #EAF9E8 (PaintRef hex, OEM=Acura, code=NH603P (models=MDX, RDX; years=2018-2019)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:mdx:NH603P"
       }
@@ -2684,7 +2701,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #000000 (PaintRef hex, OEM=Acura, code=NH547 (models=NSX; years=1994-2023)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:nsx:NH547"
       }
@@ -2701,7 +2718,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #000000 (PaintRef hex, OEM=Acura, code=NH547-T (models=NSX; year=2005)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:nsx:NH547-T"
       }
@@ -2718,7 +2735,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #3A444F (PaintRef hex, OEM=Acura, code=G70P (models=NSX; years=1994-1997)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:nsx:G70P"
       }
@@ -2735,7 +2752,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #1C4E6D (PaintRef hex, OEM=Acura, code=BG32P (models=NSX; year=1997)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:nsx:BG32P"
       }
@@ -2752,7 +2769,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #323E57 (PaintRef hex, OEM=Acura, code=B66P (models=NSX; years=1997-1999)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:nsx:B66P"
       }
@@ -2769,7 +2786,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #0045BE (PaintRef hex, OEM=Acura, code=B82 (models=NSX; year=1997)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:nsx:B82"
       }
@@ -2786,7 +2803,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #1F2983 (PaintRef hex, OEM=Acura, code=B501P (models=NSX; years=2000-2001)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:nsx:B501P"
       }
@@ -2803,7 +2820,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #17239B (PaintRef hex, OEM=Acura, code=B510P (models=NSX; years=2002-2004)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:nsx:B510P"
       }
@@ -2820,7 +2837,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #17239B (PaintRef hex, OEM=Acura, code=B510P-T (models=NSX; year=2005)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:nsx:B510P-T"
       }
@@ -2837,7 +2854,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #054A96 (PaintRef hex, OEM=Acura, code=B605P (models=NSX; years=2017-2023)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:nsx:B605P"
       }
@@ -2854,7 +2871,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #0C76F3 (PaintRef hex, OEM=Acura, code=B554P (models=NSX, TLX; years=2021-2023)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:nsx:B554P"
       }
@@ -2871,7 +2888,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #353441 (PaintRef hex, OEM=Acura, code=NH604P (models=NSX; year=1997)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:nsx:NH604P"
       }
@@ -2888,7 +2905,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #7C818E (PaintRef hex, OEM=Acura, code=NH630M (models=NSX; years=2000-2004)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:nsx:NH630M"
       }
@@ -2905,7 +2922,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #7C818E (PaintRef hex, OEM=Acura, code=NH630M-T (models=NSX; year=2005)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:nsx:NH630M-T"
       }
@@ -2922,7 +2939,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #605E56 (PaintRef hex, OEM=Acura, code=G544M (models=NSX; years=2017-2018)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:nsx:G544M"
       }
@@ -2939,7 +2956,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #C3C1C1 (PaintRef hex, OEM=Acura, code=NH837M-U (models=NSX; year=2017)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:nsx:NH837M-U"
       }
@@ -2956,7 +2973,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #C3C1C1 (PaintRef hex, OEM=Acura, code=NH837M (models=NSX; years=2018-2021)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:nsx:NH837M"
       }
@@ -2973,7 +2990,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #B1B3B9 (PaintRef hex, OEM=Acura, code=zgothamgraymatte (models=NSX; years=2022-2023)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:nsx:zgothamgraymatte"
       }
@@ -2990,7 +3007,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #DE5525 (PaintRef hex, OEM=Acura, code=YR514P (models=NSX; year=1997)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:nsx:YR514P"
       }
@@ -3007,7 +3024,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #BD501C (PaintRef hex, OEM=Acura, code=YR536P (models=NSX; years=2002-2004)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:nsx:YR536P"
       }
@@ -3024,7 +3041,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #BD501C (PaintRef hex, OEM=Acura, code=YR536P-T (models=NSX; year=2005)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:nsx:YR536P-T"
       }
@@ -3041,7 +3058,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #FF8402 (PaintRef hex, OEM=Acura, code=YR647P (models=NSX, RDX; years=2019-2023)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:nsx:YR647P"
       }
@@ -3058,7 +3075,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #242136 (PaintRef hex, OEM=Acura, code=PB73P (models=NSX; years=1995-1997)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:nsx:PB73P"
       }
@@ -3075,7 +3092,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #9F000E (PaintRef hex, OEM=Acura, code=R77 (models=NSX; years=1994-1999)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:nsx:R77"
       }
@@ -3092,7 +3109,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #A50019 (PaintRef hex, OEM=Acura, code=R501 (models=NSX; year=1997)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:nsx:R501"
       }
@@ -3109,7 +3126,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #CC001A (PaintRef hex, OEM=Acura, code=R510 (models=NSX; years=2000-2002)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:nsx:R510"
       }
@@ -3126,7 +3143,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #CC001A (PaintRef hex, OEM=Acura, code=R510 (models=NSX, RSX; years=2003-2004)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:nsx:R510"
       }
@@ -3143,7 +3160,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #CC001A (PaintRef hex, OEM=Acura, code=R510-T (models=NSX; year=2005)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:nsx:R510-T"
       }
@@ -3160,7 +3177,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #B41302 (PaintRef hex, OEM=Acura, code=R559 (models=NSX, TLX; years=2017-2023)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:nsx:R559"
       }
@@ -3177,7 +3194,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #A41D1F (PaintRef hex, OEM=Acura, code=R556P (models=NSX; years=2017-2023)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:nsx:R556P"
       }
@@ -3194,7 +3211,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #FDFDFD (PaintRef hex, OEM=Acura, code=NH565 (models=NSX; years=1994-2004)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:nsx:NH565"
       }
@@ -3211,7 +3228,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #FDFDFD (PaintRef hex, OEM=Acura, code=NH565-T (models=NSX; year=2005)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:nsx:NH565-T"
       }
@@ -3228,7 +3245,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #DBD5BB (PaintRef hex, OEM=Acura, code=NH854 (models=NSX, TLX; years=2017-2023)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:nsx:NH854"
       }
@@ -3245,7 +3262,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #E6E5E0 (PaintRef hex, OEM=Acura, code=NH839P (models=NSX; years=2017-2023)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:nsx:NH839P"
       }
@@ -3262,7 +3279,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #DAAA12 (PaintRef hex, OEM=Acura, code=Y52P (models=NSX; years=1997-1998)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:nsx:Y52P"
       }
@@ -3279,7 +3296,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #DAAA12 (PaintRef hex, OEM=Acura, code=Y52P (models=NSX; years=1999-2003)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:nsx:Y52P"
       }
@@ -3296,7 +3313,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #E79D0C (PaintRef hex, OEM=Acura, code=Y65P (models=NSX; year=2004)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:nsx:Y65P"
       }
@@ -3313,7 +3330,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #E79D0C (PaintRef hex, OEM=Acura, code=Y65P-T (models=NSX; year=2005)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:nsx:Y65P-T"
       }
@@ -3330,7 +3347,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #DAAA12 (PaintRef hex, OEM=Acura, code=Y84P (models=NSX; years=2020-2023)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:nsx:Y84P"
       }
@@ -3347,7 +3364,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #1C2348 (PaintRef hex, OEM=Acura, code=B536P-A (models=RDX, TL; years=2007-2011)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:rdx:B536P-A"
       }
@@ -3364,7 +3381,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #887D70 (PaintRef hex, OEM=Acura, code=YR562P-A (models=RDX, TL; years=2006-2008)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:rdx:YR562P-A"
       }
@@ -3381,7 +3398,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #453C39 (PaintRef hex, OEM=Acura, code=YR600M-E (models=RDX; years=2014-2015)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:rdx:YR600M-E"
       }
@@ -3398,7 +3415,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #453C39 (PaintRef hex, OEM=Acura, code=YR600M-C (models=RDX; years=2016-2017)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:rdx:YR600M-C"
       }
@@ -3415,7 +3432,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #453C39 (PaintRef hex, OEM=Acura, code=YR600M (models=RDX; year=2018)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:rdx:YR600M"
       }
@@ -3432,7 +3449,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #BBBAB8 (PaintRef hex, OEM=Acura, code=NH700M-A (models=RDX, TL; years=2007-2014)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:rdx:NH700M-A"
       }
@@ -3449,7 +3466,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #2D363E (PaintRef hex, OEM=Acura, code=NH658P-A (models=TL; year=2007)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:tl:NH658P-A"
       }
@@ -3466,7 +3483,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #5F5E6A (PaintRef hex, OEM=Acura, code=NH737M-A (models=RDX, RL, TL; years=2008-2012)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:rdx:NH737M-A"
       }
@@ -3483,7 +3500,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #565556 (PaintRef hex, OEM=Acura, code=NH736M (models=TSX; year=2009)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:tsx:NH736M"
       }
@@ -3500,7 +3517,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #99A0AB (PaintRef hex, OEM=Acura, code=NH789M-A (models=RDX, TL; years=2012-2013)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:rdx:NH789M-A"
       }
@@ -3517,7 +3534,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #ACA4A9 (PaintRef hex, OEM=Acura, code=YR578M-G (models=RDX; year=2013)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:rdx:YR578M-G"
       }
@@ -3534,7 +3551,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #99A0AB (PaintRef hex, OEM=Acura, code=NH789M-L (models=RDX; years=2014-2015)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:rdx:NH789M-L"
       }
@@ -3551,7 +3568,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #840C18 (PaintRef hex, OEM=Acura, code=R528P-A (models=RDX, TL; years=2007-2008)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:rdx:R528P-A"
       }
@@ -3568,7 +3585,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #5C001B (PaintRef hex, OEM=Acura, code=R530P-A (models=RDX, TL; years=2009-2011)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:rdx:R530P-A"
       }
@@ -3585,7 +3602,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #5C001B (PaintRef hex, OEM=Acura, code=R548P (models=RDX; year=2018)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:rdx:R548P"
       }
@@ -3602,7 +3619,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #231C20 (PaintRef hex, OEM=Acura, code=NH629M-C (models=RL; year=2002)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:rl:NH629M-C"
       }
@@ -3619,7 +3636,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #000000 (PaintRef hex, OEM=Acura, code=NH731P-C (models=RL, RLX, TSX; years=2009-2016)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:rl:NH731P-C"
       }
@@ -3636,7 +3653,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #1C1B24 (PaintRef hex, OEM=Acura, code=B92P (models=RL; year=1999)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:rl:B92P"
       }
@@ -3653,7 +3670,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #252D42 (PaintRef hex, OEM=Acura, code=B93P (models=RL; year=1999)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:rl:B93P"
       }
@@ -3670,7 +3687,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #252D42 (PaintRef hex, OEM=Acura, code=B93P (models=RL; year=2000)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:rl:B93P"
       }
@@ -3687,7 +3704,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #1C243B (PaintRef hex, OEM=Acura, code=B502P (models=RL, TSX; years=2001-2004)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:rl:B502P"
       }
@@ -3704,7 +3721,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #1C243B (PaintRef hex, OEM=Acura, code=B502P-C (models=RL; year=2003)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:rl:B502P-C"
       }
@@ -3721,7 +3738,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #949DB4 (PaintRef hex, OEM=Acura, code=B515M (models=RL; year=2003)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:rl:B515M"
       }
@@ -3738,7 +3755,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #1C1B24 (PaintRef hex, OEM=Acura, code=B92P-C (models=RL, RSX, TSX; years=2004-2008)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:rl:B92P-C"
       }
@@ -3755,7 +3772,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #1A1A46 (PaintRef hex, OEM=Acura, code=B532P-C (models=RL; years=2005-2010)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:rl:B532P-C"
       }
@@ -3772,7 +3789,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #ABA39C (PaintRef hex, OEM=Acura, code=YR524M (models=RL; year=1999)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:rl:YR524M"
       }
@@ -3789,7 +3806,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #B8B9A3 (PaintRef hex, OEM=Acura, code=YR537P (models=RL; years=2003-2004)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:rl:YR537P"
       }
@@ -3806,7 +3823,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #9C9686 (PaintRef hex, OEM=Acura, code=YR538M-C (models=RL; years=2005-2008)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:rl:YR538M-C"
       }
@@ -3823,7 +3840,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #AFA18F (PaintRef hex, OEM=Acura, code=YR575M-C (models=RL; years=2009-2010)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:rl:YR575M-C"
       }
@@ -3840,7 +3857,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #2B2A35 (PaintRef hex, OEM=Acura, code=NH611M (models=RL; year=1998)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:rl:NH611M"
       }
@@ -3857,7 +3874,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #424349 (PaintRef hex, OEM=Acura, code=NH537M (models=RL; year=1999)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:rl:NH537M"
       }
@@ -3874,7 +3891,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #B2C1CC (PaintRef hex, OEM=Acura, code=NH595M (models=RL; year=1999)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:rl:NH595M"
       }
@@ -3891,7 +3908,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #7D8B98 (PaintRef hex, OEM=Acura, code=NH552M (models=RL; year=2000)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:rl:NH552M"
       }
@@ -3908,7 +3925,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #75817E (PaintRef hex, OEM=Acura, code=YR528M (models=RL; year=2002)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:rl:YR528M"
       }
@@ -3925,7 +3942,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #2D363E (PaintRef hex, OEM=Acura, code=NH658P (models=RL, TSX; years=2003-2004)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:rl:NH658P"
       }
@@ -3942,7 +3959,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #635F64 (PaintRef hex, OEM=Acura, code=NH685M-C (models=RL; years=2005-2006)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:rl:NH685M-C"
       }
@@ -3959,7 +3976,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #2D363E (PaintRef hex, OEM=Acura, code=NH658P-C (models=RL, TSX; years=2005-2008)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:rl:NH658P-C"
       }
@@ -3976,7 +3993,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #665B6A (PaintRef hex, OEM=Acura, code=NH686M-C (models=RL; years=2005-2008)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:rl:NH686M-C"
       }
@@ -3993,7 +4010,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #687691 (PaintRef hex, OEM=Acura, code=B522M (models=RL, TSX; years=2004-2006)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:rl:B522M"
       }
@@ -4010,7 +4027,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #B7B3B6 (PaintRef hex, OEM=Acura, code=NH727M-C (models=RL; years=2007-2012)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:rl:NH727M-C"
       }
@@ -4027,7 +4044,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #99A0AB (PaintRef hex, OEM=Acura, code=NH754M-C (models=RL; years=2011-2012)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:rl:NH754M-C"
       }
@@ -4044,7 +4061,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #2D2729 (PaintRef hex, OEM=Acura, code=NH782M (models=TSX; year=2011)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:tsx:NH782M"
       }
@@ -4061,7 +4078,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #2D2729 (PaintRef hex, OEM=Acura, code=NH782M-C (models=RLX, TSX; years=2012-2017)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:rlx:NH782M-C"
       }
@@ -4078,7 +4095,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #203737 (PaintRef hex, OEM=Acura, code=G97P-C (models=RL; year=1999)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:rl:G97P-C"
       }
@@ -4095,7 +4112,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #203737 (PaintRef hex, OEM=Acura, code=G97P (models=RL; years=2000-2002)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:rl:G97P"
       }
@@ -4112,7 +4129,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #545F5B (PaintRef hex, OEM=Acura, code=NH750M-C (models=RL; years=2009-2010)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:rl:NH750M-C"
       }
@@ -4129,7 +4146,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #860014 (PaintRef hex, OEM=Acura, code=R504P (models=RL; years=1998-1999)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:rl:R504P"
       }
@@ -4146,7 +4163,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #610A19 (PaintRef hex, OEM=Acura, code=R507P (models=RL; years=2001-2002)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:rl:R507P"
       }
@@ -4163,7 +4180,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #511421 (PaintRef hex, OEM=Acura, code=R522P-C (models=RL; year=2005)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:rl:R522P-C"
       }
@@ -4180,7 +4197,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #511421 (PaintRef hex, OEM=Acura, code=R522P-C (models=RL; year=2006)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:rl:R522P-C"
       }
@@ -4197,7 +4214,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #511421 (PaintRef hex, OEM=Acura, code=R522P-C (models=RL; years=2007-2009)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:rl:R522P-C"
       }
@@ -4214,7 +4231,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #54081D (PaintRef hex, OEM=Acura, code=R540P-C (models=RL, RLX; years=2011-2017)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:rl:R540P-C"
       }
@@ -4231,7 +4248,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #EAEAEA (PaintRef hex, OEM=Acura, code=NH624P (models=RL; year=1999)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:rl:NH624P"
       }
@@ -4248,8 +4265,8 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
-        "notes": "Derived from #EAEAEA (PaintRef hex, OEM=Acura, code=NH624P (models=RL, RSX, TL; years=2000-2004)). Replace with spectro LAB before production claims.",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #EAEAEA (PaintRef hex, OEM=Acura, code=NH624P (models=RL, RSX, TL, TSX; years=2000-2004)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:rl:NH624P"
       }
     },
@@ -4265,7 +4282,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #EAEAEA (PaintRef hex, OEM=Acura, code=NH624P (models=RL; years=2001-2002)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:rl:NH624P"
       }
@@ -4282,8 +4299,8 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
-        "notes": "Derived from #EAEAEA (PaintRef hex, OEM=Acura, code=NH624P-C (models=RL, RSX; years=2005-2008)). Replace with spectro LAB before production claims.",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #EAEAEA (PaintRef hex, OEM=Acura, code=NH624P-C (models=RL, RSX, TSX; years=2005-2011)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:rl:NH624P-C"
       }
     },
@@ -4299,7 +4316,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #EDECE9 (PaintRef hex, OEM=Acura, code=NH717P-C (models=RL; years=2009-2012)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:rl:NH717P-C"
       }
@@ -4316,7 +4333,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #BBBAB8 (PaintRef hex, OEM=Acura, code=NH700M (models=RLX, TSX; years=2014-2015)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:rlx:NH700M"
       }
@@ -4333,7 +4350,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #99A0AB (PaintRef hex, OEM=Acura, code=NH789M-C (models=RLX, TSX; years=2012-2015)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:rlx:NH789M-C"
       }
@@ -4350,7 +4367,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #6D6864 (PaintRef hex, OEM=Acura, code=YR596M-C (models=RLX; years=2014-2017)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:rlx:YR596M-C"
       }
@@ -4367,7 +4384,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #6D6864 (PaintRef hex, OEM=Acura, code=YR596M (models=RLX; years=2018-2020)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:rlx:YR596M"
       }
@@ -4384,7 +4401,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #9D0001 (PaintRef hex, OEM=Acura, code=R565M (models=RLX; years=2018-2020)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:rlx:R565M"
       }
@@ -4401,8 +4418,8 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
-        "notes": "Derived from #ECE9E9 (PaintRef hex, OEM=Acura, code=NH788P-C (models=RLX; years=2014-2017)). Replace with spectro LAB before production claims.",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #ECE9E9 (PaintRef hex, OEM=Acura, code=NH788P-C (models=RLX, TSX; years=2012-2017)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:rlx:NH788P-C"
       }
     },
@@ -4418,7 +4435,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #243778 (PaintRef hex, OEM=Acura, code=B507P (models=RSX, TSX; years=2002-2004)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:rsx:B507P"
       }
@@ -4435,7 +4452,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #1C1F40 (PaintRef hex, OEM=Acura, code=B96P (models=RSX; years=2002-2004)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:rsx:B96P"
       }
@@ -4452,7 +4469,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #243778 (PaintRef hex, OEM=Acura, code=B507P-C (models=RSX, TSX; years=2003-2008)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:rsx:B507P-C"
       }
@@ -4469,7 +4486,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #091B6E (PaintRef hex, OEM=Acura, code=B520P-S (models=RSX; years=2005-2006)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:rsx:B520P-S"
       }
@@ -4486,7 +4503,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #65707A (PaintRef hex, OEM=Acura, code=YR534M (models=RSX; years=2002-2004)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:rsx:YR534M"
       }
@@ -4503,7 +4520,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #638387 (PaintRef hex, OEM=Acura, code=G523M-S (models=RSX; years=2005-2006)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:rsx:G523M-S"
       }
@@ -4520,7 +4537,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #7A7B74 (PaintRef hex, OEM=Acura, code=NH675M-S (models=RSX; year=2005)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:rsx:NH675M-S"
       }
@@ -4537,7 +4554,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #B1C6C6 (PaintRef hex, OEM=Acura, code=NH623M-C (models=RSX, TSX; years=2005-2006)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:rsx:NH623M-C"
       }
@@ -4554,7 +4571,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #BBBAB8 (PaintRef hex, OEM=Acura, code=NH700M-C (models=TSX; years=2006-2013)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:tsx:NH700M-C"
       }
@@ -4571,7 +4588,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #7A7B74 (PaintRef hex, OEM=Acura, code=NH675M-S (models=RSX; year=2006)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:rsx:NH675M-S"
       }
@@ -4588,7 +4605,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #B9531E (PaintRef hex, OEM=Acura, code=YR552M-S (models=RSX; years=2005-2006)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:rsx:YR552M-S"
       }
@@ -4605,7 +4622,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #511421 (PaintRef hex, OEM=Acura, code=R522P (models=RSX; year=2003)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:rsx:R522P"
       }
@@ -4622,7 +4639,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #CD0F1C (PaintRef hex, OEM=Acura, code=R81-S (models=RSX; years=2005-2006)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:rsx:R81-S"
       }
@@ -4639,7 +4656,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #FDFDFD (PaintRef hex, OEM=Acura, code=NH578-C (models=RSX; years=2005-2006)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:rsx:NH578-C"
       }
@@ -4656,7 +4673,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #000000 (PaintRef hex, OEM=Acura, code=826 (models=SLX; years=1996-1997)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:slx:826"
       }
@@ -4673,7 +4690,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #000000 (PaintRef hex, OEM=Acura, code=774 (models=SLX; year=1999)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:slx:774"
       }
@@ -4690,7 +4707,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #243046 (PaintRef hex, OEM=Acura, code=720 (models=SLX; year=1999)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:slx:720"
       }
@@ -4707,7 +4724,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #C3C1BB (PaintRef hex, OEM=Acura, code=753 (models=SLX; years=1996-1999)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:slx:753"
       }
@@ -4724,7 +4741,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #4A5D61 (PaintRef hex, OEM=Acura, code=871 (models=SLX; years=1996-1999)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:slx:871"
       }
@@ -4741,7 +4758,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #FDFFF4 (PaintRef hex, OEM=Acura, code=752 (models=SLX; years=1996-1997)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:slx:752"
       }
@@ -4758,7 +4775,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #FDFFF4 (PaintRef hex, OEM=Acura, code=748 (models=SLX; year=1999)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:slx:748"
       }
@@ -4775,7 +4792,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #000000 (PaintRef hex, OEM=Acura, code=NH592P-A (models=TL; year=1999)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:tl:NH592P-A"
       }
@@ -4792,7 +4809,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #28304E (PaintRef hex, OEM=Acura, code=B68P (models=TL; year=1998)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:tl:B68P"
       }
@@ -4809,7 +4826,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #252D42 (PaintRef hex, OEM=Acura, code=B93P-A (models=TL; year=1999)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:tl:B93P-A"
       }
@@ -4826,7 +4843,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #222B48 (PaintRef hex, OEM=Acura, code=B527P-A (models=TL; year=2005)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:tl:B527P-A"
       }
@@ -4843,7 +4860,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #202B78 (PaintRef hex, OEM=Acura, code=B546P-A (models=TL; years=2007-2008)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:tl:B546P-A"
       }
@@ -4860,7 +4877,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #697087 (PaintRef hex, OEM=Acura, code=B559P-A (models=TL; years=2009-2011)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:tl:B559P-A"
       }
@@ -4877,7 +4894,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #655A4F (PaintRef hex, OEM=Acura, code=YR574M-A (models=TL; year=2008)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:tl:YR574M-A"
       }
@@ -4894,7 +4911,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #361C08 (PaintRef hex, OEM=Acura, code=YR569M-A (models=TL; years=2009-2012)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:tl:YR569M-A"
       }
@@ -4911,7 +4928,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #B1C6C6 (PaintRef hex, OEM=Acura, code=NH623M-A (models=TL; year=1999)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:tl:NH623M-A"
       }
@@ -4928,7 +4945,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #53555E (PaintRef hex, OEM=Acura, code=NH643M-A (models=TL; years=2002-2005)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:tl:NH643M-A"
       }
@@ -4945,7 +4962,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #213129 (PaintRef hex, OEM=Acura, code=G87P-A (models=TL; year=1999)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:tl:G87P-A"
       }
@@ -4962,7 +4979,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #192127 (PaintRef hex, OEM=Acura, code=G516P-A (models=TL; years=2004-2005)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:tl:G516P-A"
       }
@@ -4979,7 +4996,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #CFC9E0 (PaintRef hex, OEM=Acura, code=YR508M-A (models=TL; year=1999)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:tl:YR508M-A"
       }
@@ -4996,7 +5013,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #610A19 (PaintRef hex, OEM=Acura, code=R507P-A (models=TL; years=1999-2004)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:tl:R507P-A"
       }
@@ -5013,7 +5030,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #511421 (PaintRef hex, OEM=Acura, code=R522P-A (models=TL; years=2003-2004)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:tl:R522P-A"
       }
@@ -5030,7 +5047,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #511421 (PaintRef hex, OEM=Acura, code=R522P-A (models=TL; year=2005)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:tl:R522P-A"
       }
@@ -5047,7 +5064,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #511421 (PaintRef hex, OEM=Acura, code=R522P-A (models=TL; year=2006)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:tl:R522P-A"
       }
@@ -5064,7 +5081,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #EAF9E8 (PaintRef hex, OEM=Acura, code=NH603P-A (models=TL; years=2000-2002)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:tl:NH603P-A"
       }
@@ -5081,7 +5098,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #EAF9E8 (PaintRef hex, OEM=Acura, code=NH603P-A (models=TL; years=2003-2004)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:tl:NH603P-A"
       }
@@ -5098,7 +5115,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #04408E (PaintRef hex, OEM=Acura, code=B575P (models=TLX; year=2018)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:tlx:B575P"
       }
@@ -5115,7 +5132,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #04408E (PaintRef hex, OEM=Acura, code=B575P (models=TLX; year=2019)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:tlx:B575P"
       }
@@ -5132,7 +5149,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #282114 (PaintRef hex, OEM=Acura, code=YR601P (models=TLX; year=2015)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:tlx:YR601P"
       }
@@ -5149,7 +5166,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #282114 (PaintRef hex, OEM=Acura, code=YR601P-A (models=TLX; year=2016)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:tlx:YR601P-A"
       }
@@ -5166,7 +5183,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #282114 (PaintRef hex, OEM=Acura, code=YR601P-A (models=TLX; year=2017)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:tlx:YR601P-A"
       }
@@ -5183,7 +5200,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #282114 (PaintRef hex, OEM=Acura, code=YR601P (models=TLX; year=2018)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:tlx:YR601P"
       }
@@ -5200,7 +5217,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #A0A0A0 (PaintRef hex, OEM=Acura, code=NH829M (models=TLX; year=2015)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:tlx:NH829M"
       }
@@ -5217,7 +5234,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #777B96 (PaintRef hex, OEM=Acura, code=B538M-C (models=TSX; year=2006)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:tsx:B538M-C"
       }
@@ -5234,7 +5251,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #1C2348 (PaintRef hex, OEM=Acura, code=B536P-C (models=TSX; years=2006-2008)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:tsx:B536P-C"
       }
@@ -5251,7 +5268,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #777B96 (PaintRef hex, OEM=Acura, code=B538M-C (models=TSX; years=2007-2010)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:tsx:B538M-C"
       }
@@ -5268,7 +5285,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #100D58 (PaintRef hex, OEM=Acura, code=B553P-C (models=TSX; years=2009-2014)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:tsx:B553P-C"
       }
@@ -5285,7 +5302,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #BBB6BB (PaintRef hex, OEM=Acura, code=NH743M-C (models=TSX; years=2009-2010)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:tsx:NH743M-C"
       }
@@ -5302,7 +5319,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #5F5E6A (PaintRef hex, OEM=Acura, code=NH737M-C (models=TSX; years=2009-2010)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:tsx:NH737M-C"
       }
@@ -5319,7 +5336,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #99A0AB (PaintRef hex, OEM=Acura, code=NH789M (models=TSX; year=2011)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:tsx:NH789M"
       }
@@ -5336,9 +5353,43 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #192127 (PaintRef hex, OEM=Acura, code=G516P-C (models=TSX; years=2006-2008)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:tsx:G516P-C"
+      }
+    },
+    {
+      "code": "R81-C",
+      "marketingName": "Milano Red",
+      "finish": "solid",
+      "lab": {
+        "L": 43.37,
+        "a": 66.82,
+        "b": 46.76,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #CD0F1C (PaintRef hex, OEM=Acura, code=R81-C (models=TSX; years=2005-2014)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:tsx:R81-C"
+      }
+    },
+    {
+      "code": "R530P-C",
+      "marketingName": "Basque Red",
+      "finish": "solid",
+      "lab": {
+        "L": 17.25,
+        "a": 39.05,
+        "b": 12.23,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #5C001B (PaintRef hex, OEM=Acura, code=R530P-C (models=TSX; years=2009-2011)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Acura:tsx:R530P-C"
       }
     },
     {
@@ -5353,7 +5404,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #334F52 (PaintRef hex, OEM=Acura, code=BG30P (models=Vigor; year=1994)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:vigor:BG30P"
       }
@@ -5370,7 +5421,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #191118 (PaintRef hex, OEM=Acura, code=RP18P (models=Vigor; year=1994)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:vigor:RP18P"
       }
@@ -5387,7 +5438,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #101010 (PaintRef hex, OEM=Acura, code=GB8 (models=ZDX; year=2025)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:zdx:GB8"
       }
@@ -5404,7 +5455,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #14397F (PaintRef hex, OEM=Acura, code=GTR (models=ZDX; years=2024-2025)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:zdx:GTR"
       }
@@ -5421,7 +5472,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #006392 (PaintRef hex, OEM=Acura, code=GZZ (models=ZDX; year=2025)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:zdx:GZZ"
       }
@@ -5438,7 +5489,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #AD7C3D (PaintRef hex, OEM=Acura, code=GZT (models=ZDX; years=2024-2025)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:zdx:GZT"
       }
@@ -5455,7 +5506,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #979F9F (PaintRef hex, OEM=Acura, code=GXD (models=ZDX; year=2025)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:zdx:GXD"
       }
@@ -5472,7 +5523,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #90231B (PaintRef hex, OEM=Acura, code=GNT (models=ZDX; year=2025)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:zdx:GNT"
       }
@@ -5489,7 +5540,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #C9CFD3 (PaintRef hex, OEM=Acura, code=G1W (models=ZDX; year=2025)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Acura:zdx:G1W"
       }

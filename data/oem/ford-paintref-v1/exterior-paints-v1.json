@@ -1,0 +1,177 @@
+{
+  "$schema": "../../../schemas/exterior-paints-v1.schema.json",
+  "scopeId": "ford-paintref-v1",
+  "version": "1.0.0",
+  "paints": [
+    {
+      "code": "AZ",
+      "marketingName": "Star White",
+      "finish": "pearl",
+      "lab": {
+        "L": 93.55,
+        "a": -1.4,
+        "b": 3.87,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from chip-image average #EDEDE5 (PaintRef chip, OEM=Ford, code=AZ (models=F150; year=2024), chipUrl=https://www.paintref.com/chipimages/UTUUUS.png). Tri-coat pearl — single-chip average is a rough screen stand-in. Attribution: paintref.com.",
+        "provenanceId": "paintref-chip:b1e9838c5e045780"
+      }
+    },
+    {
+      "code": "D1",
+      "marketingName": "Stone Gray",
+      "finish": "solid",
+      "lab": {
+        "L": 52.78,
+        "a": 5.79,
+        "b": 10.67,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_chip",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from chip-image average #8F7A6C (PaintRef chip, OEM=Ford, code=D1 (models=F150; year=2024), chipUrl=https://www.paintref.com/chipimages/CG2TSA.png). Attribution: paintref.com.",
+        "provenanceId": "paintref-chip:40b6f117a2cc2e92"
+      }
+    },
+    {
+      "code": "D4",
+      "marketingName": "Rapid Red",
+      "finish": "metallic",
+      "lab": {
+        "L": 30.17,
+        "a": 46.17,
+        "b": 30.57,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "hex_derived",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "LAB from sRGB #8B1A1A — same industry touch-up mapping as scripts/fetch-nhtsa-colors.ts key \"Rapid Red Metallic Tinted Clearcoat\". Pilot PaintRef chip order was unreliable for several rows; this replaces the chip average for D4.",
+        "provenanceId": "lacca:nhtsa-hex-map:ford:Rapid-Red-Metallic-Tinted-Clearcoat"
+      }
+    },
+    {
+      "code": "DB",
+      "marketingName": "Shelter Green",
+      "finish": "metallic",
+      "lab": {
+        "L": 37.97,
+        "a": -10.35,
+        "b": 4.39,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "hex_derived",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "LAB from sRGB #4A5E52 — approximate screen reference for Ford Shelter Green (DB); PaintRef pilot paired a neutral gray chip to this row. Replace with spectro LAB when available.",
+        "provenanceId": "lacca:industry-hex:ford:DB:shelter-green-approx"
+      }
+    },
+    {
+      "code": "DR",
+      "marketingName": "Avalanche Gray",
+      "finish": "metallic",
+      "lab": {
+        "L": 66.99,
+        "a": 0,
+        "b": 0,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "hex_derived",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "LAB from sRGB #A3A3A3 — common touch-up screen reference for Ford Avalanche (DR). PaintRef chip average was near-black (#040404), indicating a row↔chip mismatch in the pilot harvest.",
+        "provenanceId": "lacca:industry-hex:ford:DR:avalanche"
+      }
+    },
+    {
+      "code": "HX",
+      "marketingName": "Antimatter Blue",
+      "finish": "metallic",
+      "lab": {
+        "L": 23.82,
+        "a": 1.15,
+        "b": -23.63,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "hex_derived",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "LAB from sRGB #1C3A5C — scripts/fetch-nhtsa-colors.ts \"Antimatter Blue Metallic\". Replaces an off-white chip average from the pilot.",
+        "provenanceId": "lacca:nhtsa-hex-map:ford:Antimatter-Blue-Metallic"
+      }
+    },
+    {
+      "code": "JS",
+      "marketingName": "Iconic Silver",
+      "finish": "metallic",
+      "lab": {
+        "L": 69.48,
+        "a": -0.52,
+        "b": -0.76,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "hex_derived",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "LAB from sRGB #A8AAAB — scripts/fetch-nhtsa-colors.ts \"Iconic Silver Metallic\". Replaces a darker chip average from the pilot.",
+        "provenanceId": "lacca:nhtsa-hex-map:ford:Iconic-Silver-Metallic"
+      }
+    },
+    {
+      "code": "M7",
+      "marketingName": "Carbonized Gray",
+      "finish": "metallic",
+      "lab": {
+        "L": 32.64,
+        "a": -0.07,
+        "b": -3.37,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "hex_derived",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "LAB from sRGB #4A4D52 — scripts/fetch-nhtsa-colors.ts \"Carbonized Gray Metallic\". PaintRef chip S2WAD4.png averages to olive/brown (#675D3F), inconsistent with OEM Carbonized Gray.",
+        "provenanceId": "lacca:nhtsa-hex-map:ford:Carbonized-Gray-Metallic"
+      }
+    },
+    {
+      "code": "UM",
+      "marketingName": "Agate Black",
+      "finish": "metallic",
+      "lab": {
+        "L": 9.26,
+        "a": 0,
+        "b": 0,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "hex_derived",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "LAB from sRGB #1A1A1A — scripts/fetch-nhtsa-colors.ts \"Agate Black Metallic\". Replaces a mid-gray chip average from the pilot.",
+        "provenanceId": "lacca:nhtsa-hex-map:ford:Agate-Black-Metallic"
+      }
+    },
+    {
+      "code": "YZ",
+      "marketingName": "Oxford White",
+      "finish": "solid",
+      "lab": {
+        "L": 95.84,
+        "a": 0,
+        "b": 0,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "hex_derived",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "LAB from sRGB #F3F3F3 — scripts/fetch-nhtsa-colors.ts \"Oxford White\". Replaces a navy chip average from the pilot.",
+        "provenanceId": "lacca:nhtsa-hex-map:ford:Oxford-White"
+      }
+    }
+  ]
+}

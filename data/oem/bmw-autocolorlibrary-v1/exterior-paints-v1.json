@@ -1,0 +1,92 @@
+{
+  "$schema": "../../../schemas/exterior-paints-v1.schema.json",
+  "scopeId": "bmw-autocolorlibrary-v1",
+  "version": "1.0.0",
+  "paints": [
+    {
+      "code": "300",
+      "marketingName": "Alpine White",
+      "finish": "solid",
+      "lab": {
+        "L": 87.49,
+        "a": -1.76,
+        "b": 3.81,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Bmw.html). Image data/sources/autocolorlibrary/pages/2019-bmw/2019_BMW_01.jpg; bbox 532,1612 100×100. Online chip; replace with spectro LAB before production claims. Pilot: window chosen to minimize RGB distance to PaintRef hex #D9DED3 (automated placement).",
+        "provenanceId": "acl:bmw:2019:300:532,1612,100x100"
+      }
+    },
+    {
+      "code": "416",
+      "marketingName": "Carbon Black",
+      "finish": "pearl",
+      "lab": {
+        "L": 7.25,
+        "a": 1.99,
+        "b": 2.09,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Bmw.html). Image data/sources/autocolorlibrary/pages/2019-bmw/2019_BMW_01.jpg; bbox 1386,2116 100×100. Online chip; replace with spectro LAB before production claims. Pilot: window chosen to minimize RGB distance to PaintRef hex #1A1412 (automated placement).",
+        "provenanceId": "acl:bmw:2019:416:1386,2116,100x100"
+      }
+    },
+    {
+      "code": "475",
+      "marketingName": "Black Sapphire",
+      "finish": "pearl",
+      "lab": {
+        "L": 11.89,
+        "a": 1.16,
+        "b": -4.21,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Bmw.html). Image data/sources/autocolorlibrary/pages/2019-bmw/2019_BMW_01.jpg; bbox 1386,1108 100×100. Online chip; replace with spectro LAB before production claims. Pilot: window chosen to minimize RGB distance to PaintRef hex #1D2125 (automated placement).",
+        "provenanceId": "acl:bmw:2019:475:1386,1108,100x100"
+      }
+    },
+    {
+      "code": "668",
+      "marketingName": "Jet Black",
+      "finish": "solid",
+      "lab": {
+        "L": 3.35,
+        "a": 0.01,
+        "b": 0.91,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Bmw.html). Image data/sources/autocolorlibrary/pages/2019-bmw/2019_BMW_01.jpg; bbox 56,1612 100×100. Online chip; replace with spectro LAB before production claims. Pilot: window chosen to minimize RGB distance to PaintRef hex #000000 (automated placement).",
+        "provenanceId": "acl:bmw:2019:668:56,1612,100x100"
+      }
+    },
+    {
+      "code": "A75",
+      "marketingName": "Melbourne Red",
+      "finish": "solid",
+      "lab": {
+        "L": 39.11,
+        "a": 60.96,
+        "b": 40.27,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Bmw.html). Image data/sources/autocolorlibrary/pages/2019-bmw/2019_BMW_01.jpg; bbox 462,630 100×100. Online chip; replace with spectro LAB before production claims. Pilot: window chosen to minimize RGB distance to PaintRef hex #CC2504 (automated placement).",
+        "provenanceId": "acl:bmw:2019:A75:462,630,100x100"
+      }
+    }
+  ]
+}

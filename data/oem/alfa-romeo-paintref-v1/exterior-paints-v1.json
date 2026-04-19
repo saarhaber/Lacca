@@ -4,20 +4,105 @@
   "version": "1.0.0",
   "paints": [
     {
-      "code": "601",
-      "marketingName": "Onyx Black",
+      "code": "743",
+      "marketingName": "Bianco Freddo",
       "finish": "solid",
       "lab": {
-        "L": 0,
-        "a": 0,
-        "b": 0,
+        "L": 10.2,
+        "a": 0.52,
+        "b": -6.08,
         "illuminant": "D65",
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
-        "notes": "Derived from #000000 (PaintRef hex, OEM=Alfa Romeo, code=601 (models=164; years=1991-1995)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:Alfa Romeo:164:601"
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #181C24 (PaintRef hex, OEM=Alfa Romeo, code=743 (models=164; years=1988-2000)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Alfa Romeo:164:743"
+      }
+    },
+    {
+      "code": "380",
+      "marketingName": "Blue Alfa",
+      "finish": "solid",
+      "lab": {
+        "L": 8.73,
+        "a": 6.78,
+        "b": -15.77,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #15172E (PaintRef hex, OEM=Alfa Romeo, code=380 (models=164; years=1988-2001)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Alfa Romeo:164:380"
+      }
+    },
+    {
+      "code": "945",
+      "marketingName": "Blu Chairo",
+      "finish": "solid",
+      "lab": {
+        "L": 37.14,
+        "a": 1.95,
+        "b": -9.15,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #535766 (PaintRef hex, OEM=Alfa Romeo, code=945 (models=164; year=1991)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Alfa Romeo:164:945"
+      }
+    },
+    {
+      "code": "477A",
+      "marketingName": "Blu Genoa",
+      "finish": "solid",
+      "lab": {
+        "L": 20.17,
+        "a": 2.76,
+        "b": -9.86,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #2D303F (PaintRef hex, OEM=Alfa Romeo, code=477A (models=164; years=1992-2000)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Alfa Romeo:164:477A"
+      }
+    },
+    {
+      "code": "643",
+      "marketingName": "Champagne",
+      "finish": "solid",
+      "lab": {
+        "L": 54.29,
+        "a": 1.12,
+        "b": 2.83,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #86817D (PaintRef hex, OEM=Alfa Romeo, code=643 (models=164; year=1994)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Alfa Romeo:164:643"
+      }
+    },
+    {
+      "code": "643",
+      "marketingName": "Grigio Dakar",
+      "finish": "solid",
+      "lab": {
+        "L": 54.29,
+        "a": 1.12,
+        "b": 2.83,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #86817D (PaintRef hex, OEM=Alfa Romeo, code=643 (models=164; year=1995)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Alfa Romeo:164:643"
       }
     },
     {
@@ -32,7 +117,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #73676E (PaintRef hex, OEM=Alfa Romeo, code=776 (models=164; year=1991)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Alfa Romeo:164:776"
       }
@@ -49,7 +134,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #B8BDC2 (PaintRef hex, OEM=Alfa Romeo, code=676 (models=164, Spider; years=1991-1994)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Alfa Romeo:164:676"
       }
@@ -66,26 +151,9 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #3B3A39 (PaintRef hex, OEM=Alfa Romeo, code=632 (models=164, Spider; years=1993-2008)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Alfa Romeo:164:632"
-      }
-    },
-    {
-      "code": "643",
-      "marketingName": "Champagne",
-      "finish": "solid",
-      "lab": {
-        "L": 54.29,
-        "a": 1.12,
-        "b": 2.83,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-17",
-        "notes": "Derived from #86817D (PaintRef hex, OEM=Alfa Romeo, code=643 (models=164; year=1994)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:Alfa Romeo:164:643"
       }
     },
     {
@@ -100,7 +168,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #A0A7B2 (PaintRef hex, OEM=Alfa Romeo, code=612A (models=164, Spider; years=1994-2008)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Alfa Romeo:164:612A"
       }
@@ -117,26 +185,9 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #7E7D82 (PaintRef hex, OEM=Alfa Romeo, code=613A (models=164; years=1994-2000)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Alfa Romeo:164:613A"
-      }
-    },
-    {
-      "code": "643",
-      "marketingName": "Grigio Dakar",
-      "finish": "solid",
-      "lab": {
-        "L": 54.29,
-        "a": 1.12,
-        "b": 2.83,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-17",
-        "notes": "Derived from #86817D (PaintRef hex, OEM=Alfa Romeo, code=643 (models=164; year=1995)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:Alfa Romeo:164:643"
       }
     },
     {
@@ -151,7 +202,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #464F4F (PaintRef hex, OEM=Alfa Romeo, code=364 (models=164; years=1991-1993)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Alfa Romeo:164:364"
       }
@@ -168,7 +219,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #324344 (PaintRef hex, OEM=Alfa Romeo, code=326B (models=164; years=1996-1999)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Alfa Romeo:164:326B"
       }
@@ -185,7 +236,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #CA0004 (PaintRef hex, OEM=Alfa Romeo, code=130 (models=164, Spider; years=1991-1995)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Alfa Romeo:164:130"
       }
@@ -202,7 +253,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #562829 (PaintRef hex, OEM=Alfa Romeo, code=146 (models=164; years=1991-1992)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Alfa Romeo:164:146"
       }
@@ -219,7 +270,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #562829 (PaintRef hex, OEM=Alfa Romeo, code=146 (models=164; year=1993)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Alfa Romeo:164:146"
       }
@@ -236,7 +287,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #C8D0D9 (PaintRef hex, OEM=Alfa Romeo, code=210 (models=164; years=1988-2000)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Alfa Romeo:164:210"
       }
@@ -253,8 +304,8 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
-        "notes": "Derived from #DCE8E8 (PaintRef hex, OEM=Alfa Romeo, code=230 (models=164, Spider; years=1991-1995)). Replace with spectro LAB before production claims.",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #DCE8E8 (PaintRef hex, OEM=Alfa Romeo, code=230 (models=164; years=1991-1994)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Alfa Romeo:164:230"
       }
     },
@@ -270,7 +321,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #FAFBFE (PaintRef hex, OEM=Alfa Romeo, code=249 (models=164; years=1994-2005)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Alfa Romeo:164:249"
       }
@@ -287,26 +338,9 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #000000 (PaintRef hex, OEM=Alfa Romeo, code=601 (models=4C; years=2014-2015)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Alfa Romeo:4c:601"
-      }
-    },
-    {
-      "code": "672B",
-      "marketingName": "Grigio Basalto",
-      "finish": "solid",
-      "lab": {
-        "L": 43.14,
-        "a": -0.61,
-        "b": 2.96,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-17",
-        "notes": "Derived from #676661 (PaintRef hex, OEM=Alfa Romeo, code=672B (models=4C; years=2014-2015)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:Alfa Romeo:4c:672B"
       }
     },
     {
@@ -321,7 +355,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #BB2126 (PaintRef hex, OEM=Alfa Romeo, code=115B (models=4C; years=2014-2015)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Alfa Romeo:4c:115B"
       }
@@ -338,7 +372,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #671215 (PaintRef hex, OEM=Alfa Romeo, code=289A (models=4C; year=2015)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Alfa Romeo:4c:289A"
       }
@@ -355,7 +389,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #AEA79F (PaintRef hex, OEM=Alfa Romeo, code=214B (models=4C; years=2014-2015)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Alfa Romeo:4c:214B"
       }
@@ -372,7 +406,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #E3E4E6 (PaintRef hex, OEM=Alfa Romeo, code=825A (models=4C; years=2014-2015)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Alfa Romeo:4c:825A"
       }
@@ -389,7 +423,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #E9D5BD (PaintRef hex, OEM=Alfa Romeo, code=216A (models=4C; years=2014-2015)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Alfa Romeo:4c:216A"
       }
@@ -406,7 +440,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #0E1215 (PaintRef hex, OEM=Alfa Romeo, code=817 (models=Spider; years=1991-1994)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Alfa Romeo:spider:817"
       }
@@ -423,7 +457,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #405792 (PaintRef hex, OEM=Alfa Romeo, code=401B (models=Spider; years=1998-2001)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Alfa Romeo:spider:401B"
       }
@@ -440,7 +474,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #343A5B (PaintRef hex, OEM=Alfa Romeo, code=427B (models=Spider; years=2001-2006)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Alfa Romeo:spider:427B"
       }
@@ -457,7 +491,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #181F4B (PaintRef hex, OEM=Alfa Romeo, code=719A (models=Spider; years=2003-2008)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Alfa Romeo:spider:719A"
       }
@@ -474,7 +508,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #3E5787 (PaintRef hex, OEM=Alfa Romeo, code=254A (models=Spider; years=2005-2006)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Alfa Romeo:spider:254A"
       }
@@ -491,7 +525,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #757780 (PaintRef hex, OEM=Alfa Romeo, code=659A (models=Spider; years=1998-2001)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Alfa Romeo:spider:659A"
       }
@@ -508,7 +542,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #B4BDB8 (PaintRef hex, OEM=Alfa Romeo, code=114A (models=Spider; years=2000-2001)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Alfa Romeo:spider:114A"
       }
@@ -525,7 +559,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #7B7B76 (PaintRef hex, OEM=Alfa Romeo, code=677 (models=Spider; years=2001-2008)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Alfa Romeo:spider:677"
       }
@@ -542,7 +576,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #656059 (PaintRef hex, OEM=Alfa Romeo, code=702B (models=Spider; years=2009-2010)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Alfa Romeo:spider:702B"
       }
@@ -559,7 +593,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #1B3338 (PaintRef hex, OEM=Alfa Romeo, code=306 (models=Spider; years=1991-1994)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Alfa Romeo:spider:306"
       }
@@ -576,7 +610,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #BEB85A (PaintRef hex, OEM=Alfa Romeo, code=302A (models=Spider; years=1994-1998)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Alfa Romeo:spider:302A"
       }
@@ -593,7 +627,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #2E4241 (PaintRef hex, OEM=Alfa Romeo, code=309A (models=Spider; years=1995-2000)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Alfa Romeo:spider:309A"
       }
@@ -610,7 +644,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #586C60 (PaintRef hex, OEM=Alfa Romeo, code=341A (models=Spider; years=1998-2001)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Alfa Romeo:spider:341A"
       }
@@ -627,7 +661,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #1D2625 (PaintRef hex, OEM=Alfa Romeo, code=361A (models=Spider; years=1999-2006)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Alfa Romeo:spider:361A"
       }
@@ -644,7 +678,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #18251E (PaintRef hex, OEM=Alfa Romeo, code=709A (models=Spider; years=2004-2008)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Alfa Romeo:spider:709A"
       }
@@ -661,7 +695,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #AF2126 (PaintRef hex, OEM=Alfa Romeo, code=167A (models=Spider; years=2000-2008)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Alfa Romeo:spider:167A"
       }
@@ -678,26 +712,9 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #53242D (PaintRef hex, OEM=Alfa Romeo, code=117B (models=Spider; years=2003-2008)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Alfa Romeo:spider:117B"
-      }
-    },
-    {
-      "code": "296A",
-      "marketingName": "Bianco Divino",
-      "finish": "solid",
-      "lab": {
-        "L": 84.3,
-        "a": -1.6,
-        "b": 3.34,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-17",
-        "notes": "Derived from #D2D3CC (PaintRef hex, OEM=Alfa Romeo, code=296A (models=Spider; years=2007-2009)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:Alfa Romeo:spider:296A"
       }
     },
     {
@@ -712,7 +729,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #F6BC25 (PaintRef hex, OEM=Alfa Romeo, code=258A (models=Spider; years=1991-2008)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Alfa Romeo:spider:258A"
       }
@@ -729,7 +746,7 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #DA9A4E (PaintRef hex, OEM=Alfa Romeo, code=513 (models=Spider; years=1999-2003)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Alfa Romeo:spider:513"
       }
@@ -746,9 +763,621 @@
         "observer": "2deg",
         "source": "paintref_hex",
         "confidence": "derived",
-        "recordedAt": "2026-04-17",
+        "recordedAt": "2026-04-18",
         "notes": "Derived from #F1A839 (PaintRef hex, OEM=Alfa Romeo, code=258 (models=Spider; year=2002)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Alfa Romeo:spider:258"
+      }
+    },
+    {
+      "code": "814",
+      "marketingName": "Nero Vulcano",
+      "finish": "solid",
+      "lab": {
+        "L": 0,
+        "a": 0,
+        "b": 0,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #000000 (PaintRef chip swatch hex on Wayback chipdisplay; OEM=Alfa Romeo, code=814). PaintRef labeled this list as 2016 Alfa-Romeo; requested URL used year=2017 query param. Source: https://web.archive.org/web/20200923185911/http://paintref.com/cgi-bin/chipdisplay.cgi?manuf=Alfa-Romeo&smodel=&year=2017. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-wayback:Alfa Romeo:chipdisplay-2016MY:814"
+      }
+    },
+    {
+      "code": "106B",
+      "marketingName": "Rosso Alfa",
+      "finish": "solid",
+      "lab": {
+        "L": 21.05,
+        "a": 36.34,
+        "b": 20.82,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #651216 (PaintRef chip swatch hex on Wayback chipdisplay; OEM=Alfa Romeo, code=106B). PaintRef labeled this list as 2016 Alfa-Romeo; requested URL used year=2017 query param. Source: https://web.archive.org/web/20200923185911/http://paintref.com/cgi-bin/chipdisplay.cgi?manuf=Alfa-Romeo&smodel=&year=2017. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-wayback:Alfa Romeo:chipdisplay-2016MY:106B"
+      }
+    },
+    {
+      "code": "134B",
+      "marketingName": "Rosso Competizione",
+      "finish": "solid",
+      "lab": {
+        "L": 37.3,
+        "a": 54.14,
+        "b": 34.71,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #AA2023 (PaintRef chip swatch hex on Wayback chipdisplay; OEM=Alfa Romeo, code=134B). PaintRef labeled this list as 2016 Alfa-Romeo; requested URL used year=2017 query param. Source: https://web.archive.org/web/20200923185911/http://paintref.com/cgi-bin/chipdisplay.cgi?manuf=Alfa-Romeo&smodel=&year=2017. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-wayback:Alfa Romeo:chipdisplay-2016MY:134B"
+      }
+    },
+    {
+      "code": "148A",
+      "marketingName": "Rosso Alfa",
+      "finish": "solid",
+      "lab": {
+        "L": 24.07,
+        "a": 34.78,
+        "b": 16.75,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #6B1D22 (PaintRef chip swatch hex on Wayback chipdisplay; OEM=Alfa Romeo, code=148A). PaintRef labeled this list as 2016 Alfa-Romeo; requested URL used year=2017 query param. Source: https://web.archive.org/web/20200923185911/http://paintref.com/cgi-bin/chipdisplay.cgi?manuf=Alfa-Romeo&smodel=&year=2017. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-wayback:Alfa Romeo:chipdisplay-2016MY:148A"
+      }
+    },
+    {
+      "code": "202B",
+      "marketingName": "Rosso Competizione",
+      "finish": "solid",
+      "lab": {
+        "L": 29.11,
+        "a": 45.52,
+        "b": 29.21,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #87181A (PaintRef chip swatch hex on Wayback chipdisplay; OEM=Alfa Romeo, code=202B). PaintRef labeled this list as 2016 Alfa-Romeo; requested URL used year=2017 query param. Source: https://web.archive.org/web/20200923185911/http://paintref.com/cgi-bin/chipdisplay.cgi?manuf=Alfa-Romeo&smodel=&year=2017. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-wayback:Alfa Romeo:chipdisplay-2016MY:202B"
+      }
+    },
+    {
+      "code": "251A",
+      "marketingName": "Bianco Elegante",
+      "finish": "solid",
+      "lab": {
+        "L": 81.68,
+        "a": -1.03,
+        "b": 8.59,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #D0CBBB (PaintRef chip swatch hex on Wayback chipdisplay; OEM=Alfa Romeo, code=251A). PaintRef labeled this list as 2016 Alfa-Romeo; requested URL used year=2017 query param. Source: https://web.archive.org/web/20200923185911/http://paintref.com/cgi-bin/chipdisplay.cgi?manuf=Alfa-Romeo&smodel=&year=2017. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-wayback:Alfa Romeo:chipdisplay-2016MY:251A"
+      }
+    },
+    {
+      "code": "293A",
+      "marketingName": "Rosso Esuberante",
+      "finish": "solid",
+      "lab": {
+        "L": 25.59,
+        "a": 38.67,
+        "b": 19.7,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #741B21 (PaintRef chip swatch hex on Wayback chipdisplay; OEM=Alfa Romeo, code=293A). PaintRef labeled this list as 2016 Alfa-Romeo; requested URL used year=2017 query param. Source: https://web.archive.org/web/20200923185911/http://paintref.com/cgi-bin/chipdisplay.cgi?manuf=Alfa-Romeo&smodel=&year=2017. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-wayback:Alfa Romeo:chipdisplay-2016MY:293A"
+      }
+    },
+    {
+      "code": "296A",
+      "marketingName": "Bianco Divino",
+      "finish": "solid",
+      "lab": {
+        "L": 84.3,
+        "a": -1.6,
+        "b": 3.34,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #D2D3CC (PaintRef chip swatch hex on Wayback chipdisplay; OEM=Alfa Romeo, code=296A). PaintRef labeled this list as 2016 Alfa-Romeo; requested URL used year=2017 query param. Source: https://web.archive.org/web/20200923185911/http://paintref.com/cgi-bin/chipdisplay.cgi?manuf=Alfa-Romeo&smodel=&year=2017. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-wayback:Alfa Romeo:chipdisplay-2016MY:296A"
+      }
+    },
+    {
+      "code": "319B",
+      "marketingName": "Grigio Antracite",
+      "finish": "solid",
+      "lab": {
+        "L": 18.47,
+        "a": 0,
+        "b": 0,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #2D2D2D (PaintRef chip swatch hex on Wayback chipdisplay; OEM=Alfa Romeo, code=319B). PaintRef labeled this list as 2016 Alfa-Romeo; requested URL used year=2017 query param. Source: https://web.archive.org/web/20200923185911/http://paintref.com/cgi-bin/chipdisplay.cgi?manuf=Alfa-Romeo&smodel=&year=2017. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-wayback:Alfa Romeo:chipdisplay-2016MY:319B"
+      }
+    },
+    {
+      "code": "394B",
+      "marketingName": "Bronzo",
+      "finish": "solid",
+      "lab": {
+        "L": 42.03,
+        "a": 4.79,
+        "b": 9.4,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #716054 (PaintRef chip swatch hex on Wayback chipdisplay; OEM=Alfa Romeo, code=394B). PaintRef labeled this list as 2016 Alfa-Romeo; requested URL used year=2017 query param. Source: https://web.archive.org/web/20200923185911/http://paintref.com/cgi-bin/chipdisplay.cgi?manuf=Alfa-Romeo&smodel=&year=2017. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-wayback:Alfa Romeo:chipdisplay-2016MY:394B"
+      }
+    },
+    {
+      "code": "424B",
+      "marketingName": "Nero Ametista",
+      "finish": "solid",
+      "lab": {
+        "L": 9.49,
+        "a": 12.79,
+        "b": -23.26,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #17163A (PaintRef chip swatch hex on Wayback chipdisplay; OEM=Alfa Romeo, code=424B). PaintRef labeled this list as 2016 Alfa-Romeo; requested URL used year=2017 query param. Source: https://web.archive.org/web/20200923185911/http://paintref.com/cgi-bin/chipdisplay.cgi?manuf=Alfa-Romeo&smodel=&year=2017. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-wayback:Alfa Romeo:chipdisplay-2016MY:424B"
+      }
+    },
+    {
+      "code": "466B",
+      "marketingName": "Blue Profondo",
+      "finish": "solid",
+      "lab": {
+        "L": 13.81,
+        "a": 10.51,
+        "b": -31.01,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #07214F (PaintRef chip swatch hex on Wayback chipdisplay; OEM=Alfa Romeo, code=466B). PaintRef labeled this list as 2016 Alfa-Romeo; requested URL used year=2017 query param. Source: https://web.archive.org/web/20200923185911/http://paintref.com/cgi-bin/chipdisplay.cgi?manuf=Alfa-Romeo&smodel=&year=2017. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-wayback:Alfa Romeo:chipdisplay-2016MY:466B"
+      }
+    },
+    {
+      "code": "468B",
+      "marketingName": "Blue Tornado",
+      "finish": "solid",
+      "lab": {
+        "L": 21.87,
+        "a": 22.93,
+        "b": -49.31,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #0B2D7F (PaintRef chip swatch hex on Wayback chipdisplay; OEM=Alfa Romeo, code=468B). PaintRef labeled this list as 2016 Alfa-Romeo; requested URL used year=2017 query param. Source: https://web.archive.org/web/20200923185911/http://paintref.com/cgi-bin/chipdisplay.cgi?manuf=Alfa-Romeo&smodel=&year=2017. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-wayback:Alfa Romeo:chipdisplay-2016MY:468B"
+      }
+    },
+    {
+      "code": "486B",
+      "marketingName": "Blu Anodizzato",
+      "finish": "solid",
+      "lab": {
+        "L": 14.37,
+        "a": 18.93,
+        "b": -37.51,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #121E5A (PaintRef chip swatch hex on Wayback chipdisplay; OEM=Alfa Romeo, code=486B). PaintRef labeled this list as 2016 Alfa-Romeo; requested URL used year=2017 query param. Source: https://web.archive.org/web/20200923185911/http://paintref.com/cgi-bin/chipdisplay.cgi?manuf=Alfa-Romeo&smodel=&year=2017. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-wayback:Alfa Romeo:chipdisplay-2016MY:486B"
+      }
+    },
+    {
+      "code": "529A",
+      "marketingName": "Grigio Magnesio",
+      "finish": "solid",
+      "lab": {
+        "L": 67.43,
+        "a": -4.91,
+        "b": -1.69,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #99A7A7 (PaintRef chip swatch hex on Wayback chipdisplay; OEM=Alfa Romeo, code=529A). PaintRef labeled this list as 2016 Alfa-Romeo; requested URL used year=2017 query param. Source: https://web.archive.org/web/20200923185911/http://paintref.com/cgi-bin/chipdisplay.cgi?manuf=Alfa-Romeo&smodel=&year=2017. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-wayback:Alfa Romeo:chipdisplay-2016MY:529A"
+      }
+    },
+    {
+      "code": "607B",
+      "marketingName": "Grigio Antracite",
+      "finish": "solid",
+      "lab": {
+        "L": 29.74,
+        "a": -2.54,
+        "b": 4.53,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #45473F (PaintRef chip swatch hex on Wayback chipdisplay; OEM=Alfa Romeo, code=607B). PaintRef labeled this list as 2016 Alfa-Romeo; requested URL used year=2017 query param. Source: https://web.archive.org/web/20200923185911/http://paintref.com/cgi-bin/chipdisplay.cgi?manuf=Alfa-Romeo&smodel=&year=2017. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-wayback:Alfa Romeo:chipdisplay-2016MY:607B"
+      }
+    },
+    {
+      "code": "697B",
+      "marketingName": "Grigio Magnesio",
+      "finish": "solid",
+      "lab": {
+        "L": 55.79,
+        "a": -1.15,
+        "b": 4.44,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #87867E (PaintRef chip swatch hex on Wayback chipdisplay; OEM=Alfa Romeo, code=697B). PaintRef labeled this list as 2016 Alfa-Romeo; requested URL used year=2017 query param. Source: https://web.archive.org/web/20200923185911/http://paintref.com/cgi-bin/chipdisplay.cgi?manuf=Alfa-Romeo&smodel=&year=2017. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-wayback:Alfa Romeo:chipdisplay-2016MY:697B"
+      }
+    },
+    {
+      "code": "763A",
+      "marketingName": "Bronzo",
+      "finish": "solid",
+      "lab": {
+        "L": 17.4,
+        "a": 5.21,
+        "b": 3.44,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #342826 (PaintRef chip swatch hex on Wayback chipdisplay; OEM=Alfa Romeo, code=763A). PaintRef labeled this list as 2016 Alfa-Romeo; requested URL used year=2017 query param. Source: https://web.archive.org/web/20200923185911/http://paintref.com/cgi-bin/chipdisplay.cgi?manuf=Alfa-Romeo&smodel=&year=2017. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-wayback:Alfa Romeo:chipdisplay-2016MY:763A"
+      }
+    },
+    {
+      "code": "764A",
+      "marketingName": "Bianco Lunare",
+      "finish": "solid",
+      "lab": {
+        "L": 94.45,
+        "a": 0,
+        "b": 0,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #EFEFEF (PaintRef chip swatch hex on Wayback chipdisplay; OEM=Alfa Romeo, code=764A). PaintRef labeled this list as 2016 Alfa-Romeo; requested URL used year=2017 query param. Source: https://web.archive.org/web/20200923185911/http://paintref.com/cgi-bin/chipdisplay.cgi?manuf=Alfa-Romeo&smodel=&year=2017. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-wayback:Alfa Romeo:chipdisplay-2016MY:764A"
+      }
+    },
+    {
+      "code": "805B",
+      "marketingName": "Nero Etna",
+      "finish": "solid",
+      "lab": {
+        "L": 5.22,
+        "a": 3.92,
+        "b": 2.44,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #190F0D (PaintRef chip swatch hex on Wayback chipdisplay; OEM=Alfa Romeo, code=805B). PaintRef labeled this list as 2016 Alfa-Romeo; requested URL used year=2017 query param. Source: https://web.archive.org/web/20200923185911/http://paintref.com/cgi-bin/chipdisplay.cgi?manuf=Alfa-Romeo&smodel=&year=2017. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-wayback:Alfa Romeo:chipdisplay-2016MY:805B"
+      }
+    },
+    {
+      "code": "863,XW",
+      "marketingName": "Nero Diabolik",
+      "finish": "solid",
+      "lab": {
+        "L": 19.51,
+        "a": 0.72,
+        "b": -1.92,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #2F2F32 (PaintRef chip swatch hex on Wayback chipdisplay; OEM=Alfa Romeo, code=863,XW). PaintRef labeled this list as 2016 Alfa-Romeo; requested URL used year=2017 query param. Source: https://web.archive.org/web/20200923185911/http://paintref.com/cgi-bin/chipdisplay.cgi?manuf=Alfa-Romeo&smodel=&year=2017. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-wayback:Alfa Romeo:chipdisplay-2016MY:863_XW"
+      }
+    },
+    {
+      "code": "601,PX8",
+      "marketingName": "Nero",
+      "finish": "solid",
+      "lab": {
+        "L": 0,
+        "a": 0,
+        "b": 0,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #000000 (PaintRef chip swatch hex on Wayback chipdisplay; OEM=Alfa Romeo, code=601,PX8). Same swatch as code 601; PX8 is the Mopar/refinish cross. PaintRef labeled this list as 2016 Alfa-Romeo; requested URL used year=2017 query param. Source: https://web.archive.org/web/20200923185911/http://paintref.com/cgi-bin/chipdisplay.cgi?manuf=Alfa-Romeo&smodel=&year=2017. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-wayback:Alfa Romeo:chipdisplay-2016MY:601_PX8"
+      }
+    },
+    {
+      "code": "035B,PG1",
+      "marketingName": "Graphite Grey",
+      "finish": "solid",
+      "lab": {
+        "L": 31.82,
+        "a": 4,
+        "b": -3.25,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #4F4950 (PaintRef chip swatch hex on Wayback chipdisplay; OEM=Alfa Romeo, code=035B,PG1). PaintRef labeled this list as 2016 Alfa-Romeo; requested URL used year=2017 query param. Source: https://web.archive.org/web/20200923185911/http://paintref.com/cgi-bin/chipdisplay.cgi?manuf=Alfa-Romeo&smodel=&year=2017. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-wayback:Alfa Romeo:chipdisplay-2016MY:035B_PG1"
+      }
+    },
+    {
+      "code": "082B,PD3",
+      "marketingName": "Regray",
+      "finish": "solid",
+      "lab": {
+        "L": 40.03,
+        "a": 6.43,
+        "b": -2.8,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #675B63 (PaintRef chip swatch hex on Wayback chipdisplay; OEM=Alfa Romeo, code=082B,PD3). PaintRef labeled this list as 2016 Alfa-Romeo; requested URL used year=2017 query param. Source: https://web.archive.org/web/20200923185911/http://paintref.com/cgi-bin/chipdisplay.cgi?manuf=Alfa-Romeo&smodel=&year=2017. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-wayback:Alfa Romeo:chipdisplay-2016MY:082B_PD3"
+      }
+    },
+    {
+      "code": "083A,PR9",
+      "marketingName": "Bordeaux",
+      "finish": "solid",
+      "lab": {
+        "L": 17.82,
+        "a": 27.98,
+        "b": 7.54,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #511722 (PaintRef chip swatch hex on Wayback chipdisplay; OEM=Alfa Romeo, code=083A,PR9). PaintRef labeled this list as 2016 Alfa-Romeo; requested URL used year=2017 query param. Source: https://web.archive.org/web/20200923185911/http://paintref.com/cgi-bin/chipdisplay.cgi?manuf=Alfa-Romeo&smodel=&year=2017. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-wayback:Alfa Romeo:chipdisplay-2016MY:083A_PR9"
+      }
+    },
+    {
+      "code": "092A,PBS",
+      "marketingName": "Deep Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 13.74,
+        "a": 10.04,
+        "b": -22.79,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #1C2043 (PaintRef chip swatch hex on Wayback chipdisplay; OEM=Alfa Romeo, code=092A,PBS). PaintRef labeled this list as 2016 Alfa-Romeo; requested URL used year=2017 query param. Source: https://web.archive.org/web/20200923185911/http://paintref.com/cgi-bin/chipdisplay.cgi?manuf=Alfa-Romeo&smodel=&year=2017. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-wayback:Alfa Romeo:chipdisplay-2016MY:092A_PBS"
+      }
+    },
+    {
+      "code": "217B,PAH",
+      "marketingName": "Bianco Tristrato",
+      "finish": "solid",
+      "lab": {
+        "L": 94.23,
+        "a": -0.79,
+        "b": -1.91,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #EBEFF2 (PaintRef chip swatch hex on Wayback chipdisplay; OEM=Alfa Romeo, code=217B,PAH). PaintRef labeled this list as 2016 Alfa-Romeo; requested URL used year=2017 query param. Source: https://web.archive.org/web/20200923185911/http://paintref.com/cgi-bin/chipdisplay.cgi?manuf=Alfa-Romeo&smodel=&year=2017. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-wayback:Alfa Romeo:chipdisplay-2016MY:217B_PAH"
+      }
+    },
+    {
+      "code": "248B,PWP",
+      "marketingName": "Mineral White",
+      "finish": "solid",
+      "lab": {
+        "L": 93.1,
+        "a": 2.25,
+        "b": -3.03,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #EDEAF1 (PaintRef chip swatch hex on Wayback chipdisplay; OEM=Alfa Romeo, code=248B,PWP). PaintRef labeled this list as 2016 Alfa-Romeo; requested URL used year=2017 query param. Source: https://web.archive.org/web/20200923185911/http://paintref.com/cgi-bin/chipdisplay.cgi?manuf=Alfa-Romeo&smodel=&year=2017. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-wayback:Alfa Romeo:chipdisplay-2016MY:248B_PWP"
+      }
+    },
+    {
+      "code": "318B,PNM",
+      "marketingName": "Grigio Magnesio",
+      "finish": "solid",
+      "lab": {
+        "L": 53.82,
+        "a": 0.57,
+        "b": 4.47,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #858079 (PaintRef chip swatch hex on Wayback chipdisplay; OEM=Alfa Romeo, code=318B,PNM). PaintRef labeled this list as 2016 Alfa-Romeo; requested URL used year=2017 query param. Source: https://web.archive.org/web/20200923185911/http://paintref.com/cgi-bin/chipdisplay.cgi?manuf=Alfa-Romeo&smodel=&year=2017. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-wayback:Alfa Romeo:chipdisplay-2016MY:318B_PNM"
+      }
+    },
+    {
+      "code": "361B,PC9",
+      "marketingName": "Rosso Competizione",
+      "finish": "solid",
+      "lab": {
+        "L": 36.93,
+        "a": 53.66,
+        "b": 32.43,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #A82026 (PaintRef chip swatch hex on Wayback chipdisplay; OEM=Alfa Romeo, code=361B,PC9). PaintRef labeled this list as 2016 Alfa-Romeo; requested URL used year=2017 query param. Source: https://web.archive.org/web/20200923185911/http://paintref.com/cgi-bin/chipdisplay.cgi?manuf=Alfa-Romeo&smodel=&year=2017. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-wayback:Alfa Romeo:chipdisplay-2016MY:361B_PC9"
+      }
+    },
+    {
+      "code": "408C,PXL",
+      "marketingName": "Magnet Black",
+      "finish": "solid",
+      "lab": {
+        "L": 12.65,
+        "a": 2.2,
+        "b": -3.03,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #222025 (PaintRef chip swatch hex on Wayback chipdisplay; OEM=Alfa Romeo, code=408C,PXL). PaintRef labeled this list as 2016 Alfa-Romeo; requested URL used year=2017 query param. Source: https://web.archive.org/web/20200923185911/http://paintref.com/cgi-bin/chipdisplay.cgi?manuf=Alfa-Romeo&smodel=&year=2017. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-wayback:Alfa Romeo:chipdisplay-2016MY:408C_PXL"
+      }
+    },
+    {
+      "code": "409C,PCX",
+      "marketingName": "Oxygen Iron",
+      "finish": "solid",
+      "lab": {
+        "L": 24.74,
+        "a": 3.98,
+        "b": -4.15,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #3E3941 (PaintRef chip swatch hex on Wayback chipdisplay; OEM=Alfa Romeo, code=409C,PCX). PaintRef labeled this list as 2016 Alfa-Romeo; requested URL used year=2017 query param. Source: https://web.archive.org/web/20200923185911/http://paintref.com/cgi-bin/chipdisplay.cgi?manuf=Alfa-Romeo&smodel=&year=2017. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-wayback:Alfa Romeo:chipdisplay-2016MY:409C_PCX"
+      }
+    },
+    {
+      "code": "414C,PRR",
+      "marketingName": "Rosso Alfa",
+      "finish": "solid",
+      "lab": {
+        "L": 31.44,
+        "a": 48.06,
+        "b": 31.69,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #911A1B (PaintRef chip swatch hex on Wayback chipdisplay; OEM=Alfa Romeo, code=414C,PRR). PaintRef labeled this list as 2016 Alfa-Romeo; requested URL used year=2017 query param. Source: https://web.archive.org/web/20200923185911/http://paintref.com/cgi-bin/chipdisplay.cgi?manuf=Alfa-Romeo&smodel=&year=2017. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-wayback:Alfa Romeo:chipdisplay-2016MY:414C_PRR"
+      }
+    },
+    {
+      "code": "620B,NAD",
+      "marketingName": "Grigio Argento Vivo",
+      "finish": "solid",
+      "lab": {
+        "L": 61.05,
+        "a": 0.56,
+        "b": -0.4,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #949394 (PaintRef chip swatch hex on Wayback chipdisplay; OEM=Alfa Romeo, code=620B,NAD). PaintRef labeled this list as 2016 Alfa-Romeo; requested URL used year=2017 query param. Source: https://web.archive.org/web/20200923185911/http://paintref.com/cgi-bin/chipdisplay.cgi?manuf=Alfa-Romeo&smodel=&year=2017. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-wayback:Alfa Romeo:chipdisplay-2016MY:620B_NAD"
+      }
+    },
+    {
+      "code": "672B,PDX",
+      "marketingName": "Grigio Basalto",
+      "finish": "solid",
+      "lab": {
+        "L": 43.14,
+        "a": -0.61,
+        "b": 2.96,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #676661 (PaintRef chip swatch hex on Wayback chipdisplay; OEM=Alfa Romeo, code=672B,PDX). PaintRef labeled this list as 2016 Alfa-Romeo; requested URL used year=2017 query param. Source: https://web.archive.org/web/20200923185911/http://paintref.com/cgi-bin/chipdisplay.cgi?manuf=Alfa-Romeo&smodel=&year=2017. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-wayback:Alfa Romeo:chipdisplay-2016MY:672B_PDX"
+      }
+    },
+    {
+      "code": "509,PYF,4H5",
+      "marketingName": "Giallo Prototipo",
+      "finish": "solid",
+      "lab": {
+        "L": 78.14,
+        "a": -3.22,
+        "b": 64.96,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #DDC040 (PaintRef chip swatch hex on Wayback chipdisplay; OEM=Alfa Romeo, code=509,PYF,4H5). PaintRef labeled this list as 2016 Alfa-Romeo; requested URL used year=2017 query param. Source: https://web.archive.org/web/20200923185911/http://paintref.com/cgi-bin/chipdisplay.cgi?manuf=Alfa-Romeo&smodel=&year=2017. Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref-wayback:Alfa Romeo:chipdisplay-2016MY:509_PYF_4H5"
       }
     }
   ]

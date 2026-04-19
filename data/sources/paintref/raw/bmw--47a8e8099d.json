@@ -1,0 +1,569 @@
+{
+  "oem": "BMW",
+  "fetchedAt": "2026-04-18T19:05:46.182Z",
+  "entries": [
+    {
+      "code": "475",
+      "name": "Black Sapphire",
+      "make": "BMW",
+      "model": "B7",
+      "year_from": 2008,
+      "year_to": 2022,
+      "chipUrl": "https://www.paintref.com/chipimages/XA5X5W.png",
+      "chipHash": "5e069976eae4b17b",
+      "ditzler": "95525",
+      "models": [
+        "B7"
+      ]
+    },
+    {
+      "code": "300",
+      "name": "Alpine White",
+      "make": "BMW",
+      "model": "B7",
+      "year_from": 2011,
+      "year_to": 2022,
+      "chipUrl": "https://www.paintref.com/chipimages/ACAUAD.png",
+      "chipHash": "e15cfd5d6569e3a1",
+      "ditzler": "91267",
+      "models": [
+        "B7"
+      ]
+    },
+    {
+      "code": "354",
+      "name": "Titan Silver",
+      "make": "BMW",
+      "model": "B7",
+      "year_from": 2011,
+      "year_to": 2012,
+      "chipUrl": "https://www.paintref.com/chipimages/HTAXAS.png",
+      "chipHash": "52bd2abd5c97e8cc",
+      "ditzler": "36570",
+      "models": [
+        "B7"
+      ]
+    },
+    {
+      "code": "668",
+      "name": "Jet Black",
+      "make": "BMW",
+      "model": "B7",
+      "year_from": 2011,
+      "year_to": 2015,
+      "chipUrl": "https://www.paintref.com/chipimages/GGGGGG.png",
+      "chipHash": "1f437854e2d31a87",
+      "ditzler": "9865",
+      "models": [
+        "B7"
+      ]
+    },
+    {
+      "code": "A43",
+      "name": "Deep Green",
+      "make": "BMW",
+      "model": "B7",
+      "year_from": 2011,
+      "year_to": 2011,
+      "chipUrl": "https://www.paintref.com/chipimages/X2WFWF.png",
+      "chipHash": "dd616fd8c32c768e",
+      "ditzler": "910952",
+      "models": [
+        "B7"
+      ]
+    },
+    {
+      "code": "A52",
+      "name": "Space Gray",
+      "make": "BMW",
+      "model": "B7",
+      "year_from": 2011,
+      "year_to": 2015,
+      "chipUrl": "https://www.paintref.com/chipimages/3H33CC.png",
+      "chipHash": "5228fa28e3ed0f61",
+      "ditzler": "917263",
+      "models": [
+        "B7"
+      ]
+    },
+    {
+      "code": "A72",
+      "name": "Cashmere Silver",
+      "make": "BMW",
+      "model": "B7",
+      "year_from": 2011,
+      "year_to": 2015,
+      "chipUrl": "https://www.paintref.com/chipimages/CCCW3U.png",
+      "chipHash": "d3f80e8d7416ebaa",
+      "ditzler": "923500",
+      "models": [
+        "B7"
+      ]
+    },
+    {
+      "code": "A76",
+      "name": "Deep Sea Blue",
+      "make": "BMW",
+      "model": "B7",
+      "year_from": 2011,
+      "year_to": 2012,
+      "chipUrl": "https://www.paintref.com/chipimages/DH5U2E.png",
+      "chipHash": "7d17d387c5634d06",
+      "ditzler": "920051",
+      "models": [
+        "B7"
+      ]
+    },
+    {
+      "code": "A84",
+      "name": "Milano Beige",
+      "make": "BMW",
+      "model": "B7",
+      "year_from": 2011,
+      "year_to": 2014,
+      "chipUrl": "https://www.paintref.com/chipimages/AAADHD.png",
+      "chipHash": "f00da1398fbb7737",
+      "ditzler": "923506",
+      "models": [
+        "B7"
+      ]
+    },
+    {
+      "code": "A89",
+      "name": "Imperial Blue",
+      "make": "BMW",
+      "model": "B7",
+      "year_from": 2011,
+      "year_to": 2015,
+      "chipUrl": "https://www.paintref.com/chipimages/DEDXWS.png",
+      "chipHash": "864862b7b653dece",
+      "ditzler": "923508",
+      "models": [
+        "B7"
+      ]
+    },
+    {
+      "code": "A90",
+      "name": "Sophisto Gray",
+      "make": "BMW",
+      "model": "B7",
+      "year_from": 2011,
+      "year_to": 2011,
+      "chipUrl": "https://www.paintref.com/chipimages/WASFSS.png",
+      "chipHash": "aef189c0e6576dd0",
+      "ditzler": "923509",
+      "models": [
+        "B7"
+      ]
+    },
+    {
+      "code": "A96",
+      "name": "Mineral White",
+      "make": "BMW",
+      "model": "B7",
+      "year_from": 2011,
+      "year_to": 2022,
+      "chipUrl": "https://www.paintref.com/chipimages/UEUEUE.png",
+      "chipHash": "3fe682d2e2989c9e",
+      "ditzler": "923511",
+      "models": [
+        "B7"
+      ]
+    },
+    {
+      "code": "668",
+      "name": "Glanzschwartz",
+      "make": "BMW",
+      "model": "B7",
+      "year_from": 2012,
+      "year_to": 2012,
+      "chipUrl": "https://www.paintref.com/chipimages/GGGGGG.png",
+      "chipHash": "1f437854e2d31a87",
+      "ditzler": "9865",
+      "models": [
+        "B7"
+      ]
+    },
+    {
+      "code": "A43",
+      "name": "Tiefgruen",
+      "make": "BMW",
+      "model": "B7",
+      "year_from": 2012,
+      "year_to": 2012,
+      "chipUrl": "https://www.paintref.com/chipimages/X2WFWF.png",
+      "chipHash": "dd616fd8c32c768e",
+      "ditzler": "910952",
+      "models": [
+        "B7"
+      ]
+    },
+    {
+      "code": "A52",
+      "name": "Spacegrau",
+      "make": "BMW",
+      "model": "B7",
+      "year_from": 2012,
+      "year_to": 2012,
+      "chipUrl": "https://www.paintref.com/chipimages/3H33CC.png",
+      "chipHash": "5228fa28e3ed0f61",
+      "ditzler": "917263",
+      "models": [
+        "B7"
+      ]
+    },
+    {
+      "code": "A72",
+      "name": "Kaschmirsilver",
+      "make": "BMW",
+      "model": "B7",
+      "year_from": 2012,
+      "year_to": 2012,
+      "chipUrl": "https://www.paintref.com/chipimages/CCCW3U.png",
+      "chipHash": "d3f80e8d7416ebaa",
+      "ditzler": "923500",
+      "models": [
+        "B7"
+      ]
+    },
+    {
+      "code": "A84",
+      "name": "Milanobeige",
+      "make": "BMW",
+      "model": "B7",
+      "year_from": 2012,
+      "year_to": 2012,
+      "chipUrl": "https://www.paintref.com/chipimages/AAADHD.png",
+      "chipHash": "f00da1398fbb7737",
+      "ditzler": "923506",
+      "models": [
+        "B7"
+      ]
+    },
+    {
+      "code": "A89",
+      "name": "Imperialblau",
+      "make": "BMW",
+      "model": "B7",
+      "year_from": 2012,
+      "year_to": 2012,
+      "chipUrl": "https://www.paintref.com/chipimages/DEDXWS.png",
+      "chipHash": "864862b7b653dece",
+      "ditzler": "923508",
+      "models": [
+        "B7"
+      ]
+    },
+    {
+      "code": "A90",
+      "name": "Sophistograu",
+      "make": "BMW",
+      "model": "B7",
+      "year_from": 2012,
+      "year_to": 2012,
+      "chipUrl": "https://www.paintref.com/chipimages/WASFSS.png",
+      "chipHash": "aef189c0e6576dd0",
+      "ditzler": "923509",
+      "models": [
+        "B7"
+      ]
+    },
+    {
+      "code": "A96",
+      "name": "Mineralweiss",
+      "make": "BMW",
+      "model": "B7",
+      "year_from": 2012,
+      "year_to": 2012,
+      "chipUrl": "https://www.paintref.com/chipimages/UEUEUE.png",
+      "chipHash": "3fe682d2e2989c9e",
+      "ditzler": "923511",
+      "models": [
+        "B7"
+      ]
+    },
+    {
+      "code": "B90",
+      "name": "Sophistograu",
+      "make": "BMW",
+      "model": "B7",
+      "year_from": 2012,
+      "year_to": 2012,
+      "chipUrl": "https://www.paintref.com/chipimages/SGWUS5.png",
+      "chipHash": "882a9b768a7d73d4",
+      "ditzler": "931666",
+      "models": [
+        "B7"
+      ]
+    },
+    {
+      "code": "X06",
+      "name": "Alpina Blue",
+      "make": "BMW",
+      "model": "B7",
+      "year_from": 2012,
+      "year_to": 2022,
+      "chipUrl": "https://www.paintref.com/chipimages/WFFFCC.png",
+      "chipHash": "30fb634b6e42cc15",
+      "ditzler": "930810",
+      "models": [
+        "B7"
+      ]
+    },
+    {
+      "code": "A17",
+      "name": "Mojave",
+      "make": "BMW",
+      "model": "B7",
+      "year_from": 2013,
+      "year_to": 2016,
+      "chipUrl": "https://www.paintref.com/chipimages/2F2F2F.png",
+      "chipHash": "f8d72f3e10a0888c",
+      "ditzler": "908813",
+      "models": [
+        "B7"
+      ]
+    },
+    {
+      "code": "A83",
+      "name": "Glacier Silver",
+      "make": "BMW",
+      "model": "B7",
+      "year_from": 2013,
+      "year_to": 2020,
+      "chipUrl": "https://www.paintref.com/chipimages/TGTGTG.png",
+      "chipHash": "d3de5ceec100acf5",
+      "ditzler": "929806",
+      "models": [
+        "B7"
+      ]
+    },
+    {
+      "code": "B38",
+      "name": "Midnight Blue",
+      "make": "BMW",
+      "model": "B7",
+      "year_from": 2013,
+      "year_to": 2014,
+      "chipUrl": "https://www.paintref.com/chipimages/5GDGFG.png",
+      "chipHash": "73d192699c7b9719",
+      "ditzler": "929744",
+      "models": [
+        "B7"
+      ]
+    },
+    {
+      "code": "S34",
+      "name": "Azurite Black",
+      "make": "BMW",
+      "model": "B7",
+      "year_from": 2013,
+      "year_to": 2017,
+      "chipUrl": "https://www.paintref.com/chipimages/GXXGDS.png",
+      "chipHash": "c206204086908ea5",
+      "ditzler": "923512",
+      "models": [
+        "B7"
+      ]
+    },
+    {
+      "code": "X02",
+      "name": "Citrin Black",
+      "make": "BMW",
+      "model": "B7",
+      "year_from": 2013,
+      "year_to": 2015,
+      "chipUrl": "https://www.paintref.com/chipimages/XGXGXG.png",
+      "chipHash": "759f72c6ff1da519",
+      "ditzler": "926317",
+      "models": [
+        "B7"
+      ]
+    },
+    {
+      "code": "X03",
+      "name": "Ruby Black",
+      "make": "BMW",
+      "model": "B7",
+      "year_from": 2013,
+      "year_to": 2017,
+      "chipUrl": "https://www.paintref.com/chipimages/DG5X5C.png",
+      "chipHash": "b517b44c5593c7aa",
+      "ditzler": "923534",
+      "models": [
+        "B7"
+      ]
+    },
+    {
+      "code": "X04",
+      "name": "Moonstone",
+      "make": "BMW",
+      "model": "B7",
+      "year_from": 2013,
+      "year_to": 2017,
+      "chipUrl": "https://www.paintref.com/chipimages/AAATHU.png",
+      "chipHash": "745ca993a21375c3",
+      "ditzler": "923513",
+      "models": [
+        "B7"
+      ]
+    },
+    {
+      "code": "B90",
+      "name": "Dark Graphite",
+      "make": "BMW",
+      "model": "B7",
+      "year_from": 2013,
+      "year_to": 2013,
+      "chipUrl": "https://www.paintref.com/chipimages/SGWUS5.png",
+      "chipHash": "882a9b768a7d73d4",
+      "ditzler": "931666",
+      "models": [
+        "B7"
+      ]
+    },
+    {
+      "code": "A90",
+      "name": "Dark Graphite",
+      "make": "BMW",
+      "model": "B7",
+      "year_from": 2014,
+      "year_to": 2015,
+      "chipUrl": "https://www.paintref.com/chipimages/SGWUS5.png",
+      "chipHash": "882a9b768a7d73d4",
+      "ditzler": "931666",
+      "models": [
+        "B7"
+      ]
+    },
+    {
+      "code": "C26",
+      "name": "Magellan Gray",
+      "make": "BMW",
+      "model": "B7",
+      "year_from": 2017,
+      "year_to": 2017,
+      "chipUrl": "https://www.paintref.com/chipimages/FWFSFS.png",
+      "chipHash": "6c6f2b9e6916c57f",
+      "ditzler": "943896",
+      "models": [
+        "B7"
+      ]
+    },
+    {
+      "code": "X09",
+      "name": "Alpina Green",
+      "make": "BMW",
+      "model": "B7",
+      "year_from": 2017,
+      "year_to": 2022,
+      "chipUrl": "https://www.paintref.com/chipimages/XTDD5X.png",
+      "chipHash": "aabbe3f5d95f4c92",
+      "ditzler": "941234",
+      "models": [
+        "B7"
+      ]
+    },
+    {
+      "code": "X14",
+      "name": "Almandin Brown",
+      "make": "BMW",
+      "model": "B7",
+      "year_from": 2017,
+      "year_to": 2017,
+      "chipUrl": "https://www.paintref.com/chipimages/F555XE.png",
+      "chipHash": "b84141c0a5ee4274",
+      "ditzler": "946212",
+      "models": [
+        "B7"
+      ]
+    },
+    {
+      "code": "C36",
+      "name": "Dravit Grey",
+      "make": "BMW",
+      "model": "B7",
+      "year_from": 2020,
+      "year_to": 2022,
+      "chipUrl": "https://www.paintref.com/chipimages/W2WHSW.png",
+      "chipHash": "36279288320f72aa",
+      "ditzler": "949250",
+      "models": [
+        "B7"
+      ]
+    },
+    {
+      "code": "C3Z",
+      "name": "Tanzanite Blue",
+      "make": "BMW",
+      "model": "B7",
+      "year_from": 2020,
+      "year_to": 2021,
+      "chipUrl": "https://www.paintref.com/chipimages/XGGAWW.png",
+      "chipHash": "d2953caf5c3c7e18",
+      "ditzler": "930272",
+      "models": [
+        "B7"
+      ]
+    },
+    {
+      "code": "C47",
+      "name": "Azurite Black",
+      "make": "BMW",
+      "model": "B7",
+      "year_from": 2020,
+      "year_to": 2020,
+      "chipUrl": "https://www.paintref.com/chipimages/GXXGDS.png",
+      "chipHash": "c206204086908ea5",
+      "ditzler": "923512",
+      "models": [
+        "B7"
+      ]
+    },
+    {
+      "code": "X15",
+      "name": "Aventurin Red",
+      "make": "BMW",
+      "model": "B7",
+      "year_from": 2020,
+      "year_to": 2021,
+      "chipUrl": "https://www.paintref.com/chipimages/SF5T5S.png",
+      "chipHash": "9aab1d1e066cea54",
+      "ditzler": "942369",
+      "models": [
+        "B7"
+      ]
+    },
+    {
+      "code": "C1M",
+      "name": "Phytonic Blue",
+      "make": "BMW",
+      "model": "B7",
+      "year_from": 2021,
+      "year_to": 2021,
+      "chipUrl": "https://www.paintref.com/chipimages/DFFS35.png",
+      "chipHash": "0b5d5a2d26c3a457",
+      "ditzler": "945454",
+      "models": [
+        "B7"
+      ]
+    },
+    {
+      "code": "X1D",
+      "name": "Frozen Bluestone",
+      "make": "BMW",
+      "model": "B7",
+      "year_from": 2021,
+      "year_to": 2022,
+      "chipUrl": "https://www.paintref.com/chipimages/333UCD.png",
+      "chipHash": "f4b04a792a1f45f1",
+      "ditzler": "954348",
+      "models": [
+        "B7"
+      ]
+    }
+  ],
+  "filters": {
+    "model": "B7"
+  }
+}

@@ -26,11 +26,13 @@
  * Validation auto-discovers every `data/oem/<scope-id>/` folder, so no manual
  * registration in `src/pipeline/validateData.ts` is required.
  *
- * WARNING: as of 2026-04 the NHTSA vPIC GetAllColors endpoint returns 404.
- * This fetcher works offline using a previously-cached response if one
- * exists at `data/nhtsa/colors-cache.json`; fresh runs will fail until
- * NHTSA restores the endpoint. Prefer `import:csv` with refinish LAB data
- * for the best-quality coverage today.
+ * WARNING: the NHTSA vPIC `GetAllColors` endpoint returns **404** on the current
+ * backend (it is not listed on the public Vehicle API page). There is also **no**
+ * exterior-color variable in `GetVehicleVariableList`, so there is no supported
+ * `GetVehicleVariableValuesList/...` workaround for a full color catalog.
+ * This script only works if `data/nhtsa/colors-cache.json` already exists from an
+ * older capture. See `npx tsx scripts/probe-nhtsa-color-sources.ts` for a live check.
+ * Prefer PaintRef / CSV / OEM spectro pipelines for factory paint coverage.
  */
 
 import { existsSync, mkdirSync, readFileSync, writeFileSync } from "node:fs";

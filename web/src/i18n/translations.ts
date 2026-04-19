@@ -10,6 +10,19 @@ export type TranslationKeys = {
   "hero.title": string;
   "hero.lede": string; // HTML — contains <abbr> tags
 
+  // Main nav / inspiration grid (optional — English fallback for locales not yet updated)
+  "nav.match"?: string;
+  "nav.gallery"?: string;
+  "nav.tabsAria"?: string;
+  "gallery.intro"?: string; // HTML
+  "gallery.count"?: string; // {n}
+  "gallery.hint"?: string;
+  "gallery.openAria"?: string; // {caption}
+  "gallery.lbClose"?: string;
+  "gallery.lbPrev"?: string;
+  "gallery.lbNext"?: string;
+  "gallery.lbCounter"?: string; // {current} {total}
+
   // Form labels
   "form.make.label": string;
   "form.make.tip": string;
@@ -83,14 +96,18 @@ export type TranslationKeys = {
   // Confidence badge text
   "conf.measured": string;
   "conf.spec": string;
-  "conf.derived": string;
+  "conf.derivedHex": string;
+  "conf.derivedChip": string;
+  "conf.derivedOther": string;
   "conf.estimated": string;
   "conf.generic": string;
 
   // Confidence tips
   "confTip.measured": string;
   "confTip.spec": string;
-  "confTip.derived": string;
+  "confTip.derivedHex": string;
+  "confTip.derivedChip": string;
+  "confTip.derivedOther": string;
   "confTip.estimated": string;
   "confTip.generic": string;
 
@@ -128,6 +145,19 @@ const en: TranslationKeys = {
     nail polish shades by a perceptual color distance
     (<abbr title="Delta-E: a single number for how different two colors look. Under 1 is imperceptible.">ΔE</abbr>),
     so lacquer matches lacquer.`,
+
+  "nav.match": "Match",
+  "nav.gallery": "Gallery",
+  "nav.tabsAria": "Main sections",
+  "gallery.intro": `Curated for <strong>color harmony</strong> — <strong>nail polish</strong> with the <strong>car exterior</strong> (paint, wrap, hood, door, fender, bumper — not cabin/dashboard) readable in the same shot. <strong>Hover</strong> for lift; <strong>click</strong> to zoom; use <kbd>←</kbd> <kbd>→</kbd> and <kbd>Esc</kbd> in the lightbox.`,
+
+  "gallery.count": "{n} color stories",
+  "gallery.hint": "Tiles are flush for a film-strip feel — peek captions at the bottom of each square.",
+  "gallery.openAria": "Open: {caption}",
+  "gallery.lbClose": "Close gallery lightbox",
+  "gallery.lbPrev": "Previous image",
+  "gallery.lbNext": "Next image",
+  "gallery.lbCounter": "Image {current} of {total}",
 
   "form.make.label": "Make",
   "form.make.tip": "what is this?",
@@ -172,7 +202,7 @@ const en: TranslationKeys = {
   "results.gamutWarning":
     "Color approximated — outside sRGB display gamut, so this swatch is clipped to the closest on-screen value.",
   "tooltip.capped":
-    "Tier capped at Close: source paint LAB is hex-derived, so an Excellent rating requires a spectrophotometer measurement.",
+    "Tier capped at Close: this factory paint LAB is approximate, so an Excellent match would require a verified spectrophotometer measurement.",
   "tooltip.finishPenalty":
     "Finish type differs from your car's paint. Picks are ordered by ΔE (color distance); metallics and pearls can still read differently in person.",
   "tooltip.source": "Source: {source}",
@@ -203,15 +233,21 @@ const en: TranslationKeys = {
 
   "conf.measured": "Measured",
   "conf.spec": "From spec",
-  "conf.derived": "Hex-derived",
+  "conf.derivedHex": "Hex-derived",
+  "conf.derivedChip": "Chip-derived",
+  "conf.derivedOther": "Derived (approx.)",
   "conf.estimated": "Estimated",
   "conf.generic": "Generic palette",
 
   "confTip.measured":
     "Spectrophotometer reading on a physical chip — highest confidence.",
   "confTip.spec": "From an OEM or licensed paint spec sheet.",
-  "confTip.derived":
-    "Converted from a published HEX value (industry touch-up reference).",
+  "confTip.derivedHex":
+    "Converted from a published or industry touch-up HEX reference.",
+  "confTip.derivedChip":
+    "Averaged from a PaintRef chip image — wrong row↔chip pairing can skew hue badly.",
+  "confTip.derivedOther":
+    "Converted or inferred from a secondary catalog source — not a direct spectro measurement.",
   "confTip.estimated": "Approximate value until a verified measurement is available.",
   "confTip.generic":
     "Approximate color from a universal hex-derived palette. Not a factory measurement — add an OEM scope for accuracy.",
@@ -323,15 +359,21 @@ const es: TranslationKeys = {
 
   "conf.measured": "Medido",
   "conf.spec": "Desde especificación",
-  "conf.derived": "Derivado de HEX",
+  "conf.derivedHex": "Derivado de HEX",
+  "conf.derivedChip": "Derivado de chip",
+  "conf.derivedOther": "Derivado (aprox.)",
   "conf.estimated": "Estimado",
   "conf.generic": "Paleta genérica",
 
   "confTip.measured":
     "Lectura con espectrofotómetro en una muestra física — mayor confianza.",
   "confTip.spec": "De una hoja de especificación OEM o con licencia.",
-  "confTip.derived":
-    "Convertido de un valor HEX publicado (referencia de retoque).",
+  "confTip.derivedHex":
+    "Convertido desde un HEX publicado o de referencia de retoque.",
+  "confTip.derivedChip":
+    "Promediado desde una imagen de chip PaintRef — un emparejamiento fila↔chip incorrecto puede sesgar el tono.",
+  "confTip.derivedOther":
+    "Convertido o inferido desde una fuente secundaria — no es una medición directa por espectro.",
   "confTip.estimated": "Valor aproximado hasta que haya una medición verificada disponible.",
   "confTip.generic":
     "Color aproximado de una paleta universal derivada de HEX. No es una medición de fábrica.",
@@ -439,15 +481,21 @@ const fr: TranslationKeys = {
 
   "conf.measured": "Mesuré",
   "conf.spec": "Selon spec",
-  "conf.derived": "Dérivé HEX",
+  "conf.derivedHex": "Dérivé HEX",
+  "conf.derivedChip": "Dérivé puce",
+  "conf.derivedOther": "Dérivé (approx.)",
   "conf.estimated": "Estimé",
   "conf.generic": "Palette générique",
 
   "confTip.measured":
     "Lecture spectrophotométrique sur une puce physique — confiance maximale.",
   "confTip.spec": "D'une fiche technique OEM ou sous licence.",
-  "confTip.derived":
-    "Converti d'une valeur HEX publiée (référence retouche).",
+  "confTip.derivedHex":
+    "Converti à partir d'un HEX publié ou d'une référence de retouche.",
+  "confTip.derivedChip":
+    "Moyenne d'une image de puce PaintRef — un mauvais appariement ligne↔puce fausse la teinte.",
+  "confTip.derivedOther":
+    "Converti ou déduit d'une source secondaire — pas une mesure spectro directe.",
   "confTip.estimated": "Valeur approximative en attendant une mesure vérifiée.",
   "confTip.generic":
     "Couleur approximative d'une palette universelle dérivée de HEX. Pas une mesure d'usine.",
@@ -554,15 +602,21 @@ const de: TranslationKeys = {
 
   "conf.measured": "Gemessen",
   "conf.spec": "Laut Spec",
-  "conf.derived": "HEX-abgeleitet",
+  "conf.derivedHex": "HEX-abgeleitet",
+  "conf.derivedChip": "Chip-abgeleitet",
+  "conf.derivedOther": "Abgeleitet (Näherung)",
   "conf.estimated": "Geschätzt",
   "conf.generic": "Generische Palette",
 
   "confTip.measured":
     "Spektrophotometer-Messung an einem physischen Chip — höchste Verlässlichkeit.",
   "confTip.spec": "Aus einem OEM- oder lizenzierten Lack-Datenblatt.",
-  "confTip.derived":
-    "Aus einem veröffentlichten HEX-Wert konvertiert (Referenz für Retusche).",
+  "confTip.derivedHex":
+    "Aus einem veröffentlichten oder branchenüblichen Touch-up-HEX umgerechnet.",
+  "confTip.derivedChip":
+    "Aus einem PaintRef-Chipbild gemittelt — falsche Zeile↔Chip-Zuordnung verfälscht den Farbton.",
+  "confTip.derivedOther":
+    "Aus einer sekundären Quelle umgerechnet oder abgeleitet — keine direkte Spektro-Messung.",
   "confTip.estimated": "Näherungswert bis eine verifizierte Messung vorliegt.",
   "confTip.generic":
     "Näherungsfarbe aus einer universellen HEX-abgeleiteten Palette. Keine Werksmessung.",
@@ -671,15 +725,21 @@ const it: TranslationKeys = {
 
   "conf.measured": "Misurato",
   "conf.spec": "Da specifica",
-  "conf.derived": "Derivato HEX",
+  "conf.derivedHex": "Derivato HEX",
+  "conf.derivedChip": "Derivato da chip",
+  "conf.derivedOther": "Derivato (appross.)",
   "conf.estimated": "Stimato",
   "conf.generic": "Palette generica",
 
   "confTip.measured":
     "Lettura spettrofotometrica su un campione fisico — massima affidabilità.",
   "confTip.spec": "Da una scheda tecnica OEM o con licenza.",
-  "confTip.derived":
-    "Convertito da un valore HEX pubblicato (riferimento ritocco).",
+  "confTip.derivedHex":
+    "Convertito da un HEX pubblicato o da una referenza di ritocco.",
+  "confTip.derivedChip":
+    "Media da un'immagine chip PaintRef — accoppiamento riga↔chip errato altera la tonalità.",
+  "confTip.derivedOther":
+    "Convertito o dedotto da una fonte secondaria — non una misura spettro diretta.",
   "confTip.estimated": "Valore approssimativo fino a quando non sarà disponibile una misurazione verificata.",
   "confTip.generic":
     "Colore approssimativo da una palette universale derivata da HEX. Non è una misurazione di fabbrica.",
@@ -788,15 +848,21 @@ const pt: TranslationKeys = {
 
   "conf.measured": "Medido",
   "conf.spec": "Da especificação",
-  "conf.derived": "Derivado HEX",
+  "conf.derivedHex": "Derivado HEX",
+  "conf.derivedChip": "Derivado do chip",
+  "conf.derivedOther": "Derivado (aprox.)",
   "conf.estimated": "Estimado",
   "conf.generic": "Paleta genérica",
 
   "confTip.measured":
     "Leitura espectrofotométrica em uma amostra física — maior confiança.",
   "confTip.spec": "De uma ficha técnica OEM ou licenciada.",
-  "confTip.derived":
-    "Convertido de um valor HEX publicado (referência de retoque).",
+  "confTip.derivedHex":
+    "Convertido de um HEX publicado ou de referência de retoque.",
+  "confTip.derivedChip":
+    "Média de uma imagem de chip PaintRef — pareamento linha↔chip errado distorce o matiz.",
+  "confTip.derivedOther":
+    "Convertido ou inferido de uma fonte secundária — não é medição espectro direta.",
   "confTip.estimated": "Valor aproximado até que uma medição verificada esteja disponível.",
   "confTip.generic":
     "Cor aproximada de uma paleta universal derivada de HEX. Não é uma medição de fábrica.",
@@ -904,13 +970,18 @@ const ja: TranslationKeys = {
 
   "conf.measured": "実測値",
   "conf.spec": "仕様書から",
-  "conf.derived": "HEX変換",
+  "conf.derivedHex": "HEX変換",
+  "conf.derivedChip": "チップ由来",
+  "conf.derivedOther": "換算（近似）",
   "conf.estimated": "推定値",
   "conf.generic": "汎用パレット",
 
   "confTip.measured": "物理チップの分光光度計測定 — 最高精度。",
   "confTip.spec": "OEMまたはライセンスペイント仕様書から。",
-  "confTip.derived": "公開HEX値から変換（タッチアップ参考値）。",
+  "confTip.derivedHex": "公開または業界タッチアップ用HEXから換算。",
+  "confTip.derivedChip":
+    "PaintRefチップ画像の平均 — 行とチップの取り違えで色相が大きくずれることがあります。",
+  "confTip.derivedOther": "二次ソースからの換算・推定 — 分光計の直接測定ではありません。",
   "confTip.estimated": "検証済み測定値が利用可能になるまでの近似値。",
   "confTip.generic":
     "HEX変換の汎用パレットからの近似色。純正測定値ではありません。",
@@ -1018,13 +1089,18 @@ const zh: TranslationKeys = {
 
   "conf.measured": "已测量",
   "conf.spec": "来自规格",
-  "conf.derived": "HEX转换",
+  "conf.derivedHex": "HEX转换",
+  "conf.derivedChip": "色片推算",
+  "conf.derivedOther": "换算（近似）",
   "conf.estimated": "估算值",
   "conf.generic": "通用调色板",
 
   "confTip.measured": "物理色片的分光光度计读数 — 最高置信度。",
   "confTip.spec": "来自OEM或授权漆色规格表。",
-  "confTip.derived": "从已发布HEX值转换（行业补漆参考）。",
+  "confTip.derivedHex": "由公开或行业补漆用HEX换算。",
+  "confTip.derivedChip":
+    "来自PaintRef色片图像的平均 — 行与色片对错会严重偏色。",
+  "confTip.derivedOther": "由次级来源换算或推断 — 非分光计直接测量。",
   "confTip.estimated": "在验证测量值可用之前的近似值。",
   "confTip.generic": "来自HEX转换通用调色板的近似颜色。非原厂测量值。",
 
@@ -1131,13 +1207,18 @@ const ko: TranslationKeys = {
 
   "conf.measured": "실측",
   "conf.spec": "스펙 기반",
-  "conf.derived": "HEX 변환",
+  "conf.derivedHex": "HEX 변환",
+  "conf.derivedChip": "칩 기반",
+  "conf.derivedOther": "환산(근사)",
   "conf.estimated": "추정값",
   "conf.generic": "범용 팔레트",
 
   "confTip.measured": "물리적 칩 분광광도계 측정 — 최고 신뢰도.",
   "confTip.spec": "OEM 또는 라이선스 페인트 사양서에서.",
-  "confTip.derived": "공개 HEX 값에서 변환 (업계 터치업 참고).",
+  "confTip.derivedHex": "공개 또는 업계 터치업 HEX에서 환산.",
+  "confTip.derivedChip":
+    "PaintRef 칩 이미지 평균 — 행↔칩 매칭 오류 시 색상이 크게 어긋날 수 있습니다.",
+  "confTip.derivedOther": "2차 출처에서 환산·추정 — 분광계 직접 측정이 아닙니다.",
   "confTip.estimated": "검증된 측정값이 제공될 때까지의 근사값.",
   "confTip.generic":
     "HEX 변환 범용 팔레트의 근사 색상. 공장 측정값이 아닙니다.",
@@ -1244,12 +1325,17 @@ const he: TranslationKeys = {
 
   "conf.measured": "נמדד",
   "conf.spec": "ממפרט",
-  "conf.derived": "נגזר מ-HEX",
+  "conf.derivedHex": "נגזר מ-HEX",
+  "conf.derivedChip": "נגזר משבב",
+  "conf.derivedOther": "נגזר (משוער)",
   "conf.estimated": "מוערך",
   "conf.generic": "פלטה כללית",
   "confTip.measured": "מדידת ספקטרופוטומטר על דוגמית פיזית — רמת אמון גבוהה ביותר.",
   "confTip.spec": "מבוסס על מסמך מפרט OEM או מקור מורשה.",
-  "confTip.derived": "הומר מערך HEX שפורסם (ייחוס לתיקוני צבע בתעשייה).",
+  "confTip.derivedHex": "הומר מערך HEX שפורסם או מערך תיקון תעשייתי.",
+  "confTip.derivedChip":
+    "ממוצע מתמונת שבב PaintRef — צימוד שורה↔שבב שגוי מעוות גוון.",
+  "confTip.derivedOther": "הומר או הוסק ממקור משני — לא מדידת ספקטרו ישירה.",
   "confTip.estimated": "ערך משוער עד להוספת מדידה מאומתת.",
   "confTip.generic":
     "צבע מקורב מפלטה אוניברסלית שנגזרה מ-HEX. זו אינה מדידת יצרן בפועל.",

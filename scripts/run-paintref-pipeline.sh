@@ -32,6 +32,14 @@ if [ "$PAINTREF_SHTML_MERGE" = "0" ]; then
   SHTML_MERGE_FLAG=(--shtml-merge false)
 fi
 
+# When live CGI is overloaded / IP-throttled: skip `fetchPaintRefEntries` (no Wayback).
+# Requires vPIC `data/oem/<slug>-vpic-v1/oem-scope.json` models for static `.shtml` URLs.
+PAINTREF_STATIC_ONLY="${PAINTREF_STATIC_ONLY:-0}"
+STATIC_ONLY_FLAG=()
+if [ "$PAINTREF_STATIC_ONLY" = "1" ]; then
+  STATIC_ONLY_FLAG=(--static-only)
+fi
+
 STATE_FILE="$LOG_DIR/paintref-pipeline.state"
 MAIN_LOG="$LOG_DIR/paintref-pipeline.log"
 SCRAPE_LOG="$LOG_DIR/paintref-scrape.log"
@@ -95,11 +103,12 @@ wait_for_site() {
 
 run_scrape() {
   set_state "scraping"
-  log "starting full scrape -> $SCRAPE_LOG (PAINTREF_SCAN_MODELS=${PAINTREF_SCAN_MODELS})"
+  log "starting full scrape -> $SCRAPE_LOG (PAINTREF_SCAN_MODELS=${PAINTREF_SCAN_MODELS}, PAINTREF_STATIC_ONLY=${PAINTREF_STATIC_ONLY})"
   npx tsx scripts/fetch-paintref-all.ts \
     --scan-years --sample-chips \
     ${SCRAPE_MODEL_FLAG:+"$SCRAPE_MODEL_FLAG"} \
     "${SHTML_MERGE_FLAG[@]}" \
+    "${STATIC_ONLY_FLAG[@]}" \
     --concurrency 1 --delay-ms 2500 \
     --year-from 2000 --year-to 2026 \
     >"$SCRAPE_LOG" 2>&1
@@ -121,6 +130,7 @@ run_scrape_resume() {
     --scan-years --sample-chips \
     ${SCRAPE_MODEL_FLAG:+"$SCRAPE_MODEL_FLAG"} \
     "${SHTML_MERGE_FLAG[@]}" \
+    "${STATIC_ONLY_FLAG[@]}" \
     --concurrency 1 --delay-ms 2500 \
     --year-from 2000 --year-to 2026 \
     >>"$SCRAPE_LOG" 2>&1
@@ -138,6 +148,7 @@ run_model_scan() {
   npx tsx scripts/fetch-paintref-all.ts \
     --scan-years --scan-models --sample-chips \
     "${SHTML_MERGE_FLAG[@]}" \
+    "${STATIC_ONLY_FLAG[@]}" \
     --concurrency 1 --delay-ms 3500 \
     --year-from 2000 --year-to 2026 \
     >"$log_file" 2>&1
@@ -174,6 +185,7 @@ retry_failed() {
       --scan-years --sample-chips \
       ${SCRAPE_MODEL_FLAG:+"$SCRAPE_MODEL_FLAG"} \
       "${SHTML_MERGE_FLAG[@]}" \
+      "${STATIC_ONLY_FLAG[@]}" \
       --concurrency 1 --delay-ms 2500 \
       --year-from 2000 --year-to 2026 \
       --force-refresh \
@@ -316,7 +328,7 @@ case "${1:-all}" in
     echo "  all          — full run (truncates scrape log)" >&2
     echo "  resume-fetch — append-only fetch (year-only skips finished OEMs; with PAINTREF_SCAN_MODELS=1 re-enriches)" >&2
     echo "  post-fetch   — retries, model scan, validate:data, BMW merge, acceptance" >&2
-    echo "Env: PAINTREF_SCAN_MODELS=1 (default); PAINTREF_SHTML_MERGE=1 (default) merges LiteSpeed .shtml to bypass CGI 503s; set =0 for fewer HTTP requests." >&2
+    echo "Env: PAINTREF_SCAN_MODELS=1 (default); PAINTREF_SHTML_MERGE=1 (default) merges LiteSpeed .shtml; PAINTREF_STATIC_ONLY=1 skips live CGI+Wayback (vPIC models required)." >&2
     exit 1
     ;;
 esac

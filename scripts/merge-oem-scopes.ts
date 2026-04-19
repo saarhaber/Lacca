@@ -103,6 +103,7 @@ const SOURCE_PRIORITY: Record<string, number> = {
   nhtsa_vpic: 40,
   carapi: 35,
   paintref_hex: 30,
+  autocolorlibrary_swatch: 28,
   hex_derived: 20,
   placeholder_prototype: 5
 };

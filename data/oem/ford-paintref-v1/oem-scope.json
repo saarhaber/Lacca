@@ -1,0 +1,14 @@
+{
+  "$schema": "../../../schemas/oem-scope-v1.schema.json",
+  "scopeId": "ford-paintref-v1",
+  "oem": "Ford",
+  "modelYears": {
+    "from": 2024,
+    "to": 2024
+  },
+  "models": [
+    "F150"
+  ],
+  "notes": "Ford exterior paints (F150 2024 pilot): original PaintRef Browser harvest paired several chip PNGs to the wrong table rows. Most rows were corrected to LAB from scripts/fetch-nhtsa-colors.ts industry HEX keys (same values as Rapid Red / Carbonized Gray / etc.) or vetted touch-up hex for Avalanche (DR) and Shelter Green (DB). Star White (AZ) and Stone Gray (D1) still use plausible PaintRef chip averages; AZ is tri-coat pearl — treat as approximate on screen.",
+  "exteriorPaintFile": "./exterior-paints-v1.json"
+}

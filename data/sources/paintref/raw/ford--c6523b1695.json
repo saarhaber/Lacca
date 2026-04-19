@@ -1,0 +1,150 @@
+{
+  "oem": "Ford",
+  "fetchedAt": "2026-04-18T19:02:12.236Z",
+  "entries": [
+    {
+      "code": "AZ",
+      "name": "Star White",
+      "make": "Ford",
+      "model": "Expedition",
+      "year_from": 2020,
+      "year_to": 2020,
+      "chipUrl": "https://www.paintref.com/chipimages/UTUUUS.png",
+      "chipHash": "b1e9838c5e045780",
+      "ditzler": "952122",
+      "models": [
+        "Expedition"
+      ]
+    },
+    {
+      "code": "D4",
+      "name": "Rapid Red",
+      "make": "Ford",
+      "model": "Expedition",
+      "year_from": 2020,
+      "year_to": 2020,
+      "chipUrl": "https://www.paintref.com/chipimages/CFGDXF.png",
+      "chipHash": "d302ad83edfa4a17",
+      "ditzler": "952073",
+      "models": [
+        "Expedition"
+      ]
+    },
+    {
+      "code": "FT",
+      "name": "Blue",
+      "make": "Ford",
+      "model": "Expedition",
+      "year_from": 2020,
+      "year_to": 2020,
+      "chipUrl": "https://www.paintref.com/chipimages/DCS2CH.png",
+      "chipHash": "9d7b07bfc5eec37f",
+      "ditzler": "946171",
+      "models": [
+        "Expedition"
+      ]
+    },
+    {
+      "code": "G6",
+      "name": "Desert Gold",
+      "make": "Ford",
+      "model": "Expedition",
+      "year_from": 2020,
+      "year_to": 2020,
+      "chipUrl": "https://www.paintref.com/chipimages/EFCD3X.png",
+      "chipHash": "e15b5eeef8bab295",
+      "ditzler": "952066",
+      "models": [
+        "Expedition"
+      ]
+    },
+    {
+      "code": "J7",
+      "name": "Magnetic",
+      "make": "Ford",
+      "model": "Expedition",
+      "year_from": 2020,
+      "year_to": 2020,
+      "chipUrl": "https://www.paintref.com/chipimages/SFSDW5.png",
+      "chipHash": "b12bc5067fb5e7ad",
+      "ditzler": "936529",
+      "models": [
+        "Expedition"
+      ]
+    },
+    {
+      "code": "JS",
+      "name": "Iconic Silver",
+      "make": "Ford",
+      "model": "Expedition",
+      "year_from": 2020,
+      "year_to": 2020,
+      "chipUrl": "https://www.paintref.com/chipimages/TCT4HG.png",
+      "chipHash": "71af07cbb895de32",
+      "ditzler": "952018",
+      "models": [
+        "Expedition"
+      ]
+    },
+    {
+      "code": "PQ",
+      "name": "Race Red",
+      "make": "Ford",
+      "model": "Expedition",
+      "year_from": 2020,
+      "year_to": 2020,
+      "chipUrl": "https://www.paintref.com/chipimages/4H5WDF.png",
+      "chipHash": "c5de41b270844bf4",
+      "ditzler": "926415",
+      "models": [
+        "Expedition"
+      ]
+    },
+    {
+      "code": "R3",
+      "name": "Burgundy Velvet",
+      "make": "Ford",
+      "model": "Expedition",
+      "year_from": 2020,
+      "year_to": 2020,
+      "chipUrl": "https://www.paintref.com/chipimages/FCGAGA.png",
+      "chipHash": "feec5f6b86733548",
+      "ditzler": "939662",
+      "models": [
+        "Expedition"
+      ]
+    },
+    {
+      "code": "UM",
+      "name": "Agate Black",
+      "make": "Ford",
+      "model": "Expedition",
+      "year_from": 2020,
+      "year_to": 2020,
+      "chipUrl": "https://www.paintref.com/chipimages/GGGGGG.png",
+      "chipHash": "1f437854e2d31a87",
+      "ditzler": "948377",
+      "models": [
+        "Expedition"
+      ]
+    },
+    {
+      "code": "YZ",
+      "name": "Oxford White",
+      "make": "Ford",
+      "model": "Expedition",
+      "year_from": 2020,
+      "year_to": 2020,
+      "chipUrl": "https://www.paintref.com/chipimages/454XU4.png",
+      "chipHash": "dfdb09c39715dcf6",
+      "ditzler": "4289",
+      "models": [
+        "Expedition"
+      ]
+    }
+  ],
+  "filters": {
+    "model": "Expedition",
+    "year": 2020
+  }
+}

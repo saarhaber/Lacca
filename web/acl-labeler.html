@@ -1,0 +1,479 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Lacca — Auto Color Library swatch labeler</title>
+    <style>
+      :root {
+        font-family: system-ui, sans-serif;
+        color: #e8e8ec;
+        background: #12141a;
+      }
+      body {
+        margin: 0;
+        padding: 1rem 1.25rem 3rem;
+        max-width: 1200px;
+      }
+      h1 {
+        font-size: 1.15rem;
+        font-weight: 600;
+        margin: 0 0 0.5rem;
+      }
+      p.hint {
+        color: #9aa3b2;
+        font-size: 0.9rem;
+        margin: 0 0 1rem;
+        line-height: 1.45;
+      }
+      .row {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 0.75rem;
+        align-items: flex-end;
+        margin-bottom: 0.75rem;
+      }
+      label {
+        display: flex;
+        flex-direction: column;
+        gap: 0.25rem;
+        font-size: 0.75rem;
+        color: #9aa3b2;
+      }
+      input,
+      select,
+      textarea,
+      button {
+        font: inherit;
+        padding: 0.35rem 0.5rem;
+        border-radius: 6px;
+        border: 1px solid #2a3140;
+        background: #1a1f2b;
+        color: #e8e8ec;
+      }
+      textarea {
+        min-width: 280px;
+        min-height: 2.5rem;
+      }
+      button {
+        cursor: pointer;
+        background: #2d3c5c;
+        border-color: #3d5280;
+      }
+      button.secondary {
+        background: #252a36;
+      }
+      button:disabled {
+        opacity: 0.45;
+        cursor: not-allowed;
+      }
+      .wrap-canvas {
+        position: relative;
+        display: inline-block;
+        max-width: 100%;
+        border: 1px solid #2a3140;
+        border-radius: 8px;
+        overflow: hidden;
+        margin: 0.5rem 0 1rem;
+      }
+      canvas {
+        display: block;
+        max-width: 100%;
+        height: auto;
+        cursor: crosshair;
+      }
+      .chip {
+        width: 2rem;
+        height: 2rem;
+        border-radius: 4px;
+        border: 1px solid #444;
+        display: inline-block;
+        vertical-align: middle;
+      }
+      table {
+        width: 100%;
+        border-collapse: collapse;
+        font-size: 0.8rem;
+        margin-top: 1rem;
+      }
+      th,
+      td {
+        text-align: left;
+        padding: 0.4rem 0.5rem;
+        border-bottom: 1px solid #2a3140;
+      }
+      th {
+        color: #9aa3b2;
+        font-weight: 500;
+      }
+      .mono {
+        font-family: ui-monospace, monospace;
+        font-size: 0.78rem;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>Auto Color Library — swatch labeler</h1>
+    <p class="hint">
+      Load a harvested chip sheet (JPEG/PNG). Drag on the image to select a swatch rectangle. Average sRGB is computed from
+      that region in <strong>original pixel space</strong>. Fill code and marketing name, then add to the list and export
+      JSON for <span class="mono">import-autocolorlibrary-labels.ts</span>.
+    </p>
+
+    <div class="row">
+      <label>
+        Image file
+        <input type="file" id="file" accept="image/*" />
+      </label>
+      <label>
+        Image path (repo-relative, for export)
+        <input type="text" id="imageFile" size="48" placeholder="data/sources/autocolorlibrary/pages/2019-bmw/2019_BMW_01.jpg" />
+      </label>
+    </div>
+
+    <div class="row">
+      <label>
+        OEM
+        <input type="text" id="oem" value="BMW" />
+      </label>
+      <label>
+        Model year
+        <input type="number" id="modelYear" value="2019" min="1900" max="2100" />
+      </label>
+      <label>
+        Source page URL
+        <input type="url" id="sourcePageUrl" size="40" value="https://www.autocolorlibrary.com/pages/2019-Bmw.html" />
+      </label>
+    </div>
+
+    <div class="wrap-canvas">
+      <canvas id="cv"></canvas>
+    </div>
+
+    <div class="row">
+      <label>
+        Paint code
+        <input type="text" id="code" autocomplete="off" />
+      </label>
+      <label>
+        Marketing name
+        <input type="text" id="marketingName" autocomplete="off" size="28" />
+      </label>
+      <label>
+        Finish
+        <select id="finish">
+          <option value="solid">solid</option>
+          <option value="metallic">metallic</option>
+          <option value="pearl">pearl</option>
+          <option value="matte">matte</option>
+          <option value="other">other</option>
+        </select>
+      </label>
+      <label>
+        Notes
+        <input type="text" id="notes" size="32" placeholder="optional" />
+      </label>
+    </div>
+
+    <div class="row">
+      <span class="mono" id="hexPreview">#———</span>
+      <span class="chip" id="chip" title="sampled"></span>
+      <span class="mono" id="bboxPreview"></span>
+    </div>
+
+    <div class="row">
+      <button type="button" id="addBtn" disabled>Add label</button>
+      <button type="button" id="undoBtn" class="secondary" disabled>Remove last</button>
+      <button type="button" id="exportBtn" disabled>Export JSON</button>
+      <button type="button" id="clearBtn" class="secondary" disabled>Clear all</button>
+    </div>
+
+    <textarea id="out" rows="10" style="width: 100%; margin-top: 1rem" readonly placeholder="Exported JSON appears here…"></textarea>
+
+    <table id="tbl">
+      <thead>
+        <tr>
+          <th>#</th>
+          <th>Code</th>
+          <th>Name</th>
+          <th>Hex</th>
+          <th>Bbox</th>
+        </tr>
+      </thead>
+      <tbody></tbody>
+    </table>
+
+    <script>
+      (function () {
+        const cv = document.getElementById("cv");
+        const ctx = cv.getContext("2d");
+        const fileInput = document.getElementById("file");
+        const imageFileEl = document.getElementById("imageFile");
+        const addBtn = document.getElementById("addBtn");
+        const undoBtn = document.getElementById("undoBtn");
+        const exportBtn = document.getElementById("exportBtn");
+        const clearBtn = document.getElementById("clearBtn");
+        const out = document.getElementById("out");
+        const hexPreview = document.getElementById("hexPreview");
+        const chip = document.getElementById("chip");
+        const bboxPreview = document.getElementById("bboxPreview");
+        const tblBody = document.querySelector("#tbl tbody");
+
+        let img = null;
+        /** @type {{ x: number, y: number, w: number, h: number } | null} */
+        let pendingBbox = null;
+        /** @type {{ x0: number, y0: number, drawing: boolean }} */
+        let drag = { x0: 0, y0: 0, drawing: false };
+        const labels = [];
+
+        function clamp(n, a, b) {
+          return Math.max(a, Math.min(b, n));
+        }
+
+        function draw() {
+          if (!img) return;
+          const maxW = Math.min(1100, window.innerWidth - 40);
+          const scale = maxW / img.naturalWidth;
+          const dw = Math.round(img.naturalWidth * scale);
+          const dh = Math.round(img.naturalHeight * scale);
+          cv.width = dw;
+          cv.height = dh;
+          ctx.drawImage(img, 0, 0, dw, dh);
+          if (pendingBbox && pendingBbox.w > 1 && pendingBbox.h > 1) {
+            const s = dw / img.naturalWidth;
+            ctx.strokeStyle = "#6cf";
+            ctx.lineWidth = 2;
+            ctx.strokeRect(
+              pendingBbox.x * s,
+              pendingBbox.y * s,
+              pendingBbox.w * s,
+              pendingBbox.h * s
+            );
+          }
+        }
+
+        function canvasToNatural(clientX, clientY) {
+          const r = cv.getBoundingClientRect();
+          const sx = img.naturalWidth / cv.width;
+          const sy = img.naturalHeight / cv.height;
+          const x = (clientX - r.left) * sx;
+          const y = (clientY - r.top) * sy;
+          return {
+            x: clamp(x, 0, img.naturalWidth - 1),
+            y: clamp(y, 0, img.naturalHeight - 1)
+          };
+        }
+
+        function averageRect(bbox) {
+          const c = document.createElement("canvas");
+          c.width = Math.max(1, Math.round(bbox.w));
+          c.height = Math.max(1, Math.round(bbox.h));
+          const cx = c.getContext("2d");
+          cx.drawImage(
+            img,
+            bbox.x,
+            bbox.y,
+            bbox.w,
+            bbox.h,
+            0,
+            0,
+            c.width,
+            c.height
+          );
+          const data = cx.getImageData(0, 0, c.width, c.height).data;
+          let r = 0,
+            g = 0,
+            b = 0,
+            n = 0;
+          for (let i = 0; i < data.length; i += 4) {
+            const a = data[i + 3];
+            if (a < 8) continue;
+            r += data[i];
+            g += data[i + 1];
+            b += data[i + 2];
+            n++;
+          }
+          if (n === 0) return null;
+          r = Math.round(r / n);
+          g = Math.round(g / n);
+          b = Math.round(b / n);
+          const hex =
+            "#" +
+            [r, g, b]
+              .map((v) => v.toString(16).padStart(2, "0"))
+              .join("")
+              .toUpperCase();
+          return { hex, rgb: [r, g, b] };
+        }
+
+        function refreshPending() {
+          if (!pendingBbox || !img) {
+            hexPreview.textContent = "#———";
+            chip.style.background = "#333";
+            bboxPreview.textContent = "";
+            addBtn.disabled = true;
+            return;
+          }
+          const avg = averageRect(pendingBbox);
+          if (!avg) {
+            addBtn.disabled = true;
+            return;
+          }
+          hexPreview.textContent = avg.hex;
+          chip.style.background = avg.hex;
+          bboxPreview.textContent =
+            "bbox " +
+            Math.round(pendingBbox.x) +
+            "," +
+            Math.round(pendingBbox.y) +
+            " " +
+            Math.round(pendingBbox.w) +
+            "×" +
+            Math.round(pendingBbox.h);
+          addBtn.disabled = false;
+        }
+
+        fileInput.addEventListener("change", () => {
+          const f = fileInput.files && fileInput.files[0];
+          if (!f) return;
+          const url = URL.createObjectURL(f);
+          const i = new Image();
+          i.onload = () => {
+            img = i;
+            pendingBbox = null;
+            draw();
+            refreshPending();
+            URL.revokeObjectURL(url);
+          };
+          i.src = url;
+        });
+
+        cv.addEventListener("mousedown", (e) => {
+          if (!img) return;
+          const p = canvasToNatural(e.clientX, e.clientY);
+          drag = { x0: p.x, y0: p.y, drawing: true };
+        });
+
+        cv.addEventListener("mousemove", (e) => {
+          if (!img || !drag.drawing) return;
+          const p = canvasToNatural(e.clientX, e.clientY);
+          const x = Math.min(drag.x0, p.x);
+          const y = Math.min(drag.y0, p.y);
+          const w = Math.abs(p.x - drag.x0);
+          const h = Math.abs(p.y - drag.y0);
+          pendingBbox = { x, y, w, h };
+          draw();
+          refreshPending();
+        });
+
+        function endDrag() {
+          drag.drawing = false;
+        }
+        cv.addEventListener("mouseup", endDrag);
+        cv.addEventListener("mouseleave", endDrag);
+
+        addBtn.addEventListener("click", () => {
+          if (!pendingBbox || !img) return;
+          const avg = averageRect(pendingBbox);
+          if (!avg) return;
+          const oem = document.getElementById("oem").value.trim();
+          const modelYear = parseInt(document.getElementById("modelYear").value, 10);
+          const sourcePageUrl = document.getElementById("sourcePageUrl").value.trim();
+          const code = document.getElementById("code").value.trim();
+          const marketingName = document.getElementById("marketingName").value.trim();
+          const finish = document.getElementById("finish").value;
+          const notes = document.getElementById("notes").value.trim();
+          const imageFile = imageFileEl.value.trim();
+          if (!code || !marketingName) {
+            alert("Paint code and marketing name are required.");
+            return;
+          }
+          const rec = {
+            oem,
+            modelYear,
+            sourcePageUrl,
+            imageFile: imageFile || undefined,
+            bbox: {
+              x: Math.round(pendingBbox.x),
+              y: Math.round(pendingBbox.y),
+              w: Math.round(pendingBbox.w),
+              h: Math.round(pendingBbox.h)
+            },
+            hex: avg.hex,
+            code,
+            marketingName,
+            finish,
+            ...(notes ? { notes } : {})
+          };
+          labels.push(rec);
+          renderTable();
+          exportBtn.disabled = false;
+          undoBtn.disabled = false;
+          clearBtn.disabled = false;
+          out.value = JSON.stringify(labels, null, 2);
+        });
+
+        undoBtn.addEventListener("click", () => {
+          labels.pop();
+          renderTable();
+          out.value = labels.length ? JSON.stringify(labels, null, 2) : "";
+          exportBtn.disabled = labels.length === 0;
+          undoBtn.disabled = labels.length === 0;
+          clearBtn.disabled = labels.length === 0;
+        });
+
+        clearBtn.addEventListener("click", () => {
+          labels.length = 0;
+          renderTable();
+          out.value = "";
+          exportBtn.disabled = true;
+          undoBtn.disabled = true;
+          clearBtn.disabled = true;
+        });
+
+        exportBtn.addEventListener("click", () => {
+          out.value = JSON.stringify(labels, null, 2);
+          navigator.clipboard.writeText(out.value).catch(() => {});
+        });
+
+        function renderTable() {
+          tblBody.innerHTML = "";
+          labels.forEach((r, i) => {
+            const tr = document.createElement("tr");
+            tr.innerHTML =
+              "<td>" +
+              (i + 1) +
+              "</td><td class='mono'>" +
+              escapeHtml(r.code) +
+              "</td><td>" +
+              escapeHtml(r.marketingName) +
+              "</td><td class='mono'>" +
+              r.hex +
+              "</td><td class='mono'>" +
+              r.bbox.x +
+              "," +
+              r.bbox.y +
+              " " +
+              r.bbox.w +
+              "×" +
+              r.bbox.h +
+              "</td>";
+            tblBody.appendChild(tr);
+          });
+        }
+
+        function escapeHtml(s) {
+          return String(s)
+            .replace(/&/g, "&amp;")
+            .replace(/</g, "&lt;")
+            .replace(/>/g, "&gt;")
+            .replace(/"/g, "&quot;");
+        }
+
+        window.addEventListener("resize", () => {
+          if (img) draw();
+        });
+      })();
+    </script>
+  </body>
+</html>

@@ -20,6 +20,30 @@ export default defineConfig({
       "@": resolve(__dirname, "src")
     }
   },
+  build: {
+    // OEM + OPI JSON is embedded for offline-first matching; a single chunk
+    // will always exceed Rollup’s default 500 kB warning.
+    chunkSizeWarningLimit: 2300,
+    rollupOptions: {
+      output: {
+        manualChunks(id) {
+          if (id.includes("node_modules")) {
+            return "vendor";
+          }
+          if (id.includes("data/oem/")) {
+            return "oem-data";
+          }
+          if (id.includes("data/opi/")) {
+            return "opi-catalog";
+          }
+          if (id.includes("/i18n/translations")) {
+            return "i18n";
+          }
+          return undefined;
+        }
+      }
+    }
+  },
   server: {
     port: 5173,
     open: true,

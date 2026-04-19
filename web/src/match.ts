@@ -39,9 +39,9 @@ export type RankOptions = {
  * for which math was used to publish it.
  *
  * When the input paint's `sourceConfidence` is derived or estimated we cap
- * the highest achievable tier at "close" — a color converted from a hex
- * touch-up reference cannot honestly claim a "perfect" match because the
- * base LAB already carries conversion error.
+ * the highest achievable tier at "close" — the base LAB is not a verified
+ * spectro reading (chip averages, published hex, catalog inference, etc.),
+ * so we do not claim an "Excellent" match tier.
  *
  * When both the input and an OPI SKU carry a `finish`, a finish penalty is
  * added to ΔE to form `matchScore` (for display / future use). **List order

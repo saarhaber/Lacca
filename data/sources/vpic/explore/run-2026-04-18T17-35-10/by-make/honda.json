@@ -1,0 +1,247 @@
+{
+  "make": "Honda",
+  "modelYear": 2023,
+  "data": {
+    "GetModelsForMake": {
+      "url": "https://vpic.nhtsa.dot.gov/api/vehicles/GetModelsForMake/Honda?format=json",
+      "status": 200,
+      "topKeys": [
+        "Count",
+        "Message",
+        "Results",
+        "SearchCriteria"
+      ],
+      "count": 464,
+      "message": "Response returned successfully",
+      "resultsSummary": {
+        "length": 464,
+        "firstKeys": [
+          "Make_ID",
+          "Make_Name",
+          "Model_ID",
+          "Model_Name"
+        ],
+        "firstSample": {
+          "Make_ID": 474,
+          "Make_Name": "Honda",
+          "Model_ID": 1861,
+          "Model_Name": "Accord"
+        }
+      },
+      "colorPaths": []
+    },
+    "GetModelsForMakeYear": {
+      "url": "https://vpic.nhtsa.dot.gov/api/vehicles/GetModelsForMakeYear/make/Honda/modelyear/2023?format=json",
+      "status": 200,
+      "topKeys": [
+        "Count",
+        "Message",
+        "Results",
+        "SearchCriteria"
+      ],
+      "count": 114,
+      "message": "Results returned successfully",
+      "resultsSummary": {
+        "length": 114,
+        "firstKeys": [
+          "Make_ID",
+          "Make_Name",
+          "Model_ID",
+          "Model_Name"
+        ],
+        "firstSample": {
+          "Make_ID": 474,
+          "Make_Name": "HONDA",
+          "Model_ID": 1861,
+          "Model_Name": "Accord"
+        }
+      },
+      "colorPaths": []
+    },
+    "GetVehicleTypesForMake": {
+      "url": "https://vpic.nhtsa.dot.gov/api/vehicles/GetVehicleTypesForMake/Honda?format=json",
+      "status": 200,
+      "topKeys": [
+        "Count",
+        "Message",
+        "Results",
+        "SearchCriteria"
+      ],
+      "count": 5,
+      "message": "Response returned successfully",
+      "resultsSummary": {
+        "length": 5,
+        "firstKeys": [
+          "MakeId",
+          "MakeName",
+          "VehicleTypeId",
+          "VehicleTypeName"
+        ],
+        "firstSample": {
+          "MakeId": 474,
+          "MakeName": "HONDA",
+          "VehicleTypeId": 1,
+          "VehicleTypeName": "Motorcycle"
+        }
+      },
+      "colorPaths": []
+    },
+    "GetMakeForManufacturer": {
+      "url": "https://vpic.nhtsa.dot.gov/api/vehicles/GetMakeForManufacturer/Honda?format=json",
+      "status": 200,
+      "topKeys": [
+        "Count",
+        "Message",
+        "Results",
+        "SearchCriteria"
+      ],
+      "count": 16,
+      "message": "Results returned successfully",
+      "resultsSummary": {
+        "length": 16,
+        "firstKeys": [
+          "Make_ID",
+          "Make_Name",
+          "Mfr_Name"
+        ],
+        "firstSample": {
+          "Make_ID": 474,
+          "Make_Name": "HONDA",
+          "Mfr_Name": "HONDA MOTOR CO., LTD."
+        }
+      },
+      "colorPaths": []
+    },
+    "GetWMIsForManufacturer": {
+      "url": "https://vpic.nhtsa.dot.gov/api/vehicles/GetWMIsForManufacturer/Honda?format=json",
+      "status": 200,
+      "topKeys": [
+        "Count",
+        "Message",
+        "Results",
+        "SearchCriteria"
+      ],
+      "count": 45,
+      "message": "Response returned successfully",
+      "resultsSummary": {
+        "length": 45,
+        "firstKeys": [
+          "Country",
+          "CreatedOn",
+          "DateAvailableToPublic",
+          "Id",
+          "Name",
+          "UpdatedOn",
+          "VehicleType",
+          "WMI"
+        ],
+        "firstSample": {
+          "Country": "JAPAN",
+          "CreatedOn": "2015-04-03",
+          "DateAvailableToPublic": "2015-01-01",
+          "Id": 987,
+          "Name": "HONDA MOTOR CO., LTD.",
+          "UpdatedOn": "2021-04-14",
+          "VehicleType": "Motorcycle",
+          "WMI": "JH2"
+        }
+      },
+      "colorPaths": []
+    },
+    "GetCanadianVehicleSpecifications": {
+      "url": "https://vpic.nhtsa.dot.gov/api/vehicles/GetCanadianVehicleSpecifications/?year=2023&make=Honda&format=json",
+      "status": 200,
+      "topKeys": [
+        "Count",
+        "Message",
+        "Results",
+        "SearchCriteria"
+      ],
+      "count": 16,
+      "message": "Results returned successfully",
+      "resultsSummary": {
+        "length": 16,
+        "firstKeys": [
+          "Specs"
+        ],
+        "firstSample": {
+          "Specs": [
+            {
+              "Name": "Make",
+              "Value": "HONDA"
+            },
+            {
+              "Name": "Model",
+              "Value": "CIVIC 1.5L 4DR SEDAN"
+            },
+            {
+              "Name": "MYR",
+              "Value": "22"
+            },
+            {
+              "Name": "OL",
+              "Value": "455"
+            },
+            {
+              "Name": "OW",
+              "Value": "190"
+            },
+            {
+              "Name": "OH",
+              "Value": "142"
+            },
+            {
+              "Name": "WB",
+              "Value": "273"
+            },
+            {
+              "Name": "CW",
+              "Value": "1360"
+            },
+            {
+              "Name": "A",
+              "Value": "126"
+            },
+            {
+              "Name": "B",
+              "Value": "52"
+            },
+            {
+              "Name": "C",
+              "Value": "35"
+            },
+            {
+              "Name": "D",
+              "Value": "77"
+            },
+            {
+              "Name": "E",
+              "Value": "111"
+            },
+            {
+              "Name": "F",
+              "Value": "93"
+            },
+            {
+              "Name": "G",
+              "Value": "89"
+            },
+            {
+              "Name": "TWF",
+              "Value": "155"
+            },
+            {
+              "Name": "TWR",
+              "Value": "158"
+            },
+            {
+              "Name": "WD",
+              "Value": "61/39"
+            }
+          ]
+        }
+      },
+      "colorPaths": []
+    }
+  }
+}

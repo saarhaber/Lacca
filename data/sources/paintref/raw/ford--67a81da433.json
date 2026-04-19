@@ -1,0 +1,150 @@
+{
+  "oem": "Ford",
+  "fetchedAt": "2026-04-18T19:01:57.596Z",
+  "entries": [
+    {
+      "code": "C7",
+      "name": "Canyon Ridge",
+      "make": "Ford",
+      "model": "EcoSport",
+      "year_from": 2020,
+      "year_to": 2020,
+      "chipUrl": "https://www.paintref.com/chipimages/2HDH5D.png",
+      "chipHash": "1b3bf5a49065e375",
+      "ditzler": "942385",
+      "models": [
+        "EcoSport"
+      ]
+    },
+    {
+      "code": "FI",
+      "name": "Smoke",
+      "make": "Ford",
+      "model": "EcoSport",
+      "year_from": 2020,
+      "year_to": 2020,
+      "chipUrl": "https://www.paintref.com/chipimages/353C3C.png",
+      "chipHash": "ca845e4193ee167d",
+      "ditzler": "951804",
+      "models": [
+        "EcoSport"
+      ]
+    },
+    {
+      "code": "G1",
+      "name": "Shadow Black",
+      "make": "Ford",
+      "model": "EcoSport",
+      "year_from": 2020,
+      "year_to": 2020,
+      "chipUrl": "https://www.paintref.com/chipimages/GGGGGG.png",
+      "chipHash": "1f437854e2d31a87",
+      "ditzler": "939708",
+      "models": [
+        "EcoSport"
+      ]
+    },
+    {
+      "code": "N6",
+      "name": "Lightning Blue",
+      "make": "Ford",
+      "model": "EcoSport",
+      "year_from": 2020,
+      "year_to": 2020,
+      "chipUrl": "https://www.paintref.com/chipimages/XGDE2C.png",
+      "chipHash": "ff9091b0e6c2f578",
+      "ditzler": "942925",
+      "models": [
+        "EcoSport"
+      ]
+    },
+    {
+      "code": "PQ",
+      "name": "Race Red",
+      "make": "Ford",
+      "model": "EcoSport",
+      "year_from": 2020,
+      "year_to": 2020,
+      "chipUrl": "https://www.paintref.com/chipimages/4H5WDF.png",
+      "chipHash": "c5de41b270844bf4",
+      "ditzler": "926415",
+      "models": [
+        "EcoSport"
+      ]
+    },
+    {
+      "code": "RR",
+      "name": "Ruby Red",
+      "make": "Ford",
+      "model": "EcoSport",
+      "year_from": 2020,
+      "year_to": 2020,
+      "chipUrl": "https://www.paintref.com/chipimages/ESGGXF.png",
+      "chipHash": "7dc2c32b3975133b",
+      "ditzler": "931662",
+      "models": [
+        "EcoSport"
+      ]
+    },
+    {
+      "code": "TY",
+      "name": "Moondust Silver",
+      "make": "Ford",
+      "model": "EcoSport",
+      "year_from": 2020,
+      "year_to": 2020,
+      "chipUrl": "https://www.paintref.com/chipimages/A2AUAC.png",
+      "chipHash": "b543a53dd5bf0077",
+      "ditzler": "931201",
+      "models": [
+        "EcoSport"
+      ]
+    },
+    {
+      "code": "UG",
+      "name": "White Platinum",
+      "make": "Ford",
+      "model": "EcoSport",
+      "year_from": 2020,
+      "year_to": 2020,
+      "chipUrl": "https://www.paintref.com/chipimages/AAUFAS.png",
+      "chipHash": "9f0d668acef877e3",
+      "ditzler": "919193",
+      "models": [
+        "EcoSport"
+      ]
+    },
+    {
+      "code": "Z9",
+      "name": "Blue Candy",
+      "make": "Ford",
+      "model": "EcoSport",
+      "year_from": 2020,
+      "year_to": 2020,
+      "chipUrl": "https://www.paintref.com/chipimages/XHSCEA.png",
+      "chipHash": "bba39a5c80f8173a",
+      "ditzler": "931186",
+      "models": [
+        "EcoSport"
+      ]
+    },
+    {
+      "code": "ZA",
+      "name": "Diamond White",
+      "make": "Ford",
+      "model": "EcoSport",
+      "year_from": 2020,
+      "year_to": 2020,
+      "chipUrl": "https://www.paintref.com/chipimages/4H4A4W.png",
+      "chipHash": "9778ff333a4b2654",
+      "ditzler": "934853",
+      "models": [
+        "EcoSport"
+      ]
+    }
+  ],
+  "filters": {
+    "model": "Ecosport",
+    "year": 2020
+  }
+}

@@ -45,7 +45,39 @@
         </p>
       </header>
 
-      <main class="panel">
+      <main class="main-shell">
+        <nav
+          class="app-tabs"
+          role="tablist"
+          aria-label="Main sections"
+          data-i18n-label="nav.tabsAria"
+        >
+          <button
+            type="button"
+            class="app-tab"
+            role="tab"
+            id="tab-match"
+            aria-controls="view-match"
+            aria-selected="true"
+            data-i18n="nav.match"
+          >
+            Match
+          </button>
+          <button
+            type="button"
+            class="app-tab"
+            role="tab"
+            id="tab-gallery"
+            aria-controls="view-gallery"
+            aria-selected="false"
+            tabindex="-1"
+            data-i18n="nav.gallery"
+          >
+            Gallery
+          </button>
+        </nav>
+
+        <div class="panel tab-panel" id="view-match" role="tabpanel" aria-labelledby="tab-match">
         <form class="form" id="match-form" autocomplete="on">
           <div class="field">
             <div class="label-row">
@@ -212,6 +244,67 @@
             </dd>
           </dl>
         </details>
+        </div>
+
+        <div
+          class="panel tab-panel gallery-panel"
+          id="view-gallery"
+          role="tabpanel"
+          aria-labelledby="tab-gallery"
+          hidden
+        >
+          <p class="gallery-intro" data-i18n-html="gallery.intro"></p>
+          <div class="gallery-toolbar">
+            <p class="gallery-count" id="gallery-count" aria-live="polite"></p>
+            <p class="gallery-hint" data-i18n="gallery.hint"></p>
+          </div>
+          <div class="gallery-grid" id="gallery-grid"></div>
+        </div>
+
+        <div
+          class="gallery-lightbox"
+          id="gallery-lightbox"
+          hidden
+          role="dialog"
+          aria-modal="true"
+          aria-label="Enlarged gallery image"
+        >
+          <button
+            type="button"
+            class="gallery-lightbox__backdrop"
+            id="gallery-lb-backdrop"
+            data-i18n-label="gallery.lbClose"
+          ></button>
+          <div class="gallery-lightbox__frame">
+            <button
+              type="button"
+              class="gallery-lightbox__icon gallery-lightbox__close"
+              id="gallery-lb-close"
+              data-i18n-label="gallery.lbClose"
+            >
+              <span aria-hidden="true">×</span>
+            </button>
+            <button
+              type="button"
+              class="gallery-lightbox__icon gallery-lightbox__prev"
+              id="gallery-lb-prev"
+              data-i18n-label="gallery.lbPrev"
+            >
+              <span aria-hidden="true">‹</span>
+            </button>
+            <button
+              type="button"
+              class="gallery-lightbox__icon gallery-lightbox__next"
+              id="gallery-lb-next"
+              data-i18n-label="gallery.lbNext"
+            >
+              <span aria-hidden="true">›</span>
+            </button>
+            <img class="gallery-lightbox__img" id="gallery-lb-img" alt="" />
+            <p class="gallery-lightbox__cap" id="gallery-lb-caption"></p>
+            <p class="gallery-lightbox__counter" id="gallery-lb-counter"></p>
+          </div>
+        </div>
       </main>
 
       <footer class="foot">
