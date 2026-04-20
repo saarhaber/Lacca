@@ -48,7 +48,7 @@ type ExteriorFile = {
   }>;
 };
 
-async function main() {
+function main() {
   const args = parseArgs(process.argv.slice(2));
   const scope = args["scope"];
   const yearStr = args["year"];
@@ -96,7 +96,9 @@ async function main() {
   }
 }
 
-main().catch((e) => {
+try {
+  main();
+} catch (e) {
   console.error(e);
   process.exit(1);
-});
+}

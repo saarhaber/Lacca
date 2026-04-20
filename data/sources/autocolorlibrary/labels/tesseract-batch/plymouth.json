@@ -1,0 +1,36 @@
+[
+  {
+    "oem": "Plymouth",
+    "modelYear": 1978,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1978-Plymouth.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1978-plymouth/1978-Plymouth-pg01.jpg",
+    "bbox": {
+      "x": 35,
+      "y": 0,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#EAD9AE",
+    "code": "Bt748",
+    "marketingName": "Factory color BT748",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈0; verify chip alignment."
+  },
+  {
+    "oem": "Plymouth",
+    "modelYear": 1978,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1978-Plymouth.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1978-plymouth/1978-Plymouth-pg01.jpg",
+    "bbox": {
+      "x": 129,
+      "y": 0,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#C9B99D",
+    "code": "D256",
+    "marketingName": "Factory color D256",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈46; verify chip alignment."
+  }
+]

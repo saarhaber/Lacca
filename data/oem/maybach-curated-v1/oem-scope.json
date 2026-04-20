@@ -1,0 +1,17 @@
+{
+  "$schema": "../../../schemas/oem-scope-v1.schema.json",
+  "scopeId": "maybach-curated-v1",
+  "oem": "Maybach",
+  "region": "Global",
+  "modelYears": {
+    "from": 2015,
+    "to": 2026
+  },
+  "models": [
+    "S-Class",
+    "GLS",
+    "EQS"
+  ],
+  "notes": "Maybach exterior colors, curated from industry touch-up references. LAB values are HEX-derived approximations; replace with spectro data before production claims.",
+  "exteriorPaintFile": "./exterior-paints-v1.json"
+}

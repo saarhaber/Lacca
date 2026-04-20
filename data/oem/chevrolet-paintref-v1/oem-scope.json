@@ -7,36 +7,9 @@
     "to": 2026
   },
   "models": [
-    "Astro",
-    "Avalanche",
-    "Aveo",
-    "Beat",
-    "Blazer",
-    "Bolt",
-    "BrightDrop",
-    "Camaro",
-    "Caprice",
-    "Captiva",
-    "Cavalier",
-    "Chevy Truck",
-    "Colorado",
     "Corvette",
-    "Cruze",
-    "Epica",
-    "Equinox",
-    "Express",
-    "Fleet",
-    "Impala",
-    "Malibu",
-    "Prizm",
-    "Silverado",
-    "Sonic",
-    "Spark",
-    "Trailblazer",
-    "Traverse",
-    "Trax",
-    "Volt"
+    "Nova"
   ],
-  "notes": "Chevrolet exterior paint codes sourced from PaintRef (paintref.com) by fetch-paintref-all. Entries with LAB use confidence=\"spec\"; hex-only entries and chip-image samples use confidence=\"derived\". Chip-sampled rows carry source=\"paintref_chip\" with provenance back to the averaged PNG at data/sources/paintref/chipimages/. Verify spec-grade entries with spectro before production claims. 29 distinct models observed in advanced-search rows (sanitized). Merge with curated scopes via merge-oem-scopes to pick best-confidence LAB per code.",
+  "notes": "Chevrolet exterior paint codes sourced from PaintRef (paintref.com) by fetch-paintref-all. Entries with LAB use confidence=\"spec\"; hex-only entries and chip-image samples use confidence=\"derived\". Chip-sampled rows carry source=\"paintref_chip\" with provenance back to the averaged PNG at data/sources/paintref/chipimages/. Verify spec-grade entries with spectro before production claims. 2 distinct models observed in advanced-search rows (sanitized). Merge with curated scopes via merge-oem-scopes to pick best-confidence LAB per code.",
   "exteriorPaintFile": "./exterior-paints-v1.json"
 }

@@ -1,0 +1,58 @@
+{
+  "$schema": "../../../schemas/exterior-paints-v1.schema.json",
+  "scopeId": "mercury-autocolorlibrary-v1",
+  "version": "1.0.0",
+  "paints": [
+    {
+      "code": "DQE0097",
+      "marketingName": "Factory color DQE0097",
+      "finish": "solid",
+      "lab": {
+        "L": 85.11,
+        "a": 1.47,
+        "b": 9.4,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-20",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/1946-Mercury.html). Image data/sources/autocolorlibrary/pages/1946-mercury/1946-mercury-pg02.jpg; bbox 151,132 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈0; verify chip alignment.",
+        "provenanceId": "acl:mercury:1946:DQE0097:151,132,150x210"
+      }
+    },
+    {
+      "code": "M319",
+      "marketingName": "Factory color M319",
+      "finish": "solid",
+      "lab": {
+        "L": 84.04,
+        "a": 1.47,
+        "b": 9.43,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-20",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/1946-Mercury.html). Image data/sources/autocolorlibrary/pages/1946-mercury/1946-mercury-pg02.jpg; bbox 253,133 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈0; verify chip alignment.",
+        "provenanceId": "acl:mercury:1946:M319:253,133,150x210"
+      }
+    },
+    {
+      "code": "M9345",
+      "marketingName": "1MO946. Milos Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 84.21,
+        "a": 2.08,
+        "b": 11.31,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-20",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/1946-Mercury.html). Image data/sources/autocolorlibrary/pages/1946-mercury/1946-mercury-pg02.jpg; bbox 0,131 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈53; verify chip alignment.",
+        "provenanceId": "acl:mercury:1946:M9345:0,131,150x210"
+      }
+    }
+  ]
+}

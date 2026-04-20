@@ -1,0 +1,18 @@
+{
+  "$schema": "../../../schemas/oem-scope-v1.schema.json",
+  "scopeId": "ram-curated-v1",
+  "oem": "Ram",
+  "region": "North America",
+  "modelYears": {
+    "from": 2009,
+    "to": 2026
+  },
+  "models": [
+    "1500",
+    "2500",
+    "3500",
+    "ProMaster"
+  ],
+  "notes": "Ram exterior colors, curated from industry touch-up references. LAB values are HEX-derived approximations.",
+  "exteriorPaintFile": "./exterior-paints-v1.json"
+}

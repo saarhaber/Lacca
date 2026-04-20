@@ -1,0 +1,103 @@
+{
+  "$schema": "../../../schemas/exterior-paints-v1.schema.json",
+  "scopeId": "rivian-curated-v1",
+  "version": "1.0.0",
+  "paints": [
+    {
+      "code": "GRN01",
+      "marketingName": "Launch Green",
+      "finish": "solid",
+      "lab": {
+        "L": 47.48,
+        "a": -17.93,
+        "b": 23.56,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "hex_derived",
+        "confidence": "derived",
+        "recordedAt": "2026-04-20",
+        "notes": "Derived from #607848 (hex_derived). Replace with spectro LAB before production claims."
+      }
+    },
+    {
+      "code": "GRN02",
+      "marketingName": "Forest Green",
+      "finish": "metallic",
+      "lab": {
+        "L": 25,
+        "a": -11.89,
+        "b": 7.29,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "hex_derived",
+        "confidence": "derived",
+        "recordedAt": "2026-04-20",
+        "notes": "Derived from #2C4030 (hex_derived). Replace with spectro LAB before production claims."
+      }
+    },
+    {
+      "code": "WHT01",
+      "marketingName": "Glacier White",
+      "finish": "pearl",
+      "lab": {
+        "L": 91.29,
+        "a": -0.38,
+        "b": 3.15,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "hex_derived",
+        "confidence": "derived",
+        "recordedAt": "2026-04-20",
+        "notes": "Derived from #E8E6E0 (hex_derived). Replace with spectro LAB before production claims."
+      }
+    },
+    {
+      "code": "BLU01",
+      "marketingName": "Rivian Blue",
+      "finish": "metallic",
+      "lab": {
+        "L": 25.57,
+        "a": 6.99,
+        "b": -32.47,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "hex_derived",
+        "confidence": "derived",
+        "recordedAt": "2026-04-20",
+        "notes": "Derived from #1C3C6E (hex_derived). Replace with spectro LAB before production claims."
+      }
+    },
+    {
+      "code": "GRY01",
+      "marketingName": "Limestone",
+      "finish": "solid",
+      "lab": {
+        "L": 82.12,
+        "a": 1.23,
+        "b": 6.59,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "hex_derived",
+        "confidence": "derived",
+        "recordedAt": "2026-04-20",
+        "notes": "Derived from #D4CBC0 (hex_derived). Replace with spectro LAB before production claims."
+      }
+    },
+    {
+      "code": "GRY02",
+      "marketingName": "El Cap Granite",
+      "finish": "metallic",
+      "lab": {
+        "L": 37.71,
+        "a": 1.2,
+        "b": 1.73,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "hex_derived",
+        "confidence": "derived",
+        "recordedAt": "2026-04-20",
+        "notes": "Derived from #5C5856 (hex_derived). Replace with spectro LAB before production claims."
+      }
+    }
+  ]
+}

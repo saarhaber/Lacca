@@ -16,7 +16,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/1938-Pontiac.html). Image data/sources/autocolorlibrary/pages/1938-pontiac/1938-pontiac-pg01.jpg; bbox 361,0 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈0; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/1938-Pontiac.html). Image data/sources/autocolorlibrary/pages/1938-pontiac/1938-pontiac-pg01.jpg; bbox 361,0 150\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u22480; verify chip alignment.",
         "provenanceId": "acl:pontiac:1938:IML187:361,0,150x210"
       }
     },
@@ -33,8 +33,25 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/1938-Pontiac.html). Image data/sources/autocolorlibrary/pages/1938-pontiac/1938-pontiac-pg01.jpg; bbox 96,0 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈0; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/1938-Pontiac.html). Image data/sources/autocolorlibrary/pages/1938-pontiac/1938-pontiac-pg01.jpg; bbox 96,0 150\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u22480; verify chip alignment.",
         "provenanceId": "acl:pontiac:1938:IMS1808:96,0,150x210"
+      }
+    },
+    {
+      "code": "72",
+      "marketingName": "Carousel Red",
+      "finish": "solid",
+      "lab": {
+        "L": 57.58,
+        "a": 67.78,
+        "b": 68.96,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "hex_derived",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Derived from #FF4500. Alternate code WA3893. GTO Judge orange-red, bold solid with no metallic.",
+        "provenanceId": "lacca:user-curated:pontiac:Carousel-Red-72"
       }
     }
   ]

@@ -1,0 +1,597 @@
+[
+  {
+    "oem": "Ford Truck",
+    "modelYear": 1938,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1938-Ford-Truck.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1938-ford-truck/1938-fordtruck-pg05.jpg",
+    "bbox": {
+      "x": 541,
+      "y": 85,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#985D5D",
+    "code": "M3937",
+    "marketingName": "Factory color M3937",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈90; verify chip alignment."
+  },
+  {
+    "oem": "Ford Truck",
+    "modelYear": 1938,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1938-Ford-Truck.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1938-ford-truck/1938-fordtruck-pg05.jpg",
+    "bbox": {
+      "x": 919,
+      "y": 87,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#B49366",
+    "code": "M3945",
+    "marketingName": "Factory color M3945",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈90; verify chip alignment."
+  },
+  {
+    "oem": "Ford Truck",
+    "modelYear": 1938,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1938-Ford-Truck.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1938-ford-truck/1938-fordtruck-pg05.jpg",
+    "bbox": {
+      "x": 163,
+      "y": 224,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#585F5B",
+    "code": "M3946",
+    "marketingName": "Factory color M3946",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈93; verify chip alignment."
+  },
+  {
+    "oem": "Ford Truck",
+    "modelYear": 1938,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1938-Ford-Truck.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1938-ford-truck/1938-fordtruck-pg05.jpg",
+    "bbox": {
+      "x": 541,
+      "y": 225,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#5C6068",
+    "code": "M3947",
+    "marketingName": "Factory color M3947",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈94; verify chip alignment."
+  },
+  {
+    "oem": "Ford Truck",
+    "modelYear": 1938,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1938-Ford-Truck.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1938-ford-truck/1938-fordtruck-pg05.jpg",
+    "bbox": {
+      "x": 919,
+      "y": 227,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#7B6E6A",
+    "code": "M3948",
+    "marketingName": "Factory color M3948",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈93; verify chip alignment."
+  },
+  {
+    "oem": "Ford Truck",
+    "modelYear": 1939,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1939-Ford-Truck.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1939-ford-truck/1939-fordtruck-pg04.jpg",
+    "bbox": {
+      "x": 541,
+      "y": 85,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#985D5D",
+    "code": "M3937",
+    "marketingName": "Factory color M3937",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈90; verify chip alignment."
+  },
+  {
+    "oem": "Ford Truck",
+    "modelYear": 1939,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1939-Ford-Truck.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1939-ford-truck/1939-fordtruck-pg04.jpg",
+    "bbox": {
+      "x": 919,
+      "y": 87,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#B49366",
+    "code": "M3945",
+    "marketingName": "Factory color M3945",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈90; verify chip alignment."
+  },
+  {
+    "oem": "Ford Truck",
+    "modelYear": 1939,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1939-Ford-Truck.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1939-ford-truck/1939-fordtruck-pg04.jpg",
+    "bbox": {
+      "x": 163,
+      "y": 224,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#585F5B",
+    "code": "M3946",
+    "marketingName": "Factory color M3946",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈93; verify chip alignment."
+  },
+  {
+    "oem": "Ford Truck",
+    "modelYear": 1939,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1939-Ford-Truck.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1939-ford-truck/1939-fordtruck-pg04.jpg",
+    "bbox": {
+      "x": 541,
+      "y": 225,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#5C6068",
+    "code": "M3947",
+    "marketingName": "Factory color M3947",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈94; verify chip alignment."
+  },
+  {
+    "oem": "Ford Truck",
+    "modelYear": 1939,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1939-Ford-Truck.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1939-ford-truck/1939-fordtruck-pg04.jpg",
+    "bbox": {
+      "x": 919,
+      "y": 227,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#7B6E6A",
+    "code": "M3948",
+    "marketingName": "Factory color M3948",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈93; verify chip alignment."
+  },
+  {
+    "oem": "Ford Truck",
+    "modelYear": 1940,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1940-Ford-Truck.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1940-ford-truck/1940-fordtruck-pg05.jpg",
+    "bbox": {
+      "x": 541,
+      "y": 85,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#985D5D",
+    "code": "M3937",
+    "marketingName": "Factory color M3937",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈90; verify chip alignment."
+  },
+  {
+    "oem": "Ford Truck",
+    "modelYear": 1940,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1940-Ford-Truck.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1940-ford-truck/1940-fordtruck-pg05.jpg",
+    "bbox": {
+      "x": 919,
+      "y": 87,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#B49366",
+    "code": "M3945",
+    "marketingName": "Factory color M3945",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈90; verify chip alignment."
+  },
+  {
+    "oem": "Ford Truck",
+    "modelYear": 1940,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1940-Ford-Truck.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1940-ford-truck/1940-fordtruck-pg05.jpg",
+    "bbox": {
+      "x": 163,
+      "y": 224,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#585F5B",
+    "code": "M3946",
+    "marketingName": "Factory color M3946",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈93; verify chip alignment."
+  },
+  {
+    "oem": "Ford Truck",
+    "modelYear": 1940,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1940-Ford-Truck.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1940-ford-truck/1940-fordtruck-pg05.jpg",
+    "bbox": {
+      "x": 541,
+      "y": 225,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#5C6068",
+    "code": "M3947",
+    "marketingName": "Factory color M3947",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈94; verify chip alignment."
+  },
+  {
+    "oem": "Ford Truck",
+    "modelYear": 1940,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1940-Ford-Truck.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1940-ford-truck/1940-fordtruck-pg05.jpg",
+    "bbox": {
+      "x": 919,
+      "y": 227,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#7B6E6A",
+    "code": "M3948",
+    "marketingName": "Factory color M3948",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈93; verify chip alignment."
+  },
+  {
+    "oem": "Ford Truck",
+    "modelYear": 1941,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1941-Ford-Truck.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1941-ford-truck/1941-fordtruck-pg06.jpg",
+    "bbox": {
+      "x": 541,
+      "y": 85,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#985D5D",
+    "code": "M3937",
+    "marketingName": "Factory color M3937",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈90; verify chip alignment."
+  },
+  {
+    "oem": "Ford Truck",
+    "modelYear": 1941,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1941-Ford-Truck.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1941-ford-truck/1941-fordtruck-pg06.jpg",
+    "bbox": {
+      "x": 919,
+      "y": 87,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#B49366",
+    "code": "M3945",
+    "marketingName": "Factory color M3945",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈90; verify chip alignment."
+  },
+  {
+    "oem": "Ford Truck",
+    "modelYear": 1941,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1941-Ford-Truck.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1941-ford-truck/1941-fordtruck-pg06.jpg",
+    "bbox": {
+      "x": 163,
+      "y": 224,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#585F5B",
+    "code": "M3946",
+    "marketingName": "Factory color M3946",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈93; verify chip alignment."
+  },
+  {
+    "oem": "Ford Truck",
+    "modelYear": 1941,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1941-Ford-Truck.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1941-ford-truck/1941-fordtruck-pg06.jpg",
+    "bbox": {
+      "x": 541,
+      "y": 225,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#5C6068",
+    "code": "M3947",
+    "marketingName": "Factory color M3947",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈94; verify chip alignment."
+  },
+  {
+    "oem": "Ford Truck",
+    "modelYear": 1941,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1941-Ford-Truck.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1941-ford-truck/1941-fordtruck-pg06.jpg",
+    "bbox": {
+      "x": 919,
+      "y": 227,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#7B6E6A",
+    "code": "M3948",
+    "marketingName": "Factory color M3948",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈93; verify chip alignment."
+  },
+  {
+    "oem": "Ford Truck",
+    "modelYear": 1946,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1946-Ford-Truck.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1946-ford-truck/1946-fordtruck-pg04.jpg",
+    "bbox": {
+      "x": 541,
+      "y": 85,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#985D5D",
+    "code": "M3937",
+    "marketingName": "Factory color M3937",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈90; verify chip alignment."
+  },
+  {
+    "oem": "Ford Truck",
+    "modelYear": 1946,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1946-Ford-Truck.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1946-ford-truck/1946-fordtruck-pg04.jpg",
+    "bbox": {
+      "x": 919,
+      "y": 87,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#B49366",
+    "code": "M3945",
+    "marketingName": "Factory color M3945",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈90; verify chip alignment."
+  },
+  {
+    "oem": "Ford Truck",
+    "modelYear": 1946,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1946-Ford-Truck.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1946-ford-truck/1946-fordtruck-pg04.jpg",
+    "bbox": {
+      "x": 163,
+      "y": 224,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#585F5B",
+    "code": "M3946",
+    "marketingName": "Factory color M3946",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈93; verify chip alignment."
+  },
+  {
+    "oem": "Ford Truck",
+    "modelYear": 1946,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1946-Ford-Truck.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1946-ford-truck/1946-fordtruck-pg04.jpg",
+    "bbox": {
+      "x": 541,
+      "y": 225,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#5C6068",
+    "code": "M3947",
+    "marketingName": "Factory color M3947",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈94; verify chip alignment."
+  },
+  {
+    "oem": "Ford Truck",
+    "modelYear": 1946,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1946-Ford-Truck.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1946-ford-truck/1946-fordtruck-pg04.jpg",
+    "bbox": {
+      "x": 919,
+      "y": 227,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#7B6E6A",
+    "code": "M3948",
+    "marketingName": "Factory color M3948",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈93; verify chip alignment."
+  },
+  {
+    "oem": "Ford Truck",
+    "modelYear": 1947,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1947-Ford-Truck.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1947-ford-truck/1947-fordtruck-pg02.jpg",
+    "bbox": {
+      "x": 541,
+      "y": 85,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#985D5D",
+    "code": "M3937",
+    "marketingName": "Factory color M3937",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈90; verify chip alignment."
+  },
+  {
+    "oem": "Ford Truck",
+    "modelYear": 1947,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1947-Ford-Truck.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1947-ford-truck/1947-fordtruck-pg02.jpg",
+    "bbox": {
+      "x": 919,
+      "y": 87,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#B49366",
+    "code": "M3945",
+    "marketingName": "Factory color M3945",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈90; verify chip alignment."
+  },
+  {
+    "oem": "Ford Truck",
+    "modelYear": 1947,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1947-Ford-Truck.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1947-ford-truck/1947-fordtruck-pg02.jpg",
+    "bbox": {
+      "x": 163,
+      "y": 224,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#585F5B",
+    "code": "M3946",
+    "marketingName": "Factory color M3946",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈93; verify chip alignment."
+  },
+  {
+    "oem": "Ford Truck",
+    "modelYear": 1947,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1947-Ford-Truck.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1947-ford-truck/1947-fordtruck-pg02.jpg",
+    "bbox": {
+      "x": 541,
+      "y": 225,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#5C6068",
+    "code": "M3947",
+    "marketingName": "Factory color M3947",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈94; verify chip alignment."
+  },
+  {
+    "oem": "Ford Truck",
+    "modelYear": 1947,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1947-Ford-Truck.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1947-ford-truck/1947-fordtruck-pg02.jpg",
+    "bbox": {
+      "x": 919,
+      "y": 227,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#7B6E6A",
+    "code": "M3948",
+    "marketingName": "Factory color M3948",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈93; verify chip alignment."
+  },
+  {
+    "oem": "Ford Truck",
+    "modelYear": 1949,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1949-Ford-Truck.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1949-ford-truck/1949-Fordtruck-pg03.jpg",
+    "bbox": {
+      "x": 541,
+      "y": 85,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#985D5D",
+    "code": "M3937",
+    "marketingName": "Factory color M3937",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈90; verify chip alignment."
+  },
+  {
+    "oem": "Ford Truck",
+    "modelYear": 1949,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1949-Ford-Truck.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1949-ford-truck/1949-Fordtruck-pg03.jpg",
+    "bbox": {
+      "x": 919,
+      "y": 87,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#B49366",
+    "code": "M3945",
+    "marketingName": "Factory color M3945",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈90; verify chip alignment."
+  },
+  {
+    "oem": "Ford Truck",
+    "modelYear": 1949,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1949-Ford-Truck.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1949-ford-truck/1949-Fordtruck-pg03.jpg",
+    "bbox": {
+      "x": 163,
+      "y": 224,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#585F5B",
+    "code": "M3946",
+    "marketingName": "Factory color M3946",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈93; verify chip alignment."
+  },
+  {
+    "oem": "Ford Truck",
+    "modelYear": 1949,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1949-Ford-Truck.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1949-ford-truck/1949-Fordtruck-pg03.jpg",
+    "bbox": {
+      "x": 541,
+      "y": 225,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#5C6068",
+    "code": "M3947",
+    "marketingName": "Factory color M3947",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈94; verify chip alignment."
+  },
+  {
+    "oem": "Ford Truck",
+    "modelYear": 1949,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1949-Ford-Truck.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1949-ford-truck/1949-Fordtruck-pg03.jpg",
+    "bbox": {
+      "x": 919,
+      "y": 227,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#7B6E6A",
+    "code": "M3948",
+    "marketingName": "Factory color M3948",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈93; verify chip alignment."
+  }
+]

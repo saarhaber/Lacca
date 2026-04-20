@@ -1,0 +1,18 @@
+{
+  "$schema": "../../../schemas/oem-scope-v1.schema.json",
+  "scopeId": "lotus-curated-v1",
+  "oem": "Lotus",
+  "region": "Global",
+  "modelYears": {
+    "from": 2017,
+    "to": 2026
+  },
+  "models": [
+    "Emira",
+    "Eletre",
+    "Evija",
+    "Exige"
+  ],
+  "notes": "Lotus exterior colors, curated from configurator references. LAB values are HEX-derived approximations.",
+  "exteriorPaintFile": "./exterior-paints-v1.json"
+}

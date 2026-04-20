@@ -16,7 +16,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2010-Jaguar.html). Image data/sources/autocolorlibrary/pages/2010-jaguar/2010-Jaguar-pg01.jpg; bbox 1610,1472 559×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈88; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2010-Jaguar.html). Image data/sources/autocolorlibrary/pages/2010-jaguar/2010-Jaguar-pg01.jpg; bbox 1610,1472 559\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224888; verify chip alignment.",
         "provenanceId": "acl:jaguar:2010:2028:1610,1472,559x210"
       }
     },
@@ -33,8 +33,25 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2018-Jaguar.html). Image data/sources/autocolorlibrary/pages/2018-jaguar/2018-Jaguar-pg01.jpg; bbox 1293,825 560×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈91; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2018-Jaguar.html). Image data/sources/autocolorlibrary/pages/2018-jaguar/2018-Jaguar-pg01.jpg; bbox 1293,825 560\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224891; verify chip alignment.",
         "provenanceId": "acl:jaguar:2018:2232:1293,825,560x210"
+      }
+    },
+    {
+      "code": "1AL",
+      "marketingName": "British Racing Green",
+      "finish": "metallic",
+      "lab": {
+        "L": 23.77,
+        "a": -27.18,
+        "b": 12.43,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "hex_derived",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Derived from #004225. Alternate codes HGD, 2105. Heritage dark green, near-black in low light.",
+        "provenanceId": "lacca:user-curated:jaguar:British-Racing-Green-1AL"
       }
     }
   ]

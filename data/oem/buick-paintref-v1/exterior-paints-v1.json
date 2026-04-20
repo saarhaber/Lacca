@@ -106,23 +106,6 @@
       }
     },
     {
-      "code": "37",
-      "marketingName": "Midnight Blue",
-      "finish": "solid",
-      "lab": {
-        "L": 13.96,
-        "a": 6.45,
-        "b": -19.65,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #1A223F (PaintRef hex, OEM=Buick, code=37 (models=Allure, LaCrosse; years=2008-2009)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:Buick:allure:37"
-      }
-    },
-    {
       "code": "GAP",
       "marketingName": "Midnight Blue",
       "finish": "solid",
@@ -412,23 +395,6 @@
       }
     },
     {
-      "code": "GAR",
-      "marketingName": "Carbon Black",
-      "finish": "solid",
-      "lab": {
-        "L": 21.25,
-        "a": 0,
-        "b": 0,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #333333 (PaintRef hex, OEM=Buick, code=GAR (models=Enclave, Encore, LaCrosse, Verano; years=2013-2016)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:Buick:enclave:GAR"
-      }
-    },
-    {
       "code": "GB9",
       "marketingName": "Black Roswell",
       "finish": "solid",
@@ -460,23 +426,6 @@
         "recordedAt": "2026-04-18",
         "notes": "Derived from #101010 (PaintRef hex, OEM=Buick, code=GB8 (models=Enclave, Envision, LaCrosse, Regal; years=2016-2026)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Buick:enclave:GB8"
-      }
-    },
-    {
-      "code": "GB9",
-      "marketingName": "Ebony Twilight",
-      "finish": "solid",
-      "lab": {
-        "L": 3.72,
-        "a": 1.61,
-        "b": 1.9,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #120C09 (PaintRef hex, OEM=Buick, code=GB9 (models=Cascada, LaCrosse, Regal; years=2018-2020)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:Buick:cascada:GB9"
       }
     },
     {
@@ -667,40 +616,6 @@
       }
     },
     {
-      "code": "27",
-      "marketingName": "Regal Blue",
-      "finish": "solid",
-      "lab": {
-        "L": 30.46,
-        "a": 2.51,
-        "b": -20.2,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #374867 (PaintRef hex, OEM=Buick, code=27 (models=Regal; year=2000)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:Buick:regal:27"
-      }
-    },
-    {
-      "code": "28",
-      "marketingName": "Midnight Navy Blue",
-      "finish": "solid",
-      "lab": {
-        "L": 6.72,
-        "a": 10.5,
-        "b": -24.91,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #071236 (PaintRef hex, OEM=Buick, code=28 (models=Regal; year=2003)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:Buick:regal:28"
-      }
-    },
-    {
       "code": "68",
       "marketingName": "Blue Ice",
       "finish": "solid",
@@ -732,57 +647,6 @@
         "recordedAt": "2026-04-18",
         "notes": "Derived from #887867 (PaintRef hex, OEM=Buick, code=60 (models=Park Avenue, Regal; years=2000-2001)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Buick:park-avenue:60"
-      }
-    },
-    {
-      "code": "49",
-      "marketingName": "Light Sandrift",
-      "finish": "solid",
-      "lab": {
-        "L": 67.15,
-        "a": 1.83,
-        "b": 5.32,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #ABA29A (PaintRef hex, OEM=Buick, code=49 (models=Century, Regal; years=2000-2003)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:Buick:century:49"
-      }
-    },
-    {
-      "code": "76",
-      "marketingName": "Dark Bronzemist",
-      "finish": "solid",
-      "lab": {
-        "L": 36.43,
-        "a": 2.72,
-        "b": 4.26,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #5D544F (PaintRef hex, OEM=Buick, code=76 (models=Century, LeSabre, Park Avenue, Regal; years=2000-2005)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:Buick:century:76"
-      }
-    },
-    {
-      "code": "60",
-      "marketingName": "Gold",
-      "finish": "solid",
-      "lab": {
-        "L": 51.44,
-        "a": 3.3,
-        "b": 11.61,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #887867 (PaintRef hex, OEM=Buick, code=60 (models=Regal; year=2002)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:Buick:regal:60"
       }
     },
     {
@@ -833,23 +697,6 @@
         "confidence": "derived",
         "recordedAt": "2026-04-18",
         "notes": "Derived from #1C1C30 (PaintRef hex, OEM=Buick, code=32 (models=Century, Regal; years=2001-2002)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:Buick:century:32"
-      }
-    },
-    {
-      "code": "32",
-      "marketingName": "Dark Otter Gray",
-      "finish": "solid",
-      "lab": {
-        "L": 11.21,
-        "a": 6.08,
-        "b": -13.29,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #1C1C30 (PaintRef hex, OEM=Buick, code=32 (models=Century, Regal; years=2003-2004)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Buick:century:32"
       }
     },
@@ -919,57 +766,6 @@
         "recordedAt": "2026-04-18",
         "notes": "Derived from #31443B (PaintRef hex, OEM=Buick, code=47 (models=Century, Rainier, Regal; years=2002-2005)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Buick:century:47"
-      }
-    },
-    {
-      "code": "47",
-      "marketingName": "Medium Green Pearl",
-      "finish": "solid",
-      "lab": {
-        "L": 27.03,
-        "a": -9.77,
-        "b": 3.02,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #31443B (PaintRef hex, OEM=Buick, code=47 (models=Regal; year=2003)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:Buick:regal:47"
-      }
-    },
-    {
-      "code": "51",
-      "marketingName": "Dark Toreador",
-      "finish": "solid",
-      "lab": {
-        "L": 10.93,
-        "a": 14.41,
-        "b": 5.07,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #311517 (PaintRef hex, OEM=Buick, code=51 (models=Century, Regal; years=2000-2002)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:Buick:century:51"
-      }
-    },
-    {
-      "code": "53",
-      "marketingName": "Light Toreador",
-      "finish": "solid",
-      "lab": {
-        "L": 28.9,
-        "a": 41.38,
-        "b": 17.78,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #80202B (PaintRef hex, OEM=Buick, code=53 (models=Regal; year=2000)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:Buick:regal:53"
       }
     },
     {
@@ -1296,23 +1092,6 @@
       }
     },
     {
-      "code": "12",
-      "marketingName": "Dark Brahma Jewel",
-      "finish": "solid",
-      "lab": {
-        "L": 9.74,
-        "a": 13.55,
-        "b": -5.83,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #291423 (PaintRef hex, OEM=Buick, code=12 (models=Enclave, Lucerne; years=2008-2009)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:Buick:enclave:12"
-      }
-    },
-    {
       "code": "94",
       "marketingName": "Platinum Ice",
       "finish": "solid",
@@ -1381,23 +1160,6 @@
       }
     },
     {
-      "code": "GAN",
-      "marketingName": "Switchblade Silver",
-      "finish": "solid",
-      "lab": {
-        "L": 86.73,
-        "a": 3.47,
-        "b": -12.67,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #D4D8F1 (PaintRef hex, OEM=Buick, code=GAN (models=Regal; year=2011)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:Buick:regal:GAN"
-      }
-    },
-    {
       "code": "57",
       "marketingName": "Cyber Gray",
       "finish": "solid",
@@ -1449,23 +1211,6 @@
       }
     },
     {
-      "code": "GXG",
-      "marketingName": "Dark Granite",
-      "finish": "solid",
-      "lab": {
-        "L": 22.06,
-        "a": 4,
-        "b": -2.81,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #393339 (PaintRef hex, OEM=Buick, code=GXG (models=Enclave; year=2016)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:Buick:enclave:GXG"
-      }
-    },
-    {
       "code": "17U",
       "marketingName": "Quicksilver",
       "finish": "solid",
@@ -1480,23 +1225,6 @@
         "recordedAt": "2026-04-18",
         "notes": "Derived from #D4D8F1 (PaintRef hex, OEM=Buick, code=17U (models=Enclave; year=2016)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Buick:enclave:17U"
-      }
-    },
-    {
-      "code": "GWT",
-      "marketingName": "Sparkling Silver",
-      "finish": "solid",
-      "lab": {
-        "L": 83.2,
-        "a": -0.67,
-        "b": 8.68,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #D5CFBF (PaintRef hex, OEM=Buick, code=GWT (models=Enclave, Regal; years=2016-2017)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:Buick:enclave:GWT"
       }
     },
     {
@@ -1755,23 +1483,6 @@
       }
     },
     {
-      "code": "40",
-      "marketingName": "White Opal",
-      "finish": "solid",
-      "lab": {
-        "L": 96.72,
-        "a": -1.71,
-        "b": 8.05,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #F9F6E6 (PaintRef hex, OEM=Buick, code=40 (models=Enclave, Lucerne; years=2010-2015)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:Buick:enclave:40"
-      }
-    },
-    {
       "code": "G1W",
       "marketingName": "White Frost",
       "finish": "solid",
@@ -1819,23 +1530,6 @@
         "confidence": "derived",
         "recordedAt": "2026-04-18",
         "notes": "Derived from #101010 (PaintRef hex, OEM=Buick, code=GB0 (models=Encore; year=2017)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:Buick:encore:GB0"
-      }
-    },
-    {
-      "code": "GB0",
-      "marketingName": "Ebony Twilight",
-      "finish": "solid",
-      "lab": {
-        "L": 4.68,
-        "a": 0,
-        "b": 0,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #101010 (PaintRef hex, OEM=Buick, code=GB0 (models=Encore, Envision, Envista; years=2018-2026)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Buick:encore:GB0"
       }
     },
@@ -1905,23 +1599,6 @@
         "recordedAt": "2026-04-18",
         "notes": "Derived from #1E1C35 (PaintRef hex, OEM=Buick, code=G4C (models=Encore; year=2014)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Buick:encore:G4C"
-      }
-    },
-    {
-      "code": "GQM",
-      "marketingName": "Coastal Blue",
-      "finish": "solid",
-      "lab": {
-        "L": 35.27,
-        "a": 5.79,
-        "b": -42.43,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #095497 (PaintRef hex, OEM=Buick, code=GQM (models=Encore; years=2016-2018)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:Buick:encore:GQM"
       }
     },
     {
@@ -2044,23 +1721,6 @@
       }
     },
     {
-      "code": "GYO",
-      "marketingName": "Rosewood",
-      "finish": "solid",
-      "lab": {
-        "L": 16.48,
-        "a": 6.1,
-        "b": 18.2,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #38250E (PaintRef hex, OEM=Buick, code=GYO (models=Encore; years=2016-2017)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:Buick:encore:GYO"
-      }
-    },
-    {
       "code": "G8R",
       "marketingName": "Coppertino",
       "finish": "solid",
@@ -2129,23 +1789,6 @@
       }
     },
     {
-      "code": "G98",
-      "marketingName": "Copper Ice",
-      "finish": "solid",
-      "lab": {
-        "L": 67.47,
-        "a": 19.04,
-        "b": 38.2,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #D89660 (PaintRef hex, OEM=Buick, code=G98 (models=Encore, Envista; years=2025-2026)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:Buick:encore:G98"
-      }
-    },
-    {
       "code": "G42",
       "marketingName": "Ceramic",
       "finish": "solid",
@@ -2194,23 +1837,6 @@
         "recordedAt": "2026-04-18",
         "notes": "Derived from #565658 (PaintRef hex, OEM=Buick, code=GK2 (models=Encore, Verano; years=2016-2018)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Buick:encore:GK2"
-      }
-    },
-    {
-      "code": "GYM",
-      "marketingName": "Satin Steel",
-      "finish": "solid",
-      "lab": {
-        "L": 47.56,
-        "a": -1.14,
-        "b": -8.54,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #67727F (PaintRef hex, OEM=Buick, code=GYM (models=Encore; years=2020-2022)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:Buick:encore:GYM"
       }
     },
     {
@@ -2278,23 +1904,6 @@
         "confidence": "derived",
         "recordedAt": "2026-04-18",
         "notes": "Derived from #79232E (PaintRef hex, OEM=Buick, code=GCS (models=Encore; years=2013-2015)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:Buick:encore:GCS"
-      }
-    },
-    {
-      "code": "GCS",
-      "marketingName": "Winterberry Red",
-      "finish": "solid",
-      "lab": {
-        "L": 28.02,
-        "a": 37.98,
-        "b": 14.4,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #79232E (PaintRef hex, OEM=Buick, code=GCS (models=Encore; years=2016-2020)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Buick:encore:GCS"
       }
     },
@@ -2397,23 +2006,6 @@
         "confidence": "derived",
         "recordedAt": "2026-04-18",
         "notes": "Derived from #EBE3E1 (PaintRef hex, OEM=Buick, code=GYN (models=Encore; years=2013-2014)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:Buick:encore:GYN"
-      }
-    },
-    {
-      "code": "GYN",
-      "marketingName": "White Pearl",
-      "finish": "solid",
-      "lab": {
-        "L": 90.8,
-        "a": 2.36,
-        "b": 1.94,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #EBE3E1 (PaintRef hex, OEM=Buick, code=GYN (models=Encore; years=2015-2017)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Buick:encore:GYN"
       }
     },
@@ -2741,23 +2333,6 @@
       }
     },
     {
-      "code": "GBA",
-      "marketingName": "Black Onyx",
-      "finish": "solid",
-      "lab": {
-        "L": 0,
-        "a": 0,
-        "b": 0,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #000000 (PaintRef hex, OEM=Buick, code=GBA (models=LaCrosse, Lucerne, Regal; years=2011-2019)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:Buick:lacrosse:GBA"
-      }
-    },
-    {
       "code": "22",
       "marketingName": "Superior Blue",
       "finish": "solid",
@@ -2775,23 +2350,6 @@
       }
     },
     {
-      "code": "GAP",
-      "marketingName": "Imperial Blue",
-      "finish": "solid",
-      "lab": {
-        "L": 13.96,
-        "a": 6.45,
-        "b": -19.65,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #1A223F (PaintRef hex, OEM=Buick, code=GAP (models=LaCrosse; year=2011)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:Buick:lacrosse:GAP"
-      }
-    },
-    {
       "code": "G6I",
       "marketingName": "Carrageen",
       "finish": "solid",
@@ -2806,23 +2364,6 @@
         "recordedAt": "2026-04-18",
         "notes": "Derived from #146069 (PaintRef hex, OEM=Buick, code=G6I (models=LaCrosse; year=2019)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Buick:lacrosse:G6I"
-      }
-    },
-    {
-      "code": "GGW",
-      "marketingName": "Storm Gray",
-      "finish": "solid",
-      "lab": {
-        "L": 19.34,
-        "a": 2.04,
-        "b": -1.44,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #312E31 (PaintRef hex, OEM=Buick, code=GGW (models=LaCrosse; year=2013)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:Buick:lacrosse:GGW"
       }
     },
     {
@@ -2996,23 +2537,6 @@
       }
     },
     {
-      "code": "G7T",
-      "marketingName": "Deep Garnet",
-      "finish": "solid",
-      "lab": {
-        "L": 22.24,
-        "a": 37.23,
-        "b": 19.11,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #69141B (PaintRef hex, OEM=Buick, code=G7T (models=LaCrosse; years=2015-2016)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:Buick:lacrosse:G7T"
-      }
-    },
-    {
       "code": "G1E",
       "marketingName": "Crimson Red",
       "finish": "solid",
@@ -3047,23 +2571,6 @@
       }
     },
     {
-      "code": "GAZ",
-      "marketingName": "Olympic White",
-      "finish": "solid",
-      "lab": {
-        "L": 95.42,
-        "a": -0.71,
-        "b": 3.01,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #F3F2EC (PaintRef hex, OEM=Buick, code=GAZ (models=Regal; year=2011)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:Buick:regal:GAZ"
-      }
-    },
-    {
       "code": "50",
       "marketingName": "Olympic White",
       "finish": "solid",
@@ -3078,23 +2585,6 @@
         "recordedAt": "2026-04-18",
         "notes": "Derived from #F3F2EC (PaintRef hex, OEM=Buick, code=50 (models=Rainier, Rendezvous, Verano; years=2003-2012)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Buick:rainier:50"
-      }
-    },
-    {
-      "code": "50",
-      "marketingName": "Summit White",
-      "finish": "solid",
-      "lab": {
-        "L": 95.42,
-        "a": -0.71,
-        "b": 3.01,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #F3F2EC (PaintRef hex, OEM=Buick, code=50 (models=Verano; year=2013)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:Buick:verano:50"
       }
     },
     {
@@ -3217,23 +2707,6 @@
       }
     },
     {
-      "code": "91",
-      "marketingName": "Dark Polo Green",
-      "finish": "solid",
-      "lab": {
-        "L": 27.03,
-        "a": -9.77,
-        "b": 3.02,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #31443B (PaintRef hex, OEM=Buick, code=91 (models=LeSabre; year=2002)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:Buick:lesabre:91"
-      }
-    },
-    {
       "code": "48",
       "marketingName": "Dark Meander Green",
       "finish": "solid",
@@ -3285,23 +2758,6 @@
       }
     },
     {
-      "code": "87",
-      "marketingName": "Berry Red",
-      "finish": "solid",
-      "lab": {
-        "L": 13.94,
-        "a": 24.72,
-        "b": 4.61,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #43121E (PaintRef hex, OEM=Buick, code=87 (models=LeSabre, Park Avenue; years=2003-2005)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:Buick:lesabre:87"
-      }
-    },
-    {
       "code": "86",
       "marketingName": "Red",
       "finish": "solid",
@@ -3332,23 +2788,6 @@
         "confidence": "derived",
         "recordedAt": "2026-04-18",
         "notes": "Derived from #F9F3D1 (PaintRef hex, OEM=Buick, code=93 (models=LeSabre, Lucerne; years=2004-2007)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:Buick:lesabre:93"
-      }
-    },
-    {
-      "code": "93",
-      "marketingName": "White Gold",
-      "finish": "solid",
-      "lab": {
-        "L": 95.52,
-        "a": -3.48,
-        "b": 17.14,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #F9F3D1 (PaintRef hex, OEM=Buick, code=93 (models=LeSabre; year=2005)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Buick:lesabre:93"
       }
     },
@@ -3387,23 +2826,6 @@
       }
     },
     {
-      "code": "GIM",
-      "marketingName": "Sand Beige",
-      "finish": "solid",
-      "lab": {
-        "L": 81.78,
-        "a": -2.69,
-        "b": 12.47,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #D0CCB4 (PaintRef hex, OEM=Buick, code=GIM (models=Lucerne; year=2011)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:Buick:lucerne:GIM"
-      }
-    },
-    {
       "code": "99",
       "marketingName": "Gunmetal",
       "finish": "solid",
@@ -3421,23 +2843,6 @@
       }
     },
     {
-      "code": "14",
-      "marketingName": "Cosmic Quartz",
-      "finish": "solid",
-      "lab": {
-        "L": 51.17,
-        "a": 3.02,
-        "b": -10.68,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #76798C (PaintRef hex, OEM=Buick, code=14 (models=Lucerne, Terraza; years=2007-2009)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:Buick:lucerne:14"
-      }
-    },
-    {
       "code": "GIP",
       "marketingName": "Dark Brahma Jewel",
       "finish": "solid",
@@ -3452,40 +2857,6 @@
         "recordedAt": "2026-04-18",
         "notes": "Derived from #291423 (PaintRef hex, OEM=Buick, code=GIP (models=Lucerne; year=2010)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Buick:lucerne:GIP"
-      }
-    },
-    {
-      "code": "91",
-      "marketingName": "Pearl Frost",
-      "finish": "solid",
-      "lab": {
-        "L": 97.11,
-        "a": 1,
-        "b": 0.35,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #F9F6F6 (PaintRef hex, OEM=Buick, code=91 (models=Lucerne; year=2010)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:Buick:lucerne:91"
-      }
-    },
-    {
-      "code": "37",
-      "marketingName": "Dark Tropic Teal",
-      "finish": "solid",
-      "lab": {
-        "L": 16.25,
-        "a": 7.43,
-        "b": -26.36,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #14274E (PaintRef hex, OEM=Buick, code=37 (models=Park Avenue; year=2002)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:Buick:park-avenue:37"
       }
     },
     {
@@ -3523,40 +2894,6 @@
       }
     },
     {
-      "code": "78",
-      "marketingName": "White Diamond",
-      "finish": "solid",
-      "lab": {
-        "L": 94.45,
-        "a": 0,
-        "b": 0,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #EFEFEF (PaintRef hex, OEM=Buick, code=78 (models=Park Avenue; year=2000)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:Buick:park-avenue:78"
-      }
-    },
-    {
-      "code": "93",
-      "marketingName": "White Diamond",
-      "finish": "solid",
-      "lab": {
-        "L": 89.55,
-        "a": -0.86,
-        "b": 7.94,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #E6E1D2 (PaintRef hex, OEM=Buick, code=93 (models=Park Avenue; year=2001)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:Buick:park-avenue:93"
-      }
-    },
-    {
       "code": "39",
       "marketingName": "Indigo Blue",
       "finish": "solid",
@@ -3574,125 +2911,6 @@
       }
     },
     {
-      "code": "62",
-      "marketingName": "Dark Spiral Gray",
-      "finish": "solid",
-      "lab": {
-        "L": 10.34,
-        "a": -0.74,
-        "b": -8.86,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #131D28 (PaintRef hex, OEM=Buick, code=62 (models=Rainier; years=2004-2006)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:Buick:rainier:62"
-      }
-    },
-    {
-      "code": "16",
-      "marketingName": "Graystone",
-      "finish": "solid",
-      "lab": {
-        "L": 61.81,
-        "a": 0.16,
-        "b": 3.02,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #989590 (PaintRef hex, OEM=Buick, code=16 (models=Rainier; years=2004-2007)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:Buick:rainier:16"
-      }
-    },
-    {
-      "code": "54",
-      "marketingName": "Graphite",
-      "finish": "solid",
-      "lab": {
-        "L": 30.26,
-        "a": -1.91,
-        "b": 2.71,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #464843 (PaintRef hex, OEM=Buick, code=54 (models=Rainier; year=2007)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:Buick:rainier:54"
-      }
-    },
-    {
-      "code": "32",
-      "marketingName": "Moondust",
-      "finish": "solid",
-      "lab": {
-        "L": 89.56,
-        "a": -2.1,
-        "b": 4.76,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #E1E2D8 (PaintRef hex, OEM=Buick, code=32 (models=Rainier; year=2007)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:Buick:rainier:32"
-      }
-    },
-    {
-      "code": "38",
-      "marketingName": "Emerald Jewel",
-      "finish": "solid",
-      "lab": {
-        "L": 30.72,
-        "a": -21.36,
-        "b": 2.41,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #1B5144 (PaintRef hex, OEM=Buick, code=38 (models=Rainier, Terraza; years=2004-2006)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:Buick:rainier:38"
-      }
-    },
-    {
-      "code": "92",
-      "marketingName": "Silver Green",
-      "finish": "solid",
-      "lab": {
-        "L": 58.62,
-        "a": -9.36,
-        "b": 15.28,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #879172 (PaintRef hex, OEM=Buick, code=92 (models=Rainier; year=2004)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:Buick:rainier:92"
-      }
-    },
-    {
-      "code": "44",
-      "marketingName": "Medium Red Mica",
-      "finish": "solid",
-      "lab": {
-        "L": 37.02,
-        "a": 56.25,
-        "b": 39.04,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #AC191B (PaintRef hex, OEM=Buick, code=44 (models=Rainier; year=2005)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:Buick:rainier:44"
-      }
-    },
-    {
       "code": "GLK",
       "marketingName": "Black Diamond",
       "finish": "solid",
@@ -3707,23 +2925,6 @@
         "recordedAt": "2026-04-18",
         "notes": "Derived from #000000 (PaintRef hex, OEM=Buick, code=GLK (models=Regal; years=2013-2015)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Buick:regal:GLK"
-      }
-    },
-    {
-      "code": "GBA",
-      "marketingName": "Black",
-      "finish": "solid",
-      "lab": {
-        "L": 0,
-        "a": 0,
-        "b": 0,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #000000 (PaintRef hex, OEM=Buick, code=GBA (models=Regal; year=2014)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:Buick:regal:GBA"
       }
     },
     {
@@ -3812,23 +3013,6 @@
       }
     },
     {
-      "code": "GLJ",
-      "marketingName": "Ashen Gray",
-      "finish": "solid",
-      "lab": {
-        "L": 28.41,
-        "a": 0,
-        "b": 0,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #434343 (PaintRef hex, OEM=Buick, code=GLJ (models=Regal; year=2012)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:Buick:regal:GLJ"
-      }
-    },
-    {
       "code": "GOP",
       "marketingName": "Dark Mahogany Mica",
       "finish": "solid",
@@ -3880,40 +3064,6 @@
       }
     },
     {
-      "code": "G7P",
-      "marketingName": "Copper Red",
-      "finish": "solid",
-      "lab": {
-        "L": 38.86,
-        "a": 49.3,
-        "b": 41.08,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #AA2E1A (PaintRef hex, OEM=Buick, code=G7P (models=Regal; year=2015)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:Buick:regal:G7P"
-      }
-    },
-    {
-      "code": "39",
-      "marketingName": "Indigo",
-      "finish": "solid",
-      "lab": {
-        "L": 10.27,
-        "a": 14.82,
-        "b": -34.04,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #00184B (PaintRef hex, OEM=Buick, code=39 (models=Rendezvous; year=2002)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:Buick:rendezvous:39"
-      }
-    },
-    {
       "code": "58",
       "marketingName": "Dark Steel Blue",
       "finish": "solid",
@@ -3945,40 +3095,6 @@
         "recordedAt": "2026-04-18",
         "notes": "Derived from #65747B (PaintRef hex, OEM=Buick, code=20 (models=Rendezvous; years=2005-2006)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Buick:rendezvous:20"
-      }
-    },
-    {
-      "code": "33",
-      "marketingName": "Light Driftwood",
-      "finish": "solid",
-      "lab": {
-        "L": 69.6,
-        "a": 3.43,
-        "b": 15.08,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #BBA78F (PaintRef hex, OEM=Buick, code=33 (models=Rendezvous; years=2002-2004)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:Buick:rendezvous:33"
-      }
-    },
-    {
-      "code": "67",
-      "marketingName": "Sedona Bronze",
-      "finish": "solid",
-      "lab": {
-        "L": 20.04,
-        "a": 12.8,
-        "b": 6.78,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #452927 (PaintRef hex, OEM=Buick, code=67 (models=Rendezvous; year=2002)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:Buick:rendezvous:67"
       }
     },
     {
@@ -4063,23 +3179,6 @@
         "confidence": "derived",
         "recordedAt": "2026-04-18",
         "notes": "Derived from #C9CBC3 (PaintRef hex, OEM=Buick, code=97 (models=Rendezvous; year=2003)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:Buick:rendezvous:97"
-      }
-    },
-    {
-      "code": "97",
-      "marketingName": "Cappuccino Frost",
-      "finish": "solid",
-      "lab": {
-        "L": 81.33,
-        "a": -2.13,
-        "b": 3.74,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #C9CBC3 (PaintRef hex, OEM=Buick, code=97 (models=Rendezvous; years=2004-2007)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Buick:rendezvous:97"
       }
     },

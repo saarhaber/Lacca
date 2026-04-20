@@ -16,7 +16,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/1986-Renault.html). Image data/sources/autocolorlibrary/pages/1986-renault/1986-Renault-pg03.jpg; bbox 146,209 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈51; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/1986-Renault.html). Image data/sources/autocolorlibrary/pages/1986-renault/1986-Renault-pg03.jpg; bbox 146,209 150\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224851; verify chip alignment.",
         "provenanceId": "acl:renault:1986:9000:146,209,150x210"
       }
     },
@@ -33,8 +33,25 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/1976-Renault.html). Image data/sources/autocolorlibrary/pages/1976-renault/1976-renault-pg03.jpg; bbox 146,209 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈43; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/1976-Renault.html). Image data/sources/autocolorlibrary/pages/1976-renault/1976-renault-pg03.jpg; bbox 146,209 150\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224843; verify chip alignment.",
         "provenanceId": "acl:renault:1976:910:146,209,150x210"
+      }
+    },
+    {
+      "code": "J37",
+      "marketingName": "Jaune Sirius",
+      "finish": "pearl",
+      "lab": {
+        "L": 83.99,
+        "a": 1.23,
+        "b": 82.65,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "hex_derived",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Derived from #FACD15. Tri-coat pearl yellow with amber shift in shadows.",
+        "provenanceId": "lacca:user-curated:renault:Jaune-Sirius-J37"
       }
     }
   ]

@@ -1,0 +1,87 @@
+{
+  "$schema": "../../../schemas/exterior-paints-v1.schema.json",
+  "scopeId": "lotus-curated-v1",
+  "version": "1.0.0",
+  "paints": [
+    {
+      "code": "B123",
+      "marketingName": "Hethel Yellow",
+      "finish": "solid",
+      "lab": {
+        "L": 85.19,
+        "a": 1.63,
+        "b": 85.91,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "hex_derived",
+        "confidence": "derived",
+        "recordedAt": "2026-04-20",
+        "notes": "Derived from #FFD000 (hex_derived). Replace with spectro LAB before production claims."
+      }
+    },
+    {
+      "code": "B132",
+      "marketingName": "Motorsport Black",
+      "finish": "metallic",
+      "lab": {
+        "L": 2.74,
+        "a": 0,
+        "b": 0,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "hex_derived",
+        "confidence": "derived",
+        "recordedAt": "2026-04-20",
+        "notes": "Derived from #0A0A0A (hex_derived). Replace with spectro LAB before production claims."
+      }
+    },
+    {
+      "code": "B136",
+      "marketingName": "Seneca Blue",
+      "finish": "metallic",
+      "lab": {
+        "L": 24.09,
+        "a": 2.74,
+        "b": -25.15,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "hex_derived",
+        "confidence": "derived",
+        "recordedAt": "2026-04-20",
+        "notes": "Derived from #1E3A5F (hex_derived). Replace with spectro LAB before production claims."
+      }
+    },
+    {
+      "code": "B139",
+      "marketingName": "Shadow Grey",
+      "finish": "metallic",
+      "lab": {
+        "L": 34.72,
+        "a": -0.23,
+        "b": -4.05,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "hex_derived",
+        "confidence": "derived",
+        "recordedAt": "2026-04-20",
+        "notes": "Derived from #4E5258 (hex_derived). Replace with spectro LAB before production claims."
+      }
+    },
+    {
+      "code": "B140",
+      "marketingName": "Magma Red",
+      "finish": "metallic",
+      "lab": {
+        "L": 30.17,
+        "a": 46.17,
+        "b": 30.57,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "hex_derived",
+        "confidence": "derived",
+        "recordedAt": "2026-04-20",
+        "notes": "Derived from #8B1A1A (hex_derived). Replace with spectro LAB before production claims."
+      }
+    }
+  ]
+}

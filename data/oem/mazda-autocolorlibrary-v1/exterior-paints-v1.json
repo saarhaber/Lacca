@@ -16,7 +16,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/1995-Mazda.html). Image data/sources/autocolorlibrary/pages/1995-mazda/1995-Mazda-pg01.jpg; bbox 181,239 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈85; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/1995-Mazda.html). Image data/sources/autocolorlibrary/pages/1995-mazda/1995-Mazda-pg01.jpg; bbox 181,239 150\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224885; verify chip alignment.",
         "provenanceId": "acl:mazda:1995:4388:181,239,150x210"
       }
     },
@@ -33,7 +33,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/1998-Mazda.html). Image data/sources/autocolorlibrary/pages/1998-mazda/1998-Mazda-pg01.jpg; bbox 312,152 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈64; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/1998-Mazda.html). Image data/sources/autocolorlibrary/pages/1998-mazda/1998-Mazda-pg01.jpg; bbox 312,152 150\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224864; verify chip alignment.",
         "provenanceId": "acl:mazda:1998:4938:312,152,150x210"
       }
     },
@@ -50,7 +50,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/1996-Mazda.html). Image data/sources/autocolorlibrary/pages/1996-mazda/1996-Mazda-pg01.jpg; bbox 442,397 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈80; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/1996-Mazda.html). Image data/sources/autocolorlibrary/pages/1996-mazda/1996-Mazda-pg01.jpg; bbox 442,397 150\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224880; verify chip alignment.",
         "provenanceId": "acl:mazda:1996:4998:442,397,150x210"
       }
     },
@@ -67,8 +67,25 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2003-Mazda.html). Image data/sources/autocolorlibrary/pages/2003-mazda/2003-Mazda-pg01.jpg; bbox 473,434 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈91; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2003-Mazda.html). Image data/sources/autocolorlibrary/pages/2003-mazda/2003-Mazda-pg01.jpg; bbox 473,434 150\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224891; verify chip alignment.",
         "provenanceId": "acl:mazda:2003:5955:473,434,150x210"
+      }
+    },
+    {
+      "code": "46V",
+      "marketingName": "Soul Red Crystal",
+      "finish": "pearl",
+      "lab": {
+        "L": 30.02,
+        "a": 53.37,
+        "b": 36.68,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "hex_derived",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Derived from #930010. Alternate code 41V. Tri-coat with light-absorbing flake layer; high contrast highlights.",
+        "provenanceId": "lacca:user-curated:mazda:Soul-Red-Crystal-46V"
       }
     }
   ]

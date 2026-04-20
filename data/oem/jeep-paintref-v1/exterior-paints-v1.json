@@ -1,0 +1,1758 @@
+{
+  "$schema": "../../../schemas/exterior-paints-v1.schema.json",
+  "scopeId": "jeep-paintref-v1",
+  "version": "1.0.0",
+  "paints": [
+    {
+      "code": "PXR",
+      "marketingName": "Brilliant Black",
+      "finish": "solid",
+      "lab": {
+        "L": 0,
+        "a": 0,
+        "b": 0,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #000000 (PaintRef hex, OEM=Jeep, code=PXR (models=Cherokee, Commander, Compass, Grand Cherokee, Liberty, Patriot; years=2010-2016)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Jeep:cherokee:PXR"
+      }
+    },
+    {
+      "code": "XR",
+      "marketingName": "Brilliant Black",
+      "finish": "solid",
+      "lab": {
+        "L": 0,
+        "a": 0,
+        "b": 0,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #000000 (PaintRef hex, OEM=Jeep, code=XR (models=Grand Cherokee, Liberty; years=2012-2014)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Jeep:grand-cherokee:XR"
+      }
+    },
+    {
+      "code": "PXJ",
+      "marketingName": "Diamond Black",
+      "finish": "solid",
+      "lab": {
+        "L": 0,
+        "a": 0,
+        "b": 0,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #000000 (PaintRef hex, OEM=Jeep, code=PXJ (models=Compass, Grand Cherokee, Grand Wagoneer; years=2017-2025)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Jeep:compass:PXJ"
+      }
+    },
+    {
+      "code": "PBS",
+      "marketingName": "Deep Water Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 25.6,
+        "a": 2.36,
+        "b": -29.24,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #143E69 (PaintRef hex, OEM=Jeep, code=PBS (models=Compass, Liberty, Patriot; years=2010-2011)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Jeep:compass:PBS"
+      }
+    },
+    {
+      "code": "BU",
+      "marketingName": "True Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 18.15,
+        "a": 13.84,
+        "b": -23.91,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #2C274F (PaintRef hex, OEM=Jeep, code=BU (models=Cherokee, Compass, Grand Cherokee, Liberty, Patriot; years=2012-2015)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Jeep:cherokee:BU"
+      }
+    },
+    {
+      "code": "BJ",
+      "marketingName": "Hydro Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 39.66,
+        "a": 16.64,
+        "b": -54.96,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #1E5AB8 (PaintRef hex, OEM=Jeep, code=BJ (models=Cherokee; year=2015)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Jeep:cherokee:BJ"
+      }
+    },
+    {
+      "code": "PBU",
+      "marketingName": "True Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 18.15,
+        "a": 13.84,
+        "b": -23.91,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #2C274F (PaintRef hex, OEM=Jeep, code=PBU (models=Compass, Grand Cherokee, Patriot; years=2016-2018)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Jeep:compass:PBU"
+      }
+    },
+    {
+      "code": "PBJ",
+      "marketingName": "Hydro Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 39.66,
+        "a": 16.64,
+        "b": -54.96,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #1E5AB8 (PaintRef hex, OEM=Jeep, code=PBJ (models=Cherokee, Compass, Gladiator, Grand Cherokee; years=2017-2025)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Jeep:cherokee:PBJ"
+      }
+    },
+    {
+      "code": "PPX",
+      "marketingName": "Patriot Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 29.59,
+        "a": -1.37,
+        "b": -31.18,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #004976 (PaintRef hex, OEM=Jeep, code=PPX (models=Cherokee; years=2017-2018)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Jeep:cherokee:PPX"
+      }
+    },
+    {
+      "code": "PBF",
+      "marketingName": "Reactor Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 50.18,
+        "a": -4.21,
+        "b": -18.82,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #5A7B97 (PaintRef hex, OEM=Jeep, code=PBF (models=Grand Cherokee; year=2019)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Jeep:grand-cherokee:PBF"
+      }
+    },
+    {
+      "code": "zjeepearl",
+      "marketingName": "Earl",
+      "finish": "solid",
+      "lab": {
+        "L": 68.42,
+        "a": -8.18,
+        "b": -9.75,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #8CACB8 (PaintRef hex, OEM=Jeep, code=zjeepearl (models=Gladiator; year=2022)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Jeep:gladiator:zjeepearl"
+      }
+    },
+    {
+      "code": "PKG",
+      "marketingName": "Light Sandstone",
+      "finish": "solid",
+      "lab": {
+        "L": 78.15,
+        "a": -1.07,
+        "b": 12.59,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #C9C1AA (PaintRef hex, OEM=Jeep, code=PKG (models=Compass, Patriot; years=2010-2011)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Jeep:compass:PKG"
+      }
+    },
+    {
+      "code": "FS",
+      "marketingName": "Cashmere",
+      "finish": "solid",
+      "lab": {
+        "L": 81.57,
+        "a": 3.06,
+        "b": 12.28,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #DAC8B4 (PaintRef hex, OEM=Jeep, code=FS (models=Cherokee, Grand Cherokee; years=2014-2015)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Jeep:cherokee:FS"
+      }
+    },
+    {
+      "code": "PT6",
+      "marketingName": "Light Brownstone",
+      "finish": "solid",
+      "lab": {
+        "L": 50.81,
+        "a": 1.52,
+        "b": 1.77,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #7D7876 (PaintRef hex, OEM=Jeep, code=PT6 (models=Cherokee, Grand Cherokee; years=2016-2020)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Jeep:cherokee:PT6"
+      }
+    },
+    {
+      "code": "PGR",
+      "marketingName": "Recon Green",
+      "finish": "solid",
+      "lab": {
+        "L": 23.61,
+        "a": -0.16,
+        "b": 4.85,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #3B3831 (PaintRef hex, OEM=Jeep, code=PGR (models=Grand Cherokee, Patriot; years=2016-2017)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Jeep:grand-cherokee:PGR"
+      }
+    },
+    {
+      "code": "DS",
+      "marketingName": "Anvil",
+      "finish": "solid",
+      "lab": {
+        "L": 50.69,
+        "a": -0.97,
+        "b": -11.49,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #6C7A8C (PaintRef hex, OEM=Jeep, code=DS (models=Cherokee; years=2014-2015)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Jeep:cherokee:DS"
+      }
+    },
+    {
+      "code": "SC",
+      "marketingName": "Billet Silver",
+      "finish": "solid",
+      "lab": {
+        "L": 75.65,
+        "a": 0.94,
+        "b": -2.52,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #BABABF (PaintRef hex, OEM=Jeep, code=SC (models=Cherokee, Compass, Grand Cherokee; years=2014-2015)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Jeep:cherokee:SC"
+      }
+    },
+    {
+      "code": "AU",
+      "marketingName": "Granite Crystal",
+      "finish": "solid",
+      "lab": {
+        "L": 40.73,
+        "a": 0,
+        "b": 0,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #606060 (PaintRef hex, OEM=Jeep, code=AU (models=Cherokee, Compass, Grand Cherokee; years=2014-2015)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Jeep:cherokee:AU"
+      }
+    },
+    {
+      "code": "PSC",
+      "marketingName": "Billet Silver",
+      "finish": "solid",
+      "lab": {
+        "L": 75.65,
+        "a": 0.94,
+        "b": -2.52,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #BABABF (PaintRef hex, OEM=Jeep, code=PSC (models=Cherokee, Compass, Gladiator, Grand Cherokee; years=2016-2023)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Jeep:cherokee:PSC"
+      }
+    },
+    {
+      "code": "PAU",
+      "marketingName": "Granite Crystal",
+      "finish": "solid",
+      "lab": {
+        "L": 40.73,
+        "a": 0,
+        "b": 0,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #606060 (PaintRef hex, OEM=Jeep, code=PAU (models=Cherokee, Compass, Gladiator, Grand Cherokee; years=2016-2025)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Jeep:cherokee:PAU"
+      }
+    },
+    {
+      "code": "PSQ",
+      "marketingName": "Rhino",
+      "finish": "solid",
+      "lab": {
+        "L": 25.27,
+        "a": 3.43,
+        "b": -11.37,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #383B4D (PaintRef hex, OEM=Jeep, code=PSQ (models=Cherokee, Compass, Grand Cherokee; years=2016-2018)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Jeep:cherokee:PSQ"
+      }
+    },
+    {
+      "code": "PDN",
+      "marketingName": "Sting Grey",
+      "finish": "solid",
+      "lab": {
+        "L": 46.04,
+        "a": -0.41,
+        "b": 3.62,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #6F6D67 (PaintRef hex, OEM=Jeep, code=PDN (models=Grand Cherokee; year=2020)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Jeep:grand-cherokee:PDN"
+      }
+    },
+    {
+      "code": "PGN",
+      "marketingName": "Natural Green",
+      "finish": "solid",
+      "lab": {
+        "L": 23.87,
+        "a": -9.62,
+        "b": 24.42,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #363C12 (PaintRef hex, OEM=Jeep, code=PGN (models=Compass, Liberty; years=2010-2011)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Jeep:compass:PGN"
+      }
+    },
+    {
+      "code": "GX",
+      "marketingName": "Eco Green",
+      "finish": "solid",
+      "lab": {
+        "L": 29.71,
+        "a": -6.58,
+        "b": 23.75,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #484820 (PaintRef hex, OEM=Jeep, code=GX (models=Cherokee, Compass; years=2014-2015)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Jeep:cherokee:GX"
+      }
+    },
+    {
+      "code": "PGX",
+      "marketingName": "Eco Green",
+      "finish": "solid",
+      "lab": {
+        "L": 29.71,
+        "a": -6.58,
+        "b": 23.75,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #484820 (PaintRef hex, OEM=Jeep, code=PGX (models=Compass; year=2016)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Jeep:compass:PGX"
+      }
+    },
+    {
+      "code": "PFP",
+      "marketingName": "Olive Green",
+      "finish": "solid",
+      "lab": {
+        "L": 47.58,
+        "a": -7.76,
+        "b": 14.07,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #6D7459 (PaintRef hex, OEM=Jeep, code=PFP (models=Cherokee, Compass; years=2018-2021)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Jeep:cherokee:PFP"
+      }
+    },
+    {
+      "code": "VG",
+      "marketingName": "Mango Tango",
+      "finish": "solid",
+      "lab": {
+        "L": 47.45,
+        "a": 40.68,
+        "b": 41.29,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #BA502C (PaintRef hex, OEM=Jeep, code=VG (models=Cherokee, Compass; years=2012-2015)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Jeep:cherokee:VG"
+      }
+    },
+    {
+      "code": "PVG",
+      "marketingName": "Mango Tango",
+      "finish": "solid",
+      "lab": {
+        "L": 47.45,
+        "a": 40.68,
+        "b": 41.29,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #BA502C (PaintRef hex, OEM=Jeep, code=PVG (models=Cherokee; year=2016)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Jeep:cherokee:PVG"
+      }
+    },
+    {
+      "code": "PF2",
+      "marketingName": "Spitfire Orange",
+      "finish": "solid",
+      "lab": {
+        "L": 53.95,
+        "a": 61.42,
+        "b": 47.94,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #E94631 (PaintRef hex, OEM=Jeep, code=PF2 (models=Cherokee, Compass; years=2018-2021)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Jeep:cherokee:PF2"
+      }
+    },
+    {
+      "code": "zjeepsunburst",
+      "marketingName": "Sunburst",
+      "finish": "solid",
+      "lab": {
+        "L": 47.04,
+        "a": 44.29,
+        "b": 39.96,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #BD4B2E (PaintRef hex, OEM=Jeep, code=zjeepsunburst (models=Cherokee; year=2022)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Jeep:cherokee:zjeepsunburst"
+      }
+    },
+    {
+      "code": "PHR",
+      "marketingName": "Sangria",
+      "finish": "solid",
+      "lab": {
+        "L": 11.66,
+        "a": 16.64,
+        "b": 1.7,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #34151D (PaintRef hex, OEM=Jeep, code=PHR (models=Cherokee, Grand Cherokee; years=2020-2022)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Jeep:cherokee:PHR"
+      }
+    },
+    {
+      "code": "PEL",
+      "marketingName": "Inferno Red",
+      "finish": "solid",
+      "lab": {
+        "L": 38.69,
+        "a": 57.94,
+        "b": 37.85,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #B31B21 (PaintRef hex, OEM=Jeep, code=PEL (models=Compass; year=2011)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Jeep:compass:PEL"
+      }
+    },
+    {
+      "code": "RP",
+      "marketingName": "Deep Cherry Red Crystal",
+      "finish": "solid",
+      "lab": {
+        "L": 31.37,
+        "a": 44.72,
+        "b": 23.97,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #8C2127 (PaintRef hex, OEM=Jeep, code=RP (models=Cherokee, Compass, Grand Cherokee; years=2013-2015)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Jeep:cherokee:RP"
+      }
+    },
+    {
+      "code": "PRP",
+      "marketingName": "Deep Cherry",
+      "finish": "solid",
+      "lab": {
+        "L": 31.37,
+        "a": 44.72,
+        "b": 23.97,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #8C2127 (PaintRef hex, OEM=Jeep, code=PRP (models=Compass; year=2016)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Jeep:compass:PRP"
+      }
+    },
+    {
+      "code": "PRC",
+      "marketingName": "Firecracker Red",
+      "finish": "solid",
+      "lab": {
+        "L": 47.02,
+        "a": 72.93,
+        "b": 58.51,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #E10009 (PaintRef hex, OEM=Jeep, code=PRC (models=Cherokee, Gladiator; years=2017-2025)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Jeep:cherokee:PRC"
+      }
+    },
+    {
+      "code": "PRV",
+      "marketingName": "Velvet Red",
+      "finish": "solid",
+      "lab": {
+        "L": 15.25,
+        "a": 30.11,
+        "b": 14.65,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #4E0D13 (PaintRef hex, OEM=Jeep, code=PRV (models=Cherokee, Compass, Gladiator, Grand Cherokee, Grand Wagoneer; years=2016-2025)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Jeep:cherokee:PRV"
+      }
+    },
+    {
+      "code": "PW7",
+      "marketingName": "Bright White",
+      "finish": "solid",
+      "lab": {
+        "L": 94,
+        "a": -2.2,
+        "b": 0.87,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #EAEFEC (PaintRef hex, OEM=Jeep, code=PW7 (models=Cherokee, Compass, Gladiator, Grand Cherokee, Grand Wagoneer, Liberty; years=2011-2025)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Jeep:cherokee:PW7"
+      }
+    },
+    {
+      "code": "PW1",
+      "marketingName": "Stone White",
+      "finish": "solid",
+      "lab": {
+        "L": 96.75,
+        "a": -3.08,
+        "b": 6.49,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #F5F7E9 (PaintRef hex, OEM=Jeep, code=PW1 (models=Commander, Compass, Grand Cherokee, Liberty; years=2010-2011)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Jeep:commander:PW1"
+      }
+    },
+    {
+      "code": "W7",
+      "marketingName": "Bright White",
+      "finish": "solid",
+      "lab": {
+        "L": 97.14,
+        "a": -0.31,
+        "b": -1.19,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #F5F7F9 (PaintRef hex, OEM=Jeep, code=W7 (models=Cherokee, Compass, Grand Cherokee, Liberty; years=2012-2015)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Jeep:cherokee:W7"
+      }
+    },
+    {
+      "code": "PWQ",
+      "marketingName": "Pearl White",
+      "finish": "solid",
+      "lab": {
+        "L": 85.23,
+        "a": 0.84,
+        "b": 5.3,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #DBD4CB (PaintRef hex, OEM=Jeep, code=PWQ (models=Cherokee, Compass; years=2018-2019)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Jeep:cherokee:PWQ"
+      }
+    },
+    {
+      "code": "PBL",
+      "marketingName": "Modern Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 15.53,
+        "a": -1.64,
+        "b": -8.04,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #1D2832 (PaintRef hex, OEM=Jeep, code=PBL (models=Grand Cherokee; year=2010)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Jeep:grand-cherokee:PBL"
+      }
+    },
+    {
+      "code": "PS2",
+      "marketingName": "Bright Silver",
+      "finish": "solid",
+      "lab": {
+        "L": 90.72,
+        "a": -2.91,
+        "b": 1.73,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #E0E6E1 (PaintRef hex, OEM=Jeep, code=PS2 (models=Compass, Grand Cherokee, Liberty; years=2010-2011)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Jeep:compass:PS2"
+      }
+    },
+    {
+      "code": "PDA",
+      "marketingName": "Light Graystone",
+      "finish": "solid",
+      "lab": {
+        "L": 78.25,
+        "a": 0.68,
+        "b": 1.37,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #C4C1BF (PaintRef hex, OEM=Jeep, code=PDA (models=Grand Cherokee; year=2010)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Jeep:grand-cherokee:PDA"
+      }
+    },
+    {
+      "code": "PGJ",
+      "marketingName": "Jeep Green",
+      "finish": "solid",
+      "lab": {
+        "L": 31.43,
+        "a": -16.37,
+        "b": 0.33,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #295149 (PaintRef hex, OEM=Jeep, code=PGJ (models=Compass, Grand Cherokee; years=2010-2011)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Jeep:compass:PGJ"
+      }
+    },
+    {
+      "code": "PFG",
+      "marketingName": "Optic Green",
+      "finish": "solid",
+      "lab": {
+        "L": 51.2,
+        "a": -9.15,
+        "b": 34.68,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #7E7D3D (PaintRef hex, OEM=Jeep, code=PFG (models=Grand Cherokee; year=2010)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Jeep:grand-cherokee:PFG"
+      }
+    },
+    {
+      "code": "PRH",
+      "marketingName": "Inferno Red",
+      "finish": "solid",
+      "lab": {
+        "L": 34.51,
+        "a": 52.83,
+        "b": 35.22,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #A0191C (PaintRef hex, OEM=Jeep, code=PRH (models=Grand Cherokee, Liberty; years=2010-2011)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Jeep:grand-cherokee:PRH"
+      }
+    },
+    {
+      "code": "PEM",
+      "marketingName": "Red Rock Crystal",
+      "finish": "solid",
+      "lab": {
+        "L": 23.38,
+        "a": 39.69,
+        "b": 28.31,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #70120F (PaintRef hex, OEM=Jeep, code=PEM (models=Grand Cherokee; year=2010)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Jeep:grand-cherokee:PEM"
+      }
+    },
+    {
+      "code": "PX8",
+      "marketingName": "Black",
+      "finish": "solid",
+      "lab": {
+        "L": 0,
+        "a": 0,
+        "b": 0,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #000000 (PaintRef hex, OEM=Jeep, code=PX8 (models=Compass, Gladiator, Patriot; years=2011-2025)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Jeep:compass:PX8"
+      }
+    },
+    {
+      "code": "X8",
+      "marketingName": "Black",
+      "finish": "solid",
+      "lab": {
+        "L": 0,
+        "a": 0,
+        "b": 0,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #000000 (PaintRef hex, OEM=Jeep, code=X8 (models=Compass, Patriot; years=2012-2015)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Jeep:compass:X8"
+      }
+    },
+    {
+      "code": "PBV",
+      "marketingName": "Blackberry",
+      "finish": "solid",
+      "lab": {
+        "L": 10.63,
+        "a": 18.56,
+        "b": -22.07,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #25143B (PaintRef hex, OEM=Jeep, code=PBV (models=Patriot; year=2011)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Jeep:patriot:PBV"
+      }
+    },
+    {
+      "code": "AR",
+      "marketingName": "Maximum Steel",
+      "finish": "solid",
+      "lab": {
+        "L": 24.52,
+        "a": 2.86,
+        "b": -15.87,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #303A52 (PaintRef hex, OEM=Jeep, code=AR (models=Compass, Grand Cherokee, Patriot; years=2012-2015)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Jeep:compass:AR"
+      }
+    },
+    {
+      "code": "PAR",
+      "marketingName": "Maximum Steel",
+      "finish": "solid",
+      "lab": {
+        "L": 24.52,
+        "a": 2.86,
+        "b": -15.87,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #303A52 (PaintRef hex, OEM=Jeep, code=PAR (models=Patriot; year=2016)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Jeep:patriot:PAR"
+      }
+    },
+    {
+      "code": "PBX",
+      "marketingName": "Jazz Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 16.37,
+        "a": 5.54,
+        "b": -15.1,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #24273E (PaintRef hex, OEM=Jeep, code=PBX (models=Compass; years=2018-2021)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Jeep:compass:PBX"
+      }
+    },
+    {
+      "code": "PUK",
+      "marketingName": "Bronze Star",
+      "finish": "solid",
+      "lab": {
+        "L": 39.57,
+        "a": 9.16,
+        "b": 20.65,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #76573C (PaintRef hex, OEM=Jeep, code=PUK (models=Patriot; year=2011)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Jeep:patriot:PUK"
+      }
+    },
+    {
+      "code": "TW",
+      "marketingName": "Rugged Brown",
+      "finish": "solid",
+      "lab": {
+        "L": 16.53,
+        "a": 9.5,
+        "b": 0.1,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #362429 (PaintRef hex, OEM=Jeep, code=TW (models=Compass, Grand Cherokee, Patriot; years=2012-2014)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Jeep:compass:TW"
+      }
+    },
+    {
+      "code": "PTA",
+      "marketingName": "Mojave Sand",
+      "finish": "solid",
+      "lab": {
+        "L": 60.73,
+        "a": 4.49,
+        "b": 14.08,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #A48F7A (PaintRef hex, OEM=Jeep, code=PTA (models=Compass, Patriot; years=2016-2017)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Jeep:compass:PTA"
+      }
+    },
+    {
+      "code": "PAV",
+      "marketingName": "Dark Charcoal",
+      "finish": "solid",
+      "lab": {
+        "L": 28.92,
+        "a": 0.45,
+        "b": -1.21,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #444446 (PaintRef hex, OEM=Jeep, code=PAV (models=Liberty; year=2011)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Jeep:liberty:PAV"
+      }
+    },
+    {
+      "code": "PDM",
+      "marketingName": "Mineral Gray",
+      "finish": "solid",
+      "lab": {
+        "L": 40.77,
+        "a": 0.47,
+        "b": -2.41,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #5F6064 (PaintRef hex, OEM=Jeep, code=PDM (models=Grand Cherokee; years=2010-2011)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Jeep:grand-cherokee:PDM"
+      }
+    },
+    {
+      "code": "S2",
+      "marketingName": "Bright Silver",
+      "finish": "solid",
+      "lab": {
+        "L": 90.72,
+        "a": -2.91,
+        "b": 1.73,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #E0E6E1 (PaintRef hex, OEM=Jeep, code=S2 (models=Compass, Grand Cherokee, Liberty; years=2012-2014)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Jeep:compass:S2"
+      }
+    },
+    {
+      "code": "DM",
+      "marketingName": "Mineral Gray",
+      "finish": "solid",
+      "lab": {
+        "L": 40.77,
+        "a": 0.47,
+        "b": -2.41,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #5F6064 (PaintRef hex, OEM=Jeep, code=DM (models=Compass, Grand Cherokee, Liberty; years=2012-2014)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Jeep:compass:DM"
+      }
+    },
+    {
+      "code": "BA",
+      "marketingName": "Winter Chill",
+      "finish": "solid",
+      "lab": {
+        "L": 76.37,
+        "a": -1.84,
+        "b": -8.05,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #B1BECB (PaintRef hex, OEM=Jeep, code=BA (models=Compass, Grand Cherokee, Liberty; years=2012-2014)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Jeep:compass:BA"
+      }
+    },
+    {
+      "code": "PAS",
+      "marketingName": "Baltic Gray",
+      "finish": "solid",
+      "lab": {
+        "L": 29.43,
+        "a": 2.53,
+        "b": 0.91,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #4A4444 (PaintRef hex, OEM=Jeep, code=PAS (models=Grand Cherokee, Grand Wagoneer; years=2021-2025)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Jeep:grand-cherokee:PAS"
+      }
+    },
+    {
+      "code": "PSE",
+      "marketingName": "Silver Zynith",
+      "finish": "solid",
+      "lab": {
+        "L": 75.39,
+        "a": -5.34,
+        "b": -4.12,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #ABBDC1 (PaintRef hex, OEM=Jeep, code=PSE (models=Compass, Gladiator, Grand Cherokee, Grand Wagoneer; years=2023-2025)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Jeep:compass:PSE"
+      }
+    },
+    {
+      "code": "JR",
+      "marketingName": "Rescue Green",
+      "finish": "solid",
+      "lab": {
+        "L": 48,
+        "a": -13.66,
+        "b": 36.75,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #6F7731 (PaintRef hex, OEM=Jeep, code=JR (models=Liberty; year=2012)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Jeep:liberty:JR"
+      }
+    },
+    {
+      "code": "GZ",
+      "marketingName": "Black Forest Green",
+      "finish": "solid",
+      "lab": {
+        "L": 16.93,
+        "a": -17.76,
+        "b": 5.8,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #0A3021 (PaintRef hex, OEM=Jeep, code=GZ (models=Grand Cherokee, Liberty; years=2012-2015)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Jeep:grand-cherokee:GZ"
+      }
+    },
+    {
+      "code": "LB",
+      "marketingName": "Copper",
+      "finish": "solid",
+      "lab": {
+        "L": 39.02,
+        "a": 44.77,
+        "b": 48.42,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #A63507 (PaintRef hex, OEM=Jeep, code=LB (models=Compass; year=2012)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Jeep:compass:LB"
+      }
+    },
+    {
+      "code": "R8",
+      "marketingName": "Deep Molten Red",
+      "finish": "solid",
+      "lab": {
+        "L": 11.51,
+        "a": 26.4,
+        "b": -4.31,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #3C0B25 (PaintRef hex, OEM=Jeep, code=R8 (models=Liberty; year=2012)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Jeep:liberty:R8"
+      }
+    },
+    {
+      "code": "PRM",
+      "marketingName": "Redline Red",
+      "finish": "solid",
+      "lab": {
+        "L": 37.83,
+        "a": 62.4,
+        "b": 44.63,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #B60013 (PaintRef hex, OEM=Jeep, code=PRM (models=Compass, Grand Cherokee; years=2016-2017)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Jeep:compass:PRM"
+      }
+    },
+    {
+      "code": "PR6",
+      "marketingName": "Red Hot",
+      "finish": "solid",
+      "lab": {
+        "L": 32.5,
+        "a": 51.06,
+        "b": 36.05,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #981616 (PaintRef hex, OEM=Jeep, code=PR6 (models=Compass; year=2024)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Jeep:compass:PR6"
+      }
+    },
+    {
+      "code": "PW3",
+      "marketingName": "White",
+      "finish": "solid",
+      "lab": {
+        "L": 97.81,
+        "a": 2.67,
+        "b": -0.13,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #FEF7F9 (PaintRef hex, OEM=Jeep, code=PW3 (models=Compass; years=2018-2021)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Jeep:compass:PW3"
+      }
+    },
+    {
+      "code": "PWH",
+      "marketingName": "Pearl White",
+      "finish": "solid",
+      "lab": {
+        "L": 96.61,
+        "a": -4.07,
+        "b": 9.38,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #F5F7E3 (PaintRef hex, OEM=Jeep, code=PWH (models=Compass; years=2020-2021)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Jeep:compass:PWH"
+      }
+    },
+    {
+      "code": "YC",
+      "marketingName": "Bright Amber",
+      "finish": "solid",
+      "lab": {
+        "L": 79.36,
+        "a": 2.49,
+        "b": 61.75,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #E9C04C (PaintRef hex, OEM=Jeep, code=YC (models=Compass; year=2012)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Jeep:compass:YC"
+      }
+    },
+    {
+      "code": "PPS",
+      "marketingName": "Fathom Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 30.94,
+        "a": -5.07,
+        "b": -11.83,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #334C5B (PaintRef hex, OEM=Jeep, code=PPS (models=Gladiator; year=2025)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Jeep:gladiator:PPS"
+      }
+    },
+    {
+      "code": "PGV",
+      "marketingName": "Gator",
+      "finish": "solid",
+      "lab": {
+        "L": 37.47,
+        "a": -1.21,
+        "b": 14.4,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #5F5841 (PaintRef hex, OEM=Jeep, code=PGV (models=Gladiator; year=2020)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Jeep:gladiator:PGV"
+      }
+    },
+    {
+      "code": "PUA",
+      "marketingName": "Gobi",
+      "finish": "solid",
+      "lab": {
+        "L": 76.63,
+        "a": 1.92,
+        "b": 13.71,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #CBBBA4 (PaintRef hex, OEM=Jeep, code=PUA (models=Gladiator; years=2020-2022)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Jeep:gladiator:PUA"
+      }
+    },
+    {
+      "code": "PJ5",
+      "marketingName": "41",
+      "finish": "solid",
+      "lab": {
+        "L": 59.07,
+        "a": -4.76,
+        "b": 11.47,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #8E907A (PaintRef hex, OEM=Jeep, code=PJ5 (models=Gladiator; year=2025)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Jeep:gladiator:PJ5"
+      }
+    },
+    {
+      "code": "PDS",
+      "marketingName": "Anvil",
+      "finish": "solid",
+      "lab": {
+        "L": 50.69,
+        "a": -0.97,
+        "b": -11.49,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #6C7A8C (PaintRef hex, OEM=Jeep, code=PDS (models=Gladiator; years=2024-2025)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Jeep:gladiator:PDS"
+      }
+    },
+    {
+      "code": "PFB",
+      "marketingName": "Gecko",
+      "finish": "solid",
+      "lab": {
+        "L": 82.43,
+        "a": -43.67,
+        "b": 69.76,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #A0E03A (PaintRef hex, OEM=Jeep, code=PFB (models=Gladiator; years=2021-2022)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Jeep:gladiator:PFB"
+      }
+    },
+    {
+      "code": "PGG",
+      "marketingName": "Sarge Green",
+      "finish": "solid",
+      "lab": {
+        "L": 24.84,
+        "a": -11.96,
+        "b": 0.42,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #25403A (PaintRef hex, OEM=Jeep, code=PGG (models=Gladiator; years=2021-2023)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Jeep:gladiator:PGG"
+      }
+    },
+    {
+      "code": "PGE",
+      "marketingName": "Mojito",
+      "finish": "solid",
+      "lab": {
+        "L": 68.02,
+        "a": -44.36,
+        "b": 64.42,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #73B81B (PaintRef hex, OEM=Jeep, code=PGE (models=Gladiator; year=2025)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Jeep:gladiator:PGE"
+      }
+    },
+    {
+      "code": "PE4",
+      "marketingName": "Punkn",
+      "finish": "solid",
+      "lab": {
+        "L": 49.07,
+        "a": 51.93,
+        "b": 59.98,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #CF4600 (PaintRef hex, OEM=Jeep, code=PE4 (models=Gladiator; years=2020-2023)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Jeep:gladiator:PE4"
+      }
+    },
+    {
+      "code": "PY5",
+      "marketingName": "Nacho",
+      "finish": "solid",
+      "lab": {
+        "L": 71.24,
+        "a": 24.55,
+        "b": 65.16,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #F29B30 (PaintRef hex, OEM=Jeep, code=PY5 (models=Gladiator; year=2021)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Jeep:gladiator:PY5"
+      }
+    },
+    {
+      "code": "PJF",
+      "marketingName": "High Velocity",
+      "finish": "solid",
+      "lab": {
+        "L": 83.05,
+        "a": -10.87,
+        "b": 62,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #DED254 (PaintRef hex, OEM=Jeep, code=PJF (models=Gladiator; years=2022-2023)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Jeep:gladiator:PJF"
+      }
+    },
+    {
+      "code": "PHC",
+      "marketingName": "Ember",
+      "finish": "solid",
+      "lab": {
+        "L": 12.73,
+        "a": 6.63,
+        "b": -3.56,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #281E26 (PaintRef hex, OEM=Jeep, code=PHC (models=Grand Wagoneer; year=2022)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Jeep:grand-wagoneer:PHC"
+      }
+    },
+    {
+      "code": "PCQ",
+      "marketingName": "Midnight Sky",
+      "finish": "solid",
+      "lab": {
+        "L": 20.03,
+        "a": -0.66,
+        "b": -18.33,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #19324B (PaintRef hex, OEM=Jeep, code=PCQ (models=Grand Cherokee, Grand Wagoneer; years=2022-2025)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Jeep:grand-cherokee:PCQ"
+      }
+    },
+    {
+      "code": "BF",
+      "marketingName": "Pacific Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 50.18,
+        "a": -4.21,
+        "b": -18.82,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #5A7B97 (PaintRef hex, OEM=Jeep, code=BF (models=Grand Cherokee; year=2014)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Jeep:grand-cherokee:BF"
+      }
+    },
+    {
+      "code": "PCA",
+      "marketingName": "Lake Front Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 51.58,
+        "a": -10.17,
+        "b": -13.21,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #578191 (PaintRef hex, OEM=Jeep, code=PCA (models=Grand Cherokee; year=2022)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Jeep:grand-cherokee:PCA"
+      }
+    },
+    {
+      "code": "PWL",
+      "marketingName": "White Gold",
+      "finish": "solid",
+      "lab": {
+        "L": 79.66,
+        "a": -0.59,
+        "b": 11.03,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #CDC5B1 (PaintRef hex, OEM=Jeep, code=PWL (models=Grand Cherokee; year=2011)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Jeep:grand-cherokee:PWL"
+      }
+    },
+    {
+      "code": "WL",
+      "marketingName": "White Gold",
+      "finish": "solid",
+      "lab": {
+        "L": 79.66,
+        "a": -0.59,
+        "b": 11.03,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #CDC5B1 (PaintRef hex, OEM=Jeep, code=WL (models=Grand Cherokee; year=2012)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Jeep:grand-cherokee:WL"
+      }
+    },
+    {
+      "code": "EP",
+      "marketingName": "Deep Auburn",
+      "finish": "solid",
+      "lab": {
+        "L": 17.26,
+        "a": 14.81,
+        "b": 24.7,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #452102 (PaintRef hex, OEM=Jeep, code=EP (models=Grand Cherokee; years=2014-2015)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Jeep:grand-cherokee:EP"
+      }
+    },
+    {
+      "code": "PTW",
+      "marketingName": "Luxury Brown",
+      "finish": "solid",
+      "lab": {
+        "L": 16.53,
+        "a": 9.5,
+        "b": 0.1,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #362429 (PaintRef hex, OEM=Jeep, code=PTW (models=Grand Cherokee; years=2016-2017)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Jeep:grand-cherokee:PTW"
+      }
+    },
+    {
+      "code": "PUW",
+      "marketingName": "Walnut Brown",
+      "finish": "solid",
+      "lab": {
+        "L": 27.42,
+        "a": 6.54,
+        "b": 5.9,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #4E3D38 (PaintRef hex, OEM=Jeep, code=PUW (models=Grand Cherokee; years=2017-2022)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Jeep:grand-cherokee:PUW"
+      }
+    },
+    {
+      "code": "PFJ",
+      "marketingName": "Rocky Mountain",
+      "finish": "solid",
+      "lab": {
+        "L": 22.17,
+        "a": -0.41,
+        "b": 4.1,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #37352F (PaintRef hex, OEM=Jeep, code=PFJ (models=Grand Cherokee, Grand Wagoneer; years=2022-2024)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Jeep:grand-cherokee:PFJ"
+      }
+    },
+    {
+      "code": "PVB",
+      "marketingName": "Copper Shino",
+      "finish": "solid",
+      "lab": {
+        "L": 42.74,
+        "a": 14.35,
+        "b": 28.58,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #885B36 (PaintRef hex, OEM=Jeep, code=PVB (models=Grand Cherokee; year=2024)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Jeep:grand-cherokee:PVB"
+      }
+    },
+    {
+      "code": "PFQ",
+      "marketingName": "Green",
+      "finish": "solid",
+      "lab": {
+        "L": 33.44,
+        "a": -16.58,
+        "b": 20.62,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #3F552D (PaintRef hex, OEM=Jeep, code=PFQ (models=Grand Cherokee; year=2020)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Jeep:grand-cherokee:PFQ"
+      }
+    },
+    {
+      "code": "RM",
+      "marketingName": "Redline Red",
+      "finish": "solid",
+      "lab": {
+        "L": 37.83,
+        "a": 62.4,
+        "b": 44.63,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #B60013 (PaintRef hex, OEM=Jeep, code=RM (models=Grand Cherokee; year=2014)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Jeep:grand-cherokee:RM"
+      }
+    },
+    {
+      "code": "PHA",
+      "marketingName": "Bloodshot",
+      "finish": "solid",
+      "lab": {
+        "L": 14.48,
+        "a": 33.46,
+        "b": 18.42,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #50040A (PaintRef hex, OEM=Jeep, code=PHA (models=Grand Cherokee; year=2024)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Jeep:grand-cherokee:PHA"
+      }
+    },
+    {
+      "code": "W1",
+      "marketingName": "Stone White",
+      "finish": "solid",
+      "lab": {
+        "L": 96.75,
+        "a": -3.08,
+        "b": 6.49,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #F5F7E9 (PaintRef hex, OEM=Jeep, code=W1 (models=Grand Cherokee; year=2012)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Jeep:grand-cherokee:W1"
+      }
+    },
+    {
+      "code": "WD",
+      "marketingName": "Ivory",
+      "finish": "solid",
+      "lab": {
+        "L": 96.75,
+        "a": -3.08,
+        "b": 6.49,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #F5F7E9 (PaintRef hex, OEM=Jeep, code=WD (models=Grand Cherokee; year=2013)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Jeep:grand-cherokee:WD"
+      }
+    },
+    {
+      "code": "PWD",
+      "marketingName": "Ivory White",
+      "finish": "solid",
+      "lab": {
+        "L": 90.72,
+        "a": -2.91,
+        "b": 1.73,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #E0E6E1 (PaintRef hex, OEM=Jeep, code=PWD (models=Grand Cherokee; year=2016)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Jeep:grand-cherokee:PWD"
+      }
+    },
+    {
+      "code": "PCG",
+      "marketingName": "River Rock",
+      "finish": "solid",
+      "lab": {
+        "L": 19.86,
+        "a": 0.93,
+        "b": -6.91,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #2C303A (PaintRef hex, OEM=Jeep, code=PCG (models=Grand Wagoneer; years=2022-2025)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Jeep:grand-wagoneer:PCG"
+      }
+    },
+    {
+      "code": "US",
+      "marketingName": "Canyon Brown",
+      "finish": "solid",
+      "lab": {
+        "L": 53.23,
+        "a": 7.57,
+        "b": 34.15,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #9D7944 (PaintRef hex, OEM=Jeep, code=US (models=Liberty; year=2012)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Jeep:liberty:US"
+      }
+    },
+    {
+      "code": "GN",
+      "marketingName": "Natural Green",
+      "finish": "solid",
+      "lab": {
+        "L": 23.87,
+        "a": -9.62,
+        "b": 24.42,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-18",
+        "notes": "Derived from #363C12 (PaintRef hex, OEM=Jeep, code=GN (models=Liberty; year=2012)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Jeep:liberty:GN"
+      }
+    }
+  ]
+}

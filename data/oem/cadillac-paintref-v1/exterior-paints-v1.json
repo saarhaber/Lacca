@@ -157,23 +157,6 @@
       }
     },
     {
-      "code": "47",
-      "marketingName": "Euro Red",
-      "finish": "solid",
-      "lab": {
-        "L": 35.37,
-        "a": 52.6,
-        "b": 32.16,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #A21D23 (PaintRef hex, OEM=Cadillac, code=47 (models=Allante; years=1992-1993)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:Cadillac:allante:47"
-      }
-    },
-    {
       "code": "84",
       "marketingName": "Pearl Red",
       "finish": "solid",
@@ -259,23 +242,6 @@
       }
     },
     {
-      "code": "41",
-      "marketingName": "Black Raven",
-      "finish": "solid",
-      "lab": {
-        "L": 0,
-        "a": 0,
-        "b": 0,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #000000 (PaintRef hex, OEM=Cadillac, code=41 (models=ATS, CTS; years=2006-2013)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:Cadillac:ats:41"
-      }
-    },
-    {
       "code": "GBA",
       "marketingName": "Black Raven",
       "finish": "solid",
@@ -290,23 +256,6 @@
         "recordedAt": "2026-04-18",
         "notes": "Derived from #000000 (PaintRef hex, OEM=Cadillac, code=GBA (models=ATS, CT4, CT5, CT6, CTS; years=2011-2026)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Cadillac:ats:GBA"
-      }
-    },
-    {
-      "code": "GBA",
-      "marketingName": "Black Ravin",
-      "finish": "solid",
-      "lab": {
-        "L": 0,
-        "a": 0,
-        "b": 0,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #000000 (PaintRef hex, OEM=Cadillac, code=GBA (models=CTS; year=2015)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:Cadillac:cts:GBA"
       }
     },
     {
@@ -361,23 +310,6 @@
       }
     },
     {
-      "code": "GWS",
-      "marketingName": "Silver Topaz",
-      "finish": "solid",
-      "lab": {
-        "L": 71.07,
-        "a": -7.84,
-        "b": -9.59,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #94B3BF (PaintRef hex, OEM=Cadillac, code=GWS (models=ATS; year=2014)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:Cadillac:ats:GWS"
-      }
-    },
-    {
       "code": "G1M",
       "marketingName": "Dark Adriatic Blue",
       "finish": "solid",
@@ -409,23 +341,6 @@
         "recordedAt": "2026-04-18",
         "notes": "Derived from #0F4FBB (PaintRef hex, OEM=Cadillac, code=GD1 (models=ATS, CTS; years=2016-2018)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Cadillac:ats:GD1"
-      }
-    },
-    {
-      "code": "G1M",
-      "marketingName": "Dark Adriatic",
-      "finish": "solid",
-      "lab": {
-        "L": 18.36,
-        "a": 3.14,
-        "b": -10.6,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #292C3C (PaintRef hex, OEM=Cadillac, code=G1M (models=CTS; year=2017)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:Cadillac:cts:G1M"
       }
     },
     {
@@ -582,23 +497,6 @@
       }
     },
     {
-      "code": "G7Q",
-      "marketingName": "Phantom Gray",
-      "finish": "solid",
-      "lab": {
-        "L": 37.41,
-        "a": 0,
-        "b": 0,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #585858 (PaintRef hex, OEM=Cadillac, code=G7Q (models=ATS, CT6, CTS; years=2015-2018)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:Cadillac:ats:G7Q"
-      }
-    },
-    {
       "code": "GA6",
       "marketingName": "Moonstone",
       "finish": "solid",
@@ -663,23 +561,6 @@
         "confidence": "derived",
         "recordedAt": "2026-04-18",
         "notes": "Derived from #493944 (PaintRef hex, OEM=Cadillac, code=G7U (models=CTS; year=2014)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:Cadillac:cts:G7U"
-      }
-    },
-    {
-      "code": "G7U",
-      "marketingName": "Majestic Plum",
-      "finish": "solid",
-      "lab": {
-        "L": 26.04,
-        "a": 9.26,
-        "b": -4.09,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #493944 (PaintRef hex, OEM=Cadillac, code=G7U (models=CTS; year=2015)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Cadillac:cts:G7U"
       }
     },
@@ -871,23 +752,6 @@
       }
     },
     {
-      "code": "22",
-      "marketingName": "Light Sapphire",
-      "finish": "solid",
-      "lab": {
-        "L": 53.24,
-        "a": -3.61,
-        "b": -24.58,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #5A83A9 (PaintRef hex, OEM=Cadillac, code=22 (models=Deville; year=1992)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:Cadillac:deville:22"
-      }
-    },
-    {
       "code": "51",
       "marketingName": "Dark Antelope",
       "finish": "solid",
@@ -987,23 +851,6 @@
         "recordedAt": "2026-04-18",
         "notes": "Derived from #97A4AE (PaintRef hex, OEM=Cadillac, code=13 (models=Deville; years=1991-1994)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Cadillac:deville:13"
-      }
-    },
-    {
-      "code": "13",
-      "marketingName": "Bright Silver",
-      "finish": "solid",
-      "lab": {
-        "L": 66.66,
-        "a": -2.49,
-        "b": -6.73,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #97A4AE (PaintRef hex, OEM=Cadillac, code=13 (models=Brougham, Deville; years=1992-1993)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:Cadillac:brougham:13"
       }
     },
     {
@@ -1177,23 +1024,6 @@
       }
     },
     {
-      "code": "25U",
-      "marketingName": "Sky",
-      "finish": "solid",
-      "lab": {
-        "L": 36.5,
-        "a": 0.89,
-        "b": -20.79,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #415777 (PaintRef hex, OEM=Cadillac, code=25U (models=Catera; year=1999)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:Cadillac:catera:25U"
-      }
-    },
-    {
       "code": "58U",
       "marketingName": "Sapphire Blue",
       "finish": "solid",
@@ -1330,23 +1160,6 @@
       }
     },
     {
-      "code": "46",
-      "marketingName": "Forest",
-      "finish": "solid",
-      "lab": {
-        "L": 30.38,
-        "a": -13.34,
-        "b": 7.18,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #354D3C (PaintRef hex, OEM=Cadillac, code=46 (models=Catera; year=1998)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:Cadillac:catera:46"
-      }
-    },
-    {
       "code": "46U",
       "marketingName": "Forest",
       "finish": "solid",
@@ -1394,23 +1207,6 @@
         "confidence": "derived",
         "recordedAt": "2026-04-18",
         "notes": "Derived from #961A1B (PaintRef hex, OEM=Cadillac, code=75 (models=Catera; years=1997-1998)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:Cadillac:catera:75"
-      }
-    },
-    {
-      "code": "75",
-      "marketingName": "Cranberry",
-      "finish": "solid",
-      "lab": {
-        "L": 32.49,
-        "a": 49.57,
-        "b": 33.09,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #961A1B (PaintRef hex, OEM=Cadillac, code=75 (models=Catera; year=1999)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Cadillac:catera:75"
       }
     },
@@ -1534,23 +1330,6 @@
       }
     },
     {
-      "code": "GLU",
-      "marketingName": "Dark Blue Moon",
-      "finish": "solid",
-      "lab": {
-        "L": 14.81,
-        "a": 6.4,
-        "b": -21.79,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #182444 (PaintRef hex, OEM=Cadillac, code=GLU (models=CT5; year=2021)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:Cadillac:ct5:GLU"
-      }
-    },
-    {
       "code": "GMO",
       "marketingName": "Electric Blue",
       "finish": "solid",
@@ -1616,23 +1395,6 @@
         "recordedAt": "2026-04-18",
         "notes": "Derived from #526781 (PaintRef hex, OEM=Cadillac, code=GAI (models=CT4, CT5; years=2025-2026)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Cadillac:ct4:GAI"
-      }
-    },
-    {
-      "code": "GJV",
-      "marketingName": "Costal Blue",
-      "finish": "solid",
-      "lab": {
-        "L": 30.69,
-        "a": 8.37,
-        "b": -41.85,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #08488A (PaintRef hex, OEM=Cadillac, code=GJV (models=CT5; year=2026)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:Cadillac:ct5:GJV"
       }
     },
     {
@@ -1857,23 +1619,6 @@
       }
     },
     {
-      "code": "G7C",
-      "marketingName": "Cardinal Red",
-      "finish": "solid",
-      "lab": {
-        "L": 44.04,
-        "a": 69.47,
-        "b": 56.62,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #D30005 (PaintRef hex, OEM=Cadillac, code=G7C (models=CT5; year=2024)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:Cadillac:ct5:G7C"
-      }
-    },
-    {
       "code": "GAZ",
       "marketingName": "Summit White",
       "finish": "solid",
@@ -2095,23 +1840,6 @@
       }
     },
     {
-      "code": "41",
-      "marketingName": "Raven Black",
-      "finish": "solid",
-      "lab": {
-        "L": 0,
-        "a": 0,
-        "b": 0,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #000000 (PaintRef hex, OEM=Cadillac, code=41 (models=CTS; years=2008-2010)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:Cadillac:cts:41"
-      }
-    },
-    {
       "code": "GAR",
       "marketingName": "Black Ice",
       "finish": "solid",
@@ -2160,91 +1888,6 @@
         "recordedAt": "2026-04-18",
         "notes": "Derived from #322F3E (PaintRef hex, OEM=Cadillac, code=71 (models=CTS; year=2006)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Cadillac:cts:71"
-      }
-    },
-    {
-      "code": "25",
-      "marketingName": "Blue Chip",
-      "finish": "solid",
-      "lab": {
-        "L": 15.3,
-        "a": -2.14,
-        "b": -11.96,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #162837 (PaintRef hex, OEM=Cadillac, code=25 (models=CTS; years=2006-2008)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:Cadillac:cts:25"
-      }
-    },
-    {
-      "code": "46",
-      "marketingName": "Stealth Gray",
-      "finish": "solid",
-      "lab": {
-        "L": 56.94,
-        "a": -7.17,
-        "b": -8.46,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #728D97 (PaintRef hex, OEM=Cadillac, code=46 (models=CTS; year=2006)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:Cadillac:cts:46"
-      }
-    },
-    {
-      "code": "71",
-      "marketingName": "Lunar Quartz",
-      "finish": "solid",
-      "lab": {
-        "L": 20.28,
-        "a": 5.1,
-        "b": -8.97,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #322F3E (PaintRef hex, OEM=Cadillac, code=71 (models=CTS; year=2007)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:Cadillac:cts:71"
-      }
-    },
-    {
-      "code": "78",
-      "marketingName": "Transition Blue",
-      "finish": "solid",
-      "lab": {
-        "L": 55.64,
-        "a": -4.46,
-        "b": -5.17,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #78888E (PaintRef hex, OEM=Cadillac, code=78 (models=CTS; years=2007-2009)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:Cadillac:cts:78"
-      }
-    },
-    {
-      "code": "78",
-      "marketingName": "Sunset Blue",
-      "finish": "solid",
-      "lab": {
-        "L": 55.64,
-        "a": -4.46,
-        "b": -5.17,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #78888E (PaintRef hex, OEM=Cadillac, code=78 (models=CTS; year=2008)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:Cadillac:cts:78"
       }
     },
     {
@@ -2299,23 +1942,6 @@
       }
     },
     {
-      "code": "33",
-      "marketingName": "Evolution Green",
-      "finish": "solid",
-      "lab": {
-        "L": 37.65,
-        "a": -1.23,
-        "b": 3.47,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #595953 (PaintRef hex, OEM=Cadillac, code=33 (models=CTS; year=2012)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:Cadillac:cts:33"
-      }
-    },
-    {
       "code": "54",
       "marketingName": "Light Bronzemist",
       "finish": "solid",
@@ -2367,57 +1993,6 @@
       }
     },
     {
-      "code": "61",
-      "marketingName": "Sand Storm",
-      "finish": "solid",
-      "lab": {
-        "L": 41.85,
-        "a": 1.81,
-        "b": 13.33,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #6E614D (PaintRef hex, OEM=Cadillac, code=61 (models=CTS; year=2006)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:Cadillac:cts:61"
-      }
-    },
-    {
-      "code": "53",
-      "marketingName": "Antique Bronze",
-      "finish": "solid",
-      "lab": {
-        "L": 57,
-        "a": 2.91,
-        "b": 18.97,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #9A8668 (PaintRef hex, OEM=Cadillac, code=53 (models=CTS; year=2007)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:Cadillac:cts:53"
-      }
-    },
-    {
-      "code": "51",
-      "marketingName": "Gold Mist",
-      "finish": "solid",
-      "lab": {
-        "L": 77.47,
-        "a": -1.31,
-        "b": 17.56,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #CABF9F (PaintRef hex, OEM=Cadillac, code=51 (models=CTS; years=2007-2009)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:Cadillac:cts:51"
-      }
-    },
-    {
       "code": "GGX",
       "marketingName": "Tuscan Bronze",
       "finish": "solid",
@@ -2435,23 +2010,6 @@
       }
     },
     {
-      "code": "97",
-      "marketingName": "Vanilla Latte",
-      "finish": "solid",
-      "lab": {
-        "L": 81.78,
-        "a": -2.69,
-        "b": 12.47,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #D0CCB4 (PaintRef hex, OEM=Cadillac, code=97 (models=CTS; year=2010)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:Cadillac:cts:97"
-      }
-    },
-    {
       "code": "GHA",
       "marketingName": "Mocha Steel",
       "finish": "solid",
@@ -2466,23 +2024,6 @@
         "recordedAt": "2026-04-18",
         "notes": "Derived from #8B827B (PaintRef hex, OEM=Cadillac, code=GHA (models=CTS; years=2012-2014)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Cadillac:cts:GHA"
-      }
-    },
-    {
-      "code": "97",
-      "marketingName": "Tiara Tan",
-      "finish": "solid",
-      "lab": {
-        "L": 81.78,
-        "a": -2.69,
-        "b": 12.47,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #D0CCB4 (PaintRef hex, OEM=Cadillac, code=97 (models=CTS; year=2012)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:Cadillac:cts:97"
       }
     },
     {
@@ -2554,91 +2095,6 @@
       }
     },
     {
-      "code": "67",
-      "marketingName": "Light Platinum",
-      "finish": "solid",
-      "lab": {
-        "L": 77.33,
-        "a": -0.89,
-        "b": 7.05,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #C3BFB2 (PaintRef hex, OEM=Cadillac, code=67 (models=CTS; years=2006-2008)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:Cadillac:cts:67"
-      }
-    },
-    {
-      "code": "42",
-      "marketingName": "Silver Smoke",
-      "finish": "solid",
-      "lab": {
-        "L": 63.67,
-        "a": -3.7,
-        "b": 3.44,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #969C94 (PaintRef hex, OEM=Cadillac, code=42 (models=CTS; year=2006)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:Cadillac:cts:42"
-      }
-    },
-    {
-      "code": "30",
-      "marketingName": "Kevlava Gray",
-      "finish": "solid",
-      "lab": {
-        "L": 35.16,
-        "a": 1.72,
-        "b": -3.35,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #535258 (PaintRef hex, OEM=Cadillac, code=30 (models=CTS; year=2007)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:Cadillac:cts:30"
-      }
-    },
-    {
-      "code": "12",
-      "marketingName": "Black Cherry",
-      "finish": "solid",
-      "lab": {
-        "L": 9.74,
-        "a": 13.55,
-        "b": -5.83,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #291423 (PaintRef hex, OEM=Cadillac, code=12 (models=CTS; years=2008-2009)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:Cadillac:cts:12"
-      }
-    },
-    {
-      "code": "30",
-      "marketingName": "Thunder Gray",
-      "finish": "solid",
-      "lab": {
-        "L": 35.16,
-        "a": 1.72,
-        "b": -3.35,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #535258 (PaintRef hex, OEM=Cadillac, code=30 (models=CTS; years=2008-2012)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:Cadillac:cts:30"
-      }
-    },
-    {
       "code": "17",
       "marketingName": "Radiant Silver",
       "finish": "solid",
@@ -2687,23 +2143,6 @@
         "recordedAt": "2026-04-18",
         "notes": "Derived from #312E31 (PaintRef hex, OEM=Cadillac, code=GGW (models=CTS; year=2010)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Cadillac:cts:GGW"
-      }
-    },
-    {
-      "code": "G9F",
-      "marketingName": "Glacier",
-      "finish": "solid",
-      "lab": {
-        "L": 83.48,
-        "a": 0,
-        "b": 0,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #D0D0D0 (PaintRef hex, OEM=Cadillac, code=G9F (models=CTS; year=2018)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:Cadillac:cts:G9F"
       }
     },
     {
@@ -2758,74 +2197,6 @@
       }
     },
     {
-      "code": "84",
-      "marketingName": "Opera Red",
-      "finish": "solid",
-      "lab": {
-        "L": 19.38,
-        "a": 32.54,
-        "b": 17.71,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #5C1417 (PaintRef hex, OEM=Cadillac, code=84 (models=CTS; year=2003)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:Cadillac:cts:84"
-      }
-    },
-    {
-      "code": "29",
-      "marketingName": "Sport Red",
-      "finish": "solid",
-      "lab": {
-        "L": 30.71,
-        "a": 48.81,
-        "b": 26.51,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #8F1622 (PaintRef hex, OEM=Cadillac, code=29 (models=CTS; years=2004-2005)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:Cadillac:cts:29"
-      }
-    },
-    {
-      "code": "80",
-      "marketingName": "Infrared",
-      "finish": "solid",
-      "lab": {
-        "L": 29.65,
-        "a": 42.05,
-        "b": 18.22,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #83212C (PaintRef hex, OEM=Cadillac, code=80 (models=CTS; year=2006)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:Cadillac:cts:80"
-      }
-    },
-    {
-      "code": "80",
-      "marketingName": "Red Jewel",
-      "finish": "solid",
-      "lab": {
-        "L": 29.65,
-        "a": 42.05,
-        "b": 18.22,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #83212C (PaintRef hex, OEM=Cadillac, code=80 (models=CTS; year=2007)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:Cadillac:cts:80"
-      }
-    },
-    {
       "code": "89",
       "marketingName": "Crystal Red",
       "finish": "solid",
@@ -2860,23 +2231,6 @@
       }
     },
     {
-      "code": "98",
-      "marketingName": "White Lightning",
-      "finish": "solid",
-      "lab": {
-        "L": 99.18,
-        "a": -3.37,
-        "b": 9.57,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #FEFEEA (PaintRef hex, OEM=Cadillac, code=98 (models=CTS; year=2006)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:Cadillac:cts:98"
-      }
-    },
-    {
       "code": "39",
       "marketingName": "Dark Adriatic",
       "finish": "solid",
@@ -2891,23 +2245,6 @@
         "recordedAt": "2026-04-18",
         "notes": "Derived from #2D373F (PaintRef hex, OEM=Cadillac, code=39 (models=Deville; years=1994-1999)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Cadillac:deville:39"
-      }
-    },
-    {
-      "code": "22",
-      "marketingName": "Dark Montana Blue",
-      "finish": "solid",
-      "lab": {
-        "L": 22.06,
-        "a": 1.71,
-        "b": -14.41,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #2A354A (PaintRef hex, OEM=Cadillac, code=22 (models=Deville; year=1994)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:Cadillac:deville:22"
       }
     },
     {
@@ -2928,40 +2265,6 @@
       }
     },
     {
-      "code": "21",
-      "marketingName": "Medium Montana Blue",
-      "finish": "solid",
-      "lab": {
-        "L": 25.96,
-        "a": 4.17,
-        "b": -20.85,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #2F3D5D (PaintRef hex, OEM=Cadillac, code=21 (models=Deville; years=1994-1996)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:Cadillac:deville:21"
-      }
-    },
-    {
-      "code": "30",
-      "marketingName": "Adriatic Blue",
-      "finish": "solid",
-      "lab": {
-        "L": 23.36,
-        "a": 1.64,
-        "b": -15.73,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #2B384F (PaintRef hex, OEM=Cadillac, code=30 (models=Deville; year=1997)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:Cadillac:deville:30"
-      }
-    },
-    {
       "code": "34",
       "marketingName": "Light Teal",
       "finish": "solid",
@@ -2976,91 +2279,6 @@
         "recordedAt": "2026-04-18",
         "notes": "Derived from #788E97 (PaintRef hex, OEM=Cadillac, code=34 (models=Deville; year=1997)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Cadillac:deville:34"
-      }
-    },
-    {
-      "code": "43",
-      "marketingName": "Majestic Teal",
-      "finish": "solid",
-      "lab": {
-        "L": 32.37,
-        "a": -6.94,
-        "b": -9.66,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #35505B (PaintRef hex, OEM=Cadillac, code=43 (models=Deville; years=1997-1998)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:Cadillac:deville:43"
-      }
-    },
-    {
-      "code": "38",
-      "marketingName": "Dark Caribe",
-      "finish": "solid",
-      "lab": {
-        "L": 23.37,
-        "a": -3.18,
-        "b": -13.09,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #243A4B (PaintRef hex, OEM=Cadillac, code=38 (models=Deville; years=1998-1999)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:Cadillac:deville:38"
-      }
-    },
-    {
-      "code": "28",
-      "marketingName": "Navy Blue",
-      "finish": "solid",
-      "lab": {
-        "L": 6.72,
-        "a": 10.5,
-        "b": -24.91,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #071236 (PaintRef hex, OEM=Cadillac, code=28 (models=Deville; year=1998)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:Cadillac:deville:28"
-      }
-    },
-    {
-      "code": "55",
-      "marketingName": "Medium Blue",
-      "finish": "solid",
-      "lab": {
-        "L": 35.58,
-        "a": -0.02,
-        "b": -17.88,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #415570 (PaintRef hex, OEM=Cadillac, code=55 (models=Deville; years=1999-2000)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:Cadillac:deville:55"
-      }
-    },
-    {
-      "code": "62",
-      "marketingName": "Dark Blue",
-      "finish": "solid",
-      "lab": {
-        "L": 17.02,
-        "a": 1.13,
-        "b": -9.22,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #242A37 (PaintRef hex, OEM=Cadillac, code=62 (models=Deville; years=2000-2001)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:Cadillac:deville:62"
       }
     },
     {
@@ -3115,23 +2333,6 @@
       }
     },
     {
-      "code": "57",
-      "marketingName": "Light Beige",
-      "finish": "solid",
-      "lab": {
-        "L": 68.42,
-        "a": 5.73,
-        "b": 6.15,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #B6A39C (PaintRef hex, OEM=Cadillac, code=57 (models=Deville; years=1992-1993)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:Cadillac:deville:57"
-      }
-    },
-    {
       "code": "69",
       "marketingName": "Rootbeer",
       "finish": "solid",
@@ -3183,23 +2384,6 @@
       }
     },
     {
-      "code": "57",
-      "marketingName": "Shale",
-      "finish": "solid",
-      "lab": {
-        "L": 74.68,
-        "a": -0.15,
-        "b": 12.47,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #C1B7A1 (PaintRef hex, OEM=Cadillac, code=57 (models=Deville; year=1996)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:Cadillac:deville:57"
-      }
-    },
-    {
       "code": "50",
       "marketingName": "Stone Beige",
       "finish": "solid",
@@ -3214,40 +2398,6 @@
         "recordedAt": "2026-04-18",
         "notes": "Derived from #B9B0A4 (PaintRef hex, OEM=Cadillac, code=50 (models=Deville; year=1997)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Cadillac:deville:50"
-      }
-    },
-    {
-      "code": "83",
-      "marketingName": "Light Antelope",
-      "finish": "solid",
-      "lab": {
-        "L": 75.27,
-        "a": 3.89,
-        "b": 0.25,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #C1B7B9 (PaintRef hex, OEM=Cadillac, code=83 (models=Deville; year=1998)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:Cadillac:deville:83"
-      }
-    },
-    {
-      "code": "60",
-      "marketingName": "Gold Firemist",
-      "finish": "solid",
-      "lab": {
-        "L": 51.44,
-        "a": 3.3,
-        "b": 11.61,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #887867 (PaintRef hex, OEM=Cadillac, code=60 (models=Deville; years=1999-2000)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:Cadillac:deville:60"
       }
     },
     {
@@ -3302,91 +2452,6 @@
       }
     },
     {
-      "code": "46",
-      "marketingName": "Shale Gray",
-      "finish": "solid",
-      "lab": {
-        "L": 54.73,
-        "a": 0.03,
-        "b": -1.21,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #828385 (PaintRef hex, OEM=Cadillac, code=46 (models=Deville; years=1995-1996)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:Cadillac:deville:46"
-      }
-    },
-    {
-      "code": "47",
-      "marketingName": "Medium Dark Lichen",
-      "finish": "solid",
-      "lab": {
-        "L": 35.02,
-        "a": -3.7,
-        "b": 2.68,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #4E544E (PaintRef hex, OEM=Cadillac, code=47 (models=Deville; year=1997)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:Cadillac:deville:47"
-      }
-    },
-    {
-      "code": "17",
-      "marketingName": "Silvermist",
-      "finish": "solid",
-      "lab": {
-        "L": 66.78,
-        "a": -2.03,
-        "b": -5.98,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #99A4AD (PaintRef hex, OEM=Cadillac, code=17 (models=Deville; years=1997-1998)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:Cadillac:deville:17"
-      }
-    },
-    {
-      "code": "21",
-      "marketingName": "Moonstone",
-      "finish": "solid",
-      "lab": {
-        "L": 19.22,
-        "a": 0.16,
-        "b": -7.22,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #292F39 (PaintRef hex, OEM=Cadillac, code=21 (models=Deville; year=1999)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:Cadillac:deville:21"
-      }
-    },
-    {
-      "code": "46",
-      "marketingName": "Shale",
-      "finish": "solid",
-      "lab": {
-        "L": 54.73,
-        "a": 0.03,
-        "b": -1.21,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #828385 (PaintRef hex, OEM=Cadillac, code=46 (models=Deville; year=1999)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:Cadillac:deville:46"
-      }
-    },
-    {
       "code": "76",
       "marketingName": "Dark Bronzemist",
       "finish": "solid",
@@ -3421,91 +2486,6 @@
       }
     },
     {
-      "code": "32",
-      "marketingName": "Dark Otter Gray",
-      "finish": "solid",
-      "lab": {
-        "L": 11.21,
-        "a": 6.08,
-        "b": -13.29,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #1C1C30 (PaintRef hex, OEM=Cadillac, code=32 (models=Deville; year=2002)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:Cadillac:deville:32"
-      }
-    },
-    {
-      "code": "88",
-      "marketingName": "Medium Spiral Gray",
-      "finish": "solid",
-      "lab": {
-        "L": 50.25,
-        "a": -2.27,
-        "b": -3.88,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #70797E (PaintRef hex, OEM=Cadillac, code=88 (models=Deville; years=2003-2005)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:Cadillac:deville:88"
-      }
-    },
-    {
-      "code": "18",
-      "marketingName": "Dark Green Gray",
-      "finish": "solid",
-      "lab": {
-        "L": 28.07,
-        "a": -4.37,
-        "b": -11.08,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #2F4553 (PaintRef hex, OEM=Cadillac, code=18 (models=Deville; years=1992-1993)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:Cadillac:deville:18"
-      }
-    },
-    {
-      "code": "92",
-      "marketingName": "Dark Calypso Green",
-      "finish": "solid",
-      "lab": {
-        "L": 18.46,
-        "a": -8.84,
-        "b": -6.43,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #153136 (PaintRef hex, OEM=Cadillac, code=92 (models=Deville; years=1994-1996)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:Cadillac:deville:92"
-      }
-    },
-    {
-      "code": "54",
-      "marketingName": "Light Green",
-      "finish": "solid",
-      "lab": {
-        "L": 66.43,
-        "a": -7.31,
-        "b": 8.01,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #9AA593 (PaintRef hex, OEM=Cadillac, code=54 (models=Deville; year=1996)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:Cadillac:deville:54"
-      }
-    },
-    {
       "code": "23",
       "marketingName": "Green Jewel Frost",
       "finish": "solid",
@@ -3520,40 +2500,6 @@
         "recordedAt": "2026-04-18",
         "notes": "Derived from #B4C09B (PaintRef hex, OEM=Cadillac, code=23 (models=Deville; year=2005)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Cadillac:deville:23"
-      }
-    },
-    {
-      "code": "95",
-      "marketingName": "Majestic Amethyst",
-      "finish": "solid",
-      "lab": {
-        "L": 34.39,
-        "a": 6.03,
-        "b": -5.09,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #574E59 (PaintRef hex, OEM=Cadillac, code=95 (models=Deville; years=1995-1996)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:Cadillac:deville:95"
-      }
-    },
-    {
-      "code": "76",
-      "marketingName": "Dark Garnet Red",
-      "finish": "solid",
-      "lab": {
-        "L": 10,
-        "a": 16.96,
-        "b": 6.55,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #321113 (PaintRef hex, OEM=Cadillac, code=76 (models=Deville; years=1991-1992)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:Cadillac:deville:76"
       }
     },
     {
@@ -3574,40 +2520,6 @@
       }
     },
     {
-      "code": "51",
-      "marketingName": "Dark Toreador",
-      "finish": "solid",
-      "lab": {
-        "L": 10.93,
-        "a": 14.41,
-        "b": 5.07,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #311517 (PaintRef hex, OEM=Cadillac, code=51 (models=Deville; years=1997-1998)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:Cadillac:deville:51"
-      }
-    },
-    {
-      "code": "53",
-      "marketingName": "Light Toreador",
-      "finish": "solid",
-      "lab": {
-        "L": 30.89,
-        "a": 45.39,
-        "b": 28.39,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #8C1E1F (PaintRef hex, OEM=Cadillac, code=53 (models=Deville; years=1997-1998)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:Cadillac:deville:53"
-      }
-    },
-    {
       "code": "06",
       "marketingName": "Light Medici Red",
       "finish": "solid",
@@ -3621,23 +2533,6 @@
         "confidence": "derived",
         "recordedAt": "2026-04-18",
         "notes": "Derived from #4E1B27 (PaintRef hex, OEM=Cadillac, code=06 (models=Deville; year=1999)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:Cadillac:deville:06"
-      }
-    },
-    {
-      "code": "06",
-      "marketingName": "Light Mediumici Red",
-      "finish": "solid",
-      "lab": {
-        "L": 18.15,
-        "a": 25.28,
-        "b": 4.35,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #4E1B27 (PaintRef hex, OEM=Cadillac, code=06 (models=Deville; year=2000)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Cadillac:deville:06"
       }
     },
@@ -3659,23 +2554,6 @@
       }
     },
     {
-      "code": "80",
-      "marketingName": "Red",
-      "finish": "solid",
-      "lab": {
-        "L": 23.98,
-        "a": 38.8,
-        "b": 22.18,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #70161A (PaintRef hex, OEM=Cadillac, code=80 (models=Deville; year=2000)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:Cadillac:deville:80"
-      }
-    },
-    {
       "code": "16",
       "marketingName": "Bright White",
       "finish": "solid",
@@ -3690,57 +2568,6 @@
         "recordedAt": "2026-04-18",
         "notes": "Derived from #EBF2EB (PaintRef hex, OEM=Cadillac, code=16 (models=Deville; years=1997-1998)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Cadillac:deville:16"
-      }
-    },
-    {
-      "code": "78",
-      "marketingName": "White Diamond",
-      "finish": "solid",
-      "lab": {
-        "L": 94.45,
-        "a": 0,
-        "b": 0,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #EFEFEF (PaintRef hex, OEM=Cadillac, code=78 (models=Deville; years=1997-1998)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:Cadillac:deville:78"
-      }
-    },
-    {
-      "code": "93",
-      "marketingName": "White Gold Pearl",
-      "finish": "solid",
-      "lab": {
-        "L": 95.52,
-        "a": -3.48,
-        "b": 17.14,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #F9F3D1 (PaintRef hex, OEM=Cadillac, code=93 (models=Deville; year=2004)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:Cadillac:deville:93"
-      }
-    },
-    {
-      "code": "93",
-      "marketingName": "White Gold",
-      "finish": "solid",
-      "lab": {
-        "L": 95.52,
-        "a": -3.48,
-        "b": 17.14,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #F9F3D1 (PaintRef hex, OEM=Cadillac, code=93 (models=Deville; year=2005)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:Cadillac:deville:93"
       }
     }
   ]

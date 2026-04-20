@@ -1,0 +1,24 @@
+{
+  "$schema": "../../../schemas/exterior-paints-v1.schema.json",
+  "scopeId": "alpine-curated-v1",
+  "version": "1.0.0",
+  "paints": [
+    {
+      "code": "RQB",
+      "marketingName": "Alpine Blue",
+      "finish": "metallic",
+      "lab": {
+        "L": 49.69,
+        "a": 17.44,
+        "b": -62.86,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "hex_derived",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Derived from #2673E2. Alternate code RENRQB. Sporty cobalt blue metallic with high-brilliance flake.",
+        "provenanceId": "lacca:user-curated:alpine:Alpine-Blue-RQB"
+      }
+    }
+  ]
+}

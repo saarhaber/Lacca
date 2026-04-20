@@ -16,7 +16,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2004-Volvo.html). Image data/sources/autocolorlibrary/pages/2004-volvo/2004-Volvo-pg01.jpg; bbox 399,186 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈45; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2004-Volvo.html). Image data/sources/autocolorlibrary/pages/2004-volvo/2004-Volvo-pg01.jpg; bbox 399,186 150\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224845; verify chip alignment.",
         "provenanceId": "acl:volvo:2004:B06:399,186,150x210"
       }
     },
@@ -33,7 +33,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2013-Volvo.html). Image data/sources/autocolorlibrary/pages/2013-volvo/2013-Volvo-pg01.jpg; bbox 695,2107 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈91; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2013-Volvo.html). Image data/sources/autocolorlibrary/pages/2013-volvo/2013-Volvo-pg01.jpg; bbox 695,2107 150\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224891; verify chip alignment.",
         "provenanceId": "acl:volvo:2013:C30:695,2107,150x210"
       }
     },
@@ -50,7 +50,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2013-Volvo.html). Image data/sources/autocolorlibrary/pages/2013-volvo/2013-Volvo-pg01.jpg; bbox 1926,409 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈58; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2013-Volvo.html). Image data/sources/autocolorlibrary/pages/2013-volvo/2013-Volvo-pg01.jpg; bbox 1926,409 150\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224858; verify chip alignment.",
         "provenanceId": "acl:volvo:2013:C70:1926,409,150x210"
       }
     },
@@ -67,7 +67,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Volvo.html). Image data/sources/autocolorlibrary/pages/2019-volvo/2019_Volvo_01.jpg; bbox 276,2842 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈93; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Volvo.html). Image data/sources/autocolorlibrary/pages/2019-volvo/2019_Volvo_01.jpg; bbox 276,2842 150\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224893; verify chip alignment.",
         "provenanceId": "acl:volvo:2019:S60:276,2842,150x210"
       }
     },
@@ -84,7 +84,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2013-Volvo.html). Image data/sources/autocolorlibrary/pages/2013-volvo/2013-Volvo-pg01.jpg; bbox 1932,2102 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈90; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2013-Volvo.html). Image data/sources/autocolorlibrary/pages/2013-volvo/2013-Volvo-pg01.jpg; bbox 1932,2102 150\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224890; verify chip alignment.",
         "provenanceId": "acl:volvo:2013:S80:1932,2102,150x210"
       }
     },
@@ -101,7 +101,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Volvo.html). Image data/sources/autocolorlibrary/pages/2019-volvo/2019_Volvo_01.jpg; bbox 394,242 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈0; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Volvo.html). Image data/sources/autocolorlibrary/pages/2019-volvo/2019_Volvo_01.jpg; bbox 394,242 150\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u22480; verify chip alignment.",
         "provenanceId": "acl:volvo:2019:S90:394,242,150x210"
       }
     },
@@ -118,7 +118,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2018-Volvo.html). Image data/sources/autocolorlibrary/pages/2018-volvo/2018-Volvo-pg01.jpg; bbox 382,907 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈79; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2018-Volvo.html). Image data/sources/autocolorlibrary/pages/2018-volvo/2018-Volvo-pg01.jpg; bbox 382,907 150\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224879; verify chip alignment.",
         "provenanceId": "acl:volvo:2018:V60:382,907,150x210"
       }
     },
@@ -135,7 +135,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2010-Volvo.html). Image data/sources/autocolorlibrary/pages/2010-volvo/2010-Volvo-pg01.jpg; bbox 1510,1534 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈63; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2010-Volvo.html). Image data/sources/autocolorlibrary/pages/2010-volvo/2010-Volvo-pg01.jpg; bbox 1510,1534 150\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224863; verify chip alignment.",
         "provenanceId": "acl:volvo:2010:V70:1510,1534,150x210"
       }
     },
@@ -152,7 +152,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Volvo.html). Image data/sources/autocolorlibrary/pages/2019-volvo/2019_Volvo_01.jpg; bbox 1213,242 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈45; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Volvo.html). Image data/sources/autocolorlibrary/pages/2019-volvo/2019_Volvo_01.jpg; bbox 1213,242 150\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224845; verify chip alignment.",
         "provenanceId": "acl:volvo:2019:V90:1213,242,150x210"
       }
     },
@@ -169,7 +169,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2015-Volvo.html). Image data/sources/autocolorlibrary/pages/2015-volvo/2015-Volvo-pg02.jpg; bbox 281,2104 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈93; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2015-Volvo.html). Image data/sources/autocolorlibrary/pages/2015-volvo/2015-Volvo-pg02.jpg; bbox 281,2104 150\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224893; verify chip alignment.",
         "provenanceId": "acl:volvo:2015:XC60:281,2104,150x210"
       }
     },
@@ -186,7 +186,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2015-Volvo.html). Image data/sources/autocolorlibrary/pages/2015-volvo/2015-Volvo-pg02.jpg; bbox 1188,2954 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈80; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2015-Volvo.html). Image data/sources/autocolorlibrary/pages/2015-volvo/2015-Volvo-pg02.jpg; bbox 1188,2954 150\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224880; verify chip alignment.",
         "provenanceId": "acl:volvo:2015:XC70:1188,2954,150x210"
       }
     },
@@ -203,7 +203,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Volvo.html). Image data/sources/autocolorlibrary/pages/2019-volvo/2019_Volvo_01.jpg; bbox 1203,2840 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈75; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Volvo.html). Image data/sources/autocolorlibrary/pages/2019-volvo/2019_Volvo_01.jpg; bbox 1203,2840 150\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224875; verify chip alignment.",
         "provenanceId": "acl:volvo:2019:XC90:1203,2840,150x210"
       }
     },
@@ -220,8 +220,25 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2008-Volvo.html). Image data/sources/autocolorlibrary/pages/2008-volvo/2008-Volvo-pg01.jpg; bbox 511,2922 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈65; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2008-Volvo.html). Image data/sources/autocolorlibrary/pages/2008-volvo/2008-Volvo-pg01.jpg; bbox 511,2922 150\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224865; verify chip alignment.",
         "provenanceId": "acl:volvo:2008:XC90V:511,2922,150x210"
+      }
+    },
+    {
+      "code": "619",
+      "marketingName": "Rebel Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 64.58,
+        "a": -13.78,
+        "b": -37.53,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "hex_derived",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Derived from #2DA7DF. Iconic Polestar cyan, pure bright sky blue with near-zero red.",
+        "provenanceId": "lacca:user-curated:volvo:Rebel-Blue-619"
       }
     }
   ]

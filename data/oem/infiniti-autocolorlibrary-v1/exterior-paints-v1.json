@@ -16,7 +16,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2016-Infiniti.html). Image data/sources/autocolorlibrary/pages/2016-infiniti/2016-Infiniti-pg02.jpg; bbox 272,336 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈93; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2016-Infiniti.html). Image data/sources/autocolorlibrary/pages/2016-infiniti/2016-Infiniti-pg02.jpg; bbox 272,336 150\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224893; verify chip alignment.",
         "provenanceId": "acl:infiniti:2016:A20:272,336,150x210"
       }
     },
@@ -33,7 +33,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2016-Infiniti.html). Image data/sources/autocolorlibrary/pages/2016-infiniti/2016-Infiniti-pg02.jpg; bbox 687,340 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈66; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2016-Infiniti.html). Image data/sources/autocolorlibrary/pages/2016-infiniti/2016-Infiniti-pg02.jpg; bbox 687,340 150\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224866; verify chip alignment.",
         "provenanceId": "acl:infiniti:2016:A54:687,340,150x210"
       }
     },
@@ -50,7 +50,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2016-Infiniti.html). Image data/sources/autocolorlibrary/pages/2016-infiniti/2016-Infiniti-pg02.jpg; bbox 1099,340 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈96; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2016-Infiniti.html). Image data/sources/autocolorlibrary/pages/2016-infiniti/2016-Infiniti-pg02.jpg; bbox 1099,340 150\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224896; verify chip alignment.",
         "provenanceId": "acl:infiniti:2016:B17:1099,340,150x210"
       }
     },
@@ -67,7 +67,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2013-Infiniti.html). Image data/sources/autocolorlibrary/pages/2013-infiniti/2013-Infiniti-pg02.jpg; bbox 1108,347 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈97; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2013-Infiniti.html). Image data/sources/autocolorlibrary/pages/2013-infiniti/2013-Infiniti-pg02.jpg; bbox 1108,347 150\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224897; verify chip alignment.",
         "provenanceId": "acl:infiniti:2013:B20:1108,347,150x210"
       }
     },
@@ -84,7 +84,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2013-Infiniti.html). Image data/sources/autocolorlibrary/pages/2013-infiniti/2013-Infiniti-pg02.jpg; bbox 1520,347 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈97; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2013-Infiniti.html). Image data/sources/autocolorlibrary/pages/2013-infiniti/2013-Infiniti-pg02.jpg; bbox 1520,347 150\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224897; verify chip alignment.",
         "provenanceId": "acl:infiniti:2013:B23:1520,347,150x210"
       }
     },
@@ -101,7 +101,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2013-Infiniti.html). Image data/sources/autocolorlibrary/pages/2013-infiniti/2013-Infiniti-pg02.jpg; bbox 1106,2603 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈92; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2013-Infiniti.html). Image data/sources/autocolorlibrary/pages/2013-infiniti/2013-Infiniti-pg02.jpg; bbox 1106,2603 150\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224892; verify chip alignment.",
         "provenanceId": "acl:infiniti:2013:K13:1106,2603,150x210"
       }
     },
@@ -118,7 +118,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2015-Infiniti.html). Image data/sources/autocolorlibrary/pages/2015-infiniti/2015-Infiniti-pg02.jpg; bbox 694,2601 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈93; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2015-Infiniti.html). Image data/sources/autocolorlibrary/pages/2015-infiniti/2015-Infiniti-pg02.jpg; bbox 694,2601 150\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224893; verify chip alignment.",
         "provenanceId": "acl:infiniti:2015:K23:694,2601,150x210"
       }
     },
@@ -135,7 +135,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2015-Infiniti.html). Image data/sources/autocolorlibrary/pages/2015-infiniti/2015-Infiniti-pg02.jpg; bbox 1107,2600 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈92; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2015-Infiniti.html). Image data/sources/autocolorlibrary/pages/2015-infiniti/2015-Infiniti-pg02.jpg; bbox 1107,2600 150\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224892; verify chip alignment.",
         "provenanceId": "acl:infiniti:2015:K26:1107,2600,150x210"
       }
     },
@@ -152,7 +152,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2015-Infiniti.html). Image data/sources/autocolorlibrary/pages/2015-infiniti/2015-Infiniti-pg02.jpg; bbox 1519,2599 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈92; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2015-Infiniti.html). Image data/sources/autocolorlibrary/pages/2015-infiniti/2015-Infiniti-pg02.jpg; bbox 1519,2599 150\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224892; verify chip alignment.",
         "provenanceId": "acl:infiniti:2015:K36:1519,2599,150x210"
       }
     },
@@ -169,7 +169,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2013-Infiniti.html). Image data/sources/autocolorlibrary/pages/2013-infiniti/2013-Infiniti-pg03.jpg; bbox 778,345 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈93; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2013-Infiniti.html). Image data/sources/autocolorlibrary/pages/2013-infiniti/2013-Infiniti-pg03.jpg; bbox 778,345 150\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224893; verify chip alignment.",
         "provenanceId": "acl:infiniti:2013:K50:778,345,150x210"
       }
     },
@@ -186,7 +186,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2013-Infiniti.html). Image data/sources/autocolorlibrary/pages/2013-infiniti/2013-Infiniti-pg03.jpg; bbox 1189,345 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈89; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2013-Infiniti.html). Image data/sources/autocolorlibrary/pages/2013-infiniti/2013-Infiniti-pg03.jpg; bbox 1189,345 150\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224889; verify chip alignment.",
         "provenanceId": "acl:infiniti:2013:K51:1189,345,150x210"
       }
     },
@@ -203,7 +203,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2015-Infiniti.html). Image data/sources/autocolorlibrary/pages/2015-infiniti/2015-Infiniti-pg02.jpg; bbox 1931,2598 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈92; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2015-Infiniti.html). Image data/sources/autocolorlibrary/pages/2015-infiniti/2015-Infiniti-pg02.jpg; bbox 1931,2598 150\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224892; verify chip alignment.",
         "provenanceId": "acl:infiniti:2015:K52:1931,2598,150x210"
       }
     },
@@ -220,7 +220,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2016-Infiniti.html). Image data/sources/autocolorlibrary/pages/2016-infiniti/2016-Infiniti-pg03.jpg; bbox 771,2951 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈52; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2016-Infiniti.html). Image data/sources/autocolorlibrary/pages/2016-infiniti/2016-Infiniti-pg03.jpg; bbox 771,2951 150\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224852; verify chip alignment.",
         "provenanceId": "acl:infiniti:2016:Q50:771,2951,150x210"
       }
     },
@@ -237,7 +237,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2016-Infiniti.html). Image data/sources/autocolorlibrary/pages/2016-infiniti/2016-Infiniti-pg03.jpg; bbox 994,2951 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈91; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2016-Infiniti.html). Image data/sources/autocolorlibrary/pages/2016-infiniti/2016-Infiniti-pg03.jpg; bbox 994,2951 150\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224891; verify chip alignment.",
         "provenanceId": "acl:infiniti:2016:QX50:994,2951,150x210"
       }
     },
@@ -254,7 +254,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2015-Infiniti.html). Image data/sources/autocolorlibrary/pages/2015-infiniti/2015-Infiniti-pg03.jpg; bbox 2019,982 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈82; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2015-Infiniti.html). Image data/sources/autocolorlibrary/pages/2015-infiniti/2015-Infiniti-pg03.jpg; bbox 2019,982 150\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224882; verify chip alignment.",
         "provenanceId": "acl:infiniti:2015:QX60:2019,982,150x210"
       }
     },
@@ -271,8 +271,25 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2016-Infiniti.html). Image data/sources/autocolorlibrary/pages/2016-infiniti/2016-Infiniti-pg03.jpg; bbox 1627,2949 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈87; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2016-Infiniti.html). Image data/sources/autocolorlibrary/pages/2016-infiniti/2016-Infiniti-pg03.jpg; bbox 1627,2949 150\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224887; verify chip alignment.",
         "provenanceId": "acl:infiniti:2016:QX80:1627,2949,150x210"
+      }
+    },
+    {
+      "code": "QAB",
+      "marketingName": "Majestic White",
+      "finish": "pearl",
+      "lab": {
+        "L": 95.42,
+        "a": -0.33,
+        "b": -0.12,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "hex_derived",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Derived from #F1F2F2. Alternate code XBJ. Three-stage white pearl with silk-like glow.",
+        "provenanceId": "lacca:user-curated:infiniti:Majestic-White-QAB"
       }
     }
   ]

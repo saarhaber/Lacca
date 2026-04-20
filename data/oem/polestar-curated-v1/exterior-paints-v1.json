@@ -1,0 +1,103 @@
+{
+  "$schema": "../../../schemas/exterior-paints-v1.schema.json",
+  "scopeId": "polestar-curated-v1",
+  "version": "1.0.0",
+  "paints": [
+    {
+      "code": "71600",
+      "marketingName": "Snow",
+      "finish": "metallic",
+      "lab": {
+        "L": 90.79,
+        "a": 0.65,
+        "b": 2.42,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "hex_derived",
+        "confidence": "derived",
+        "recordedAt": "2026-04-20",
+        "notes": "Derived from #E8E4E0 (hex_derived). Replace with spectro LAB before production claims."
+      }
+    },
+    {
+      "code": "71500",
+      "marketingName": "Space",
+      "finish": "metallic",
+      "lab": {
+        "L": 11.91,
+        "a": 1.04,
+        "b": -2.71,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "hex_derived",
+        "confidence": "derived",
+        "recordedAt": "2026-04-20",
+        "notes": "Derived from #1F1F23 (hex_derived). Replace with spectro LAB before production claims."
+      }
+    },
+    {
+      "code": "71700",
+      "marketingName": "Midnight",
+      "finish": "metallic",
+      "lab": {
+        "L": 10.56,
+        "a": 5.42,
+        "b": -12.86,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "hex_derived",
+        "confidence": "derived",
+        "recordedAt": "2026-04-20",
+        "notes": "Derived from #1A1B2E (hex_derived). Replace with spectro LAB before production claims."
+      }
+    },
+    {
+      "code": "72600",
+      "marketingName": "Thunder",
+      "finish": "metallic",
+      "lab": {
+        "L": 33.02,
+        "a": -0.22,
+        "b": -4.09,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "hex_derived",
+        "confidence": "derived",
+        "recordedAt": "2026-04-20",
+        "notes": "Derived from #4A4E54 (hex_derived). Replace with spectro LAB before production claims."
+      }
+    },
+    {
+      "code": "72500",
+      "marketingName": "Magnesium",
+      "finish": "metallic",
+      "lab": {
+        "L": 65.02,
+        "a": -0.09,
+        "b": -2.98,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "hex_derived",
+        "confidence": "derived",
+        "recordedAt": "2026-04-20",
+        "notes": "Derived from #9B9EA3 (hex_derived). Replace with spectro LAB before production claims."
+      }
+    },
+    {
+      "code": "72300",
+      "marketingName": "Moon",
+      "finish": "metallic",
+      "lab": {
+        "L": 77.5,
+        "a": -0.7,
+        "b": 12.74,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "hex_derived",
+        "confidence": "derived",
+        "recordedAt": "2026-04-20",
+        "notes": "Derived from #C8BFA8 (hex_derived). Replace with spectro LAB before production claims."
+      }
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+[
+  {
+    "oem": "Isuzu",
+    "modelYear": 2004,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2004-Isuzu.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2004-isuzu/2004-Isuzu-pg01.jpg",
+    "bbox": {
+      "x": 78,
+      "y": 545,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#F9F9F9",
+    "code": "190/920",
+    "marketingName": "Factory color 190/920",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈62; verify chip alignment."
+  },
+  {
+    "oem": "Isuzu",
+    "modelYear": 2005,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2005-Isuzu.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2005-isuzu/2005-Isuzu-pg01.jpg",
+    "bbox": {
+      "x": 104,
+      "y": 313,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#FBFAFB",
+    "code": "150/925",
+    "marketingName": "Factory color 150/925",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈58; verify chip alignment."
+  }
+]

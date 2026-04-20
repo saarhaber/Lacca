@@ -289,10 +289,11 @@ const en: TranslationKeys = {
 
   "footer.text": `The make/model list is pulled live from the free
     <a href="https://vpic.nhtsa.dot.gov/api/" target="_blank" rel="noopener">NHTSA vPIC</a>
-    vehicle database. Named paint coverage: <strong>Tesla Model 3 / Model Y</strong> and
-    <strong>BMW X-line (X1–X7, iX, XM)</strong> for North America, 2020–2026. Every other
-    make/model falls back to a <strong>generic hex-derived palette</strong> so matching is
-    universal but approximate outside the named OEMs — look for the <em>generic</em> badge.`,
+    vehicle database. Lacca carries factory paint data for <strong>80+ automakers</strong>
+    across PaintRef catalogs, Auto Color Library swatches, and curated references — check the
+    confidence badge on each match to see how the LAB value was sourced. Makes without
+    factory paint data fall back to a <strong>generic hex-derived palette</strong> so matching
+    stays universal — look for the <em>generic</em> badge.`,
 };
 
 const es: TranslationKeys = {
@@ -412,9 +413,10 @@ const es: TranslationKeys = {
 
   "footer.text": `La lista de marcas/modelos se obtiene en vivo de la base de datos gratuita
     <a href="https://vpic.nhtsa.dot.gov/api/" target="_blank" rel="noopener">NHTSA vPIC</a>.
-    Cobertura nombrada: <strong>Tesla Model 3 / Model Y</strong> y
-    <strong>BMW X-line (X1–X7, iX, XM)</strong> para Norteamérica, 2020–2026.
-    Todos los demás modelos usan una <strong>paleta genérica derivada de HEX</strong>.`,
+    Lacca cuenta con datos de pintura de fábrica para <strong>más de 80 fabricantes</strong>
+    desde catálogos PaintRef, Auto Color Library y referencias curadas — revisa el distintivo
+    de confianza en cada coincidencia. Los modelos sin datos de fábrica usan una
+    <strong>paleta genérica derivada de HEX</strong> — busca la insignia <em>generic</em>.`,
 };
 
 const fr: TranslationKeys = {
@@ -534,9 +536,11 @@ const fr: TranslationKeys = {
 
   "footer.text": `La liste marques/modèles est extraite en direct de la base de données gratuite
     <a href="https://vpic.nhtsa.dot.gov/api/" target="_blank" rel="noopener">NHTSA vPIC</a>.
-    Couverture nommée : <strong>Tesla Model 3 / Model Y</strong> et
-    <strong>BMW X-line (X1–X7, iX, XM)</strong> pour l'Amérique du Nord, 2020–2026.
-    Tous les autres modèles utilisent une <strong>palette générique dérivée HEX</strong>.`,
+    Lacca intègre des données de peinture d'usine pour <strong>plus de 80 constructeurs</strong>
+    issues des catalogues PaintRef, des échantillons Auto Color Library et de références
+    conservées — consultez l'indicateur de confiance de chaque résultat. Les modèles sans
+    données d'usine utilisent une <strong>palette générique dérivée HEX</strong> — repérez
+    la mention <em>generic</em>.`,
 };
 
 const de: TranslationKeys = {
@@ -655,9 +659,10 @@ const de: TranslationKeys = {
 
   "footer.text": `Die Marken-/Modellliste wird live aus der kostenlosen
     <a href="https://vpic.nhtsa.dot.gov/api/" target="_blank" rel="noopener">NHTSA vPIC</a>-Datenbank abgerufen.
-    Benannte Lackabdeckung: <strong>Tesla Model 3 / Model Y</strong> und
-    <strong>BMW X-line (X1–X7, iX, XM)</strong> für Nordamerika, 2020–2026.
-    Alle anderen Modelle nutzen eine <strong>generische HEX-abgeleitete Palette</strong>.`,
+    Lacca enthält Werkslack-Daten für <strong>über 80 Automobilhersteller</strong> — aus
+    PaintRef-Katalogen, Auto Color Library-Mustern und kuratierten Referenzen. Prüfen Sie das
+    Vertrauens-Badge jeder Übereinstimmung. Modelle ohne Werksdaten nutzen eine
+    <strong>generische HEX-abgeleitete Palette</strong> — erkennbar am <em>generic</em>-Badge.`,
 };
 
 const it: TranslationKeys = {
@@ -778,9 +783,10 @@ const it: TranslationKeys = {
 
   "footer.text": `La lista marche/modelli è ottenuta in tempo reale dal database gratuito
     <a href="https://vpic.nhtsa.dot.gov/api/" target="_blank" rel="noopener">NHTSA vPIC</a>.
-    Copertura nominata: <strong>Tesla Model 3 / Model Y</strong> e
-    <strong>BMW X-line (X1–X7, iX, XM)</strong> per il Nord America, 2020–2026.
-    Tutti gli altri modelli usano una <strong>palette generica derivata da HEX</strong>.`,
+    Lacca dispone di dati di vernice di fabbrica per <strong>oltre 80 case automobilistiche</strong>
+    da cataloghi PaintRef, campioni Auto Color Library e riferimenti curati — controlla il badge
+    di confidenza di ogni match. I modelli senza dati di fabbrica usano una
+    <strong>palette generica derivata da HEX</strong> — cerca il badge <em>generic</em>.`,
 };
 
 const pt: TranslationKeys = {
@@ -901,9 +907,10 @@ const pt: TranslationKeys = {
 
   "footer.text": `A lista de marcas/modelos é obtida em tempo real do banco de dados gratuito
     <a href="https://vpic.nhtsa.dot.gov/api/" target="_blank" rel="noopener">NHTSA vPIC</a>.
-    Cobertura nomeada: <strong>Tesla Model 3 / Model Y</strong> e
-    <strong>BMW X-line (X1–X7, iX, XM)</strong> para a América do Norte, 2020–2026.
-    Todos os outros modelos usam uma <strong>paleta genérica derivada de HEX</strong>.`,
+    Lacca inclui dados de tinta de fábrica para <strong>mais de 80 montadoras</strong>
+    de catálogos PaintRef, amostras Auto Color Library e referências curadas — confira o
+    distintivo de confiança em cada correspondência. Modelos sem dados de fábrica usam uma
+    <strong>paleta genérica derivada de HEX</strong> — procure o distintivo <em>generic</em>.`,
 };
 
 const ja: TranslationKeys = {
@@ -1021,9 +1028,10 @@ const ja: TranslationKeys = {
   "footer.text": `メーカー/モデルリストは無料の
     <a href="https://vpic.nhtsa.dot.gov/api/" target="_blank" rel="noopener">NHTSA vPIC</a>
     データベースからリアルタイムで取得しています。
-    測定済みペイント対応: <strong>Tesla Model 3 / Model Y</strong> および
-    <strong>BMW X-line (X1–X7, iX, XM)</strong>（北米、2020–2026年）。
-    その他すべてのモデルは<strong>汎用HEX変換パレット</strong>を使用します。`,
+    Laccaは<strong>80社以上の自動車メーカー</strong>の工場塗装データを搭載しており、
+    PaintRefカタログ、Auto Color Library サンプル、キュレーション済みリファレンスを利用しています。
+    各マッチの信頼度バッジを確認してください。工場データがないモデルは
+    <strong>汎用HEX変換パレット</strong>を使用します — <em>generic</em> バッジを目印にしてください。`,
 };
 
 const zh: TranslationKeys = {
@@ -1138,9 +1146,9 @@ const zh: TranslationKeys = {
 
   "footer.text": `品牌/型号列表实时从免费的
     <a href="https://vpic.nhtsa.dot.gov/api/" target="_blank" rel="noopener">NHTSA vPIC</a>
-    车辆数据库获取。已命名漆色覆盖：<strong>Tesla Model 3 / Model Y</strong> 和
-    <strong>BMW X-line（X1–X7, iX, XM）</strong>（北美地区，2020–2026年）。
-    所有其他型号使用<strong>通用HEX转换调色板</strong>。`,
+    车辆数据库获取。Lacca已收录<strong>80多家汽车制造商</strong>的工厂漆色数据，
+    来源包括 PaintRef 目录、Auto Color Library 色板和精选参考 — 请查看每个匹配结果的置信度标签。
+    缺少工厂数据的型号将使用<strong>通用HEX转换调色板</strong> — 请关注 <em>generic</em> 标签。`,
 };
 
 const ko: TranslationKeys = {
@@ -1258,9 +1266,10 @@ const ko: TranslationKeys = {
   "footer.text": `제조사/모델 목록은 무료
     <a href="https://vpic.nhtsa.dot.gov/api/" target="_blank" rel="noopener">NHTSA vPIC</a>
     차량 데이터베이스에서 실시간으로 가져옵니다.
-    지정 페인트 지원: <strong>Tesla Model 3 / Model Y</strong> 및
-    <strong>BMW X-line (X1–X7, iX, XM)</strong> (북미, 2020–2026).
-    기타 모든 모델은 <strong>범용 HEX 변환 팔레트</strong>를 사용합니다.`,
+    Lacca는 <strong>80여 개 자동차 제조사</strong>의 공장 도장 데이터를 보유하고 있으며
+    PaintRef 카탈로그, Auto Color Library 샘플, 큐레이션 참조에서 수집되었습니다 —
+    각 매칭의 신뢰도 배지를 확인하세요. 공장 데이터가 없는 모델은
+    <strong>범용 HEX 변환 팔레트</strong>를 사용합니다 — <em>generic</em> 배지를 찾아보세요.`,
 };
 
 const he: TranslationKeys = {
@@ -1372,9 +1381,10 @@ const he: TranslationKeys = {
     "SKU הוא קוד מוצר ייחודי לגוון יחיד. הקטלוג מאגד SKU-ים רבים עם אותה גרסה ותנאי מדידה משותפים.",
   "footer.text": `רשימת היצרנים והדגמים נטענת בזמן אמת ממאגר הרכב החינמי של
     <a href="https://vpic.nhtsa.dot.gov/api/" target="_blank" rel="noopener">NHTSA vPIC</a>.
-    כיסוי צבעים ממותג כולל: <strong>Tesla Model 3 / Model Y</strong> ו-
-    <strong>BMW X-line (X1–X7, iX, XM)</strong> לצפון אמריקה, 2020–2026.
-    כל יצרן/דגם אחר נופל לפלטה כללית שנגזרת מ-HEX, לכן ההתאמה אוניברסלית אך מקורבת מחוץ ל-OEM-ים הנתמכים — חפשו את תג <em>generic</em>.`
+    Lacca כוללת נתוני צבע מפעל עבור <strong>למעלה מ-80 יצרני רכב</strong> מקטלוגי PaintRef,
+    דגימות Auto Color Library ומקורות שנבחרו ידנית — בדקו את תג הביטחון של כל התאמה.
+    דגמים ללא נתוני מפעל משתמשים ב<strong>פלטה כללית שנגזרת מ-HEX</strong> —
+    חפשו את תג <em>generic</em>.`
 };
 
 export const SUPPORTED_LOCALES: Locale[] = [

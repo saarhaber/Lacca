@@ -1,0 +1,308 @@
+[
+  {
+    "oem": "Subaru",
+    "modelYear": 2010,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2010-Subaru.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2010-subaru/2010-Subaru-pg01.jpg",
+    "bbox": {
+      "x": 597,
+      "y": 2703,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#C9C3CA",
+    "code": "B21",
+    "marketingName": "Factory color B21",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈51; verify chip alignment."
+  },
+  {
+    "oem": "Subaru",
+    "modelYear": 2010,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2010-Subaru.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2010-subaru/2010-Subaru-pg01.jpg",
+    "bbox": {
+      "x": 678,
+      "y": 2703,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#C3BEC4",
+    "code": "C62",
+    "marketingName": "Factory color C62",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈0; verify chip alignment."
+  },
+  {
+    "oem": "Subaru",
+    "modelYear": 2014,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2014-Subaru.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2014-subaru/2014-Subaru-pg01.jpg",
+    "bbox": {
+      "x": 1268,
+      "y": 1408,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#5C667A",
+    "code": "H10",
+    "marketingName": "Twilight Blue",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈87; verify chip alignment."
+  },
+  {
+    "oem": "Subaru",
+    "modelYear": 2014,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2014-Subaru.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2014-subaru/2014-Subaru-pg01.jpg",
+    "bbox": {
+      "x": 1681,
+      "y": 1407,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#905D66",
+    "code": "H20",
+    "marketingName": "Venetian Red",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈88; verify chip alignment."
+  },
+  {
+    "oem": "Subaru",
+    "modelYear": 2014,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2014-Subaru.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2014-subaru/2014-Subaru-pg01.jpg",
+    "bbox": {
+      "x": 29,
+      "y": 1974,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#474A52",
+    "code": "H30",
+    "marketingName": "Deep Sea Blue",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈79; verify chip alignment."
+  },
+  {
+    "oem": "Subaru",
+    "modelYear": 2014,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2014-Subaru.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2014-subaru/2014-Subaru-pg01.jpg",
+    "bbox": {
+      "x": 443,
+      "y": 1974,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#A39E9E",
+    "code": "H40",
+    "marketingName": "Burnished Bronze",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈72; verify chip alignment."
+  },
+  {
+    "oem": "Subaru",
+    "modelYear": 2014,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2014-Subaru.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2014-subaru/2014-Subaru-pg01.jpg",
+    "bbox": {
+      "x": 856,
+      "y": 1973,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#758789",
+    "code": "H50",
+    "marketingName": "Jasmine Green",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈45; verify chip alignment."
+  },
+  {
+    "oem": "Subaru",
+    "modelYear": 2015,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2015-Subaru.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2015-subaru/2015-Subaru-pg02.jpg",
+    "bbox": {
+      "x": 1108,
+      "y": 901,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#5F626E",
+    "code": "H10",
+    "marketingName": "Twilight Blue",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈85; verify chip alignment."
+  },
+  {
+    "oem": "Subaru",
+    "modelYear": 2015,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2015-Subaru.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2015-subaru/2015-Subaru-pg02.jpg",
+    "bbox": {
+      "x": 1520,
+      "y": 900,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#785052",
+    "code": "H20",
+    "marketingName": "Venetian Red",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈85; verify chip alignment."
+  },
+  {
+    "oem": "Subaru",
+    "modelYear": 2015,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2015-Subaru.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2015-subaru/2015-Subaru-pg02.jpg",
+    "bbox": {
+      "x": 1932,
+      "y": 899,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#545154",
+    "code": "H30",
+    "marketingName": "Deep Sea Blue",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈88; verify chip alignment."
+  },
+  {
+    "oem": "Subaru",
+    "modelYear": 2016,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2016-Subaru.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2016-subaru/2016-Subaru-pg02.jpg",
+    "bbox": {
+      "x": 285,
+      "y": 888,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#7C585A",
+    "code": "H20",
+    "marketingName": "Venetian Red",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈73; verify chip alignment."
+  },
+  {
+    "oem": "Subaru",
+    "modelYear": 2016,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2016-Subaru.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2016-subaru/2016-Subaru-pg02.jpg",
+    "bbox": {
+      "x": 697,
+      "y": 888,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#504D51",
+    "code": "H30",
+    "marketingName": "Deep Sea Blue",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈58; verify chip alignment."
+  },
+  {
+    "oem": "Subaru",
+    "modelYear": 2016,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2016-Subaru.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2016-subaru/2016-Subaru-pg02.jpg",
+    "bbox": {
+      "x": 1522,
+      "y": 886,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#717476",
+    "code": "H50",
+    "marketingName": "Burnished Bronze Jasmine Green",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈55; verify chip alignment."
+  },
+  {
+    "oem": "Subaru",
+    "modelYear": 2017,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2017-Subaru.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2017-subaru/2017-Subaru-pg02.jpg",
+    "bbox": {
+      "x": 702,
+      "y": 901,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#5C5D69",
+    "code": "H10",
+    "marketingName": "Twilight Blue",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈76; verify chip alignment."
+  },
+  {
+    "oem": "Subaru",
+    "modelYear": 2017,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2017-Subaru.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2017-subaru/2017-Subaru-pg02.jpg",
+    "bbox": {
+      "x": 1115,
+      "y": 900,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#7A4F50",
+    "code": "H20",
+    "marketingName": "Venetian Red",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈80; verify chip alignment."
+  },
+  {
+    "oem": "Subaru",
+    "modelYear": 2017,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2017-Subaru.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2017-subaru/2017-Subaru-pg02.jpg",
+    "bbox": {
+      "x": 1527,
+      "y": 899,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#504D50",
+    "code": "H30",
+    "marketingName": "Deep Sea Blue",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈80; verify chip alignment."
+  },
+  {
+    "oem": "Subaru",
+    "modelYear": 2018,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2018-Subaru.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2018-subaru/2018-Subaru-pg01.jpg",
+    "bbox": {
+      "x": 1643,
+      "y": 322,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#7689A5",
+    "code": "H10",
+    "marketingName": "Twilight Blue",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈88; verify chip alignment."
+  },
+  {
+    "oem": "Subaru",
+    "modelYear": 2018,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2018-Subaru.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2018-subaru/2018-Subaru-pg01.jpg",
+    "bbox": {
+      "x": 2082,
+      "y": 322,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#9B5E66",
+    "code": "H20",
+    "marketingName": "Venetian Red",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈83; verify chip alignment."
+  }
+]

@@ -1,0 +1,665 @@
+[
+  {
+    "oem": "Toyota",
+    "modelYear": 1968,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1968-Toyota.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1968-toyota/1968-toyota-pg01.jpg",
+    "bbox": {
+      "x": 36,
+      "y": 777,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#BCB5A9",
+    "code": "T1255",
+    "marketingName": "Unknown (OCR)",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈0; verify chip alignment."
+  },
+  {
+    "oem": "Toyota",
+    "modelYear": 1968,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1968-Toyota.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1968-toyota/1968-toyota-pg01.jpg",
+    "bbox": {
+      "x": 179,
+      "y": 0,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#B5AA9D",
+    "code": "T1276",
+    "marketingName": "1-332 SEMINOLE RED INDIAN RED",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈0; verify chip alignment."
+  },
+  {
+    "oem": "Toyota",
+    "modelYear": 1968,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1968-Toyota.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1968-toyota/1968-toyota-pg01.jpg",
+    "bbox": {
+      "x": 323,
+      "y": 779,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#9E9F99",
+    "code": "T1421",
+    "marketingName": "Unknown (OCR)",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈53; verify chip alignment."
+  },
+  {
+    "oem": "Toyota",
+    "modelYear": 1968,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1968-Toyota.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1968-toyota/1968-toyota-pg01.jpg",
+    "bbox": {
+      "x": 467,
+      "y": 0,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#A89C92",
+    "code": "T1424",
+    "marketingName": "APOLLO RED | BELLATRIX YELLOW CREAM OPAL",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈0; verify chip alignment."
+  },
+  {
+    "oem": "Toyota",
+    "modelYear": 1968,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1968-Toyota.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1968-toyota/1968-toyota-pg01.jpg",
+    "bbox": {
+      "x": 467,
+      "y": 393,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#B49A90",
+    "code": "T1502",
+    "marketingName": "T-450 SILVER GREY VENUS GOLD MET, T-1308 er. SATELLITE PEARL PAN WHITE",
+    "finish": "pearl",
+    "notes": "Tesseract batch: code conf≈0; verify chip alignment."
+  },
+  {
+    "oem": "Toyota",
+    "modelYear": 1968,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1968-Toyota.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1968-toyota/1968-toyota-pg01.jpg",
+    "bbox": {
+      "x": 468,
+      "y": 470,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#BCB3A3",
+    "code": "T1506",
+    "marketingName": "TASS NASSAU BEIGE MET, T-1338 PEARL MET. WHITE HELIOS RED.",
+    "finish": "pearl",
+    "notes": "Tesseract batch: code conf≈0; verify chip alignment."
+  },
+  {
+    "oem": "Toyota",
+    "modelYear": 1968,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1968-Toyota.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1968-toyota/1968-toyota-pg01.jpg",
+    "bbox": {
+      "x": 611,
+      "y": 393,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#BFB0A1",
+    "code": "T1540",
+    "marketingName": "MOONSTONE WHITE",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈0; verify chip alignment."
+  },
+  {
+    "oem": "Toyota",
+    "modelYear": 1968,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1968-Toyota.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1968-toyota/1968-toyota-pg01.jpg",
+    "bbox": {
+      "x": 611,
+      "y": 470,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#B7B2A6",
+    "code": "T1551",
+    "marketingName": "GARNET RED",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈0; verify chip alignment."
+  },
+  {
+    "oem": "Toyota",
+    "modelYear": 1968,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1968-Toyota.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1968-toyota/1968-toyota-pg01.jpg",
+    "bbox": {
+      "x": 477,
+      "y": 160,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#B6AD9B",
+    "code": "TeM453",
+    "marketingName": "uty WHITE RIVIERA BLUE JUNO GREY MET, MULETA RED",
+    "finish": "metallic",
+    "notes": "Tesseract batch: code conf≈0; verify chip alignment."
+  },
+  {
+    "oem": "Toyota",
+    "modelYear": 1969,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1969-Toyota.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1969-toyota/1969-toyota-pg04.jpg",
+    "bbox": {
+      "x": 145,
+      "y": 436,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#F5EEE7",
+    "code": "207/718",
+    "marketingName": "Unknown (OCR)",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈0; verify chip alignment."
+  },
+  {
+    "oem": "Toyota",
+    "modelYear": 1969,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1969-Toyota.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1969-toyota/1969-toyota-pg07.jpg",
+    "bbox": {
+      "x": 149,
+      "y": 291,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#F6EFE7",
+    "code": "702/165",
+    "marketingName": "2ag70M_—e12yr743. Sircon 908 Purplish 4a3sM Purpto Red",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈0; verify chip alignment."
+  },
+  {
+    "oem": "Toyota",
+    "modelYear": 1969,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1969-Toyota.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1969-toyota/1969-toyota-pg01.jpg",
+    "bbox": {
+      "x": 36,
+      "y": 777,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#BCB5A9",
+    "code": "T1255",
+    "marketingName": "Unknown (OCR)",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈0; verify chip alignment."
+  },
+  {
+    "oem": "Toyota",
+    "modelYear": 1969,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1969-Toyota.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1969-toyota/1969-toyota-pg01.jpg",
+    "bbox": {
+      "x": 179,
+      "y": 0,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#B5AA9D",
+    "code": "T1276",
+    "marketingName": "1-332 SEMINOLE RED INDIAN RED",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈0; verify chip alignment."
+  },
+  {
+    "oem": "Toyota",
+    "modelYear": 1969,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1969-Toyota.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1969-toyota/1969-toyota-pg01.jpg",
+    "bbox": {
+      "x": 323,
+      "y": 779,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#9E9F99",
+    "code": "T1421",
+    "marketingName": "Unknown (OCR)",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈53; verify chip alignment."
+  },
+  {
+    "oem": "Toyota",
+    "modelYear": 1969,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1969-Toyota.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1969-toyota/1969-toyota-pg01.jpg",
+    "bbox": {
+      "x": 467,
+      "y": 0,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#A89C92",
+    "code": "T1424",
+    "marketingName": "APOLLO RED | BELLATRIX YELLOW CREAM OPAL",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈0; verify chip alignment."
+  },
+  {
+    "oem": "Toyota",
+    "modelYear": 1969,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1969-Toyota.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1969-toyota/1969-toyota-pg01.jpg",
+    "bbox": {
+      "x": 467,
+      "y": 393,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#B49A90",
+    "code": "T1502",
+    "marketingName": "T-450 SILVER GREY VENUS GOLD MET, T-1308 er. SATELLITE PEARL PAN WHITE",
+    "finish": "pearl",
+    "notes": "Tesseract batch: code conf≈0; verify chip alignment."
+  },
+  {
+    "oem": "Toyota",
+    "modelYear": 1969,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1969-Toyota.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1969-toyota/1969-toyota-pg01.jpg",
+    "bbox": {
+      "x": 468,
+      "y": 470,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#BCB3A3",
+    "code": "T1506",
+    "marketingName": "TASS NASSAU BEIGE MET, T-1338 PEARL MET. WHITE HELIOS RED.",
+    "finish": "pearl",
+    "notes": "Tesseract batch: code conf≈0; verify chip alignment."
+  },
+  {
+    "oem": "Toyota",
+    "modelYear": 1969,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1969-Toyota.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1969-toyota/1969-toyota-pg01.jpg",
+    "bbox": {
+      "x": 611,
+      "y": 393,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#BFB0A1",
+    "code": "T1540",
+    "marketingName": "MOONSTONE WHITE",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈0; verify chip alignment."
+  },
+  {
+    "oem": "Toyota",
+    "modelYear": 1969,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1969-Toyota.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1969-toyota/1969-toyota-pg01.jpg",
+    "bbox": {
+      "x": 611,
+      "y": 470,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#B7B2A6",
+    "code": "T1551",
+    "marketingName": "GARNET RED",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈0; verify chip alignment."
+  },
+  {
+    "oem": "Toyota",
+    "modelYear": 1969,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1969-Toyota.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1969-toyota/1969-toyota-pg01.jpg",
+    "bbox": {
+      "x": 477,
+      "y": 160,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#B6AD9B",
+    "code": "TeM453",
+    "marketingName": "uty WHITE RIVIERA BLUE JUNO GREY MET, MULETA RED",
+    "finish": "metallic",
+    "notes": "Tesseract batch: code conf≈0; verify chip alignment."
+  },
+  {
+    "oem": "Toyota",
+    "modelYear": 1970,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1970-Toyota.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1970-toyota/1970-toyota-pg04.jpg",
+    "bbox": {
+      "x": 145,
+      "y": 436,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#F5EEE7",
+    "code": "207/718",
+    "marketingName": "Unknown (OCR)",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈0; verify chip alignment."
+  },
+  {
+    "oem": "Toyota",
+    "modelYear": 1970,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1970-Toyota.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1970-toyota/1970-toyota-pg07.jpg",
+    "bbox": {
+      "x": 149,
+      "y": 291,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#F6EFE7",
+    "code": "702/165",
+    "marketingName": "2ag70M_—e12yr743. Sircon 908 Purplish 4a3sM Purpto Red",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈0; verify chip alignment."
+  },
+  {
+    "oem": "Toyota",
+    "modelYear": 1971,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1971-Toyota.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1971-toyota/1971-toyota-pg04.jpg",
+    "bbox": {
+      "x": 145,
+      "y": 436,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#F5EEE7",
+    "code": "207/718",
+    "marketingName": "Unknown (OCR)",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈0; verify chip alignment."
+  },
+  {
+    "oem": "Toyota",
+    "modelYear": 1971,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1971-Toyota.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1971-toyota/1971-toyota-pg07.jpg",
+    "bbox": {
+      "x": 149,
+      "y": 291,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#F6EFE7",
+    "code": "702/165",
+    "marketingName": "2ag70M_—e12yr743. Sircon 908 Purplish 4a3sM Purpto Red",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈0; verify chip alignment."
+  },
+  {
+    "oem": "Toyota",
+    "modelYear": 1972,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1972-Toyota.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1972-toyota/1972-toyota-pg06.jpg",
+    "bbox": {
+      "x": 145,
+      "y": 436,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#F5EEE7",
+    "code": "207/718",
+    "marketingName": "Unknown (OCR)",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈0; verify chip alignment."
+  },
+  {
+    "oem": "Toyota",
+    "modelYear": 1972,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1972-Toyota.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1972-toyota/1972-toyota-pg09.jpg",
+    "bbox": {
+      "x": 149,
+      "y": 291,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#F6EFE7",
+    "code": "702/165",
+    "marketingName": "2ag70M_—e12yr743. Sircon 908 Purplish 4a3sM Purpto Red",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈0; verify chip alignment."
+  },
+  {
+    "oem": "Toyota",
+    "modelYear": 1973,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1973-Toyota.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1973-toyota/1973-toyota-pg06.jpg",
+    "bbox": {
+      "x": 145,
+      "y": 436,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#F5EEE7",
+    "code": "207/718",
+    "marketingName": "Unknown (OCR)",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈0; verify chip alignment."
+  },
+  {
+    "oem": "Toyota",
+    "modelYear": 1973,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1973-Toyota.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1973-toyota/1973-toyota-pg09.jpg",
+    "bbox": {
+      "x": 149,
+      "y": 291,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#F6EFE7",
+    "code": "702/165",
+    "marketingName": "2ag70M_—e12yr743. Sircon 908 Purplish 4a3sM Purpto Red",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈0; verify chip alignment."
+  },
+  {
+    "oem": "Toyota",
+    "modelYear": 1975,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1975-Toyota.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1975-toyota/1975-toyota-pg18.jpg",
+    "bbox": {
+      "x": 63,
+      "y": 0,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#F2E8DD",
+    "code": "020/031",
+    "marketingName": "ea Derk Brow",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈0; verify chip alignment."
+  },
+  {
+    "oem": "Toyota",
+    "modelYear": 1975,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1975-Toyota.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1975-toyota/1975-toyota-pg03.jpg",
+    "bbox": {
+      "x": 312,
+      "y": 45,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#D4D0C9",
+    "code": "G10",
+    "marketingName": "612 614 621 622 625 627 628 630 RUSTIC. NEBULA GREEN NOBLE ROYAL AQUAMARINE DEEP GREEN GREEN SPICE GOLD GOLD GREEN GREEN MET. MET. MET. GREEN DIAMOND OLIVE MET. MET, ~",
+    "finish": "metallic",
+    "notes": "Tesseract batch: code conf≈68; verify chip alignment."
+  },
+  {
+    "oem": "Toyota",
+    "modelYear": 1975,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1975-Toyota.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1975-toyota/1975-toyota-pg03.jpg",
+    "bbox": {
+      "x": 0,
+      "y": 63,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#D1CDC4",
+    "code": "TH14",
+    "marketingName": "TH15_ 1122. T3O1 7302 7303. 7308 SILVER WARM SILVER SILVER FIRE FASHION URAN BRILLIANT SHELL OPAL RED IVORY SILVER MET. MET. MET. GREEN PERSIMMON MET.",
+    "finish": "metallic",
+    "notes": "Tesseract batch: code conf≈48; verify chip alignment."
+  },
+  {
+    "oem": "Toyota",
+    "modelYear": 1976,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1976-Toyota.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1976-toyota/1976-toyota-pg08.jpg",
+    "bbox": {
+      "x": 63,
+      "y": 0,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#F2E8DD",
+    "code": "020/031",
+    "marketingName": "ea Derk Brow",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈0; verify chip alignment."
+  },
+  {
+    "oem": "Toyota",
+    "modelYear": 2003,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2003-Toyota.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2003-toyota/2003-Toyota-pg01.jpg",
+    "bbox": {
+      "x": 112,
+      "y": 303,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#F5F4F5",
+    "code": "5641/5656",
+    "marketingName": "7 ~ ~ = 064 a Pena Crista an Pea pri crystal belo etal Shine 1K Light Anthracite Petre Eran 4898 lara met clair met mat Met mat ‘his Nea Gris Luna 5539 tena Mist Met mot mot met met 16 * Pateada ‘Char",
+    "finish": "pearl",
+    "notes": "Tesseract batch: code conf≈84; verify chip alignment."
+  },
+  {
+    "oem": "Toyota",
+    "modelYear": 2003,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2003-Toyota.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2003-toyota/2003-Toyota-pg01.jpg",
+    "bbox": {
+      "x": 113,
+      "y": 569,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#F3F0F3",
+    "code": "5758/5759",
+    "marketingName": "7 Peta Ve Cristal Banco Poa lane ba Crystal ove do Shine uichsiver Mercuro Mercure Fx Fx Px Gray iis Sis met mot Met Piateado Siver Met met",
+    "finish": "metallic",
+    "notes": "Tesseract batch: code conf≈86; verify chip alignment."
+  },
+  {
+    "oem": "Toyota",
+    "modelYear": 2003,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2003-Toyota.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2003-toyota/2003-Toyota-pg01.jpg",
+    "bbox": {
+      "x": 286,
+      "y": 0,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#E3E1E0",
+    "code": "5794/5795",
+    "marketingName": "S ~ - = ot a Para viamard 90822/90826 Super Super Blane blanco Giamart White blanco White super 68 Parchment tal ‘risa Blanco 5842 Blane 105 Graphite Platoaco Met 5760 argent gato met met met 106 Cie ",
+    "finish": "metallic",
+    "notes": "Tesseract batch: code conf≈88; verify chip alignment."
+  },
+  {
+    "oem": "Toyota",
+    "modelYear": 2003,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2003-Toyota.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2003-toyota/2003-Toyota-pg01.jpg",
+    "bbox": {
+      "x": 113,
+      "y": 441,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#F6F3F5",
+    "code": "5904/5905",
+    "marketingName": "7 ~ e (65 a Pena Peta Crista Ve Cristal Banco Poa lane belo ba Crystal ove do Shine 189 Anthracite uichsiver Mercuro Mercure 5449 lara clair Fx Fx Px mat mat 102 Nea Gray iis Sis 5761 met mot Met met ",
+    "finish": "metallic",
+    "notes": "Tesseract batch: code conf≈82; verify chip alignment."
+  },
+  {
+    "oem": "Toyota",
+    "modelYear": 2016,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2016-Toyota.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2016-toyota/2016-Toyota-pg02.jpg",
+    "bbox": {
+      "x": 875,
+      "y": 2576,
+      "w": 181,
+      "h": 210
+    },
+    "hex": "#C5BFC3",
+    "code": "083/212",
+    "marketingName": "= Silver Ultrasonic Nebula Redline Lining Gray B/C Blue / Met Pri Obsidian Pri B/C B/C B/C / / Obsidian Obsidian B/C / Obsidian B/C B/C B/C",
+    "finish": "pearl",
+    "notes": "Tesseract batch: code conf≈82; verify chip alignment."
+  },
+  {
+    "oem": "Toyota",
+    "modelYear": 2016,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2016-Toyota.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2016-toyota/2016-Toyota-pg02.jpg",
+    "bbox": {
+      "x": 875,
+      "y": 2675,
+      "w": 182,
+      "h": 210
+    },
+    "hex": "#C5BFC3",
+    "code": "372/212",
+    "marketingName": "= Toyota RAV4-R4 Model Sequoia-SE Key: 4 Runner-4 Sienna-S! Avalon-A Tacoma-TA Camry-CA Tundra-TU Corolla-€0 Venza-VE Highlander-H Ultrasonic Yaris-Y Blue Land Pri Cruiser-L€ B/C / Obsidian Mirai- B/C",
+    "finish": "pearl",
+    "notes": "Tesseract batch: code conf≈66; verify chip alignment."
+  },
+  {
+    "oem": "Toyota",
+    "modelYear": 2017,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2017-Toyota.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2017-toyota/2017-Toyota-pg06.jpg",
+    "bbox": {
+      "x": 898,
+      "y": 1785,
+      "w": 181,
+      "h": 210
+    },
+    "hex": "#BAB2B4",
+    "code": "084/209",
+    "marketingName": "3R3 / 209 Barcelona Blue Vortex Red Met Pri B/C B/C / Obsidian / Black Sand B/C Pearl B/C CT",
+    "finish": "pearl",
+    "notes": "Tesseract batch: code conf≈91; verify chip alignment."
+  }
+]

@@ -1,0 +1,24 @@
+{
+  "$schema": "../../../schemas/exterior-paints-v1.schema.json",
+  "scopeId": "citroen-autocolorlibrary-v1",
+  "version": "1.0.0",
+  "paints": [
+    {
+      "code": "030",
+      "marketingName": "Factory color 030",
+      "finish": "solid",
+      "lab": {
+        "L": 93.85,
+        "a": 1.2,
+        "b": 7.5,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-20",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/1976-Citroen.html). Image data/sources/autocolorlibrary/pages/1976-citroen/1976-citroen-pg02.jpg; bbox 63,0 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈0; verify chip alignment.",
+        "provenanceId": "acl:citroen:1976:030:63,0,150x210"
+      }
+    }
+  ]
+}

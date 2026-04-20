@@ -1,0 +1,461 @@
+[
+  {
+    "oem": "Infiniti",
+    "modelYear": 2013,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2013-Infiniti.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2013-infiniti/2013-Infiniti-pg02.jpg",
+    "bbox": {
+      "x": 283,
+      "y": 347,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#AD5B67",
+    "code": "A54",
+    "marketingName": "Solid 370Z,GTR, Red B/C G",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈48; verify chip alignment."
+  },
+  {
+    "oem": "Infiniti",
+    "modelYear": 2013,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2013-Infiniti.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2013-infiniti/2013-Infiniti-pg02.jpg",
+    "bbox": {
+      "x": 696,
+      "y": 347,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#5D5A7A",
+    "code": "B17",
+    "marketingName": "6176 Metallic Blue Pearl",
+    "finish": "pearl",
+    "notes": "Tesseract batch: code conf≈96; verify chip alignment."
+  },
+  {
+    "oem": "Infiniti",
+    "modelYear": 2013,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2013-Infiniti.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2013-infiniti/2013-Infiniti-pg02.jpg",
+    "bbox": {
+      "x": 1108,
+      "y": 347,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#656164",
+    "code": "B20",
+    "marketingName": "B/C Sapphire C,J,MU Black Pearl",
+    "finish": "pearl",
+    "notes": "Tesseract batch: code conf≈97; verify chip alignment."
+  },
+  {
+    "oem": "Infiniti",
+    "modelYear": 2013,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2013-Infiniti.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2013-infiniti/2013-Infiniti-pg02.jpg",
+    "bbox": {
+      "x": 1520,
+      "y": 347,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#57545D",
+    "code": "B23",
+    "marketingName": "B/C Blue NVV Onyx Pearl B/C Tinted MU Bronze Met B/C",
+    "finish": "pearl",
+    "notes": "Tesseract batch: code conf≈97; verify chip alignment."
+  },
+  {
+    "oem": "Infiniti",
+    "modelYear": 2013,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2013-Infiniti.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2013-infiniti/2013-Infiniti-pg02.jpg",
+    "bbox": {
+      "x": 1106,
+      "y": 2603,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#817E85",
+    "code": "K13",
+    "marketingName": "— Beige P Met B/C Umbria FX Twilight Pearl B/C Gray C Pearl B/C",
+    "finish": "pearl",
+    "notes": "Tesseract batch: code conf≈92; verify chip alignment."
+  },
+  {
+    "oem": "Infiniti",
+    "modelYear": 2013,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2013-Infiniti.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2013-infiniti/2013-Infiniti-pg02.jpg",
+    "bbox": {
+      "x": 1518,
+      "y": 2603,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#B0AFB4",
+    "code": "K23",
+    "marketingName": "Brilliant Most Models Silver Met",
+    "finish": "metallic",
+    "notes": "Tesseract batch: code conf≈93; verify chip alignment."
+  },
+  {
+    "oem": "Infiniti",
+    "modelYear": 2013,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2013-Infiniti.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2013-infiniti/2013-Infiniti-pg02.jpg",
+    "bbox": {
+      "x": 1931,
+      "y": 2603,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#6B686A",
+    "code": "K26",
+    "marketingName": "B/C Night EXT Armor Pearl B/C",
+    "finish": "pearl",
+    "notes": "Tesseract batch: code conf≈92; verify chip alignment."
+  },
+  {
+    "oem": "Infiniti",
+    "modelYear": 2013,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2013-Infiniti.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2013-infiniti/2013-Infiniti-pg03.jpg",
+    "bbox": {
+      "x": 366,
+      "y": 346,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#8C8B8E",
+    "code": "K36",
+    "marketingName": "Magnetic Gray Met SV B/C",
+    "finish": "metallic",
+    "notes": "Tesseract batch: code conf≈93; verify chip alignment."
+  },
+  {
+    "oem": "Infiniti",
+    "modelYear": 2013,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2013-Infiniti.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2013-infiniti/2013-Infiniti-pg03.jpg",
+    "bbox": {
+      "x": 778,
+      "y": 345,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#605E62",
+    "code": "K50",
+    "marketingName": "Dark Slate Pearl JX,P B/C Platinum",
+    "finish": "pearl",
+    "notes": "Tesseract batch: code conf≈93; verify chip alignment."
+  },
+  {
+    "oem": "Infiniti",
+    "modelYear": 2013,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2013-Infiniti.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2013-infiniti/2013-Infiniti-pg03.jpg",
+    "bbox": {
+      "x": 1189,
+      "y": 345,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#858084",
+    "code": "K51",
+    "marketingName": "Graphite M,Q,QX,ROG Pearl B/C",
+    "finish": "pearl",
+    "notes": "Tesseract batch: code conf≈89; verify chip alignment."
+  },
+  {
+    "oem": "Infiniti",
+    "modelYear": 2013,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2013-Infiniti.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2013-infiniti/2013-Infiniti-pg03.jpg",
+    "bbox": {
+      "x": 1604,
+      "y": 344,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#636166",
+    "code": "K52",
+    "marketingName": "Blue Slate Pearl B/C G Titanium Met G,QX,V B/C",
+    "finish": "pearl",
+    "notes": "Tesseract batch: code conf≈91; verify chip alignment."
+  },
+  {
+    "oem": "Infiniti",
+    "modelYear": 2015,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2015-Infiniti.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2015-infiniti/2015-Infiniti-pg02.jpg",
+    "bbox": {
+      "x": 279,
+      "y": 344,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#AB5361",
+    "code": "A20",
+    "marketingName": "Red JS Alert B/C",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈93; verify chip alignment."
+  },
+  {
+    "oem": "Infiniti",
+    "modelYear": 2015,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2015-Infiniti.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2015-infiniti/2015-Infiniti-pg02.jpg",
+    "bbox": {
+      "x": 692,
+      "y": 344,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#AE4D5D",
+    "code": "A54",
+    "marketingName": "Solid 370Z,GTR Red B/C",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈63; verify chip alignment."
+  },
+  {
+    "oem": "Infiniti",
+    "modelYear": 2015,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2015-Infiniti.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2015-infiniti/2015-Infiniti-pg02.jpg",
+    "bbox": {
+      "x": 1104,
+      "y": 343,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#656180",
+    "code": "B17",
+    "marketingName": "6176 Metallic FS,V.XT Blue Pri 3ct Hermosa 5872 Q70,QX60,QX80 Blue Pri B/C AR,T Expresso Black Pri B/C",
+    "finish": "pearl",
+    "notes": "Tesseract batch: code conf≈96; verify chip alignment."
+  },
+  {
+    "oem": "Infiniti",
+    "modelYear": 2015,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2015-Infiniti.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2015-infiniti/2015-Infiniti-pg02.jpg",
+    "bbox": {
+      "x": 694,
+      "y": 2601,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#ACABB0",
+    "code": "K23",
+    "marketingName": "Umbria Twilight Pri B/C Brilliant Most Models Silver Met",
+    "finish": "pearl",
+    "notes": "Tesseract batch: code conf≈93; verify chip alignment."
+  },
+  {
+    "oem": "Infiniti",
+    "modelYear": 2015,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2015-Infiniti.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2015-infiniti/2015-Infiniti-pg02.jpg",
+    "bbox": {
+      "x": 1107,
+      "y": 2600,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#605D61",
+    "code": "K26",
+    "marketingName": "B/C Night EXT Armor Pri B/C",
+    "finish": "pearl",
+    "notes": "Tesseract batch: code conf≈92; verify chip alignment."
+  },
+  {
+    "oem": "Infiniti",
+    "modelYear": 2015,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2015-Infiniti.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2015-infiniti/2015-Infiniti-pg02.jpg",
+    "bbox": {
+      "x": 1519,
+      "y": 2599,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#8E8D91",
+    "code": "K36",
+    "marketingName": "Magnetic V Gray Prl",
+    "finish": "pearl",
+    "notes": "Tesseract batch: code conf≈92; verify chip alignment."
+  },
+  {
+    "oem": "Infiniti",
+    "modelYear": 2015,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2015-Infiniti.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2015-infiniti/2015-Infiniti-pg02.jpg",
+    "bbox": {
+      "x": 1931,
+      "y": 2598,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#646268",
+    "code": "K52",
+    "marketingName": "B/C Blue Slate Pri B/C",
+    "finish": "pearl",
+    "notes": "Tesseract batch: code conf≈92; verify chip alignment."
+  },
+  {
+    "oem": "Infiniti",
+    "modelYear": 2015,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2015-Infiniti.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2015-infiniti/2015-Infiniti-pg02.jpg",
+    "bbox": {
+      "x": 1099,
+      "y": 2959,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#CCC5C9",
+    "code": "QX50",
+    "marketingName": "Unknown (OCR)",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈92; verify chip alignment."
+  },
+  {
+    "oem": "Infiniti",
+    "modelYear": 2015,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2015-Infiniti.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2015-infiniti/2015-Infiniti-pg03.jpg",
+    "bbox": {
+      "x": 2019,
+      "y": 982,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#847E81",
+    "code": "QX60",
+    "marketingName": "Unknown (OCR)",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈82; verify chip alignment."
+  },
+  {
+    "oem": "Infiniti",
+    "modelYear": 2015,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2015-Infiniti.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2015-infiniti/2015-Infiniti-pg02.jpg",
+    "bbox": {
+      "x": 1732,
+      "y": 2957,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#CFC9CD",
+    "code": "QX80",
+    "marketingName": "Unknown (OCR)",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈83; verify chip alignment."
+  },
+  {
+    "oem": "Infiniti",
+    "modelYear": 2016,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2016-Infiniti.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2016-infiniti/2016-Infiniti-pg02.jpg",
+    "bbox": {
+      "x": 272,
+      "y": 336,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#AA4857",
+    "code": "A20",
+    "marketingName": "me?",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈93; verify chip alignment."
+  },
+  {
+    "oem": "Infiniti",
+    "modelYear": 2016,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2016-Infiniti.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2016-infiniti/2016-Infiniti-pg02.jpg",
+    "bbox": {
+      "x": 687,
+      "y": 340,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#AB4F5D",
+    "code": "A54",
+    "marketingName": "370Z,GTR",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈66; verify chip alignment."
+  },
+  {
+    "oem": "Infiniti",
+    "modelYear": 2016,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2016-Infiniti.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2016-infiniti/2016-Infiniti-pg02.jpg",
+    "bbox": {
+      "x": 1099,
+      "y": 340,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#565375",
+    "code": "B17",
+    "marketingName": "6176 V 5872 Q70,QX60,QX80 AR",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈96; verify chip alignment."
+  },
+  {
+    "oem": "Infiniti",
+    "modelYear": 2016,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2016-Infiniti.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2016-infiniti/2016-Infiniti-pg03.jpg",
+    "bbox": {
+      "x": 771,
+      "y": 2951,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#CAC4C6",
+    "code": "Q50",
+    "marketingName": "Unknown (OCR)",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈52; verify chip alignment."
+  },
+  {
+    "oem": "Infiniti",
+    "modelYear": 2016,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2016-Infiniti.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2016-infiniti/2016-Infiniti-pg02.jpg",
+    "bbox": {
+      "x": 803,
+      "y": 2951,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#CDC7C9",
+    "code": "QX50",
+    "marketingName": "Unknown (OCR)",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈91; verify chip alignment."
+  },
+  {
+    "oem": "Infiniti",
+    "modelYear": 2016,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2016-Infiniti.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2016-infiniti/2016-Infiniti-pg02.jpg",
+    "bbox": {
+      "x": 1436,
+      "y": 2951,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#CDC7C9",
+    "code": "QX80",
+    "marketingName": "Unknown (OCR)",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈61; verify chip alignment."
+  }
+]

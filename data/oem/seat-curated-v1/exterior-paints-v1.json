@@ -1,0 +1,24 @@
+{
+  "$schema": "../../../schemas/exterior-paints-v1.schema.json",
+  "scopeId": "seat-curated-v1",
+  "version": "1.0.0",
+  "paints": [
+    {
+      "code": "S9R",
+      "marketingName": "Nevada White",
+      "finish": "metallic",
+      "lab": {
+        "L": 92.55,
+        "a": -2.93,
+        "b": 4.98,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "hex_derived",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Derived from #E8EBE0. Alternate code 2Y2Y. Cool-toned bright white metallic with ice-silver flakes.",
+        "provenanceId": "lacca:user-curated:seat:Nevada-White-S9R"
+      }
+    }
+  ]
+}

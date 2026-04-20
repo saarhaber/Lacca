@@ -208,142 +208,6 @@
       }
     },
     {
-      "code": "668",
-      "marketingName": "Glanzschwartz",
-      "finish": "solid",
-      "lab": {
-        "L": 0,
-        "a": 0,
-        "b": 0,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #000000 (PaintRef hex, OEM=BMW, code=668 (models=B7, M3, X1, X3, X5, X6, Z4; year=2012)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:BMW:b7:668"
-      }
-    },
-    {
-      "code": "A43",
-      "marketingName": "Tiefgruen",
-      "finish": "solid",
-      "lab": {
-        "L": 32.17,
-        "a": -18.77,
-        "b": -5.64,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #175454 (PaintRef hex, OEM=BMW, code=A43 (models=B7; year=2012)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:BMW:b7:A43"
-      }
-    },
-    {
-      "code": "A52",
-      "marketingName": "Spacegrau",
-      "finish": "solid",
-      "lab": {
-        "L": 57.54,
-        "a": 4.93,
-        "b": -8.5,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #8C8899 (PaintRef hex, OEM=BMW, code=A52 (models=B7, M3, M6, X3, X5, X6; year=2012)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:BMW:b7:A52"
-      }
-    },
-    {
-      "code": "A72",
-      "marketingName": "Kaschmirsilver",
-      "finish": "solid",
-      "lab": {
-        "L": 61.84,
-        "a": 0.17,
-        "b": 4.21,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #99958E (PaintRef hex, OEM=BMW, code=A72 (models=B7, X1; year=2012)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:BMW:b7:A72"
-      }
-    },
-    {
-      "code": "A84",
-      "marketingName": "Milanobeige",
-      "finish": "solid",
-      "lab": {
-        "L": 84.95,
-        "a": 0.75,
-        "b": 9.15,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #DDD3C3 (PaintRef hex, OEM=BMW, code=A84 (models=B7; year=2012)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:BMW:b7:A84"
-      }
-    },
-    {
-      "code": "A89",
-      "marketingName": "Imperialblau",
-      "finish": "solid",
-      "lab": {
-        "L": 22.89,
-        "a": 13.56,
-        "b": -21,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #3A3156 (PaintRef hex, OEM=BMW, code=A89 (models=B7; year=2012)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:BMW:b7:A89"
-      }
-    },
-    {
-      "code": "A90",
-      "marketingName": "Sophistograu",
-      "finish": "solid",
-      "lab": {
-        "L": 41.85,
-        "a": -2.26,
-        "b": -2.06,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_chip",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from chip-image average #5D6466 (PaintRef chip, OEM=BMW, code=A90 (models=B7; year=2012), pixels=306, chipUrl=https://www.paintref.com/chipimages/WASFSS.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref-chip:aef189c0e6576dd0"
-      }
-    },
-    {
-      "code": "A96",
-      "marketingName": "Mineralweiss",
-      "finish": "solid",
-      "lab": {
-        "L": 92.7,
-        "a": 0,
-        "b": 0,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #EAEAEA (PaintRef hex, OEM=BMW, code=A96 (models=B7, M3, X1, Z4; year=2012)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:BMW:b7:A96"
-      }
-    },
-    {
       "code": "B90",
       "marketingName": "Sophistograu",
       "finish": "solid",
@@ -494,40 +358,6 @@
         "recordedAt": "2026-04-18",
         "notes": "Derived from #DDDBCE (PaintRef hex, OEM=BMW, code=X04 (models=B7, M3, M4, M5, M6; years=2011-2019)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:BMW:b7:X04"
-      }
-    },
-    {
-      "code": "B90",
-      "marketingName": "Dark Graphite",
-      "finish": "solid",
-      "lab": {
-        "L": 40.2,
-        "a": 1.63,
-        "b": -2,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #605E62 (PaintRef hex, OEM=BMW, code=B90 (models=B7; year=2013)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:BMW:b7:B90"
-      }
-    },
-    {
-      "code": "A90",
-      "marketingName": "Dark Graphite",
-      "finish": "solid",
-      "lab": {
-        "L": 40.2,
-        "a": 1.63,
-        "b": -2,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #605E62 (PaintRef hex, OEM=BMW, code=A90 (models=B7, M5, X3, X4, X5, X6, i5, i7, i8, iX; years=2014-2026)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:BMW:b7:A90"
       }
     },
     {
@@ -939,23 +769,6 @@
       }
     },
     {
-      "code": "J7",
-      "marketingName": "Magnetic Gray",
-      "finish": "solid",
-      "lab": {
-        "L": 41.6,
-        "a": -2.85,
-        "b": 9.83,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #646352 (PaintRef hex, OEM=BMW, code=J7 (models=F 650; year=2017)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:BMW:f-650:J7"
-      }
-    },
-    {
       "code": "D1",
       "marketingName": "Stone Gray",
       "finish": "solid",
@@ -1038,23 +851,6 @@
         "recordedAt": "2026-04-18",
         "notes": "Derived from #63717F (PaintRef hex, OEM=BMW, code=G4 (models=F 650; year=2023)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:BMW:f-650:G4"
-      }
-    },
-    {
-      "code": "JS",
-      "marketingName": "Iconic Sliver",
-      "finish": "solid",
-      "lab": {
-        "L": 76.91,
-        "a": -1.88,
-        "b": -1.23,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #B9BFC0 (PaintRef hex, OEM=BMW, code=JS (models=F 650; years=2023-2025)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:BMW:f-650:JS"
       }
     },
     {
@@ -1398,23 +1194,6 @@
       }
     },
     {
-      "code": "668",
-      "marketingName": "Fluid Black",
-      "finish": "solid",
-      "lab": {
-        "L": 0,
-        "a": 0,
-        "b": 0,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #000000 (PaintRef hex, OEM=BMW, code=668 (models=X1, X2, X3, X4, X5, X6, X7, Z4, i3; years=2016-2021)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:BMW:x1:668"
-      }
-    },
-    {
       "code": "B94",
       "marketingName": "I Blau",
       "finish": "solid",
@@ -1429,40 +1208,6 @@
         "recordedAt": "2026-04-18",
         "notes": "Derived from #3D71AD (PaintRef hex, OEM=BMW, code=B94 (models=i3, i8; years=2015-2016)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:BMW:i3:B94"
-      }
-    },
-    {
-      "code": "B94",
-      "marketingName": "Frozen Blue",
-      "finish": "solid",
-      "lab": {
-        "L": 46.73,
-        "a": 1.99,
-        "b": -37.16,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #3D71AD (PaintRef hex, OEM=BMW, code=B94 (models=i3, i8; years=2017-2019)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:BMW:i3:B94"
-      }
-    },
-    {
-      "code": "B94",
-      "marketingName": "Blue Pearl",
-      "finish": "solid",
-      "lab": {
-        "L": 46.73,
-        "a": 1.99,
-        "b": -37.16,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #3D71AD (PaintRef hex, OEM=BMW, code=B94 (models=i8; year=2020)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:BMW:i8:B94"
       }
     },
     {
@@ -1857,23 +1602,6 @@
       }
     },
     {
-      "code": "C4W",
-      "marketingName": "Skyscraper Grey",
-      "finish": "solid",
-      "lab": {
-        "L": 68.38,
-        "a": -2.08,
-        "b": -1.89,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #A1A8AA (PaintRef hex, OEM=BMW, code=C4W (models=M3, X6; years=2026-2027)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:BMW:m3:C4W"
-      }
-    },
-    {
       "code": "C4E",
       "marketingName": "San Remo Green",
       "finish": "solid",
@@ -2078,23 +1806,6 @@
       }
     },
     {
-      "code": "C4A",
-      "marketingName": "Oxide Gray",
-      "finish": "solid",
-      "lab": {
-        "L": 73.92,
-        "a": 0.07,
-        "b": 9.17,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #BDB5A5 (PaintRef hex, OEM=BMW, code=C4A (models=M3, iX; years=2021-2023)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:BMW:m3:C4A"
-      }
-    },
-    {
       "code": "406",
       "marketingName": "Orinoco",
       "finish": "solid",
@@ -2227,23 +1938,6 @@
         "confidence": "derived",
         "recordedAt": "2026-04-18",
         "notes": "Derived from #B7BAAA (PaintRef hex, OEM=BMW, code=C02 (models=i8; years=2015-2016)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:BMW:i8:C02"
-      }
-    },
-    {
-      "code": "C02",
-      "marketingName": "Crystal White",
-      "finish": "solid",
-      "lab": {
-        "L": 74.88,
-        "a": -3.94,
-        "b": 7.75,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #B7BAAA (PaintRef hex, OEM=BMW, code=C02 (models=i8; years=2017-2020)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:BMW:i8:C02"
       }
     },
@@ -2554,23 +2248,6 @@
       }
     },
     {
-      "code": "416",
-      "marketingName": "Carbon Schwarz",
-      "finish": "solid",
-      "lab": {
-        "L": 6.9,
-        "a": 2.44,
-        "b": 2.19,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #1A1412 (PaintRef hex, OEM=BMW, code=416 (models=M3, M5; years=2002-2003)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:BMW:m3:416"
-      }
-    },
-    {
       "code": "A73",
       "marketingName": "Jerez Black",
       "finish": "solid",
@@ -2584,23 +2261,6 @@
         "confidence": "derived",
         "recordedAt": "2026-04-18",
         "notes": "Derived from #231F33 (PaintRef hex, OEM=BMW, code=A73 (models=M3, XM; years=2008-2024)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:BMW:m3:A73"
-      }
-    },
-    {
-      "code": "A73",
-      "marketingName": "Jerezschwarz",
-      "finish": "solid",
-      "lab": {
-        "L": 13.09,
-        "a": 7.43,
-        "b": -12.47,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #231F33 (PaintRef hex, OEM=BMW, code=A73 (models=M3; year=2012)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:BMW:m3:A73"
       }
     },
@@ -2928,23 +2588,6 @@
       }
     },
     {
-      "code": "354",
-      "marketingName": "Titanium Silver",
-      "finish": "solid",
-      "lab": {
-        "L": 83.52,
-        "a": -1.1,
-        "b": -3.18,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #CBD1D6 (PaintRef hex, OEM=BMW, code=354 (models=M5, M6, X6, Z8; years=2000-2017)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:BMW:m5:354"
-      }
-    },
-    {
       "code": "400",
       "marketingName": "Steel Gray",
       "finish": "solid",
@@ -3010,23 +2653,6 @@
         "recordedAt": "2026-04-18",
         "notes": "Derived from #B8C3CA (PaintRef hex, OEM=BMW, code=S58 (models=X6; year=2011)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:BMW:x6:S58"
-      }
-    },
-    {
-      "code": "A29",
-      "marketingName": "Silverstone",
-      "finish": "solid",
-      "lab": {
-        "L": 78.45,
-        "a": -4.65,
-        "b": -3.87,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #B5C5C9 (PaintRef hex, OEM=BMW, code=A29 (models=M3, M4, M5, M6; years=2017-2019)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:BMW:m3:A29"
       }
     },
     {
@@ -3129,23 +2755,6 @@
         "recordedAt": "2026-04-18",
         "notes": "Derived from #343F35 (PaintRef hex, OEM=BMW, code=430 (models=M3, M5, X5, XM, Z3; years=2001-2024)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:BMW:m3:430"
-      }
-    },
-    {
-      "code": "430",
-      "marketingName": "Oxfordgrun",
-      "finish": "solid",
-      "lab": {
-        "L": 25.39,
-        "a": -6.89,
-        "b": 4.64,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #343F35 (PaintRef hex, OEM=BMW, code=430 (models=M5, M6, X5, X6, Z3, Z4, Z8; years=2000-2002)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:BMW:m5:430"
       }
     },
     {
@@ -3557,23 +3166,6 @@
       }
     },
     {
-      "code": "X11",
-      "marketingName": "Frozen Bronze",
-      "finish": "solid",
-      "lab": {
-        "L": 43.58,
-        "a": 6.67,
-        "b": 4.38,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #756360 (PaintRef hex, OEM=BMW, code=X11 (models=M5, M6; years=2015-2020)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:BMW:m5:X11"
-      }
-    },
-    {
       "code": "B65",
       "marketingName": "Jatoba",
       "finish": "solid",
@@ -3659,23 +3251,6 @@
       }
     },
     {
-      "code": "425",
-      "marketingName": "Silverstone",
-      "finish": "solid",
-      "lab": {
-        "L": 59.42,
-        "a": 3.72,
-        "b": -1.06,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #958D91 (PaintRef hex, OEM=BMW, code=425 (models=M5; year=2001)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:BMW:m5:425"
-      }
-    },
-    {
       "code": "472",
       "marketingName": "Sterling Gray",
       "finish": "solid",
@@ -3706,23 +3281,6 @@
         "confidence": "derived",
         "recordedAt": "2026-04-18",
         "notes": "Derived from #716E56 (PaintRef hex, OEM=BMW, code=A32 (models=M5; year=2005)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:BMW:m5:A32"
-      }
-    },
-    {
-      "code": "A32",
-      "marketingName": "Sepang Silver",
-      "finish": "solid",
-      "lab": {
-        "L": 46.09,
-        "a": -3.16,
-        "b": 13.84,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #716E56 (PaintRef hex, OEM=BMW, code=A32 (models=M5, M6, Z4; years=2006-2011)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:BMW:m5:A32"
       }
     },
@@ -3914,23 +3472,6 @@
       }
     },
     {
-      "code": "894",
-      "marketingName": "Chiareto Red",
-      "finish": "solid",
-      "lab": {
-        "L": 11.84,
-        "a": 23.21,
-        "b": 3.66,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #3C0F1B (PaintRef hex, OEM=BMW, code=894 (models=M5; year=2003)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:BMW:m5:894"
-      }
-    },
-    {
       "code": "A31",
       "marketingName": "Indianapolis Rot",
       "finish": "solid",
@@ -3944,23 +3485,6 @@
         "confidence": "derived",
         "recordedAt": "2026-04-18",
         "notes": "Derived from #760E15 (PaintRef hex, OEM=BMW, code=A31 (models=M5; year=2005)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:BMW:m5:A31"
-      }
-    },
-    {
-      "code": "A31",
-      "marketingName": "Indianapolis Red",
-      "finish": "solid",
-      "lab": {
-        "L": 24.39,
-        "a": 42.86,
-        "b": 26.2,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #760E15 (PaintRef hex, OEM=BMW, code=A31 (models=M5, M6, XM; years=2007-2024)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:BMW:m5:A31"
       }
     },
@@ -4033,23 +3557,6 @@
       }
     },
     {
-      "code": "A35",
-      "marketingName": "Monaco Blau",
-      "finish": "solid",
-      "lab": {
-        "L": 20.86,
-        "a": 6.32,
-        "b": -13.52,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #313046 (PaintRef hex, OEM=BMW, code=A35 (models=M6, X5, X6, Z4; years=2007-2012)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:BMW:m6:A35"
-      }
-    },
-    {
       "code": "Z1M",
       "marketingName": "Laguna Seca Blue",
       "finish": "solid",
@@ -4067,23 +3574,6 @@
       }
     },
     {
-      "code": "B65",
-      "marketingName": "Jatoba Brown",
-      "finish": "solid",
-      "lab": {
-        "L": 24.49,
-        "a": 4,
-        "b": 2.87,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #423836 (PaintRef hex, OEM=BMW, code=B65 (models=M6; year=2016)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:BMW:m6:B65"
-      }
-    },
-    {
       "code": "440",
       "marketingName": "Dark Cream",
       "finish": "solid",
@@ -4097,23 +3587,6 @@
         "confidence": "derived",
         "recordedAt": "2026-04-18",
         "notes": "Derived from #4B5157 (PaintRef hex, OEM=BMW, code=440 (models=M6; year=2007)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:BMW:m6:440"
-      }
-    },
-    {
-      "code": "440",
-      "marketingName": "Stratus Gray",
-      "finish": "solid",
-      "lab": {
-        "L": 34.13,
-        "a": -0.99,
-        "b": -4.33,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #4B5157 (PaintRef hex, OEM=BMW, code=440 (models=M6, X5, XM, Z8; years=2003-2024)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:BMW:m6:440"
       }
     },
@@ -4356,23 +3829,6 @@
       }
     },
     {
-      "code": "668",
-      "marketingName": "Black",
-      "finish": "solid",
-      "lab": {
-        "L": 0,
-        "a": 0,
-        "b": 0,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #000000 (PaintRef hex, OEM=BMW, code=668 (models=Z4; year=2017)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:BMW:z4:668"
-      }
-    },
-    {
       "code": "B09",
       "marketingName": "Marrakesh Brown",
       "finish": "solid",
@@ -4458,23 +3914,6 @@
       }
     },
     {
-      "code": "C07",
-      "marketingName": "Sparkling Storm",
-      "finish": "solid",
-      "lab": {
-        "L": 30.59,
-        "a": -3.41,
-        "b": 12.16,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #4A4935 (PaintRef hex, OEM=BMW, code=C07 (models=X1, X2, X3, X6; years=2015-2018)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:BMW:x1:C07"
-      }
-    },
-    {
       "code": "C10",
       "marketingName": "Mediterranean Blue",
       "finish": "solid",
@@ -4506,23 +3945,6 @@
         "recordedAt": "2026-04-18",
         "notes": "Derived from #4B83F6 (PaintRef hex, OEM=BMW, code=C1D (models=X2, Z4; years=2018-2023)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:BMW:x2:C1D"
-      }
-    },
-    {
-      "code": "416",
-      "marketingName": "Carbonschwarz",
-      "finish": "solid",
-      "lab": {
-        "L": 6.9,
-        "a": 2.44,
-        "b": 2.19,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #1A1412 (PaintRef hex, OEM=BMW, code=416 (models=X5; year=2012)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:BMW:x5:416"
       }
     },
     {
@@ -4591,23 +4013,6 @@
         "recordedAt": "2026-04-18",
         "notes": "Derived from #DEDEE0 (PaintRef hex, OEM=BMW, code=A14 (models=X6; year=2012)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:BMW:x6:A14"
-      }
-    },
-    {
-      "code": "A14",
-      "marketingName": "Mineral Silver",
-      "finish": "solid",
-      "lab": {
-        "L": 88.52,
-        "a": 0.36,
-        "b": -0.98,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #DEDEE0 (PaintRef hex, OEM=BMW, code=A14 (models=X3, X4, X5, X6; years=2009-2018)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:BMW:x3:A14"
       }
     },
     {
@@ -4713,23 +4118,6 @@
       }
     },
     {
-      "code": "335",
-      "marketingName": "Estorial Blue",
-      "finish": "solid",
-      "lab": {
-        "L": 36.82,
-        "a": 19.08,
-        "b": -50.06,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #3451A8 (PaintRef hex, OEM=BMW, code=335 (models=X5; year=2006)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:BMW:x5:335"
-      }
-    },
-    {
       "code": "B05",
       "marketingName": "Monte Carlo Blue",
       "finish": "solid",
@@ -4815,23 +4203,6 @@
       }
     },
     {
-      "code": "A53",
-      "marketingName": "Platinbronze",
-      "finish": "solid",
-      "lab": {
-        "L": 61.15,
-        "a": 0.21,
-        "b": 6.61,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #999388 (PaintRef hex, OEM=BMW, code=A53 (models=X5; year=2012)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:BMW:x5:A53"
-      }
-    },
-    {
       "code": "A92",
       "marketingName": "Orion Silver",
       "finish": "solid",
@@ -4914,23 +4285,6 @@
         "recordedAt": "2026-04-18",
         "notes": "Derived from #A9AC9B (PaintRef hex, OEM=BMW, code=C2P (models=X5, X6; years=2017-2019)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:BMW:x5:C2P"
-      }
-    },
-    {
-      "code": "X01",
-      "marketingName": "Pearl Silver",
-      "finish": "solid",
-      "lab": {
-        "L": 87.24,
-        "a": -0.43,
-        "b": -2.92,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #D7DBE0 (PaintRef hex, OEM=BMW, code=X01 (models=X5, X6; years=2017-2019)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:BMW:x5:X01"
       }
     },
     {
@@ -5138,74 +4492,6 @@
       }
     },
     {
-      "code": "A82",
-      "marketingName": "Vermilionrot",
-      "finish": "solid",
-      "lab": {
-        "L": 39.64,
-        "a": 62.26,
-        "b": 49.72,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #BC0E0B (PaintRef hex, OEM=BMW, code=A82 (models=X6; year=2012)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:BMW:x6:A82"
-      }
-    },
-    {
-      "code": "X02",
-      "marketingName": "Citrinschwarz",
-      "finish": "solid",
-      "lab": {
-        "L": 4.68,
-        "a": 0,
-        "b": 0,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #101010 (PaintRef hex, OEM=BMW, code=X02 (models=X6; year=2012)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:BMW:x6:X02"
-      }
-    },
-    {
-      "code": "X03",
-      "marketingName": "Rubinschwarz",
-      "finish": "solid",
-      "lab": {
-        "L": 14.82,
-        "a": 8.83,
-        "b": -2.5,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #302129 (PaintRef hex, OEM=BMW, code=X03 (models=X6; year=2012)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:BMW:x6:X03"
-      }
-    },
-    {
-      "code": "S34",
-      "marketingName": "Azuritschwarz",
-      "finish": "solid",
-      "lab": {
-        "L": 5.81,
-        "a": 10.32,
-        "b": -26.4,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #011036 (PaintRef hex, OEM=BMW, code=S34 (models=X6; year=2012)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:BMW:x6:S34"
-      }
-    },
-    {
       "code": "C3W",
       "marketingName": "Riverside Blue",
       "finish": "solid",
@@ -5220,40 +4506,6 @@
         "recordedAt": "2026-04-18",
         "notes": "Derived from #7290DB (PaintRef hex, OEM=BMW, code=C3W (models=X6; year=2020)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:BMW:x6:C3W"
-      }
-    },
-    {
-      "code": "A92",
-      "marketingName": "Orionsilber",
-      "finish": "solid",
-      "lab": {
-        "L": 81.43,
-        "a": 1.26,
-        "b": 7.73,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #D3C9BC (PaintRef hex, OEM=BMW, code=A92 (models=Z4; year=2012)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:BMW:z4:A92"
-      }
-    },
-    {
-      "code": "X01",
-      "marketingName": "Perlsilber",
-      "finish": "solid",
-      "lab": {
-        "L": 87.24,
-        "a": -0.43,
-        "b": -2.92,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #D7DBE0 (PaintRef hex, OEM=BMW, code=X01 (models=X6; year=2012)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:BMW:x6:X01"
       }
     },
     {
@@ -5461,40 +4713,6 @@
       }
     },
     {
-      "code": "A30",
-      "marketingName": "Interlagos Blue",
-      "finish": "solid",
-      "lab": {
-        "L": 23.52,
-        "a": 6.85,
-        "b": -28,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #223762 (PaintRef hex, OEM=BMW, code=A30 (models=XM; year=2024)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:BMW:xm:A30"
-      }
-    },
-    {
-      "code": "381",
-      "marketingName": "Le Mans Blue",
-      "finish": "solid",
-      "lab": {
-        "L": 12.73,
-        "a": 15.93,
-        "b": -33.42,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #101C50 (PaintRef hex, OEM=BMW, code=381 (models=XM; year=2024)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:BMW:xm:381"
-      }
-    },
-    {
       "code": "250",
       "marketingName": "Macao Blue",
       "finish": "solid",
@@ -5665,23 +4883,6 @@
       }
     },
     {
-      "code": "C17",
-      "marketingName": "Brands Hatch Grey",
-      "finish": "solid",
-      "lab": {
-        "L": 32.47,
-        "a": 0.61,
-        "b": 0.88,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #4E4C4B (PaintRef hex, OEM=BMW, code=C17 (models=XM; year=2024)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:BMW:xm:C17"
-      }
-    },
-    {
       "code": "P7B",
       "marketingName": "Chalk",
       "finish": "solid",
@@ -5716,23 +4917,6 @@
       }
     },
     {
-      "code": "C39",
-      "marketingName": "Lime Rock Grey",
-      "finish": "solid",
-      "lab": {
-        "L": 77.32,
-        "a": -7.04,
-        "b": -0.7,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #B0C3C0 (PaintRef hex, OEM=BMW, code=C39 (models=XM; year=2024)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:BMW:xm:C39"
-      }
-    },
-    {
       "code": "P6K",
       "marketingName": "Nardo Grey",
       "finish": "solid",
@@ -5747,23 +4931,6 @@
         "recordedAt": "2026-04-18",
         "notes": "Derived from #BEBFBE (PaintRef hex, OEM=BMW, code=P6K (models=XM; year=2024)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:BMW:xm:P6K"
-      }
-    },
-    {
-      "code": "A32",
-      "marketingName": "Sepang Bronze",
-      "finish": "solid",
-      "lab": {
-        "L": 46.09,
-        "a": -3.16,
-        "b": 13.84,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #716E56 (PaintRef hex, OEM=BMW, code=A32 (models=XM; year=2024)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:BMW:xm:A32"
       }
     },
     {
@@ -6039,23 +5206,6 @@
       }
     },
     {
-      "code": "324",
-      "marketingName": "Oxford Green",
-      "finish": "solid",
-      "lab": {
-        "L": 19.48,
-        "a": -0.91,
-        "b": -6.85,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #283039 (PaintRef hex, OEM=BMW, code=324 (models=Z3; year=2000)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:BMW:z3:324"
-      }
-    },
-    {
       "code": "443",
       "marketingName": "Sahara Beige",
       "finish": "solid",
@@ -6090,23 +5240,6 @@
       }
     },
     {
-      "code": "A15",
-      "marketingName": "Malediven Blue",
-      "finish": "solid",
-      "lab": {
-        "L": 21.55,
-        "a": -0.31,
-        "b": -16.59,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #21354C (PaintRef hex, OEM=BMW, code=A15 (models=Z4; years=2003-2006)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:BMW:z4:A15"
-      }
-    },
-    {
       "code": "A51",
       "marketingName": "Montegoblau",
       "finish": "solid",
@@ -6120,23 +5253,6 @@
         "confidence": "derived",
         "recordedAt": "2026-04-18",
         "notes": "Derived from #3A517D (PaintRef hex, OEM=BMW, code=A51 (models=Z4; year=2007)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:BMW:z4:A51"
-      }
-    },
-    {
-      "code": "A51",
-      "marketingName": "Montego Blue",
-      "finish": "solid",
-      "lab": {
-        "L": 34.53,
-        "a": 4.82,
-        "b": -27.61,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #3A517D (PaintRef hex, OEM=BMW, code=A51 (models=Z4; year=2008)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:BMW:z4:A51"
       }
     },
@@ -6209,23 +5325,6 @@
       }
     },
     {
-      "code": "314",
-      "marketingName": "Hellrot",
-      "finish": "solid",
-      "lab": {
-        "L": 41.22,
-        "a": 54.45,
-        "b": 38.97,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #B72C24 (PaintRef hex, OEM=BMW, code=314 (models=Z4; year=2004)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:BMW:z4:314"
-      }
-    },
-    {
       "code": "A61",
       "marketingName": "Crimson Red",
       "finish": "solid",
@@ -6239,23 +5338,6 @@
         "confidence": "derived",
         "recordedAt": "2026-04-18",
         "notes": "Derived from #9B1717 (PaintRef hex, OEM=BMW, code=A61 (models=Z4; years=2008-2015)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:BMW:z4:A61"
-      }
-    },
-    {
-      "code": "A61",
-      "marketingName": "Karmesinrot",
-      "finish": "solid",
-      "lab": {
-        "L": 33.23,
-        "a": 51.72,
-        "b": 36.41,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #9B1717 (PaintRef hex, OEM=BMW, code=A61 (models=Z4; year=2012)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:BMW:z4:A61"
       }
     },
@@ -6308,23 +5390,6 @@
         "recordedAt": "2026-04-18",
         "notes": "Derived from #FFE100 (PaintRef hex, OEM=BMW, code=B21 (models=Z4; years=2011-2013)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:BMW:z4:B21"
-      }
-    },
-    {
-      "code": "440",
-      "marketingName": "Crema Dunkel",
-      "finish": "solid",
-      "lab": {
-        "L": 34.13,
-        "a": -0.99,
-        "b": -4.33,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #4B5157 (PaintRef hex, OEM=BMW, code=440 (models=Z8; year=2002)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:BMW:z8:440"
       }
     }
   ]

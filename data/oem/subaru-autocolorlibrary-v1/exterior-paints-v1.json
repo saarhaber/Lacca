@@ -16,7 +16,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2010-Subaru.html). Image data/sources/autocolorlibrary/pages/2010-subaru/2010-Subaru-pg01.jpg; bbox 597,2703 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈51; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2010-Subaru.html). Image data/sources/autocolorlibrary/pages/2010-subaru/2010-Subaru-pg01.jpg; bbox 597,2703 150\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224851; verify chip alignment.",
         "provenanceId": "acl:subaru:2010:B21:597,2703,150x210"
       }
     },
@@ -33,7 +33,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2010-Subaru.html). Image data/sources/autocolorlibrary/pages/2010-subaru/2010-Subaru-pg01.jpg; bbox 678,2703 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈0; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2010-Subaru.html). Image data/sources/autocolorlibrary/pages/2010-subaru/2010-Subaru-pg01.jpg; bbox 678,2703 150\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u22480; verify chip alignment.",
         "provenanceId": "acl:subaru:2010:C62:678,2703,150x210"
       }
     },
@@ -50,7 +50,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2018-Subaru.html). Image data/sources/autocolorlibrary/pages/2018-subaru/2018-Subaru-pg01.jpg; bbox 1643,322 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈88; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2018-Subaru.html). Image data/sources/autocolorlibrary/pages/2018-subaru/2018-Subaru-pg01.jpg; bbox 1643,322 150\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224888; verify chip alignment.",
         "provenanceId": "acl:subaru:2018:H10:1643,322,150x210"
       }
     },
@@ -67,7 +67,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2018-Subaru.html). Image data/sources/autocolorlibrary/pages/2018-subaru/2018-Subaru-pg01.jpg; bbox 2082,322 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈83; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2018-Subaru.html). Image data/sources/autocolorlibrary/pages/2018-subaru/2018-Subaru-pg01.jpg; bbox 2082,322 150\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224883; verify chip alignment.",
         "provenanceId": "acl:subaru:2018:H20:2082,322,150x210"
       }
     },
@@ -84,7 +84,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2017-Subaru.html). Image data/sources/autocolorlibrary/pages/2017-subaru/2017-Subaru-pg02.jpg; bbox 1527,899 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈80; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2017-Subaru.html). Image data/sources/autocolorlibrary/pages/2017-subaru/2017-Subaru-pg02.jpg; bbox 1527,899 150\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224880; verify chip alignment.",
         "provenanceId": "acl:subaru:2017:H30:1527,899,150x210"
       }
     },
@@ -101,7 +101,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2014-Subaru.html). Image data/sources/autocolorlibrary/pages/2014-subaru/2014-Subaru-pg01.jpg; bbox 443,1974 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈72; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2014-Subaru.html). Image data/sources/autocolorlibrary/pages/2014-subaru/2014-Subaru-pg01.jpg; bbox 443,1974 150\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224872; verify chip alignment.",
         "provenanceId": "acl:subaru:2014:H40:443,1974,150x210"
       }
     },
@@ -118,8 +118,25 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2016-Subaru.html). Image data/sources/autocolorlibrary/pages/2016-subaru/2016-Subaru-pg02.jpg; bbox 1522,886 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈55; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2016-Subaru.html). Image data/sources/autocolorlibrary/pages/2016-subaru/2016-Subaru-pg02.jpg; bbox 1522,886 150\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224855; verify chip alignment.",
         "provenanceId": "acl:subaru:2016:H50:1522,886,150x210"
+      }
+    },
+    {
+      "code": "K7X",
+      "marketingName": "World Rally Blue",
+      "finish": "metallic",
+      "lab": {
+        "L": 30.29,
+        "a": 30.13,
+        "b": -63.75,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "hex_derived",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Derived from #003DAD. Alternate code 02C. Signature STI lapis blue with heavy silver metallic flake.",
+        "provenanceId": "lacca:user-curated:subaru:World-Rally-Blue-K7X"
       }
     }
   ]

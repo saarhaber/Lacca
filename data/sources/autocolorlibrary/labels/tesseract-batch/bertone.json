@@ -1,0 +1,19 @@
+[
+  {
+    "oem": "Bertone",
+    "modelYear": 1986,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1986-Bertone.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1986-bertone/1986-Bertone-pg01.jpg",
+    "bbox": {
+      "x": 453,
+      "y": 0,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#C4C1BC",
+    "code": "200/030",
+    "marketingName": "Factory color 200/030",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈58; verify chip alignment."
+  }
+]

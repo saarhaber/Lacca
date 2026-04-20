@@ -16,8 +16,25 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Kia-Motors.html). Image data/sources/autocolorlibrary/pages/2019-kia-motors/2019_Kia_02.jpg; bbox 1402,718 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈60; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Kia-Motors.html). Image data/sources/autocolorlibrary/pages/2019-kia-motors/2019_Kia_02.jpg; bbox 1402,718 150\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224860; verify chip alignment.",
         "provenanceId": "acl:kia:2019:K900:1402,718,150x210"
+      }
+    },
+    {
+      "code": "C7S",
+      "marketingName": "Wolf Gray",
+      "finish": "solid",
+      "lab": {
+        "L": 64.43,
+        "a": -0.94,
+        "b": -3.87,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "hex_derived",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Derived from #979DA3. Medium-light ceramic grey with cool blue bias.",
+        "provenanceId": "lacca:user-curated:kia:Wolf-Gray-C7S"
       }
     }
   ]

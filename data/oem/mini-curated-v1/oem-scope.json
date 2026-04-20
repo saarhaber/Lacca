@@ -1,0 +1,19 @@
+{
+  "$schema": "../../../schemas/oem-scope-v1.schema.json",
+  "scopeId": "mini-curated-v1",
+  "oem": "Mini",
+  "region": "Global",
+  "modelYears": {
+    "from": 2001,
+    "to": 2026
+  },
+  "models": [
+    "Cooper",
+    "Cooper S",
+    "Countryman",
+    "Clubman",
+    "Convertible"
+  ],
+  "notes": "MINI exterior colors, curated from industry touch-up references. LAB values are HEX-derived approximations.",
+  "exteriorPaintFile": "./exterior-paints-v1.json"
+}

@@ -1,0 +1,36 @@
+[
+  {
+    "oem": "Datsun",
+    "modelYear": 1975,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1975-Datsun.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1975-datsun/1975-datsun-pg17.jpg",
+    "bbox": {
+      "x": 74,
+      "y": 0,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#F7EBDD",
+    "code": "030/031",
+    "marketingName": "Unknown (OCR)",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈47; verify chip alignment."
+  },
+  {
+    "oem": "Datsun",
+    "modelYear": 1976,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1976-Datsun.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1976-datsun/1976-datsun-pg07.jpg",
+    "bbox": {
+      "x": 74,
+      "y": 0,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#F7EBDD",
+    "code": "030/031",
+    "marketingName": "Unknown (OCR)",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈47; verify chip alignment."
+  }
+]

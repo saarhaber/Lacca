@@ -66,6 +66,28 @@ function scopeToVehicles(scope: OemScope, exterior: OemExterior): SupportedVehic
   return scope.models.map((model) => ({ make: scope.oem, model, paints }));
 }
 
+function normalizePaintCodeKey(code: string): string {
+  return code.replace(/\s+/g, "").toUpperCase();
+}
+
+/** Merge paint rows; first occurrence wins per normalized code (stable scope order). */
+function dedupePaints(paints: ExteriorPaint[]): ExteriorPaint[] {
+  const byCode = new Map<string, ExteriorPaint>();
+  for (const p of paints) {
+    const k = normalizePaintCodeKey(p.code);
+    if (!byCode.has(k)) byCode.set(k, p);
+  }
+  return [...byCode.values()].sort((a, b) => a.code.localeCompare(b.code));
+}
+
+/**
+ * Normalize user / vPIC make labels to the keys used in `makeLevelCatalogByOem`
+ * (`oem-scope.json` `oem`, lowercased, usually hyphenated).
+ */
+function resolveMakeCatalogKey(make: string): string {
+  return make.trim().toLowerCase().replace(/\s+/g, "-");
+}
+
 // ------------------------------------------------------------------
 // OEM discovery. Every data/oem/<id>/oem-scope.json + exterior-paints-v1.json
 // pair is auto-registered at build time, so adding a new make only
@@ -80,17 +102,20 @@ const OEM_EXTERIORS = import.meta.glob<OemExterior>(
   { eager: true, import: "default" }
 );
 
+const supersededScopeIds: Set<string> = (() => {
+  const s = new Set<string>();
+  for (const [, scope] of Object.entries(OEM_SCOPES)) {
+    for (const id of scope.supersedes ?? []) s.add(id);
+  }
+  return s;
+})();
+
 const supportedVehicles: SupportedVehicle[] = (() => {
   const out: SupportedVehicle[] = [];
   const scopes = Object.entries(OEM_SCOPES);
 
-  const superseded = new Set<string>();
-  for (const [, scope] of scopes) {
-    for (const id of scope.supersedes ?? []) superseded.add(id);
-  }
-
   for (const [scopePath, scope] of scopes) {
-    if (superseded.has(scope.scopeId)) continue;
+    if (supersededScopeIds.has(scope.scopeId)) continue;
     if (!scope.models || scope.models.length === 0) continue;
     const extPath = scopePath.replace("oem-scope.json", "exterior-paints-v1.json");
     const exterior = OEM_EXTERIORS[extPath];
@@ -100,19 +125,34 @@ const supportedVehicles: SupportedVehicle[] = (() => {
   return out;
 })();
 
-const supportedMakes = [...new Set(supportedVehicles.map((v) => v.make))].sort();
+/**
+ * Per-make factory paint catalogs from scopes with `models: []` (PaintRef bulk imports,
+ * Auto Color Library pilots, RAL, etc.). Surfaced when a vPIC model row has no paints.
+ */
+const makeLevelCatalogByOem: Map<string, ExteriorPaint[]> = (() => {
+  const merged = new Map<string, ExteriorPaint[]>();
+  for (const [scopePath, scope] of Object.entries(OEM_SCOPES)) {
+    if (supersededScopeIds.has(scope.scopeId)) continue;
+    if (scope.models && scope.models.length > 0) continue;
+    const extPath = scopePath.replace("oem-scope.json", "exterior-paints-v1.json");
+    const exterior = OEM_EXTERIORS[extPath];
+    if (!exterior?.paints?.length) continue;
+    const filtered = exterior.paints.filter(
+      (p) => !p.code.startsWith("TBD_") && !p.marketingName.includes("Reserved slot")
+    );
+    if (filtered.length === 0) continue;
+    const key = scope.oem.trim().toLowerCase();
+    const prev = merged.get(key) ?? [];
+    merged.set(key, [...prev, ...filtered]);
+  }
+  const out = new Map<string, ExteriorPaint[]>();
+  for (const [k, arr] of merged) {
+    out.set(k, dedupePaints(arr));
+  }
+  return out;
+})();
 
-// Split supported makes by whether any of their models carry a real paint
-// catalog. "With paints" → curated/imported scopes (BMW X, Porsche, Tesla,
-// Toyota Corolla, …). "Models only" → OEMs seeded from NHTSA vPIC where we
-// know the model catalog but don't have factory paint rows yet. The UI
-// uses this split to label optgroups honestly instead of claiming
-// "measured paint data" for makes that only have model names.
-const makesWithPaints = new Set(
-  supportedVehicles
-    .filter((v) => v.paints.length > 0)
-    .map((v) => v.make.toLowerCase())
-);
+const supportedMakes = [...new Set(supportedVehicles.map((v) => v.make))].sort();
 
 function findSupported(make: string, model: string): SupportedVehicle | undefined {
   const a = make.toLowerCase();
@@ -127,6 +167,41 @@ function findSupported(make: string, model: string): SupportedVehicle | undefine
     if (!best || v.paints.length > best.paints.length) best = v;
   }
   return best;
+}
+
+function makeLevelPaints(make: string): ExteriorPaint[] {
+  const normalized = resolveMakeCatalogKey(make);
+  const candidates = [normalized, make.trim().toLowerCase()];
+  /** vPIC lists both "Mercedes" and "Mercedes-Benz"; paint scopes use Mercedes-Benz. */
+  if (normalized === "mercedes") candidates.push("mercedes-benz");
+  const tried = new Set<string>();
+  for (const q of candidates) {
+    if (tried.has(q)) continue;
+    tried.add(q);
+    const paints = makeLevelCatalogByOem.get(q);
+    if (paints?.length) return paints;
+  }
+  return [];
+}
+
+/** Paints shown in the Match color dropdown for a make/model pair. */
+function paintsForMatchUi(make: string, model: string): ExteriorPaint[] {
+  const vehicle = findSupported(make, model);
+  if (vehicle && vehicle.paints.length > 0) return vehicle.paints;
+  return makeLevelPaints(make);
+}
+
+// Split supported makes by whether any of their models carry a real paint
+// catalog. "With paints" → curated/imported scopes (BMW X, Porsche, Tesla,
+// Toyota Corolla, …). "Models only" → OEMs seeded from NHTSA vPIC where we
+// know the model catalog but don't have factory paint rows yet. The UI
+// uses this split to label optgroups honestly instead of claiming
+// "measured paint data" for makes that only have model names.
+const makesWithPaints = new Set<string>(
+  supportedVehicles.filter((v) => v.paints.length > 0).map((v) => v.make.toLowerCase())
+);
+for (const m of supportedMakes) {
+  if (makeLevelPaints(m).length > 0) makesWithPaints.add(m.toLowerCase());
 }
 
 // ------------------------------------------------------------------
@@ -603,7 +678,7 @@ async function loadModelsFor(make: string) {
   const modelsWithPaints: string[] = [];
   const modelsKnownOnly: string[] = [];
   for (const v of seenByModel.values()) {
-    if (v.paints.length > 0) modelsWithPaints.push(v.model);
+    if (paintsForMatchUi(make, v.model).length > 0) modelsWithPaints.push(v.model);
     else modelsKnownOnly.push(v.model);
   }
   modelsWithPaints.sort((a, b) => a.localeCompare(b));
@@ -675,7 +750,7 @@ function loadPaintsFor(make: string, model: string) {
   submitBtn.disabled = true;
   paintSelect.innerHTML = "";
 
-  const vehicle = findSupported(make, model);
+  const paints = paintsForMatchUi(make, model);
 
   paintSelect.disabled = false;
   const placeholder = document.createElement("option");
@@ -685,15 +760,15 @@ function loadPaintsFor(make: string, model: string) {
   placeholder.selected = true;
   paintSelect.appendChild(placeholder);
 
-  if (vehicle && vehicle.paints.length > 0) {
-    for (const p of vehicle.paints) {
+  if (paints.length > 0) {
+    for (const p of paints) {
       const opt = document.createElement("option");
       opt.value = p.code;
       opt.textContent = `${p.marketingName} · ${p.finish}`;
       paintSelect.appendChild(opt);
     }
 
-    const firstPaint = vehicle.paints[0];
+    const firstPaint = paints[0];
     if (firstPaint) {
       paintSelect.value = firstPaint.code;
       submitBtn.disabled = false;
@@ -722,8 +797,8 @@ function loadPaintsFor(make: string, model: string) {
 }
 
 function selectedPaint(): ExteriorPaint | undefined {
-  const vehicle = findSupported(makeSelect.value, modelSelect.value);
-  const fromOem = vehicle?.paints.find((p) => p.code === paintSelect.value);
+  const paints = paintsForMatchUi(makeSelect.value, modelSelect.value);
+  const fromOem = paints.find((p) => p.code === paintSelect.value);
   if (fromOem) return fromOem;
   return GENERIC_PAINTS.find((p) => p.code === paintSelect.value) as
     | ExteriorPaint
@@ -770,7 +845,13 @@ function tierCopy(tier: MatchTier): string {
  */
 function derivedKindFromSource(source: string | undefined): "hex" | "chip" | "other" {
   const s = (source ?? "").trim().toLowerCase();
-  if (s === "hex_derived" || s === "paintref_hex" || s === "ral_classic_hex") return "hex";
+  if (
+    s === "hex_derived" ||
+    s === "paintref_hex" ||
+    s === "ral_classic_hex" ||
+    s === "autocolorlibrary_swatch"
+  )
+    return "hex";
   if (s === "paintref_chip") return "chip";
   return "other";
 }
@@ -807,6 +888,8 @@ function prettySourceLabel(source: string): string {
       return "PaintRef HEX swatch";
     case "paintref_chip":
       return "PaintRef chip sample";
+    case "autocolorlibrary_swatch":
+      return "Auto Color Library sheet sample";
     case "ral_classic_hex":
       return "RAL Classic reference";
     case "oem_spec":

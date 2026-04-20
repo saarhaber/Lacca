@@ -1,0 +1,3300 @@
+[
+  {
+    "oem": "Nissan",
+    "modelYear": 2007,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2007-Nissan.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2007-nissan/2007-Nissan-pg03.jpg",
+    "bbox": {
+      "x": 679,
+      "y": 1365,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#997E84",
+    "code": "A15",
+    "marketingName": "Unknown (OCR)",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈92; verify chip alignment."
+  },
+  {
+    "oem": "Nissan",
+    "modelYear": 2007,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2007-Nissan.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2007-nissan/2007-Nissan-pg04.jpg",
+    "bbox": {
+      "x": 226,
+      "y": 631,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#B0717A",
+    "code": "A20",
+    "marketingName": "Unknown (OCR)",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈92; verify chip alignment."
+  },
+  {
+    "oem": "Nissan",
+    "modelYear": 2007,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2007-Nissan.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2007-nissan/2007-Nissan-pg03.jpg",
+    "bbox": {
+      "x": 391,
+      "y": 1365,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#7B7E85",
+    "code": "B18",
+    "marketingName": "Unknown (OCR)",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈77; verify chip alignment."
+  },
+  {
+    "oem": "Nissan",
+    "modelYear": 2007,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2007-Nissan.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2007-nissan/2007-Nissan-pg04.jpg",
+    "bbox": {
+      "x": 516,
+      "y": 631,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#ADA3A1",
+    "code": "C12",
+    "marketingName": "Unknown (OCR)",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈94; verify chip alignment."
+  },
+  {
+    "oem": "Nissan",
+    "modelYear": 2007,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2007-Nissan.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2007-nissan/2007-Nissan-pg04.jpg",
+    "bbox": {
+      "x": 1382,
+      "y": 388,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#7A7178",
+    "code": "C50",
+    "marketingName": "Unknown (OCR)",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈84; verify chip alignment."
+  },
+  {
+    "oem": "Nissan",
+    "modelYear": 2007,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2007-Nissan.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2007-nissan/2007-Nissan-pg02.jpg",
+    "bbox": {
+      "x": 798,
+      "y": 402,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#8F98A6",
+    "code": "G35",
+    "marketingName": "Unknown (OCR)",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈91; verify chip alignment."
+  },
+  {
+    "oem": "Nissan",
+    "modelYear": 2007,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2007-Nissan.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2007-nissan/2007-Nissan-pg03.jpg",
+    "bbox": {
+      "x": 1258,
+      "y": 1365,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#89878B",
+    "code": "K27",
+    "marketingName": "Unknown (OCR)",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈86; verify chip alignment."
+  },
+  {
+    "oem": "Nissan",
+    "modelYear": 2007,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2007-Nissan.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2007-nissan/2007-Nissan-pg03.jpg",
+    "bbox": {
+      "x": 525,
+      "y": 1232,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#C4C4C6",
+    "code": "NPX2630",
+    "marketingName": "Ext. White QM1,QX3 Deep Ext. Water Sparkle Ext.",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈91; verify chip alignment."
+  },
+  {
+    "oem": "Nissan",
+    "modelYear": 2007,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2007-Nissan.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2007-nissan/2007-Nissan-pg03.jpg",
+    "bbox": {
+      "x": 815,
+      "y": 1232,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#C6C7C9",
+    "code": "NPX2645",
+    "marketingName": "Red Ext. Sand",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈90; verify chip alignment."
+  },
+  {
+    "oem": "Nissan",
+    "modelYear": 2007,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2007-Nissan.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2007-nissan/2007-Nissan-pg03.jpg",
+    "bbox": {
+      "x": 1103,
+      "y": 1236,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#F2F2F3",
+    "code": "NPX2649",
+    "marketingName": "C12,KY2 Structural Ext. Grey",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈84; verify chip alignment."
+  },
+  {
+    "oem": "Nissan",
+    "modelYear": 2007,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2007-Nissan.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2007-nissan/2007-Nissan-pg03.jpg",
+    "bbox": {
+      "x": 693,
+      "y": 1882,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#F3F3F3",
+    "code": "QX56",
+    "marketingName": "Unknown (OCR)",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈84; verify chip alignment."
+  },
+  {
+    "oem": "Nissan",
+    "modelYear": 2008,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2008-Nissan.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2008-nissan/2008-Nissan-pg03.jpg",
+    "bbox": {
+      "x": 273,
+      "y": 2660,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#B18D90",
+    "code": "A15",
+    "marketingName": "Y So",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈80; verify chip alignment."
+  },
+  {
+    "oem": "Nissan",
+    "modelYear": 2008,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2008-Nissan.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2008-nissan/2008-Nissan-pg03.jpg",
+    "bbox": {
+      "x": 1097,
+      "y": 2659,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#C09499",
+    "code": "A20",
+    "marketingName": "Unknown (OCR)",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈93; verify chip alignment."
+  },
+  {
+    "oem": "Nissan",
+    "modelYear": 2008,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2008-Nissan.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2008-nissan/2008-Nissan-pg01.jpg",
+    "bbox": {
+      "x": 1106,
+      "y": 324,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#824A4C",
+    "code": "A33",
+    "marketingName": "Crimson ROG Roulette Pearl B/C ZL",
+    "finish": "pearl",
+    "notes": "Tesseract batch: code conf≈89; verify chip alignment."
+  },
+  {
+    "oem": "Nissan",
+    "modelYear": 2008,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2008-Nissan.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2008-nissan/2008-Nissan-pg01.jpg",
+    "bbox": {
+      "x": 1930,
+      "y": 322,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#825354",
+    "code": "A50",
+    "marketingName": "Nogaro Red Met B/C Orange FX Pearl B/C",
+    "finish": "pearl",
+    "notes": "Tesseract batch: code conf≈91; verify chip alignment."
+  },
+  {
+    "oem": "Nissan",
+    "modelYear": 2008,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2008-Nissan.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2008-nissan/2008-Nissan-pg01.jpg",
+    "bbox": {
+      "x": 695,
+      "y": 890,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#BC5A61",
+    "code": "A54",
+    "marketingName": "== Red Pearl B/C Plasma Red B/C",
+    "finish": "pearl",
+    "notes": "Tesseract batch: code conf≈79; verify chip alignment."
+  },
+  {
+    "oem": "Nissan",
+    "modelYear": 2008,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2008-Nissan.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2008-nissan/2008-Nissan-pg01.jpg",
+    "bbox": {
+      "x": 1106,
+      "y": 889,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#CD947B",
+    "code": "A55",
+    "marketingName": "Orange ROG Alloy Met B/C 5748 Merlot MU Pearl B/C Sunset 6188 MU Red Pearl B/C",
+    "finish": "pearl",
+    "notes": "Tesseract batch: code conf≈81; verify chip alignment."
+  },
+  {
+    "oem": "Nissan",
+    "modelYear": 2008,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2008-Nissan.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2008-nissan/2008-Nissan-pg03.jpg",
+    "bbox": {
+      "x": 686,
+      "y": 2096,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#9A9A9F",
+    "code": "B25",
+    "marketingName": "Unknown (OCR)",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈97; verify chip alignment."
+  },
+  {
+    "oem": "Nissan",
+    "modelYear": 2008,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2008-Nissan.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2008-nissan/2008-Nissan-pg03.jpg",
+    "bbox": {
+      "x": 685,
+      "y": 2660,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#8E8D9D",
+    "code": "B54",
+    "marketingName": "Unknown (OCR)",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈85; verify chip alignment."
+  },
+  {
+    "oem": "Nissan",
+    "modelYear": 2008,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2008-Nissan.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2008-nissan/2008-Nissan-pg01.jpg",
+    "bbox": {
+      "x": 1931,
+      "y": 2013,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#655F61",
+    "code": "C16",
+    "marketingName": "B/C Majestic Most Models Blue Pearl B/C Mocha FX Pear! B/C",
+    "finish": "pearl",
+    "notes": "Tesseract batch: code conf≈66; verify chip alignment."
+  },
+  {
+    "oem": "Nissan",
+    "modelYear": 2008,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2008-Nissan.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2008-nissan/2008-Nissan-pg01.jpg",
+    "bbox": {
+      "x": 283,
+      "y": 2582,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#C2BBBE",
+    "code": "C43",
+    "marketingName": "Pebble Beach Pearl B/C MU",
+    "finish": "pearl",
+    "notes": "Tesseract batch: code conf≈96; verify chip alignment."
+  },
+  {
+    "oem": "Nissan",
+    "modelYear": 2008,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2008-Nissan.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2008-nissan/2008-Nissan-pg01.jpg",
+    "bbox": {
+      "x": 1107,
+      "y": 2579,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#59595B",
+    "code": "D51",
+    "marketingName": "Tinted Bronze Met B/C Timberline AR,T Met B/C",
+    "finish": "metallic",
+    "notes": "Tesseract batch: code conf≈83; verify chip alignment."
+  },
+  {
+    "oem": "Nissan",
+    "modelYear": 2008,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2008-Nissan.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2008-nissan/2008-Nissan-pg01.jpg",
+    "bbox": {
+      "x": 1518,
+      "y": 2578,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#FEC962",
+    "code": "E10",
+    "marketingName": "6178 Fun MU Yellow B/C",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈97; verify chip alignment."
+  },
+  {
+    "oem": "Nissan",
+    "modelYear": 2008,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2008-Nissan.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2008-nissan/2008-Nissan-pg01.jpg",
+    "bbox": {
+      "x": 1930,
+      "y": 2577,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#766C6D",
+    "code": "E50",
+    "marketingName": "Mocha P Met B/C",
+    "finish": "metallic",
+    "notes": "Tesseract batch: code conf≈97; verify chip alignment."
+  },
+  {
+    "oem": "Nissan",
+    "modelYear": 2008,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2008-Nissan.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2008-nissan/2008-Nissan-pg02.jpg",
+    "bbox": {
+      "x": 1188,
+      "y": 320,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#535256",
+    "code": "G10",
+    "marketingName": "Solar Yellow 5666 S B/C XT Tidewater Pearl B/C EX AR, Galaxy QUST, Met QX56,T B/C Magnetic",
+    "finish": "pearl",
+    "notes": "Tesseract batch: code conf≈95; verify chip alignment."
+  },
+  {
+    "oem": "Nissan",
+    "modelYear": 2008,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2008-Nissan.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2008-nissan/2008-Nissan-pg03.jpg",
+    "bbox": {
+      "x": 275,
+      "y": 402,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#B7B3B9",
+    "code": "G35",
+    "marketingName": "5888",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈96; verify chip alignment."
+  },
+  {
+    "oem": "Nissan",
+    "modelYear": 2008,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2008-Nissan.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2008-nissan/2008-Nissan-pg01.jpg",
+    "bbox": {
+      "x": 693,
+      "y": 1525,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#9598A7",
+    "code": "G37",
+    "marketingName": "Unknown (OCR)",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈97; verify chip alignment."
+  },
+  {
+    "oem": "Nissan",
+    "modelYear": 2008,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2008-Nissan.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2008-nissan/2008-Nissan-pg02.jpg",
+    "bbox": {
+      "x": 1599,
+      "y": 318,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#515054",
+    "code": "G41",
+    "marketingName": "Black Pearl B/C Sahara Sandstone Met B/C M —",
+    "finish": "pearl",
+    "notes": "Tesseract batch: code conf≈80; verify chip alignment."
+  },
+  {
+    "oem": "Nissan",
+    "modelYear": 2008,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2008-Nissan.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2008-nissan/2008-Nissan-pg02.jpg",
+    "bbox": {
+      "x": 366,
+      "y": 888,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#979A99",
+    "code": "J40",
+    "marketingName": "Metallic Jade Pearl As B/C",
+    "finish": "pearl",
+    "notes": "Tesseract batch: code conf≈91; verify chip alignment."
+  },
+  {
+    "oem": "Nissan",
+    "modelYear": 2008,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2008-Nissan.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2008-nissan/2008-Nissan-pg02.jpg",
+    "bbox": {
+      "x": 776,
+      "y": 887,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#69676B",
+    "code": "K11",
+    "marketingName": "AR, Smoke QUST, Met QX56,T 6250 B/C",
+    "finish": "metallic",
+    "notes": "Tesseract batch: code conf≈88; verify chip alignment."
+  },
+  {
+    "oem": "Nissan",
+    "modelYear": 2008,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2008-Nissan.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2008-nissan/2008-Nissan-pg02.jpg",
+    "bbox": {
+      "x": 1190,
+      "y": 885,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#CCCCD2",
+    "code": "K12",
+    "marketingName": "Radiant Silver Most Met Models 6251 B/C",
+    "finish": "metallic",
+    "notes": "Tesseract batch: code conf≈92; verify chip alignment."
+  },
+  {
+    "oem": "Nissan",
+    "modelYear": 2008,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2008-Nissan.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2008-nissan/2008-Nissan-pg02.jpg",
+    "bbox": {
+      "x": 1599,
+      "y": 879,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#79787E",
+    "code": "K21",
+    "marketingName": "Platinum Pearl Met MU B/C",
+    "finish": "pearl",
+    "notes": "Tesseract batch: code conf≈91; verify chip alignment."
+  },
+  {
+    "oem": "Nissan",
+    "modelYear": 2008,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2008-Nissan.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2008-nissan/2008-Nissan-pg02.jpg",
+    "bbox": {
+      "x": 2014,
+      "y": 882,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#D2D1D6",
+    "code": "K23",
+    "marketingName": "Airstream Most Met Models B/C = ee",
+    "finish": "metallic",
+    "notes": "Tesseract batch: code conf≈93; verify chip alignment."
+  },
+  {
+    "oem": "Nissan",
+    "modelYear": 2008,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2008-Nissan.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2008-nissan/2008-Nissan-pg02.jpg",
+    "bbox": {
+      "x": 366,
+      "y": 1453,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#BBB9C1",
+    "code": "K25",
+    "marketingName": "Liquid Aluminum Met B/C FX",
+    "finish": "metallic",
+    "notes": "Tesseract batch: code conf≈92; verify chip alignment."
+  },
+  {
+    "oem": "Nissan",
+    "modelYear": 2008,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2008-Nissan.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2008-nissan/2008-Nissan-pg02.jpg",
+    "bbox": {
+      "x": 779,
+      "y": 1451,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#515054",
+    "code": "K26",
+    "marketingName": "Night Armor Pearl B/C XT",
+    "finish": "pearl",
+    "notes": "Tesseract batch: code conf≈93; verify chip alignment."
+  },
+  {
+    "oem": "Nissan",
+    "modelYear": 2008,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2008-Nissan.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2008-nissan/2008-Nissan-pg03.jpg",
+    "bbox": {
+      "x": 1099,
+      "y": 2095,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#9F9DA2",
+    "code": "K27",
+    "marketingName": "Unknown (OCR)",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈46; verify chip alignment."
+  },
+  {
+    "oem": "Nissan",
+    "modelYear": 2008,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2008-Nissan.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2008-nissan/2008-Nissan-pg02.jpg",
+    "bbox": {
+      "x": 1603,
+      "y": 1448,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#D7D2CF",
+    "code": "K32",
+    "marketingName": "Sand FX,QX56,5,V Pearl B/C",
+    "finish": "pearl",
+    "notes": "Tesseract batch: code conf≈91; verify chip alignment."
+  },
+  {
+    "oem": "Nissan",
+    "modelYear": 2008,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2008-Nissan.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2008-nissan/2008-Nissan-pg02.jpg",
+    "bbox": {
+      "x": 2015,
+      "y": 1446,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#A9A7AE",
+    "code": "K36",
+    "marketingName": "Magnetic Grey Met SV B/C",
+    "finish": "metallic",
+    "notes": "Tesseract batch: code conf≈92; verify chip alignment."
+  },
+  {
+    "oem": "Nissan",
+    "modelYear": 2008,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2008-Nissan.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2008-nissan/2008-Nissan-pg02.jpg",
+    "bbox": {
+      "x": 367,
+      "y": 2017,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#6F6B6C",
+    "code": "K37",
+    "marketingName": "Polished Granite Met B/C S",
+    "finish": "metallic",
+    "notes": "Tesseract batch: code conf≈93; verify chip alignment."
+  },
+  {
+    "oem": "Nissan",
+    "modelYear": 2008,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2008-Nissan.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2008-nissan/2008-Nissan-pg02.jpg",
+    "bbox": {
+      "x": 779,
+      "y": 2015,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#68676B",
+    "code": "K50",
+    "marketingName": "Dark Slate Pearl A,MA B/C",
+    "finish": "pearl",
+    "notes": "Tesseract batch: code conf≈91; verify chip alignment."
+  },
+  {
+    "oem": "Nissan",
+    "modelYear": 2008,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2008-Nissan.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2008-nissan/2008-Nissan-pg02.jpg",
+    "bbox": {
+      "x": 1189,
+      "y": 2013,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#8F8A90",
+    "code": "K51",
+    "marketingName": "EX,G35,G37,M,MU,ROG,Z Carbon Silver Pearl B/C",
+    "finish": "pearl",
+    "notes": "Tesseract batch: code conf≈86; verify chip alignment."
+  },
+  {
+    "oem": "Nissan",
+    "modelYear": 2008,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2008-Nissan.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2008-nissan/2008-Nissan-pg02.jpg",
+    "bbox": {
+      "x": 1604,
+      "y": 2011,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#636369",
+    "code": "K52",
+    "marketingName": "Dark EX,G35,G37,M Gray Pearl B/C Iridium",
+    "finish": "pearl",
+    "notes": "Tesseract batch: code conf≈92; verify chip alignment."
+  },
+  {
+    "oem": "Nissan",
+    "modelYear": 2008,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2008-Nissan.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2008-nissan/2008-Nissan-pg02.jpg",
+    "bbox": {
+      "x": 2016,
+      "y": 2010,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#7D787B",
+    "code": "K55",
+    "marketingName": "Graphite Met ROG B/C =",
+    "finish": "metallic",
+    "notes": "Tesseract batch: code conf≈92; verify chip alignment."
+  },
+  {
+    "oem": "Nissan",
+    "modelYear": 2008,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2008-Nissan.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2008-nissan/2008-Nissan-pg03.jpg",
+    "bbox": {
+      "x": 689,
+      "y": 330,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#545356",
+    "code": "L50",
+    "marketingName": "at 5888 Desert Platinum Met B/C Dark EX Currant Met B/C",
+    "finish": "metallic",
+    "notes": "Tesseract batch: code conf≈92; verify chip alignment."
+  },
+  {
+    "oem": "Nissan",
+    "modelYear": 2008,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2008-Nissan.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2008-nissan/2008-Nissan-pg03.jpg",
+    "bbox": {
+      "x": 708,
+      "y": 2024,
+      "w": 190,
+      "h": 210
+    },
+    "hex": "#47484F",
+    "code": "NPX2648",
+    "marketingName": "bd White Q10,Q11 Genuine Granite",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈92; verify chip alignment."
+  },
+  {
+    "oem": "Nissan",
+    "modelYear": 2008,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2008-Nissan.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2008-nissan/2008-Nissan-pg03.jpg",
+    "bbox": {
+      "x": 1120,
+      "y": 2023,
+      "w": 191,
+      "h": 210
+    },
+    "hex": "#545257",
+    "code": "NPX2649",
+    "marketingName": "Structural Grey",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈91; verify chip alignment."
+  },
+  {
+    "oem": "Nissan",
+    "modelYear": 2008,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2008-Nissan.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2008-nissan/2008-Nissan-pg03.jpg",
+    "bbox": {
+      "x": 1532,
+      "y": 2022,
+      "w": 190,
+      "h": 210
+    },
+    "hex": "#414044",
+    "code": "NPX2650",
+    "marketingName": "Hippo K11,K26 Grey -",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈92; verify chip alignment."
+  },
+  {
+    "oem": "Nissan",
+    "modelYear": 2008,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2008-Nissan.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2008-nissan/2008-Nissan-pg03.jpg",
+    "bbox": {
+      "x": 1944,
+      "y": 2021,
+      "w": 191,
+      "h": 210
+    },
+    "hex": "#3D3C41",
+    "code": "NPX2652",
+    "marketingName": "Midnight K11,K26,KH3 Grey",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈92; verify chip alignment."
+  },
+  {
+    "oem": "Nissan",
+    "modelYear": 2008,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2008-Nissan.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2008-nissan/2008-Nissan-pg03.jpg",
+    "bbox": {
+      "x": 296,
+      "y": 2589,
+      "w": 190,
+      "h": 210
+    },
+    "hex": "#813C3F",
+    "code": "NPX2656",
+    "marketingName": "Y So Red",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈93; verify chip alignment."
+  },
+  {
+    "oem": "Nissan",
+    "modelYear": 2008,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2008-Nissan.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2008-nissan/2008-Nissan-pg03.jpg",
+    "bbox": {
+      "x": 708,
+      "y": 2588,
+      "w": 190,
+      "h": 210
+    },
+    "hex": "#393954",
+    "code": "NPX3658",
+    "marketingName": "Baikal Blue",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈92; verify chip alignment."
+  },
+  {
+    "oem": "Nissan",
+    "modelYear": 2008,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2008-Nissan.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2008-nissan/2008-Nissan-pg03.jpg",
+    "bbox": {
+      "x": 1120,
+      "y": 2587,
+      "w": 190,
+      "h": 210
+    },
+    "hex": "#943F44",
+    "code": "OPP2620",
+    "marketingName": "Dark Red",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈92; verify chip alignment."
+  },
+  {
+    "oem": "Nissan",
+    "modelYear": 2008,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2008-Nissan.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2008-nissan/2008-Nissan-pg03.jpg",
+    "bbox": {
+      "x": 1532,
+      "y": 2586,
+      "w": 190,
+      "h": 210
+    },
+    "hex": "#86838D",
+    "code": "OPP2622",
+    "marketingName": "Silver",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈92; verify chip alignment."
+  },
+  {
+    "oem": "Nissan",
+    "modelYear": 2008,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2008-Nissan.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2008-nissan/2008-Nissan-pg03.jpg",
+    "bbox": {
+      "x": 1944,
+      "y": 2585,
+      "w": 191,
+      "h": 210
+    },
+    "hex": "#663E3F",
+    "code": "OPP2630",
+    "marketingName": "A1l5 Red",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈92; verify chip alignment."
+  },
+  {
+    "oem": "Nissan",
+    "modelYear": 2008,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2008-Nissan.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2008-nissan/2008-Nissan-pg04.jpg",
+    "bbox": {
+      "x": 310,
+      "y": 330,
+      "w": 187,
+      "h": 210
+    },
+    "hex": "#2E2E33",
+    "code": "OPP2631",
+    "marketingName": "Dark BWw9 Blue",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈92; verify chip alignment."
+  },
+  {
+    "oem": "Nissan",
+    "modelYear": 2008,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2008-Nissan.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2008-nissan/2008-Nissan-pg04.jpg",
+    "bbox": {
+      "x": 723,
+      "y": 328,
+      "w": 190,
+      "h": 210
+    },
+    "hex": "#27272D",
+    "code": "OPP2648",
+    "marketingName": "Blue",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈92; verify chip alignment."
+  },
+  {
+    "oem": "Nissan",
+    "modelYear": 2008,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2008-Nissan.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2008-nissan/2008-Nissan-pg04.jpg",
+    "bbox": {
+      "x": 1135,
+      "y": 326,
+      "w": 190,
+      "h": 210
+    },
+    "hex": "#242326",
+    "code": "OPP2652",
+    "marketingName": "G10,K11,KH3 Black",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈93; verify chip alignment."
+  },
+  {
+    "oem": "Nissan",
+    "modelYear": 2008,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2008-Nissan.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2008-nissan/2008-Nissan-pg04.jpg",
+    "bbox": {
+      "x": 1547,
+      "y": 324,
+      "w": 191,
+      "h": 210
+    },
+    "hex": "#482A2B",
+    "code": "OPP2654",
+    "marketingName": "Red",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈90; verify chip alignment."
+  },
+  {
+    "oem": "Nissan",
+    "modelYear": 2008,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2008-Nissan.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2008-nissan/2008-Nissan-pg04.jpg",
+    "bbox": {
+      "x": 1959,
+      "y": 322,
+      "w": 191,
+      "h": 210
+    },
+    "hex": "#532D2F",
+    "code": "OPP2656",
+    "marketingName": "Burgundy A15,A20 =",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈92; verify chip alignment."
+  },
+  {
+    "oem": "Nissan",
+    "modelYear": 2008,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2008-Nissan.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2008-nissan/2008-Nissan-pg03.jpg",
+    "bbox": {
+      "x": 1514,
+      "y": 328,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#FEFDFD",
+    "code": "Q11",
+    "marketingName": "AR,T Blizzard White B/C Nordic QUST, White 3ct",
+    "finish": "pearl",
+    "notes": "Tesseract batch: code conf≈84; verify chip alignment."
+  },
+  {
+    "oem": "Nissan",
+    "modelYear": 2008,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2008-Nissan.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2008-nissan/2008-Nissan-pg03.jpg",
+    "bbox": {
+      "x": 1927,
+      "y": 327,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#FDFDFD",
+    "code": "Q50",
+    "marketingName": "White Frost Pearl 3ct",
+    "finish": "pearl",
+    "notes": "Tesseract batch: code conf≈88; verify chip alignment."
+  },
+  {
+    "oem": "Nissan",
+    "modelYear": 2008,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2008-Nissan.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2008-nissan/2008-Nissan-pg03.jpg",
+    "bbox": {
+      "x": 1380,
+      "y": 2945,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#F3F0F4",
+    "code": "QX56",
+    "marketingName": "Unknown (OCR)",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈77; verify chip alignment."
+  },
+  {
+    "oem": "Nissan",
+    "modelYear": 2009,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2009-Nissan.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2009-nissan/2009-Nissan-pg04.jpg",
+    "bbox": {
+      "x": 784,
+      "y": 980,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#BF9CA0",
+    "code": "A20",
+    "marketingName": "Unknown (OCR)",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈92; verify chip alignment."
+  },
+  {
+    "oem": "Nissan",
+    "modelYear": 2009,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2009-Nissan.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2009-nissan/2009-Nissan-pg01.jpg",
+    "bbox": {
+      "x": 1098,
+      "y": 342,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#A47072",
+    "code": "A33",
+    "marketingName": "ROG 350Z",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈85; verify chip alignment."
+  },
+  {
+    "oem": "Nissan",
+    "modelYear": 2009,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2009-Nissan.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2009-nissan/2009-Nissan-pg01.jpg",
+    "bbox": {
+      "x": 276,
+      "y": 910,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#B6585E",
+    "code": "A54",
+    "marketingName": "370Z,G37,GTR Plasma Red B/C",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈78; verify chip alignment."
+  },
+  {
+    "oem": "Nissan",
+    "modelYear": 2009,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2009-Nissan.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2009-nissan/2009-Nissan-pg01.jpg",
+    "bbox": {
+      "x": 687,
+      "y": 909,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#C78B74",
+    "code": "A55",
+    "marketingName": "Orange ROG Alloy Met B/C Merlot 5748 MU Pear! B/C",
+    "finish": "metallic",
+    "notes": "Tesseract batch: code conf≈82; verify chip alignment."
+  },
+  {
+    "oem": "Nissan",
+    "modelYear": 2009,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2009-Nissan.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2009-nissan/2009-Nissan-pg01.jpg",
+    "bbox": {
+      "x": 1924,
+      "y": 903,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#686D9C",
+    "code": "B17",
+    "marketingName": "Luminous C Red Met B/C 6176 Daytona SV Blue Pearl B/C",
+    "finish": "pearl",
+    "notes": "Tesseract batch: code conf≈96; verify chip alignment."
+  },
+  {
+    "oem": "Nissan",
+    "modelYear": 2009,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2009-Nissan.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2009-nissan/2009-Nissan-pg04.jpg",
+    "bbox": {
+      "x": 370,
+      "y": 981,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#89889A",
+    "code": "B54",
+    "marketingName": "Unknown (OCR)",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈92; verify chip alignment."
+  },
+  {
+    "oem": "Nissan",
+    "modelYear": 2009,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2009-Nissan.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2009-nissan/2009-Nissan-pg02.jpg",
+    "bbox": {
+      "x": 367,
+      "y": 345,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#5B5A5E",
+    "code": "G10",
+    "marketingName": "Galaxy AR,QX,T Met B/C Magnetic",
+    "finish": "metallic",
+    "notes": "Tesseract batch: code conf≈96; verify chip alignment."
+  },
+  {
+    "oem": "Nissan",
+    "modelYear": 2009,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2009-Nissan.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2009-nissan/2009-Nissan-pg02.jpg",
+    "bbox": {
+      "x": 777,
+      "y": 344,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#5B5B5F",
+    "code": "G41",
+    "marketingName": "Black 350Z,370Z Pearl B/C Sahara Sandstone G37,M35,M45 Met B/C Toasted Almond Met ASV B/C Umbria Twilight Pearl B/C FX",
+    "finish": "pearl",
+    "notes": "Tesseract batch: code conf≈96; verify chip alignment."
+  },
+  {
+    "oem": "Nissan",
+    "modelYear": 2009,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2009-Nissan.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2009-nissan/2009-Nissan-pg02.jpg",
+    "bbox": {
+      "x": 778,
+      "y": 909,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#7B797D",
+    "code": "K11",
+    "marketingName": "C AR,Q,QX,T 6250",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈91; verify chip alignment."
+  },
+  {
+    "oem": "Nissan",
+    "modelYear": 2009,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2009-Nissan.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2009-nissan/2009-Nissan-pg02.jpg",
+    "bbox": {
+      "x": 1192,
+      "y": 908,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#D2D1D6",
+    "code": "K12",
+    "marketingName": "A,AR,FMA,P.Q, 6251",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈91; verify chip alignment."
+  },
+  {
+    "oem": "Nissan",
+    "modelYear": 2009,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2009-Nissan.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2009-nissan/2009-Nissan-pg02.jpg",
+    "bbox": {
+      "x": 1603,
+      "y": 907,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#929096",
+    "code": "K21",
+    "marketingName": "Cc",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈92; verify chip alignment."
+  },
+  {
+    "oem": "Nissan",
+    "modelYear": 2009,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2009-Nissan.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2009-nissan/2009-Nissan-pg02.jpg",
+    "bbox": {
+      "x": 2014,
+      "y": 902,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#D0CFD5",
+    "code": "K23",
+    "marketingName": "Most Models",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈92; verify chip alignment."
+  },
+  {
+    "oem": "Nissan",
+    "modelYear": 2009,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2009-Nissan.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2009-nissan/2009-Nissan-pg02.jpg",
+    "bbox": {
+      "x": 368,
+      "y": 1474,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#76767A",
+    "code": "K26",
+    "marketingName": "XT",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈92; verify chip alignment."
+  },
+  {
+    "oem": "Nissan",
+    "modelYear": 2009,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2009-Nissan.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2009-nissan/2009-Nissan-pg02.jpg",
+    "bbox": {
+      "x": 780,
+      "y": 1469,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#868588",
+    "code": "K27",
+    "marketingName": "EP.",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈91; verify chip alignment."
+  },
+  {
+    "oem": "Nissan",
+    "modelYear": 2009,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2009-Nissan.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2009-nissan/2009-Nissan-pg02.jpg",
+    "bbox": {
+      "x": 1192,
+      "y": 1472,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#D0CECB",
+    "code": "K32",
+    "marketingName": "Qx",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈93; verify chip alignment."
+  },
+  {
+    "oem": "Nissan",
+    "modelYear": 2009,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2009-Nissan.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2009-nissan/2009-Nissan-pg02.jpg",
+    "bbox": {
+      "x": 1604,
+      "y": 1471,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#B2B0B6",
+    "code": "K36",
+    "marketingName": "SV.",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈92; verify chip alignment."
+  },
+  {
+    "oem": "Nissan",
+    "modelYear": 2009,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2009-Nissan.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2009-nissan/2009-Nissan-pg02.jpg",
+    "bbox": {
+      "x": 2016,
+      "y": 1470,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#736F71",
+    "code": "K37",
+    "marketingName": "§",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈93; verify chip alignment."
+  },
+  {
+    "oem": "Nissan",
+    "modelYear": 2009,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2009-Nissan.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2009-nissan/2009-Nissan-pg04.jpg",
+    "bbox": {
+      "x": 723,
+      "y": 345,
+      "w": 190,
+      "h": 210
+    },
+    "hex": "#454348",
+    "code": "NPX2649",
+    "marketingName": "Q10,Q11 White Structural Grey",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈92; verify chip alignment."
+  },
+  {
+    "oem": "Nissan",
+    "modelYear": 2009,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2009-Nissan.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2009-nissan/2009-Nissan-pg04.jpg",
+    "bbox": {
+      "x": 1135,
+      "y": 345,
+      "w": 190,
+      "h": 210
+    },
+    "hex": "#343338",
+    "code": "NPX2650",
+    "marketingName": "Hippo K11,K26 Grey",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈93; verify chip alignment."
+  },
+  {
+    "oem": "Nissan",
+    "modelYear": 2009,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2009-Nissan.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2009-nissan/2009-Nissan-pg04.jpg",
+    "bbox": {
+      "x": 1547,
+      "y": 345,
+      "w": 191,
+      "h": 210
+    },
+    "hex": "#3F3E43",
+    "code": "NPX2652",
+    "marketingName": "Midnight K11,K26,KH3 Grey",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈93; verify chip alignment."
+  },
+  {
+    "oem": "Nissan",
+    "modelYear": 2009,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2009-Nissan.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2009-nissan/2009-Nissan-pg04.jpg",
+    "bbox": {
+      "x": 1959,
+      "y": 345,
+      "w": 191,
+      "h": 210
+    },
+    "hex": "#823F40",
+    "code": "NPX2656",
+    "marketingName": "Als Red <=",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈92; verify chip alignment."
+  },
+  {
+    "oem": "Nissan",
+    "modelYear": 2009,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2009-Nissan.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2009-nissan/2009-Nissan-pg04.jpg",
+    "bbox": {
+      "x": 310,
+      "y": 910,
+      "w": 190,
+      "h": 210
+    },
+    "hex": "#373755",
+    "code": "NPX3658",
+    "marketingName": "Baikal Blue",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈92; verify chip alignment."
+  },
+  {
+    "oem": "Nissan",
+    "modelYear": 2009,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2009-Nissan.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2009-nissan/2009-Nissan-pg04.jpg",
+    "bbox": {
+      "x": 722,
+      "y": 909,
+      "w": 190,
+      "h": 210
+    },
+    "hex": "#914B4E",
+    "code": "OPP2620",
+    "marketingName": "Dark Red",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈92; verify chip alignment."
+  },
+  {
+    "oem": "Nissan",
+    "modelYear": 2009,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2009-Nissan.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2009-nissan/2009-Nissan-pg04.jpg",
+    "bbox": {
+      "x": 1134,
+      "y": 908,
+      "w": 190,
+      "h": 210
+    },
+    "hex": "#83818D",
+    "code": "OPP2622",
+    "marketingName": "Silver",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈93; verify chip alignment."
+  },
+  {
+    "oem": "Nissan",
+    "modelYear": 2009,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2009-Nissan.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2009-nissan/2009-Nissan-pg04.jpg",
+    "bbox": {
+      "x": 1546,
+      "y": 908,
+      "w": 190,
+      "h": 210
+    },
+    "hex": "#623739",
+    "code": "OPP2630",
+    "marketingName": "Red",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈93; verify chip alignment."
+  },
+  {
+    "oem": "Nissan",
+    "modelYear": 2009,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2009-Nissan.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2009-nissan/2009-Nissan-pg04.jpg",
+    "bbox": {
+      "x": 1958,
+      "y": 908,
+      "w": 190,
+      "h": 210
+    },
+    "hex": "#3A3C44",
+    "code": "OPP2648",
+    "marketingName": "BW9 Blue",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈92; verify chip alignment."
+  },
+  {
+    "oem": "Nissan",
+    "modelYear": 2010,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2010-Nissan.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2010-nissan/2010-Nissan-pg03.jpg",
+    "bbox": {
+      "x": 1927,
+      "y": 2098,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#AE8084",
+    "code": "A20",
+    "marketingName": "Unknown (OCR)",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈92; verify chip alignment."
+  },
+  {
+    "oem": "Nissan",
+    "modelYear": 2010,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2010-Nissan.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2010-nissan/2010-Nissan-pg01.jpg",
+    "bbox": {
+      "x": 684,
+      "y": 333,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#693F41",
+    "code": "A33",
+    "marketingName": "Crimson ROG Roulette",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈93; verify chip alignment."
+  },
+  {
+    "oem": "Nissan",
+    "modelYear": 2010,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2010-Nissan.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2010-nissan/2010-Nissan-pg01.jpg",
+    "bbox": {
+      "x": 1096,
+      "y": 332,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#93444A",
+    "code": "A54",
+    "marketingName": "Pearl B/C Plasma 370Z,G37,GTR Red B/C",
+    "finish": "pearl",
+    "notes": "Tesseract batch: code conf≈71; verify chip alignment."
+  },
+  {
+    "oem": "Nissan",
+    "modelYear": 2010,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2010-Nissan.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2010-nissan/2010-Nissan-pg01.jpg",
+    "bbox": {
+      "x": 1508,
+      "y": 331,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#A35B4C",
+    "code": "A55",
+    "marketingName": "Orange ROG Alloy Met B/C 5748 Merlot MU Pearl B/C",
+    "finish": "pearl",
+    "notes": "Tesseract batch: code conf≈68; verify chip alignment."
+  },
+  {
+    "oem": "Nissan",
+    "modelYear": 2010,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2010-Nissan.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2010-nissan/2010-Nissan-pg01.jpg",
+    "bbox": {
+      "x": 685,
+      "y": 898,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#434468",
+    "code": "B17",
+    "marketingName": "Luminous C Red Met B/C 6176 Daytona SV Blue Pearl",
+    "finish": "pearl",
+    "notes": "Tesseract batch: code conf≈92; verify chip alignment."
+  },
+  {
+    "oem": "Nissan",
+    "modelYear": 2010,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2010-Nissan.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2010-nissan/2010-Nissan-pg01.jpg",
+    "bbox": {
+      "x": 1097,
+      "y": 896,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#3C3B3D",
+    "code": "B20",
+    "marketingName": "B/C Sapphire C Black Pearl",
+    "finish": "pearl",
+    "notes": "Tesseract batch: code conf≈97; verify chip alignment."
+  },
+  {
+    "oem": "Nissan",
+    "modelYear": 2010,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2010-Nissan.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2010-nissan/2010-Nissan-pg01.jpg",
+    "bbox": {
+      "x": 1507,
+      "y": 895,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#4C4E5F",
+    "code": "B21",
+    "marketingName": "B/C Athens Blue Pear! B/C",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈94; verify chip alignment."
+  },
+  {
+    "oem": "Nissan",
+    "modelYear": 2010,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2010-Nissan.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2010-nissan/2010-Nissan-pg01.jpg",
+    "bbox": {
+      "x": 1921,
+      "y": 894,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#3F3E43",
+    "code": "B23",
+    "marketingName": "Dark SV Blue Pearl B/C",
+    "finish": "pearl",
+    "notes": "Tesseract batch: code conf≈97; verify chip alignment."
+  },
+  {
+    "oem": "Nissan",
+    "modelYear": 2010,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2010-Nissan.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2010-nissan/2010-Nissan-pg01.jpg",
+    "bbox": {
+      "x": 273,
+      "y": 1464,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#575963",
+    "code": "B30",
+    "marketingName": "= = AR,G37,M35,M45, Lakeshore Slate Met",
+    "finish": "metallic",
+    "notes": "Tesseract batch: code conf≈97; verify chip alignment."
+  },
+  {
+    "oem": "Nissan",
+    "modelYear": 2010,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2010-Nissan.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2010-nissan/2010-Nissan-pg01.jpg",
+    "bbox": {
+      "x": 685,
+      "y": 1463,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#494851",
+    "code": "B53",
+    "marketingName": "QX,T B/C Indigo ROG Blue Met B/C",
+    "finish": "metallic",
+    "notes": "Tesseract batch: code conf≈92; verify chip alignment."
+  },
+  {
+    "oem": "Nissan",
+    "modelYear": 2010,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2010-Nissan.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2010-nissan/2010-Nissan-pg03.jpg",
+    "bbox": {
+      "x": 1515,
+      "y": 2100,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#7F7D90",
+    "code": "B54",
+    "marketingName": "_ Q10,Q11 K11,K26 Se K11,K26,KH3",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈76; verify chip alignment."
+  },
+  {
+    "oem": "Nissan",
+    "modelYear": 2010,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2010-Nissan.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2010-nissan/2010-Nissan-pg01.jpg",
+    "bbox": {
+      "x": 1509,
+      "y": 1459,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#8B8084",
+    "code": "C43",
+    "marketingName": "AR,PXT Pebble Beach Pearl B/C Tinted MU Bronze Met B/C",
+    "finish": "pearl",
+    "notes": "Tesseract batch: code conf≈96; verify chip alignment."
+  },
+  {
+    "oem": "Nissan",
+    "modelYear": 2010,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2010-Nissan.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2010-nissan/2010-Nissan-pg01.jpg",
+    "bbox": {
+      "x": 275,
+      "y": 2592,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#4E4C4F",
+    "code": "G10",
+    "marketingName": "— AR, Galaxy QX,T Met B/C",
+    "finish": "metallic",
+    "notes": "Tesseract batch: code conf≈93; verify chip alignment."
+  },
+  {
+    "oem": "Nissan",
+    "modelYear": 2010,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2010-Nissan.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2010-nissan/2010-Nissan-pg01.jpg",
+    "bbox": {
+      "x": 685,
+      "y": 2591,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#4C4B4D",
+    "code": "G41",
+    "marketingName": "Magnetic 370Z Black Pearl B/C A,MA Red Zone Black Pearl B/C Sahara M35,M45 Sandstone Met B/C Toasted ASV Almond Met B/C",
+    "finish": "pearl",
+    "notes": "Tesseract batch: code conf≈94; verify chip alignment."
+  },
+  {
+    "oem": "Nissan",
+    "modelYear": 2010,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2010-Nissan.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2010-nissan/2010-Nissan-pg02.jpg",
+    "bbox": {
+      "x": 1193,
+      "y": 331,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#757277",
+    "code": "K11",
+    "marketingName": "Umbria Twilight Pearl B/C FX Witty Khaki Pearl B/C c Smoke AR, Met 6250 QX,T B/C",
+    "finish": "pearl",
+    "notes": "Tesseract batch: code conf≈92; verify chip alignment."
+  },
+  {
+    "oem": "Nissan",
+    "modelYear": 2010,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2010-Nissan.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2010-nissan/2010-Nissan-pg02.jpg",
+    "bbox": {
+      "x": 1608,
+      "y": 330,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#D2D0D6",
+    "code": "K12",
+    "marketingName": "Radiant Silver P.QX, Met 6251 TXT B/C",
+    "finish": "metallic",
+    "notes": "Tesseract batch: code conf≈92; verify chip alignment."
+  },
+  {
+    "oem": "Nissan",
+    "modelYear": 2010,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2010-Nissan.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2010-nissan/2010-Nissan-pg02.jpg",
+    "bbox": {
+      "x": 2018,
+      "y": 328,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#7D7B82",
+    "code": "K21",
+    "marketingName": "Twilight Gray Pearl B/C —",
+    "finish": "pearl",
+    "notes": "Tesseract batch: code conf≈84; verify chip alignment."
+  },
+  {
+    "oem": "Nissan",
+    "modelYear": 2010,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2010-Nissan.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2010-nissan/2010-Nissan-pg02.jpg",
+    "bbox": {
+      "x": 371,
+      "y": 898,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#CECDD4",
+    "code": "K23",
+    "marketingName": "Airstream Most Met Models B/C",
+    "finish": "metallic",
+    "notes": "Tesseract batch: code conf≈92; verify chip alignment."
+  },
+  {
+    "oem": "Nissan",
+    "modelYear": 2010,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2010-Nissan.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2010-nissan/2010-Nissan-pg02.jpg",
+    "bbox": {
+      "x": 783,
+      "y": 897,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#5F5F63",
+    "code": "K26",
+    "marketingName": "Night Armor Pearl EXT B/C",
+    "finish": "pearl",
+    "notes": "Tesseract batch: code conf≈92; verify chip alignment."
+  },
+  {
+    "oem": "Nissan",
+    "modelYear": 2010,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2010-Nissan.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2010-nissan/2010-Nissan-pg02.jpg",
+    "bbox": {
+      "x": 1195,
+      "y": 895,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#ACA9B0",
+    "code": "K36",
+    "marketingName": "Magnetic Grey Met SV B/C",
+    "finish": "metallic",
+    "notes": "Tesseract batch: code conf≈92; verify chip alignment."
+  },
+  {
+    "oem": "Nissan",
+    "modelYear": 2010,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2010-Nissan.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2010-nissan/2010-Nissan-pg02.jpg",
+    "bbox": {
+      "x": 1608,
+      "y": 894,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#717075",
+    "code": "K50",
+    "marketingName": "Dark Slate Pearl A,MA,P B/C",
+    "finish": "pearl",
+    "notes": "Tesseract batch: code conf≈87; verify chip alignment."
+  },
+  {
+    "oem": "Nissan",
+    "modelYear": 2010,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2010-Nissan.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2010-nissan/2010-Nissan-pg02.jpg",
+    "bbox": {
+      "x": 2018,
+      "y": 893,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#9B969C",
+    "code": "K51",
+    "marketingName": "370Z,EX,FX,M35,M45,MU,ROG Carbon Silver Pearl B/C",
+    "finish": "pearl",
+    "notes": "Tesseract batch: code conf≈89; verify chip alignment."
+  },
+  {
+    "oem": "Nissan",
+    "modelYear": 2010,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2010-Nissan.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2010-nissan/2010-Nissan-pg02.jpg",
+    "bbox": {
+      "x": 371,
+      "y": 1464,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#5C5B60",
+    "code": "K52",
+    "marketingName": "Dark Gray Pearl B/C Iridium",
+    "finish": "pearl",
+    "notes": "Tesseract batch: code conf≈92; verify chip alignment."
+  },
+  {
+    "oem": "Nissan",
+    "modelYear": 2010,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2010-Nissan.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2010-nissan/2010-Nissan-pg02.jpg",
+    "bbox": {
+      "x": 783,
+      "y": 1462,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#746E72",
+    "code": "K55",
+    "marketingName": "Graphite Met ROG B/C Liquid",
+    "finish": "metallic",
+    "notes": "Tesseract batch: code conf≈91; verify chip alignment."
+  },
+  {
+    "oem": "Nissan",
+    "modelYear": 2010,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2010-Nissan.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2010-nissan/2010-Nissan-pg02.jpg",
+    "bbox": {
+      "x": 1195,
+      "y": 1461,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#8A858E",
+    "code": "K57",
+    "marketingName": "Metal Gray Pearl B/C Desert G37,GTR,M35,M45 Shadow Met B/C Gun G37,GTR Met B/C = —_",
+    "finish": "pearl",
+    "notes": "Tesseract batch: code conf≈91; verify chip alignment."
+  },
+  {
+    "oem": "Nissan",
+    "modelYear": 2010,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2010-Nissan.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2010-nissan/2010-Nissan-pg03.jpg",
+    "bbox": {
+      "x": 713,
+      "y": 2028,
+      "w": 190,
+      "h": 210
+    },
+    "hex": "#313033",
+    "code": "NPX2650",
+    "marketingName": "_ Q10,Q11 K11,K26",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈92; verify chip alignment."
+  },
+  {
+    "oem": "Nissan",
+    "modelYear": 2010,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2010-Nissan.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2010-nissan/2010-Nissan-pg03.jpg",
+    "bbox": {
+      "x": 1125,
+      "y": 2030,
+      "w": 190,
+      "h": 210
+    },
+    "hex": "#2E2C31",
+    "code": "NPX2652",
+    "marketingName": "K11,K26,KH3",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈92; verify chip alignment."
+  },
+  {
+    "oem": "Nissan",
+    "modelYear": 2010,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2010-Nissan.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2010-nissan/2010-Nissan-pg03.jpg",
+    "bbox": {
+      "x": 1538,
+      "y": 2028,
+      "w": 190,
+      "h": 210
+    },
+    "hex": "#2B2B48",
+    "code": "NPX3658",
+    "marketingName": "Unknown (OCR)",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈92; verify chip alignment."
+  },
+  {
+    "oem": "Nissan",
+    "modelYear": 2010,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2010-Nissan.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2010-nissan/2010-Nissan-pg03.jpg",
+    "bbox": {
+      "x": 1950,
+      "y": 2026,
+      "w": 190,
+      "h": 210
+    },
+    "hex": "#802F32",
+    "code": "OPP2620",
+    "marketingName": "Unknown (OCR)",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈93; verify chip alignment."
+  },
+  {
+    "oem": "Nissan",
+    "modelYear": 2010,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2010-Nissan.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2010-nissan/2010-Nissan-pg03.jpg",
+    "bbox": {
+      "x": 301,
+      "y": 2598,
+      "w": 190,
+      "h": 210
+    },
+    "hex": "#817F8B",
+    "code": "OPP2622",
+    "marketingName": "= ~ Silver",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈92; verify chip alignment."
+  },
+  {
+    "oem": "Nissan",
+    "modelYear": 2010,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2010-Nissan.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2010-nissan/2010-Nissan-pg03.jpg",
+    "bbox": {
+      "x": 714,
+      "y": 2596,
+      "w": 189,
+      "h": 210
+    },
+    "hex": "#363538",
+    "code": "OPP2652",
+    "marketingName": "Black G10,K11,KH3",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈93; verify chip alignment."
+  },
+  {
+    "oem": "Nissan",
+    "modelYear": 2010,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2010-Nissan.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2010-nissan/2010-Nissan-pg03.jpg",
+    "bbox": {
+      "x": 1126,
+      "y": 2594,
+      "w": 190,
+      "h": 210
+    },
+    "hex": "#782F32",
+    "code": "OPP2656",
+    "marketingName": "Burgandy",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈91; verify chip alignment."
+  },
+  {
+    "oem": "Nissan",
+    "modelYear": 2010,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2010-Nissan.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2010-nissan/2010-Nissan-pg03.jpg",
+    "bbox": {
+      "x": 694,
+      "y": 338,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#FEFEFE",
+    "code": "Q10",
+    "marketingName": "a Black 370Z Rose Pearl B/C AR,T Blizzard White B/C",
+    "finish": "pearl",
+    "notes": "Tesseract batch: code conf≈86; verify chip alignment."
+  },
+  {
+    "oem": "Nissan",
+    "modelYear": 2010,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2010-Nissan.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2010-nissan/2010-Nissan-pg03.jpg",
+    "bbox": {
+      "x": 1104,
+      "y": 336,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#FEFDFD",
+    "code": "Q11",
+    "marketingName": "Nordic ax White 3ct Moonlight EX,FX,G37,M35,M45 White Pearl 3ct White 370Z,GTR Pearl 3ct",
+    "finish": "pearl",
+    "notes": "Tesseract batch: code conf≈91; verify chip alignment."
+  },
+  {
+    "oem": "Nissan",
+    "modelYear": 2011,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2011-Nissan.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2011-nissan/2011-Nissan-pg01.jpg",
+    "bbox": {
+      "x": 263,
+      "y": 320,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#C86C74",
+    "code": "A20",
+    "marketingName": "= Scarlet Red B/C",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈93; verify chip alignment."
+  },
+  {
+    "oem": "Nissan",
+    "modelYear": 2011,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2011-Nissan.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2011-nissan/2011-Nissan-pg01.jpg",
+    "bbox": {
+      "x": 676,
+      "y": 320,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#BD5D64",
+    "code": "A54",
+    "marketingName": "Plasma 370Z,G,GTR Red B/C 5748 Merlot MU Pearl B/C Luminous C Red Met B/C 6176 Daytona SV Blue Pearl B/C",
+    "finish": "pearl",
+    "notes": "Tesseract batch: code conf≈86; verify chip alignment."
+  },
+  {
+    "oem": "Nissan",
+    "modelYear": 2011,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2011-Nissan.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2011-nissan/2011-Nissan-pg01.jpg",
+    "bbox": {
+      "x": 263,
+      "y": 885,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#67656A",
+    "code": "B20",
+    "marketingName": "— Sapphire C.J Black Pearl",
+    "finish": "pearl",
+    "notes": "Tesseract batch: code conf≈97; verify chip alignment."
+  },
+  {
+    "oem": "Nissan",
+    "modelYear": 2011,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2011-Nissan.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2011-nissan/2011-Nissan-pg01.jpg",
+    "bbox": {
+      "x": 676,
+      "y": 884,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#6D6C72",
+    "code": "B23",
+    "marketingName": "B/C Dark SV Blue Pearl B/C",
+    "finish": "pearl",
+    "notes": "Tesseract batch: code conf≈97; verify chip alignment."
+  },
+  {
+    "oem": "Nissan",
+    "modelYear": 2011,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2011-Nissan.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2011-nissan/2011-Nissan-pg01.jpg",
+    "bbox": {
+      "x": 1088,
+      "y": 883,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#8F939E",
+    "code": "B30",
+    "marketingName": "AR,T Lakeshore Slate Met",
+    "finish": "metallic",
+    "notes": "Tesseract batch: code conf≈97; verify chip alignment."
+  },
+  {
+    "oem": "Nissan",
+    "modelYear": 2011,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2011-Nissan.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2011-nissan/2011-Nissan-pg01.jpg",
+    "bbox": {
+      "x": 1498,
+      "y": 882,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#6E96C2",
+    "code": "B51",
+    "marketingName": "B/C J New York Blue Pearl B/C Indigo ROG Blue Met B/C",
+    "finish": "pearl",
+    "notes": "Tesseract batch: code conf≈91; verify chip alignment."
+  },
+  {
+    "oem": "Nissan",
+    "modelYear": 2011,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2011-Nissan.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2011-nissan/2011-Nissan-pg02.jpg",
+    "bbox": {
+      "x": 715,
+      "y": 2931,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#F3F1F3",
+    "code": "EX35",
+    "marketingName": "Unknown (OCR)",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈53; verify chip alignment."
+  },
+  {
+    "oem": "Nissan",
+    "modelYear": 2011,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2011-Nissan.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2011-nissan/2011-Nissan-pg02.jpg",
+    "bbox": {
+      "x": 1197,
+      "y": 314,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#767479",
+    "code": "K11",
+    "marketingName": "Mountain Sage Pearl B/C Qx Pop Green Met B/C XT Smoke Met 6250 AR,T B/C",
+    "finish": "pearl",
+    "notes": "Tesseract batch: code conf≈65; verify chip alignment."
+  },
+  {
+    "oem": "Nissan",
+    "modelYear": 2011,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2011-Nissan.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2011-nissan/2011-Nissan-pg02.jpg",
+    "bbox": {
+      "x": 1611,
+      "y": 312,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#D1CFD5",
+    "code": "K12",
+    "marketingName": "Radiant Silver Met 6251 B/C",
+    "finish": "metallic",
+    "notes": "Tesseract batch: code conf≈92; verify chip alignment."
+  },
+  {
+    "oem": "Nissan",
+    "modelYear": 2011,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2011-Nissan.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2011-nissan/2011-Nissan-pg02.jpg",
+    "bbox": {
+      "x": 2022,
+      "y": 310,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#87858C",
+    "code": "K21",
+    "marketingName": "Twilight Gray Pearl B/C C",
+    "finish": "pearl",
+    "notes": "Tesseract batch: code conf≈92; verify chip alignment."
+  },
+  {
+    "oem": "Nissan",
+    "modelYear": 2011,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2011-Nissan.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2011-nissan/2011-Nissan-pg02.jpg",
+    "bbox": {
+      "x": 375,
+      "y": 882,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#D2D1D7",
+    "code": "K23",
+    "marketingName": "Airstream Most Met Models B/C",
+    "finish": "metallic",
+    "notes": "Tesseract batch: code conf≈91; verify chip alignment."
+  },
+  {
+    "oem": "Nissan",
+    "modelYear": 2011,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2011-Nissan.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2011-nissan/2011-Nissan-pg02.jpg",
+    "bbox": {
+      "x": 788,
+      "y": 880,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#6B6A6E",
+    "code": "K26",
+    "marketingName": "Night Armor Pearl EXT B/C",
+    "finish": "pearl",
+    "notes": "Tesseract batch: code conf≈92; verify chip alignment."
+  },
+  {
+    "oem": "Nissan",
+    "modelYear": 2011,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2011-Nissan.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2011-nissan/2011-Nissan-pg02.jpg",
+    "bbox": {
+      "x": 1200,
+      "y": 878,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#B3B1B8",
+    "code": "K36",
+    "marketingName": "Magnetic Grey Met SV B/C",
+    "finish": "metallic",
+    "notes": "Tesseract batch: code conf≈92; verify chip alignment."
+  },
+  {
+    "oem": "Nissan",
+    "modelYear": 2011,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2011-Nissan.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2011-nissan/2011-Nissan-pg02.jpg",
+    "bbox": {
+      "x": 1613,
+      "y": 876,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#727177",
+    "code": "K50",
+    "marketingName": "Dark Slate Pearl B/C",
+    "finish": "pearl",
+    "notes": "Tesseract batch: code conf≈92; verify chip alignment."
+  },
+  {
+    "oem": "Nissan",
+    "modelYear": 2011,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2011-Nissan.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2011-nissan/2011-Nissan-pg02.jpg",
+    "bbox": {
+      "x": 2023,
+      "y": 874,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#9D979E",
+    "code": "K51",
+    "marketingName": "FX,M37,M56,MU,Q,QX,ROG Carbon Silver Pearl B/C YY —",
+    "finish": "pearl",
+    "notes": "Tesseract batch: code conf≈89; verify chip alignment."
+  },
+  {
+    "oem": "Nissan",
+    "modelYear": 2011,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2011-Nissan.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2011-nissan/2011-Nissan-pg03.jpg",
+    "bbox": {
+      "x": 709,
+      "y": 2586,
+      "w": 189,
+      "h": 210
+    },
+    "hex": "#2F2E31",
+    "code": "NPX2650",
+    "marketingName": "White Hippo Grey",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈93; verify chip alignment."
+  },
+  {
+    "oem": "Nissan",
+    "modelYear": 2011,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2011-Nissan.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2011-nissan/2011-Nissan-pg03.jpg",
+    "bbox": {
+      "x": 1121,
+      "y": 2584,
+      "w": 190,
+      "h": 210
+    },
+    "hex": "#27262B",
+    "code": "NPX2652",
+    "marketingName": "Midnight Grey",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈93; verify chip alignment."
+  },
+  {
+    "oem": "Nissan",
+    "modelYear": 2011,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2011-Nissan.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2011-nissan/2011-Nissan-pg03.jpg",
+    "bbox": {
+      "x": 1533,
+      "y": 2582,
+      "w": 190,
+      "h": 210
+    },
+    "hex": "#883537",
+    "code": "OPP2620",
+    "marketingName": "Dark Red",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈93; verify chip alignment."
+  },
+  {
+    "oem": "Nissan",
+    "modelYear": 2011,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2011-Nissan.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2011-nissan/2011-Nissan-pg03.jpg",
+    "bbox": {
+      "x": 1945,
+      "y": 2581,
+      "w": 190,
+      "h": 210
+    },
+    "hex": "#7A7884",
+    "code": "OPP2622",
+    "marketingName": "Silver",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈92; verify chip alignment."
+  },
+  {
+    "oem": "Nissan",
+    "modelYear": 2011,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2011-Nissan.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2011-nissan/2011-Nissan-pg02.jpg",
+    "bbox": {
+      "x": 1539,
+      "y": 2926,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#F2F1F3",
+    "code": "QX56",
+    "marketingName": "Unknown (OCR)",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈85; verify chip alignment."
+  },
+  {
+    "oem": "Nissan",
+    "modelYear": 2012,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2012-Nissan.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2012-nissan/2012-Nissan-pg01.jpg",
+    "bbox": {
+      "x": 268,
+      "y": 341,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#D18087",
+    "code": "A20",
+    "marketingName": "A,NV,T Red Alert B/C Plasma 370Z,G,GTR Red B/C",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈93; verify chip alignment."
+  },
+  {
+    "oem": "Nissan",
+    "modelYear": 2012,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2012-Nissan.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2012-nissan/2012-Nissan-pg01.jpg",
+    "bbox": {
+      "x": 1505,
+      "y": 336,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#8D92B7",
+    "code": "B17",
+    "marketingName": "Merlot 5748 MU Pearl B/C 6176 Daytona Blue Pearl",
+    "finish": "pearl",
+    "notes": "Tesseract batch: code conf≈96; verify chip alignment."
+  },
+  {
+    "oem": "Nissan",
+    "modelYear": 2012,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2012-Nissan.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2012-nissan/2012-Nissan-pg01.jpg",
+    "bbox": {
+      "x": 1917,
+      "y": 335,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#838185",
+    "code": "B20",
+    "marketingName": "B/C Sapphire C,J,MU Black Pearl B/C",
+    "finish": "pearl",
+    "notes": "Tesseract batch: code conf≈97; verify chip alignment."
+  },
+  {
+    "oem": "Nissan",
+    "modelYear": 2012,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2012-Nissan.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2012-nissan/2012-Nissan-pg01.jpg",
+    "bbox": {
+      "x": 270,
+      "y": 905,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#7A7A7F",
+    "code": "B23",
+    "marketingName": "Dark Blue Pearl B/C",
+    "finish": "pearl",
+    "notes": "Tesseract batch: code conf≈97; verify chip alignment."
+  },
+  {
+    "oem": "Nissan",
+    "modelYear": 2012,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2012-Nissan.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2012-nissan/2012-Nissan-pg01.jpg",
+    "bbox": {
+      "x": 682,
+      "y": 904,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#9499A3",
+    "code": "B30",
+    "marketingName": "AR,T Lakeshore Slate Met",
+    "finish": "metallic",
+    "notes": "Tesseract batch: code conf≈97; verify chip alignment."
+  },
+  {
+    "oem": "Nissan",
+    "modelYear": 2012,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2012-Nissan.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2012-nissan/2012-Nissan-pg01.jpg",
+    "bbox": {
+      "x": 1092,
+      "y": 902,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#7599C3",
+    "code": "B51",
+    "marketingName": "B/C New J York Blue Pearl B/C Tinted MU Bronze Met B/C AR,PS Choco Glass Pearl B/C",
+    "finish": "pearl",
+    "notes": "Tesseract batch: code conf≈94; verify chip alignment."
+  },
+  {
+    "oem": "Nissan",
+    "modelYear": 2012,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2012-Nissan.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2012-nissan/2012-Nissan-pg04.jpg",
+    "bbox": {
+      "x": 699,
+      "y": 2963,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#D8D4DB",
+    "code": "EX35",
+    "marketingName": "Unknown (OCR)",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈82; verify chip alignment."
+  },
+  {
+    "oem": "Nissan",
+    "modelYear": 2012,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2012-Nissan.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2012-nissan/2012-Nissan-pg02.jpg",
+    "bbox": {
+      "x": 784,
+      "y": 333,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#D5D4DA",
+    "code": "K23",
+    "marketingName": "Pop Green Met B/C XT Airstream Most Met Models B/C",
+    "finish": "metallic",
+    "notes": "Tesseract batch: code conf≈92; verify chip alignment."
+  },
+  {
+    "oem": "Nissan",
+    "modelYear": 2012,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2012-Nissan.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2012-nissan/2012-Nissan-pg02.jpg",
+    "bbox": {
+      "x": 1196,
+      "y": 331,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#6F6E72",
+    "code": "K26",
+    "marketingName": "Night Armor Pearl EXT B/C",
+    "finish": "pearl",
+    "notes": "Tesseract batch: code conf≈93; verify chip alignment."
+  },
+  {
+    "oem": "Nissan",
+    "modelYear": 2012,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2012-Nissan.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2012-nissan/2012-Nissan-pg02.jpg",
+    "bbox": {
+      "x": 1609,
+      "y": 329,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#B2AFB5",
+    "code": "K36",
+    "marketingName": "Magnetic Gray Met SV. B/C",
+    "finish": "metallic",
+    "notes": "Tesseract batch: code conf≈92; verify chip alignment."
+  },
+  {
+    "oem": "Nissan",
+    "modelYear": 2012,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2012-Nissan.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2012-nissan/2012-Nissan-pg02.jpg",
+    "bbox": {
+      "x": 2021,
+      "y": 328,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#717176",
+    "code": "K50",
+    "marketingName": "Dark Slate Pearl B/C iz",
+    "finish": "pearl",
+    "notes": "Tesseract batch: code conf≈91; verify chip alignment."
+  },
+  {
+    "oem": "Nissan",
+    "modelYear": 2012,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2012-Nissan.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2012-nissan/2012-Nissan-pg02.jpg",
+    "bbox": {
+      "x": 371,
+      "y": 898,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#9E999F",
+    "code": "K51",
+    "marketingName": "Carbon M,MU,Q,QX,ROG Silver Pearl B/C",
+    "finish": "pearl",
+    "notes": "Tesseract batch: code conf≈87; verify chip alignment."
+  },
+  {
+    "oem": "Nissan",
+    "modelYear": 2012,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2012-Nissan.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2012-nissan/2012-Nissan-pg02.jpg",
+    "bbox": {
+      "x": 785,
+      "y": 897,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#79787D",
+    "code": "K52",
+    "marketingName": "Dark Gray Pearl B/C G Desert Shadow Met GV B/C 370Z,C,EX,FX,G,GTR,J Gun Met B/C Saharan Stone Met B/C A",
+    "finish": "pearl",
+    "notes": "Tesseract batch: code conf≈93; verify chip alignment."
+  },
+  {
+    "oem": "Nissan",
+    "modelYear": 2012,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2012-Nissan.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2012-nissan/2012-Nissan-pg03.jpg",
+    "bbox": {
+      "x": 718,
+      "y": 2602,
+      "w": 189,
+      "h": 210
+    },
+    "hex": "#333235",
+    "code": "NPX2650",
+    "marketingName": "White Hippo Grey",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈93; verify chip alignment."
+  },
+  {
+    "oem": "Nissan",
+    "modelYear": 2012,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2012-Nissan.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2012-nissan/2012-Nissan-pg03.jpg",
+    "bbox": {
+      "x": 1130,
+      "y": 2599,
+      "w": 189,
+      "h": 210
+    },
+    "hex": "#363539",
+    "code": "NPX2652",
+    "marketingName": "Midnight Grey",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈93; verify chip alignment."
+  },
+  {
+    "oem": "Nissan",
+    "modelYear": 2012,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2012-Nissan.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2012-nissan/2012-Nissan-pg03.jpg",
+    "bbox": {
+      "x": 1541,
+      "y": 2597,
+      "w": 191,
+      "h": 210
+    },
+    "hex": "#873E3F",
+    "code": "OPP2620",
+    "marketingName": "Dark Red",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈92; verify chip alignment."
+  },
+  {
+    "oem": "Nissan",
+    "modelYear": 2012,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2012-Nissan.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2012-nissan/2012-Nissan-pg03.jpg",
+    "bbox": {
+      "x": 1953,
+      "y": 2594,
+      "w": 191,
+      "h": 210
+    },
+    "hex": "#85838E",
+    "code": "OPP2622",
+    "marketingName": "Silver",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈92; verify chip alignment."
+  },
+  {
+    "oem": "Nissan",
+    "modelYear": 2012,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2012-Nissan.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2012-nissan/2012-Nissan-pg04.jpg",
+    "bbox": {
+      "x": 311,
+      "y": 349,
+      "w": 190,
+      "h": 210
+    },
+    "hex": "#29292B",
+    "code": "OPP2652",
+    "marketingName": "Black",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈91; verify chip alignment."
+  },
+  {
+    "oem": "Nissan",
+    "modelYear": 2012,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2012-Nissan.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2012-nissan/2012-Nissan-pg04.jpg",
+    "bbox": {
+      "x": 723,
+      "y": 349,
+      "w": 190,
+      "h": 210
+    },
+    "hex": "#5D373A",
+    "code": "OPP2656",
+    "marketingName": "Burgandy",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈91; verify chip alignment."
+  },
+  {
+    "oem": "Nissan",
+    "modelYear": 2012,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2012-Nissan.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2012-nissan/2012-Nissan-pg04.jpg",
+    "bbox": {
+      "x": 1414,
+      "y": 2962,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#D9D5DC",
+    "code": "QX56",
+    "marketingName": "Unknown (OCR)",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈75; verify chip alignment."
+  },
+  {
+    "oem": "Nissan",
+    "modelYear": 2014,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2014-Nissan.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2014-nissan/2014-Nissan-pg01.jpg",
+    "bbox": {
+      "x": 29,
+      "y": 303,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#C8687C",
+    "code": "A20",
+    "marketingName": "J Red Alert B/C",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈93; verify chip alignment."
+  },
+  {
+    "oem": "Nissan",
+    "modelYear": 2014,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2014-Nissan.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2014-nissan/2014-Nissan-pg01.jpg",
+    "bbox": {
+      "x": 856,
+      "y": 305,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#677198",
+    "code": "B17",
+    "marketingName": "Solid 370Z,GTR Red B/C 6176 Metallic Blue Prl 3ct",
+    "finish": "pearl",
+    "notes": "Tesseract batch: code conf≈96; verify chip alignment."
+  },
+  {
+    "oem": "Nissan",
+    "modelYear": 2014,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2014-Nissan.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2014-nissan/2014-Nissan-pg01.jpg",
+    "bbox": {
+      "x": 1269,
+      "y": 306,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#505358",
+    "code": "B20",
+    "marketingName": "Sapphire C,J,MU Black",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈97; verify chip alignment."
+  },
+  {
+    "oem": "Nissan",
+    "modelYear": 2014,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2014-Nissan.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2014-nissan/2014-Nissan-pg01.jpg",
+    "bbox": {
+      "x": 1681,
+      "y": 306,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#64687D",
+    "code": "B23",
+    "marketingName": "B/C Blue NVV Onyx Pri B/C",
+    "finish": "pearl",
+    "notes": "Tesseract batch: code conf≈97; verify chip alignment."
+  },
+  {
+    "oem": "Nissan",
+    "modelYear": 2014,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2014-Nissan.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2014-nissan/2014-Nissan-pg01.jpg",
+    "bbox": {
+      "x": 1265,
+      "y": 1995,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#535656",
+    "code": "G10",
+    "marketingName": "NYC NV Taxi Yellow B/C Glacial Silver Met B/C Peacock V Green Met B/C AR,T Galaxy Met B/C",
+    "finish": "metallic",
+    "notes": "Tesseract batch: code conf≈46; verify chip alignment."
+  },
+  {
+    "oem": "Nissan",
+    "modelYear": 2014,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2014-Nissan.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2014-nissan/2014-Nissan-pg01.jpg",
+    "bbox": {
+      "x": 1675,
+      "y": 1995,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#616362",
+    "code": "G41",
+    "marketingName": "Magnetic 370Z Black Pri B/C",
+    "finish": "pearl",
+    "notes": "Tesseract batch: code conf≈95; verify chip alignment."
+  },
+  {
+    "oem": "Nissan",
+    "modelYear": 2014,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2014-Nissan.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2014-nissan/2014-Nissan-pg02.jpg",
+    "bbox": {
+      "x": 713,
+      "y": 312,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#82868C",
+    "code": "K13",
+    "marketingName": "P",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈92; verify chip alignment."
+  },
+  {
+    "oem": "Nissan",
+    "modelYear": 2014,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2014-Nissan.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2014-nissan/2014-Nissan-pg02.jpg",
+    "bbox": {
+      "x": 1123,
+      "y": 307,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#CBD9DC",
+    "code": "K23",
+    "marketingName": "Most Models",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈93; verify chip alignment."
+  },
+  {
+    "oem": "Nissan",
+    "modelYear": 2014,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2014-Nissan.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2014-nissan/2014-Nissan-pg02.jpg",
+    "bbox": {
+      "x": 1539,
+      "y": 311,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#828688",
+    "code": "K26",
+    "marketingName": "EXT",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈92; verify chip alignment."
+  },
+  {
+    "oem": "Nissan",
+    "modelYear": 2014,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2014-Nissan.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2014-nissan/2014-Nissan-pg02.jpg",
+    "bbox": {
+      "x": 1951,
+      "y": 310,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#909BA0",
+    "code": "K36",
+    "marketingName": "SV",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈92; verify chip alignment."
+  },
+  {
+    "oem": "Nissan",
+    "modelYear": 2014,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2014-Nissan.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2014-nissan/2014-Nissan-pg02.jpg",
+    "bbox": {
+      "x": 299,
+      "y": 876,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#71757C",
+    "code": "K50",
+    "marketingName": "Dark Slate B/C Platinum",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈91; verify chip alignment."
+  },
+  {
+    "oem": "Nissan",
+    "modelYear": 2014,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2014-Nissan.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2014-nissan/2014-Nissan-pg02.jpg",
+    "bbox": {
+      "x": 711,
+      "y": 876,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#8B9296",
+    "code": "K51",
+    "marketingName": "Graphite Prl B/C",
+    "finish": "pearl",
+    "notes": "Tesseract batch: code conf≈89; verify chip alignment."
+  },
+  {
+    "oem": "Nissan",
+    "modelYear": 2014,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2014-Nissan.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2014-nissan/2014-Nissan-pg02.jpg",
+    "bbox": {
+      "x": 1125,
+      "y": 875,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#6C7079",
+    "code": "K52",
+    "marketingName": "Blue Slate Pri B/C Titanium Q,QX80,V Met B/C Q,Q50,Q60,QX50,QX70,ROG,S 370Z,A,AR,C,GTR,J,MA,MU, Gun Met B/C",
+    "finish": "pearl",
+    "notes": "Tesseract batch: code conf≈91; verify chip alignment."
+  },
+  {
+    "oem": "Nissan",
+    "modelYear": 2014,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2014-Nissan.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2014-nissan/2014-Nissan-pg02.jpg",
+    "bbox": {
+      "x": 1129,
+      "y": 946,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#9D9FA4",
+    "code": "Q60",
+    "marketingName": "Q,Q50,Q60,QX50,QX70,ROG,S",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈69; verify chip alignment."
+  },
+  {
+    "oem": "Nissan",
+    "modelYear": 2014,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2014-Nissan.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2014-nissan/2014-Nissan-pg02.jpg",
+    "bbox": {
+      "x": 924,
+      "y": 2923,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#F5F4F1",
+    "code": "QX50",
+    "marketingName": "Unknown (OCR)",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈87; verify chip alignment."
+  },
+  {
+    "oem": "Nissan",
+    "modelYear": 2014,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2014-Nissan.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2014-nissan/2014-Nissan-pg02.jpg",
+    "bbox": {
+      "x": 1558,
+      "y": 2922,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#F1F1EF",
+    "code": "QX80",
+    "marketingName": "Unknown (OCR)",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈85; verify chip alignment."
+  },
+  {
+    "oem": "Nissan",
+    "modelYear": 2017,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2017-Nissan.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2017-nissan/2017-Nissan-pg02.jpg",
+    "bbox": {
+      "x": 280,
+      "y": 331,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#AD505E",
+    "code": "A20",
+    "marketingName": "JS",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈93; verify chip alignment."
+  },
+  {
+    "oem": "Nissan",
+    "modelYear": 2017,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2017-Nissan.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2017-nissan/2017-Nissan-pg02.jpg",
+    "bbox": {
+      "x": 695,
+      "y": 334,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#A64F5A",
+    "code": "A54",
+    "marketingName": "370Z,GTR",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈80; verify chip alignment."
+  },
+  {
+    "oem": "Nissan",
+    "modelYear": 2017,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2017-Nissan.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2017-nissan/2017-Nissan-pg02.jpg",
+    "bbox": {
+      "x": 1107,
+      "y": 332,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#5C5980",
+    "code": "B17",
+    "marketingName": "6176 V AR, 5872 Q70,QX60,QX80 A,MU,NV,T",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈96; verify chip alignment."
+  },
+  {
+    "oem": "Nissan",
+    "modelYear": 2017,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2017-Nissan.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2017-nissan/2017-Nissan-pg03.jpg",
+    "bbox": {
+      "x": 1395,
+      "y": 2924,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#CFC9CB",
+    "code": "QX30",
+    "marketingName": "2017 Nissan - Page 2 -",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈92; verify chip alignment."
+  },
+  {
+    "oem": "Nissan",
+    "modelYear": 2017,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2017-Nissan.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2017-nissan/2017-Nissan-pg03.jpg",
+    "bbox": {
+      "x": 1587,
+      "y": 2923,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#CEC8CA",
+    "code": "QX50",
+    "marketingName": "Unknown (OCR)",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈63; verify chip alignment."
+  },
+  {
+    "oem": "Nissan",
+    "modelYear": 2017,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2017-Nissan.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2017-nissan/2017-Nissan-pg03.jpg",
+    "bbox": {
+      "x": 2044,
+      "y": 2919,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#CFC9CB",
+    "code": "QX70",
+    "marketingName": "Unknown (OCR)",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈84; verify chip alignment."
+  },
+  {
+    "oem": "Nissan",
+    "modelYear": 2017,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2017-Nissan.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2017-nissan/2017-Nissan-pg03.jpg",
+    "bbox": {
+      "x": 674,
+      "y": 2959,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#CAC3C5",
+    "code": "QX80",
+    "marketingName": "Unknown (OCR)",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈86; verify chip alignment."
+  },
+  {
+    "oem": "Nissan",
+    "modelYear": 2018,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2018-Nissan.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2018-nissan/2018-Nissan-pg02.jpg",
+    "bbox": {
+      "x": 1086,
+      "y": 2443,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#CCD5DD",
+    "code": "Q50",
+    "marketingName": "Unknown (OCR)",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈76; verify chip alignment."
+  },
+  {
+    "oem": "Nissan",
+    "modelYear": 2018,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2018-Nissan.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2018-nissan/2018-Nissan-pg01.jpg",
+    "bbox": {
+      "x": 322,
+      "y": 1930,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#DDD0BA",
+    "code": "Q60",
+    "marketingName": "Unknown (OCR)",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈92; verify chip alignment."
+  },
+  {
+    "oem": "Nissan",
+    "modelYear": 2018,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2018-Nissan.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2018-nissan/2018-Nissan-pg02.jpg",
+    "bbox": {
+      "x": 826,
+      "y": 2443,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#838DAC",
+    "code": "QX30",
+    "marketingName": "Unknown (OCR)",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈40; verify chip alignment."
+  },
+  {
+    "oem": "Nissan",
+    "modelYear": 2018,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2018-Nissan.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2018-nissan/2018-Nissan-pg02.jpg",
+    "bbox": {
+      "x": 1710,
+      "y": 908,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#CF727D",
+    "code": "QX50",
+    "marketingName": "Unknown (OCR)",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈50; verify chip alignment."
+  },
+  {
+    "oem": "Nissan",
+    "modelYear": 2018,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2018-Nissan.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2018-nissan/2018-Nissan-pg02.jpg",
+    "bbox": {
+      "x": 1272,
+      "y": 2444,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#B5C0C9",
+    "code": "QX60",
+    "marketingName": "Unknown (OCR)",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈58; verify chip alignment."
+  },
+  {
+    "oem": "Nissan",
+    "modelYear": 2018,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2018-Nissan.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2018-nissan/2018-Nissan-pg03.jpg",
+    "bbox": {
+      "x": 1703,
+      "y": 3166,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#DCDDDA",
+    "code": "QX80",
+    "marketingName": "Unknown (OCR)",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈57; verify chip alignment."
+  },
+  {
+    "oem": "Nissan",
+    "modelYear": 2019,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2019-Nissan.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2019-nissan/2019_NissanInfiniti_02.jpg",
+    "bbox": {
+      "x": 1859,
+      "y": 245,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#8C5353",
+    "code": "QX30",
+    "marketingName": "Unknown (OCR)",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈77; verify chip alignment."
+  },
+  {
+    "oem": "Nissan",
+    "modelYear": 2019,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2019-Nissan.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2019-nissan/2019_NissanInfiniti_01.jpg",
+    "bbox": {
+      "x": 1222,
+      "y": 1682,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#777572",
+    "code": "QX60",
+    "marketingName": "Unknown (OCR)",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈66; verify chip alignment."
+  },
+  {
+    "oem": "Nissan",
+    "modelYear": 2019,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2019-Nissan.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2019-nissan/2019_NissanInfiniti_01.jpg",
+    "bbox": {
+      "x": 1265,
+      "y": 2846,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#DBD5CE",
+    "code": "QX80",
+    "marketingName": "Unknown (OCR)",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈87; verify chip alignment."
+  },
+  {
+    "oem": "Nissan",
+    "modelYear": 2019,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2019-Nissan.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2019-nissan/2019_NissanInfiniti_01.jpg",
+    "bbox": {
+      "x": 1629,
+      "y": 2161,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#817E7B",
+    "code": "QXx80",
+    "marketingName": "Unknown (OCR)",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈41; verify chip alignment."
+  }
+]

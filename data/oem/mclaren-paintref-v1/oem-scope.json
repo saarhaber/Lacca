@@ -1,0 +1,19 @@
+{
+  "$schema": "../../../schemas/oem-scope-v1.schema.json",
+  "scopeId": "mclaren-paintref-v1",
+  "oem": "McLaren",
+  "region": "Global",
+  "modelYears": {
+    "from": 2011,
+    "to": 2026
+  },
+  "models": [
+    "Artura",
+    "750S",
+    "720S",
+    "765LT",
+    "GT"
+  ],
+  "notes": "McLaren exterior colors from industry touch-up references. LAB values are HEX-derived approximations.",
+  "exteriorPaintFile": "./exterior-paints-v1.json"
+}

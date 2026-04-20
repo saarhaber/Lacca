@@ -1,0 +1,17 @@
+{
+  "$schema": "../../../schemas/oem-scope-v1.schema.json",
+  "scopeId": "lancia-curated-v1",
+  "oem": "Lancia",
+  "region": "Global",
+  "modelYears": {
+    "from": 1906,
+    "to": 2026
+  },
+  "models": [
+    "Ypsilon",
+    "Delta",
+    "Stratos"
+  ],
+  "notes": "Lancia exterior colors, curated from industry touch-up references. LAB values are HEX-derived approximations; replace with spectro data before production claims.",
+  "exteriorPaintFile": "./exterior-paints-v1.json"
+}

@@ -1,0 +1,308 @@
+[
+  {
+    "oem": "Volkswagen",
+    "modelYear": 1968,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1968-Volkswagen.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1968-volkswagen/1968-volkswagen-pg07.jpg",
+    "bbox": {
+      "x": 168,
+      "y": 0,
+      "w": 160,
+      "h": 210
+    },
+    "hex": "#EFE6D6",
+    "code": "200/592",
+    "marketingName": "Titian Red Satuengelb “Yellows",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈0; verify chip alignment."
+  },
+  {
+    "oem": "Volkswagen",
+    "modelYear": 1969,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1969-Volkswagen.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1969-volkswagen/1969-volkswagen-pg07.jpg",
+    "bbox": {
+      "x": 168,
+      "y": 0,
+      "w": 160,
+      "h": 210
+    },
+    "hex": "#EFE6D6",
+    "code": "200/592",
+    "marketingName": "Titian Red Satuengelb “Yellows",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈0; verify chip alignment."
+  },
+  {
+    "oem": "Volkswagen",
+    "modelYear": 1970,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1970-Volkswagen.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1970-volkswagen/1970-volkswagen-pg07.jpg",
+    "bbox": {
+      "x": 168,
+      "y": 0,
+      "w": 160,
+      "h": 210
+    },
+    "hex": "#EFE6D6",
+    "code": "200/592",
+    "marketingName": "Titian Red Satuengelb “Yellows",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈0; verify chip alignment."
+  },
+  {
+    "oem": "Volkswagen",
+    "modelYear": 1971,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1971-Volkswagen.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1971-volkswagen/1971-volkswagen-pg07.jpg",
+    "bbox": {
+      "x": 168,
+      "y": 0,
+      "w": 160,
+      "h": 210
+    },
+    "hex": "#EFE6D6",
+    "code": "200/592",
+    "marketingName": "Titian Red Satuengelb “Yellows",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈0; verify chip alignment."
+  },
+  {
+    "oem": "Volkswagen",
+    "modelYear": 1972,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1972-Volkswagen.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1972-volkswagen/1972-volkswagen-pg08.jpg",
+    "bbox": {
+      "x": 168,
+      "y": 0,
+      "w": 160,
+      "h": 210
+    },
+    "hex": "#EFE6D6",
+    "code": "200/592",
+    "marketingName": "Titian Red Satuengelb “Yellows",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈0; verify chip alignment."
+  },
+  {
+    "oem": "Volkswagen",
+    "modelYear": 1973,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1973-Volkswagen.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1973-volkswagen/1973-volkswagen-pg07.jpg",
+    "bbox": {
+      "x": 168,
+      "y": 0,
+      "w": 160,
+      "h": 210
+    },
+    "hex": "#EFE6D6",
+    "code": "200/592",
+    "marketingName": "Titian Red Satuengelb “Yellows",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈0; verify chip alignment."
+  },
+  {
+    "oem": "Volkswagen",
+    "modelYear": 2010,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2010-Volkswagen.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2010-volkswagen/2010-Audi-pg04.jpg",
+    "bbox": {
+      "x": 361,
+      "y": 1466,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#555459",
+    "code": "LZ50",
+    "marketingName": "Factory color LZ50",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈87; verify chip alignment."
+  },
+  {
+    "oem": "Volkswagen",
+    "modelYear": 2010,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2010-Volkswagen.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2010-volkswagen/2010-Audi-pg04.jpg",
+    "bbox": {
+      "x": 1598,
+      "y": 1461,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#626165",
+    "code": "LZ70",
+    "marketingName": "Factory color LZ70",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈73; verify chip alignment."
+  },
+  {
+    "oem": "Volkswagen",
+    "modelYear": 2019,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2019-Volkswagen.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2019-volkswagen/2019_VolkswagenAudi_03.jpg",
+    "bbox": {
+      "x": 111,
+      "y": 1130,
+      "w": 536,
+      "h": 210
+    },
+    "hex": "#BCC3D6",
+    "code": "9094/9984",
+    "marketingName": "Techno Blue Jazz Blue",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈93; verify chip alignment."
+  },
+  {
+    "oem": "Volkswagen",
+    "modelYear": 2019,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2019-Volkswagen.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2019-volkswagen/2019_VolkswagenAudi_02.jpg",
+    "bbox": {
+      "x": 250,
+      "y": 2084,
+      "w": 539,
+      "h": 210
+    },
+    "hex": "#908E95",
+    "code": "9518/9043",
+    "marketingName": "91 Blue Prussian Blue",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈93; verify chip alignment."
+  },
+  {
+    "oem": "Volkswagen",
+    "modelYear": 2019,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2019-Volkswagen.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2019-volkswagen/2019_VolkswagenAudi_02.jpg",
+    "bbox": {
+      "x": 1065,
+      "y": 2082,
+      "w": 945,
+      "h": 210
+    },
+    "hex": "#696A72",
+    "code": "9981/9184",
+    "marketingName": "Moss Green Samurai Gray Curry Gold",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈91; verify chip alignment."
+  },
+  {
+    "oem": "Volkswagen",
+    "modelYear": 2019,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2019-Volkswagen.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2019-volkswagen/2019_VolkswagenAudi_01.jpg",
+    "bbox": {
+      "x": 0,
+      "y": 171,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#343534",
+    "code": "L041",
+    "marketingName": "Night Black G",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈88; verify chip alignment."
+  },
+  {
+    "oem": "Volkswagen",
+    "modelYear": 2019,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2019-Volkswagen.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2019-volkswagen/2019_VolkswagenAudi_01.jpg",
+    "bbox": {
+      "x": 811,
+      "y": 172,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#7CB7AE",
+    "code": "L69N",
+    "marketingName": "Factory color L69N",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈85; verify chip alignment."
+  },
+  {
+    "oem": "Volkswagen",
+    "modelYear": 2019,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2019-Volkswagen.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2019-volkswagen/2019_VolkswagenAudi_01.jpg",
+    "bbox": {
+      "x": 1218,
+      "y": 173,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#7A7A75",
+    "code": "L94F",
+    "marketingName": "Factory color L94F",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈89; verify chip alignment."
+  },
+  {
+    "oem": "Volkswagen",
+    "modelYear": 2019,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2019-Volkswagen.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2019-volkswagen/2019_VolkswagenAudi_04.jpg",
+    "bbox": {
+      "x": 137,
+      "y": 2565,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#728E62",
+    "code": "R611",
+    "marketingName": "Reseda Green",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈93; verify chip alignment."
+  },
+  {
+    "oem": "Volkswagen",
+    "modelYear": 2019,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2019-Volkswagen.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2019-volkswagen/2019_VolkswagenAudi_04.jpg",
+    "bbox": {
+      "x": 550,
+      "y": 2564,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#7D8F96",
+    "code": "R700",
+    "marketingName": "Squirrel Gray",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈93; verify chip alignment."
+  },
+  {
+    "oem": "Volkswagen",
+    "modelYear": 2019,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2019-Volkswagen.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2019-volkswagen/2019_VolkswagenAudi_04.jpg",
+    "bbox": {
+      "x": 960,
+      "y": 2564,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#4C5457",
+    "code": "R715",
+    "marketingName": "Slate Grey",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈93; verify chip alignment."
+  },
+  {
+    "oem": "Volkswagen",
+    "modelYear": 2019,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2019-Volkswagen.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2019-volkswagen/2019_VolkswagenAudi_04.jpg",
+    "bbox": {
+      "x": 1370,
+      "y": 2563,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#7C8480",
+    "code": "R737",
+    "marketingName": "Dust Gray",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈91; verify chip alignment."
+  }
+]

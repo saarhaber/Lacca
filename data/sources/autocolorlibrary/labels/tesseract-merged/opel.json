@@ -1,0 +1,36 @@
+[
+  {
+    "oem": "Opel",
+    "modelYear": 1975,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1975-Opel.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1975-opel/1975-opel-pg06.jpg",
+    "bbox": {
+      "x": 66,
+      "y": 0,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#F8EEE3",
+    "code": "030/031",
+    "marketingName": "a.",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈70; verify chip alignment."
+  },
+  {
+    "oem": "Opel",
+    "modelYear": 1976,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1976-Opel.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1976-opel/1976-opel-pg04.jpg",
+    "bbox": {
+      "x": 66,
+      "y": 0,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#F8EEE3",
+    "code": "030/031",
+    "marketingName": "a.",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈70; verify chip alignment."
+  }
+]

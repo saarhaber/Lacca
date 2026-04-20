@@ -1,0 +1,342 @@
+[
+  {
+    "oem": "Subaru",
+    "modelYear": 2003,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2003-Subaru.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2003-subaru/2003-Subaru-pg04.jpg",
+    "bbox": {
+      "x": 137,
+      "y": 0,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#F4F3F4",
+    "code": "cs28",
+    "marketingName": "Unknown (OCR)",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈0; verify chip alignment."
+  },
+  {
+    "oem": "Subaru",
+    "modelYear": 2003,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2003-Subaru.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2003-subaru/2003-Subaru-pg04.jpg",
+    "bbox": {
+      "x": 138,
+      "y": 0,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#F4F3F4",
+    "code": "N20",
+    "marketingName": "Unknown (OCR)",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈70; verify chip alignment."
+  },
+  {
+    "oem": "Subaru",
+    "modelYear": 2010,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2010-Subaru.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2010-subaru/2010-Subaru-pg01.jpg",
+    "bbox": {
+      "x": 597,
+      "y": 2703,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#C9C3CA",
+    "code": "B21",
+    "marketingName": "Unknown (OCR)",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈51; verify chip alignment."
+  },
+  {
+    "oem": "Subaru",
+    "modelYear": 2010,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2010-Subaru.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2010-subaru/2010-Subaru-pg01.jpg",
+    "bbox": {
+      "x": 678,
+      "y": 2703,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#C3BEC4",
+    "code": "C62",
+    "marketingName": "————————————————————————————————————————————————",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈0; verify chip alignment."
+  },
+  {
+    "oem": "Subaru",
+    "modelYear": 2014,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2014-Subaru.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2014-subaru/2014-Subaru-pg01.jpg",
+    "bbox": {
+      "x": 1268,
+      "y": 1408,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#5C667A",
+    "code": "H10",
+    "marketingName": "Tangerine IMPXV Orange Met B/C Deep FOR, IMPLEG,XV Cherry Pri B/C Indigo Met B/C Twilight LEG,OUT Blue Met B/C",
+    "finish": "pearl",
+    "notes": "Tesseract batch: code conf≈87; verify chip alignment."
+  },
+  {
+    "oem": "Subaru",
+    "modelYear": 2014,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2014-Subaru.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2014-subaru/2014-Subaru-pg01.jpg",
+    "bbox": {
+      "x": 1681,
+      "y": 1407,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#905D66",
+    "code": "H20",
+    "marketingName": "Venetian FOR,IMPLEG, Red Met OUT, B/C TRI,XV",
+    "finish": "metallic",
+    "notes": "Tesseract batch: code conf≈88; verify chip alignment."
+  },
+  {
+    "oem": "Subaru",
+    "modelYear": 2014,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2014-Subaru.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2014-subaru/2014-Subaru-pg01.jpg",
+    "bbox": {
+      "x": 29,
+      "y": 1974,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#474A52",
+    "code": "H30",
+    "marketingName": "Deep FOR,IMPLEG,XV Sea Blue Met",
+    "finish": "metallic",
+    "notes": "Tesseract batch: code conf≈79; verify chip alignment."
+  },
+  {
+    "oem": "Subaru",
+    "modelYear": 2014,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2014-Subaru.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2014-subaru/2014-Subaru-pg01.jpg",
+    "bbox": {
+      "x": 443,
+      "y": 1974,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#A39E9E",
+    "code": "H40",
+    "marketingName": "B/C Burnished FOR,LEG Bronze Met",
+    "finish": "metallic",
+    "notes": "Tesseract batch: code conf≈72; verify chip alignment."
+  },
+  {
+    "oem": "Subaru",
+    "modelYear": 2014,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2014-Subaru.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2014-subaru/2014-Subaru-pg01.jpg",
+    "bbox": {
+      "x": 856,
+      "y": 1973,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#758789",
+    "code": "H50",
+    "marketingName": "B/C Jasmine FOR,IMPLEG,XV Green Met B/C XV Desert Khaki B/C Quartz FOR,XV Blue Met B/C",
+    "finish": "metallic",
+    "notes": "Tesseract batch: code conf≈45; verify chip alignment."
+  },
+  {
+    "oem": "Subaru",
+    "modelYear": 2015,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2015-Subaru.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2015-subaru/2015-Subaru-pg02.jpg",
+    "bbox": {
+      "x": 1108,
+      "y": 901,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#5F626E",
+    "code": "H10",
+    "marketingName": "XV Ice Silver Met B/C WRX, Tangerine XV Orange Met B/C Twilight LEG,OUT Blue Met B/C",
+    "finish": "metallic",
+    "notes": "Tesseract batch: code conf≈85; verify chip alignment."
+  },
+  {
+    "oem": "Subaru",
+    "modelYear": 2015,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2015-Subaru.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2015-subaru/2015-Subaru-pg02.jpg",
+    "bbox": {
+      "x": 1520,
+      "y": 900,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#785052",
+    "code": "H20",
+    "marketingName": "Venetian Red Met OUT, B/C",
+    "finish": "metallic",
+    "notes": "Tesseract batch: code conf≈85; verify chip alignment."
+  },
+  {
+    "oem": "Subaru",
+    "modelYear": 2015,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2015-Subaru.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2015-subaru/2015-Subaru-pg02.jpg",
+    "bbox": {
+      "x": 1932,
+      "y": 899,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#545154",
+    "code": "H30",
+    "marketingName": "WRX,XV Deep Sea Blue WRX,XV Met B/C",
+    "finish": "metallic",
+    "notes": "Tesseract batch: code conf≈88; verify chip alignment."
+  },
+  {
+    "oem": "Subaru",
+    "modelYear": 2016,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2016-Subaru.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2016-subaru/2016-Subaru-pg02.jpg",
+    "bbox": {
+      "x": 285,
+      "y": 888,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#7C585A",
+    "code": "H20",
+    "marketingName": "= — Venetian FOR, Red Met OUT, B/C",
+    "finish": "metallic",
+    "notes": "Tesseract batch: code conf≈73; verify chip alignment."
+  },
+  {
+    "oem": "Subaru",
+    "modelYear": 2016,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2016-Subaru.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2016-subaru/2016-Subaru-pg02.jpg",
+    "bbox": {
+      "x": 697,
+      "y": 888,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#504D51",
+    "code": "H30",
+    "marketingName": "WRX,XV Deep Sea Blue Pri B/C FOR",
+    "finish": "pearl",
+    "notes": "Tesseract batch: code conf≈58; verify chip alignment."
+  },
+  {
+    "oem": "Subaru",
+    "modelYear": 2016,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2016-Subaru.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2016-subaru/2016-Subaru-pg02.jpg",
+    "bbox": {
+      "x": 1522,
+      "y": 886,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#717476",
+    "code": "H50",
+    "marketingName": "Burnished Bronze Met B/C Jasmine FOR, IMP Green WRX,XV Met B/C XV Desert Khaki B/C",
+    "finish": "metallic",
+    "notes": "Tesseract batch: code conf≈55; verify chip alignment."
+  },
+  {
+    "oem": "Subaru",
+    "modelYear": 2017,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2017-Subaru.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2017-subaru/2017-Subaru-pg02.jpg",
+    "bbox": {
+      "x": 702,
+      "y": 901,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#5C5D69",
+    "code": "H10",
+    "marketingName": "Tangerine XV Orange Met B/C Twilight LEG,OUT Blue Met B/C",
+    "finish": "metallic",
+    "notes": "Tesseract batch: code conf≈76; verify chip alignment."
+  },
+  {
+    "oem": "Subaru",
+    "modelYear": 2017,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2017-Subaru.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2017-subaru/2017-Subaru-pg02.jpg",
+    "bbox": {
+      "x": 1115,
+      "y": 900,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#7A4F50",
+    "code": "H20",
+    "marketingName": "Venetian FOR, IMP,LEG,OUT, Red Met B/C",
+    "finish": "metallic",
+    "notes": "Tesseract batch: code conf≈80; verify chip alignment."
+  },
+  {
+    "oem": "Subaru",
+    "modelYear": 2017,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2017-Subaru.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2017-subaru/2017-Subaru-pg02.jpg",
+    "bbox": {
+      "x": 1527,
+      "y": 899,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#504D50",
+    "code": "H30",
+    "marketingName": "WRX,XV Deep IMP, WRX Sea Blue Pri B/C",
+    "finish": "pearl",
+    "notes": "Tesseract batch: code conf≈80; verify chip alignment."
+  },
+  {
+    "oem": "Subaru",
+    "modelYear": 2018,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2018-Subaru.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2018-subaru/2018-Subaru-pg01.jpg",
+    "bbox": {
+      "x": 1643,
+      "y": 322,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#7689A5",
+    "code": "H10",
+    "marketingName": "Dark BRZ,FOR, Gray IMP, Met B/C LEV, WRX,XV Crystal Most Models Black Prl B/C Ice Most Silver Models Met B/C Twilight BRZ,LEG,OUT,XV Blue Met B/C",
+    "finish": "pearl",
+    "notes": "Tesseract batch: code conf≈88; verify chip alignment."
+  },
+  {
+    "oem": "Subaru",
+    "modelYear": 2018,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2018-Subaru.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2018-subaru/2018-Subaru-pg01.jpg",
+    "bbox": {
+      "x": 2082,
+      "y": 322,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#9B5E66",
+    "code": "H20",
+    "marketingName": "Venetian FOR, IMP, Red WRX,XV Met B/C",
+    "finish": "metallic",
+    "notes": "Tesseract batch: code conf≈83; verify chip alignment."
+  }
+]

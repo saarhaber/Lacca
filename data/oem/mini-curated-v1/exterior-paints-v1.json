@@ -1,0 +1,103 @@
+{
+  "$schema": "../../../schemas/exterior-paints-v1.schema.json",
+  "scopeId": "mini-curated-v1",
+  "version": "1.0.0",
+  "paints": [
+    {
+      "code": "851",
+      "marketingName": "Chili Red",
+      "finish": "solid",
+      "lab": {
+        "L": 44.38,
+        "a": 63.35,
+        "b": 44.52,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "hex_derived",
+        "confidence": "derived",
+        "recordedAt": "2026-04-20",
+        "notes": "Derived from #CC2222 (hex_derived). Replace with spectro LAB before production claims."
+      }
+    },
+    {
+      "code": "A94",
+      "marketingName": "Midnight Black",
+      "finish": "metallic",
+      "lab": {
+        "L": 7.4,
+        "a": 1.06,
+        "b": -2.8,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "hex_derived",
+        "confidence": "derived",
+        "recordedAt": "2026-04-20",
+        "notes": "Derived from #16161A (hex_derived). Replace with spectro LAB before production claims."
+      }
+    },
+    {
+      "code": "850",
+      "marketingName": "Pepper White",
+      "finish": "solid",
+      "lab": {
+        "L": 93.95,
+        "a": 0.47,
+        "b": 3.98,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "hex_derived",
+        "confidence": "derived",
+        "recordedAt": "2026-04-20",
+        "notes": "Derived from #F2EDE6 (hex_derived). Replace with spectro LAB before production claims."
+      }
+    },
+    {
+      "code": "B71",
+      "marketingName": "Island Blue",
+      "finish": "metallic",
+      "lab": {
+        "L": 36.93,
+        "a": -7.49,
+        "b": -20.83,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "hex_derived",
+        "confidence": "derived",
+        "recordedAt": "2026-04-20",
+        "notes": "Derived from #2A5C78 (hex_derived). Replace with spectro LAB before production claims."
+      }
+    },
+    {
+      "code": "C1B",
+      "marketingName": "Zesty Yellow",
+      "finish": "solid",
+      "lab": {
+        "L": 81,
+        "a": -4.14,
+        "b": 81.95,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "hex_derived",
+        "confidence": "derived",
+        "recordedAt": "2026-04-20",
+        "notes": "Derived from #E8C800 (hex_derived). Replace with spectro LAB before production claims."
+      }
+    },
+    {
+      "code": "A62",
+      "marketingName": "British Racing Green",
+      "finish": "metallic",
+      "lab": {
+        "L": 23.72,
+        "a": -20.68,
+        "b": 10.55,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "hex_derived",
+        "confidence": "derived",
+        "recordedAt": "2026-04-20",
+        "notes": "Derived from #184028 (hex_derived). Replace with spectro LAB before production claims."
+      }
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "$schema": "../../../schemas/exterior-paints-v1.schema.json",
+  "scopeId": "kia-curated-v1",
+  "version": "1.0.0",
+  "paints": [
+    {
+      "code": "ABP",
+      "marketingName": "Aurora Black Pearl",
+      "finish": "pearl",
+      "lab": {
+        "L": 4.07,
+        "a": 0.76,
+        "b": -2.07,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "hex_derived",
+        "confidence": "derived",
+        "recordedAt": "2026-04-20",
+        "notes": "Derived from #0E0E12 (hex_derived). Replace with spectro LAB before production claims."
+      }
+    },
+    {
+      "code": "CR5",
+      "marketingName": "Runway Red",
+      "finish": "solid",
+      "lab": {
+        "L": 42.51,
+        "a": 62.27,
+        "b": 37.77,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "hex_derived",
+        "confidence": "derived",
+        "recordedAt": "2026-04-20",
+        "notes": "Derived from #C41E2A (hex_derived). Replace with spectro LAB before production claims."
+      }
+    },
+    {
+      "code": "B4U",
+      "marketingName": "Gravity Blue",
+      "finish": "metallic",
+      "lab": {
+        "L": 18.75,
+        "a": 1.8,
+        "b": -16.92,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "hex_derived",
+        "confidence": "derived",
+        "recordedAt": "2026-04-20",
+        "notes": "Derived from #1F2E46 (hex_derived). Replace with spectro LAB before production claims."
+      }
+    },
+    {
+      "code": "SWP",
+      "marketingName": "Snow White Pearl",
+      "finish": "pearl",
+      "lab": {
+        "L": 93.85,
+        "a": 0.13,
+        "b": 2.77,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "hex_derived",
+        "confidence": "derived",
+        "recordedAt": "2026-04-20",
+        "notes": "Derived from #F0EDE8 (hex_derived). Replace with spectro LAB before production claims."
+      }
+    },
+    {
+      "code": "C4G",
+      "marketingName": "Steel Gray",
+      "finish": "metallic",
+      "lab": {
+        "L": 39.02,
+        "a": 0.08,
+        "b": -2.57,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "hex_derived",
+        "confidence": "derived",
+        "recordedAt": "2026-04-20",
+        "notes": "Derived from #5A5C60 (hex_derived). Replace with spectro LAB before production claims."
+      }
+    },
+    {
+      "code": "KLG",
+      "marketingName": "Glacial White Pearl",
+      "finish": "pearl",
+      "lab": {
+        "L": 93.1,
+        "a": -0.21,
+        "b": 3.75,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "hex_derived",
+        "confidence": "derived",
+        "recordedAt": "2026-04-20",
+        "notes": "Derived from #EEEBE4 (hex_derived). Replace with spectro LAB before production claims."
+      }
+    }
+  ]
+}

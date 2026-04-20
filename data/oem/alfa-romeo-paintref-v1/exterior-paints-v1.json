@@ -89,23 +89,6 @@
       }
     },
     {
-      "code": "643",
-      "marketingName": "Grigio Dakar",
-      "finish": "solid",
-      "lab": {
-        "L": 54.29,
-        "a": 1.12,
-        "b": 2.83,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #86817D (PaintRef hex, OEM=Alfa Romeo, code=643 (models=164; year=1995)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:Alfa Romeo:164:643"
-      }
-    },
-    {
       "code": "776",
       "marketingName": "Anthracite Gray",
       "finish": "solid",
@@ -255,23 +238,6 @@
         "confidence": "derived",
         "recordedAt": "2026-04-18",
         "notes": "Derived from #562829 (PaintRef hex, OEM=Alfa Romeo, code=146 (models=164; years=1991-1992)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:Alfa Romeo:164:146"
-      }
-    },
-    {
-      "code": "146",
-      "marketingName": "Bordeaux Chiaro",
-      "finish": "solid",
-      "lab": {
-        "L": 22.5,
-        "a": 21.35,
-        "b": 9.24,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #562829 (PaintRef hex, OEM=Alfa Romeo, code=146 (models=164; year=1993)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Alfa Romeo:164:146"
       }
     },

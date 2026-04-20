@@ -1,0 +1,3334 @@
+[
+  {
+    "oem": "Vauxhall",
+    "modelYear": 1964,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1964-Vauxhall.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1964-vauxhall/1964-vauxhall-pg02.jpg",
+    "bbox": {
+      "x": 509,
+      "y": 536,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#E8DFC8",
+    "code": "C101",
+    "marketingName": "Meteor Blue Maroon 607, 104, 750, ’ 694, Strate Svede Grey 851, 540, €595, €702,",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈67; verify chip alignment."
+  },
+  {
+    "oem": "Vauxhall",
+    "modelYear": 1964,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1964-Vauxhall.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1964-vauxhall/1964-vauxhall-pg02.jpg",
+    "bbox": {
+      "x": 548,
+      "y": 401,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#E3D9C3",
+    "code": "C545",
+    "marketingName": "Been €105,",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈62; verify chip alignment."
+  },
+  {
+    "oem": "Vauxhall",
+    "modelYear": 1964,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1964-Vauxhall.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1964-vauxhall/1964-vauxhall-pg02.jpg",
+    "bbox": {
+      "x": 548,
+      "y": 624,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#E7DECA",
+    "code": "C549",
+    "marketingName": "Unknown (OCR)",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈43; verify chip alignment."
+  },
+  {
+    "oem": "Vauxhall",
+    "modelYear": 1964,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1964-Vauxhall.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1964-vauxhall/1964-vauxhall-pg02.jpg",
+    "bbox": {
+      "x": 585,
+      "y": 401,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#E5DBC6",
+    "code": "C557",
+    "marketingName": "Unknown (OCR)",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈49; verify chip alignment."
+  },
+  {
+    "oem": "Vauxhall",
+    "modelYear": 1964,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1964-Vauxhall.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1964-vauxhall/1964-vauxhall-pg02.jpg",
+    "bbox": {
+      "x": 548,
+      "y": 0,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#F0E8D5",
+    "code": "C564",
+    "marketingName": "Cactus Colypso Green Red 714, €592, 731, €546, €557, 732, Oyster Blue Grey 955, 6675, 737, 853, €123, €924, 5WH 758,",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈71; verify chip alignment."
+  },
+  {
+    "oem": "Vauxhall",
+    "modelYear": 1964,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1964-Vauxhall.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1964-vauxhall/1964-vauxhall-pg02.jpg",
+    "bbox": {
+      "x": 585,
+      "y": 625,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#E9E0CE",
+    "code": "C568",
+    "marketingName": "ay",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈59; verify chip alignment."
+  },
+  {
+    "oem": "Vauxhall",
+    "modelYear": 1964,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1964-Vauxhall.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1964-vauxhall/1964-vauxhall-pg02.jpg",
+    "bbox": {
+      "x": 586,
+      "y": 0,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#F0E8D4",
+    "code": "C593",
+    "marketingName": "727,",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈48; verify chip alignment."
+  },
+  {
+    "oem": "Vauxhall",
+    "modelYear": 1964,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1964-Vauxhall.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1964-vauxhall/1964-vauxhall-pg02.jpg",
+    "bbox": {
+      "x": 248,
+      "y": 584,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#E7DBC2",
+    "code": "C597",
+    "marketingName": "Meteor Blue 607, 104, 750, 694, Tibeton Strate Svede Grey Yellow",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈51; verify chip alignment."
+  },
+  {
+    "oem": "Vauxhall",
+    "modelYear": 1964,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1964-Vauxhall.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1964-vauxhall/1964-vauxhall-pg02.jpg",
+    "bbox": {
+      "x": 586,
+      "y": 417,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#E6DBC7",
+    "code": "C601",
+    "marketingName": "Unknown (OCR)",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈84; verify chip alignment."
+  },
+  {
+    "oem": "Vauxhall",
+    "modelYear": 1964,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1964-Vauxhall.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1964-vauxhall/1964-vauxhall-pg02.jpg",
+    "bbox": {
+      "x": 212,
+      "y": 0,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#EAE1CF",
+    "code": "C602",
+    "marketingName": "Colypso Red 714, 740, 864, 731,",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈43; verify chip alignment."
+  },
+  {
+    "oem": "Vauxhall",
+    "modelYear": 1964,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1964-Vauxhall.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1964-vauxhall/1964-vauxhall-pg02.jpg",
+    "bbox": {
+      "x": 548,
+      "y": 473,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#E4DAC6",
+    "code": "C604",
+    "marketingName": "Jade Kestrel Green Grey Maroon 751, CROC 743, 607, ’ (759, €838, MCE 839, Storm Strate Grey 851, €702, €105, 709,",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈86; verify chip alignment."
+  },
+  {
+    "oem": "Vauxhall",
+    "modelYear": 1964,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1964-Vauxhall.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1964-vauxhall/1964-vauxhall-pg02.jpg",
+    "bbox": {
+      "x": 547,
+      "y": 640,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#E6DECA",
+    "code": "C605",
+    "marketingName": "11a, 939, €128,",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈89; verify chip alignment."
+  },
+  {
+    "oem": "Vauxhall",
+    "modelYear": 1964,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1964-Vauxhall.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1964-vauxhall/1964-vauxhall-pg02.jpg",
+    "bbox": {
+      "x": 212,
+      "y": 136,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#E6DAC2",
+    "code": "C606",
+    "marketingName": "Cavalry Cherry Cypress Deep Bronze Red Green Fawn Groen 862, 4GN",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈53; verify chip alignment."
+  },
+  {
+    "oem": "Vauxhall",
+    "modelYear": 1964,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1964-Vauxhall.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1964-vauxhall/1964-vauxhall-pg02.jpg",
+    "bbox": {
+      "x": 250,
+      "y": 0,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#EDE3D0",
+    "code": "C614",
+    "marketingName": "732, Pampas Blue Green",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈86; verify chip alignment."
+  },
+  {
+    "oem": "Vauxhall",
+    "modelYear": 1964,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1964-Vauxhall.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1964-vauxhall/1964-vauxhall-pg02.jpg",
+    "bbox": {
+      "x": 585,
+      "y": 473,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#E6DDC9",
+    "code": "C615",
+    "marketingName": "Unknown (OCR)",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈88; verify chip alignment."
+  },
+  {
+    "oem": "Vauxhall",
+    "modelYear": 1964,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1964-Vauxhall.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1964-vauxhall/1964-vauxhall-pg02.jpg",
+    "bbox": {
+      "x": 584,
+      "y": 640,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#E9E1CF",
+    "code": "C616",
+    "marketingName": "Unknown (OCR)",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈83; verify chip alignment."
+  },
+  {
+    "oem": "Vauxhall",
+    "modelYear": 1964,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1964-Vauxhall.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1964-vauxhall/1964-vauxhall-pg02.jpg",
+    "bbox": {
+      "x": 249,
+      "y": 136,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#E9DCC4",
+    "code": "C617",
+    "marketingName": "Panama Peacock White Bive 543, 589, eee 639 114, €561, €599, €120, €928, €130, >",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈82; verify chip alignment."
+  },
+  {
+    "oem": "Vauxhall",
+    "modelYear": 1964,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1964-Vauxhall.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1964-vauxhall/1964-vauxhall-pg02.jpg",
+    "bbox": {
+      "x": 586,
+      "y": 169,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#E7DCC8",
+    "code": "C619",
+    "marketingName": "639 114, €120, €928, sbs €130, ey >",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈79; verify chip alignment."
+  },
+  {
+    "oem": "Vauxhall",
+    "modelYear": 1964,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1964-Vauxhall.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1964-vauxhall/1964-vauxhall-pg02.jpg",
+    "bbox": {
+      "x": 546,
+      "y": 433,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#E5DAC4",
+    "code": "c621",
+    "marketingName": "Been €702, €105, 709,",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈49; verify chip alignment."
+  },
+  {
+    "oem": "Vauxhall",
+    "modelYear": 1964,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1964-Vauxhall.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1964-vauxhall/1964-vauxhall-pg02.jpg",
+    "bbox": {
+      "x": 247,
+      "y": 504,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#E9DCC5",
+    "code": "C678",
+    "marketingName": "MCE 694, Storm Strate Svede Grey Grey 851, 540, €702, €105, 709,",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈53; verify chip alignment."
+  },
+  {
+    "oem": "Vauxhall",
+    "modelYear": 1964,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1964-Vauxhall.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1964-vauxhall/1964-vauxhall-pg02.jpg",
+    "bbox": {
+      "x": 584,
+      "y": 537,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#E8DFCC",
+    "code": "C681",
+    "marketingName": "709,",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈0; verify chip alignment."
+  },
+  {
+    "oem": "Vauxhall",
+    "modelYear": 1964,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1964-Vauxhall.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1964-vauxhall/1964-vauxhall-pg02.jpg",
+    "bbox": {
+      "x": 212,
+      "y": 32,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#E8DEC9",
+    "code": "C685",
+    "marketingName": "714, 740, 864, €596, 731,",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈82; verify chip alignment."
+  },
+  {
+    "oem": "Vauxhall",
+    "modelYear": 1964,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1964-Vauxhall.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1964-vauxhall/1964-vauxhall-pg02.jpg",
+    "bbox": {
+      "x": 249,
+      "y": 32,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#EAE0CA",
+    "code": "C698",
+    "marketingName": "732, Pampas Panama Green White",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈89; verify chip alignment."
+  },
+  {
+    "oem": "Vauxhall",
+    "modelYear": 1964,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1964-Vauxhall.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1964-vauxhall/1964-vauxhall-pg02.jpg",
+    "bbox": {
+      "x": 211,
+      "y": 400,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#EADFC8",
+    "code": "C707",
+    "marketingName": "Jade Kestrel Green Grey 751, CROC 743, 754, (759, €838, €837,",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈63; verify chip alignment."
+  },
+  {
+    "oem": "Vauxhall",
+    "modelYear": 1964,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1964-Vauxhall.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1964-vauxhall/1964-vauxhall-pg02.jpg",
+    "bbox": {
+      "x": 211,
+      "y": 640,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#E2D8C1",
+    "code": "C710",
+    "marketingName": "750, Tibeton Yellow",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈62; verify chip alignment."
+  },
+  {
+    "oem": "Vauxhall",
+    "modelYear": 1964,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1964-Vauxhall.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1964-vauxhall/1964-vauxhall-pg02.jpg",
+    "bbox": {
+      "x": 549,
+      "y": 17,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#EEE6D2",
+    "code": "C715",
+    "marketingName": "€930, 758,",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈59; verify chip alignment."
+  },
+  {
+    "oem": "Vauxhall",
+    "modelYear": 1964,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1964-Vauxhall.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1964-vauxhall/1964-vauxhall-pg02.jpg",
+    "bbox": {
+      "x": 249,
+      "y": 416,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#EDE2CA",
+    "code": "C749",
+    "marketingName": "MCE 839, Storm Grey ug",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈89; verify chip alignment."
+  },
+  {
+    "oem": "Vauxhall",
+    "modelYear": 1964,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1964-Vauxhall.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1964-vauxhall/1964-vauxhall-pg02.jpg",
+    "bbox": {
+      "x": 212,
+      "y": 64,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#E6DBC5",
+    "code": "C752",
+    "marketingName": "Cavalry Fawn 864, €596,",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈72; verify chip alignment."
+  },
+  {
+    "oem": "Vauxhall",
+    "modelYear": 1964,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1964-Vauxhall.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1964-vauxhall/1964-vauxhall-pg02.jpg",
+    "bbox": {
+      "x": 211,
+      "y": 176,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#E5DBC5",
+    "code": "C760",
+    "marketingName": "Cherry Cypress Deep Bronze Blue Red Green Groen 862, 4GN €124, €956, €925, 935, Peacock Bive",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈61; verify chip alignment."
+  },
+  {
+    "oem": "Vauxhall",
+    "modelYear": 1964,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1964-Vauxhall.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1964-vauxhall/1964-vauxhall-pg02.jpg",
+    "bbox": {
+      "x": 249,
+      "y": 64,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#E9DDC7",
+    "code": "C761",
+    "marketingName": "Pampas Panama Green White",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈76; verify chip alignment."
+  },
+  {
+    "oem": "Vauxhall",
+    "modelYear": 1964,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1964-Vauxhall.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1964-vauxhall/1964-vauxhall-pg02.jpg",
+    "bbox": {
+      "x": 586,
+      "y": 33,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#EDE4D0",
+    "code": "C808",
+    "marketingName": "853, 543, €930, €561,",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈84; verify chip alignment."
+  },
+  {
+    "oem": "Vauxhall",
+    "modelYear": 1964,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1964-Vauxhall.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1964-vauxhall/1964-vauxhall-pg02.jpg",
+    "bbox": {
+      "x": 174,
+      "y": 80,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#E7DCC6",
+    "code": "C811",
+    "marketingName": "Cavalry Cherry Red Fawn 864, €596,",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈64; verify chip alignment."
+  },
+  {
+    "oem": "Vauxhall",
+    "modelYear": 1964,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1964-Vauxhall.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1964-vauxhall/1964-vauxhall-pg02.jpg",
+    "bbox": {
+      "x": 212,
+      "y": 80,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#E4D9C4",
+    "code": "C819",
+    "marketingName": "Unknown (OCR)",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈79; verify chip alignment."
+  },
+  {
+    "oem": "Vauxhall",
+    "modelYear": 1964,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1964-Vauxhall.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1964-vauxhall/1964-vauxhall-pg02.jpg",
+    "bbox": {
+      "x": 510,
+      "y": 568,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#EAE0CA",
+    "code": "C835",
+    "marketingName": "540, €595, 11a, 939,",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈44; verify chip alignment."
+  },
+  {
+    "oem": "Vauxhall",
+    "modelYear": 1964,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1964-Vauxhall.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1964-vauxhall/1964-vauxhall-pg02.jpg",
+    "bbox": {
+      "x": 548,
+      "y": 569,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#E7DECA",
+    "code": "C836",
+    "marketingName": "Unknown (OCR)",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈82; verify chip alignment."
+  },
+  {
+    "oem": "Vauxhall",
+    "modelYear": 1964,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1964-Vauxhall.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1964-vauxhall/1964-vauxhall-pg02.jpg",
+    "bbox": {
+      "x": 249,
+      "y": 432,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#EDE0C8",
+    "code": "C842",
+    "marketingName": "Jade Kestrel Green Grey 751, CROC 743, (759, €838, MCE 839, Storm Grey ug",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈64; verify chip alignment."
+  },
+  {
+    "oem": "Vauxhall",
+    "modelYear": 1964,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1964-Vauxhall.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1964-vauxhall/1964-vauxhall-pg02.jpg",
+    "bbox": {
+      "x": 585,
+      "y": 569,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#EAE1CE",
+    "code": "C846",
+    "marketingName": "ay",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈49; verify chip alignment."
+  },
+  {
+    "oem": "Vauxhall",
+    "modelYear": 1964,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1964-Vauxhall.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1964-vauxhall/1964-vauxhall-pg02.jpg",
+    "bbox": {
+      "x": 173,
+      "y": 504,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#E8DCC2",
+    "code": "C854",
+    "marketingName": "Kestrel Meteor Grey Blue Maroon CROC 743, 607, 104, ’",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈68; verify chip alignment."
+  },
+  {
+    "oem": "Vauxhall",
+    "modelYear": 1964,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1964-Vauxhall.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1964-vauxhall/1964-vauxhall-pg02.jpg",
+    "bbox": {
+      "x": 249,
+      "y": 80,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#E7DCC5",
+    "code": "C855",
+    "marketingName": "Pampas Panama Green White 543, 589, eee 639 €930, €561, €599,",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈65; verify chip alignment."
+  },
+  {
+    "oem": "Vauxhall",
+    "modelYear": 1964,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1964-Vauxhall.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1964-vauxhall/1964-vauxhall-pg02.jpg",
+    "bbox": {
+      "x": 548,
+      "y": 584,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#E7DEC9",
+    "code": "C858",
+    "marketingName": "Unknown (OCR)",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈74; verify chip alignment."
+  },
+  {
+    "oem": "Vauxhall",
+    "modelYear": 1964,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1964-Vauxhall.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1964-vauxhall/1964-vauxhall-pg02.jpg",
+    "bbox": {
+      "x": 548,
+      "y": 49,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#ECE2CD",
+    "code": "C861",
+    "marketingName": "543, 589, eee €930, €561, €599,",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈61; verify chip alignment."
+  },
+  {
+    "oem": "Vauxhall",
+    "modelYear": 1964,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1964-Vauxhall.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1964-vauxhall/1964-vauxhall-pg02.jpg",
+    "bbox": {
+      "x": 211,
+      "y": 504,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#E6DAC2",
+    "code": "C866",
+    "marketingName": "€838,",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈72; verify chip alignment."
+  },
+  {
+    "oem": "Vauxhall",
+    "modelYear": 1964,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1964-Vauxhall.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1964-vauxhall/1964-vauxhall-pg02.jpg",
+    "bbox": {
+      "x": 585,
+      "y": 49,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#EDE3CE",
+    "code": "C870",
+    "marketingName": "Unknown (OCR)",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈44; verify chip alignment."
+  },
+  {
+    "oem": "Vauxhall",
+    "modelYear": 1964,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1964-Vauxhall.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1964-vauxhall/1964-vauxhall-pg02.jpg",
+    "bbox": {
+      "x": 211,
+      "y": 304,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#E8DDC7",
+    "code": "C957",
+    "marketingName": "Fir Grecian Green White 8GN 103, 706, 754, €672, (735, €837,",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈88; verify chip alignment."
+  },
+  {
+    "oem": "Vauxhall",
+    "modelYear": 1964,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1964-Vauxhall.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1964-vauxhall/1964-vauxhall-pg02.jpg",
+    "bbox": {
+      "x": 249,
+      "y": 304,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#EADFC8",
+    "code": "C962",
+    "marketingName": "Roulette Blue ca, 937, 964, 537, 563, €591, cr, 6985,",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈79; verify chip alignment."
+  },
+  {
+    "oem": "Vauxhall",
+    "modelYear": 1964,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1964-Vauxhall.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1964-vauxhall/1964-vauxhall-pg02.jpg",
+    "bbox": {
+      "x": 546,
+      "y": 696,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#E6DECC",
+    "code": "C966",
+    "marketingName": "Unknown (OCR)",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈56; verify chip alignment."
+  },
+  {
+    "oem": "Vauxhall",
+    "modelYear": 1964,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1964-Vauxhall.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1964-vauxhall/1964-vauxhall-pg02.jpg",
+    "bbox": {
+      "x": 586,
+      "y": 0,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#F0E8D4",
+    "code": "C970",
+    "marketingName": "6675, 737, 853, €930, 758, 727,",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈58; verify chip alignment."
+  },
+  {
+    "oem": "Vauxhall",
+    "modelYear": 1964,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1964-Vauxhall.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1964-vauxhall/1964-vauxhall-pg02.jpg",
+    "bbox": {
+      "x": 584,
+      "y": 696,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#E9E1D0",
+    "code": "C975",
+    "marketingName": "Unknown (OCR)",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈74; verify chip alignment."
+  },
+  {
+    "oem": "Vauxhall",
+    "modelYear": 1964,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1964-Vauxhall.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1964-vauxhall/1964-vauxhall-pg02.jpg",
+    "bbox": {
+      "x": 511,
+      "y": 0,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#F1EAD6",
+    "code": "c982",
+    "marketingName": "Colypso Red 714, 740, 864, €596, 731, 732, Pampas Green 737, 853,",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈43; verify chip alignment."
+  },
+  {
+    "oem": "Vauxhall",
+    "modelYear": 1965,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1965-Vauxhall.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1965-vauxhall/1965-vauxhall-pg02.jpg",
+    "bbox": {
+      "x": 509,
+      "y": 536,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#E8DFC8",
+    "code": "C101",
+    "marketingName": "Meteor Blue Maroon 607, 104, 750, ’ 694, Strate Svede Grey 851, 540, €595, €702,",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈67; verify chip alignment."
+  },
+  {
+    "oem": "Vauxhall",
+    "modelYear": 1965,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1965-Vauxhall.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1965-vauxhall/1965-vauxhall-pg02.jpg",
+    "bbox": {
+      "x": 548,
+      "y": 401,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#E3D9C3",
+    "code": "C545",
+    "marketingName": "Been €105,",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈62; verify chip alignment."
+  },
+  {
+    "oem": "Vauxhall",
+    "modelYear": 1965,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1965-Vauxhall.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1965-vauxhall/1965-vauxhall-pg02.jpg",
+    "bbox": {
+      "x": 548,
+      "y": 624,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#E7DECA",
+    "code": "C549",
+    "marketingName": "Unknown (OCR)",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈43; verify chip alignment."
+  },
+  {
+    "oem": "Vauxhall",
+    "modelYear": 1965,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1965-Vauxhall.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1965-vauxhall/1965-vauxhall-pg02.jpg",
+    "bbox": {
+      "x": 585,
+      "y": 401,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#E5DBC6",
+    "code": "C557",
+    "marketingName": "Unknown (OCR)",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈49; verify chip alignment."
+  },
+  {
+    "oem": "Vauxhall",
+    "modelYear": 1965,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1965-Vauxhall.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1965-vauxhall/1965-vauxhall-pg02.jpg",
+    "bbox": {
+      "x": 548,
+      "y": 0,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#F0E8D5",
+    "code": "C564",
+    "marketingName": "Cactus Colypso Green Red 714, €592, 731, €546, €557, 732, Oyster Blue Grey 955, 6675, 737, 853, €123, €924, 5WH 758,",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈71; verify chip alignment."
+  },
+  {
+    "oem": "Vauxhall",
+    "modelYear": 1965,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1965-Vauxhall.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1965-vauxhall/1965-vauxhall-pg02.jpg",
+    "bbox": {
+      "x": 585,
+      "y": 625,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#E9E0CE",
+    "code": "C568",
+    "marketingName": "ay",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈59; verify chip alignment."
+  },
+  {
+    "oem": "Vauxhall",
+    "modelYear": 1965,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1965-Vauxhall.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1965-vauxhall/1965-vauxhall-pg02.jpg",
+    "bbox": {
+      "x": 586,
+      "y": 0,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#F0E8D4",
+    "code": "C593",
+    "marketingName": "727,",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈48; verify chip alignment."
+  },
+  {
+    "oem": "Vauxhall",
+    "modelYear": 1965,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1965-Vauxhall.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1965-vauxhall/1965-vauxhall-pg02.jpg",
+    "bbox": {
+      "x": 248,
+      "y": 584,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#E7DBC2",
+    "code": "C597",
+    "marketingName": "Meteor Blue 607, 104, 750, 694, Tibeton Strate Svede Grey Yellow",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈51; verify chip alignment."
+  },
+  {
+    "oem": "Vauxhall",
+    "modelYear": 1965,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1965-Vauxhall.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1965-vauxhall/1965-vauxhall-pg02.jpg",
+    "bbox": {
+      "x": 586,
+      "y": 417,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#E6DBC7",
+    "code": "C601",
+    "marketingName": "Unknown (OCR)",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈84; verify chip alignment."
+  },
+  {
+    "oem": "Vauxhall",
+    "modelYear": 1965,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1965-Vauxhall.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1965-vauxhall/1965-vauxhall-pg02.jpg",
+    "bbox": {
+      "x": 212,
+      "y": 0,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#EAE1CF",
+    "code": "C602",
+    "marketingName": "Colypso Red 714, 740, 864, 731,",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈43; verify chip alignment."
+  },
+  {
+    "oem": "Vauxhall",
+    "modelYear": 1965,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1965-Vauxhall.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1965-vauxhall/1965-vauxhall-pg02.jpg",
+    "bbox": {
+      "x": 548,
+      "y": 473,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#E4DAC6",
+    "code": "C604",
+    "marketingName": "Jade Kestrel Green Grey Maroon 751, CROC 743, 607, ’ (759, €838, MCE 839, Storm Strate Grey 851, €702, €105, 709,",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈86; verify chip alignment."
+  },
+  {
+    "oem": "Vauxhall",
+    "modelYear": 1965,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1965-Vauxhall.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1965-vauxhall/1965-vauxhall-pg02.jpg",
+    "bbox": {
+      "x": 547,
+      "y": 640,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#E6DECA",
+    "code": "C605",
+    "marketingName": "11a, 939, €128,",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈89; verify chip alignment."
+  },
+  {
+    "oem": "Vauxhall",
+    "modelYear": 1965,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1965-Vauxhall.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1965-vauxhall/1965-vauxhall-pg02.jpg",
+    "bbox": {
+      "x": 212,
+      "y": 136,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#E6DAC2",
+    "code": "C606",
+    "marketingName": "Cavalry Cherry Cypress Deep Bronze Red Green Fawn Groen 862, 4GN",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈53; verify chip alignment."
+  },
+  {
+    "oem": "Vauxhall",
+    "modelYear": 1965,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1965-Vauxhall.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1965-vauxhall/1965-vauxhall-pg02.jpg",
+    "bbox": {
+      "x": 250,
+      "y": 0,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#EDE3D0",
+    "code": "C614",
+    "marketingName": "732, Pampas Blue Green",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈86; verify chip alignment."
+  },
+  {
+    "oem": "Vauxhall",
+    "modelYear": 1965,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1965-Vauxhall.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1965-vauxhall/1965-vauxhall-pg02.jpg",
+    "bbox": {
+      "x": 585,
+      "y": 473,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#E6DDC9",
+    "code": "C615",
+    "marketingName": "Unknown (OCR)",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈88; verify chip alignment."
+  },
+  {
+    "oem": "Vauxhall",
+    "modelYear": 1965,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1965-Vauxhall.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1965-vauxhall/1965-vauxhall-pg02.jpg",
+    "bbox": {
+      "x": 584,
+      "y": 640,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#E9E1CF",
+    "code": "C616",
+    "marketingName": "Unknown (OCR)",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈83; verify chip alignment."
+  },
+  {
+    "oem": "Vauxhall",
+    "modelYear": 1965,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1965-Vauxhall.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1965-vauxhall/1965-vauxhall-pg02.jpg",
+    "bbox": {
+      "x": 249,
+      "y": 136,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#E9DCC4",
+    "code": "C617",
+    "marketingName": "Panama Peacock White Bive 543, 589, eee 639 114, €561, €599, €120, €928, €130, >",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈82; verify chip alignment."
+  },
+  {
+    "oem": "Vauxhall",
+    "modelYear": 1965,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1965-Vauxhall.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1965-vauxhall/1965-vauxhall-pg02.jpg",
+    "bbox": {
+      "x": 586,
+      "y": 169,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#E7DCC8",
+    "code": "C619",
+    "marketingName": "639 114, €120, €928, sbs €130, ey >",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈79; verify chip alignment."
+  },
+  {
+    "oem": "Vauxhall",
+    "modelYear": 1965,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1965-Vauxhall.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1965-vauxhall/1965-vauxhall-pg02.jpg",
+    "bbox": {
+      "x": 546,
+      "y": 433,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#E5DAC4",
+    "code": "c621",
+    "marketingName": "Been €702, €105, 709,",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈49; verify chip alignment."
+  },
+  {
+    "oem": "Vauxhall",
+    "modelYear": 1965,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1965-Vauxhall.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1965-vauxhall/1965-vauxhall-pg02.jpg",
+    "bbox": {
+      "x": 247,
+      "y": 504,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#E9DCC5",
+    "code": "C678",
+    "marketingName": "MCE 694, Storm Strate Svede Grey Grey 851, 540, €702, €105, 709,",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈53; verify chip alignment."
+  },
+  {
+    "oem": "Vauxhall",
+    "modelYear": 1965,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1965-Vauxhall.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1965-vauxhall/1965-vauxhall-pg02.jpg",
+    "bbox": {
+      "x": 584,
+      "y": 537,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#E8DFCC",
+    "code": "C681",
+    "marketingName": "709,",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈0; verify chip alignment."
+  },
+  {
+    "oem": "Vauxhall",
+    "modelYear": 1965,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1965-Vauxhall.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1965-vauxhall/1965-vauxhall-pg02.jpg",
+    "bbox": {
+      "x": 212,
+      "y": 32,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#E8DEC9",
+    "code": "C685",
+    "marketingName": "714, 740, 864, €596, 731,",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈82; verify chip alignment."
+  },
+  {
+    "oem": "Vauxhall",
+    "modelYear": 1965,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1965-Vauxhall.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1965-vauxhall/1965-vauxhall-pg02.jpg",
+    "bbox": {
+      "x": 249,
+      "y": 32,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#EAE0CA",
+    "code": "C698",
+    "marketingName": "732, Pampas Panama Green White",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈89; verify chip alignment."
+  },
+  {
+    "oem": "Vauxhall",
+    "modelYear": 1965,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1965-Vauxhall.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1965-vauxhall/1965-vauxhall-pg02.jpg",
+    "bbox": {
+      "x": 211,
+      "y": 400,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#EADFC8",
+    "code": "C707",
+    "marketingName": "Jade Kestrel Green Grey 751, CROC 743, 754, (759, €838, €837,",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈63; verify chip alignment."
+  },
+  {
+    "oem": "Vauxhall",
+    "modelYear": 1965,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1965-Vauxhall.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1965-vauxhall/1965-vauxhall-pg02.jpg",
+    "bbox": {
+      "x": 211,
+      "y": 640,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#E2D8C1",
+    "code": "C710",
+    "marketingName": "750, Tibeton Yellow",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈62; verify chip alignment."
+  },
+  {
+    "oem": "Vauxhall",
+    "modelYear": 1965,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1965-Vauxhall.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1965-vauxhall/1965-vauxhall-pg02.jpg",
+    "bbox": {
+      "x": 549,
+      "y": 17,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#EEE6D2",
+    "code": "C715",
+    "marketingName": "€930, 758,",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈59; verify chip alignment."
+  },
+  {
+    "oem": "Vauxhall",
+    "modelYear": 1965,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1965-Vauxhall.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1965-vauxhall/1965-vauxhall-pg02.jpg",
+    "bbox": {
+      "x": 249,
+      "y": 416,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#EDE2CA",
+    "code": "C749",
+    "marketingName": "MCE 839, Storm Grey ug",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈89; verify chip alignment."
+  },
+  {
+    "oem": "Vauxhall",
+    "modelYear": 1965,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1965-Vauxhall.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1965-vauxhall/1965-vauxhall-pg02.jpg",
+    "bbox": {
+      "x": 212,
+      "y": 64,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#E6DBC5",
+    "code": "C752",
+    "marketingName": "Cavalry Fawn 864, €596,",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈72; verify chip alignment."
+  },
+  {
+    "oem": "Vauxhall",
+    "modelYear": 1965,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1965-Vauxhall.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1965-vauxhall/1965-vauxhall-pg02.jpg",
+    "bbox": {
+      "x": 211,
+      "y": 176,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#E5DBC5",
+    "code": "C760",
+    "marketingName": "Cherry Cypress Deep Bronze Blue Red Green Groen 862, 4GN €124, €956, €925, 935, Peacock Bive",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈61; verify chip alignment."
+  },
+  {
+    "oem": "Vauxhall",
+    "modelYear": 1965,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1965-Vauxhall.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1965-vauxhall/1965-vauxhall-pg02.jpg",
+    "bbox": {
+      "x": 249,
+      "y": 64,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#E9DDC7",
+    "code": "C761",
+    "marketingName": "Pampas Panama Green White",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈76; verify chip alignment."
+  },
+  {
+    "oem": "Vauxhall",
+    "modelYear": 1965,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1965-Vauxhall.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1965-vauxhall/1965-vauxhall-pg02.jpg",
+    "bbox": {
+      "x": 586,
+      "y": 33,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#EDE4D0",
+    "code": "C808",
+    "marketingName": "853, 543, €930, €561,",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈84; verify chip alignment."
+  },
+  {
+    "oem": "Vauxhall",
+    "modelYear": 1965,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1965-Vauxhall.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1965-vauxhall/1965-vauxhall-pg02.jpg",
+    "bbox": {
+      "x": 174,
+      "y": 80,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#E7DCC6",
+    "code": "C811",
+    "marketingName": "Cavalry Cherry Red Fawn 864, €596,",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈64; verify chip alignment."
+  },
+  {
+    "oem": "Vauxhall",
+    "modelYear": 1965,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1965-Vauxhall.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1965-vauxhall/1965-vauxhall-pg02.jpg",
+    "bbox": {
+      "x": 212,
+      "y": 80,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#E4D9C4",
+    "code": "C819",
+    "marketingName": "Unknown (OCR)",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈79; verify chip alignment."
+  },
+  {
+    "oem": "Vauxhall",
+    "modelYear": 1965,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1965-Vauxhall.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1965-vauxhall/1965-vauxhall-pg02.jpg",
+    "bbox": {
+      "x": 510,
+      "y": 568,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#EAE0CA",
+    "code": "C835",
+    "marketingName": "540, €595, 11a, 939,",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈44; verify chip alignment."
+  },
+  {
+    "oem": "Vauxhall",
+    "modelYear": 1965,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1965-Vauxhall.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1965-vauxhall/1965-vauxhall-pg02.jpg",
+    "bbox": {
+      "x": 548,
+      "y": 569,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#E7DECA",
+    "code": "C836",
+    "marketingName": "Unknown (OCR)",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈82; verify chip alignment."
+  },
+  {
+    "oem": "Vauxhall",
+    "modelYear": 1965,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1965-Vauxhall.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1965-vauxhall/1965-vauxhall-pg02.jpg",
+    "bbox": {
+      "x": 249,
+      "y": 432,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#EDE0C8",
+    "code": "C842",
+    "marketingName": "Jade Kestrel Green Grey 751, CROC 743, (759, €838, MCE 839, Storm Grey ug",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈64; verify chip alignment."
+  },
+  {
+    "oem": "Vauxhall",
+    "modelYear": 1965,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1965-Vauxhall.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1965-vauxhall/1965-vauxhall-pg02.jpg",
+    "bbox": {
+      "x": 585,
+      "y": 569,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#EAE1CE",
+    "code": "C846",
+    "marketingName": "ay",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈49; verify chip alignment."
+  },
+  {
+    "oem": "Vauxhall",
+    "modelYear": 1965,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1965-Vauxhall.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1965-vauxhall/1965-vauxhall-pg02.jpg",
+    "bbox": {
+      "x": 173,
+      "y": 504,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#E8DCC2",
+    "code": "C854",
+    "marketingName": "Kestrel Meteor Grey Blue Maroon CROC 743, 607, 104, ’",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈68; verify chip alignment."
+  },
+  {
+    "oem": "Vauxhall",
+    "modelYear": 1965,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1965-Vauxhall.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1965-vauxhall/1965-vauxhall-pg02.jpg",
+    "bbox": {
+      "x": 249,
+      "y": 80,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#E7DCC5",
+    "code": "C855",
+    "marketingName": "Pampas Panama Green White 543, 589, eee 639 €930, €561, €599,",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈65; verify chip alignment."
+  },
+  {
+    "oem": "Vauxhall",
+    "modelYear": 1965,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1965-Vauxhall.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1965-vauxhall/1965-vauxhall-pg02.jpg",
+    "bbox": {
+      "x": 548,
+      "y": 584,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#E7DEC9",
+    "code": "C858",
+    "marketingName": "Unknown (OCR)",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈74; verify chip alignment."
+  },
+  {
+    "oem": "Vauxhall",
+    "modelYear": 1965,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1965-Vauxhall.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1965-vauxhall/1965-vauxhall-pg02.jpg",
+    "bbox": {
+      "x": 548,
+      "y": 49,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#ECE2CD",
+    "code": "C861",
+    "marketingName": "543, 589, eee €930, €561, €599,",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈61; verify chip alignment."
+  },
+  {
+    "oem": "Vauxhall",
+    "modelYear": 1965,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1965-Vauxhall.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1965-vauxhall/1965-vauxhall-pg02.jpg",
+    "bbox": {
+      "x": 211,
+      "y": 504,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#E6DAC2",
+    "code": "C866",
+    "marketingName": "€838,",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈72; verify chip alignment."
+  },
+  {
+    "oem": "Vauxhall",
+    "modelYear": 1965,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1965-Vauxhall.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1965-vauxhall/1965-vauxhall-pg02.jpg",
+    "bbox": {
+      "x": 585,
+      "y": 49,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#EDE3CE",
+    "code": "C870",
+    "marketingName": "Unknown (OCR)",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈44; verify chip alignment."
+  },
+  {
+    "oem": "Vauxhall",
+    "modelYear": 1965,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1965-Vauxhall.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1965-vauxhall/1965-vauxhall-pg02.jpg",
+    "bbox": {
+      "x": 211,
+      "y": 304,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#E8DDC7",
+    "code": "C957",
+    "marketingName": "Fir Grecian Green White 8GN 103, 706, 754, €672, (735, €837,",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈88; verify chip alignment."
+  },
+  {
+    "oem": "Vauxhall",
+    "modelYear": 1965,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1965-Vauxhall.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1965-vauxhall/1965-vauxhall-pg02.jpg",
+    "bbox": {
+      "x": 249,
+      "y": 304,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#EADFC8",
+    "code": "C962",
+    "marketingName": "Roulette Blue ca, 937, 964, 537, 563, €591, cr, 6985,",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈79; verify chip alignment."
+  },
+  {
+    "oem": "Vauxhall",
+    "modelYear": 1965,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1965-Vauxhall.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1965-vauxhall/1965-vauxhall-pg02.jpg",
+    "bbox": {
+      "x": 546,
+      "y": 696,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#E6DECC",
+    "code": "C966",
+    "marketingName": "Unknown (OCR)",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈56; verify chip alignment."
+  },
+  {
+    "oem": "Vauxhall",
+    "modelYear": 1965,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1965-Vauxhall.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1965-vauxhall/1965-vauxhall-pg02.jpg",
+    "bbox": {
+      "x": 586,
+      "y": 0,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#F0E8D4",
+    "code": "C970",
+    "marketingName": "6675, 737, 853, €930, 758, 727,",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈58; verify chip alignment."
+  },
+  {
+    "oem": "Vauxhall",
+    "modelYear": 1965,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1965-Vauxhall.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1965-vauxhall/1965-vauxhall-pg02.jpg",
+    "bbox": {
+      "x": 584,
+      "y": 696,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#E9E1D0",
+    "code": "C975",
+    "marketingName": "Unknown (OCR)",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈74; verify chip alignment."
+  },
+  {
+    "oem": "Vauxhall",
+    "modelYear": 1965,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1965-Vauxhall.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1965-vauxhall/1965-vauxhall-pg02.jpg",
+    "bbox": {
+      "x": 511,
+      "y": 0,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#F1EAD6",
+    "code": "c982",
+    "marketingName": "Colypso Red 714, 740, 864, €596, 731, 732, Pampas Green 737, 853,",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈43; verify chip alignment."
+  },
+  {
+    "oem": "Vauxhall",
+    "modelYear": 1966,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1966-Vauxhall.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1966-vauxhall/1966-vauxhall-pg02.jpg",
+    "bbox": {
+      "x": 509,
+      "y": 536,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#E8DFC8",
+    "code": "C101",
+    "marketingName": "Meteor Blue Maroon 607, 104, 750, ’ 694, Strate Svede Grey 851, 540, €595, €702,",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈67; verify chip alignment."
+  },
+  {
+    "oem": "Vauxhall",
+    "modelYear": 1966,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1966-Vauxhall.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1966-vauxhall/1966-vauxhall-pg02.jpg",
+    "bbox": {
+      "x": 548,
+      "y": 401,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#E3D9C3",
+    "code": "C545",
+    "marketingName": "Been €105,",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈62; verify chip alignment."
+  },
+  {
+    "oem": "Vauxhall",
+    "modelYear": 1966,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1966-Vauxhall.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1966-vauxhall/1966-vauxhall-pg02.jpg",
+    "bbox": {
+      "x": 548,
+      "y": 624,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#E7DECA",
+    "code": "C549",
+    "marketingName": "Unknown (OCR)",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈43; verify chip alignment."
+  },
+  {
+    "oem": "Vauxhall",
+    "modelYear": 1966,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1966-Vauxhall.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1966-vauxhall/1966-vauxhall-pg02.jpg",
+    "bbox": {
+      "x": 585,
+      "y": 401,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#E5DBC6",
+    "code": "C557",
+    "marketingName": "Unknown (OCR)",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈49; verify chip alignment."
+  },
+  {
+    "oem": "Vauxhall",
+    "modelYear": 1966,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1966-Vauxhall.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1966-vauxhall/1966-vauxhall-pg02.jpg",
+    "bbox": {
+      "x": 548,
+      "y": 0,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#F0E8D5",
+    "code": "C564",
+    "marketingName": "Cactus Colypso Green Red 714, €592, 731, €546, €557, 732, Oyster Blue Grey 955, 6675, 737, 853, €123, €924, 5WH 758,",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈71; verify chip alignment."
+  },
+  {
+    "oem": "Vauxhall",
+    "modelYear": 1966,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1966-Vauxhall.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1966-vauxhall/1966-vauxhall-pg02.jpg",
+    "bbox": {
+      "x": 585,
+      "y": 625,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#E9E0CE",
+    "code": "C568",
+    "marketingName": "ay",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈59; verify chip alignment."
+  },
+  {
+    "oem": "Vauxhall",
+    "modelYear": 1966,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1966-Vauxhall.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1966-vauxhall/1966-vauxhall-pg02.jpg",
+    "bbox": {
+      "x": 586,
+      "y": 0,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#F0E8D4",
+    "code": "C593",
+    "marketingName": "727,",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈48; verify chip alignment."
+  },
+  {
+    "oem": "Vauxhall",
+    "modelYear": 1966,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1966-Vauxhall.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1966-vauxhall/1966-vauxhall-pg02.jpg",
+    "bbox": {
+      "x": 248,
+      "y": 584,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#E7DBC2",
+    "code": "C597",
+    "marketingName": "Meteor Blue 607, 104, 750, 694, Tibeton Strate Svede Grey Yellow",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈51; verify chip alignment."
+  },
+  {
+    "oem": "Vauxhall",
+    "modelYear": 1966,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1966-Vauxhall.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1966-vauxhall/1966-vauxhall-pg02.jpg",
+    "bbox": {
+      "x": 586,
+      "y": 417,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#E6DBC7",
+    "code": "C601",
+    "marketingName": "Unknown (OCR)",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈84; verify chip alignment."
+  },
+  {
+    "oem": "Vauxhall",
+    "modelYear": 1966,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1966-Vauxhall.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1966-vauxhall/1966-vauxhall-pg02.jpg",
+    "bbox": {
+      "x": 212,
+      "y": 0,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#EAE1CF",
+    "code": "C602",
+    "marketingName": "Colypso Red 714, 740, 864, 731,",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈43; verify chip alignment."
+  },
+  {
+    "oem": "Vauxhall",
+    "modelYear": 1966,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1966-Vauxhall.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1966-vauxhall/1966-vauxhall-pg02.jpg",
+    "bbox": {
+      "x": 548,
+      "y": 473,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#E4DAC6",
+    "code": "C604",
+    "marketingName": "Jade Kestrel Green Grey Maroon 751, CROC 743, 607, ’ (759, €838, MCE 839, Storm Strate Grey 851, €702, €105, 709,",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈86; verify chip alignment."
+  },
+  {
+    "oem": "Vauxhall",
+    "modelYear": 1966,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1966-Vauxhall.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1966-vauxhall/1966-vauxhall-pg02.jpg",
+    "bbox": {
+      "x": 547,
+      "y": 640,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#E6DECA",
+    "code": "C605",
+    "marketingName": "11a, 939, €128,",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈89; verify chip alignment."
+  },
+  {
+    "oem": "Vauxhall",
+    "modelYear": 1966,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1966-Vauxhall.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1966-vauxhall/1966-vauxhall-pg02.jpg",
+    "bbox": {
+      "x": 212,
+      "y": 136,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#E6DAC2",
+    "code": "C606",
+    "marketingName": "Cavalry Cherry Cypress Deep Bronze Red Green Fawn Groen 862, 4GN",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈53; verify chip alignment."
+  },
+  {
+    "oem": "Vauxhall",
+    "modelYear": 1966,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1966-Vauxhall.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1966-vauxhall/1966-vauxhall-pg02.jpg",
+    "bbox": {
+      "x": 250,
+      "y": 0,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#EDE3D0",
+    "code": "C614",
+    "marketingName": "732, Pampas Blue Green",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈86; verify chip alignment."
+  },
+  {
+    "oem": "Vauxhall",
+    "modelYear": 1966,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1966-Vauxhall.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1966-vauxhall/1966-vauxhall-pg02.jpg",
+    "bbox": {
+      "x": 585,
+      "y": 473,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#E6DDC9",
+    "code": "C615",
+    "marketingName": "Unknown (OCR)",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈88; verify chip alignment."
+  },
+  {
+    "oem": "Vauxhall",
+    "modelYear": 1966,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1966-Vauxhall.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1966-vauxhall/1966-vauxhall-pg02.jpg",
+    "bbox": {
+      "x": 584,
+      "y": 640,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#E9E1CF",
+    "code": "C616",
+    "marketingName": "Unknown (OCR)",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈83; verify chip alignment."
+  },
+  {
+    "oem": "Vauxhall",
+    "modelYear": 1966,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1966-Vauxhall.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1966-vauxhall/1966-vauxhall-pg02.jpg",
+    "bbox": {
+      "x": 249,
+      "y": 136,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#E9DCC4",
+    "code": "C617",
+    "marketingName": "Panama Peacock White Bive 543, 589, eee 639 114, €561, €599, €120, €928, €130, >",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈82; verify chip alignment."
+  },
+  {
+    "oem": "Vauxhall",
+    "modelYear": 1966,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1966-Vauxhall.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1966-vauxhall/1966-vauxhall-pg02.jpg",
+    "bbox": {
+      "x": 586,
+      "y": 169,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#E7DCC8",
+    "code": "C619",
+    "marketingName": "639 114, €120, €928, sbs €130, ey >",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈79; verify chip alignment."
+  },
+  {
+    "oem": "Vauxhall",
+    "modelYear": 1966,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1966-Vauxhall.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1966-vauxhall/1966-vauxhall-pg02.jpg",
+    "bbox": {
+      "x": 546,
+      "y": 433,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#E5DAC4",
+    "code": "c621",
+    "marketingName": "Been €702, €105, 709,",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈49; verify chip alignment."
+  },
+  {
+    "oem": "Vauxhall",
+    "modelYear": 1966,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1966-Vauxhall.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1966-vauxhall/1966-vauxhall-pg02.jpg",
+    "bbox": {
+      "x": 247,
+      "y": 504,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#E9DCC5",
+    "code": "C678",
+    "marketingName": "MCE 694, Storm Strate Svede Grey Grey 851, 540, €702, €105, 709,",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈53; verify chip alignment."
+  },
+  {
+    "oem": "Vauxhall",
+    "modelYear": 1966,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1966-Vauxhall.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1966-vauxhall/1966-vauxhall-pg02.jpg",
+    "bbox": {
+      "x": 584,
+      "y": 537,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#E8DFCC",
+    "code": "C681",
+    "marketingName": "709,",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈0; verify chip alignment."
+  },
+  {
+    "oem": "Vauxhall",
+    "modelYear": 1966,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1966-Vauxhall.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1966-vauxhall/1966-vauxhall-pg02.jpg",
+    "bbox": {
+      "x": 212,
+      "y": 32,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#E8DEC9",
+    "code": "C685",
+    "marketingName": "714, 740, 864, €596, 731,",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈82; verify chip alignment."
+  },
+  {
+    "oem": "Vauxhall",
+    "modelYear": 1966,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1966-Vauxhall.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1966-vauxhall/1966-vauxhall-pg02.jpg",
+    "bbox": {
+      "x": 249,
+      "y": 32,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#EAE0CA",
+    "code": "C698",
+    "marketingName": "732, Pampas Panama Green White",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈89; verify chip alignment."
+  },
+  {
+    "oem": "Vauxhall",
+    "modelYear": 1966,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1966-Vauxhall.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1966-vauxhall/1966-vauxhall-pg02.jpg",
+    "bbox": {
+      "x": 211,
+      "y": 400,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#EADFC8",
+    "code": "C707",
+    "marketingName": "Jade Kestrel Green Grey 751, CROC 743, 754, (759, €838, €837,",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈63; verify chip alignment."
+  },
+  {
+    "oem": "Vauxhall",
+    "modelYear": 1966,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1966-Vauxhall.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1966-vauxhall/1966-vauxhall-pg02.jpg",
+    "bbox": {
+      "x": 211,
+      "y": 640,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#E2D8C1",
+    "code": "C710",
+    "marketingName": "750, Tibeton Yellow",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈62; verify chip alignment."
+  },
+  {
+    "oem": "Vauxhall",
+    "modelYear": 1966,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1966-Vauxhall.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1966-vauxhall/1966-vauxhall-pg02.jpg",
+    "bbox": {
+      "x": 549,
+      "y": 17,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#EEE6D2",
+    "code": "C715",
+    "marketingName": "€930, 758,",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈59; verify chip alignment."
+  },
+  {
+    "oem": "Vauxhall",
+    "modelYear": 1966,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1966-Vauxhall.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1966-vauxhall/1966-vauxhall-pg02.jpg",
+    "bbox": {
+      "x": 249,
+      "y": 416,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#EDE2CA",
+    "code": "C749",
+    "marketingName": "MCE 839, Storm Grey ug",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈89; verify chip alignment."
+  },
+  {
+    "oem": "Vauxhall",
+    "modelYear": 1966,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1966-Vauxhall.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1966-vauxhall/1966-vauxhall-pg02.jpg",
+    "bbox": {
+      "x": 212,
+      "y": 64,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#E6DBC5",
+    "code": "C752",
+    "marketingName": "Cavalry Fawn 864, €596,",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈72; verify chip alignment."
+  },
+  {
+    "oem": "Vauxhall",
+    "modelYear": 1966,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1966-Vauxhall.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1966-vauxhall/1966-vauxhall-pg02.jpg",
+    "bbox": {
+      "x": 211,
+      "y": 176,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#E5DBC5",
+    "code": "C760",
+    "marketingName": "Cherry Cypress Deep Bronze Blue Red Green Groen 862, 4GN €124, €956, €925, 935, Peacock Bive",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈61; verify chip alignment."
+  },
+  {
+    "oem": "Vauxhall",
+    "modelYear": 1966,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1966-Vauxhall.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1966-vauxhall/1966-vauxhall-pg02.jpg",
+    "bbox": {
+      "x": 249,
+      "y": 64,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#E9DDC7",
+    "code": "C761",
+    "marketingName": "Pampas Panama Green White",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈76; verify chip alignment."
+  },
+  {
+    "oem": "Vauxhall",
+    "modelYear": 1966,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1966-Vauxhall.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1966-vauxhall/1966-vauxhall-pg02.jpg",
+    "bbox": {
+      "x": 586,
+      "y": 33,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#EDE4D0",
+    "code": "C808",
+    "marketingName": "853, 543, €930, €561,",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈84; verify chip alignment."
+  },
+  {
+    "oem": "Vauxhall",
+    "modelYear": 1966,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1966-Vauxhall.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1966-vauxhall/1966-vauxhall-pg02.jpg",
+    "bbox": {
+      "x": 174,
+      "y": 80,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#E7DCC6",
+    "code": "C811",
+    "marketingName": "Cavalry Cherry Red Fawn 864, €596,",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈64; verify chip alignment."
+  },
+  {
+    "oem": "Vauxhall",
+    "modelYear": 1966,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1966-Vauxhall.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1966-vauxhall/1966-vauxhall-pg02.jpg",
+    "bbox": {
+      "x": 212,
+      "y": 80,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#E4D9C4",
+    "code": "C819",
+    "marketingName": "Unknown (OCR)",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈79; verify chip alignment."
+  },
+  {
+    "oem": "Vauxhall",
+    "modelYear": 1966,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1966-Vauxhall.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1966-vauxhall/1966-vauxhall-pg02.jpg",
+    "bbox": {
+      "x": 510,
+      "y": 568,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#EAE0CA",
+    "code": "C835",
+    "marketingName": "540, €595, 11a, 939,",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈44; verify chip alignment."
+  },
+  {
+    "oem": "Vauxhall",
+    "modelYear": 1966,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1966-Vauxhall.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1966-vauxhall/1966-vauxhall-pg02.jpg",
+    "bbox": {
+      "x": 548,
+      "y": 569,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#E7DECA",
+    "code": "C836",
+    "marketingName": "Unknown (OCR)",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈82; verify chip alignment."
+  },
+  {
+    "oem": "Vauxhall",
+    "modelYear": 1966,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1966-Vauxhall.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1966-vauxhall/1966-vauxhall-pg02.jpg",
+    "bbox": {
+      "x": 249,
+      "y": 432,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#EDE0C8",
+    "code": "C842",
+    "marketingName": "Jade Kestrel Green Grey 751, CROC 743, (759, €838, MCE 839, Storm Grey ug",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈64; verify chip alignment."
+  },
+  {
+    "oem": "Vauxhall",
+    "modelYear": 1966,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1966-Vauxhall.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1966-vauxhall/1966-vauxhall-pg02.jpg",
+    "bbox": {
+      "x": 585,
+      "y": 569,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#EAE1CE",
+    "code": "C846",
+    "marketingName": "ay",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈49; verify chip alignment."
+  },
+  {
+    "oem": "Vauxhall",
+    "modelYear": 1966,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1966-Vauxhall.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1966-vauxhall/1966-vauxhall-pg02.jpg",
+    "bbox": {
+      "x": 173,
+      "y": 504,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#E8DCC2",
+    "code": "C854",
+    "marketingName": "Kestrel Meteor Grey Blue Maroon CROC 743, 607, 104, ’",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈68; verify chip alignment."
+  },
+  {
+    "oem": "Vauxhall",
+    "modelYear": 1966,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1966-Vauxhall.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1966-vauxhall/1966-vauxhall-pg02.jpg",
+    "bbox": {
+      "x": 249,
+      "y": 80,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#E7DCC5",
+    "code": "C855",
+    "marketingName": "Pampas Panama Green White 543, 589, eee 639 €930, €561, €599,",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈65; verify chip alignment."
+  },
+  {
+    "oem": "Vauxhall",
+    "modelYear": 1966,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1966-Vauxhall.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1966-vauxhall/1966-vauxhall-pg02.jpg",
+    "bbox": {
+      "x": 548,
+      "y": 584,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#E7DEC9",
+    "code": "C858",
+    "marketingName": "Unknown (OCR)",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈74; verify chip alignment."
+  },
+  {
+    "oem": "Vauxhall",
+    "modelYear": 1966,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1966-Vauxhall.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1966-vauxhall/1966-vauxhall-pg02.jpg",
+    "bbox": {
+      "x": 548,
+      "y": 49,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#ECE2CD",
+    "code": "C861",
+    "marketingName": "543, 589, eee €930, €561, €599,",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈61; verify chip alignment."
+  },
+  {
+    "oem": "Vauxhall",
+    "modelYear": 1966,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1966-Vauxhall.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1966-vauxhall/1966-vauxhall-pg02.jpg",
+    "bbox": {
+      "x": 211,
+      "y": 504,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#E6DAC2",
+    "code": "C866",
+    "marketingName": "€838,",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈72; verify chip alignment."
+  },
+  {
+    "oem": "Vauxhall",
+    "modelYear": 1966,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1966-Vauxhall.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1966-vauxhall/1966-vauxhall-pg02.jpg",
+    "bbox": {
+      "x": 585,
+      "y": 49,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#EDE3CE",
+    "code": "C870",
+    "marketingName": "Unknown (OCR)",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈44; verify chip alignment."
+  },
+  {
+    "oem": "Vauxhall",
+    "modelYear": 1966,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1966-Vauxhall.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1966-vauxhall/1966-vauxhall-pg02.jpg",
+    "bbox": {
+      "x": 211,
+      "y": 304,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#E8DDC7",
+    "code": "C957",
+    "marketingName": "Fir Grecian Green White 8GN 103, 706, 754, €672, (735, €837,",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈88; verify chip alignment."
+  },
+  {
+    "oem": "Vauxhall",
+    "modelYear": 1966,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1966-Vauxhall.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1966-vauxhall/1966-vauxhall-pg02.jpg",
+    "bbox": {
+      "x": 249,
+      "y": 304,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#EADFC8",
+    "code": "C962",
+    "marketingName": "Roulette Blue ca, 937, 964, 537, 563, €591, cr, 6985,",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈79; verify chip alignment."
+  },
+  {
+    "oem": "Vauxhall",
+    "modelYear": 1966,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1966-Vauxhall.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1966-vauxhall/1966-vauxhall-pg02.jpg",
+    "bbox": {
+      "x": 546,
+      "y": 696,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#E6DECC",
+    "code": "C966",
+    "marketingName": "Unknown (OCR)",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈56; verify chip alignment."
+  },
+  {
+    "oem": "Vauxhall",
+    "modelYear": 1966,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1966-Vauxhall.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1966-vauxhall/1966-vauxhall-pg02.jpg",
+    "bbox": {
+      "x": 586,
+      "y": 0,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#F0E8D4",
+    "code": "C970",
+    "marketingName": "6675, 737, 853, €930, 758, 727,",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈58; verify chip alignment."
+  },
+  {
+    "oem": "Vauxhall",
+    "modelYear": 1966,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1966-Vauxhall.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1966-vauxhall/1966-vauxhall-pg02.jpg",
+    "bbox": {
+      "x": 584,
+      "y": 696,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#E9E1D0",
+    "code": "C975",
+    "marketingName": "Unknown (OCR)",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈74; verify chip alignment."
+  },
+  {
+    "oem": "Vauxhall",
+    "modelYear": 1966,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1966-Vauxhall.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1966-vauxhall/1966-vauxhall-pg02.jpg",
+    "bbox": {
+      "x": 511,
+      "y": 0,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#F1EAD6",
+    "code": "c982",
+    "marketingName": "Colypso Red 714, 740, 864, €596, 731, 732, Pampas Green 737, 853,",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈43; verify chip alignment."
+  },
+  {
+    "oem": "Vauxhall",
+    "modelYear": 1967,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1967-Vauxhall.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1967-vauxhall/1967-vauxhall-pg02.jpg",
+    "bbox": {
+      "x": 509,
+      "y": 536,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#E8DFC8",
+    "code": "C101",
+    "marketingName": "Meteor Blue Maroon 607, 104, 750, ’ 694, Strate Svede Grey 851, 540, €595, €702,",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈67; verify chip alignment."
+  },
+  {
+    "oem": "Vauxhall",
+    "modelYear": 1967,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1967-Vauxhall.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1967-vauxhall/1967-vauxhall-pg02.jpg",
+    "bbox": {
+      "x": 548,
+      "y": 401,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#E3D9C3",
+    "code": "C545",
+    "marketingName": "Been €105,",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈62; verify chip alignment."
+  },
+  {
+    "oem": "Vauxhall",
+    "modelYear": 1967,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1967-Vauxhall.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1967-vauxhall/1967-vauxhall-pg02.jpg",
+    "bbox": {
+      "x": 548,
+      "y": 624,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#E7DECA",
+    "code": "C549",
+    "marketingName": "Unknown (OCR)",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈43; verify chip alignment."
+  },
+  {
+    "oem": "Vauxhall",
+    "modelYear": 1967,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1967-Vauxhall.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1967-vauxhall/1967-vauxhall-pg02.jpg",
+    "bbox": {
+      "x": 585,
+      "y": 401,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#E5DBC6",
+    "code": "C557",
+    "marketingName": "Unknown (OCR)",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈49; verify chip alignment."
+  },
+  {
+    "oem": "Vauxhall",
+    "modelYear": 1967,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1967-Vauxhall.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1967-vauxhall/1967-vauxhall-pg02.jpg",
+    "bbox": {
+      "x": 548,
+      "y": 0,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#F0E8D5",
+    "code": "C564",
+    "marketingName": "Cactus Colypso Green Red 714, €592, 731, €546, €557, 732, Oyster Blue Grey 955, 6675, 737, 853, €123, €924, 5WH 758,",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈71; verify chip alignment."
+  },
+  {
+    "oem": "Vauxhall",
+    "modelYear": 1967,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1967-Vauxhall.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1967-vauxhall/1967-vauxhall-pg02.jpg",
+    "bbox": {
+      "x": 585,
+      "y": 625,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#E9E0CE",
+    "code": "C568",
+    "marketingName": "ay",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈59; verify chip alignment."
+  },
+  {
+    "oem": "Vauxhall",
+    "modelYear": 1967,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1967-Vauxhall.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1967-vauxhall/1967-vauxhall-pg02.jpg",
+    "bbox": {
+      "x": 586,
+      "y": 0,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#F0E8D4",
+    "code": "C593",
+    "marketingName": "727,",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈48; verify chip alignment."
+  },
+  {
+    "oem": "Vauxhall",
+    "modelYear": 1967,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1967-Vauxhall.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1967-vauxhall/1967-vauxhall-pg02.jpg",
+    "bbox": {
+      "x": 248,
+      "y": 584,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#E7DBC2",
+    "code": "C597",
+    "marketingName": "Meteor Blue 607, 104, 750, 694, Tibeton Strate Svede Grey Yellow",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈51; verify chip alignment."
+  },
+  {
+    "oem": "Vauxhall",
+    "modelYear": 1967,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1967-Vauxhall.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1967-vauxhall/1967-vauxhall-pg02.jpg",
+    "bbox": {
+      "x": 586,
+      "y": 417,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#E6DBC7",
+    "code": "C601",
+    "marketingName": "Unknown (OCR)",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈84; verify chip alignment."
+  },
+  {
+    "oem": "Vauxhall",
+    "modelYear": 1967,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1967-Vauxhall.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1967-vauxhall/1967-vauxhall-pg02.jpg",
+    "bbox": {
+      "x": 212,
+      "y": 0,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#EAE1CF",
+    "code": "C602",
+    "marketingName": "Colypso Red 714, 740, 864, 731,",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈43; verify chip alignment."
+  },
+  {
+    "oem": "Vauxhall",
+    "modelYear": 1967,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1967-Vauxhall.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1967-vauxhall/1967-vauxhall-pg02.jpg",
+    "bbox": {
+      "x": 548,
+      "y": 473,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#E4DAC6",
+    "code": "C604",
+    "marketingName": "Jade Kestrel Green Grey Maroon 751, CROC 743, 607, ’ (759, €838, MCE 839, Storm Strate Grey 851, €702, €105, 709,",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈86; verify chip alignment."
+  },
+  {
+    "oem": "Vauxhall",
+    "modelYear": 1967,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1967-Vauxhall.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1967-vauxhall/1967-vauxhall-pg02.jpg",
+    "bbox": {
+      "x": 547,
+      "y": 640,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#E6DECA",
+    "code": "C605",
+    "marketingName": "11a, 939, €128,",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈89; verify chip alignment."
+  },
+  {
+    "oem": "Vauxhall",
+    "modelYear": 1967,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1967-Vauxhall.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1967-vauxhall/1967-vauxhall-pg02.jpg",
+    "bbox": {
+      "x": 212,
+      "y": 136,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#E6DAC2",
+    "code": "C606",
+    "marketingName": "Cavalry Cherry Cypress Deep Bronze Red Green Fawn Groen 862, 4GN",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈53; verify chip alignment."
+  },
+  {
+    "oem": "Vauxhall",
+    "modelYear": 1967,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1967-Vauxhall.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1967-vauxhall/1967-vauxhall-pg02.jpg",
+    "bbox": {
+      "x": 250,
+      "y": 0,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#EDE3D0",
+    "code": "C614",
+    "marketingName": "732, Pampas Blue Green",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈86; verify chip alignment."
+  },
+  {
+    "oem": "Vauxhall",
+    "modelYear": 1967,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1967-Vauxhall.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1967-vauxhall/1967-vauxhall-pg02.jpg",
+    "bbox": {
+      "x": 585,
+      "y": 473,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#E6DDC9",
+    "code": "C615",
+    "marketingName": "Unknown (OCR)",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈88; verify chip alignment."
+  },
+  {
+    "oem": "Vauxhall",
+    "modelYear": 1967,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1967-Vauxhall.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1967-vauxhall/1967-vauxhall-pg02.jpg",
+    "bbox": {
+      "x": 584,
+      "y": 640,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#E9E1CF",
+    "code": "C616",
+    "marketingName": "Unknown (OCR)",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈83; verify chip alignment."
+  },
+  {
+    "oem": "Vauxhall",
+    "modelYear": 1967,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1967-Vauxhall.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1967-vauxhall/1967-vauxhall-pg02.jpg",
+    "bbox": {
+      "x": 249,
+      "y": 136,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#E9DCC4",
+    "code": "C617",
+    "marketingName": "Panama Peacock White Bive 543, 589, eee 639 114, €561, €599, €120, €928, €130, >",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈82; verify chip alignment."
+  },
+  {
+    "oem": "Vauxhall",
+    "modelYear": 1967,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1967-Vauxhall.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1967-vauxhall/1967-vauxhall-pg02.jpg",
+    "bbox": {
+      "x": 586,
+      "y": 169,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#E7DCC8",
+    "code": "C619",
+    "marketingName": "639 114, €120, €928, sbs €130, ey >",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈79; verify chip alignment."
+  },
+  {
+    "oem": "Vauxhall",
+    "modelYear": 1967,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1967-Vauxhall.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1967-vauxhall/1967-vauxhall-pg02.jpg",
+    "bbox": {
+      "x": 546,
+      "y": 433,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#E5DAC4",
+    "code": "c621",
+    "marketingName": "Been €702, €105, 709,",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈49; verify chip alignment."
+  },
+  {
+    "oem": "Vauxhall",
+    "modelYear": 1967,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1967-Vauxhall.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1967-vauxhall/1967-vauxhall-pg02.jpg",
+    "bbox": {
+      "x": 247,
+      "y": 504,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#E9DCC5",
+    "code": "C678",
+    "marketingName": "MCE 694, Storm Strate Svede Grey Grey 851, 540, €702, €105, 709,",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈53; verify chip alignment."
+  },
+  {
+    "oem": "Vauxhall",
+    "modelYear": 1967,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1967-Vauxhall.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1967-vauxhall/1967-vauxhall-pg02.jpg",
+    "bbox": {
+      "x": 584,
+      "y": 537,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#E8DFCC",
+    "code": "C681",
+    "marketingName": "709,",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈0; verify chip alignment."
+  },
+  {
+    "oem": "Vauxhall",
+    "modelYear": 1967,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1967-Vauxhall.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1967-vauxhall/1967-vauxhall-pg02.jpg",
+    "bbox": {
+      "x": 212,
+      "y": 32,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#E8DEC9",
+    "code": "C685",
+    "marketingName": "714, 740, 864, €596, 731,",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈82; verify chip alignment."
+  },
+  {
+    "oem": "Vauxhall",
+    "modelYear": 1967,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1967-Vauxhall.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1967-vauxhall/1967-vauxhall-pg02.jpg",
+    "bbox": {
+      "x": 249,
+      "y": 32,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#EAE0CA",
+    "code": "C698",
+    "marketingName": "732, Pampas Panama Green White",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈89; verify chip alignment."
+  },
+  {
+    "oem": "Vauxhall",
+    "modelYear": 1967,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1967-Vauxhall.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1967-vauxhall/1967-vauxhall-pg02.jpg",
+    "bbox": {
+      "x": 211,
+      "y": 400,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#EADFC8",
+    "code": "C707",
+    "marketingName": "Jade Kestrel Green Grey 751, CROC 743, 754, (759, €838, €837,",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈63; verify chip alignment."
+  },
+  {
+    "oem": "Vauxhall",
+    "modelYear": 1967,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1967-Vauxhall.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1967-vauxhall/1967-vauxhall-pg02.jpg",
+    "bbox": {
+      "x": 211,
+      "y": 640,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#E2D8C1",
+    "code": "C710",
+    "marketingName": "750, Tibeton Yellow",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈62; verify chip alignment."
+  },
+  {
+    "oem": "Vauxhall",
+    "modelYear": 1967,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1967-Vauxhall.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1967-vauxhall/1967-vauxhall-pg02.jpg",
+    "bbox": {
+      "x": 549,
+      "y": 17,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#EEE6D2",
+    "code": "C715",
+    "marketingName": "€930, 758,",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈59; verify chip alignment."
+  },
+  {
+    "oem": "Vauxhall",
+    "modelYear": 1967,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1967-Vauxhall.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1967-vauxhall/1967-vauxhall-pg02.jpg",
+    "bbox": {
+      "x": 249,
+      "y": 416,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#EDE2CA",
+    "code": "C749",
+    "marketingName": "MCE 839, Storm Grey ug",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈89; verify chip alignment."
+  },
+  {
+    "oem": "Vauxhall",
+    "modelYear": 1967,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1967-Vauxhall.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1967-vauxhall/1967-vauxhall-pg02.jpg",
+    "bbox": {
+      "x": 212,
+      "y": 64,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#E6DBC5",
+    "code": "C752",
+    "marketingName": "Cavalry Fawn 864, €596,",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈72; verify chip alignment."
+  },
+  {
+    "oem": "Vauxhall",
+    "modelYear": 1967,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1967-Vauxhall.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1967-vauxhall/1967-vauxhall-pg02.jpg",
+    "bbox": {
+      "x": 211,
+      "y": 176,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#E5DBC5",
+    "code": "C760",
+    "marketingName": "Cherry Cypress Deep Bronze Blue Red Green Groen 862, 4GN €124, €956, €925, 935, Peacock Bive",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈61; verify chip alignment."
+  },
+  {
+    "oem": "Vauxhall",
+    "modelYear": 1967,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1967-Vauxhall.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1967-vauxhall/1967-vauxhall-pg02.jpg",
+    "bbox": {
+      "x": 249,
+      "y": 64,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#E9DDC7",
+    "code": "C761",
+    "marketingName": "Pampas Panama Green White",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈76; verify chip alignment."
+  },
+  {
+    "oem": "Vauxhall",
+    "modelYear": 1967,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1967-Vauxhall.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1967-vauxhall/1967-vauxhall-pg02.jpg",
+    "bbox": {
+      "x": 586,
+      "y": 33,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#EDE4D0",
+    "code": "C808",
+    "marketingName": "853, 543, €930, €561,",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈84; verify chip alignment."
+  },
+  {
+    "oem": "Vauxhall",
+    "modelYear": 1967,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1967-Vauxhall.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1967-vauxhall/1967-vauxhall-pg02.jpg",
+    "bbox": {
+      "x": 174,
+      "y": 80,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#E7DCC6",
+    "code": "C811",
+    "marketingName": "Cavalry Cherry Red Fawn 864, €596,",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈64; verify chip alignment."
+  },
+  {
+    "oem": "Vauxhall",
+    "modelYear": 1967,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1967-Vauxhall.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1967-vauxhall/1967-vauxhall-pg02.jpg",
+    "bbox": {
+      "x": 212,
+      "y": 80,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#E4D9C4",
+    "code": "C819",
+    "marketingName": "Unknown (OCR)",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈79; verify chip alignment."
+  },
+  {
+    "oem": "Vauxhall",
+    "modelYear": 1967,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1967-Vauxhall.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1967-vauxhall/1967-vauxhall-pg02.jpg",
+    "bbox": {
+      "x": 510,
+      "y": 568,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#EAE0CA",
+    "code": "C835",
+    "marketingName": "540, €595, 11a, 939,",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈44; verify chip alignment."
+  },
+  {
+    "oem": "Vauxhall",
+    "modelYear": 1967,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1967-Vauxhall.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1967-vauxhall/1967-vauxhall-pg02.jpg",
+    "bbox": {
+      "x": 548,
+      "y": 569,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#E7DECA",
+    "code": "C836",
+    "marketingName": "Unknown (OCR)",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈82; verify chip alignment."
+  },
+  {
+    "oem": "Vauxhall",
+    "modelYear": 1967,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1967-Vauxhall.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1967-vauxhall/1967-vauxhall-pg02.jpg",
+    "bbox": {
+      "x": 249,
+      "y": 432,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#EDE0C8",
+    "code": "C842",
+    "marketingName": "Jade Kestrel Green Grey 751, CROC 743, (759, €838, MCE 839, Storm Grey ug",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈64; verify chip alignment."
+  },
+  {
+    "oem": "Vauxhall",
+    "modelYear": 1967,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1967-Vauxhall.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1967-vauxhall/1967-vauxhall-pg02.jpg",
+    "bbox": {
+      "x": 585,
+      "y": 569,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#EAE1CE",
+    "code": "C846",
+    "marketingName": "ay",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈49; verify chip alignment."
+  },
+  {
+    "oem": "Vauxhall",
+    "modelYear": 1967,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1967-Vauxhall.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1967-vauxhall/1967-vauxhall-pg02.jpg",
+    "bbox": {
+      "x": 173,
+      "y": 504,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#E8DCC2",
+    "code": "C854",
+    "marketingName": "Kestrel Meteor Grey Blue Maroon CROC 743, 607, 104, ’",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈68; verify chip alignment."
+  },
+  {
+    "oem": "Vauxhall",
+    "modelYear": 1967,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1967-Vauxhall.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1967-vauxhall/1967-vauxhall-pg02.jpg",
+    "bbox": {
+      "x": 249,
+      "y": 80,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#E7DCC5",
+    "code": "C855",
+    "marketingName": "Pampas Panama Green White 543, 589, eee 639 €930, €561, €599,",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈65; verify chip alignment."
+  },
+  {
+    "oem": "Vauxhall",
+    "modelYear": 1967,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1967-Vauxhall.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1967-vauxhall/1967-vauxhall-pg02.jpg",
+    "bbox": {
+      "x": 548,
+      "y": 584,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#E7DEC9",
+    "code": "C858",
+    "marketingName": "Unknown (OCR)",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈74; verify chip alignment."
+  },
+  {
+    "oem": "Vauxhall",
+    "modelYear": 1967,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1967-Vauxhall.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1967-vauxhall/1967-vauxhall-pg02.jpg",
+    "bbox": {
+      "x": 548,
+      "y": 49,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#ECE2CD",
+    "code": "C861",
+    "marketingName": "543, 589, eee €930, €561, €599,",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈61; verify chip alignment."
+  },
+  {
+    "oem": "Vauxhall",
+    "modelYear": 1967,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1967-Vauxhall.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1967-vauxhall/1967-vauxhall-pg02.jpg",
+    "bbox": {
+      "x": 211,
+      "y": 504,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#E6DAC2",
+    "code": "C866",
+    "marketingName": "€838,",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈72; verify chip alignment."
+  },
+  {
+    "oem": "Vauxhall",
+    "modelYear": 1967,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1967-Vauxhall.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1967-vauxhall/1967-vauxhall-pg02.jpg",
+    "bbox": {
+      "x": 585,
+      "y": 49,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#EDE3CE",
+    "code": "C870",
+    "marketingName": "Unknown (OCR)",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈44; verify chip alignment."
+  },
+  {
+    "oem": "Vauxhall",
+    "modelYear": 1967,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1967-Vauxhall.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1967-vauxhall/1967-vauxhall-pg02.jpg",
+    "bbox": {
+      "x": 211,
+      "y": 304,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#E8DDC7",
+    "code": "C957",
+    "marketingName": "Fir Grecian Green White 8GN 103, 706, 754, €672, (735, €837,",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈88; verify chip alignment."
+  },
+  {
+    "oem": "Vauxhall",
+    "modelYear": 1967,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1967-Vauxhall.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1967-vauxhall/1967-vauxhall-pg02.jpg",
+    "bbox": {
+      "x": 249,
+      "y": 304,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#EADFC8",
+    "code": "C962",
+    "marketingName": "Roulette Blue ca, 937, 964, 537, 563, €591, cr, 6985,",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈79; verify chip alignment."
+  },
+  {
+    "oem": "Vauxhall",
+    "modelYear": 1967,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1967-Vauxhall.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1967-vauxhall/1967-vauxhall-pg02.jpg",
+    "bbox": {
+      "x": 546,
+      "y": 696,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#E6DECC",
+    "code": "C966",
+    "marketingName": "Unknown (OCR)",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈56; verify chip alignment."
+  },
+  {
+    "oem": "Vauxhall",
+    "modelYear": 1967,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1967-Vauxhall.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1967-vauxhall/1967-vauxhall-pg02.jpg",
+    "bbox": {
+      "x": 586,
+      "y": 0,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#F0E8D4",
+    "code": "C970",
+    "marketingName": "6675, 737, 853, €930, 758, 727,",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈58; verify chip alignment."
+  },
+  {
+    "oem": "Vauxhall",
+    "modelYear": 1967,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1967-Vauxhall.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1967-vauxhall/1967-vauxhall-pg02.jpg",
+    "bbox": {
+      "x": 584,
+      "y": 696,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#E9E1D0",
+    "code": "C975",
+    "marketingName": "Unknown (OCR)",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈74; verify chip alignment."
+  },
+  {
+    "oem": "Vauxhall",
+    "modelYear": 1967,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1967-Vauxhall.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1967-vauxhall/1967-vauxhall-pg02.jpg",
+    "bbox": {
+      "x": 511,
+      "y": 0,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#F1EAD6",
+    "code": "c982",
+    "marketingName": "Colypso Red 714, 740, 864, €596, 731, 732, Pampas Green 737, 853,",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈43; verify chip alignment."
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "oem": "Fruehauf",
+    "modelYear": 1986,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1986-Fruehauf.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1986-fruehauf/1986-Fruehauf-pg01.jpg",
+    "bbox": {
+      "x": 152,
+      "y": 15,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#AEA7A5",
+    "code": "2000/2300",
+    "marketingName": "Factory color 2000/2300",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈63; verify chip alignment."
+  }
+]

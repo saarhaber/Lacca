@@ -1,0 +1,17 @@
+{
+  "$schema": "../../../schemas/oem-scope-v1.schema.json",
+  "scopeId": "polestar-curated-v1",
+  "oem": "Polestar",
+  "region": "Global",
+  "modelYears": {
+    "from": 2020,
+    "to": 2026
+  },
+  "models": [
+    "Polestar 2",
+    "Polestar 3",
+    "Polestar 4"
+  ],
+  "notes": "Polestar exterior colors, curated from configurator references. LAB values are HEX-derived approximations.",
+  "exteriorPaintFile": "./exterior-paints-v1.json"
+}

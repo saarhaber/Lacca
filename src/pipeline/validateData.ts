@@ -19,6 +19,7 @@ const ALLOWED_LAB_SOURCES = new Set([
   "paintref",
   "paintref_hex",
   "paintref_chip",
+  "autocolorlibrary_swatch",
   "hex_derived",
   "ral_classic_hex",
   "oem_spec_sheet",

@@ -1,0 +1,70 @@
+[
+  {
+    "oem": "Mazda",
+    "modelYear": 1995,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1995-Mazda.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1995-mazda/1995-Mazda-pg01.jpg",
+    "bbox": {
+      "x": 181,
+      "y": 239,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#ABA4A3",
+    "code": "4388/4427",
+    "marketingName": "Factory color 4388/4427",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈85; verify chip alignment."
+  },
+  {
+    "oem": "Mazda",
+    "modelYear": 1996,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1996-Mazda.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1996-mazda/1996-Mazda-pg01.jpg",
+    "bbox": {
+      "x": 442,
+      "y": 397,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#B8B9B6",
+    "code": "4998/4939",
+    "marketingName": "Factory color 4998/4939",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈80; verify chip alignment."
+  },
+  {
+    "oem": "Mazda",
+    "modelYear": 1998,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1998-Mazda.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1998-mazda/1998-Mazda-pg01.jpg",
+    "bbox": {
+      "x": 312,
+      "y": 152,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#CFCCC6",
+    "code": "4938/4939",
+    "marketingName": "a.",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈64; verify chip alignment."
+  },
+  {
+    "oem": "Mazda",
+    "modelYear": 2003,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2003-Mazda.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2003-mazda/2003-Mazda-pg01.jpg",
+    "bbox": {
+      "x": 473,
+      "y": 434,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#CFCFD2",
+    "code": "5955/5956",
+    "marketingName": "Pers blanco nave",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈91; verify chip alignment."
+  }
+]

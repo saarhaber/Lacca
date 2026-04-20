@@ -1,0 +1,70 @@
+[
+  {
+    "oem": "Hyundai",
+    "modelYear": 1986,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1986-Hyundai.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1986-hyundai/1986-Hyundai-pg03.jpg",
+    "bbox": {
+      "x": 146,
+      "y": 209,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#C2B0AC",
+    "code": "9000/8300",
+    "marketingName": "Factory color 9000/8300",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈51; verify chip alignment."
+  },
+  {
+    "oem": "Hyundai",
+    "modelYear": 2018,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2018-Hyundai.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2018-hyundai/2018-Hyundai-pg03.jpg",
+    "bbox": {
+      "x": 1294,
+      "y": 3137,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#DFDEDA",
+    "code": "G80",
+    "marketingName": "Factory color G80",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈93; verify chip alignment."
+  },
+  {
+    "oem": "Hyundai",
+    "modelYear": 2018,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2018-Hyundai.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2018-hyundai/2018-Hyundai-pg03.jpg",
+    "bbox": {
+      "x": 1553,
+      "y": 3137,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#EAEAE6",
+    "code": "G90",
+    "marketingName": "Factory color G90",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈93; verify chip alignment."
+  },
+  {
+    "oem": "Hyundai",
+    "modelYear": 2019,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2019-Hyundai.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2019-hyundai/2019_Hyundai_02.jpg",
+    "bbox": {
+      "x": 1327,
+      "y": 2811,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#E8E1DB",
+    "code": "G80",
+    "marketingName": "Factory color G80",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈95; verify chip alignment."
+  }
+]

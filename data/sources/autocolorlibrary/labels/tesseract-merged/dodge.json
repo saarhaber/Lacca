@@ -1,0 +1,36 @@
+[
+  {
+    "oem": "Dodge",
+    "modelYear": 1978,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1978-Dodge-Truck.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1978-dodge-truck/1978-Dodgetruck-pg01.jpg",
+    "bbox": {
+      "x": 128,
+      "y": 24,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#C9AC95",
+    "code": "D906",
+    "marketingName": "MOTORS JEEP INFORMATION ON 1078 AMERIGAN FORM 7614 MOTORS PASSENGER CAR COLOR CARD",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈42; verify chip alignment."
+  },
+  {
+    "oem": "Dodge",
+    "modelYear": 1978,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1978-Dodge-Truck.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1978-dodge-truck/1978-Dodgetruck-pg01.jpg",
+    "bbox": {
+      "x": 36,
+      "y": 24,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#D2C7B7",
+    "code": "evz00",
+    "marketingName": "AMERICAN",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈0; verify chip alignment."
+  }
+]

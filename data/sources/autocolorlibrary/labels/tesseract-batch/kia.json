@@ -1,0 +1,36 @@
+[
+  {
+    "oem": "Kia",
+    "modelYear": 2015,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2015-Kia.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2015-kia/2015-Kia-pg03.jpg",
+    "bbox": {
+      "x": 742,
+      "y": 2919,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#D1CBCF",
+    "code": "K900",
+    "marketingName": "Factory color K900",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈82; verify chip alignment."
+  },
+  {
+    "oem": "Kia",
+    "modelYear": 2019,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2019-Kia-Motors.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2019-kia-motors/2019_Kia_02.jpg",
+    "bbox": {
+      "x": 1402,
+      "y": 718,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#515150",
+    "code": "K900",
+    "marketingName": "Factory color K900",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈60; verify chip alignment."
+  }
+]

@@ -1,0 +1,103 @@
+{
+  "$schema": "../../../schemas/exterior-paints-v1.schema.json",
+  "scopeId": "rolls-royce-curated-v1",
+  "version": "1.0.0",
+  "paints": [
+    {
+      "code": "300",
+      "marketingName": "Arctic White",
+      "finish": "solid",
+      "lab": {
+        "L": 96.14,
+        "a": -0.35,
+        "b": 0.96,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "hex_derived",
+        "confidence": "derived",
+        "recordedAt": "2026-04-20",
+        "notes": "Derived from #F4F4F2 (hex_derived). Replace with spectro LAB before production claims."
+      }
+    },
+    {
+      "code": "A89",
+      "marketingName": "Jubilee Silver",
+      "finish": "metallic",
+      "lab": {
+        "L": 77.92,
+        "a": 1.5,
+        "b": -4.01,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "hex_derived",
+        "confidence": "derived",
+        "recordedAt": "2026-04-20",
+        "notes": "Derived from #C0C0C8 (hex_derived). Replace with spectro LAB before production claims."
+      }
+    },
+    {
+      "code": "C20",
+      "marketingName": "Midnight Sapphire",
+      "finish": "metallic",
+      "lab": {
+        "L": 10.97,
+        "a": 7.37,
+        "b": -23.78,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "hex_derived",
+        "confidence": "derived",
+        "recordedAt": "2026-04-20",
+        "notes": "Derived from #0C1C3E (hex_derived). Replace with spectro LAB before production claims."
+      }
+    },
+    {
+      "code": "C06",
+      "marketingName": "Salamanca Blue",
+      "finish": "metallic",
+      "lab": {
+        "L": 15.68,
+        "a": -0.25,
+        "b": -12.05,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "hex_derived",
+        "confidence": "derived",
+        "recordedAt": "2026-04-20",
+        "notes": "Derived from #1B2838 (hex_derived). Replace with spectro LAB before production claims."
+      }
+    },
+    {
+      "code": "A25",
+      "marketingName": "Diamond Black",
+      "finish": "metallic",
+      "lab": {
+        "L": 5.06,
+        "a": 0,
+        "b": 0,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "hex_derived",
+        "confidence": "derived",
+        "recordedAt": "2026-04-20",
+        "notes": "Derived from #111111 (hex_derived). Replace with spectro LAB before production claims."
+      }
+    },
+    {
+      "code": "C24",
+      "marketingName": "Belladonna Purple",
+      "finish": "metallic",
+      "lab": {
+        "L": 11.92,
+        "a": 34.32,
+        "b": -37.36,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "hex_derived",
+        "confidence": "derived",
+        "recordedAt": "2026-04-20",
+        "notes": "Derived from #2E0854 (hex_derived). Replace with spectro LAB before production claims."
+      }
+    }
+  ]
+}

@@ -1,0 +1,119 @@
+{
+  "$schema": "../../../schemas/exterior-paints-v1.schema.json",
+  "scopeId": "ferrari-paintref-v1",
+  "version": "1.0.0",
+  "paints": [
+    {
+      "code": "300",
+      "marketingName": "Rosso Corsa",
+      "finish": "solid",
+      "lab": {
+        "L": 42.52,
+        "a": 67.7,
+        "b": 56.8,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "hex_derived",
+        "confidence": "derived",
+        "recordedAt": "2026-04-20",
+        "notes": "Derived from #CC0000 (hex_derived). Replace with spectro LAB before production claims."
+      }
+    },
+    {
+      "code": "4305",
+      "marketingName": "Giallo Modena",
+      "finish": "solid",
+      "lab": {
+        "L": 84.2,
+        "a": 3.68,
+        "b": 85.22,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "hex_derived",
+        "confidence": "derived",
+        "recordedAt": "2026-04-20",
+        "notes": "Derived from #FFCC00 (hex_derived). Replace with spectro LAB before production claims."
+      }
+    },
+    {
+      "code": "526",
+      "marketingName": "Blu Tour de France",
+      "finish": "metallic",
+      "lab": {
+        "L": 25.02,
+        "a": 5.32,
+        "b": -35.31,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "hex_derived",
+        "confidence": "derived",
+        "recordedAt": "2026-04-20",
+        "notes": "Derived from #003C71 (hex_derived). Replace with spectro LAB before production claims."
+      }
+    },
+    {
+      "code": "513",
+      "marketingName": "Nero Daytona",
+      "finish": "metallic",
+      "lab": {
+        "L": 10.34,
+        "a": 0.52,
+        "b": -1.38,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "hex_derived",
+        "confidence": "derived",
+        "recordedAt": "2026-04-20",
+        "notes": "Derived from #1C1C1E (hex_derived). Replace with spectro LAB before production claims."
+      }
+    },
+    {
+      "code": "226",
+      "marketingName": "Grigio Silverstone",
+      "finish": "metallic",
+      "lab": {
+        "L": 46.44,
+        "a": 0.24,
+        "b": -1.8,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "hex_derived",
+        "confidence": "derived",
+        "recordedAt": "2026-04-20",
+        "notes": "Derived from #6D6E71 (hex_derived). Replace with spectro LAB before production claims."
+      }
+    },
+    {
+      "code": "100",
+      "marketingName": "Bianco Avus",
+      "finish": "solid",
+      "lab": {
+        "L": 98.27,
+        "a": 0,
+        "b": 0,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "hex_derived",
+        "confidence": "derived",
+        "recordedAt": "2026-04-20",
+        "notes": "Derived from #FAFAFA (hex_derived). Replace with spectro LAB before production claims."
+      }
+    },
+    {
+      "code": "321",
+      "marketingName": "Rosso Scuderia",
+      "finish": "solid",
+      "lab": {
+        "L": 47.3,
+        "a": 73.37,
+        "b": 52.66,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "hex_derived",
+        "confidence": "derived",
+        "recordedAt": "2026-04-20",
+        "notes": "Derived from #E2001A (hex_derived). Replace with spectro LAB before production claims."
+      }
+    }
+  ]
+}

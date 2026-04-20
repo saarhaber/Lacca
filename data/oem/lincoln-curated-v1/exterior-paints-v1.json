@@ -1,0 +1,87 @@
+{
+  "$schema": "../../../schemas/exterior-paints-v1.schema.json",
+  "scopeId": "lincoln-curated-v1",
+  "version": "1.0.0",
+  "paints": [
+    {
+      "code": "C8",
+      "marketingName": "Flight Blue",
+      "finish": "metallic",
+      "lab": {
+        "L": 19.35,
+        "a": 3.19,
+        "b": -20.73,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "hex_derived",
+        "confidence": "derived",
+        "recordedAt": "2026-04-20",
+        "notes": "Derived from #1D2F4D (hex_derived). Replace with spectro LAB before production claims."
+      }
+    },
+    {
+      "code": "AZ",
+      "marketingName": "Pristine White",
+      "finish": "pearl",
+      "lab": {
+        "L": 94.95,
+        "a": 0.3,
+        "b": 3.37,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "hex_derived",
+        "confidence": "derived",
+        "recordedAt": "2026-04-20",
+        "notes": "Derived from #F4F0EA (hex_derived). Replace with spectro LAB before production claims."
+      }
+    },
+    {
+      "code": "G1",
+      "marketingName": "Infinite Black",
+      "finish": "metallic",
+      "lab": {
+        "L": 4.02,
+        "a": 0.36,
+        "b": -0.99,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "hex_derived",
+        "confidence": "derived",
+        "recordedAt": "2026-04-20",
+        "notes": "Derived from #0E0E10 (hex_derived). Replace with spectro LAB before production claims."
+      }
+    },
+    {
+      "code": "RR",
+      "marketingName": "Red Carpet",
+      "finish": "metallic",
+      "lab": {
+        "L": 23.41,
+        "a": 39.14,
+        "b": 17.4,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "hex_derived",
+        "confidence": "derived",
+        "recordedAt": "2026-04-20",
+        "notes": "Derived from #6E1420 (hex_derived). Replace with spectro LAB before production claims."
+      }
+    },
+    {
+      "code": "UX",
+      "marketingName": "Silver Radiance",
+      "finish": "metallic",
+      "lab": {
+        "L": 79.26,
+        "a": 0.74,
+        "b": -2,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "hex_derived",
+        "confidence": "derived",
+        "recordedAt": "2026-04-20",
+        "notes": "Derived from #C4C4C8 (hex_derived). Replace with spectro LAB before production claims."
+      }
+    }
+  ]
+}

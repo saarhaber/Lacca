@@ -1,0 +1,20 @@
+{
+  "$schema": "../../../schemas/oem-scope-v1.schema.json",
+  "scopeId": "peugeot-curated-v1",
+  "oem": "Peugeot",
+  "region": "Global",
+  "modelYears": {
+    "from": 1955,
+    "to": 2026
+  },
+  "models": [
+    "208",
+    "308",
+    "508",
+    "2008",
+    "3008",
+    "5008"
+  ],
+  "notes": "Peugeot exterior colors, curated from industry touch-up references. LAB values are HEX-derived approximations; replace with spectro data before production claims.",
+  "exteriorPaintFile": "./exterior-paints-v1.json"
+}

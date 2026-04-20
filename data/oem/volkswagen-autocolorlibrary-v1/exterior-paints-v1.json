@@ -5,7 +5,7 @@
   "paints": [
     {
       "code": "200",
-      "marketingName": "Titian Red Satuengelb “Yellows",
+      "marketingName": "Titian Red Satuengelb \u201cYellows",
       "finish": "solid",
       "lab": {
         "L": 91.6,
@@ -16,7 +16,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/1973-Volkswagen.html). Image data/sources/autocolorlibrary/pages/1973-volkswagen/1973-volkswagen-pg07.jpg; bbox 168,0 160×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈0; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/1973-Volkswagen.html). Image data/sources/autocolorlibrary/pages/1973-volkswagen/1973-volkswagen-pg07.jpg; bbox 168,0 160\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u22480; verify chip alignment.",
         "provenanceId": "acl:volkswagen:1973:200:168,0,160x210"
       }
     },
@@ -33,7 +33,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Volkswagen.html). Image data/sources/autocolorlibrary/pages/2019-volkswagen/2019_VolkswagenAudi_03.jpg; bbox 111,1130 536×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈93; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Volkswagen.html). Image data/sources/autocolorlibrary/pages/2019-volkswagen/2019_VolkswagenAudi_03.jpg; bbox 111,1130 536\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224893; verify chip alignment.",
         "provenanceId": "acl:volkswagen:2019:9094:111,1130,536x210"
       }
     },
@@ -50,7 +50,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Volkswagen.html). Image data/sources/autocolorlibrary/pages/2019-volkswagen/2019_VolkswagenAudi_02.jpg; bbox 250,2084 539×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈93; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Volkswagen.html). Image data/sources/autocolorlibrary/pages/2019-volkswagen/2019_VolkswagenAudi_02.jpg; bbox 250,2084 539\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224893; verify chip alignment.",
         "provenanceId": "acl:volkswagen:2019:9518:250,2084,539x210"
       }
     },
@@ -67,7 +67,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Volkswagen.html). Image data/sources/autocolorlibrary/pages/2019-volkswagen/2019_VolkswagenAudi_02.jpg; bbox 1065,2082 945×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈91; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Volkswagen.html). Image data/sources/autocolorlibrary/pages/2019-volkswagen/2019_VolkswagenAudi_02.jpg; bbox 1065,2082 945\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224891; verify chip alignment.",
         "provenanceId": "acl:volkswagen:2019:9981:1065,2082,945x210"
       }
     },
@@ -84,7 +84,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Volkswagen.html). Image data/sources/autocolorlibrary/pages/2019-volkswagen/2019_VolkswagenAudi_01.jpg; bbox 0,171 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈88; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Volkswagen.html). Image data/sources/autocolorlibrary/pages/2019-volkswagen/2019_VolkswagenAudi_01.jpg; bbox 0,171 150\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224888; verify chip alignment.",
         "provenanceId": "acl:volkswagen:2019:L041:0,171,150x210"
       }
     },
@@ -101,7 +101,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Volkswagen.html). Image data/sources/autocolorlibrary/pages/2019-volkswagen/2019_VolkswagenAudi_01.jpg; bbox 811,172 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈85; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Volkswagen.html). Image data/sources/autocolorlibrary/pages/2019-volkswagen/2019_VolkswagenAudi_01.jpg; bbox 811,172 150\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224885; verify chip alignment.",
         "provenanceId": "acl:volkswagen:2019:L69N:811,172,150x210"
       }
     },
@@ -118,7 +118,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Volkswagen.html). Image data/sources/autocolorlibrary/pages/2019-volkswagen/2019_VolkswagenAudi_01.jpg; bbox 1218,173 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈89; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Volkswagen.html). Image data/sources/autocolorlibrary/pages/2019-volkswagen/2019_VolkswagenAudi_01.jpg; bbox 1218,173 150\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224889; verify chip alignment.",
         "provenanceId": "acl:volkswagen:2019:L94F:1218,173,150x210"
       }
     },
@@ -135,7 +135,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2010-Volkswagen.html). Image data/sources/autocolorlibrary/pages/2010-volkswagen/2010-Audi-pg04.jpg; bbox 361,1466 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈87; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2010-Volkswagen.html). Image data/sources/autocolorlibrary/pages/2010-volkswagen/2010-Audi-pg04.jpg; bbox 361,1466 150\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224887; verify chip alignment.",
         "provenanceId": "acl:volkswagen:2010:LZ50:361,1466,150x210"
       }
     },
@@ -152,7 +152,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2010-Volkswagen.html). Image data/sources/autocolorlibrary/pages/2010-volkswagen/2010-Audi-pg04.jpg; bbox 1598,1461 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈73; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2010-Volkswagen.html). Image data/sources/autocolorlibrary/pages/2010-volkswagen/2010-Audi-pg04.jpg; bbox 1598,1461 150\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224873; verify chip alignment.",
         "provenanceId": "acl:volkswagen:2010:LZ70:1598,1461,150x210"
       }
     },
@@ -169,7 +169,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Volkswagen.html). Image data/sources/autocolorlibrary/pages/2019-volkswagen/2019_VolkswagenAudi_04.jpg; bbox 137,2565 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈93; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Volkswagen.html). Image data/sources/autocolorlibrary/pages/2019-volkswagen/2019_VolkswagenAudi_04.jpg; bbox 137,2565 150\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224893; verify chip alignment.",
         "provenanceId": "acl:volkswagen:2019:R611:137,2565,150x210"
       }
     },
@@ -186,7 +186,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Volkswagen.html). Image data/sources/autocolorlibrary/pages/2019-volkswagen/2019_VolkswagenAudi_04.jpg; bbox 550,2564 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈93; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Volkswagen.html). Image data/sources/autocolorlibrary/pages/2019-volkswagen/2019_VolkswagenAudi_04.jpg; bbox 550,2564 150\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224893; verify chip alignment.",
         "provenanceId": "acl:volkswagen:2019:R700:550,2564,150x210"
       }
     },
@@ -203,7 +203,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Volkswagen.html). Image data/sources/autocolorlibrary/pages/2019-volkswagen/2019_VolkswagenAudi_04.jpg; bbox 960,2564 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈93; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Volkswagen.html). Image data/sources/autocolorlibrary/pages/2019-volkswagen/2019_VolkswagenAudi_04.jpg; bbox 960,2564 150\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224893; verify chip alignment.",
         "provenanceId": "acl:volkswagen:2019:R715:960,2564,150x210"
       }
     },
@@ -220,8 +220,93 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Volkswagen.html). Image data/sources/autocolorlibrary/pages/2019-volkswagen/2019_VolkswagenAudi_04.jpg; bbox 1370,2563 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈91; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Volkswagen.html). Image data/sources/autocolorlibrary/pages/2019-volkswagen/2019_VolkswagenAudi_04.jpg; bbox 1370,2563 150\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224891; verify chip alignment.",
         "provenanceId": "acl:volkswagen:2019:R737:1370,2563,150x210"
+      }
+    },
+    {
+      "code": "LD5C",
+      "marketingName": "Cornflower Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 61.93,
+        "a": 9.33,
+        "b": -49.3,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "hex_derived",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Derived from #6495ED. Alternate code D5C. Heritage Rabbit pastel blue with slight violet tint.",
+        "provenanceId": "lacca:user-curated:volkswagen:Cornflower-Blue-LD5C"
+      }
+    },
+    {
+      "code": "200/592",
+      "marketingName": "Titian Red Satuengelb \u201cYellows",
+      "finish": "solid",
+      "lab": {
+        "L": 91.6,
+        "a": 0.37,
+        "b": 8.88,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Tesseract batch: code conf\u22480; verify chip alignment.",
+        "provenanceId": "acl:tesseract:volkswagen:200/592"
+      }
+    },
+    {
+      "code": "9094/9984",
+      "marketingName": "Techno Blue Jazz Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 78.8,
+        "a": 1.35,
+        "b": -10.3,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Tesseract batch: code conf\u224893; verify chip alignment.",
+        "provenanceId": "acl:tesseract:volkswagen:9094/9984"
+      }
+    },
+    {
+      "code": "9518/9043",
+      "marketingName": "91 Blue Prussian Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 59.38,
+        "a": 2.11,
+        "b": -3.45,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Tesseract batch: code conf\u224893; verify chip alignment.",
+        "provenanceId": "acl:tesseract:volkswagen:9518/9043"
+      }
+    },
+    {
+      "code": "9981/9184",
+      "marketingName": "Moss Green Samurai Gray Curry Gold",
+      "finish": "solid",
+      "lab": {
+        "L": 44.98,
+        "a": 1.32,
+        "b": -4.59,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Tesseract batch: code conf\u224891; verify chip alignment.",
+        "provenanceId": "acl:tesseract:volkswagen:9981/9184"
       }
     }
   ]

@@ -1,0 +1,18 @@
+{
+  "$schema": "../../../schemas/oem-scope-v1.schema.json",
+  "scopeId": "bugatti-curated-v1",
+  "oem": "Bugatti",
+  "region": "Global",
+  "modelYears": {
+    "from": 1909,
+    "to": 2026
+  },
+  "models": [
+    "Chiron",
+    "Veyron",
+    "Mistral",
+    "Tourbillon"
+  ],
+  "notes": "Bugatti exterior colors, curated from industry touch-up references. LAB values are HEX-derived approximations; replace with spectro data before production claims.",
+  "exteriorPaintFile": "./exterior-paints-v1.json"
+}

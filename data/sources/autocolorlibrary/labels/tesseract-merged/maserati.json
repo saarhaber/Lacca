@@ -1,0 +1,36 @@
+[
+  {
+    "oem": "Maserati",
+    "modelYear": 1986,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1986-Maserati.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1986-maserati/1986-Maserati-pg03.jpg",
+    "bbox": {
+      "x": 146,
+      "y": 209,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#C2B0AC",
+    "code": "9000/8300",
+    "marketingName": "C 1853 oe on 800 1809 & & eal hy 108 o 2085 1758 aseinwy",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈51; verify chip alignment."
+  },
+  {
+    "oem": "Maserati",
+    "modelYear": 1988,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1988-Maserati.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1988-maserati/1988-Maserati-pg08.jpg",
+    "bbox": {
+      "x": 316,
+      "y": 0,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#F6F6F5",
+    "code": "903/000",
+    "marketingName": "Reine 1988 54- | | Reine 1988 royal 54- cabernet met. (pear!) (FM8) MAS FM8/00C",
+    "finish": "metallic",
+    "notes": "Tesseract batch: code conf≈50; verify chip alignment."
+  }
+]

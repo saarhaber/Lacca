@@ -1,0 +1,4490 @@
+[
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 1979,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1979-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1979-mercedes-benz/1979-Mercedesbenz-pg03.jpg",
+    "bbox": {
+      "x": 148,
+      "y": 100,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#C4C5C3",
+    "code": "DBo04",
+    "marketingName": "Factory color DBO04",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈0; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 1979,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1979-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1979-mercedes-benz/1979-Mercedesbenz-pg03.jpg",
+    "bbox": {
+      "x": 240,
+      "y": 100,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#C5BDAB",
+    "code": "oa717",
+    "marketingName": "Factory color OA717",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈0; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 1998,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1998-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1998-mercedes-benz/1998-Mercedesbenz-pg01.jpg",
+    "bbox": {
+      "x": 312,
+      "y": 152,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#CFCCC6",
+    "code": "4938/4939",
+    "marketingName": "a.",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈64; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2009,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2009-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2009-mercedes-benz/2009-Mercedesbenz-pg02.jpg",
+    "bbox": {
+      "x": 1560,
+      "y": 1477,
+      "w": 174,
+      "h": 210
+    },
+    "hex": "#FEFEFF",
+    "code": "960/780",
+    "marketingName": "Alabasterweiss",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈96; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2011,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2011-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2011-mercedes-benz/2011-Mercedesbenz-pg01.jpg",
+    "bbox": {
+      "x": 287,
+      "y": 320,
+      "w": 210,
+      "h": 210
+    },
+    "hex": "#1F1F20",
+    "code": "040/9040",
+    "marketingName": "Factory color 040/9040",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈93; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2011,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2011-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2011-mercedes-benz/2011-Mercedesbenz-pg01.jpg",
+    "bbox": {
+      "x": 699,
+      "y": 318,
+      "w": 213,
+      "h": 210
+    },
+    "hex": "#6C6870",
+    "code": "044/8044",
+    "marketingName": "SLS",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈58; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2011,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2011-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2011-mercedes-benz/2011-Mercedesbenz-pg01.jpg",
+    "bbox": {
+      "x": 1936,
+      "y": 313,
+      "w": 211,
+      "h": 210
+    },
+    "hex": "#FBF6F2",
+    "code": "136/9136",
+    "marketingName": "Grauweiss",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈40; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2011,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2011-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2011-mercedes-benz/2011-Mercedesbenz-pg01.jpg",
+    "bbox": {
+      "x": 1112,
+      "y": 881,
+      "w": 211,
+      "h": 210
+    },
+    "hex": "#7E7479",
+    "code": "160/7160",
+    "marketingName": "Steingrau",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈79; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2011,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2011-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2011-mercedes-benz/2011-Mercedesbenz-pg01.jpg",
+    "bbox": {
+      "x": 1525,
+      "y": 1444,
+      "w": 211,
+      "h": 210
+    },
+    "hex": "#FDB538",
+    "code": "243/1243",
+    "marketingName": "Calcite Yellow",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈87; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2011,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2011-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2011-mercedes-benz/2011-Mercedesbenz-pg01.jpg",
+    "bbox": {
+      "x": 289,
+      "y": 2014,
+      "w": 212,
+      "h": 210
+    },
+    "hex": "#21222F",
+    "code": "345/5345",
+    "marketingName": "SPR GR",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈66; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2011,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2011-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2011-mercedes-benz/2011-Mercedesbenz-pg01.jpg",
+    "bbox": {
+      "x": 1526,
+      "y": 2007,
+      "w": 212,
+      "h": 210
+    },
+    "hex": "#33537F",
+    "code": "362/5362",
+    "marketingName": "Factory color 362/5362",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈65; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2011,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2011-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2011-mercedes-benz/2011-Mercedesbenz-pg02.jpg",
+    "bbox": {
+      "x": 295,
+      "y": 317,
+      "w": 212,
+      "h": 210
+    },
+    "hex": "#414251",
+    "code": "389/5389",
+    "marketingName": "Stahlblau",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈93; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2011,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2011-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2011-mercedes-benz/2011-Mercedesbenz-pg02.jpg",
+    "bbox": {
+      "x": 707,
+      "y": 317,
+      "w": 211,
+      "h": 210
+    },
+    "hex": "#BF2F3B",
+    "code": "432/3432",
+    "marketingName": "Flame Red",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈93; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2011,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2011-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2011-mercedes-benz/2011-Mercedesbenz-pg02.jpg",
+    "bbox": {
+      "x": 295,
+      "y": 882,
+      "w": 211,
+      "h": 210
+    },
+    "hex": "#3C3B40",
+    "code": "524/5524",
+    "marketingName": "Schwarzblau Dolomitbraun Pearl Thulitrot",
+    "finish": "pearl",
+    "notes": "Tesseract batch: code conf≈55; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2011,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2011-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2011-mercedes-benz/2011-Mercedesbenz-pg02.jpg",
+    "bbox": {
+      "x": 295,
+      "y": 1447,
+      "w": 210,
+      "h": 210
+    },
+    "hex": "#4E3B3D",
+    "code": "583/3583",
+    "marketingName": "Velvet Red",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈93; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2011,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2011-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2011-mercedes-benz/2011-Mercedesbenz-pg02.jpg",
+    "bbox": {
+      "x": 294,
+      "y": 2010,
+      "w": 211,
+      "h": 210
+    },
+    "hex": "#ABB1BC",
+    "code": "708/7708",
+    "marketingName": "Silbergrau",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈75; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2011,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2011-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2011-mercedes-benz/2011-Mercedesbenz-pg02.jpg",
+    "bbox": {
+      "x": 707,
+      "y": 2010,
+      "w": 211,
+      "h": 210
+    },
+    "hex": "#CECDD2",
+    "code": "744/9744",
+    "marketingName": "Brillantsilber Tenoritgrau Pearl Himalayas",
+    "finish": "pearl",
+    "notes": "Tesseract batch: code conf≈82; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2011,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2011-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2011-mercedes-benz/2011-Mercedesbenz-pg02.jpg",
+    "bbox": {
+      "x": 1944,
+      "y": 2007,
+      "w": 211,
+      "h": 210
+    },
+    "hex": "#5D5B60",
+    "code": "759/7759",
+    "marketingName": "Medium Grey Pearl Graphite Grey Pearl",
+    "finish": "pearl",
+    "notes": "Tesseract batch: code conf≈82; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2011,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2011-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2011-mercedes-benz/2011-Mercedesbenz-pg02.jpg",
+    "bbox": {
+      "x": 1944,
+      "y": 879,
+      "w": 212,
+      "h": 210
+    },
+    "hex": "#7C3D3E",
+    "code": "948/3548",
+    "marketingName": "Pearl Carneolrot Pearl Amber Red",
+    "finish": "pearl",
+    "notes": "Tesseract batch: code conf≈64; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2011,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2011-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2011-mercedes-benz/2011-Mercedesbenz-pg03.jpg",
+    "bbox": {
+      "x": 710,
+      "y": 1457,
+      "w": 210,
+      "h": 210
+    },
+    "hex": "#2C2F48",
+    "code": "997/5957",
+    "marketingName": "SPR",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈52; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2012,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2012-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2012-mercedes-benz/2012-Mercedesbenz-pg01.jpg",
+    "bbox": {
+      "x": 296,
+      "y": 341,
+      "w": 211,
+      "h": 210
+    },
+    "hex": "#232223",
+    "code": "040/9040",
+    "marketingName": "Factory color 040/9040",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈93; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2012,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2012-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2012-mercedes-benz/2012-Mercedesbenz-pg01.jpg",
+    "bbox": {
+      "x": 708,
+      "y": 340,
+      "w": 213,
+      "h": 210
+    },
+    "hex": "#6E6972",
+    "code": "044/S044",
+    "marketingName": "SLS",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈78; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2012,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2012-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2012-mercedes-benz/2012-Mercedesbenz-pg01.jpg",
+    "bbox": {
+      "x": 709,
+      "y": 904,
+      "w": 210,
+      "h": 210
+    },
+    "hex": "#FAF6F2",
+    "code": "136/9136",
+    "marketingName": "SPR",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈93; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2012,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2012-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2012-mercedes-benz/2012-Mercedesbenz-pg01.jpg",
+    "bbox": {
+      "x": 1121,
+      "y": 902,
+      "w": 210,
+      "h": 210
+    },
+    "hex": "#FCFCFD",
+    "code": "147/9147",
+    "marketingName": "SPR",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈84; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2012,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2012-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2012-mercedes-benz/2012-Mercedesbenz-pg01.jpg",
+    "bbox": {
+      "x": 1533,
+      "y": 901,
+      "w": 212,
+      "h": 210
+    },
+    "hex": "#2B2A2D",
+    "code": "154/9154",
+    "marketingName": "SPR",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈93; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2012,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2012-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2012-mercedes-benz/2012-Mercedesbenz-pg01.jpg",
+    "bbox": {
+      "x": 1945,
+      "y": 899,
+      "w": 211,
+      "h": 210
+    },
+    "hex": "#887F83",
+    "code": "160/7160",
+    "marketingName": "SPR",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈93; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2012,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2012-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2012-mercedes-benz/2012-Mercedesbenz-pg01.jpg",
+    "bbox": {
+      "x": 1946,
+      "y": 1463,
+      "w": 211,
+      "h": 210
+    },
+    "hex": "#FCB63F",
+    "code": "243/1243",
+    "marketingName": "Calcite Yellow",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈91; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2012,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2012-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2012-mercedes-benz/2012-Mercedesbenz-pg01.jpg",
+    "bbox": {
+      "x": 709,
+      "y": 2032,
+      "w": 212,
+      "h": 210
+    },
+    "hex": "#272836",
+    "code": "345/5345",
+    "marketingName": "Factory color 345/5345",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈69; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2012,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2012-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2012-mercedes-benz/2012-Mercedesbenz-pg01.jpg",
+    "bbox": {
+      "x": 1534,
+      "y": 2028,
+      "w": 211,
+      "h": 210
+    },
+    "hex": "#31517E",
+    "code": "362/5362",
+    "marketingName": "SPR",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈88; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2012,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2012-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2012-mercedes-benz/2012-Mercedesbenz-pg02.jpg",
+    "bbox": {
+      "x": 699,
+      "y": 335,
+      "w": 211,
+      "h": 210
+    },
+    "hex": "#282830",
+    "code": "389/5389",
+    "marketingName": "SPR",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈44; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2012,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2012-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2012-mercedes-benz/2012-Mercedesbenz-pg02.jpg",
+    "bbox": {
+      "x": 1112,
+      "y": 898,
+      "w": 211,
+      "h": 210
+    },
+    "hex": "#29282B",
+    "code": "524/5524",
+    "marketingName": "Schwarzblau",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈92; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2012,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2012-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2012-mercedes-benz/2012-Mercedesbenz-pg02.jpg",
+    "bbox": {
+      "x": 700,
+      "y": 1464,
+      "w": 212,
+      "h": 210
+    },
+    "hex": "#572E30",
+    "code": "548/3548",
+    "marketingName": "SPR",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈93; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2012,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2012-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2012-mercedes-benz/2012-Mercedesbenz-pg02.jpg",
+    "bbox": {
+      "x": 1113,
+      "y": 1462,
+      "w": 210,
+      "h": 210
+    },
+    "hex": "#2E1F21",
+    "code": "583/3583",
+    "marketingName": "SPR",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈93; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2012,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2012-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2012-mercedes-benz/2012-Mercedesbenz-pg02.jpg",
+    "bbox": {
+      "x": 701,
+      "y": 2028,
+      "w": 212,
+      "h": 210
+    },
+    "hex": "#A5A3AB",
+    "code": "744/9744",
+    "marketingName": "SPR",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈78; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2012,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2012-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2012-mercedes-benz/2012-Mercedesbenz-pg03.jpg",
+    "bbox": {
+      "x": 1942,
+      "y": 909,
+      "w": 211,
+      "h": 210
+    },
+    "hex": "#324247",
+    "code": "830/6830",
+    "marketingName": "Aquagruen",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈93; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2012,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2012-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2012-mercedes-benz/2012-Mercedesbenz-pg03.jpg",
+    "bbox": {
+      "x": 1943,
+      "y": 1473,
+      "w": 211,
+      "h": 210
+    },
+    "hex": "#AD4048",
+    "code": "967/3967",
+    "marketingName": "Hibiscus Red",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈93; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2013,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2013-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2013-mercedes-benz/2013-Mercedesbenz-pg04.jpg",
+    "bbox": {
+      "x": 300,
+      "y": 345,
+      "w": 212,
+      "h": 210
+    },
+    "hex": "#353235",
+    "code": "033/033",
+    "marketingName": "Designo Mocha Black Designo",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈93; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2013,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2013-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2013-mercedes-benz/2013-Mercedesbenz-pg04.jpg",
+    "bbox": {
+      "x": 1125,
+      "y": 344,
+      "w": 210,
+      "h": 210
+    },
+    "hex": "#353336",
+    "code": "040/9040",
+    "marketingName": "Mystic Red Pearl Schwarz",
+    "finish": "pearl",
+    "notes": "Tesseract batch: code conf≈84; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2013,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2013-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2013-mercedes-benz/2013-Mercedesbenz-pg04.jpg",
+    "bbox": {
+      "x": 1537,
+      "y": 344,
+      "w": 209,
+      "h": 210
+    },
+    "hex": "#464548",
+    "code": "041/041",
+    "marketingName": "Designo Graphitgruen Pearl",
+    "finish": "pearl",
+    "notes": "Tesseract batch: code conf≈78; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2013,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2013-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2013-mercedes-benz/2013-Mercedesbenz-pg04.jpg",
+    "bbox": {
+      "x": 1949,
+      "y": 343,
+      "w": 213,
+      "h": 210
+    },
+    "hex": "#817F83",
+    "code": "044/S044",
+    "marketingName": "Designo Magno Alanit Grey",
+    "finish": "matte",
+    "notes": "Tesseract batch: code conf≈86; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2013,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2013-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2013-mercedes-benz/2013-Mercedesbenz-pg04.jpg",
+    "bbox": {
+      "x": 300,
+      "y": 909,
+      "w": 213,
+      "h": 210
+    },
+    "hex": "#302E31",
+    "code": "046/S046",
+    "marketingName": "Designo Platin Black",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈65; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2013,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2013-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2013-mercedes-benz/2013-Mercedesbenz-pg04.jpg",
+    "bbox": {
+      "x": 712,
+      "y": 1473,
+      "w": 211,
+      "h": 210
+    },
+    "hex": "#D9D4D0",
+    "code": "136/9136",
+    "marketingName": "Factory color 136/9136",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈93; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2013,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2013-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2013-mercedes-benz/2013-Mercedesbenz-pg04.jpg",
+    "bbox": {
+      "x": 1124,
+      "y": 1473,
+      "w": 211,
+      "h": 210
+    },
+    "hex": "#DAD8DD",
+    "code": "147/9147",
+    "marketingName": "Artikweiss",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈90; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2013,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2013-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2013-mercedes-benz/2013-Mercedesbenz-pg04.jpg",
+    "bbox": {
+      "x": 300,
+      "y": 2037,
+      "w": 211,
+      "h": 210
+    },
+    "hex": "#323033",
+    "code": "154/9154",
+    "marketingName": "Carbonschwarz Pearl",
+    "finish": "pearl",
+    "notes": "Tesseract batch: code conf≈92; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2013,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2013-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2013-mercedes-benz/2013-Mercedesbenz-pg04.jpg",
+    "bbox": {
+      "x": 712,
+      "y": 2037,
+      "w": 211,
+      "h": 210
+    },
+    "hex": "#958F8F",
+    "code": "160/7160",
+    "marketingName": "Steingrau",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈78; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2013,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2013-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2013-mercedes-benz/2013-Mercedesbenz-pg05.jpg",
+    "bbox": {
+      "x": 1928,
+      "y": 342,
+      "w": 211,
+      "h": 210
+    },
+    "hex": "#4B4C61",
+    "code": "345/5345",
+    "marketingName": "Japisblau Pearl",
+    "finish": "pearl",
+    "notes": "Tesseract batch: code conf≈91; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2013,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2013-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2013-mercedes-benz/2013-Mercedesbenz-pg05.jpg",
+    "bbox": {
+      "x": 692,
+      "y": 909,
+      "w": 211,
+      "h": 210
+    },
+    "hex": "#507A99",
+    "code": "362/5362",
+    "marketingName": "Brillantblau Andoritgrau Pearl",
+    "finish": "pearl",
+    "notes": "Tesseract batch: code conf≈93; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2013,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2013-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2013-mercedes-benz/2013-Mercedesbenz-pg05.jpg",
+    "bbox": {
+      "x": 1517,
+      "y": 907,
+      "w": 211,
+      "h": 210
+    },
+    "hex": "#403F4F",
+    "code": "389/5389",
+    "marketingName": "Stahlblau",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈93; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2013,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2013-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2013-mercedes-benz/2013-Mercedesbenz-pg05.jpg",
+    "bbox": {
+      "x": 1930,
+      "y": 1470,
+      "w": 212,
+      "h": 210
+    },
+    "hex": "#3D3B3E",
+    "code": "524/5524",
+    "marketingName": "Schwarzblau",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈91; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2013,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2013-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2013-mercedes-benz/2013-Mercedesbenz-pg05.jpg",
+    "bbox": {
+      "x": 1519,
+      "y": 2035,
+      "w": 211,
+      "h": 210
+    },
+    "hex": "#7D3E42",
+    "code": "548/3548",
+    "marketingName": "Amber Red",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈93; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2013,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2013-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2013-mercedes-benz/2013-Mercedesbenz-pg02.jpg",
+    "bbox": {
+      "x": 1947,
+      "y": 346,
+      "w": 212,
+      "h": 210
+    },
+    "hex": "#999BA4",
+    "code": "708/7708",
+    "marketingName": "Silbergrau",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈83; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2013,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2013-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2013-mercedes-benz/2013-Mercedesbenz-pg02.jpg",
+    "bbox": {
+      "x": 300,
+      "y": 915,
+      "w": 211,
+      "h": 210
+    },
+    "hex": "#9A989D",
+    "code": "744/9744",
+    "marketingName": "Factory color 744/9744",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈86; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2013,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2013-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2013-mercedes-benz/2013-Mercedesbenz-pg02.jpg",
+    "bbox": {
+      "x": 1536,
+      "y": 911,
+      "w": 212,
+      "h": 210
+    },
+    "hex": "#464548",
+    "code": "759/7759",
+    "marketingName": "SLS SPR",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈93; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2013,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2013-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2013-mercedes-benz/2013-Mercedesbenz-pg02.jpg",
+    "bbox": {
+      "x": 1951,
+      "y": 2038,
+      "w": 211,
+      "h": 210
+    },
+    "hex": "#334E54",
+    "code": "830/6830",
+    "marketingName": "Aquagruen",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈92; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2013,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2013-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2013-mercedes-benz/2013-Mercedesbenz-pg02.jpg",
+    "bbox": {
+      "x": 1540,
+      "y": 2603,
+      "w": 210,
+      "h": 210
+    },
+    "hex": "#41465E",
+    "code": "957/5957",
+    "marketingName": "Vanda Blue",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈93; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2015,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2015-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2015-mercedes-benz/2015-Mercedesbenz-pg02.jpg",
+    "bbox": {
+      "x": 294,
+      "y": 904,
+      "w": 213,
+      "h": 210
+    },
+    "hex": "#949196",
+    "code": "044/044",
+    "marketingName": "Designo Magno Alanitgrau",
+    "finish": "matte",
+    "notes": "Tesseract batch: code conf≈89; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2015,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2015-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2015-mercedes-benz/2015-Mercedesbenz-pg02.jpg",
+    "bbox": {
+      "x": 706,
+      "y": 903,
+      "w": 213,
+      "h": 210
+    },
+    "hex": "#383539",
+    "code": "046/S046",
+    "marketingName": "Designo Platinschwarz",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈91; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2015,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2015-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2015-mercedes-benz/2015-Mercedesbenz-pg02.jpg",
+    "bbox": {
+      "x": 1119,
+      "y": 903,
+      "w": 212,
+      "h": 210
+    },
+    "hex": "#DCD6D3",
+    "code": "049/049",
+    "marketingName": "Designo Magno",
+    "finish": "matte",
+    "notes": "Tesseract batch: code conf≈89; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2015,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2015-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2015-mercedes-benz/2015-Mercedesbenz-pg02.jpg",
+    "bbox": {
+      "x": 295,
+      "y": 1468,
+      "w": 212,
+      "h": 210
+    },
+    "hex": "#434144",
+    "code": "056/S056",
+    "marketingName": "Designo Magno Nachtschwarz Designo",
+    "finish": "matte",
+    "notes": "Tesseract batch: code conf≈85; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2015,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2015-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2015-mercedes-benz/2015-Mercedesbenz-pg02.jpg",
+    "bbox": {
+      "x": 1119,
+      "y": 1468,
+      "w": 211,
+      "h": 210
+    },
+    "hex": "#D3D2D6",
+    "code": "134/9134",
+    "marketingName": "Kristallsilber Bergkristallweiss",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈91; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2015,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2015-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2015-mercedes-benz/2015-Mercedesbenz-pg02.jpg",
+    "bbox": {
+      "x": 1531,
+      "y": 1467,
+      "w": 211,
+      "h": 210
+    },
+    "hex": "#D9D8DB",
+    "code": "147/9147",
+    "marketingName": "Artikweiss",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈89; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2015,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2015-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2015-mercedes-benz/2015-Mercedesbenz-pg02.jpg",
+    "bbox": {
+      "x": 1944,
+      "y": 1466,
+      "w": 211,
+      "h": 210
+    },
+    "hex": "#E7E5E1",
+    "code": "149/9149",
+    "marketingName": "Polar White",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈91; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2015,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2015-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2015-mercedes-benz/2015-Mercedesbenz-pg03.jpg",
+    "bbox": {
+      "x": 1933,
+      "y": 2022,
+      "w": 211,
+      "h": 210
+    },
+    "hex": "#515054",
+    "code": "1599/7159",
+    "marketingName": "Graphite Gray",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈56; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2015,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2015-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2015-mercedes-benz/2015-Mercedesbenz-pg02.jpg",
+    "bbox": {
+      "x": 295,
+      "y": 2033,
+      "w": 210,
+      "h": 210
+    },
+    "hex": "#2F6090",
+    "code": "162/5162",
+    "marketingName": "Suedseeblau",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈91; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2015,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2015-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2015-mercedes-benz/2015-Mercedesbenz-pg02.jpg",
+    "bbox": {
+      "x": 707,
+      "y": 2032,
+      "w": 210,
+      "h": 210
+    },
+    "hex": "#3C3A3C",
+    "code": "183/9183",
+    "marketingName": "Magnetite Black",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈92; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2015,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2015-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2015-mercedes-benz/2015-Mercedesbenz-pg02.jpg",
+    "bbox": {
+      "x": 1120,
+      "y": 2032,
+      "w": 206,
+      "h": 210
+    },
+    "hex": "#363437",
+    "code": "191/9191",
+    "marketingName": "Cosmos Black",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈91; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2015,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2015-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2015-mercedes-benz/2015-Mercedesbenz-pg02.jpg",
+    "bbox": {
+      "x": 1532,
+      "y": 2031,
+      "w": 210,
+      "h": 210
+    },
+    "hex": "#39373A",
+    "code": "197/9197",
+    "marketingName": "Obsidianschwarz",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈92; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2015,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2015-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2015-mercedes-benz/2015-Mercedesbenz-pg02.jpg",
+    "bbox": {
+      "x": 1944,
+      "y": 2030,
+      "w": 207,
+      "h": 210
+    },
+    "hex": "#575458",
+    "code": "281/7281",
+    "marketingName": "Shadow Grey",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈78; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2015,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2015-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2015-mercedes-benz/2015-Mercedesbenz-pg02.jpg",
+    "bbox": {
+      "x": 295,
+      "y": 2596,
+      "w": 211,
+      "h": 210
+    },
+    "hex": "#9C9392",
+    "code": "296/9296",
+    "marketingName": "Dune Silver Jade",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈92; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2015,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2015-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2015-mercedes-benz/2015-Mercedesbenz-pg02.jpg",
+    "bbox": {
+      "x": 1119,
+      "y": 2596,
+      "w": 211,
+      "h": 210
+    },
+    "hex": "#3B3C50",
+    "code": "345/5345",
+    "marketingName": "Green Japisblau Capri",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈76; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2015,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2015-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2015-mercedes-benz/2015-Mercedesbenz-pg02.jpg",
+    "bbox": {
+      "x": 1944,
+      "y": 2594,
+      "w": 211,
+      "h": 210
+    },
+    "hex": "#55565D",
+    "code": "368/7368",
+    "marketingName": "Blue Flintgrau",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈93; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2015,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2015-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2015-mercedes-benz/2015-Mercedesbenz-pg03.jpg",
+    "bbox": {
+      "x": 285,
+      "y": 330,
+      "w": 210,
+      "h": 210
+    },
+    "hex": "#2F325C",
+    "code": "373/5373",
+    "marketingName": "Atlantisblau",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈93; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2015,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2015-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2015-mercedes-benz/2015-Mercedesbenz-pg03.jpg",
+    "bbox": {
+      "x": 697,
+      "y": 330,
+      "w": 211,
+      "h": 210
+    },
+    "hex": "#393848",
+    "code": "389/5389",
+    "marketingName": "Stahlblau",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈70; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2015,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2015-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2015-mercedes-benz/2015-Mercedesbenz-pg03.jpg",
+    "bbox": {
+      "x": 284,
+      "y": 895,
+      "w": 211,
+      "h": 210
+    },
+    "hex": "#434345",
+    "code": "580/6580",
+    "marketingName": "Granitgrun",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈89; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2015,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2015-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2015-mercedes-benz/2015-Mercedesbenz-pg03.jpg",
+    "bbox": {
+      "x": 697,
+      "y": 895,
+      "w": 210,
+      "h": 210
+    },
+    "hex": "#4D3436",
+    "code": "583/3583",
+    "marketingName": "Velvet Red Covelline Blue",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈91; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2015,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2015-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2015-mercedes-benz/2015-Mercedesbenz-pg03.jpg",
+    "bbox": {
+      "x": 1521,
+      "y": 894,
+      "w": 211,
+      "h": 210
+    },
+    "hex": "#9A2F3E",
+    "code": "589/3589",
+    "marketingName": "Jupiter Red",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈93; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2015,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2015-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2015-mercedes-benz/2015-Mercedesbenz-pg03.jpg",
+    "bbox": {
+      "x": 1933,
+      "y": 893,
+      "w": 211,
+      "h": 210
+    },
+    "hex": "#9D2E3E",
+    "code": "590/3590",
+    "marketingName": "Mars Red",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈72; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2015,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2015-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2015-mercedes-benz/2015-Mercedesbenz-pg03.jpg",
+    "bbox": {
+      "x": 284,
+      "y": 2588,
+      "w": 207,
+      "h": 210
+    },
+    "hex": "#A9A7AD",
+    "code": "761/9761",
+    "marketingName": "Polar Silver",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈89; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2015,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2015-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2015-mercedes-benz/2015-Mercedesbenz-pg03.jpg",
+    "bbox": {
+      "x": 696,
+      "y": 2588,
+      "w": 211,
+      "h": 210
+    },
+    "hex": "#A09899",
+    "code": "764/9764",
+    "marketingName": "Perl Silver",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈60; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2015,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2015-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2015-mercedes-benz/2015-Mercedesbenz-pg04.jpg",
+    "bbox": {
+      "x": 299,
+      "y": 339,
+      "w": 211,
+      "h": 210
+    },
+    "hex": "#766C6B",
+    "code": "795/7795",
+    "marketingName": "Maganite Grey",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈92; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2015,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2015-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2015-mercedes-benz/2015-Mercedesbenz-pg04.jpg",
+    "bbox": {
+      "x": 711,
+      "y": 339,
+      "w": 211,
+      "h": 210
+    },
+    "hex": "#342C2D",
+    "code": "796/8796",
+    "marketingName": "Dakota Brown",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈92; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2015,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2015-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2015-mercedes-benz/2015-Mercedesbenz-pg04.jpg",
+    "bbox": {
+      "x": 1123,
+      "y": 339,
+      "w": 211,
+      "h": 210
+    },
+    "hex": "#82736E",
+    "code": "798/1798",
+    "marketingName": "Sanidinbeige Designo",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈93; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2015,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2015-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2015-mercedes-benz/2015-Mercedesbenz-pg04.jpg",
+    "bbox": {
+      "x": 1948,
+      "y": 339,
+      "w": 211,
+      "h": 210
+    },
+    "hex": "#28454C",
+    "code": "830/6830",
+    "marketingName": "Mysticweiss 3ct Aquagruen",
+    "finish": "pearl",
+    "notes": "Tesseract batch: code conf≈93; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2015,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2015-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2015-mercedes-benz/2015-Mercedesbenz-pg04.jpg",
+    "bbox": {
+      "x": 299,
+      "y": 903,
+      "w": 210,
+      "h": 210
+    },
+    "hex": "#383539",
+    "code": "890/5890",
+    "marketingName": "Lunar Blue",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈93; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2015,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2015-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2015-mercedes-benz/2015-Mercedesbenz-pg04.jpg",
+    "bbox": {
+      "x": 711,
+      "y": 904,
+      "w": 211,
+      "h": 210
+    },
+    "hex": "#4A5560",
+    "code": "894/5894",
+    "marketingName": "Universe Blue",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈93; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2015,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2015-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2015-mercedes-benz/2015-Mercedesbenz-pg04.jpg",
+    "bbox": {
+      "x": 1124,
+      "y": 903,
+      "w": 210,
+      "h": 210
+    },
+    "hex": "#313249",
+    "code": "896/5896",
+    "marketingName": "Brillantblau",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈69; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2015,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2015-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2015-mercedes-benz/2015-Mercedesbenz-pg04.jpg",
+    "bbox": {
+      "x": 1536,
+      "y": 903,
+      "w": 210,
+      "h": 210
+    },
+    "hex": "#333134",
+    "code": "897/9897",
+    "marketingName": "Ruby Black",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈93; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2015,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2015-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2015-mercedes-benz/2015-Mercedesbenz-pg04.jpg",
+    "bbox": {
+      "x": 1948,
+      "y": 903,
+      "w": 211,
+      "h": 210
+    },
+    "hex": "#4D4646",
+    "code": "963/9963",
+    "marketingName": "Indium Grey",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈93; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2015,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2015-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2015-mercedes-benz/2015-Mercedesbenz-pg04.jpg",
+    "bbox": {
+      "x": 299,
+      "y": 1468,
+      "w": 210,
+      "h": 210
+    },
+    "hex": "#A62235",
+    "code": "967/3967",
+    "marketingName": "Hibiscus Red",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈93; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2015,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2015-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2015-mercedes-benz/2015-Mercedesbenz-pg04.jpg",
+    "bbox": {
+      "x": 711,
+      "y": 1468,
+      "w": 211,
+      "h": 210
+    },
+    "hex": "#AEADB3",
+    "code": "982/9982",
+    "marketingName": "Designo Magno Iriduim",
+    "finish": "matte",
+    "notes": "Tesseract batch: code conf≈92; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2015,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2015-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2015-mercedes-benz/2015-Mercedesbenz-pg04.jpg",
+    "bbox": {
+      "x": 1123,
+      "y": 1468,
+      "w": 211,
+      "h": 210
+    },
+    "hex": "#695F60",
+    "code": "986/7986",
+    "marketingName": "Silver Luzonit Grey",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈93; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2015,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2015-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2015-mercedes-benz/2015-Mercedesbenz-pg04.jpg",
+    "bbox": {
+      "x": 1536,
+      "y": 1467,
+      "w": 210,
+      "h": 210
+    },
+    "hex": "#969DA7",
+    "code": "988/9988",
+    "marketingName": "Diamond Silver",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈93; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2015,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2015-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2015-mercedes-benz/2015-Mercedesbenz-pg04.jpg",
+    "bbox": {
+      "x": 1948,
+      "y": 1467,
+      "w": 211,
+      "h": 210
+    },
+    "hex": "#353235",
+    "code": "989/6989",
+    "marketingName": "Emerald Green",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈93; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2015,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2015-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2015-mercedes-benz/2015-Mercedesbenz-pg04.jpg",
+    "bbox": {
+      "x": 1123,
+      "y": 2032,
+      "w": 211,
+      "h": 210
+    },
+    "hex": "#525359",
+    "code": "992/7992",
+    "marketingName": "Silver Magno Selenitgrau",
+    "finish": "matte",
+    "notes": "Tesseract batch: code conf≈54; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2015,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2015-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2015-mercedes-benz/2015-Mercedesbenz-pg04.jpg",
+    "bbox": {
+      "x": 298,
+      "y": 2596,
+      "w": 211,
+      "h": 210
+    },
+    "hex": "#413F43",
+    "code": "998/5998",
+    "marketingName": "Anthracite Blue",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈93; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2015,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2015-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2015-mercedes-benz/2015-Mercedesbenz-pg04.jpg",
+    "bbox": {
+      "x": 299,
+      "y": 2032,
+      "w": 210,
+      "h": 210
+    },
+    "hex": "#4B4648",
+    "code": "9990/8990",
+    "marketingName": "Orientbraun Polar",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈0; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2016,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2016-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2016-mercedes-benz/2016-Mercedesbenz-pg02.jpg",
+    "bbox": {
+      "x": 1118,
+      "y": 328,
+      "w": 210,
+      "h": 210
+    },
+    "hex": "#383538",
+    "code": "040/9040",
+    "marketingName": "Factory color 040/9040",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈41; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2016,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2016-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2016-mercedes-benz/2016-Mercedesbenz-pg02.jpg",
+    "bbox": {
+      "x": 1531,
+      "y": 891,
+      "w": 211,
+      "h": 210
+    },
+    "hex": "#D9D8DA",
+    "code": "1147/9147",
+    "marketingName": "Artikweiss",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈0; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2016,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2016-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2016-mercedes-benz/2016-Mercedesbenz-pg02.jpg",
+    "bbox": {
+      "x": 1943,
+      "y": 890,
+      "w": 211,
+      "h": 210
+    },
+    "hex": "#E7E4E0",
+    "code": "1149/9149",
+    "marketingName": "Polar White",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈0; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2016,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2016-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2016-mercedes-benz/2016-Mercedesbenz-pg03.jpg",
+    "bbox": {
+      "x": 1941,
+      "y": 1455,
+      "w": 211,
+      "h": 210
+    },
+    "hex": "#938B8C",
+    "code": "1723/9723",
+    "marketingName": "Cubanitsilber",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈66; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2016,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2016-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2016-mercedes-benz/2016-Mercedesbenz-pg03.jpg",
+    "bbox": {
+      "x": 1941,
+      "y": 2019,
+      "w": 212,
+      "h": 210
+    },
+    "hex": "#9E9596",
+    "code": "1764/9764",
+    "marketingName": "Perl Silver",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈0; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2016,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2016-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2016-mercedes-benz/2016-Mercedesbenz-pg03.jpg",
+    "bbox": {
+      "x": 704,
+      "y": 2583,
+      "w": 210,
+      "h": 210
+    },
+    "hex": "#6A686D",
+    "code": "1787/7787",
+    "marketingName": "Mountain Grey",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈49; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2016,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2016-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2016-mercedes-benz/2016-Mercedesbenz-pg03.jpg",
+    "bbox": {
+      "x": 1116,
+      "y": 2583,
+      "w": 210,
+      "h": 210
+    },
+    "hex": "#807E81",
+    "code": "1792/9792",
+    "marketingName": "Palladium Silver",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈61; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2016,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2016-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2016-mercedes-benz/2016-Mercedesbenz-pg02.jpg",
+    "bbox": {
+      "x": 1532,
+      "y": 1456,
+      "w": 210,
+      "h": 210
+    },
+    "hex": "#403D40",
+    "code": "183/9183",
+    "marketingName": "Magnetite Black",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈92; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2016,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2016-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2016-mercedes-benz/2016-Mercedesbenz-pg02.jpg",
+    "bbox": {
+      "x": 1944,
+      "y": 1455,
+      "w": 207,
+      "h": 210
+    },
+    "hex": "#3D3B3E",
+    "code": "191/9191",
+    "marketingName": "Cosmos Black",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈87; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2016,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2016-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2016-mercedes-benz/2016-Mercedesbenz-pg02.jpg",
+    "bbox": {
+      "x": 709,
+      "y": 2022,
+      "w": 206,
+      "h": 210
+    },
+    "hex": "#4C4444",
+    "code": "271/8271",
+    "marketingName": "Cintrinbraun Solarbeam",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈65; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2016,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2016-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2016-mercedes-benz/2016-Mercedesbenz-pg02.jpg",
+    "bbox": {
+      "x": 1533,
+      "y": 2020,
+      "w": 207,
+      "h": 210
+    },
+    "hex": "#585659",
+    "code": "281/7281",
+    "marketingName": "Yellow 3ct Shadow Grey",
+    "finish": "pearl",
+    "notes": "Tesseract batch: code conf≈92; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2016,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2016-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2016-mercedes-benz/2016-Mercedesbenz-pg02.jpg",
+    "bbox": {
+      "x": 1122,
+      "y": 2585,
+      "w": 210,
+      "h": 210
+    },
+    "hex": "#4F5157",
+    "code": "368/7368",
+    "marketingName": "Factory color 368/7368",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈52; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2016,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2016-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2016-mercedes-benz/2016-Mercedesbenz-pg03.jpg",
+    "bbox": {
+      "x": 293,
+      "y": 326,
+      "w": 212,
+      "h": 210
+    },
+    "hex": "#403D40",
+    "code": "474/8474",
+    "marketingName": "Peridot Brown",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈78; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2016,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2016-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2016-mercedes-benz/2016-Mercedesbenz-pg03.jpg",
+    "bbox": {
+      "x": 706,
+      "y": 326,
+      "w": 211,
+      "h": 210
+    },
+    "hex": "#554C4D",
+    "code": "526/8526",
+    "marketingName": "Dolomite Brown Granitgrun",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈62; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2016,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2016-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2016-mercedes-benz/2016-Mercedesbenz-pg03.jpg",
+    "bbox": {
+      "x": 1943,
+      "y": 326,
+      "w": 211,
+      "h": 210
+    },
+    "hex": "#48464B",
+    "code": "585/5585",
+    "marketingName": "Velvet Red Covelline Blue",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈55; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2016,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2016-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2016-mercedes-benz/2016-Mercedesbenz-pg03.jpg",
+    "bbox": {
+      "x": 706,
+      "y": 891,
+      "w": 210,
+      "h": 210
+    },
+    "hex": "#9D2C3C",
+    "code": "590/3590",
+    "marketingName": "Mars Red Northern Lights Violet",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈71; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2016,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2016-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2016-mercedes-benz/2016-Mercedesbenz-pg03.jpg",
+    "bbox": {
+      "x": 1530,
+      "y": 891,
+      "w": 211,
+      "h": 210
+    },
+    "hex": "#42434F",
+    "code": "610/5610",
+    "marketingName": "Navy Blue",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈76; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2016,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2016-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2016-mercedes-benz/2016-Mercedesbenz-pg03.jpg",
+    "bbox": {
+      "x": 1117,
+      "y": 1455,
+      "w": 207,
+      "h": 210
+    },
+    "hex": "#7C7A7E",
+    "code": "701/7701",
+    "marketingName": "Antimon Gray",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈47; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2016,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2016-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2016-mercedes-benz/2016-Mercedesbenz-pg03.jpg",
+    "bbox": {
+      "x": 1529,
+      "y": 1455,
+      "w": 212,
+      "h": 210
+    },
+    "hex": "#717B83",
+    "code": "709/7709",
+    "marketingName": "Blue Grey",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈58; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2016,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2016-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2016-mercedes-benz/2016-Mercedesbenz-pg03.jpg",
+    "bbox": {
+      "x": 1117,
+      "y": 2019,
+      "w": 210,
+      "h": 210
+    },
+    "hex": "#4F4E52",
+    "code": "759/7759",
+    "marketingName": "Graphite Gray",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈58; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2016,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2016-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2016-mercedes-benz/2016-Mercedesbenz-pg03.jpg",
+    "bbox": {
+      "x": 1529,
+      "y": 2019,
+      "w": 207,
+      "h": 210
+    },
+    "hex": "#B0AEB3",
+    "code": "761/9761",
+    "marketingName": "Polar Silver",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈63; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2016,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2016-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2016-mercedes-benz/2016-Mercedesbenz-pg04.jpg",
+    "bbox": {
+      "x": 296,
+      "y": 321,
+      "w": 211,
+      "h": 210
+    },
+    "hex": "#887A75",
+    "code": "798/1798",
+    "marketingName": "Sanidin Beige Designo",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈93; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2016,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2016-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2016-mercedes-benz/2016-Mercedesbenz-pg04.jpg",
+    "bbox": {
+      "x": 1121,
+      "y": 320,
+      "w": 210,
+      "h": 210
+    },
+    "hex": "#3B545B",
+    "code": "830/6830",
+    "marketingName": "Mysticweiss 3ct Aquagruen",
+    "finish": "pearl",
+    "notes": "Tesseract batch: code conf≈93; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2016,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2016-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2016-mercedes-benz/2016-Mercedesbenz-pg04.jpg",
+    "bbox": {
+      "x": 1533,
+      "y": 319,
+      "w": 211,
+      "h": 210
+    },
+    "hex": "#434045",
+    "code": "890/5890",
+    "marketingName": "Lunar Blue",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈93; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2016,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2016-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2016-mercedes-benz/2016-Mercedesbenz-pg04.jpg",
+    "bbox": {
+      "x": 1945,
+      "y": 318,
+      "w": 212,
+      "h": 210
+    },
+    "hex": "#4C5760",
+    "code": "894/5894",
+    "marketingName": "Universe Blue",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈45; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2016,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2016-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2016-mercedes-benz/2016-Mercedesbenz-pg04.jpg",
+    "bbox": {
+      "x": 297,
+      "y": 885,
+      "w": 210,
+      "h": 210
+    },
+    "hex": "#414155",
+    "code": "896/5896",
+    "marketingName": "Brilliantblau",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈82; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2016,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2016-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2016-mercedes-benz/2016-Mercedesbenz-pg04.jpg",
+    "bbox": {
+      "x": 709,
+      "y": 885,
+      "w": 210,
+      "h": 210
+    },
+    "hex": "#3F3C40",
+    "code": "897/9897",
+    "marketingName": "Ruby Black",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈93; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2016,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2016-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2016-mercedes-benz/2016-Mercedesbenz-pg04.jpg",
+    "bbox": {
+      "x": 1121,
+      "y": 884,
+      "w": 210,
+      "h": 210
+    },
+    "hex": "#605859",
+    "code": "963/9963",
+    "marketingName": "Indium Grey",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈93; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2016,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2016-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2016-mercedes-benz/2016-Mercedesbenz-pg04.jpg",
+    "bbox": {
+      "x": 1534,
+      "y": 883,
+      "w": 210,
+      "h": 210
+    },
+    "hex": "#AA2B3D",
+    "code": "967/3967",
+    "marketingName": "Hibiscus Red",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈93; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2016,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2016-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2016-mercedes-benz/2016-Mercedesbenz-pg04.jpg",
+    "bbox": {
+      "x": 1946,
+      "y": 883,
+      "w": 210,
+      "h": 210
+    },
+    "hex": "#B0AEB4",
+    "code": "982/9982",
+    "marketingName": "Designo Magno Iriduim",
+    "finish": "matte",
+    "notes": "Tesseract batch: code conf≈93; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2016,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2016-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2016-mercedes-benz/2016-Mercedesbenz-pg04.jpg",
+    "bbox": {
+      "x": 298,
+      "y": 1450,
+      "w": 210,
+      "h": 210
+    },
+    "hex": "#969BA6",
+    "code": "988/9988",
+    "marketingName": "Diamond Silver",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈93; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2016,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2016-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2016-mercedes-benz/2016-Mercedesbenz-pg04.jpg",
+    "bbox": {
+      "x": 710,
+      "y": 1449,
+      "w": 210,
+      "h": 210
+    },
+    "hex": "#403D40",
+    "code": "989/6989",
+    "marketingName": "Emerald Green",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈93; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2016,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2016-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2016-mercedes-benz/2016-Mercedesbenz-pg04.jpg",
+    "bbox": {
+      "x": 1122,
+      "y": 1449,
+      "w": 210,
+      "h": 210
+    },
+    "hex": "#454042",
+    "code": "990/8990",
+    "marketingName": "Orient Brown",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈93; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2016,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2016-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2016-mercedes-benz/2016-Mercedesbenz-pg04.jpg",
+    "bbox": {
+      "x": 1534,
+      "y": 1448,
+      "w": 207,
+      "h": 210
+    },
+    "hex": "#B2AEB2",
+    "code": "991/9991",
+    "marketingName": "Polar Silver Magno",
+    "finish": "matte",
+    "notes": "Tesseract batch: code conf≈92; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2016,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2016-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2016-mercedes-benz/2016-Mercedesbenz-pg04.jpg",
+    "bbox": {
+      "x": 1947,
+      "y": 1447,
+      "w": 210,
+      "h": 210
+    },
+    "hex": "#595A60",
+    "code": "992/7992",
+    "marketingName": "Selenitgrau",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈93; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2016,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2016-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2016-mercedes-benz/2016-Mercedesbenz-pg04.jpg",
+    "bbox": {
+      "x": 298,
+      "y": 2014,
+      "w": 211,
+      "h": 210
+    },
+    "hex": "#7B383C",
+    "code": "996/3996",
+    "marketingName": "Cardinal Red",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈93; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2016,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2016-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2016-mercedes-benz/2016-Mercedesbenz-pg04.jpg",
+    "bbox": {
+      "x": 710,
+      "y": 2014,
+      "w": 210,
+      "h": 210
+    },
+    "hex": "#3B393C",
+    "code": "997/5997",
+    "marketingName": "Kallaitblau",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈49; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2016,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2016-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2016-mercedes-benz/2016-Mercedesbenz-pg04.jpg",
+    "bbox": {
+      "x": 1123,
+      "y": 2013,
+      "w": 210,
+      "h": 210
+    },
+    "hex": "#444246",
+    "code": "998/5998",
+    "marketingName": "Anthracite Blue",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈72; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2017,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2017-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2017-mercedes-benz/2017-Mercedesbenz-pg02.jpg",
+    "bbox": {
+      "x": 1125,
+      "y": 329,
+      "w": 210,
+      "h": 210
+    },
+    "hex": "#2F2C2F",
+    "code": "040/9040",
+    "marketingName": "Factory color 040/9040",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈93; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2017,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2017-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2017-mercedes-benz/2017-Mercedesbenz-pg02.jpg",
+    "bbox": {
+      "x": 1537,
+      "y": 328,
+      "w": 209,
+      "h": 210
+    },
+    "hex": "#464346",
+    "code": "041/041",
+    "marketingName": "SL,SLK",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈85; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2017,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2017-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2017-mercedes-benz/2017-Mercedesbenz-pg02.jpg",
+    "bbox": {
+      "x": 1126,
+      "y": 892,
+      "w": 210,
+      "h": 210
+    },
+    "hex": "#D3D3D7",
+    "code": "134/9134",
+    "marketingName": "Bergkristallweiss",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈93; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2017,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2017-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2017-mercedes-benz/2017-Mercedesbenz-pg02.jpg",
+    "bbox": {
+      "x": 1538,
+      "y": 891,
+      "w": 209,
+      "h": 210
+    },
+    "hex": "#DBDBDF",
+    "code": "147/9147",
+    "marketingName": "Artikweiss",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈89; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2017,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2017-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2017-mercedes-benz/2017-Mercedesbenz-pg02.jpg",
+    "bbox": {
+      "x": 303,
+      "y": 1457,
+      "w": 210,
+      "h": 210
+    },
+    "hex": "#E8E7E4",
+    "code": "149/9149",
+    "marketingName": "Polar White",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈89; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2017,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2017-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2017-mercedes-benz/2017-Mercedesbenz-pg02.jpg",
+    "bbox": {
+      "x": 714,
+      "y": 1457,
+      "w": 210,
+      "h": 210
+    },
+    "hex": "#2A5B85",
+    "code": "162/5162",
+    "marketingName": "South Seas Blue",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈88; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2017,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2017-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2017-mercedes-benz/2017-Mercedesbenz-pg02.jpg",
+    "bbox": {
+      "x": 1127,
+      "y": 1456,
+      "w": 210,
+      "h": 210
+    },
+    "hex": "#56B54A",
+    "code": "166/6166",
+    "marketingName": "Aliengreen",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈93; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2017,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2017-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2017-mercedes-benz/2017-Mercedesbenz-pg02.jpg",
+    "bbox": {
+      "x": 1538,
+      "y": 1455,
+      "w": 211,
+      "h": 210
+    },
+    "hex": "#3D563D",
+    "code": "175/6175",
+    "marketingName": "Kryptonite Green",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈92; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2017,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2017-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2017-mercedes-benz/2017-Mercedesbenz-pg02.jpg",
+    "bbox": {
+      "x": 1950,
+      "y": 1454,
+      "w": 211,
+      "h": 210
+    },
+    "hex": "#302E31",
+    "code": "183/9183",
+    "marketingName": "Magnetite Black",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈93; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2017,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2017-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2017-mercedes-benz/2017-Mercedesbenz-pg02.jpg",
+    "bbox": {
+      "x": 303,
+      "y": 2021,
+      "w": 207,
+      "h": 210
+    },
+    "hex": "#373538",
+    "code": "191/9191",
+    "marketingName": "B,CLA,GLA",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈84; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2017,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2017-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2017-mercedes-benz/2017-Mercedesbenz-pg02.jpg",
+    "bbox": {
+      "x": 715,
+      "y": 2021,
+      "w": 210,
+      "h": 210
+    },
+    "hex": "#312E31",
+    "code": "197/9197",
+    "marketingName": "Factory color 197/9197",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈92; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2017,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2017-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2017-mercedes-benz/2017-Mercedesbenz-pg02.jpg",
+    "bbox": {
+      "x": 1127,
+      "y": 2020,
+      "w": 211,
+      "h": 210
+    },
+    "hex": "#C7891F",
+    "code": "278/1278",
+    "marketingName": "G,GTS",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈85; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2017,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2017-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2017-mercedes-benz/2017-Mercedesbenz-pg02.jpg",
+    "bbox": {
+      "x": 1539,
+      "y": 2018,
+      "w": 210,
+      "h": 210
+    },
+    "hex": "#A29693",
+    "code": "296/9296",
+    "marketingName": "ES",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈93; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2017,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2017-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2017-mercedes-benz/2017-Mercedesbenz-pg02.jpg",
+    "bbox": {
+      "x": 1951,
+      "y": 2017,
+      "w": 211,
+      "h": 210
+    },
+    "hex": "#4C4D52",
+    "code": "297/7297",
+    "marketingName": "Selenitgrau Magno",
+    "finish": "matte",
+    "notes": "Tesseract batch: code conf≈90; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2017,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2017-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2017-mercedes-benz/2017-Mercedesbenz-pg02.jpg",
+    "bbox": {
+      "x": 304,
+      "y": 2584,
+      "w": 210,
+      "h": 210
+    },
+    "hex": "#2B2C41",
+    "code": "345/5345",
+    "marketingName": "Japisblau",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈78; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2017,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2017-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2017-mercedes-benz/2017-Mercedesbenz-pg02.jpg",
+    "bbox": {
+      "x": 716,
+      "y": 2583,
+      "w": 210,
+      "h": 210
+    },
+    "hex": "#4B4D55",
+    "code": "368/7368",
+    "marketingName": "Flintgrau",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈93; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2017,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2017-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2017-mercedes-benz/2017-Mercedesbenz-pg02.jpg",
+    "bbox": {
+      "x": 1128,
+      "y": 2583,
+      "w": 210,
+      "h": 210
+    },
+    "hex": "#2F335D",
+    "code": "373/5373",
+    "marketingName": "Atlantisblau",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈91; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2017,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2017-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2017-mercedes-benz/2017-Mercedesbenz-pg02.jpg",
+    "bbox": {
+      "x": 1540,
+      "y": 2581,
+      "w": 210,
+      "h": 210
+    },
+    "hex": "#2D2E41",
+    "code": "389/5389",
+    "marketingName": "Stahlblau",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈93; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2017,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2017-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2017-mercedes-benz/2017-Mercedesbenz-pg02.jpg",
+    "bbox": {
+      "x": 1952,
+      "y": 2580,
+      "w": 211,
+      "h": 210
+    },
+    "hex": "#3D3637",
+    "code": "526/8526",
+    "marketingName": "Dolomite Brown",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈93; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2017,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2017-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2017-mercedes-benz/2017-Mercedesbenz-pg04.jpg",
+    "bbox": {
+      "x": 723,
+      "y": 334,
+      "w": 210,
+      "h": 210
+    },
+    "hex": "#334B51",
+    "code": "830/6830",
+    "marketingName": "Aquagruen Graphitgrau",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈93; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2017,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2017-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2017-mercedes-benz/2017-Mercedesbenz-pg04.jpg",
+    "bbox": {
+      "x": 1960,
+      "y": 333,
+      "w": 210,
+      "h": 210
+    },
+    "hex": "#333134",
+    "code": "890/5890",
+    "marketingName": "Mojavesilber Lunar Blue",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈91; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2017,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2017-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2017-mercedes-benz/2017-Mercedesbenz-pg04.jpg",
+    "bbox": {
+      "x": 310,
+      "y": 898,
+      "w": 211,
+      "h": 210
+    },
+    "hex": "#353447",
+    "code": "896/5896",
+    "marketingName": "Brilliantblau",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈93; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2017,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2017-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2017-mercedes-benz/2017-Mercedesbenz-pg04.jpg",
+    "bbox": {
+      "x": 723,
+      "y": 898,
+      "w": 210,
+      "h": 210
+    },
+    "hex": "#373538",
+    "code": "897/9897",
+    "marketingName": "Ruby Black",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈93; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2017,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2017-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2017-mercedes-benz/2017-Mercedesbenz-pg04.jpg",
+    "bbox": {
+      "x": 1135,
+      "y": 898,
+      "w": 210,
+      "h": 210
+    },
+    "hex": "#4B4544",
+    "code": "963/9963",
+    "marketingName": "Indium Grey",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈93; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2017,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2017-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2017-mercedes-benz/2017-Mercedesbenz-pg04.jpg",
+    "bbox": {
+      "x": 1547,
+      "y": 897,
+      "w": 210,
+      "h": 210
+    },
+    "hex": "#A01227",
+    "code": "967/3967",
+    "marketingName": "Hibiscus Red",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈93; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2017,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2017-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2017-mercedes-benz/2017-Mercedesbenz-pg04.jpg",
+    "bbox": {
+      "x": 1959,
+      "y": 897,
+      "w": 211,
+      "h": 210
+    },
+    "hex": "#A5A6AB",
+    "code": "982/9982",
+    "marketingName": "Designo Magno Iriduim",
+    "finish": "matte",
+    "notes": "Tesseract batch: code conf≈93; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2017,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2017-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2017-mercedes-benz/2017-Mercedesbenz-pg04.jpg",
+    "bbox": {
+      "x": 310,
+      "y": 1462,
+      "w": 210,
+      "h": 210
+    },
+    "hex": "#898F99",
+    "code": "988/9988",
+    "marketingName": "Diamond Silver",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈93; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2017,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2017-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2017-mercedes-benz/2017-Mercedesbenz-pg04.jpg",
+    "bbox": {
+      "x": 722,
+      "y": 1462,
+      "w": 211,
+      "h": 210
+    },
+    "hex": "#3B393B",
+    "code": "989/6989",
+    "marketingName": "Emerald Green",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈91; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2017,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2017-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2017-mercedes-benz/2017-Mercedesbenz-pg04.jpg",
+    "bbox": {
+      "x": 1135,
+      "y": 1462,
+      "w": 210,
+      "h": 210
+    },
+    "hex": "#393637",
+    "code": "990/8990",
+    "marketingName": "Orient Brown",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈93; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2017,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2017-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2017-mercedes-benz/2017-Mercedesbenz-pg04.jpg",
+    "bbox": {
+      "x": 1547,
+      "y": 1461,
+      "w": 207,
+      "h": 210
+    },
+    "hex": "#A9A8AD",
+    "code": "991/9991",
+    "marketingName": "Polar Silver Magno",
+    "finish": "matte",
+    "notes": "Tesseract batch: code conf≈76; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2017,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2017-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2017-mercedes-benz/2017-Mercedesbenz-pg04.jpg",
+    "bbox": {
+      "x": 1960,
+      "y": 1461,
+      "w": 210,
+      "h": 210
+    },
+    "hex": "#4D4D53",
+    "code": "992/7992",
+    "marketingName": "Selenitgrau",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈93; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2017,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2017-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2017-mercedes-benz/2017-Mercedesbenz-pg04.jpg",
+    "bbox": {
+      "x": 310,
+      "y": 2026,
+      "w": 210,
+      "h": 210
+    },
+    "hex": "#73393B",
+    "code": "993/3993",
+    "marketingName": "Patagonia Red",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈93; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2017,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2017-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2017-mercedes-benz/2017-Mercedesbenz-pg04.jpg",
+    "bbox": {
+      "x": 722,
+      "y": 2026,
+      "w": 210,
+      "h": 210
+    },
+    "hex": "#803035",
+    "code": "996/3996",
+    "marketingName": "Cardinal Red",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈93; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2017,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2017-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2017-mercedes-benz/2017-Mercedesbenz-pg04.jpg",
+    "bbox": {
+      "x": 1135,
+      "y": 2026,
+      "w": 210,
+      "h": 210
+    },
+    "hex": "#312F32",
+    "code": "997/5997",
+    "marketingName": "Kallaitblau",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈65; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2017,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2017-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2017-mercedes-benz/2017-Mercedesbenz-pg04.jpg",
+    "bbox": {
+      "x": 1547,
+      "y": 2025,
+      "w": 210,
+      "h": 210
+    },
+    "hex": "#363336",
+    "code": "998/5998",
+    "marketingName": "Anthracite Blue",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈61; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2018,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2018-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2018-mercedes-benz/2018-Mercedesbenz-pg01.jpg",
+    "bbox": {
+      "x": 796,
+      "y": 320,
+      "w": 222,
+      "h": 210
+    },
+    "hex": "#343033",
+    "code": "033/033",
+    "marketingName": "Designo Mokka Black",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈93; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2018,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2018-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2018-mercedes-benz/2018-Mercedesbenz-pg01.jpg",
+    "bbox": {
+      "x": 1235,
+      "y": 319,
+      "w": 220,
+      "h": 210
+    },
+    "hex": "#292A2C",
+    "code": "040/9040",
+    "marketingName": "Black",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈91; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2018,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2018-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2018-mercedes-benz/2018-Mercedesbenz-pg01.jpg",
+    "bbox": {
+      "x": 1674,
+      "y": 320,
+      "w": 218,
+      "h": 210
+    },
+    "hex": "#626D75",
+    "code": "041/S041",
+    "marketingName": "Designo Graphite",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈52; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2018,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2018-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2018-mercedes-benz/2018-Mercedesbenz-pg01.jpg",
+    "bbox": {
+      "x": 2113,
+      "y": 320,
+      "w": 222,
+      "h": 210
+    },
+    "hex": "#BBC4C9",
+    "code": "044/S044",
+    "marketingName": "Designo Alanitgrau",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈73; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2018,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2018-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2018-mercedes-benz/2018-Mercedesbenz-pg01.jpg",
+    "bbox": {
+      "x": 355,
+      "y": 829,
+      "w": 223,
+      "h": 210
+    },
+    "hex": "#EDEDE4",
+    "code": "049/S049",
+    "marketingName": "Kaschmirweiss 3ct",
+    "finish": "pearl",
+    "notes": "Tesseract batch: code conf≈79; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2018,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2018-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2018-mercedes-benz/2018-Mercedesbenz-pg01.jpg",
+    "bbox": {
+      "x": 795,
+      "y": 829,
+      "w": 221,
+      "h": 210
+    },
+    "hex": "#E6E8E7",
+    "code": "134/9134",
+    "marketingName": "Factory color 134/9134",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈91; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2018,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2018-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2018-mercedes-benz/2018-Mercedesbenz-pg01.jpg",
+    "bbox": {
+      "x": 1235,
+      "y": 828,
+      "w": 220,
+      "h": 210
+    },
+    "hex": "#E8EAE9",
+    "code": "147/9147",
+    "marketingName": "Factory color 147/9147",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈87; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2018,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2018-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2018-mercedes-benz/2018-Mercedesbenz-pg01.jpg",
+    "bbox": {
+      "x": 2114,
+      "y": 829,
+      "w": 220,
+      "h": 210
+    },
+    "hex": "#6BE213",
+    "code": "166/6166",
+    "marketingName": "Factory color 166/6166",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈91; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2018,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2018-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2018-mercedes-benz/2018-Mercedesbenz-pg01.jpg",
+    "bbox": {
+      "x": 354,
+      "y": 1339,
+      "w": 221,
+      "h": 210
+    },
+    "hex": "#71934D",
+    "code": "175/6175",
+    "marketingName": "Kryptonite Green",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈89; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2018,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2018-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2018-mercedes-benz/2018-Mercedesbenz-pg01.jpg",
+    "bbox": {
+      "x": 794,
+      "y": 1339,
+      "w": 220,
+      "h": 210
+    },
+    "hex": "#46484B",
+    "code": "183/9183",
+    "marketingName": "Magnetite Black",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈93; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2018,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2018-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2018-mercedes-benz/2018-Mercedesbenz-pg01.jpg",
+    "bbox": {
+      "x": 1234,
+      "y": 1339,
+      "w": 217,
+      "h": 210
+    },
+    "hex": "#252424",
+    "code": "191/9191",
+    "marketingName": "Cosmos Black",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈88; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2018,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2018-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2018-mercedes-benz/2018-Mercedesbenz-pg01.jpg",
+    "bbox": {
+      "x": 353,
+      "y": 1850,
+      "w": 221,
+      "h": 210
+    },
+    "hex": "#E8BC1A",
+    "code": "278/1278",
+    "marketingName": "Solarbeam Yellow 3ct",
+    "finish": "pearl",
+    "notes": "Tesseract batch: code conf≈93; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2018,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2018-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2018-mercedes-benz/2018-Mercedesbenz-pg01.jpg",
+    "bbox": {
+      "x": 794,
+      "y": 1850,
+      "w": 216,
+      "h": 210
+    },
+    "hex": "#93949A",
+    "code": "281/7281",
+    "marketingName": "Shadow Grey",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈89; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2018,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2018-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2018-mercedes-benz/2018-Mercedesbenz-pg01.jpg",
+    "bbox": {
+      "x": 1234,
+      "y": 1850,
+      "w": 221,
+      "h": 210
+    },
+    "hex": "#E5DECA",
+    "code": "296/9296",
+    "marketingName": "Dune Silver",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈93; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2018,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2018-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2018-mercedes-benz/2018-Mercedesbenz-pg01.jpg",
+    "bbox": {
+      "x": 1675,
+      "y": 1849,
+      "w": 220,
+      "h": 210
+    },
+    "hex": "#6C7A89",
+    "code": "297/7297",
+    "marketingName": "Selenitgrau Mango",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈85; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2018,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2018-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2018-mercedes-benz/2018-Mercedesbenz-pg01.jpg",
+    "bbox": {
+      "x": 2114,
+      "y": 1849,
+      "w": 221,
+      "h": 210
+    },
+    "hex": "#1A5194",
+    "code": "345/5345",
+    "marketingName": "Japisblau",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈92; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2018,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2018-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2018-mercedes-benz/2018-Mercedesbenz-pg01.jpg",
+    "bbox": {
+      "x": 353,
+      "y": 2362,
+      "w": 221,
+      "h": 210
+    },
+    "hex": "#778398",
+    "code": "368/7368",
+    "marketingName": "Flintgrau",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈93; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2018,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2018-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2018-mercedes-benz/2018-Mercedesbenz-pg01.jpg",
+    "bbox": {
+      "x": 794,
+      "y": 2361,
+      "w": 220,
+      "h": 210
+    },
+    "hex": "#1D3573",
+    "code": "373/5373",
+    "marketingName": "Atlantisblau",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈48; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2018,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2018-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2018-mercedes-benz/2018-Mercedesbenz-pg01.jpg",
+    "bbox": {
+      "x": 1234,
+      "y": 2362,
+      "w": 221,
+      "h": 210
+    },
+    "hex": "#2A3851",
+    "code": "389/5389",
+    "marketingName": "Stahlblau",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈93; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2018,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2018-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2018-mercedes-benz/2018-Mercedesbenz-pg01.jpg",
+    "bbox": {
+      "x": 1675,
+      "y": 2361,
+      "w": 221,
+      "h": 210
+    },
+    "hex": "#615B57",
+    "code": "526/8526",
+    "marketingName": "Dolomite Brown",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈93; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2018,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2018-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2018-mercedes-benz/2018-Mercedesbenz-pg01.jpg",
+    "bbox": {
+      "x": 354,
+      "y": 2873,
+      "w": 221,
+      "h": 210
+    },
+    "hex": "#503237",
+    "code": "583/3583",
+    "marketingName": "Velvet Red",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈93; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2018,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2018-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2018-mercedes-benz/2018-Mercedesbenz-pg01.jpg",
+    "bbox": {
+      "x": 2117,
+      "y": 2872,
+      "w": 219,
+      "h": 210
+    },
+    "hex": "#E6EAE1",
+    "code": "650/9650",
+    "marketingName": "Blue Cirrus White",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈92; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2018,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2018-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2018-mercedes-benz/2018-Mercedesbenz-pg02.jpg",
+    "bbox": {
+      "x": 298,
+      "y": 322,
+      "w": 219,
+      "h": 210
+    },
+    "hex": "#4D363A",
+    "code": "660/3660",
+    "marketingName": "Rubellitrot",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈92; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2018,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2018-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2018-mercedes-benz/2018-Mercedesbenz-pg02.jpg",
+    "bbox": {
+      "x": 737,
+      "y": 322,
+      "w": 219,
+      "h": 210
+    },
+    "hex": "#ABA7B1",
+    "code": "662/7662",
+    "marketingName": "Mountaingrau Magno",
+    "finish": "matte",
+    "notes": "Tesseract batch: code conf≈93; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2018,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2018-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2018-mercedes-benz/2018-Mercedesbenz-pg02.jpg",
+    "bbox": {
+      "x": 1176,
+      "y": 321,
+      "w": 220,
+      "h": 210
+    },
+    "hex": "#353538",
+    "code": "696/9696",
+    "marketingName": "Night Black Crystal",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈93; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2018,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2018-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2018-mercedes-benz/2018-Mercedesbenz-pg02.jpg",
+    "bbox": {
+      "x": 1615,
+      "y": 319,
+      "w": 217,
+      "h": 210
+    },
+    "hex": "#B7BCBE",
+    "code": "701/7701",
+    "marketingName": "Antimon Grey",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈64; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2018,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2018-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2018-mercedes-benz/2018-Mercedesbenz-pg02.jpg",
+    "bbox": {
+      "x": 2054,
+      "y": 320,
+      "w": 220,
+      "h": 210
+    },
+    "hex": "#66829A",
+    "code": "709/7709",
+    "marketingName": "Blue Gray",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈91; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2018,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2018-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2018-mercedes-benz/2018-Mercedesbenz-pg02.jpg",
+    "bbox": {
+      "x": 1615,
+      "y": 829,
+      "w": 221,
+      "h": 210
+    },
+    "hex": "#686E78",
+    "code": "7159/7759",
+    "marketingName": "Graphite Gray",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈77; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2018,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2018-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2018-mercedes-benz/2018-Mercedesbenz-pg02.jpg",
+    "bbox": {
+      "x": 296,
+      "y": 831,
+      "w": 220,
+      "h": 210
+    },
+    "hex": "#E5D9D0",
+    "code": "723/9723",
+    "marketingName": "Cubanitsilber",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈92; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2018,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2018-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2018-mercedes-benz/2018-Mercedesbenz-pg02.jpg",
+    "bbox": {
+      "x": 735,
+      "y": 831,
+      "w": 221,
+      "h": 210
+    },
+    "hex": "#F3EEE9",
+    "code": "744/9744",
+    "marketingName": "Brillantsilber",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈80; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2018,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2018-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2018-mercedes-benz/2018-Mercedesbenz-pg02.jpg",
+    "bbox": {
+      "x": 1175,
+      "y": 831,
+      "w": 220,
+      "h": 210
+    },
+    "hex": "#586070",
+    "code": "755/7759",
+    "marketingName": "Steel Grey",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈72; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2018,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2018-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2018-mercedes-benz/2018-Mercedesbenz-pg02.jpg",
+    "bbox": {
+      "x": 2055,
+      "y": 829,
+      "w": 215,
+      "h": 210
+    },
+    "hex": "#E9EDED",
+    "code": "761/9761",
+    "marketingName": "Polar Silver",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈91; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2018,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2018-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2018-mercedes-benz/2018-Mercedesbenz-pg02.jpg",
+    "bbox": {
+      "x": 294,
+      "y": 1341,
+      "w": 222,
+      "h": 210
+    },
+    "hex": "#F3F1E7",
+    "code": "764/9764",
+    "marketingName": "Perl Silver",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈91; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2018,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2018-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2018-mercedes-benz/2018-Mercedesbenz-pg02.jpg",
+    "bbox": {
+      "x": 735,
+      "y": 1341,
+      "w": 220,
+      "h": 210
+    },
+    "hex": "#F1EEE9",
+    "code": "7715/9775",
+    "marketingName": "Iridium Silver",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈54; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2018,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2018-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2018-mercedes-benz/2018-Mercedesbenz-pg02.jpg",
+    "bbox": {
+      "x": 1174,
+      "y": 1341,
+      "w": 221,
+      "h": 210
+    },
+    "hex": "#909199",
+    "code": "787/7787",
+    "marketingName": "Mountain Grey",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈89; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2018,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2018-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2018-mercedes-benz/2018-Mercedesbenz-pg02.jpg",
+    "bbox": {
+      "x": 1615,
+      "y": 1340,
+      "w": 221,
+      "h": 210
+    },
+    "hex": "#B4BEC1",
+    "code": "792/9792",
+    "marketingName": "Palladium Silver",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈80; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2018,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2018-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2018-mercedes-benz/2018-Mercedesbenz-pg02.jpg",
+    "bbox": {
+      "x": 2055,
+      "y": 1340,
+      "w": 220,
+      "h": 210
+    },
+    "hex": "#595450",
+    "code": "796/8796",
+    "marketingName": "Dakota Brown",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈93; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2018,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2018-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2018-mercedes-benz/2018-Mercedesbenz-pg02.jpg",
+    "bbox": {
+      "x": 295,
+      "y": 1851,
+      "w": 220,
+      "h": 210
+    },
+    "hex": "#D9C6AF",
+    "code": "798/1798",
+    "marketingName": "Factory color 798/1798",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈89; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2018,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2018-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2018-mercedes-benz/2018-Mercedesbenz-pg02.jpg",
+    "bbox": {
+      "x": 733,
+      "y": 1852,
+      "w": 202,
+      "h": 210
+    },
+    "hex": "#F3F2ED",
+    "code": "799/048",
+    "marketingName": "Designo Mysticweiss 3ct",
+    "finish": "pearl",
+    "notes": "Tesseract batch: code conf≈93; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2018,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2018-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2018-mercedes-benz/2018-Mercedesbenz-pg02.jpg",
+    "bbox": {
+      "x": 1175,
+      "y": 1852,
+      "w": 220,
+      "h": 210
+    },
+    "hex": "#12424C",
+    "code": "830/6830",
+    "marketingName": "MET,SPR,V",
+    "finish": "metallic",
+    "notes": "Tesseract batch: code conf≈92; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2018,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2018-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2018-mercedes-benz/2018-Mercedesbenz-pg02.jpg",
+    "bbox": {
+      "x": 1616,
+      "y": 1852,
+      "w": 217,
+      "h": 210
+    },
+    "hex": "#42464B",
+    "code": "831/7831",
+    "marketingName": "GES",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈91; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2018,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2018-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2018-mercedes-benz/2018-Mercedesbenz-pg02.jpg",
+    "bbox": {
+      "x": 2056,
+      "y": 1851,
+      "w": 219,
+      "h": 210
+    },
+    "hex": "#3A4455",
+    "code": "890/5890",
+    "marketingName": "Factory color 890/5890",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈93; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2018,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2018-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2018-mercedes-benz/2018-Mercedesbenz-pg02.jpg",
+    "bbox": {
+      "x": 294,
+      "y": 2363,
+      "w": 221,
+      "h": 210
+    },
+    "hex": "#D5A86C",
+    "code": "895/1895",
+    "marketingName": "Canyonbeige",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈91; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2018,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2018-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2018-mercedes-benz/2018-Mercedesbenz-pg02.jpg",
+    "bbox": {
+      "x": 735,
+      "y": 2363,
+      "w": 221,
+      "h": 210
+    },
+    "hex": "#1C4A93",
+    "code": "896/5896",
+    "marketingName": "Brillantblau",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈78; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2018,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2018-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2018-mercedes-benz/2018-Mercedesbenz-pg02.jpg",
+    "bbox": {
+      "x": 1175,
+      "y": 2363,
+      "w": 221,
+      "h": 210
+    },
+    "hex": "#45403F",
+    "code": "897/9897",
+    "marketingName": "Ruby Black",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈93; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2018,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2018-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2018-mercedes-benz/2018-Mercedesbenz-pg02.jpg",
+    "bbox": {
+      "x": 1617,
+      "y": 2364,
+      "w": 220,
+      "h": 210
+    },
+    "hex": "#7E807E",
+    "code": "963/9963",
+    "marketingName": "Indium Grey",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈93; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2018,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2018-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2018-mercedes-benz/2018-Mercedesbenz-pg02.jpg",
+    "bbox": {
+      "x": 2057,
+      "y": 2363,
+      "w": 220,
+      "h": 210
+    },
+    "hex": "#BC1837",
+    "code": "967/3967",
+    "marketingName": "Hibiscus Red",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈93; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2018,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2018-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2018-mercedes-benz/2018-Mercedesbenz-pg01.jpg",
+    "bbox": {
+      "x": 2115,
+      "y": 2360,
+      "w": 220,
+      "h": 210
+    },
+    "hex": "#303D46",
+    "code": "980/6580",
+    "marketingName": "Granitgrun",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈84; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2018,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2018-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2018-mercedes-benz/2018-Mercedesbenz-pg02.jpg",
+    "bbox": {
+      "x": 295,
+      "y": 2875,
+      "w": 220,
+      "h": 210
+    },
+    "hex": "#EEECEA",
+    "code": "982/9982",
+    "marketingName": "Magno Iridium Silver",
+    "finish": "matte",
+    "notes": "Tesseract batch: code conf≈93; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2018,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2018-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2018-mercedes-benz/2018-Mercedesbenz-pg02.jpg",
+    "bbox": {
+      "x": 736,
+      "y": 2874,
+      "w": 220,
+      "h": 210
+    },
+    "hex": "#DBE2E7",
+    "code": "988/9988",
+    "marketingName": "Diamond Silver",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈93; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2018,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2018-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2018-mercedes-benz/2018-Mercedesbenz-pg02.jpg",
+    "bbox": {
+      "x": 1176,
+      "y": 2875,
+      "w": 220,
+      "h": 210
+    },
+    "hex": "#303739",
+    "code": "989/6989",
+    "marketingName": "Emerald Green",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈92; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2018,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2018-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2018-mercedes-benz/2018-Mercedesbenz-pg02.jpg",
+    "bbox": {
+      "x": 1617,
+      "y": 2877,
+      "w": 221,
+      "h": 210
+    },
+    "hex": "#494141",
+    "code": "990/8990",
+    "marketingName": "Orient Brown Polar",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈92; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2018,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2018-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2018-mercedes-benz/2018-Mercedesbenz-pg02.jpg",
+    "bbox": {
+      "x": 2058,
+      "y": 2876,
+      "w": 216,
+      "h": 210
+    },
+    "hex": "#DFE6EA",
+    "code": "991/9991",
+    "marketingName": "Silver Magno",
+    "finish": "matte",
+    "notes": "Tesseract batch: code conf≈91; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2019,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2019-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2019-mercedes-benz/2019_Mercedes-Benz_01.jpg",
+    "bbox": {
+      "x": 405,
+      "y": 171,
+      "w": 211,
+      "h": 210
+    },
+    "hex": "#323230",
+    "code": "033/033",
+    "marketingName": "Designo Mokka Black",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈93; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2019,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2019-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2019-mercedes-benz/2019_Mercedes-Benz_01.jpg",
+    "bbox": {
+      "x": 815,
+      "y": 172,
+      "w": 209,
+      "h": 210
+    },
+    "hex": "#2A2A27",
+    "code": "040/9040",
+    "marketingName": "Black",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈93; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2019,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2019-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2019-mercedes-benz/2019_Mercedes-Benz_01.jpg",
+    "bbox": {
+      "x": 1224,
+      "y": 172,
+      "w": 207,
+      "h": 210
+    },
+    "hex": "#4B4D4A",
+    "code": "041/041",
+    "marketingName": "Designo Graphite",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈89; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2019,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2019-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2019-mercedes-benz/2019_Mercedes-Benz_01.jpg",
+    "bbox": {
+      "x": 1632,
+      "y": 172,
+      "w": 211,
+      "h": 210
+    },
+    "hex": "#8A8C8D",
+    "code": "044/044",
+    "marketingName": "Designo Alanitgrau",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈84; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2019,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2019-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2019-mercedes-benz/2019_Mercedes-Benz_01.jpg",
+    "bbox": {
+      "x": 0,
+      "y": 650,
+      "w": 212,
+      "h": 210
+    },
+    "hex": "#FCF7E6",
+    "code": "049/S049",
+    "marketingName": "Designo Magno",
+    "finish": "matte",
+    "notes": "Tesseract batch: code conf≈89; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2019,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2019-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2019-mercedes-benz/2019_Mercedes-Benz_01.jpg",
+    "bbox": {
+      "x": 404,
+      "y": 650,
+      "w": 210,
+      "h": 210
+    },
+    "hex": "#525454",
+    "code": "144/9144",
+    "marketingName": "Digitalweiss",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈75; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2019,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2019-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2019-mercedes-benz/2019_Mercedes-Benz_01.jpg",
+    "bbox": {
+      "x": 814,
+      "y": 650,
+      "w": 210,
+      "h": 210
+    },
+    "hex": "#FDFDFC",
+    "code": "149/9149",
+    "marketingName": "Polar White",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈93; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2019,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2019-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2019-mercedes-benz/2019_Mercedes-Benz_01.jpg",
+    "bbox": {
+      "x": 1223,
+      "y": 650,
+      "w": 209,
+      "h": 210
+    },
+    "hex": "#303131",
+    "code": "183/9183",
+    "marketingName": "Magnetite Black",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈93; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2019,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2019-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2019-mercedes-benz/2019_Mercedes-Benz_01.jpg",
+    "bbox": {
+      "x": 1632,
+      "y": 650,
+      "w": 204,
+      "h": 210
+    },
+    "hex": "#292A28",
+    "code": "191/9191",
+    "marketingName": "Cosmos Black",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈88; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2019,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2019-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2019-mercedes-benz/2019_Mercedes-Benz_01.jpg",
+    "bbox": {
+      "x": 0,
+      "y": 1128,
+      "w": 210,
+      "h": 210
+    },
+    "hex": "#252522",
+    "code": "197/9197",
+    "marketingName": "Obsidianschwarz",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈93; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2019,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2019-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2019-mercedes-benz/2019_Mercedes-Benz_01.jpg",
+    "bbox": {
+      "x": 403,
+      "y": 1128,
+      "w": 210,
+      "h": 210
+    },
+    "hex": "#C7A243",
+    "code": "278/1278",
+    "marketingName": "Solarbeam Yellow 3ct",
+    "finish": "pearl",
+    "notes": "Tesseract batch: code conf≈69; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2019,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2019-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2019-mercedes-benz/2019_Mercedes-Benz_01.jpg",
+    "bbox": {
+      "x": 814,
+      "y": 1128,
+      "w": 205,
+      "h": 210
+    },
+    "hex": "#5D5F5F",
+    "code": "281/7281",
+    "marketingName": "Shadow Grey",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈85; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2019,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2019-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2019-mercedes-benz/2019_Mercedes-Benz_01.jpg",
+    "bbox": {
+      "x": 1223,
+      "y": 1128,
+      "w": 209,
+      "h": 210
+    },
+    "hex": "#B2AC9E",
+    "code": "296/9296",
+    "marketingName": "Dune Silver",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈93; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2019,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2019-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2019-mercedes-benz/2019_Mercedes-Benz_01.jpg",
+    "bbox": {
+      "x": 1631,
+      "y": 1128,
+      "w": 209,
+      "h": 210
+    },
+    "hex": "#545759",
+    "code": "297/7297",
+    "marketingName": "Selenitgrau Magno",
+    "finish": "matte",
+    "notes": "Tesseract batch: code conf≈85; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2019,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2019-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2019-mercedes-benz/2019_Mercedes-Benz_01.jpg",
+    "bbox": {
+      "x": 0,
+      "y": 1606,
+      "w": 210,
+      "h": 210
+    },
+    "hex": "#5B8F51",
+    "code": "376/6376",
+    "marketingName": "Amg Performance Green",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈93; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2019,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2019-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2019-mercedes-benz/2019_Mercedes-Benz_01.jpg",
+    "bbox": {
+      "x": 403,
+      "y": 1606,
+      "w": 210,
+      "h": 210
+    },
+    "hex": "#514E47",
+    "code": "526/8526",
+    "marketingName": "Dolomite Brown",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈91; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2019,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2019-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2019-mercedes-benz/2019_Mercedes-Benz_01.jpg",
+    "bbox": {
+      "x": 813,
+      "y": 1606,
+      "w": 210,
+      "h": 210
+    },
+    "hex": "#A62A2E",
+    "code": "589/3589",
+    "marketingName": "Jupiter Red",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈61; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2019,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2019-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2019-mercedes-benz/2019_Mercedes-Benz_01.jpg",
+    "bbox": {
+      "x": 1223,
+      "y": 1606,
+      "w": 209,
+      "h": 210
+    },
+    "hex": "#362C2A",
+    "code": "660/3660",
+    "marketingName": "Rubellitrot",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈92; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2019,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2019-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2019-mercedes-benz/2019_Mercedes-Benz_01.jpg",
+    "bbox": {
+      "x": 1631,
+      "y": 1606,
+      "w": 208,
+      "h": 210
+    },
+    "hex": "#6A6A6E",
+    "code": "662/7662",
+    "marketingName": "Mountaingrau Magno",
+    "finish": "matte",
+    "notes": "Tesseract batch: code conf≈93; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2019,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2019-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2019-mercedes-benz/2019_Mercedes-Benz_01.jpg",
+    "bbox": {
+      "x": 0,
+      "y": 2084,
+      "w": 210,
+      "h": 210
+    },
+    "hex": "#313944",
+    "code": "667/5667",
+    "marketingName": "Denimblau",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈93; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2019,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2019-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2019-mercedes-benz/2019_Mercedes-Benz_01.jpg",
+    "bbox": {
+      "x": 402,
+      "y": 2084,
+      "w": 210,
+      "h": 210
+    },
+    "hex": "#2F302E",
+    "code": "696/9696",
+    "marketingName": "Night Black",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈93; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2019,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2019-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2019-mercedes-benz/2019_Mercedes-Benz_01.jpg",
+    "bbox": {
+      "x": 812,
+      "y": 2084,
+      "w": 210,
+      "h": 210
+    },
+    "hex": "#B6B7BA",
+    "code": "7715/9775",
+    "marketingName": "Iridium Silver",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈63; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2019,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2019-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2019-mercedes-benz/2019_Mercedes-Benz_01.jpg",
+    "bbox": {
+      "x": 1222,
+      "y": 2084,
+      "w": 209,
+      "h": 210
+    },
+    "hex": "#626360",
+    "code": "787/7787",
+    "marketingName": "Mountain Grey",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈65; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2019,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2019-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2019-mercedes-benz/2019_Mercedes-Benz_01.jpg",
+    "bbox": {
+      "x": 1631,
+      "y": 2084,
+      "w": 208,
+      "h": 210
+    },
+    "hex": "#46413B",
+    "code": "796/8796",
+    "marketingName": "Dakota Brown",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈93; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2019,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2019-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2019-mercedes-benz/2019_Mercedes-Benz_01.jpg",
+    "bbox": {
+      "x": 0,
+      "y": 2562,
+      "w": 192,
+      "h": 210
+    },
+    "hex": "#FCF8E9",
+    "code": "799/038",
+    "marketingName": "Designo Mysticweiss",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈91; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2019,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2019-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2019-mercedes-benz/2019_Mercedes-Benz_01.jpg",
+    "bbox": {
+      "x": 401,
+      "y": 2562,
+      "w": 210,
+      "h": 210
+    },
+    "hex": "#2A2D51",
+    "code": "813/5813",
+    "marketingName": "3ct B",
+    "finish": "pearl",
+    "notes": "Tesseract batch: code conf≈41; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2019,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2019-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2019-mercedes-benz/2019_Mercedes-Benz_01.jpg",
+    "bbox": {
+      "x": 812,
+      "y": 2562,
+      "w": 210,
+      "h": 210
+    },
+    "hex": "#464847",
+    "code": "818/7818",
+    "marketingName": "C,GT",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈93; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2019,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2019-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2019-mercedes-benz/2019_Mercedes-Benz_01.jpg",
+    "bbox": {
+      "x": 1222,
+      "y": 2562,
+      "w": 205,
+      "h": 210
+    },
+    "hex": "#40403F",
+    "code": "831/7831",
+    "marketingName": "Factory color 831/7831",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈91; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2019,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2019-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2019-mercedes-benz/2019_Mercedes-Benz_01.jpg",
+    "bbox": {
+      "x": 1631,
+      "y": 2562,
+      "w": 209,
+      "h": 210
+    },
+    "hex": "#86847F",
+    "code": "859/9859",
+    "marketingName": "Factory color 859/9859",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈93; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2019,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2019-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2019-mercedes-benz/2019_Mercedes-Benz_02.jpg",
+    "bbox": {
+      "x": 173,
+      "y": 173,
+      "w": 210,
+      "h": 210
+    },
+    "hex": "#28282D",
+    "code": "890/5890",
+    "marketingName": "Lunar Blue",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈63; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2019,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2019-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2019-mercedes-benz/2019_Mercedes-Benz_02.jpg",
+    "bbox": {
+      "x": 583,
+      "y": 173,
+      "w": 210,
+      "h": 210
+    },
+    "hex": "#283154",
+    "code": "896/5896",
+    "marketingName": "Brillantblau",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈91; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2019,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2019-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2019-mercedes-benz/2019_Mercedes-Benz_02.jpg",
+    "bbox": {
+      "x": 993,
+      "y": 173,
+      "w": 209,
+      "h": 210
+    },
+    "hex": "#34302D",
+    "code": "897/9897",
+    "marketingName": "Ruby Black Sonnengelb",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈93; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2019,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2019-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2019-mercedes-benz/2019_Mercedes-Benz_02.jpg",
+    "bbox": {
+      "x": 1808,
+      "y": 172,
+      "w": 208,
+      "h": 210
+    },
+    "hex": "#9CA3AA",
+    "code": "922/9922",
+    "marketingName": "Hightech Silber",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈93; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2019,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2019-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2019-mercedes-benz/2019_Mercedes-Benz_02.jpg",
+    "bbox": {
+      "x": 173,
+      "y": 651,
+      "w": 210,
+      "h": 210
+    },
+    "hex": "#53514B",
+    "code": "963/9963",
+    "marketingName": "Indium Grey Designo Iridium Silver",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈93; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2019,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2019-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2019-mercedes-benz/2019_Mercedes-Benz_02.jpg",
+    "bbox": {
+      "x": 547,
+      "y": 637,
+      "w": 245,
+      "h": 210
+    },
+    "hex": "#B7BBBE",
+    "code": "982/9982",
+    "marketingName": "Iridium Silver",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈0; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2019,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2019-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2019-mercedes-benz/2019_Mercedes-Benz_02.jpg",
+    "bbox": {
+      "x": 993,
+      "y": 650,
+      "w": 209,
+      "h": 210
+    },
+    "hex": "#9AA2A9",
+    "code": "988/9988",
+    "marketingName": "Diamond Silver",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈93; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2019,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2019-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2019-mercedes-benz/2019_Mercedes-Benz_02.jpg",
+    "bbox": {
+      "x": 1402,
+      "y": 650,
+      "w": 209,
+      "h": 210
+    },
+    "hex": "#343434",
+    "code": "989/6989",
+    "marketingName": "Emerald Green",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈93; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2019,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2019-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2019-mercedes-benz/2019_Mercedes-Benz_02.jpg",
+    "bbox": {
+      "x": 1807,
+      "y": 650,
+      "w": 209,
+      "h": 210
+    },
+    "hex": "#3C342F",
+    "code": "990/8990",
+    "marketingName": "Orient Brown",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈93; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2019,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2019-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2019-mercedes-benz/2019_Mercedes-Benz_02.jpg",
+    "bbox": {
+      "x": 173,
+      "y": 1129,
+      "w": 209,
+      "h": 210
+    },
+    "hex": "#666565",
+    "code": "992/7992",
+    "marketingName": "Selenitgrau",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈93; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2019,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2019-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2019-mercedes-benz/2019_Mercedes-Benz_02.jpg",
+    "bbox": {
+      "x": 581,
+      "y": 1129,
+      "w": 210,
+      "h": 210
+    },
+    "hex": "#802226",
+    "code": "993/3993",
+    "marketingName": "Patagonia Red",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈91; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2019,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2019-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2019-mercedes-benz/2019_Mercedes-Benz_02.jpg",
+    "bbox": {
+      "x": 992,
+      "y": 1129,
+      "w": 210,
+      "h": 210
+    },
+    "hex": "#852A2D",
+    "code": "996/3996",
+    "marketingName": "Cardinal Red",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈92; verify chip alignment."
+  },
+  {
+    "oem": "Mercedes-Benz",
+    "modelYear": 2019,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2019-Mercedes-Benz.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2019-mercedes-benz/2019_Mercedes-Benz_02.jpg",
+    "bbox": {
+      "x": 1402,
+      "y": 1128,
+      "w": 208,
+      "h": 210
+    },
+    "hex": "#2A2D2F",
+    "code": "998/5998",
+    "marketingName": "Anthracite Blue",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈75; verify chip alignment."
+  }
+]

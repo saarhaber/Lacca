@@ -1,0 +1,19 @@
+[
+  {
+    "oem": "American Motors",
+    "modelYear": 1987,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1987-American-Motors.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1987-american-motors/1987-Americanmotors-pg01.jpg",
+    "bbox": {
+      "x": 452,
+      "y": 0,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#B5AAA5",
+    "code": "9000/9300",
+    "marketingName": "i. 7 2635 es || 3600 a || axe",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈46; verify chip alignment."
+  }
+]

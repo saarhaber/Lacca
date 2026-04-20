@@ -1,0 +1,24 @@
+{
+  "$schema": "../../../schemas/exterior-paints-v1.schema.json",
+  "scopeId": "bugatti-curated-v1",
+  "version": "1.0.0",
+  "paints": [
+    {
+      "code": "0077",
+      "marketingName": "French Racing Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 58.67,
+        "a": -4.49,
+        "b": -39.51,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "hex_derived",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Derived from #4293D2. Alternate code 710. Heritage light blue, zero metallic, maximizes contrast with carbon fiber.",
+        "provenanceId": "lacca:user-curated:bugatti:French-Racing-Blue-0077"
+      }
+    }
+  ]
+}

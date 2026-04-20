@@ -1,0 +1,308 @@
+[
+  {
+    "oem": "Mercury",
+    "modelYear": 1941,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1941-Mercury.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1941-mercury/1941-mercury-pg02.jpg",
+    "bbox": {
+      "x": 151,
+      "y": 132,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#DFD3C3",
+    "code": "DQE0097",
+    "marketingName": "1946 Ford",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈0; verify chip alignment."
+  },
+  {
+    "oem": "Mercury",
+    "modelYear": 1941,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1941-Mercury.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1941-mercury/1941-mercury-pg02.jpg",
+    "bbox": {
+      "x": 253,
+      "y": 133,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#DCD0C0",
+    "code": "M319",
+    "marketingName": "& Mercury 1M3952 Black Gray Poly QE: 9000DAL",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈0; verify chip alignment."
+  },
+  {
+    "oem": "Mercury",
+    "modelYear": 1941,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1941-Mercury.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1941-mercury/1941-mercury-pg02.jpg",
+    "bbox": {
+      "x": 0,
+      "y": 131,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#DFD0BD",
+    "code": "M9345",
+    "marketingName": "1MO946. Milos Blue",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈53; verify chip alignment."
+  },
+  {
+    "oem": "Mercury",
+    "modelYear": 1942,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1942-Mercury.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1942-mercury/1942-mercury-pg02.jpg",
+    "bbox": {
+      "x": 151,
+      "y": 132,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#DFD3C3",
+    "code": "DQE0097",
+    "marketingName": "1946 Ford",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈0; verify chip alignment."
+  },
+  {
+    "oem": "Mercury",
+    "modelYear": 1942,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1942-Mercury.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1942-mercury/1942-mercury-pg02.jpg",
+    "bbox": {
+      "x": 253,
+      "y": 133,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#DCD0C0",
+    "code": "M319",
+    "marketingName": "& Mercury 1M3952 Black Gray Poly QE: 9000DAL",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈0; verify chip alignment."
+  },
+  {
+    "oem": "Mercury",
+    "modelYear": 1942,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1942-Mercury.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1942-mercury/1942-mercury-pg02.jpg",
+    "bbox": {
+      "x": 0,
+      "y": 131,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#DFD0BD",
+    "code": "M9345",
+    "marketingName": "1MO946. Milos Blue",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈53; verify chip alignment."
+  },
+  {
+    "oem": "Mercury",
+    "modelYear": 1943,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1943-Mercury.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1943-mercury/1943-mercury-pg02.jpg",
+    "bbox": {
+      "x": 151,
+      "y": 132,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#DFD3C3",
+    "code": "DQE0097",
+    "marketingName": "1946 Ford",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈0; verify chip alignment."
+  },
+  {
+    "oem": "Mercury",
+    "modelYear": 1943,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1943-Mercury.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1943-mercury/1943-mercury-pg02.jpg",
+    "bbox": {
+      "x": 253,
+      "y": 133,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#DCD0C0",
+    "code": "M319",
+    "marketingName": "& Mercury 1M3952 Black Gray Poly QE: 9000DAL",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈0; verify chip alignment."
+  },
+  {
+    "oem": "Mercury",
+    "modelYear": 1943,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1943-Mercury.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1943-mercury/1943-mercury-pg02.jpg",
+    "bbox": {
+      "x": 0,
+      "y": 131,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#DFD0BD",
+    "code": "M9345",
+    "marketingName": "1MO946. Milos Blue",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈53; verify chip alignment."
+  },
+  {
+    "oem": "Mercury",
+    "modelYear": 1944,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1944-Mercury.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1944-mercury/1944-mercury-pg02.jpg",
+    "bbox": {
+      "x": 151,
+      "y": 132,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#DFD3C3",
+    "code": "DQE0097",
+    "marketingName": "1946 Ford",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈0; verify chip alignment."
+  },
+  {
+    "oem": "Mercury",
+    "modelYear": 1944,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1944-Mercury.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1944-mercury/1944-mercury-pg02.jpg",
+    "bbox": {
+      "x": 253,
+      "y": 133,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#DCD0C0",
+    "code": "M319",
+    "marketingName": "& Mercury 1M3952 Black Gray Poly QE: 9000DAL",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈0; verify chip alignment."
+  },
+  {
+    "oem": "Mercury",
+    "modelYear": 1944,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1944-Mercury.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1944-mercury/1944-mercury-pg02.jpg",
+    "bbox": {
+      "x": 0,
+      "y": 131,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#DFD0BD",
+    "code": "M9345",
+    "marketingName": "1MO946. Milos Blue",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈53; verify chip alignment."
+  },
+  {
+    "oem": "Mercury",
+    "modelYear": 1945,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1945-Mercury.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1945-mercury/1945-mercury-pg02.jpg",
+    "bbox": {
+      "x": 151,
+      "y": 132,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#DFD3C3",
+    "code": "DQE0097",
+    "marketingName": "1946 Ford",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈0; verify chip alignment."
+  },
+  {
+    "oem": "Mercury",
+    "modelYear": 1945,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1945-Mercury.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1945-mercury/1945-mercury-pg02.jpg",
+    "bbox": {
+      "x": 253,
+      "y": 133,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#DCD0C0",
+    "code": "M319",
+    "marketingName": "& Mercury 1M3952 Black Gray Poly QE: 9000DAL",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈0; verify chip alignment."
+  },
+  {
+    "oem": "Mercury",
+    "modelYear": 1945,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1945-Mercury.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1945-mercury/1945-mercury-pg02.jpg",
+    "bbox": {
+      "x": 0,
+      "y": 131,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#DFD0BD",
+    "code": "M9345",
+    "marketingName": "1MO946. Milos Blue",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈53; verify chip alignment."
+  },
+  {
+    "oem": "Mercury",
+    "modelYear": 1946,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1946-Mercury.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1946-mercury/1946-mercury-pg02.jpg",
+    "bbox": {
+      "x": 151,
+      "y": 132,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#DFD3C3",
+    "code": "DQE0097",
+    "marketingName": "1946 Ford",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈0; verify chip alignment."
+  },
+  {
+    "oem": "Mercury",
+    "modelYear": 1946,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1946-Mercury.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1946-mercury/1946-mercury-pg02.jpg",
+    "bbox": {
+      "x": 253,
+      "y": 133,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#DCD0C0",
+    "code": "M319",
+    "marketingName": "& Mercury 1M3952 Black Gray Poly QE: 9000DAL",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈0; verify chip alignment."
+  },
+  {
+    "oem": "Mercury",
+    "modelYear": 1946,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1946-Mercury.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1946-mercury/1946-mercury-pg02.jpg",
+    "bbox": {
+      "x": 0,
+      "y": 131,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#DFD0BD",
+    "code": "M9345",
+    "marketingName": "1MO946. Milos Blue",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈53; verify chip alignment."
+  }
+]

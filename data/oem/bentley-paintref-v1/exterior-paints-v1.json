@@ -21,40 +21,6 @@
       }
     },
     {
-      "code": "UA",
-      "marketingName": "Black",
-      "finish": "solid",
-      "lab": {
-        "L": 0,
-        "a": 0,
-        "b": 0,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #000000 (PaintRef hex, OEM=Bentley, code=UA (models=Continental; years=1996-2002)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:Bentley:continental:UA"
-      }
-    },
-    {
-      "code": "UA",
-      "marketingName": "Ebony",
-      "finish": "solid",
-      "lab": {
-        "L": 0,
-        "a": 0,
-        "b": 0,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #000000 (PaintRef hex, OEM=Bentley, code=UA (models=Continental; year=1999)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:Bentley:continental:UA"
-      }
-    },
-    {
       "code": "G1",
       "marketingName": "Black Velvet",
       "finish": "solid",
@@ -497,23 +463,6 @@
       }
     },
     {
-      "code": "BQ",
-      "marketingName": "Parchment Gold",
-      "finish": "solid",
-      "lab": {
-        "L": 58.02,
-        "a": 2.06,
-        "b": 3.74,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #928A85 (PaintRef hex, OEM=Bentley, code=BQ (models=Continental; year=2002)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:Bentley:continental:BQ"
-      }
-    },
-    {
       "code": "XF",
       "marketingName": "Chroma Caviar",
       "finish": "solid",
@@ -544,40 +493,6 @@
         "confidence": "derived",
         "recordedAt": "2026-04-18",
         "notes": "Derived from #6B4130 (PaintRef hex, OEM=Bentley, code=A2 (models=Continental; year=2017)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:Bentley:continental:A2"
-      }
-    },
-    {
-      "code": "XF",
-      "marketingName": "Chroma Caviar Dark Gray",
-      "finish": "solid",
-      "lab": {
-        "L": 49.55,
-        "a": 2.9,
-        "b": 2.9,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #7D7471 (PaintRef hex, OEM=Bentley, code=XF (models=Continental; years=2018-2020)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:Bentley:continental:XF"
-      }
-    },
-    {
-      "code": "A2",
-      "marketingName": "Chrome Elite Copper",
-      "finish": "solid",
-      "lab": {
-        "L": 32.08,
-        "a": 16.25,
-        "b": 17.98,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #6B4130 (PaintRef hex, OEM=Bentley, code=A2 (models=Continental; year=2018)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Bentley:continental:A2"
       }
     },
@@ -735,23 +650,6 @@
       }
     },
     {
-      "code": "J7",
-      "marketingName": "Magnetic",
-      "finish": "solid",
-      "lab": {
-        "L": 41.6,
-        "a": -2.85,
-        "b": 9.83,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #646352 (PaintRef hex, OEM=Bentley, code=J7 (models=Continental; year=2018)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:Bentley:continental:J7"
-      }
-    },
-    {
       "code": "GS",
       "marketingName": "Ceramic",
       "finish": "solid",
@@ -868,23 +766,6 @@
         "recordedAt": "2026-04-18",
         "notes": "Derived from #D7D4B8 (PaintRef hex, OEM=Bentley, code=BD (models=Continental; year=1997)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Bentley:continental:BD"
-      }
-    },
-    {
-      "code": "FT",
-      "marketingName": "Charcoal Green",
-      "finish": "solid",
-      "lab": {
-        "L": 15.23,
-        "a": -7.8,
-        "b": 6.36,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #1E291D (PaintRef hex, OEM=Bentley, code=FT (models=Continental; years=1998-2001)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:Bentley:continental:FT"
       }
     },
     {
@@ -1228,23 +1109,6 @@
       }
     },
     {
-      "code": "WF",
-      "marketingName": "White Pearl",
-      "finish": "solid",
-      "lab": {
-        "L": 96.05,
-        "a": -3.08,
-        "b": 6.5,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #F3F5E7 (PaintRef hex, OEM=Bentley, code=WF (models=Continental; year=2002)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:Bentley:continental:WF"
-      }
-    },
-    {
       "code": "UG",
       "marketingName": "White Platinum",
       "finish": "solid",
@@ -1259,23 +1123,6 @@
         "recordedAt": "2026-04-18",
         "notes": "Derived from #DDE4D6 (PaintRef hex, OEM=Bentley, code=UG (models=Continental; years=2017-2019)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Bentley:continental:UG"
-      }
-    },
-    {
-      "code": "HA",
-      "marketingName": "Ivory Pearl",
-      "finish": "solid",
-      "lab": {
-        "L": 81.57,
-        "a": -3.01,
-        "b": 6.23,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #CACCBF (PaintRef hex, OEM=Bentley, code=HA (models=Continental; year=2018)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:Bentley:continental:HA"
       }
     },
     {

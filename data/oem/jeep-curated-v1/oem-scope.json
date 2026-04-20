@@ -1,0 +1,20 @@
+{
+  "$schema": "../../../schemas/oem-scope-v1.schema.json",
+  "scopeId": "jeep-curated-v1",
+  "oem": "Jeep",
+  "region": "North America",
+  "modelYears": {
+    "from": 2018,
+    "to": 2026
+  },
+  "models": [
+    "Wrangler",
+    "Gladiator",
+    "Grand Cherokee",
+    "Cherokee",
+    "Compass",
+    "Renegade"
+  ],
+  "notes": "Jeep exterior colors, curated from industry touch-up references. LAB values are HEX-derived approximations; replace with spectro data before production claims.",
+  "exteriorPaintFile": "./exterior-paints-v1.json"
+}

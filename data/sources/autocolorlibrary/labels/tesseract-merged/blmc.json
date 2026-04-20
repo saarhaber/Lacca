@@ -1,0 +1,70 @@
+[
+  {
+    "oem": "Blmc",
+    "modelYear": 1968,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1968-Blmc.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1968-blmc/1968-blmc-pg01.jpg",
+    "bbox": {
+      "x": 400,
+      "y": 318,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#929087",
+    "code": "G30",
+    "marketingName": "DOVER (WHEEL GREY COLOR) WTS OLD ENGLISH #2",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈0; verify chip alignment."
+  },
+  {
+    "oem": "Blmc",
+    "modelYear": 1968,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1968-Blmc.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1968-blmc/1968-blmc-pg01.jpg",
+    "bbox": {
+      "x": 257,
+      "y": 318,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#8C8F85",
+    "code": "GN29",
+    "marketingName": "ICE BLUE GNSS CUMBERLAND GREEN #1",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈51; verify chip alignment."
+  },
+  {
+    "oem": "Blmc",
+    "modelYear": 1969,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1969-Blmc.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1969-blmc/1969-blmc-pg01.jpg",
+    "bbox": {
+      "x": 400,
+      "y": 318,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#929087",
+    "code": "G30",
+    "marketingName": "DOVER (WHEEL GREY COLOR) WTS OLD ENGLISH #2",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈0; verify chip alignment."
+  },
+  {
+    "oem": "Blmc",
+    "modelYear": 1969,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1969-Blmc.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1969-blmc/1969-blmc-pg01.jpg",
+    "bbox": {
+      "x": 257,
+      "y": 318,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#8C8F85",
+    "code": "GN29",
+    "marketingName": "ICE BLUE GNSS CUMBERLAND GREEN #1",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈51; verify chip alignment."
+  }
+]

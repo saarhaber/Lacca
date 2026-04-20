@@ -1,0 +1,36 @@
+[
+  {
+    "oem": "Ford Import",
+    "modelYear": 1986,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1986-Ford-Import.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1986-ford-import/1986-Fordimp-pg01.jpg",
+    "bbox": {
+      "x": 453,
+      "y": 0,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#C4C1BC",
+    "code": "200/030",
+    "marketingName": "Factory color 200/030",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈58; verify chip alignment."
+  },
+  {
+    "oem": "Ford Import",
+    "modelYear": 1986,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1986-Ford-Import.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1986-ford-import/1986-Fordimp-pg03.jpg",
+    "bbox": {
+      "x": 146,
+      "y": 209,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#C2B0AC",
+    "code": "9000/8300",
+    "marketingName": "Factory color 9000/8300",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈51; verify chip alignment."
+  }
+]

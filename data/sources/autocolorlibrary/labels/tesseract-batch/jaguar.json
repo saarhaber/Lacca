@@ -1,0 +1,36 @@
+[
+  {
+    "oem": "Jaguar",
+    "modelYear": 2010,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2010-Jaguar.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2010-jaguar/2010-Jaguar-pg01.jpg",
+    "bbox": {
+      "x": 1610,
+      "y": 1472,
+      "w": 559,
+      "h": 210
+    },
+    "hex": "#DBD9DC",
+    "code": "2028/2030",
+    "marketingName": "Lunar Gray Pearl Gunmetal Pearl",
+    "finish": "pearl",
+    "notes": "Tesseract batch: code conf≈88; verify chip alignment."
+  },
+  {
+    "oem": "Jaguar",
+    "modelYear": 2018,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2018-Jaguar.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2018-jaguar/2018-Jaguar-pg01.jpg",
+    "bbox": {
+      "x": 1293,
+      "y": 825,
+      "w": 560,
+      "h": 210
+    },
+    "hex": "#E0E4EC",
+    "code": "2232/2273",
+    "marketingName": "Caesium Blue 3ct Borasco Grey",
+    "finish": "pearl",
+    "notes": "Tesseract batch: code conf≈91; verify chip alignment."
+  }
+]

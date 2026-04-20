@@ -1,0 +1,103 @@
+{
+  "$schema": "../../../schemas/exterior-paints-v1.schema.json",
+  "scopeId": "ram-curated-v1",
+  "version": "1.0.0",
+  "paints": [
+    {
+      "code": "PBJ",
+      "marketingName": "Hydro Blue",
+      "finish": "pearl",
+      "lab": {
+        "L": 34.62,
+        "a": 12.21,
+        "b": -49.5,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "hex_derived",
+        "confidence": "derived",
+        "recordedAt": "2026-04-20",
+        "notes": "Derived from #0050A1 (hex_derived). Replace with spectro LAB before production claims."
+      }
+    },
+    {
+      "code": "PR4",
+      "marketingName": "Flame Red",
+      "finish": "solid",
+      "lab": {
+        "L": 39.92,
+        "a": 58.97,
+        "b": 37.73,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "hex_derived",
+        "confidence": "derived",
+        "recordedAt": "2026-04-20",
+        "notes": "Derived from #B81D24 (hex_derived). Replace with spectro LAB before production claims."
+      }
+    },
+    {
+      "code": "PAU",
+      "marketingName": "Granite Crystal",
+      "finish": "metallic",
+      "lab": {
+        "L": 33.98,
+        "a": 0.09,
+        "b": -2.63,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "hex_derived",
+        "confidence": "derived",
+        "recordedAt": "2026-04-20",
+        "notes": "Derived from #4E5054 (hex_derived). Replace with spectro LAB before production claims."
+      }
+    },
+    {
+      "code": "PW7",
+      "marketingName": "Bright White",
+      "finish": "solid",
+      "lab": {
+        "L": 96.49,
+        "a": -0.35,
+        "b": 0.96,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "hex_derived",
+        "confidence": "derived",
+        "recordedAt": "2026-04-20",
+        "notes": "Derived from #F5F5F3 (hex_derived). Replace with spectro LAB before production claims."
+      }
+    },
+    {
+      "code": "PSC",
+      "marketingName": "Billet Silver",
+      "finish": "metallic",
+      "lab": {
+        "L": 74.58,
+        "a": -0.63,
+        "b": -2.51,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "hex_derived",
+        "confidence": "derived",
+        "recordedAt": "2026-04-20",
+        "notes": "Derived from #B4B8BC (hex_derived). Replace with spectro LAB before production claims."
+      }
+    },
+    {
+      "code": "PX8",
+      "marketingName": "Diamond Black",
+      "finish": "pearl",
+      "lab": {
+        "L": 5.53,
+        "a": 0.43,
+        "b": -1.18,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "hex_derived",
+        "confidence": "derived",
+        "recordedAt": "2026-04-20",
+        "notes": "Derived from #121214 (hex_derived). Replace with spectro LAB before production claims."
+      }
+    }
+  ]
+}

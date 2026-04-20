@@ -1,0 +1,189 @@
+[
+  {
+    "oem": "Land Rover",
+    "modelYear": 2013,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2013-Range-Rover.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2013-range-rover/2013-Rangerover-pg02.jpg",
+    "bbox": {
+      "x": 713,
+      "y": 2600,
+      "w": 193,
+      "h": 210
+    },
+    "hex": "#DDDBDC",
+    "code": "112/870",
+    "marketingName": "= Botanical Green Fuji White Nara Bronze Primer Marmaris Teal",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈91; verify chip alignment."
+  },
+  {
+    "oem": "Land Rover",
+    "modelYear": 2015,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2015-Range-Rover.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2015-range-rover/2015-Rangerover-pg03.jpg",
+    "bbox": {
+      "x": 714,
+      "y": 899,
+      "w": 193,
+      "h": 210
+    },
+    "hex": "#DEDBDD",
+    "code": "112/870",
+    "marketingName": "Botanical Green Fuji White Rimini",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈92; verify chip alignment."
+  },
+  {
+    "oem": "Land Rover",
+    "modelYear": 2019,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2019-Land-Rover.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2019-land-rover/2019_LandRover_01.jpg",
+    "bbox": {
+      "x": 480,
+      "y": 173,
+      "w": 440,
+      "h": 210
+    },
+    "hex": "#F6F6F3",
+    "code": "2130/867",
+    "marketingName": "Santorini D,E,RR,V Black Prl B/C Indus D,E,RR,V Silver Met B/C Fuji",
+    "finish": "pearl",
+    "notes": "Tesseract batch: code conf≈93; verify chip alignment."
+  },
+  {
+    "oem": "Land Rover",
+    "modelYear": 2019,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2019-Land-Rover.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2019-land-rover/2019_LandRover_01.jpg",
+    "bbox": {
+      "x": 890,
+      "y": 173,
+      "w": 439,
+      "h": 210
+    },
+    "hex": "#CAA3A2",
+    "code": "2135/868",
+    "marketingName": "White B/C Firenze",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈93; verify chip alignment."
+  },
+  {
+    "oem": "Land Rover",
+    "modelYear": 2019,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2019-Land-Rover.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2019-land-rover/2019_LandRover_01.jpg",
+    "bbox": {
+      "x": 1299,
+      "y": 172,
+      "w": 438,
+      "h": 210
+    },
+    "hex": "#B4B3B2",
+    "code": "2144/873",
+    "marketingName": "Red Pri 3ct Corris Grey Met B/C",
+    "finish": "pearl",
+    "notes": "Tesseract batch: code conf≈91; verify chip alignment."
+  },
+  {
+    "oem": "Land Rover",
+    "modelYear": 2019,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2019-Land-Rover.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2019-land-rover/2019_LandRover_01.jpg",
+    "bbox": {
+      "x": 0,
+      "y": 653,
+      "w": 178,
+      "h": 210
+    },
+    "hex": "#222221",
+    "code": "921/1807",
+    "marketingName": "Narvik Black B/C",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈75; verify chip alignment."
+  },
+  {
+    "oem": "Land Rover",
+    "modelYear": 2019,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2019-Land-Rover.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2019-land-rover/2019_LandRover_01.jpg",
+    "bbox": {
+      "x": 400,
+      "y": 652,
+      "w": 210,
+      "h": 210
+    },
+    "hex": "#2B2B34",
+    "code": "942/2149",
+    "marketingName": "Loire D,E,RR B/C",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈90; verify chip alignment."
+  },
+  {
+    "oem": "Land Rover",
+    "modelYear": 2019,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2019-Land-Rover.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2019-land-rover/2019_LandRover_01.jpg",
+    "bbox": {
+      "x": 810,
+      "y": 651,
+      "w": 209,
+      "h": 210
+    },
+    "hex": "#626868",
+    "code": "943/2150",
+    "marketingName": "Scotia D Grey Met B/C",
+    "finish": "metallic",
+    "notes": "Tesseract batch: code conf≈91; verify chip alignment."
+  },
+  {
+    "oem": "Land Rover",
+    "modelYear": 2019,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2019-Land-Rover.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2019-land-rover/2019_LandRover_01.jpg",
+    "bbox": {
+      "x": 1219,
+      "y": 651,
+      "w": 205,
+      "h": 210
+    },
+    "hex": "#A1A29D",
+    "code": "995/2161",
+    "marketingName": "Aruba RR,V Prl B/C",
+    "finish": "pearl",
+    "notes": "Tesseract batch: code conf≈79; verify chip alignment."
+  },
+  {
+    "oem": "Land Rover",
+    "modelYear": 2019,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2019-Land-Rover.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2019-land-rover/2019_LandRover_01.jpg",
+    "bbox": {
+      "x": 1627,
+      "y": 650,
+      "w": 208,
+      "h": 210
+    },
+    "hex": "#676259",
+    "code": "997/2162",
+    "marketingName": "Kaikoura E,RR,V Stone Prl B/C",
+    "finish": "pearl",
+    "notes": "Tesseract batch: code conf≈93; verify chip alignment."
+  },
+  {
+    "oem": "Land Rover",
+    "modelYear": 2019,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2019-Land-Rover.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2019-land-rover/2019_LandRover_01.jpg",
+    "bbox": {
+      "x": 0,
+      "y": 1132,
+      "w": 231,
+      "h": 210
+    },
+    "hex": "#212C5E",
+    "code": "998/2264",
+    "marketingName": "Estoril RR Blue Pri B/C Phoenix E Orange Pri B/C Yulong White Met B/C Carpathian D,E,RR,V Grey Prl B/C Rossello RR Red Pri B/C",
+    "finish": "pearl",
+    "notes": "Tesseract batch: code conf≈93; verify chip alignment."
+  }
+]

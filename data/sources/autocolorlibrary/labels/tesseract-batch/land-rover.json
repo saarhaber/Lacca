@@ -1,0 +1,155 @@
+[
+  {
+    "oem": "Land Rover",
+    "modelYear": 2019,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2019-Land-Rover.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2019-land-rover/2019_LandRover_01.jpg",
+    "bbox": {
+      "x": 480,
+      "y": 173,
+      "w": 440,
+      "h": 210
+    },
+    "hex": "#F6F6F3",
+    "code": "2130/867",
+    "marketingName": "Indus Silver Fuji",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈93; verify chip alignment."
+  },
+  {
+    "oem": "Land Rover",
+    "modelYear": 2019,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2019-Land-Rover.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2019-land-rover/2019_LandRover_01.jpg",
+    "bbox": {
+      "x": 890,
+      "y": 173,
+      "w": 439,
+      "h": 210
+    },
+    "hex": "#CAA3A2",
+    "code": "2135/868",
+    "marketingName": "White Firenze",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈93; verify chip alignment."
+  },
+  {
+    "oem": "Land Rover",
+    "modelYear": 2019,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2019-Land-Rover.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2019-land-rover/2019_LandRover_01.jpg",
+    "bbox": {
+      "x": 1299,
+      "y": 172,
+      "w": 438,
+      "h": 210
+    },
+    "hex": "#B4B3B2",
+    "code": "2144/873",
+    "marketingName": "Red 3ct Corris Grey",
+    "finish": "pearl",
+    "notes": "Tesseract batch: code conf≈91; verify chip alignment."
+  },
+  {
+    "oem": "Land Rover",
+    "modelYear": 2019,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2019-Land-Rover.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2019-land-rover/2019_LandRover_01.jpg",
+    "bbox": {
+      "x": 0,
+      "y": 653,
+      "w": 178,
+      "h": 210
+    },
+    "hex": "#222221",
+    "code": "921/1807",
+    "marketingName": "Narvik Black",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈75; verify chip alignment."
+  },
+  {
+    "oem": "Land Rover",
+    "modelYear": 2019,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2019-Land-Rover.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2019-land-rover/2019_LandRover_01.jpg",
+    "bbox": {
+      "x": 400,
+      "y": 652,
+      "w": 210,
+      "h": 210
+    },
+    "hex": "#2B2B34",
+    "code": "942/2149",
+    "marketingName": "Loire",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈90; verify chip alignment."
+  },
+  {
+    "oem": "Land Rover",
+    "modelYear": 2019,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2019-Land-Rover.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2019-land-rover/2019_LandRover_01.jpg",
+    "bbox": {
+      "x": 810,
+      "y": 651,
+      "w": 209,
+      "h": 210
+    },
+    "hex": "#626868",
+    "code": "943/2150",
+    "marketingName": "Scotia Grey",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈91; verify chip alignment."
+  },
+  {
+    "oem": "Land Rover",
+    "modelYear": 2019,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2019-Land-Rover.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2019-land-rover/2019_LandRover_01.jpg",
+    "bbox": {
+      "x": 1219,
+      "y": 651,
+      "w": 205,
+      "h": 210
+    },
+    "hex": "#A1A29D",
+    "code": "995/2161",
+    "marketingName": "Aruba",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈79; verify chip alignment."
+  },
+  {
+    "oem": "Land Rover",
+    "modelYear": 2019,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2019-Land-Rover.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2019-land-rover/2019_LandRover_01.jpg",
+    "bbox": {
+      "x": 1627,
+      "y": 650,
+      "w": 208,
+      "h": 210
+    },
+    "hex": "#676259",
+    "code": "997/2162",
+    "marketingName": "Kaikoura Stone",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈93; verify chip alignment."
+  },
+  {
+    "oem": "Land Rover",
+    "modelYear": 2019,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2019-Land-Rover.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2019-land-rover/2019_LandRover_01.jpg",
+    "bbox": {
+      "x": 0,
+      "y": 1132,
+      "w": 231,
+      "h": 210
+    },
+    "hex": "#212C5E",
+    "code": "998/2264",
+    "marketingName": "Estoril Blue",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈93; verify chip alignment."
+  }
+]

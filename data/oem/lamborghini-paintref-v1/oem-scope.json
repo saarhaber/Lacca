@@ -1,0 +1,19 @@
+{
+  "$schema": "../../../schemas/oem-scope-v1.schema.json",
+  "scopeId": "lamborghini-paintref-v1",
+  "oem": "Lamborghini",
+  "region": "Global",
+  "modelYears": {
+    "from": 1963,
+    "to": 2026
+  },
+  "models": [
+    "Huracán",
+    "Huracán EVO",
+    "Revuelto",
+    "Urus",
+    "Urus SE"
+  ],
+  "notes": "Lamborghini exterior colors from industry touch-up references. LAB values are HEX-derived approximations.",
+  "exteriorPaintFile": "./exterior-paints-v1.json"
+}

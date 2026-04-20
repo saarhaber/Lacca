@@ -1,0 +1,19 @@
+{
+  "$schema": "../../../schemas/oem-scope-v1.schema.json",
+  "scopeId": "koenigsegg-curated-v1",
+  "oem": "Koenigsegg",
+  "region": "Global",
+  "modelYears": {
+    "from": 1994,
+    "to": 2026
+  },
+  "models": [
+    "Jesko",
+    "Agera",
+    "Regera",
+    "CC850",
+    "Gemera"
+  ],
+  "notes": "Koenigsegg exterior colors, curated from industry touch-up references. LAB values are HEX-derived approximations; replace with spectro data before production claims.",
+  "exteriorPaintFile": "./exterior-paints-v1.json"
+}

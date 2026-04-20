@@ -1,0 +1,36 @@
+[
+  {
+    "oem": "Pontiac",
+    "modelYear": 1938,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1938-Pontiac.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1938-pontiac/1938-pontiac-pg01.jpg",
+    "bbox": {
+      "x": 361,
+      "y": 0,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#A5947E",
+    "code": "IML187",
+    "marketingName": "= Cano rine",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈0; verify chip alignment."
+  },
+  {
+    "oem": "Pontiac",
+    "modelYear": 1938,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1938-Pontiac.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1938-pontiac/1938-pontiac-pg01.jpg",
+    "bbox": {
+      "x": 96,
+      "y": 0,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#A69A8A",
+    "code": "IMs1808",
+    "marketingName": "Bho Wenn Moon |",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈0; verify chip alignment."
+  }
+]

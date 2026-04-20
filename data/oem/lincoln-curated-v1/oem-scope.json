@@ -1,0 +1,18 @@
+{
+  "$schema": "../../../schemas/oem-scope-v1.schema.json",
+  "scopeId": "lincoln-curated-v1",
+  "oem": "Lincoln",
+  "region": "North America",
+  "modelYears": {
+    "from": 2015,
+    "to": 2026
+  },
+  "models": [
+    "Aviator",
+    "Corsair",
+    "Navigator",
+    "Nautilus"
+  ],
+  "notes": "Lincoln exterior colors, curated from industry touch-up references. LAB values are HEX-derived approximations.",
+  "exteriorPaintFile": "./exterior-paints-v1.json"
+}

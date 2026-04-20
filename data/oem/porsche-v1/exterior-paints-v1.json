@@ -290,6 +290,23 @@
         "recordedAt": "2026-04-16",
         "notes": "Derived from #3A6B85 (hex_derived). Replace with spectro LAB before production claims."
       }
+    },
+    {
+      "code": "84A",
+      "marketingName": "Guards Red",
+      "finish": "solid",
+      "lab": {
+        "L": 44.24,
+        "a": 69.68,
+        "b": 58.46,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "hex_derived",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Derived from #D40000. Classic Porsche Guards Red, alternate paint code to 2T2T. Replace with spectro LAB before production claims.",
+        "provenanceId": "lacca:user-curated:porsche:Guards-Red-84A"
+      }
     }
   ]
 }

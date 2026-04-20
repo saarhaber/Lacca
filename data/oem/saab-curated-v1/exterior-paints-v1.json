@@ -1,0 +1,87 @@
+{
+  "$schema": "../../../schemas/exterior-paints-v1.schema.json",
+  "scopeId": "saab-curated-v1",
+  "version": "1.0.0",
+  "paints": [
+    {
+      "code": "298",
+      "marketingName": "Cosmic Blue",
+      "finish": "metallic",
+      "lab": {
+        "L": 13.28,
+        "a": 3.1,
+        "b": -17.23,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "hex_derived",
+        "confidence": "derived",
+        "recordedAt": "2026-04-20",
+        "notes": "Derived from #15223A (hex_derived). Replace with spectro LAB before production claims."
+      }
+    },
+    {
+      "code": "170",
+      "marketingName": "Black",
+      "finish": "solid",
+      "lab": {
+        "L": 2.74,
+        "a": 0,
+        "b": 0,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "hex_derived",
+        "confidence": "derived",
+        "recordedAt": "2026-04-20",
+        "notes": "Derived from #0A0A0A (hex_derived). Replace with spectro LAB before production claims."
+      }
+    },
+    {
+      "code": "237",
+      "marketingName": "Ice Blue",
+      "finish": "metallic",
+      "lab": {
+        "L": 61.57,
+        "a": -6.21,
+        "b": -13.43,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "hex_derived",
+        "confidence": "derived",
+        "recordedAt": "2026-04-20",
+        "notes": "Derived from #7A99AC (hex_derived). Replace with spectro LAB before production claims."
+      }
+    },
+    {
+      "code": "278",
+      "marketingName": "Java Green",
+      "finish": "metallic",
+      "lab": {
+        "L": 28.93,
+        "a": -15.22,
+        "b": 15.25,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "hex_derived",
+        "confidence": "derived",
+        "recordedAt": "2026-04-20",
+        "notes": "Derived from #344A2C (hex_derived). Replace with spectro LAB before production claims."
+      }
+    },
+    {
+      "code": "289",
+      "marketingName": "Laser Red",
+      "finish": "metallic",
+      "lab": {
+        "L": 34.39,
+        "a": 52.96,
+        "b": 37.32,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "hex_derived",
+        "confidence": "derived",
+        "recordedAt": "2026-04-20",
+        "notes": "Derived from #A01818 (hex_derived). Replace with spectro LAB before production claims."
+      }
+    }
+  ]
+}

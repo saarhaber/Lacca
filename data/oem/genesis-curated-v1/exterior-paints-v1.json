@@ -1,0 +1,103 @@
+{
+  "$schema": "../../../schemas/exterior-paints-v1.schema.json",
+  "scopeId": "genesis-curated-v1",
+  "version": "1.0.0",
+  "paints": [
+    {
+      "code": "UYH",
+      "marketingName": "Uyuni White",
+      "finish": "pearl",
+      "lab": {
+        "L": 93.85,
+        "a": 0.13,
+        "b": 2.77,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "hex_derived",
+        "confidence": "derived",
+        "recordedAt": "2026-04-20",
+        "notes": "Derived from #F0EDE8 (hex_derived). Replace with spectro LAB before production claims."
+      }
+    },
+    {
+      "code": "VU5",
+      "marketingName": "Verbena Blue",
+      "finish": "metallic",
+      "lab": {
+        "L": 37.35,
+        "a": -0.74,
+        "b": -22.57,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "hex_derived",
+        "confidence": "derived",
+        "recordedAt": "2026-04-20",
+        "notes": "Derived from #3C5A7C (hex_derived). Replace with spectro LAB before production claims."
+      }
+    },
+    {
+      "code": "V6S",
+      "marketingName": "Vik Black",
+      "finish": "solid",
+      "lab": {
+        "L": 5.15,
+        "a": 0.64,
+        "b": -1.73,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "hex_derived",
+        "confidence": "derived",
+        "recordedAt": "2026-04-20",
+        "notes": "Derived from #111114 (hex_derived). Replace with spectro LAB before production claims."
+      }
+    },
+    {
+      "code": "T5K",
+      "marketingName": "Mallorca Blue",
+      "finish": "metallic",
+      "lab": {
+        "L": 32.63,
+        "a": 2.27,
+        "b": -28.8,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "hex_derived",
+        "confidence": "derived",
+        "recordedAt": "2026-04-20",
+        "notes": "Derived from #2B4E7A (hex_derived). Replace with spectro LAB before production claims."
+      }
+    },
+    {
+      "code": "R2G",
+      "marketingName": "Savile Silver",
+      "finish": "metallic",
+      "lab": {
+        "L": 60.41,
+        "a": -0.24,
+        "b": -3.67,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "hex_derived",
+        "confidence": "derived",
+        "recordedAt": "2026-04-20",
+        "notes": "Derived from #8E9298 (hex_derived). Replace with spectro LAB before production claims."
+      }
+    },
+    {
+      "code": "YG7",
+      "marketingName": "Matira Green",
+      "finish": "metallic",
+      "lab": {
+        "L": 27.15,
+        "a": -11.86,
+        "b": 5.13,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "hex_derived",
+        "confidence": "derived",
+        "recordedAt": "2026-04-20",
+        "notes": "Derived from #2F4538 (hex_derived). Replace with spectro LAB before production claims."
+      }
+    }
+  ]
+}

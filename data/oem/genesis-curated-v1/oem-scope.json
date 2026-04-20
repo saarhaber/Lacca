@@ -1,0 +1,20 @@
+{
+  "$schema": "../../../schemas/oem-scope-v1.schema.json",
+  "scopeId": "genesis-curated-v1",
+  "oem": "Genesis",
+  "region": "Global",
+  "modelYears": {
+    "from": 2017,
+    "to": 2026
+  },
+  "models": [
+    "G70",
+    "G80",
+    "G90",
+    "GV60",
+    "GV70",
+    "GV80"
+  ],
+  "notes": "Genesis exterior colors, curated from configurator references. LAB values are HEX-derived approximations.",
+  "exteriorPaintFile": "./exterior-paints-v1.json"
+}

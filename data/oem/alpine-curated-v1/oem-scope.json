@@ -1,0 +1,16 @@
+{
+  "$schema": "../../../schemas/oem-scope-v1.schema.json",
+  "scopeId": "alpine-curated-v1",
+  "oem": "Alpine",
+  "region": "Global",
+  "modelYears": {
+    "from": 1955,
+    "to": 2026
+  },
+  "models": [
+    "A110",
+    "A290"
+  ],
+  "notes": "Alpine exterior colors, curated from industry touch-up references. LAB values are HEX-derived approximations; replace with spectro data before production claims.",
+  "exteriorPaintFile": "./exterior-paints-v1.json"
+}

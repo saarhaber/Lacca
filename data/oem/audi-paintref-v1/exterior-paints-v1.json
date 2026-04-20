@@ -38,23 +38,6 @@
       }
     },
     {
-      "code": "PX8",
-      "marketingName": "Gloss Black",
-      "finish": "solid",
-      "lab": {
-        "L": 0,
-        "a": 0,
-        "b": 0,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #000000 (PaintRef hex, OEM=Audi, code=PX8 (models=200; year=2015)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:Audi:200:PX8"
-      }
-    },
-    {
       "code": "PXT",
       "marketingName": "Phantom Black",
       "finish": "solid",
@@ -310,23 +293,6 @@
       }
     },
     {
-      "code": "PDM",
-      "marketingName": "Mineral Gray",
-      "finish": "solid",
-      "lab": {
-        "L": 40.77,
-        "a": 0.47,
-        "b": -2.41,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #5F6064 (PaintRef hex, OEM=Audi, code=PDM (models=200; year=2012)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:Audi:200:PDM"
-      }
-    },
-    {
       "code": "PSC",
       "marketingName": "Billet Silver",
       "finish": "solid",
@@ -408,23 +374,6 @@
         "confidence": "derived",
         "recordedAt": "2026-04-18",
         "notes": "Derived from #8C2127 (PaintRef hex, OEM=Audi, code=PRP (models=200; year=2011)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:Audi:200:PRP"
-      }
-    },
-    {
-      "code": "PRP",
-      "marketingName": "Deep Cherry Red",
-      "finish": "solid",
-      "lab": {
-        "L": 31.37,
-        "a": 44.72,
-        "b": 23.97,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #8C2127 (PaintRef hex, OEM=Audi, code=PRP (models=200; years=2012-2014)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Audi:200:PRP"
       }
     },
@@ -987,23 +936,6 @@
         "recordedAt": "2026-04-18",
         "notes": "Derived from #8597A4 (PaintRef hex, OEM=Audi, code=LX7V (models=A3, A4, A5, A6; years=2009-2014)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Audi:a3:LX7V"
-      }
-    },
-    {
-      "code": "LX7W",
-      "marketingName": "Cool Silver",
-      "finish": "solid",
-      "lab": {
-        "L": 68.26,
-        "a": -0.83,
-        "b": -2.04,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #A3A7AA (PaintRef hex, OEM=Audi, code=LX7W (models=S6; year=2013)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:Audi:s6:LX7W"
       }
     },
     {
@@ -1636,23 +1568,6 @@
       }
     },
     {
-      "code": "LY1Q",
-      "marketingName": "Dark Gray",
-      "finish": "solid",
-      "lab": {
-        "L": 37.58,
-        "a": 2.44,
-        "b": 2.18,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #5E5755 (PaintRef hex, OEM=Audi, code=LY1Q (models=A6; year=2005)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:Audi:a6:LY1Q"
-      }
-    },
-    {
       "code": "LZ8W",
       "marketingName": "Teak Brown",
       "finish": "solid",
@@ -1789,23 +1704,6 @@
       }
     },
     {
-      "code": "LZ7S",
-      "marketingName": "Daytona Gray Pearl",
-      "finish": "solid",
-      "lab": {
-        "L": 50.68,
-        "a": 2.68,
-        "b": 2.2,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #7F7775 (PaintRef hex, OEM=Audi, code=LZ7S (models=S6; year=2016)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:Audi:s6:LZ7S"
-      }
-    },
-    {
       "code": "LY7F",
       "marketingName": "Suzuka Gray",
       "finish": "solid",
@@ -1922,23 +1820,6 @@
         "recordedAt": "2026-04-18",
         "notes": "Derived from #470A0C (PaintRef hex, OEM=Audi, code=LZ3H (models=A4; years=2004-2005)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Audi:a4:LZ3H"
-      }
-    },
-    {
-      "code": "LY3C",
-      "marketingName": "Amulet Red",
-      "finish": "solid",
-      "lab": {
-        "L": 27.14,
-        "a": 43.48,
-        "b": 29.05,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #7F1616 (PaintRef hex, OEM=Audi, code=LY3C (models=A4; years=2005-2006)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:Audi:a4:LY3C"
       }
     },
     {
@@ -2061,23 +1942,6 @@
       }
     },
     {
-      "code": "LX7X",
-      "marketingName": "Sahara Silver",
-      "finish": "solid",
-      "lab": {
-        "L": 77.32,
-        "a": -0.56,
-        "b": 3.77,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #C1BFB8 (PaintRef hex, OEM=Audi, code=LX7X (models=A5, R8; years=2011-2012)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:Audi:a5:LX7X"
-      }
-    },
-    {
       "code": "L1RR",
       "marketingName": "Platinum Gray",
       "finish": "solid",
@@ -2109,23 +1973,6 @@
         "recordedAt": "2026-04-18",
         "notes": "Derived from #605960 (PaintRef hex, OEM=Audi, code=L1QP (models=A8; year=2017)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Audi:a8:L1QP"
-      }
-    },
-    {
-      "code": "LY4S",
-      "marketingName": "Shiraz Red",
-      "finish": "solid",
-      "lab": {
-        "L": 18.71,
-        "a": 40.03,
-        "b": 12.2,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #61021E (PaintRef hex, OEM=Audi, code=LY4S (models=A5; year=2016)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:Audi:a5:LY4S"
       }
     },
     {
@@ -2367,23 +2214,6 @@
       }
     },
     {
-      "code": "LY8Z",
-      "marketingName": "Java Brown",
-      "finish": "solid",
-      "lab": {
-        "L": 29.1,
-        "a": 3.78,
-        "b": 12.17,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #514232 (PaintRef hex, OEM=Audi, code=LY8Z (models=A6, A7; years=2017-2018)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:Audi:a6:LY8Z"
-      }
-    },
-    {
       "code": "LZ1U",
       "marketingName": "Karat Beige",
       "finish": "solid",
@@ -2401,23 +2231,6 @@
       }
     },
     {
-      "code": "LZ1U",
-      "marketingName": "Diamond Beige",
-      "finish": "solid",
-      "lab": {
-        "L": 72.58,
-        "a": 1.4,
-        "b": 2.8,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #B7B1AD (PaintRef hex, OEM=Audi, code=LZ1U (models=A6, A7; years=2018-2019)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:Audi:a6:LZ1U"
-      }
-    },
-    {
       "code": "LY8R",
       "marketingName": "Soho Brown",
       "finish": "solid",
@@ -2432,23 +2245,6 @@
         "recordedAt": "2026-04-18",
         "notes": "Derived from #584D4C (PaintRef hex, OEM=Audi, code=LY8R (models=A6, A7; years=2019-2023)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Audi:a6:LY8R"
-      }
-    },
-    {
-      "code": "LZ1U",
-      "marketingName": "Carat Beige",
-      "finish": "solid",
-      "lab": {
-        "L": 72.58,
-        "a": 1.4,
-        "b": 2.8,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #B7B1AD (PaintRef hex, OEM=Audi, code=LZ1U (models=A6, A7; years=2020-2021)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:Audi:a6:LZ1U"
       }
     },
     {
@@ -2690,23 +2486,6 @@
       }
     },
     {
-      "code": "LU3H",
-      "marketingName": "Grenadier Red",
-      "finish": "solid",
-      "lab": {
-        "L": 33.97,
-        "a": 46.44,
-        "b": 33.5,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #97251D (PaintRef hex, OEM=Audi, code=LU3H (models=A7, RS 6, RS 7, S6; years=2024-2025)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:Audi:a7:LU3H"
-      }
-    },
-    {
       "code": "LV5X",
       "marketingName": "Triton Blue",
       "finish": "solid",
@@ -2826,23 +2605,6 @@
       }
     },
     {
-      "code": "LZ1Y",
-      "marketingName": "Impala Beige",
-      "finish": "solid",
-      "lab": {
-        "L": 58.09,
-        "a": 7.15,
-        "b": 6.84,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #9D8780 (PaintRef hex, OEM=Audi, code=LZ1Y (models=A8; years=2008-2009)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:Audi:a8:LZ1Y"
-      }
-    },
-    {
       "code": "LY8C",
       "marketingName": "Argus Brown",
       "finish": "solid",
@@ -2857,23 +2619,6 @@
         "recordedAt": "2026-04-18",
         "notes": "Derived from #403132 (PaintRef hex, OEM=Audi, code=LY8C (models=A8; years=2015-2016)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Audi:a8:LY8C"
-      }
-    },
-    {
-      "code": "LZ1Y",
-      "marketingName": "Savannah Beige",
-      "finish": "solid",
-      "lab": {
-        "L": 65.18,
-        "a": 5.56,
-        "b": 14.31,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #B29A85 (PaintRef hex, OEM=Audi, code=LZ1Y (models=A8; years=2020-2021)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:Audi:a8:LZ1Y"
       }
     },
     {
@@ -2924,23 +2669,6 @@
         "confidence": "derived",
         "recordedAt": "2026-04-18",
         "notes": "Derived from #231E2E (PaintRef hex, OEM=Audi, code=LZ5Q (models=Q3; year=2014)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:Audi:q3:LZ5Q"
-      }
-    },
-    {
-      "code": "LZ5Q",
-      "marketingName": "Cobalt Blue",
-      "finish": "solid",
-      "lab": {
-        "L": 12.5,
-        "a": 6.63,
-        "b": -9.78,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #231E2E (PaintRef hex, OEM=Audi, code=LZ5Q (models=Q3; year=2015)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Audi:q3:LZ5Q"
       }
     },
@@ -3064,23 +2792,6 @@
       }
     },
     {
-      "code": "LB9A",
-      "marketingName": "Cortina White",
-      "finish": "solid",
-      "lab": {
-        "L": 92,
-        "a": 0,
-        "b": 0,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #E8E8E8 (PaintRef hex, OEM=Audi, code=LB9A (models=Q3; years=2016-2018)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:Audi:q3:LB9A"
-      }
-    },
-    {
       "code": "LA7C",
       "marketingName": "Pebble Gray",
       "finish": "solid",
@@ -3166,23 +2877,6 @@
       }
     },
     {
-      "code": "LX6S",
-      "marketingName": "Azores Green",
-      "finish": "solid",
-      "lab": {
-        "L": 13.18,
-        "a": -8.56,
-        "b": 5.56,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #18251A (PaintRef hex, OEM=Audi, code=LX6S (models=Q5; year=2020)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:Audi:q5:LX6S"
-      }
-    },
-    {
       "code": "LZ4X",
       "marketingName": "Aubergine Gray",
       "finish": "solid",
@@ -3234,40 +2928,6 @@
       }
     },
     {
-      "code": "LC9X",
-      "marketingName": "Deep Black",
-      "finish": "solid",
-      "lab": {
-        "L": 0,
-        "a": 0,
-        "b": 0,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #000000 (PaintRef hex, OEM=Audi, code=LC9X (models=Q7; year=2011)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:Audi:q7:LC9X"
-      }
-    },
-    {
-      "code": "LC9X",
-      "marketingName": "Deep Black Pearl",
-      "finish": "solid",
-      "lab": {
-        "L": 0,
-        "a": 0,
-        "b": 0,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #000000 (PaintRef hex, OEM=Audi, code=LC9X (models=Q7; years=2012-2015)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:Audi:q7:LC9X"
-      }
-    },
-    {
       "code": "L041",
       "marketingName": "Black",
       "finish": "solid",
@@ -3282,57 +2942,6 @@
         "recordedAt": "2026-04-18",
         "notes": "Derived from #000000 (PaintRef hex, OEM=Audi, code=L041 (models=Q7; years=2014-2017)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Audi:q7:L041"
-      }
-    },
-    {
-      "code": "LC9X",
-      "marketingName": "Orca Black",
-      "finish": "solid",
-      "lab": {
-        "L": 0,
-        "a": 0,
-        "b": 0,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #000000 (PaintRef hex, OEM=Audi, code=LC9X (models=Q7, Q8; years=2016-2021)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:Audi:q7:LC9X"
-      }
-    },
-    {
-      "code": "L041",
-      "marketingName": "Night Black",
-      "finish": "solid",
-      "lab": {
-        "L": 0,
-        "a": 0,
-        "b": 0,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #000000 (PaintRef hex, OEM=Audi, code=L041 (models=Q7, Q8; years=2018-2021)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:Audi:q7:L041"
-      }
-    },
-    {
-      "code": "LZ5Q",
-      "marketingName": "Kobalt Blue",
-      "finish": "solid",
-      "lab": {
-        "L": 12.5,
-        "a": 6.63,
-        "b": -9.78,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #231E2E (PaintRef hex, OEM=Audi, code=LZ5Q (models=Q7; years=2007-2012)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:Audi:q7:LZ5Q"
       }
     },
     {
@@ -3366,23 +2975,6 @@
         "confidence": "derived",
         "recordedAt": "2026-04-18",
         "notes": "Derived from #0F1626 (PaintRef hex, OEM=Audi, code=LH5X (models=Q7; years=2014-2015)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:Audi:q7:LH5X"
-      }
-    },
-    {
-      "code": "LH5X",
-      "marketingName": "Atlantis Blue",
-      "finish": "solid",
-      "lab": {
-        "L": 7.36,
-        "a": 2.41,
-        "b": -12.01,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #0F1626 (PaintRef hex, OEM=Audi, code=LH5X (models=Q7; year=2016)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Audi:q7:LH5X"
       }
     },
@@ -3502,23 +3094,6 @@
         "confidence": "derived",
         "recordedAt": "2026-04-18",
         "notes": "Derived from #9A928F (PaintRef hex, OEM=Audi, code=LC1Y (models=Q7; year=2018)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:Audi:q7:LC1Y"
-      }
-    },
-    {
-      "code": "LC1Y",
-      "marketingName": "Corba Beige",
-      "finish": "solid",
-      "lab": {
-        "L": 61.14,
-        "a": 2.39,
-        "b": 2.64,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #9A928F (PaintRef hex, OEM=Audi, code=LC1Y (models=Q7; year=2019)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Audi:q7:LC1Y"
       }
     },
@@ -3727,23 +3302,6 @@
       }
     },
     {
-      "code": "LC9A",
-      "marketingName": "Carrara White",
-      "finish": "solid",
-      "lab": {
-        "L": 98.99,
-        "a": 0.18,
-        "b": -0.48,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #FCFCFD (PaintRef hex, OEM=Audi, code=LC9A (models=Q7, Q8, RS Q8; years=2016-2026)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:Audi:q7:LC9A"
-      }
-    },
-    {
       "code": "L0K1",
       "marketingName": "Oryx White",
       "finish": "solid",
@@ -3829,23 +3387,6 @@
       }
     },
     {
-      "code": "LY5Q",
-      "marketingName": "Sepangblau",
-      "finish": "solid",
-      "lab": {
-        "L": 26.01,
-        "a": 10.35,
-        "b": -38.78,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #133C79 (PaintRef hex, OEM=Audi, code=LY5Q (models=R8, RS 5, S3, S4, S5, S6; years=2012-2015)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:Audi:r8:LY5Q"
-      }
-    },
-    {
       "code": "LX5M",
       "marketingName": "Sepang Blue",
       "finish": "solid",
@@ -3860,23 +3401,6 @@
         "recordedAt": "2026-04-18",
         "notes": "Derived from #38456F (PaintRef hex, OEM=Audi, code=LX5M (models=R8; years=2014-2015)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Audi:r8:LX5M"
-      }
-    },
-    {
-      "code": "LX5J",
-      "marketingName": "Ara Blue",
-      "finish": "solid",
-      "lab": {
-        "L": 34.78,
-        "a": 3.93,
-        "b": -35.88,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #22538B (PaintRef hex, OEM=Audi, code=LX5J (models=S3; year=2017)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:Audi:s3:LX5J"
       }
     },
     {
@@ -4013,23 +3537,6 @@
         "recordedAt": "2026-04-18",
         "notes": "Derived from #686F81 (PaintRef hex, OEM=Audi, code=LY7J (models=RS 4, RS 6; years=2004-2008)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:Audi:rs-4:LY7J"
-      }
-    },
-    {
-      "code": "LX7T",
-      "marketingName": "Prism Silver",
-      "finish": "solid",
-      "lab": {
-        "L": 82.05,
-        "a": 0,
-        "b": 0,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #CCCCCC (PaintRef hex, OEM=Audi, code=LX7T (models=RS 5, RS 7; years=2013-2014)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:Audi:rs-5:LX7T"
       }
     },
     {

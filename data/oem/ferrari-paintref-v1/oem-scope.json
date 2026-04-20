@@ -1,0 +1,25 @@
+{
+  "$schema": "../../../schemas/oem-scope-v1.schema.json",
+  "scopeId": "ferrari-paintref-v1",
+  "oem": "Ferrari",
+  "region": "Global",
+  "modelYears": {
+    "from": 1950,
+    "to": 2026
+  },
+  "models": [
+    "296 GTB",
+    "296 GTS",
+    "Roma",
+    "Portofino M",
+    "SF90 Stradale",
+    "SF90 Spider",
+    "F8 Tributo",
+    "F8 Spider",
+    "812 Superfast",
+    "812 GTS",
+    "Purosangue"
+  ],
+  "notes": "Ferrari exterior colors from industry touch-up references. LAB values are HEX-derived approximations.",
+  "exteriorPaintFile": "./exterior-paints-v1.json"
+}

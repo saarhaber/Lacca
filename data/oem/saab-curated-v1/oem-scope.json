@@ -1,0 +1,17 @@
+{
+  "$schema": "../../../schemas/oem-scope-v1.schema.json",
+  "scopeId": "saab-curated-v1",
+  "oem": "Saab",
+  "region": "Global",
+  "modelYears": {
+    "from": 1990,
+    "to": 2014
+  },
+  "models": [
+    "9-3",
+    "9-5",
+    "9-4X"
+  ],
+  "notes": "Saab exterior colors, curated from industry references. LAB values are HEX-derived approximations.",
+  "exteriorPaintFile": "./exterior-paints-v1.json"
+}

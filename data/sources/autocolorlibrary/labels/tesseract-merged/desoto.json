@@ -1,0 +1,87 @@
+[
+  {
+    "oem": "Desoto",
+    "modelYear": 1937,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1937-Desoto.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1937-desoto/1937-desoto-pg01.jpg",
+    "bbox": {
+      "x": 247,
+      "y": 0,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#AFA492",
+    "code": "C16",
+    "marketingName": "Unknown (OCR)",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈66; verify chip alignment."
+  },
+  {
+    "oem": "Desoto",
+    "modelYear": 1937,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1937-Desoto.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1937-desoto/1937-desoto-pg01.jpg",
+    "bbox": {
+      "x": 202,
+      "y": 0,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#AA9F8E",
+    "code": "C44",
+    "marketingName": "Unknown (OCR)",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈62; verify chip alignment."
+  },
+  {
+    "oem": "Desoto",
+    "modelYear": 1937,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1937-Desoto.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1937-desoto/1937-desoto-pg01.jpg",
+    "bbox": {
+      "x": 226,
+      "y": 0,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#ADA290",
+    "code": "C45",
+    "marketingName": "Unknown (OCR)",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈68; verify chip alignment."
+  },
+  {
+    "oem": "Desoto",
+    "modelYear": 1957,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1957-Desoto.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1957-desoto/1957-desoto-pg03.jpg",
+    "bbox": {
+      "x": 10,
+      "y": 201,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#FAF6E9",
+    "code": "a30",
+    "marketingName": "a Showing not tho be on effected: foliowing the Pireflignt new",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈0; verify chip alignment."
+  },
+  {
+    "oem": "Desoto",
+    "modelYear": 1957,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1957-Desoto.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1957-desoto/1957-desoto-pg03.jpg",
+    "bbox": {
+      "x": 345,
+      "y": 210,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#F8F6ED",
+    "code": "S048",
+    "marketingName": "color, serial 8-26 $0499, — will be Goast started Froduction with cars",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈0; verify chip alignment."
+  }
+]

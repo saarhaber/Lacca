@@ -1,0 +1,3045 @@
+[
+  {
+    "oem": "Mitsubishi",
+    "modelYear": 1993,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1993-Mitsubishi.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1993-mitsubishi/1993-Mitsubishi-pg02.jpg",
+    "bbox": {
+      "x": 312,
+      "y": 240,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#DDDAD4",
+    "code": "4696/8697",
+    "marketingName": "4695",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈58; verify chip alignment."
+  },
+  {
+    "oem": "Mitsubishi",
+    "modelYear": 2002,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2002-Mitsubishi.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2002-mitsubishi/2002-Mitsubishi-pg02.jpg",
+    "bbox": {
+      "x": 184,
+      "y": 643,
+      "w": 230,
+      "h": 210
+    },
+    "hex": "#AAB3A9",
+    "code": "5612/5613",
+    "marketingName": "Platinum Perla Blanc blanco platine White platino perle Pearl Blanco Innsbruck Blanc innsbruck innsbruck White Labrador Perla Noir labrador negro Black labrador perle Pearl Amarillo Dandelion Jaune di",
+    "finish": "pearl",
+    "notes": "Tesseract batch: code conf≈97; verify chip alignment."
+  },
+  {
+    "oem": "Mitsubishi",
+    "modelYear": 2002,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2002-Mitsubishi.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2002-mitsubishi/2002-Mitsubishi-pg02.jpg",
+    "bbox": {
+      "x": 182,
+      "y": 262,
+      "w": 230,
+      "h": 210
+    },
+    "hex": "#D4D4CE",
+    "code": "5885/5886",
+    "marketingName": "Perla White Blanc blanco Pearl perle Perla Glacier Blanc blanco glacier White glaciar perle Pearl Negro Kalapana Noir kalapana kalapana Black Pendleton Perla Noir pendleton negro Black pendelton perle",
+    "finish": "pearl",
+    "notes": "Tesseract batch: code conf≈97; verify chip alignment."
+  },
+  {
+    "oem": "Mitsubishi",
+    "modelYear": 2002,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2002-Mitsubishi.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2002-mitsubishi/2002-Mitsubishi-pg01.jpg",
+    "bbox": {
+      "x": 0,
+      "y": 184,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#BAC1C3",
+    "code": "A02",
+    "marketingName": "Thunder 5879",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈71; verify chip alignment."
+  },
+  {
+    "oem": "Mitsubishi",
+    "modelYear": 2002,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2002-Mitsubishi.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2002-mitsubishi/2002-Mitsubishi-pg01.jpg",
+    "bbox": {
+      "x": 482,
+      "y": 184,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#DEDFE0",
+    "code": "B12",
+    "marketingName": "Gray Pearl Blue 5880 Flash",
+    "finish": "pearl",
+    "notes": "Tesseract batch: code conf≈46; verify chip alignment."
+  },
+  {
+    "oem": "Mitsubishi",
+    "modelYear": 2002,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2002-Mitsubishi.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2002-mitsubishi/2002-Mitsubishi-pg01.jpg",
+    "bbox": {
+      "x": 481,
+      "y": 569,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#EAEAEB",
+    "code": "B30",
+    "marketingName": "Athens 4621 Silver Pearl Chrome 5881",
+    "finish": "pearl",
+    "notes": "Tesseract batch: code conf≈96; verify chip alignment."
+  },
+  {
+    "oem": "Mitsubishi",
+    "modelYear": 2002,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2002-Mitsubishi.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2002-mitsubishi/2002-Mitsubishi-pg01.jpg",
+    "bbox": {
+      "x": 479,
+      "y": 2481,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#E7E7E5",
+    "code": "G41",
+    "marketingName": "Thurston 5153 Gray Mica Sherwood 5782",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈87; verify chip alignment."
+  },
+  {
+    "oem": "Mitsubishi",
+    "modelYear": 2002,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2002-Mitsubishi.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2002-mitsubishi/2002-Mitsubishi-pg01.jpg",
+    "bbox": {
+      "x": 1006,
+      "y": 184,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#E0E1E2",
+    "code": "H32",
+    "marketingName": "Met Dark 5882 Gray",
+    "finish": "metallic",
+    "notes": "Tesseract batch: code conf≈86; verify chip alignment."
+  },
+  {
+    "oem": "Mitsubishi",
+    "modelYear": 2002,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2002-Mitsubishi.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2002-mitsubishi/2002-Mitsubishi-pg01.jpg",
+    "bbox": {
+      "x": 1006,
+      "y": 569,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#F2F3F3",
+    "code": "N40",
+    "marketingName": "Blue Met Vail 5714 White Bodega 5356 Beige Met |",
+    "finish": "metallic",
+    "notes": "Tesseract batch: code conf≈90; verify chip alignment."
+  },
+  {
+    "oem": "Mitsubishi",
+    "modelYear": 2002,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2002-Mitsubishi.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2002-mitsubishi/2002-Mitsubishi-pg01.jpg",
+    "bbox": {
+      "x": 1004,
+      "y": 2481,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#F3F0F1",
+    "code": "R70",
+    "marketingName": "Green Pearl Patriot 5622 Red Pearl Summit White",
+    "finish": "pearl",
+    "notes": "Tesseract batch: code conf≈96; verify chip alignment."
+  },
+  {
+    "oem": "Mitsubishi",
+    "modelYear": 2002,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2002-Mitsubishi.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2002-mitsubishi/2002-Mitsubishi-pg01.jpg",
+    "bbox": {
+      "x": 1531,
+      "y": 184,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#E5E5E6",
+    "code": "R87",
+    "marketingName": "Met Saronno 4273 Red",
+    "finish": "metallic",
+    "notes": "Tesseract batch: code conf≈95; verify chip alignment."
+  },
+  {
+    "oem": "Mitsubishi",
+    "modelYear": 2002,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2002-Mitsubishi.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2002-mitsubishi/2002-Mitsubishi-pg02.jpg",
+    "bbox": {
+      "x": 489,
+      "y": 166,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#F0EFEE",
+    "code": "W75",
+    "marketingName": "White Pearl Glacier 90908/90909",
+    "finish": "pearl",
+    "notes": "Tesseract batch: code conf≈52; verify chip alignment."
+  },
+  {
+    "oem": "Mitsubishi",
+    "modelYear": 2002,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2002-Mitsubishi.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2002-mitsubishi/2002-Mitsubishi-pg02.jpg",
+    "bbox": {
+      "x": 1014,
+      "y": 162,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#E1E0E0",
+    "code": "X13",
+    "marketingName": "White Pearl Kalapana",
+    "finish": "pearl",
+    "notes": "Tesseract batch: code conf≈86; verify chip alignment."
+  },
+  {
+    "oem": "Mitsubishi",
+    "modelYear": 2002,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2002-Mitsubishi.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2002-mitsubishi/2002-Mitsubishi-pg02.jpg",
+    "bbox": {
+      "x": 1539,
+      "y": 159,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#DBDCDC",
+    "code": "X48",
+    "marketingName": "Black Pendleton 5715 Black Pearl",
+    "finish": "pearl",
+    "notes": "Tesseract batch: code conf≈94; verify chip alignment."
+  },
+  {
+    "oem": "Mitsubishi",
+    "modelYear": 2003,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2003-Mitsubishi.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2003-mitsubishi/2003-Mitsubishi-pg03.jpg",
+    "bbox": {
+      "x": 462,
+      "y": 57,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#E1DFE3",
+    "code": "5612/5613",
+    "marketingName": "- g sm Boge Belge 5169 bodoga soudan Beige Met Ma met met mat Royal Bou Light Su ive Blue lar pera Pest Mot mot met Peta Dover Bare cover arco 5658 We pina are Pea! Pear pera, me Latradr Nov walpana 5",
+    "finish": "metallic",
+    "notes": "Tesseract batch: code conf≈72; verify chip alignment."
+  },
+  {
+    "oem": "Mitsubishi",
+    "modelYear": 2003,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2003-Mitsubishi.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2003-mitsubishi/2003-Mitsubishi-pg03.jpg",
+    "bbox": {
+      "x": 461,
+      "y": 0,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#E1DEE3",
+    "code": "5885/5886",
+    "marketingName": "- 823 Boge 5356 bodoga Beige Ma met mat 119 Light Su 6195 Blue lar Mot mot met A Peta arco pina Pear pera, 3 Nov walpana Back",
+    "finish": "metallic",
+    "notes": "Tesseract batch: code conf≈63; verify chip alignment."
+  },
+  {
+    "oem": "Mitsubishi",
+    "modelYear": 2008,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2008-Mitsubishi.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2008-mitsubishi/2008-Mitsubishi-pg01.jpg",
+    "bbox": {
+      "x": 273,
+      "y": 329,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#B9BAC3",
+    "code": "A31",
+    "marketingName": "ae Apex 6199 EVO,L,O Silver Met B/C",
+    "finish": "metallic",
+    "notes": "Tesseract batch: code conf≈86; verify chip alignment."
+  },
+  {
+    "oem": "Mitsubishi",
+    "modelYear": 2008,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2008-Mitsubishi.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2008-mitsubishi/2008-Mitsubishi-pg01.jpg",
+    "bbox": {
+      "x": 687,
+      "y": 327,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#D3D2D7",
+    "code": "A33",
+    "marketingName": "Liquid Silver Pearl",
+    "finish": "pearl",
+    "notes": "Tesseract batch: code conf≈92; verify chip alignment."
+  },
+  {
+    "oem": "Mitsubishi",
+    "modelYear": 2008,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2008-Mitsubishi.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2008-mitsubishi/2008-Mitsubishi-pg01.jpg",
+    "bbox": {
+      "x": 1100,
+      "y": 325,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#828187",
+    "code": "A39",
+    "marketingName": "B/C Graphite EVO,L,O Gray Pearl",
+    "finish": "pearl",
+    "notes": "Tesseract batch: code conf≈92; verify chip alignment."
+  },
+  {
+    "oem": "Mitsubishi",
+    "modelYear": 2008,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2008-Mitsubishi.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2008-mitsubishi/2008-Mitsubishi-pg01.jpg",
+    "bbox": {
+      "x": 1512,
+      "y": 323,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#878894",
+    "code": "A56",
+    "marketingName": "B/C Still EC,G,S Blue Pearl B/C Aqua L Met B/C",
+    "finish": "pearl",
+    "notes": "Tesseract batch: code conf≈82; verify chip alignment."
+  },
+  {
+    "oem": "Mitsubishi",
+    "modelYear": 2008,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2008-Mitsubishi.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2008-mitsubishi/2008-Mitsubishi-pg01.jpg",
+    "bbox": {
+      "x": 691,
+      "y": 892,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#606A95",
+    "code": "D06",
+    "marketingName": "= Satin EC,E,G,S Meisai Pearl B/C Octane EVO Blue Pearl B/C Sunburst DV6 R Orange Pearl",
+    "finish": "pearl",
+    "notes": "Tesseract batch: code conf≈47; verify chip alignment."
+  },
+  {
+    "oem": "Mitsubishi",
+    "modelYear": 2008,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2008-Mitsubishi.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2008-mitsubishi/2008-Mitsubishi-pg01.jpg",
+    "bbox": {
+      "x": 1925,
+      "y": 885,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#999998",
+    "code": "F17",
+    "marketingName": "B/C EYB Detonator R Yellow B/C Optmist EC,S Green Pearl B/C",
+    "finish": "pearl",
+    "notes": "Tesseract batch: code conf≈91; verify chip alignment."
+  },
+  {
+    "oem": "Mitsubishi",
+    "modelYear": 2008,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2008-Mitsubishi.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2008-mitsubishi/2008-Mitsubishi-pg01.jpg",
+    "bbox": {
+      "x": 693,
+      "y": 2585,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#69686F",
+    "code": "T65",
+    "marketingName": "—~ — Canyon E Beige Pear! B/C Deep Blue Pearl B/C",
+    "finish": "pearl",
+    "notes": "Tesseract batch: code conf≈88; verify chip alignment."
+  },
+  {
+    "oem": "Mitsubishi",
+    "modelYear": 2008,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2008-Mitsubishi.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2008-mitsubishi/2008-Mitsubishi-pg01.jpg",
+    "bbox": {
+      "x": 1105,
+      "y": 2582,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#6D6C88",
+    "code": "T70",
+    "marketingName": "Electric L Blue Pearl",
+    "finish": "pearl",
+    "notes": "Tesseract batch: code conf≈87; verify chip alignment."
+  },
+  {
+    "oem": "Mitsubishi",
+    "modelYear": 2008,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2008-Mitsubishi.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2008-mitsubishi/2008-Mitsubishi-pg01.jpg",
+    "bbox": {
+      "x": 1520,
+      "y": 2579,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#5C5A5D",
+    "code": "U02",
+    "marketingName": "B/C Phantom EVO Black Pearl",
+    "finish": "pearl",
+    "notes": "Tesseract batch: code conf≈46; verify chip alignment."
+  },
+  {
+    "oem": "Mitsubishi",
+    "modelYear": 2008,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2008-Mitsubishi.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2008-mitsubishi/2008-Mitsubishi-pg01.jpg",
+    "bbox": {
+      "x": 1932,
+      "y": 2577,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#F3F1F4",
+    "code": "U03",
+    "marketingName": "B/C Monitoba (a) Green Pearl B/C",
+    "finish": "pearl",
+    "notes": "Tesseract batch: code conf≈83; verify chip alignment."
+  },
+  {
+    "oem": "Mitsubishi",
+    "modelYear": 2008,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2008-Mitsubishi.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2008-mitsubishi/2008-Mitsubishi-pg02.jpg",
+    "bbox": {
+      "x": 372,
+      "y": 327,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#B6B4BA",
+    "code": "U04",
+    "marketingName": "Quick Silver Pearl EC,E,S B/C Northstar White EC,G,S 4037",
+    "finish": "pearl",
+    "notes": "Tesseract batch: code conf≈70; verify chip alignment."
+  },
+  {
+    "oem": "Mitsubishi",
+    "modelYear": 2008,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2008-Mitsubishi.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2008-mitsubishi/2008-Mitsubishi-pg02.jpg",
+    "bbox": {
+      "x": 1191,
+      "y": 324,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#FCFCFB",
+    "code": "W13",
+    "marketingName": "B/C Diamond White Pearl 5885 3ct",
+    "finish": "pearl",
+    "notes": "Tesseract batch: code conf≈76; verify chip alignment."
+  },
+  {
+    "oem": "Mitsubishi",
+    "modelYear": 2008,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2008-Mitsubishi.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2008-mitsubishi/2008-Mitsubishi-pg02.jpg",
+    "bbox": {
+      "x": 1603,
+      "y": 324,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#FEFEFF",
+    "code": "W37",
+    "marketingName": "Wicked White EVO,L B/C",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈88; verify chip alignment."
+  },
+  {
+    "oem": "Mitsubishi",
+    "modelYear": 2008,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2008-Mitsubishi.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2008-mitsubishi/2008-Mitsubishi-pg02.jpg",
+    "bbox": {
+      "x": 2016,
+      "y": 323,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#E2DFD8",
+    "code": "W69",
+    "marketingName": "Dover White Pearl 5658 EG 3ct",
+    "finish": "pearl",
+    "notes": "Tesseract batch: code conf≈66; verify chip alignment."
+  },
+  {
+    "oem": "Mitsubishi",
+    "modelYear": 2009,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2009-Mitsubishi.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2009-mitsubishi/2009-Mitsubishi-pg01.jpg",
+    "bbox": {
+      "x": 277,
+      "y": 349,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#BFC0C9",
+    "code": "A31",
+    "marketingName": "Apex 6199 EVO,L,O Silver Met B/C",
+    "finish": "metallic",
+    "notes": "Tesseract batch: code conf≈92; verify chip alignment."
+  },
+  {
+    "oem": "Mitsubishi",
+    "modelYear": 2009,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2009-Mitsubishi.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2009-mitsubishi/2009-Mitsubishi-pg01.jpg",
+    "bbox": {
+      "x": 691,
+      "y": 347,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#74737A",
+    "code": "A39",
+    "marketingName": "Graphite EVO,L,O Gray Pearl",
+    "finish": "pearl",
+    "notes": "Tesseract batch: code conf≈91; verify chip alignment."
+  },
+  {
+    "oem": "Mitsubishi",
+    "modelYear": 2009,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2009-Mitsubishi.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2009-mitsubishi/2009-Mitsubishi-pg01.jpg",
+    "bbox": {
+      "x": 1103,
+      "y": 345,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#7B8B98",
+    "code": "A86",
+    "marketingName": "B/C Aqua L Met B/C",
+    "finish": "metallic",
+    "notes": "Tesseract batch: code conf≈70; verify chip alignment."
+  },
+  {
+    "oem": "Mitsubishi",
+    "modelYear": 2009,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2009-Mitsubishi.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2009-mitsubishi/2009-Mitsubishi-pg01.jpg",
+    "bbox": {
+      "x": 1515,
+      "y": 343,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#8C8E96",
+    "code": "A88",
+    "marketingName": "Satin E,EC,G,S Meisai Pearl B/C Octane EVO,L Blue Pearl B/C",
+    "finish": "pearl",
+    "notes": "Tesseract batch: code conf≈91; verify chip alignment."
+  },
+  {
+    "oem": "Mitsubishi",
+    "modelYear": 2009,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2009-Mitsubishi.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2009-mitsubishi/2009-Mitsubishi-pg01.jpg",
+    "bbox": {
+      "x": 697,
+      "y": 911,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#A75356",
+    "code": "M03",
+    "marketingName": "Maizen Blue Pearl B/C Sunset EC,S Pearl B/C",
+    "finish": "pearl",
+    "notes": "Tesseract batch: code conf≈70; verify chip alignment."
+  },
+  {
+    "oem": "Mitsubishi",
+    "modelYear": 2009,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2009-Mitsubishi.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2009-mitsubishi/2009-Mitsubishi-pg01.jpg",
+    "bbox": {
+      "x": 1517,
+      "y": 908,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#995A5C",
+    "code": "P26",
+    "marketingName": "Rotor EVO,L Glow Pearl B/C Rally EVO,L,O Red Met B/C",
+    "finish": "pearl",
+    "notes": "Tesseract batch: code conf≈97; verify chip alignment."
+  },
+  {
+    "oem": "Mitsubishi",
+    "modelYear": 2009,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2009-Mitsubishi.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2009-mitsubishi/2009-Mitsubishi-pg01.jpg",
+    "bbox": {
+      "x": 1928,
+      "y": 906,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#92585A",
+    "code": "P36",
+    "marketingName": "Rave EEC,G,S Red Pear! B/C",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈97; verify chip alignment."
+  },
+  {
+    "oem": "Mitsubishi",
+    "modelYear": 2009,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2009-Mitsubishi.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2009-mitsubishi/2009-Mitsubishi-pg01.jpg",
+    "bbox": {
+      "x": 285,
+      "y": 2605,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#707073",
+    "code": "U03",
+    "marketingName": "— = Monitoba 0 Green Pearl",
+    "finish": "pearl",
+    "notes": "Tesseract batch: code conf≈87; verify chip alignment."
+  },
+  {
+    "oem": "Mitsubishi",
+    "modelYear": 2009,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2009-Mitsubishi.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2009-mitsubishi/2009-Mitsubishi-pg01.jpg",
+    "bbox": {
+      "x": 698,
+      "y": 2603,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#C8C6CA",
+    "code": "U04",
+    "marketingName": "B/C Quick E,EC,G,S Silver Pearl B/C",
+    "finish": "pearl",
+    "notes": "Tesseract batch: code conf≈40; verify chip alignment."
+  },
+  {
+    "oem": "Mitsubishi",
+    "modelYear": 2009,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2009-Mitsubishi.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2009-mitsubishi/2009-Mitsubishi-pg01.jpg",
+    "bbox": {
+      "x": 1524,
+      "y": 2598,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#FDFCFC",
+    "code": "W13",
+    "marketingName": "4037 Northstar ECS White B/C 5885 Diamond 0 White Pearl",
+    "finish": "pearl",
+    "notes": "Tesseract batch: code conf≈88; verify chip alignment."
+  },
+  {
+    "oem": "Mitsubishi",
+    "modelYear": 2009,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2009-Mitsubishi.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2009-mitsubishi/2009-Mitsubishi-pg01.jpg",
+    "bbox": {
+      "x": 1937,
+      "y": 2596,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#FEFEFF",
+    "code": "W37",
+    "marketingName": "3ct Wicked EVO,L White B/C",
+    "finish": "pearl",
+    "notes": "Tesseract batch: code conf≈91; verify chip alignment."
+  },
+  {
+    "oem": "Mitsubishi",
+    "modelYear": 2009,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2009-Mitsubishi.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2009-mitsubishi/2009-Mitsubishi-pg02.jpg",
+    "bbox": {
+      "x": 362,
+      "y": 345,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#D8D5CF",
+    "code": "W69",
+    "marketingName": "Dover White Pearl 5658 EG 3ct",
+    "finish": "pearl",
+    "notes": "Tesseract batch: code conf≈71; verify chip alignment."
+  },
+  {
+    "oem": "Mitsubishi",
+    "modelYear": 2009,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2009-Mitsubishi.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2009-mitsubishi/2009-Mitsubishi-pg02.jpg",
+    "bbox": {
+      "x": 779,
+      "y": 344,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#5A585D",
+    "code": "X13",
+    "marketingName": "Kalapana Black E,EC,G,S B/C",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈96; verify chip alignment."
+  },
+  {
+    "oem": "Mitsubishi",
+    "modelYear": 2009,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2009-Mitsubishi.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2009-mitsubishi/2009-Mitsubishi-pg02.jpg",
+    "bbox": {
+      "x": 1191,
+      "y": 343,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#666569",
+    "code": "X42",
+    "marketingName": "Tarmac Black Pearl 5785 L,0 B/C",
+    "finish": "pearl",
+    "notes": "Tesseract batch: code conf≈79; verify chip alignment."
+  },
+  {
+    "oem": "Mitsubishi",
+    "modelYear": 2009,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2009-Mitsubishi.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2009-mitsubishi/2009-Mitsubishi-pg02.jpg",
+    "bbox": {
+      "x": 1603,
+      "y": 343,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#FCAD45",
+    "code": "Y19",
+    "marketingName": "Solar EC,S B/C",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈86; verify chip alignment."
+  },
+  {
+    "oem": "Mitsubishi",
+    "modelYear": 2010,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2010-Mitsubishi.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2010-mitsubishi/2010-Mitsubishi-pg01.jpg",
+    "bbox": {
+      "x": 275,
+      "y": 336,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#BCBCC6",
+    "code": "A31",
+    "marketingName": "__ Apex 6199 EVO,L,O Silver Met B/C",
+    "finish": "metallic",
+    "notes": "Tesseract batch: code conf≈90; verify chip alignment."
+  },
+  {
+    "oem": "Mitsubishi",
+    "modelYear": 2010,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2010-Mitsubishi.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2010-mitsubishi/2010-Mitsubishi-pg01.jpg",
+    "bbox": {
+      "x": 689,
+      "y": 335,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#6E6D74",
+    "code": "A39",
+    "marketingName": "Graphite EVO,L,O Gray Pearl",
+    "finish": "pearl",
+    "notes": "Tesseract batch: code conf≈89; verify chip alignment."
+  },
+  {
+    "oem": "Mitsubishi",
+    "modelYear": 2010,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2010-Mitsubishi.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2010-mitsubishi/2010-Mitsubishi-pg01.jpg",
+    "bbox": {
+      "x": 1101,
+      "y": 333,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#8F9DA9",
+    "code": "A88",
+    "marketingName": "B/C Satin G Meisai Pearl",
+    "finish": "pearl",
+    "notes": "Tesseract batch: code conf≈73; verify chip alignment."
+  },
+  {
+    "oem": "Mitsubishi",
+    "modelYear": 2010,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2010-Mitsubishi.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2010-mitsubishi/2010-Mitsubishi-pg01.jpg",
+    "bbox": {
+      "x": 1514,
+      "y": 331,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#696265",
+    "code": "C06",
+    "marketingName": "B/C () Quartz Brown Pearl B/C Octane EVO,L Blue Pearl B/C",
+    "finish": "pearl",
+    "notes": "Tesseract batch: code conf≈92; verify chip alignment."
+  },
+  {
+    "oem": "Mitsubishi",
+    "modelYear": 2010,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2010-Mitsubishi.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2010-mitsubishi/2010-Mitsubishi-pg01.jpg",
+    "bbox": {
+      "x": 1107,
+      "y": 898,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#A95153",
+    "code": "M03",
+    "marketingName": "—_ Maizen E,EC,G,S Blue Pearl B/C Cosmic 0 Blue Pearl B/C Sunset EC,S Pearl B/C",
+    "finish": "pearl",
+    "notes": "Tesseract batch: code conf≈74; verify chip alignment."
+  },
+  {
+    "oem": "Mitsubishi",
+    "modelYear": 2010,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2010-Mitsubishi.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2010-mitsubishi/2010-Mitsubishi-pg01.jpg",
+    "bbox": {
+      "x": 1927,
+      "y": 894,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#9E5F61",
+    "code": "P26",
+    "marketingName": "Rotor EVO,L Glow Pearl B/C Rally EVO,L,O Red Met B/C",
+    "finish": "pearl",
+    "notes": "Tesseract batch: code conf≈97; verify chip alignment."
+  },
+  {
+    "oem": "Mitsubishi",
+    "modelYear": 2010,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2010-Mitsubishi.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2010-mitsubishi/2010-Mitsubishi-pg01.jpg",
+    "bbox": {
+      "x": 279,
+      "y": 1466,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#996365",
+    "code": "P36",
+    "marketingName": "~ = Rave EC,G,S Red Pearl B/C G",
+    "finish": "pearl",
+    "notes": "Tesseract batch: code conf≈97; verify chip alignment."
+  },
+  {
+    "oem": "Mitsubishi",
+    "modelYear": 2010,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2010-Mitsubishi.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2010-mitsubishi/2010-Mitsubishi-pg01.jpg",
+    "bbox": {
+      "x": 1104,
+      "y": 1463,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#58575A",
+    "code": "U02",
+    "marketingName": "Canyon Beige Pearl B/C Phantom EVO Black Pear!",
+    "finish": "pearl",
+    "notes": "Tesseract batch: code conf≈43; verify chip alignment."
+  },
+  {
+    "oem": "Mitsubishi",
+    "modelYear": 2010,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2010-Mitsubishi.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2010-mitsubishi/2010-Mitsubishi-pg01.jpg",
+    "bbox": {
+      "x": 1517,
+      "y": 1461,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#CAC7CB",
+    "code": "U04",
+    "marketingName": "B/C Quick E,EC,G Silver Pearl B/C",
+    "finish": "pearl",
+    "notes": "Tesseract batch: code conf≈64; verify chip alignment."
+  },
+  {
+    "oem": "Mitsubishi",
+    "modelYear": 2010,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2010-Mitsubishi.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2010-mitsubishi/2010-Mitsubishi-pg01.jpg",
+    "bbox": {
+      "x": 1929,
+      "y": 1459,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#716C6E",
+    "code": "U09",
+    "marketingName": "Carbon E,EC,S Pearl B/C",
+    "finish": "pearl",
+    "notes": "Tesseract batch: code conf≈54; verify chip alignment."
+  },
+  {
+    "oem": "Mitsubishi",
+    "modelYear": 2010,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2010-Mitsubishi.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2010-mitsubishi/2010-Mitsubishi-pg01.jpg",
+    "bbox": {
+      "x": 280,
+      "y": 2595,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#504F53",
+    "code": "X13",
+    "marketingName": "= Kalapana E,EC,G,S Black B/C",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈94; verify chip alignment."
+  },
+  {
+    "oem": "Mitsubishi",
+    "modelYear": 2010,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2010-Mitsubishi.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2010-mitsubishi/2010-Mitsubishi-pg01.jpg",
+    "bbox": {
+      "x": 692,
+      "y": 2593,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#5A595D",
+    "code": "X42",
+    "marketingName": "Tarmac 5785 L,0 Black Pearl B/C Solar EGS B/C",
+    "finish": "pearl",
+    "notes": "Tesseract batch: code conf≈88; verify chip alignment."
+  },
+  {
+    "oem": "Mitsubishi",
+    "modelYear": 2011,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2011-Mitsubishi.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2011-mitsubishi/2011-Mitsubishi-pg01.jpg",
+    "bbox": {
+      "x": 278,
+      "y": 332,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#A2A2AE",
+    "code": "A31",
+    "marketingName": "Apex 6199 EVO,L,O Silver Met B/C",
+    "finish": "metallic",
+    "notes": "Tesseract batch: code conf≈86; verify chip alignment."
+  },
+  {
+    "oem": "Mitsubishi",
+    "modelYear": 2011,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2011-Mitsubishi.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2011-mitsubishi/2011-Mitsubishi-pg01.jpg",
+    "bbox": {
+      "x": 693,
+      "y": 331,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#5E5C62",
+    "code": "A39",
+    "marketingName": "Graphite EVO,L,O Gray Pearl",
+    "finish": "pearl",
+    "notes": "Tesseract batch: code conf≈92; verify chip alignment."
+  },
+  {
+    "oem": "Mitsubishi",
+    "modelYear": 2011,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2011-Mitsubishi.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2011-mitsubishi/2011-Mitsubishi-pg01.jpg",
+    "bbox": {
+      "x": 1106,
+      "y": 329,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#696467",
+    "code": "C06",
+    "marketingName": "B/C (a) Quartz Brown Pearl B/C",
+    "finish": "pearl",
+    "notes": "Tesseract batch: code conf≈90; verify chip alignment."
+  },
+  {
+    "oem": "Mitsubishi",
+    "modelYear": 2011,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2011-Mitsubishi.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2011-mitsubishi/2011-Mitsubishi-pg01.jpg",
+    "bbox": {
+      "x": 1932,
+      "y": 327,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#4A494B",
+    "code": "D14",
+    "marketingName": "Octane EVO,L Blue Pearl B/C Cosmic (a) Blue Pearl B/C",
+    "finish": "pearl",
+    "notes": "Tesseract batch: code conf≈90; verify chip alignment."
+  },
+  {
+    "oem": "Mitsubishi",
+    "modelYear": 2011,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2011-Mitsubishi.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2011-mitsubishi/2011-Mitsubishi-pg01.jpg",
+    "bbox": {
+      "x": 283,
+      "y": 897,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#596E81",
+    "code": "D17",
+    "marketingName": "= (a) Laguna Blue Met B/C",
+    "finish": "metallic",
+    "notes": "Tesseract batch: code conf≈82; verify chip alignment."
+  },
+  {
+    "oem": "Mitsubishi",
+    "modelYear": 2011,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2011-Mitsubishi.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2011-mitsubishi/2011-Mitsubishi-pg01.jpg",
+    "bbox": {
+      "x": 698,
+      "y": 896,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#823B3D",
+    "code": "M03",
+    "marketingName": "Sunset EC,S Pearl B/C Mos Rotor L Glow Pearl B/C Rally EVO,L,O Red Met B/C Rave EC,G,S Red Pearl B/C ae",
+    "finish": "pearl",
+    "notes": "Tesseract batch: code conf≈66; verify chip alignment."
+  },
+  {
+    "oem": "Mitsubishi",
+    "modelYear": 2011,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2011-Mitsubishi.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2011-mitsubishi/2011-Mitsubishi-pg01.jpg",
+    "bbox": {
+      "x": 1518,
+      "y": 892,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#78474A",
+    "code": "P26",
+    "marketingName": "= (a) Laguna Blue Met B/C Sunset EC,S Pearl B/C Mos Rotor L Glow Pearl B/C Rally EVO,L,O Red Met B/C",
+    "finish": "pearl",
+    "notes": "Tesseract batch: code conf≈97; verify chip alignment."
+  },
+  {
+    "oem": "Mitsubishi",
+    "modelYear": 2011,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2011-Mitsubishi.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2011-mitsubishi/2011-Mitsubishi-pg01.jpg",
+    "bbox": {
+      "x": 981,
+      "y": 2646,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#D4D0D6",
+    "code": "P36",
+    "marketingName": "=",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈82; verify chip alignment."
+  },
+  {
+    "oem": "Mitsubishi",
+    "modelYear": 2011,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2011-Mitsubishi.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2011-mitsubishi/2011-Mitsubishi-pg01.jpg",
+    "bbox": {
+      "x": 696,
+      "y": 1461,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#A19DA4",
+    "code": "U04",
+    "marketingName": "Phantom EVO Black Pearl B/C Quick EG Silver Pearl B/C",
+    "finish": "pearl",
+    "notes": "Tesseract batch: code conf≈80; verify chip alignment."
+  },
+  {
+    "oem": "Mitsubishi",
+    "modelYear": 2011,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2011-Mitsubishi.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2011-mitsubishi/2011-Mitsubishi-pg01.jpg",
+    "bbox": {
+      "x": 1108,
+      "y": 1459,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#534F51",
+    "code": "U09",
+    "marketingName": "Carbon EEC,S Pearl B/C",
+    "finish": "pearl",
+    "notes": "Tesseract batch: code conf≈57; verify chip alignment."
+  },
+  {
+    "oem": "Mitsubishi",
+    "modelYear": 2011,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2011-Mitsubishi.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2011-mitsubishi/2011-Mitsubishi-pg01.jpg",
+    "bbox": {
+      "x": 1520,
+      "y": 1457,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#5D5C64",
+    "code": "U17",
+    "marketingName": "Mercury 0 Gray Met B/C 4037 Northstar EGS White B/C",
+    "finish": "metallic",
+    "notes": "Tesseract batch: code conf≈89; verify chip alignment."
+  },
+  {
+    "oem": "Mitsubishi",
+    "modelYear": 2011,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2011-Mitsubishi.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2011-mitsubishi/2011-Mitsubishi-pg01.jpg",
+    "bbox": {
+      "x": 287,
+      "y": 2026,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#F4F1F0",
+    "code": "W13",
+    "marketingName": "5885 Diamond White Pearl",
+    "finish": "pearl",
+    "notes": "Tesseract batch: code conf≈90; verify chip alignment."
+  },
+  {
+    "oem": "Mitsubishi",
+    "modelYear": 2011,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2011-Mitsubishi.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2011-mitsubishi/2011-Mitsubishi-pg01.jpg",
+    "bbox": {
+      "x": 699,
+      "y": 2024,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#FCFBFD",
+    "code": "W37",
+    "marketingName": "3ct Wicked EVO,L White B/C",
+    "finish": "pearl",
+    "notes": "Tesseract batch: code conf≈89; verify chip alignment."
+  },
+  {
+    "oem": "Mitsubishi",
+    "modelYear": 2011,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2011-Mitsubishi.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2011-mitsubishi/2011-Mitsubishi-pg01.jpg",
+    "bbox": {
+      "x": 1112,
+      "y": 2023,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#F5F2F1",
+    "code": "W55",
+    "marketingName": "White EG Pearl 3ct",
+    "finish": "pearl",
+    "notes": "Tesseract batch: code conf≈86; verify chip alignment."
+  },
+  {
+    "oem": "Mitsubishi",
+    "modelYear": 2011,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2011-Mitsubishi.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2011-mitsubishi/2011-Mitsubishi-pg01.jpg",
+    "bbox": {
+      "x": 1058,
+      "y": 2646,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#D7D3D9",
+    "code": "X13",
+    "marketingName": "Northstar White B/C / Kalapana Black B/C",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈96; verify chip alignment."
+  },
+  {
+    "oem": "Mitsubishi",
+    "modelYear": 2011,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2011-Mitsubishi.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2011-mitsubishi/2011-Mitsubishi-pg01.jpg",
+    "bbox": {
+      "x": 1931,
+      "y": 2019,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#5C5B5D",
+    "code": "X42",
+    "marketingName": "Tarmac 5785 L,0 Black Pearl B/C",
+    "finish": "pearl",
+    "notes": "Tesseract batch: code conf≈86; verify chip alignment."
+  },
+  {
+    "oem": "Mitsubishi",
+    "modelYear": 2012,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2012-Mitsubishi.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2012-mitsubishi/2012-Mitsubishi-pg01.jpg",
+    "bbox": {
+      "x": 272,
+      "y": 342,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#C8C8D1",
+    "code": "A31",
+    "marketingName": "Apex 6199 EVO,I,L,0 Silver Met B/C",
+    "finish": "metallic",
+    "notes": "Tesseract batch: code conf≈92; verify chip alignment."
+  },
+  {
+    "oem": "Mitsubishi",
+    "modelYear": 2012,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2012-Mitsubishi.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2012-mitsubishi/2012-Mitsubishi-pg01.jpg",
+    "bbox": {
+      "x": 686,
+      "y": 342,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#8B8A91",
+    "code": "A39",
+    "marketingName": "Graphite EVO,L,O Gray Pearl",
+    "finish": "pearl",
+    "notes": "Tesseract batch: code conf≈92; verify chip alignment."
+  },
+  {
+    "oem": "Mitsubishi",
+    "modelYear": 2012,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2012-Mitsubishi.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2012-mitsubishi/2012-Mitsubishi-pg01.jpg",
+    "bbox": {
+      "x": 1099,
+      "y": 340,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#878285",
+    "code": "C06",
+    "marketingName": "B/C Quartz Brown Pearl B/C Octane EVO,L Blue Pearl B/C Ocean | Blue Pearl B/C",
+    "finish": "pearl",
+    "notes": "Tesseract batch: code conf≈91; verify chip alignment."
+  },
+  {
+    "oem": "Mitsubishi",
+    "modelYear": 2012,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2012-Mitsubishi.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2012-mitsubishi/2012-Mitsubishi-pg01.jpg",
+    "bbox": {
+      "x": 276,
+      "y": 907,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#69696D",
+    "code": "D14",
+    "marketingName": "(a) Cosmic Blue Pearl",
+    "finish": "pearl",
+    "notes": "Tesseract batch: code conf≈85; verify chip alignment."
+  },
+  {
+    "oem": "Mitsubishi",
+    "modelYear": 2012,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2012-Mitsubishi.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2012-mitsubishi/2012-Mitsubishi-pg01.jpg",
+    "bbox": {
+      "x": 688,
+      "y": 906,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#7697A8",
+    "code": "D17",
+    "marketingName": "B/C Laguna Blue Met B/C EC,S",
+    "finish": "metallic",
+    "notes": "Tesseract batch: code conf≈90; verify chip alignment."
+  },
+  {
+    "oem": "Mitsubishi",
+    "modelYear": 2012,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2012-Mitsubishi.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2012-mitsubishi/2012-Mitsubishi-pg01.jpg",
+    "bbox": {
+      "x": 1511,
+      "y": 903,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#AC7376",
+    "code": "P26",
+    "marketingName": "Sunset Pearl B/C Rally EVO,L,O Red Met B/C",
+    "finish": "pearl",
+    "notes": "Tesseract batch: code conf≈97; verify chip alignment."
+  },
+  {
+    "oem": "Mitsubishi",
+    "modelYear": 2012,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2012-Mitsubishi.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2012-mitsubishi/2012-Mitsubishi-pg01.jpg",
+    "bbox": {
+      "x": 1923,
+      "y": 902,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#AD7A7C",
+    "code": "P36",
+    "marketingName": "Rave ECGS Red Pearl B/C",
+    "finish": "pearl",
+    "notes": "Tesseract batch: code conf≈97; verify chip alignment."
+  },
+  {
+    "oem": "Mitsubishi",
+    "modelYear": 2012,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2012-Mitsubishi.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2012-mitsubishi/2012-Mitsubishi-pg01.jpg",
+    "bbox": {
+      "x": 275,
+      "y": 1471,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#807476",
+    "code": "P39",
+    "marketingName": "Raspberry / Pearl B/C",
+    "finish": "pearl",
+    "notes": "Tesseract batch: code conf≈97; verify chip alignment."
+  },
+  {
+    "oem": "Mitsubishi",
+    "modelYear": 2012,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2012-Mitsubishi.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2012-mitsubishi/2012-Mitsubishi-pg01.jpg",
+    "bbox": {
+      "x": 688,
+      "y": 1470,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#6A6A6D",
+    "code": "u02",
+    "marketingName": "Phantom EVO Black Pearl",
+    "finish": "pearl",
+    "notes": "Tesseract batch: code conf≈54; verify chip alignment."
+  },
+  {
+    "oem": "Mitsubishi",
+    "modelYear": 2012,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2012-Mitsubishi.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2012-mitsubishi/2012-Mitsubishi-pg01.jpg",
+    "bbox": {
+      "x": 1100,
+      "y": 1468,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#C7C5C9",
+    "code": "U04",
+    "marketingName": "B/C Quick G Silver Pearl B/C Carbon EC,S Pearl B/C Mercury (6) Gray Met B/C",
+    "finish": "pearl",
+    "notes": "Tesseract batch: code conf≈65; verify chip alignment."
+  },
+  {
+    "oem": "Mitsubishi",
+    "modelYear": 2012,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2012-Mitsubishi.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2012-mitsubishi/2012-Mitsubishi-pg01.jpg",
+    "bbox": {
+      "x": 1512,
+      "y": 1467,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#777274",
+    "code": "U09",
+    "marketingName": "Raspberry / Pearl B/C Phantom EVO Black Pearl B/C Quick G Silver Pearl B/C Carbon EC,S Pearl B/C",
+    "finish": "pearl",
+    "notes": "Tesseract batch: code conf≈59; verify chip alignment."
+  },
+  {
+    "oem": "Mitsubishi",
+    "modelYear": 2012,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2012-Mitsubishi.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2012-mitsubishi/2012-Mitsubishi-pg01.jpg",
+    "bbox": {
+      "x": 1924,
+      "y": 1465,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#8E8D94",
+    "code": "U17",
+    "marketingName": "Mercury (6) Gray Met B/C",
+    "finish": "metallic",
+    "notes": "Tesseract batch: code conf≈90; verify chip alignment."
+  },
+  {
+    "oem": "Mitsubishi",
+    "modelYear": 2012,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2012-Mitsubishi.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2012-mitsubishi/2012-Mitsubishi-pg01.jpg",
+    "bbox": {
+      "x": 692,
+      "y": 2033,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#FDFBFB",
+    "code": "W13",
+    "marketingName": "4037 Northstar EC,S White B/C 5885 Diamond 10 White Pearl",
+    "finish": "pearl",
+    "notes": "Tesseract batch: code conf≈91; verify chip alignment."
+  },
+  {
+    "oem": "Mitsubishi",
+    "modelYear": 2012,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2012-Mitsubishi.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2012-mitsubishi/2012-Mitsubishi-pg01.jpg",
+    "bbox": {
+      "x": 1104,
+      "y": 2031,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#FEFEFE",
+    "code": "W37",
+    "marketingName": "3ct Wicked EVO,L White B/C",
+    "finish": "pearl",
+    "notes": "Tesseract batch: code conf≈90; verify chip alignment."
+  },
+  {
+    "oem": "Mitsubishi",
+    "modelYear": 2012,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2012-Mitsubishi.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2012-mitsubishi/2012-Mitsubishi-pg01.jpg",
+    "bbox": {
+      "x": 1516,
+      "y": 2030,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#FDFCFB",
+    "code": "W55",
+    "marketingName": "White G Pearl 3ct",
+    "finish": "pearl",
+    "notes": "Tesseract batch: code conf≈90; verify chip alignment."
+  },
+  {
+    "oem": "Mitsubishi",
+    "modelYear": 2012,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2012-Mitsubishi.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2012-mitsubishi/2012-Mitsubishi-pg01.jpg",
+    "bbox": {
+      "x": 1922,
+      "y": 2028,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#6A696D",
+    "code": "X13",
+    "marketingName": "Kalapana EC,G,S Black B/C",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈97; verify chip alignment."
+  },
+  {
+    "oem": "Mitsubishi",
+    "modelYear": 2013,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2013-Mitsubishi.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2013-mitsubishi/2013-Mitsubishi-pg02.jpg",
+    "bbox": {
+      "x": 280,
+      "y": 346,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#9E9CA3",
+    "code": "A31",
+    "marketingName": "Apex 6199 Silver Met B/C",
+    "finish": "metallic",
+    "notes": "Tesseract batch: code conf≈82; verify chip alignment."
+  },
+  {
+    "oem": "Mitsubishi",
+    "modelYear": 2013,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2013-Mitsubishi.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2013-mitsubishi/2013-Mitsubishi-pg02.jpg",
+    "bbox": {
+      "x": 695,
+      "y": 345,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#6D6767",
+    "code": "C06",
+    "marketingName": "Quartz 0 Brown Pear! B/C /",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈93; verify chip alignment."
+  },
+  {
+    "oem": "Mitsubishi",
+    "modelYear": 2013,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2013-Mitsubishi.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2013-mitsubishi/2013-Mitsubishi-pg02.jpg",
+    "bbox": {
+      "x": 1521,
+      "y": 343,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#595659",
+    "code": "D14",
+    "marketingName": "Ocean Blue Pearl B/C Cosmic EVO,L,O Blue Pearl B/C Laguna Blue Met B/C",
+    "finish": "pearl",
+    "notes": "Tesseract batch: code conf≈86; verify chip alignment."
+  },
+  {
+    "oem": "Mitsubishi",
+    "modelYear": 2013,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2013-Mitsubishi.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2013-mitsubishi/2013-Mitsubishi-pg02.jpg",
+    "bbox": {
+      "x": 284,
+      "y": 911,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#95575C",
+    "code": "P26",
+    "marketingName": "Rally EVO,L,O Red Met B/C",
+    "finish": "metallic",
+    "notes": "Tesseract batch: code conf≈96; verify chip alignment."
+  },
+  {
+    "oem": "Mitsubishi",
+    "modelYear": 2013,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2013-Mitsubishi.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2013-mitsubishi/2013-Mitsubishi-pg02.jpg",
+    "bbox": {
+      "x": 697,
+      "y": 910,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#6E5E60",
+    "code": "P39",
+    "marketingName": "Raspberry | Pearl B/C",
+    "finish": "pearl",
+    "notes": "Tesseract batch: code conf≈97; verify chip alignment."
+  },
+  {
+    "oem": "Mitsubishi",
+    "modelYear": 2013,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2013-Mitsubishi.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2013-mitsubishi/2013-Mitsubishi-pg02.jpg",
+    "bbox": {
+      "x": 1109,
+      "y": 908,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#696567",
+    "code": "u02",
+    "marketingName": "Phantom EVO Black Pearl",
+    "finish": "pearl",
+    "notes": "Tesseract batch: code conf≈51; verify chip alignment."
+  },
+  {
+    "oem": "Mitsubishi",
+    "modelYear": 2013,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2013-Mitsubishi.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2013-mitsubishi/2013-Mitsubishi-pg02.jpg",
+    "bbox": {
+      "x": 1522,
+      "y": 907,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#A09C9F",
+    "code": "U04",
+    "marketingName": "B/C Quick 0 Silver Pearl B/C",
+    "finish": "pearl",
+    "notes": "Tesseract batch: code conf≈57; verify chip alignment."
+  },
+  {
+    "oem": "Mitsubishi",
+    "modelYear": 2013,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2013-Mitsubishi.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2013-mitsubishi/2013-Mitsubishi-pg02.jpg",
+    "bbox": {
+      "x": 1934,
+      "y": 906,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#7E7C80",
+    "code": "U17",
+    "marketingName": "Mercury EVO,L,O Gray Met B/C",
+    "finish": "metallic",
+    "notes": "Tesseract batch: code conf≈92; verify chip alignment."
+  },
+  {
+    "oem": "Mitsubishi",
+    "modelYear": 2013,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2013-Mitsubishi.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2013-mitsubishi/2013-Mitsubishi-pg02.jpg",
+    "bbox": {
+      "x": 702,
+      "y": 1474,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#E3E1DE",
+    "code": "W37",
+    "marketingName": "5885 Diamond 10 White Pearl 3ct Wicked EVO,L White B/C",
+    "finish": "pearl",
+    "notes": "Tesseract batch: code conf≈87; verify chip alignment."
+  },
+  {
+    "oem": "Mitsubishi",
+    "modelYear": 2013,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2013-Mitsubishi.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2013-mitsubishi/2013-Mitsubishi-pg02.jpg",
+    "bbox": {
+      "x": 1114,
+      "y": 1473,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#D1CBCC",
+    "code": "W55",
+    "marketingName": "(a) White Pearl 3ct",
+    "finish": "pearl",
+    "notes": "Tesseract batch: code conf≈89; verify chip alignment."
+  },
+  {
+    "oem": "Mitsubishi",
+    "modelYear": 2013,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2013-Mitsubishi.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2013-mitsubishi/2013-Mitsubishi-pg02.jpg",
+    "bbox": {
+      "x": 1521,
+      "y": 1471,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#5E5A5D",
+    "code": "x42",
+    "marketingName": "Tarmac 5785 L,0 Black Pearl B/C",
+    "finish": "pearl",
+    "notes": "Tesseract batch: code conf≈79; verify chip alignment."
+  },
+  {
+    "oem": "Mitsubishi",
+    "modelYear": 2014,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2014-Mitsubishi.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2014-mitsubishi/2014-Mitsubishi-pg01.jpg",
+    "bbox": {
+      "x": 24,
+      "y": 298,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#585B5F",
+    "code": "A02",
+    "marketingName": "Thunder 5879 M Gray Pri B/C",
+    "finish": "pearl",
+    "notes": "Tesseract batch: code conf≈79; verify chip alignment."
+  },
+  {
+    "oem": "Mitsubishi",
+    "modelYear": 2014,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2014-Mitsubishi.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2014-mitsubishi/2014-Mitsubishi-pg01.jpg",
+    "bbox": {
+      "x": 436,
+      "y": 298,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#A9B8C1",
+    "code": "A31",
+    "marketingName": "Apex 6199 LO Silver Met B/C",
+    "finish": "metallic",
+    "notes": "Tesseract batch: code conf≈87; verify chip alignment."
+  },
+  {
+    "oem": "Mitsubishi",
+    "modelYear": 2014,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2014-Mitsubishi.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2014-mitsubishi/2014-Mitsubishi-pg01.jpg",
+    "bbox": {
+      "x": 850,
+      "y": 298,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#ABC0CB",
+    "code": "A66",
+    "marketingName": "Starlight M Silver Met",
+    "finish": "metallic",
+    "notes": "Tesseract batch: code conf≈70; verify chip alignment."
+  },
+  {
+    "oem": "Mitsubishi",
+    "modelYear": 2014,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2014-Mitsubishi.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2014-mitsubishi/2014-Mitsubishi-pg01.jpg",
+    "bbox": {
+      "x": 1264,
+      "y": 298,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#8F716E",
+    "code": "C07",
+    "marketingName": "B/C (a) Copper Met B/C",
+    "finish": "metallic",
+    "notes": "Tesseract batch: code conf≈91; verify chip alignment."
+  },
+  {
+    "oem": "Mitsubishi",
+    "modelYear": 2014,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2014-Mitsubishi.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2014-mitsubishi/2014-Mitsubishi-pg01.jpg",
+    "bbox": {
+      "x": 1678,
+      "y": 298,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#4E5057",
+    "code": "D14",
+    "marketingName": "Cosmic L,0 Blue Pri B/C",
+    "finish": "pearl",
+    "notes": "Tesseract batch: code conf≈86; verify chip alignment."
+  },
+  {
+    "oem": "Mitsubishi",
+    "modelYear": 2014,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2014-Mitsubishi.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2014-mitsubishi/2014-Mitsubishi-pg01.jpg",
+    "bbox": {
+      "x": 25,
+      "y": 861,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#5387A9",
+    "code": "D17",
+    "marketingName": "(a) Laguna Blue Met B/C",
+    "finish": "metallic",
+    "notes": "Tesseract batch: code conf≈81; verify chip alignment."
+  },
+  {
+    "oem": "Mitsubishi",
+    "modelYear": 2014,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2014-Mitsubishi.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2014-mitsubishi/2014-Mitsubishi-pg01.jpg",
+    "bbox": {
+      "x": 437,
+      "y": 861,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#7ABA70",
+    "code": "F24",
+    "marketingName": "Kiwi M Green Met B/C",
+    "finish": "metallic",
+    "notes": "Tesseract batch: code conf≈92; verify chip alignment."
+  },
+  {
+    "oem": "Mitsubishi",
+    "modelYear": 2014,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2014-Mitsubishi.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2014-mitsubishi/2014-Mitsubishi-pg01.jpg",
+    "bbox": {
+      "x": 851,
+      "y": 861,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#96515D",
+    "code": "P19",
+    "marketingName": "Infrared M Met B/C",
+    "finish": "metallic",
+    "notes": "Tesseract batch: code conf≈96; verify chip alignment."
+  },
+  {
+    "oem": "Mitsubishi",
+    "modelYear": 2014,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2014-Mitsubishi.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2014-mitsubishi/2014-Mitsubishi-pg01.jpg",
+    "bbox": {
+      "x": 1264,
+      "y": 861,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#944C58",
+    "code": "P26",
+    "marketingName": "(Ef Rally 6) Red Pri B/C",
+    "finish": "pearl",
+    "notes": "Tesseract batch: code conf≈97; verify chip alignment."
+  },
+  {
+    "oem": "Mitsubishi",
+    "modelYear": 2014,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2014-Mitsubishi.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2014-mitsubishi/2014-Mitsubishi-pg01.jpg",
+    "bbox": {
+      "x": 1674,
+      "y": 861,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#517190",
+    "code": "T69",
+    "marketingName": "Sapphire M Pri B/C",
+    "finish": "pearl",
+    "notes": "Tesseract batch: code conf≈78; verify chip alignment."
+  },
+  {
+    "oem": "Mitsubishi",
+    "modelYear": 2014,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2014-Mitsubishi.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2014-mitsubishi/2014-Mitsubishi-pg01.jpg",
+    "bbox": {
+      "x": 24,
+      "y": 1424,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#59595C",
+    "code": "U02",
+    "marketingName": "Phantom L Black Pri",
+    "finish": "pearl",
+    "notes": "Tesseract batch: code conf≈41; verify chip alignment."
+  },
+  {
+    "oem": "Mitsubishi",
+    "modelYear": 2014,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2014-Mitsubishi.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2014-mitsubishi/2014-Mitsubishi-pg01.jpg",
+    "bbox": {
+      "x": 438,
+      "y": 1424,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#AAB5B9",
+    "code": "U04",
+    "marketingName": "B/C Quick Silver B/C",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈81; verify chip alignment."
+  },
+  {
+    "oem": "Mitsubishi",
+    "modelYear": 2014,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2014-Mitsubishi.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2014-mitsubishi/2014-Mitsubishi-pg01.jpg",
+    "bbox": {
+      "x": 850,
+      "y": 1424,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#808890",
+    "code": "U17",
+    "marketingName": "Mercury L,0 Gray Met B/C M",
+    "finish": "metallic",
+    "notes": "Tesseract batch: code conf≈90; verify chip alignment."
+  },
+  {
+    "oem": "Mitsubishi",
+    "modelYear": 2014,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2014-Mitsubishi.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2014-mitsubishi/2014-Mitsubishi-pg01.jpg",
+    "bbox": {
+      "x": 1680,
+      "y": 1424,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#FBFDF8",
+    "code": "W13",
+    "marketingName": "Plasma Purple Met B/C 5885 Diamond 0 White Prl 3ct",
+    "finish": "pearl",
+    "notes": "Tesseract batch: code conf≈89; verify chip alignment."
+  },
+  {
+    "oem": "Mitsubishi",
+    "modelYear": 2014,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2014-Mitsubishi.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2014-mitsubishi/2014-Mitsubishi-pg01.jpg",
+    "bbox": {
+      "x": 440,
+      "y": 1988,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#FFFFFE",
+    "code": "W37",
+    "marketingName": "Cloud M White B/C Wicked L White B/C",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈89; verify chip alignment."
+  },
+  {
+    "oem": "Mitsubishi",
+    "modelYear": 2014,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2014-Mitsubishi.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2014-mitsubishi/2014-Mitsubishi-pg01.jpg",
+    "bbox": {
+      "x": 853,
+      "y": 1988,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#F3F5EF",
+    "code": "W55",
+    "marketingName": "White M Prl 3ct",
+    "finish": "pearl",
+    "notes": "Tesseract batch: code conf≈88; verify chip alignment."
+  },
+  {
+    "oem": "Mitsubishi",
+    "modelYear": 2014,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2014-Mitsubishi.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2014-mitsubishi/2014-Mitsubishi-pg01.jpg",
+    "bbox": {
+      "x": 1261,
+      "y": 1987,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#4D4F4F",
+    "code": "x08",
+    "marketingName": "9986 Mystic M Black B/C",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈79; verify chip alignment."
+  },
+  {
+    "oem": "Mitsubishi",
+    "modelYear": 2014,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2014-Mitsubishi.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2014-mitsubishi/2014-Mitsubishi-pg01.jpg",
+    "bbox": {
+      "x": 1674,
+      "y": 1987,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#535453",
+    "code": "X42",
+    "marketingName": "Tarmac 5785 L,0 Black B/C",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈73; verify chip alignment."
+  },
+  {
+    "oem": "Mitsubishi",
+    "modelYear": 2015,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2015-Mitsubishi.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2015-mitsubishi/2015-Mitsubishi-pg02.jpg",
+    "bbox": {
+      "x": 282,
+      "y": 337,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#5A575B",
+    "code": "A02",
+    "marketingName": "5879 M",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈43; verify chip alignment."
+  },
+  {
+    "oem": "Mitsubishi",
+    "modelYear": 2015,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2015-Mitsubishi.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2015-mitsubishi/2015-Mitsubishi-pg02.jpg",
+    "bbox": {
+      "x": 693,
+      "y": 337,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#A3A2A9",
+    "code": "A31",
+    "marketingName": "6199 EO",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈91; verify chip alignment."
+  },
+  {
+    "oem": "Mitsubishi",
+    "modelYear": 2015,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2015-Mitsubishi.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2015-mitsubishi/2015-Mitsubishi-pg02.jpg",
+    "bbox": {
+      "x": 1107,
+      "y": 332,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#9D9FA8",
+    "code": "AG66",
+    "marketingName": "M",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈53; verify chip alignment."
+  },
+  {
+    "oem": "Mitsubishi",
+    "modelYear": 2015,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2015-Mitsubishi.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2015-mitsubishi/2015-Mitsubishi-pg02.jpg",
+    "bbox": {
+      "x": 1520,
+      "y": 335,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#765352",
+    "code": "C07",
+    "marketingName": "0",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈92; verify chip alignment."
+  },
+  {
+    "oem": "Mitsubishi",
+    "modelYear": 2015,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2015-Mitsubishi.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2015-mitsubishi/2015-Mitsubishi-pg02.jpg",
+    "bbox": {
+      "x": 1933,
+      "y": 335,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#50587E",
+    "code": "D06",
+    "marketingName": "L,0",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈59; verify chip alignment."
+  },
+  {
+    "oem": "Mitsubishi",
+    "modelYear": 2015,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2015-Mitsubishi.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2015-mitsubishi/2015-Mitsubishi-pg02.jpg",
+    "bbox": {
+      "x": 285,
+      "y": 901,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#5C595C",
+    "code": "D14",
+    "marketingName": "Cosmic 0 Blue Pri B/C",
+    "finish": "pearl",
+    "notes": "Tesseract batch: code conf≈89; verify chip alignment."
+  },
+  {
+    "oem": "Mitsubishi",
+    "modelYear": 2015,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2015-Mitsubishi.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2015-mitsubishi/2015-Mitsubishi-pg02.jpg",
+    "bbox": {
+      "x": 695,
+      "y": 901,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#90B086",
+    "code": "F24",
+    "marketingName": "Kiwi M Green Met B/C",
+    "finish": "metallic",
+    "notes": "Tesseract batch: code conf≈92; verify chip alignment."
+  },
+  {
+    "oem": "Mitsubishi",
+    "modelYear": 2015,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2015-Mitsubishi.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2015-mitsubishi/2015-Mitsubishi-pg02.jpg",
+    "bbox": {
+      "x": 1108,
+      "y": 901,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#915156",
+    "code": "P19",
+    "marketingName": "M Infrared Met B/C",
+    "finish": "metallic",
+    "notes": "Tesseract batch: code conf≈96; verify chip alignment."
+  },
+  {
+    "oem": "Mitsubishi",
+    "modelYear": 2015,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2015-Mitsubishi.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2015-mitsubishi/2015-Mitsubishi-pg02.jpg",
+    "bbox": {
+      "x": 1520,
+      "y": 900,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#94545A",
+    "code": "P26",
+    "marketingName": "Rally L,0 Red Pri B/C",
+    "finish": "pearl",
+    "notes": "Tesseract batch: code conf≈97; verify chip alignment."
+  },
+  {
+    "oem": "Mitsubishi",
+    "modelYear": 2015,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2015-Mitsubishi.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2015-mitsubishi/2015-Mitsubishi-pg02.jpg",
+    "bbox": {
+      "x": 1930,
+      "y": 899,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#536D83",
+    "code": "T69",
+    "marketingName": "Sapphire M Blue Pri B/C",
+    "finish": "pearl",
+    "notes": "Tesseract batch: code conf≈93; verify chip alignment."
+  },
+  {
+    "oem": "Mitsubishi",
+    "modelYear": 2015,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2015-Mitsubishi.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2015-mitsubishi/2015-Mitsubishi-pg02.jpg",
+    "bbox": {
+      "x": 284,
+      "y": 1466,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#5D5A5D",
+    "code": "U02",
+    "marketingName": "Phantom L Black Prl",
+    "finish": "pearl",
+    "notes": "Tesseract batch: code conf≈61; verify chip alignment."
+  },
+  {
+    "oem": "Mitsubishi",
+    "modelYear": 2015,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2015-Mitsubishi.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2015-mitsubishi/2015-Mitsubishi-pg02.jpg",
+    "bbox": {
+      "x": 697,
+      "y": 1466,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#9C989C",
+    "code": "U04",
+    "marketingName": "B/C Quick 0 Silver Pri B/C",
+    "finish": "pearl",
+    "notes": "Tesseract batch: code conf≈71; verify chip alignment."
+  },
+  {
+    "oem": "Mitsubishi",
+    "modelYear": 2015,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2015-Mitsubishi.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2015-mitsubishi/2015-Mitsubishi-pg02.jpg",
+    "bbox": {
+      "x": 1108,
+      "y": 1465,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#7A777D",
+    "code": "U17",
+    "marketingName": "Mercury Gray Met B/C M",
+    "finish": "metallic",
+    "notes": "Tesseract batch: code conf≈92; verify chip alignment."
+  },
+  {
+    "oem": "Mitsubishi",
+    "modelYear": 2015,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2015-Mitsubishi.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2015-mitsubishi/2015-Mitsubishi-pg02.jpg",
+    "bbox": {
+      "x": 1937,
+      "y": 1464,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#D6D0D0",
+    "code": "W13",
+    "marketingName": "Plasma Purple Met B/C 5885 Diamond 0 White Prl 3ct",
+    "finish": "pearl",
+    "notes": "Tesseract batch: code conf≈87; verify chip alignment."
+  },
+  {
+    "oem": "Mitsubishi",
+    "modelYear": 2015,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2015-Mitsubishi.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2015-mitsubishi/2015-Mitsubishi-pg02.jpg",
+    "bbox": {
+      "x": 287,
+      "y": 2031,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#DDDDDB",
+    "code": "w19",
+    "marketingName": "Cloud M White B/C",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈43; verify chip alignment."
+  },
+  {
+    "oem": "Mitsubishi",
+    "modelYear": 2015,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2015-Mitsubishi.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2015-mitsubishi/2015-Mitsubishi-pg02.jpg",
+    "bbox": {
+      "x": 700,
+      "y": 2030,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#E1DEDD",
+    "code": "W37",
+    "marketingName": "Wicked L White B/C",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈86; verify chip alignment."
+  },
+  {
+    "oem": "Mitsubishi",
+    "modelYear": 2015,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2015-Mitsubishi.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2015-mitsubishi/2015-Mitsubishi-pg02.jpg",
+    "bbox": {
+      "x": 1112,
+      "y": 2030,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#DAD6D4",
+    "code": "W54",
+    "marketingName": "Pearl M White Pri 3ct",
+    "finish": "pearl",
+    "notes": "Tesseract batch: code conf≈79; verify chip alignment."
+  },
+  {
+    "oem": "Mitsubishi",
+    "modelYear": 2015,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2015-Mitsubishi.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2015-mitsubishi/2015-Mitsubishi-pg02.jpg",
+    "bbox": {
+      "x": 1524,
+      "y": 2029,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#D0CACA",
+    "code": "W55",
+    "marketingName": "(6) White Prl 3ct",
+    "finish": "pearl",
+    "notes": "Tesseract batch: code conf≈91; verify chip alignment."
+  },
+  {
+    "oem": "Mitsubishi",
+    "modelYear": 2015,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2015-Mitsubishi.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2015-mitsubishi/2015-Mitsubishi-pg02.jpg",
+    "bbox": {
+      "x": 1931,
+      "y": 2028,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#595559",
+    "code": "x08",
+    "marketingName": "9986 Mystic M Black B/C",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈82; verify chip alignment."
+  },
+  {
+    "oem": "Mitsubishi",
+    "modelYear": 2016,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2016-Mitsubishi.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2016-mitsubishi/2016-Mitsubishi-pg02.jpg",
+    "bbox": {
+      "x": 271,
+      "y": 331,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#5D5A5E",
+    "code": "A02",
+    "marketingName": "Thunder 5879 M Gray Pri B/C",
+    "finish": "pearl",
+    "notes": "Tesseract batch: code conf≈76; verify chip alignment."
+  },
+  {
+    "oem": "Mitsubishi",
+    "modelYear": 2016,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2016-Mitsubishi.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2016-mitsubishi/2016-Mitsubishi-pg02.jpg",
+    "bbox": {
+      "x": 682,
+      "y": 331,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#A8A6AD",
+    "code": "A31",
+    "marketingName": "Apex 6199 {0 Silver Met B/C",
+    "finish": "metallic",
+    "notes": "Tesseract batch: code conf≈90; verify chip alignment."
+  },
+  {
+    "oem": "Mitsubishi",
+    "modelYear": 2016,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2016-Mitsubishi.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2016-mitsubishi/2016-Mitsubishi-pg02.jpg",
+    "bbox": {
+      "x": 1096,
+      "y": 331,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#A3A4AD",
+    "code": "A66",
+    "marketingName": "Starlight M Silver Met",
+    "finish": "metallic",
+    "notes": "Tesseract batch: code conf≈75; verify chip alignment."
+  },
+  {
+    "oem": "Mitsubishi",
+    "modelYear": 2016,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2016-Mitsubishi.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2016-mitsubishi/2016-Mitsubishi-pg02.jpg",
+    "bbox": {
+      "x": 1509,
+      "y": 330,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#655E5F",
+    "code": "C06",
+    "marketingName": "B/C (a) Quartz Brown Prl B/C Octane L,0 Blue B/C",
+    "finish": "pearl",
+    "notes": "Tesseract batch: code conf≈84; verify chip alignment."
+  },
+  {
+    "oem": "Mitsubishi",
+    "modelYear": 2016,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2016-Mitsubishi.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2016-mitsubishi/2016-Mitsubishi-pg02.jpg",
+    "bbox": {
+      "x": 274,
+      "y": 895,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#686568",
+    "code": "D14",
+    "marketingName": "ae — Cosmic 0 Blue Pri B/C",
+    "finish": "pearl",
+    "notes": "Tesseract batch: code conf≈78; verify chip alignment."
+  },
+  {
+    "oem": "Mitsubishi",
+    "modelYear": 2016,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2016-Mitsubishi.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2016-mitsubishi/2016-Mitsubishi-pg02.jpg",
+    "bbox": {
+      "x": 685,
+      "y": 895,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#6790A4",
+    "code": "D22",
+    "marketingName": "Aqua / Marine Blue Met",
+    "finish": "metallic",
+    "notes": "Tesseract batch: code conf≈92; verify chip alignment."
+  },
+  {
+    "oem": "Mitsubishi",
+    "modelYear": 2016,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2016-Mitsubishi.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2016-mitsubishi/2016-Mitsubishi-pg02.jpg",
+    "bbox": {
+      "x": 1096,
+      "y": 895,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#98B490",
+    "code": "F24",
+    "marketingName": "B/C Kiwi M Green Met B/C",
+    "finish": "metallic",
+    "notes": "Tesseract batch: code conf≈93; verify chip alignment."
+  },
+  {
+    "oem": "Mitsubishi",
+    "modelYear": 2016,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2016-Mitsubishi.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2016-mitsubishi/2016-Mitsubishi-pg02.jpg",
+    "bbox": {
+      "x": 1509,
+      "y": 894,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#995D62",
+    "code": "P19",
+    "marketingName": "M Infrared Met B/C",
+    "finish": "metallic",
+    "notes": "Tesseract batch: code conf≈96; verify chip alignment."
+  },
+  {
+    "oem": "Mitsubishi",
+    "modelYear": 2016,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2016-Mitsubishi.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2016-mitsubishi/2016-Mitsubishi-pg02.jpg",
+    "bbox": {
+      "x": 1921,
+      "y": 894,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#965A5F",
+    "code": "P26",
+    "marketingName": "Rally L,0 Red Pri B/C",
+    "finish": "pearl",
+    "notes": "Tesseract batch: code conf≈97; verify chip alignment."
+  },
+  {
+    "oem": "Mitsubishi",
+    "modelYear": 2016,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2016-Mitsubishi.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2016-mitsubishi/2016-Mitsubishi-pg02.jpg",
+    "bbox": {
+      "x": 270,
+      "y": 1459,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#5B7388",
+    "code": "T69",
+    "marketingName": "=\" Sapphire M Blue Pri B/C le",
+    "finish": "pearl",
+    "notes": "Tesseract batch: code conf≈91; verify chip alignment."
+  },
+  {
+    "oem": "Mitsubishi",
+    "modelYear": 2016,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2016-Mitsubishi.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2016-mitsubishi/2016-Mitsubishi-pg02.jpg",
+    "bbox": {
+      "x": 1098,
+      "y": 1459,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#A5A0A4",
+    "code": "U04",
+    "marketingName": "Phantom Black Pri B/C Quick 0 Silver Pri B/C",
+    "finish": "pearl",
+    "notes": "Tesseract batch: code conf≈57; verify chip alignment."
+  },
+  {
+    "oem": "Mitsubishi",
+    "modelYear": 2016,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2016-Mitsubishi.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2016-mitsubishi/2016-Mitsubishi-pg02.jpg",
+    "bbox": {
+      "x": 1510,
+      "y": 1458,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#817E83",
+    "code": "U17",
+    "marketingName": "Mercury L,M,O Gray Met B/C Plasma M Purple Met B/C",
+    "finish": "metallic",
+    "notes": "Tesseract batch: code conf≈88; verify chip alignment."
+  },
+  {
+    "oem": "Mitsubishi",
+    "modelYear": 2016,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2016-Mitsubishi.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2016-mitsubishi/2016-Mitsubishi-pg02.jpg",
+    "bbox": {
+      "x": 276,
+      "y": 2023,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#D5CFCE",
+    "code": "W13",
+    "marketingName": "=e Diamond 5885 1,0 White Pri",
+    "finish": "pearl",
+    "notes": "Tesseract batch: code conf≈87; verify chip alignment."
+  },
+  {
+    "oem": "Mitsubishi",
+    "modelYear": 2016,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2016-Mitsubishi.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2016-mitsubishi/2016-Mitsubishi-pg02.jpg",
+    "bbox": {
+      "x": 1101,
+      "y": 2023,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#E2DFDD",
+    "code": "W37",
+    "marketingName": "Wicked E White B/C",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈90; verify chip alignment."
+  },
+  {
+    "oem": "Mitsubishi",
+    "modelYear": 2016,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2016-Mitsubishi.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2016-mitsubishi/2016-Mitsubishi-pg02.jpg",
+    "bbox": {
+      "x": 1513,
+      "y": 2022,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#D9D4D3",
+    "code": "W54",
+    "marketingName": "Pearl M White Pri 3ct",
+    "finish": "pearl",
+    "notes": "Tesseract batch: code conf≈74; verify chip alignment."
+  },
+  {
+    "oem": "Mitsubishi",
+    "modelYear": 2016,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2016-Mitsubishi.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2016-mitsubishi/2016-Mitsubishi-pg02.jpg",
+    "bbox": {
+      "x": 1925,
+      "y": 2022,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#D2CCCB",
+    "code": "W55",
+    "marketingName": "White Prl 3ct",
+    "finish": "pearl",
+    "notes": "Tesseract batch: code conf≈91; verify chip alignment."
+  },
+  {
+    "oem": "Mitsubishi",
+    "modelYear": 2016,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2016-Mitsubishi.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2016-mitsubishi/2016-Mitsubishi-pg02.jpg",
+    "bbox": {
+      "x": 689,
+      "y": 2023,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#DEDEDB",
+    "code": "Ww19",
+    "marketingName": "3ct Cloud M White B/C",
+    "finish": "pearl",
+    "notes": "Tesseract batch: code conf≈41; verify chip alignment."
+  },
+  {
+    "oem": "Mitsubishi",
+    "modelYear": 2016,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2016-Mitsubishi.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2016-mitsubishi/2016-Mitsubishi-pg02.jpg",
+    "bbox": {
+      "x": 271,
+      "y": 2586,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#736F73",
+    "code": "x08",
+    "marketingName": "— 9986 Mystic M Black Pri B/C",
+    "finish": "pearl",
+    "notes": "Tesseract batch: code conf≈93; verify chip alignment."
+  },
+  {
+    "oem": "Mitsubishi",
+    "modelYear": 2016,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2016-Mitsubishi.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2016-mitsubishi/2016-Mitsubishi-pg02.jpg",
+    "bbox": {
+      "x": 683,
+      "y": 2586,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#6B686B",
+    "code": "X42",
+    "marketingName": "Tarmac 5785 Black Pri B/C",
+    "finish": "pearl",
+    "notes": "Tesseract batch: code conf≈80; verify chip alignment."
+  },
+  {
+    "oem": "Mitsubishi",
+    "modelYear": 2018,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2018-Mitsubishi.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2018-mitsubishi/2018-Mitsubishi-pg01.jpg",
+    "bbox": {
+      "x": 318,
+      "y": 313,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#EAE8E7",
+    "code": "A31",
+    "marketingName": "(a) Apex 6199 Silver Met B/C M",
+    "finish": "metallic",
+    "notes": "Tesseract batch: code conf≈80; verify chip alignment."
+  },
+  {
+    "oem": "Mitsubishi",
+    "modelYear": 2018,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2018-Mitsubishi.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2018-mitsubishi/2018-Mitsubishi-pg01.jpg",
+    "bbox": {
+      "x": 1199,
+      "y": 313,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#958E8C",
+    "code": "C06",
+    "marketingName": "Starlight Silver Met B/C Quartz 0 Brown Prl B/C",
+    "finish": "pearl",
+    "notes": "Tesseract batch: code conf≈94; verify chip alignment."
+  },
+  {
+    "oem": "Mitsubishi",
+    "modelYear": 2018,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2018-Mitsubishi.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2018-mitsubishi/2018-Mitsubishi-pg01.jpg",
+    "bbox": {
+      "x": 1640,
+      "y": 314,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#447ACA",
+    "code": "D06",
+    "marketingName": "Octane 0 Blue Pri B/C Cosmic 0 Blue Prl B/C",
+    "finish": "pearl",
+    "notes": "Tesseract batch: code conf≈49; verify chip alignment."
+  },
+  {
+    "oem": "Mitsubishi",
+    "modelYear": 2018,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2018-Mitsubishi.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2018-mitsubishi/2018-Mitsubishi-pg01.jpg",
+    "bbox": {
+      "x": 759,
+      "y": 822,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#BA5265",
+    "code": "P19",
+    "marketingName": "Sunrise M Orange Met B/C M Infrared Met B/C",
+    "finish": "metallic",
+    "notes": "Tesseract batch: code conf≈95; verify chip alignment."
+  },
+  {
+    "oem": "Mitsubishi",
+    "modelYear": 2018,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2018-Mitsubishi.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2018-mitsubishi/2018-Mitsubishi-pg01.jpg",
+    "bbox": {
+      "x": 1199,
+      "y": 822,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#B25461",
+    "code": "P26",
+    "marketingName": "Rally 0 Red B/C",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈97; verify chip alignment."
+  },
+  {
+    "oem": "Mitsubishi",
+    "modelYear": 2018,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2018-Mitsubishi.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2018-mitsubishi/2018-Mitsubishi-pg01.jpg",
+    "bbox": {
+      "x": 1639,
+      "y": 822,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#76565D",
+    "code": "P57",
+    "marketingName": "Wine M Red Met B/C",
+    "finish": "metallic",
+    "notes": "Tesseract batch: code conf≈95; verify chip alignment."
+  },
+  {
+    "oem": "Mitsubishi",
+    "modelYear": 2018,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2018-Mitsubishi.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2018-mitsubishi/2018-Mitsubishi-pg01.jpg",
+    "bbox": {
+      "x": 2077,
+      "y": 822,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#49A2D0",
+    "code": "T69",
+    "marketingName": "Sapphire M Blue B/C",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈90; verify chip alignment."
+  },
+  {
+    "oem": "Mitsubishi",
+    "modelYear": 2018,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2018-Mitsubishi.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2018-mitsubishi/2018-Mitsubishi-pg01.jpg",
+    "bbox": {
+      "x": 320,
+      "y": 1332,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#C2BFC5",
+    "code": "U17",
+    "marketingName": "Mercury M,O Gray Met",
+    "finish": "metallic",
+    "notes": "Tesseract batch: code conf≈88; verify chip alignment."
+  },
+  {
+    "oem": "Mitsubishi",
+    "modelYear": 2018,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2018-Mitsubishi.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2018-mitsubishi/2018-Mitsubishi-pg01.jpg",
+    "bbox": {
+      "x": 760,
+      "y": 1332,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#ECE9E6",
+    "code": "U25",
+    "marketingName": "B/C Alloy 0 Silver Met B/C",
+    "finish": "metallic",
+    "notes": "Tesseract batch: code conf≈93; verify chip alignment."
+  },
+  {
+    "oem": "Mitsubishi",
+    "modelYear": 2018,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2018-Mitsubishi.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2018-mitsubishi/2018-Mitsubishi-pg01.jpg",
+    "bbox": {
+      "x": 1203,
+      "y": 1332,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#ECEDE8",
+    "code": "W13",
+    "marketingName": "5885 Diamond 0 White Prl",
+    "finish": "pearl",
+    "notes": "Tesseract batch: code conf≈89; verify chip alignment."
+  },
+  {
+    "oem": "Mitsubishi",
+    "modelYear": 2018,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2018-Mitsubishi.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2018-mitsubishi/2018-Mitsubishi-pg01.jpg",
+    "bbox": {
+      "x": 1644,
+      "y": 1332,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#EDEFE9",
+    "code": "W54",
+    "marketingName": "3ct Pearl M White Prl 3ct",
+    "finish": "pearl",
+    "notes": "Tesseract batch: code conf≈74; verify chip alignment."
+  },
+  {
+    "oem": "Mitsubishi",
+    "modelYear": 2018,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2018-Mitsubishi.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2018-mitsubishi/2018-Mitsubishi-pg01.jpg",
+    "bbox": {
+      "x": 2079,
+      "y": 1332,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#55595C",
+    "code": "X08",
+    "marketingName": "Mystic 9986 M Black Prl B/C",
+    "finish": "pearl",
+    "notes": "Tesseract batch: code conf≈86; verify chip alignment."
+  },
+  {
+    "oem": "Mitsubishi",
+    "modelYear": 2019,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2019-Mitsubishi.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2019-mitsubishi/2019_Mitsubishi_01.jpg",
+    "bbox": {
+      "x": 390,
+      "y": 170,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#6E6964",
+    "code": "C06",
+    "marketingName": "Starlight M Silver Met B/C Quartz 0 Brown Pri B/C EC",
+    "finish": "pearl",
+    "notes": "Tesseract batch: code conf≈85; verify chip alignment."
+  },
+  {
+    "oem": "Mitsubishi",
+    "modelYear": 2019,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2019-Mitsubishi.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2019-mitsubishi/2019_Mitsubishi_01.jpg",
+    "bbox": {
+      "x": 1210,
+      "y": 171,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#607195",
+    "code": "D06",
+    "marketingName": "Bronze Met B/C Octane EC,O Blue Pri B/C Cosmic 0 Blue Prl B/C",
+    "finish": "pearl",
+    "notes": "Tesseract batch: code conf≈53; verify chip alignment."
+  },
+  {
+    "oem": "Mitsubishi",
+    "modelYear": 2019,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2019-Mitsubishi.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2019-mitsubishi/2019_Mitsubishi_01.jpg",
+    "bbox": {
+      "x": 389,
+      "y": 649,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#9B5554",
+    "code": "P19",
+    "marketingName": "Sunrise M Orange Met B/C Infrared M Met B/C",
+    "finish": "metallic",
+    "notes": "Tesseract batch: code conf≈97; verify chip alignment."
+  },
+  {
+    "oem": "Mitsubishi",
+    "modelYear": 2019,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2019-Mitsubishi.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2019-mitsubishi/2019_Mitsubishi_01.jpg",
+    "bbox": {
+      "x": 799,
+      "y": 649,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#9B5253",
+    "code": "P26",
+    "marketingName": "(a) Rally Red Pri B/C",
+    "finish": "pearl",
+    "notes": "Tesseract batch: code conf≈97; verify chip alignment."
+  },
+  {
+    "oem": "Mitsubishi",
+    "modelYear": 2019,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2019-Mitsubishi.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2019-mitsubishi/2019_Mitsubishi_01.jpg",
+    "bbox": {
+      "x": 1209,
+      "y": 648,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#6A5355",
+    "code": "P57",
+    "marketingName": "Wine M Red Met B/C",
+    "finish": "metallic",
+    "notes": "Tesseract batch: code conf≈96; verify chip alignment."
+  },
+  {
+    "oem": "Mitsubishi",
+    "modelYear": 2019,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2019-Mitsubishi.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2019-mitsubishi/2019_Mitsubishi_01.jpg",
+    "bbox": {
+      "x": 1617,
+      "y": 648,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#A15558",
+    "code": "P62",
+    "marketingName": "Red EC Diamond Prl 3ct",
+    "finish": "pearl",
+    "notes": "Tesseract batch: code conf≈97; verify chip alignment."
+  },
+  {
+    "oem": "Mitsubishi",
+    "modelYear": 2019,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2019-Mitsubishi.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2019-mitsubishi/2019_Mitsubishi_01.jpg",
+    "bbox": {
+      "x": 0,
+      "y": 1128,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#4E657E",
+    "code": "T69",
+    "marketingName": "Sapphire M Blue Prl B/C",
+    "finish": "pearl",
+    "notes": "Tesseract batch: code conf≈81; verify chip alignment."
+  },
+  {
+    "oem": "Mitsubishi",
+    "modelYear": 2019,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2019-Mitsubishi.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2019-mitsubishi/2019_Mitsubishi_01.jpg",
+    "bbox": {
+      "x": 390,
+      "y": 1127,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#848586",
+    "code": "U17",
+    "marketingName": "Mercury EC,M,O Gray Met B/C Alloy EC,O Silver Met B/C 5885 Pearl EC,O White Pri 3ct Pearl M White Prl 3ct",
+    "finish": "pearl",
+    "notes": "Tesseract batch: code conf≈73; verify chip alignment."
+  },
+  {
+    "oem": "Mitsubishi",
+    "modelYear": 2019,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2019-Mitsubishi.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2019-mitsubishi/2019_Mitsubishi_01.jpg",
+    "bbox": {
+      "x": 0,
+      "y": 1605,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#393835",
+    "code": "x08",
+    "marketingName": "9986 Mystic M Black Pri B/C",
+    "finish": "pearl",
+    "notes": "Tesseract batch: code conf≈75; verify chip alignment."
+  },
+  {
+    "oem": "Mitsubishi",
+    "modelYear": 2019,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2019-Mitsubishi.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2019-mitsubishi/2019_Mitsubishi_01.jpg",
+    "bbox": {
+      "x": 387,
+      "y": 1605,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#55524F",
+    "code": "X40",
+    "marketingName": "Black 0 B/C",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈95; verify chip alignment."
+  },
+  {
+    "oem": "Mitsubishi",
+    "modelYear": 2019,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2019-Mitsubishi.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2019-mitsubishi/2019_Mitsubishi_01.jpg",
+    "bbox": {
+      "x": 797,
+      "y": 1605,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#565450",
+    "code": "X42",
+    "marketingName": "Tarmac 5785 Black Pri B/C",
+    "finish": "pearl",
+    "notes": "Tesseract batch: code conf≈94; verify chip alignment."
+  }
+]

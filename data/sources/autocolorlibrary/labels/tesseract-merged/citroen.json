@@ -1,0 +1,36 @@
+[
+  {
+    "oem": "Citroen",
+    "modelYear": 1975,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1975-Citroen.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1975-citroen/1975-citroen-pg04.jpg",
+    "bbox": {
+      "x": 63,
+      "y": 0,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#F6ECDF",
+    "code": "030/031",
+    "marketingName": "sp",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈0; verify chip alignment."
+  },
+  {
+    "oem": "Citroen",
+    "modelYear": 1976,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1976-Citroen.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1976-citroen/1976-citroen-pg02.jpg",
+    "bbox": {
+      "x": 63,
+      "y": 0,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#F6ECDF",
+    "code": "030/031",
+    "marketingName": "sp",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈0; verify chip alignment."
+  }
+]

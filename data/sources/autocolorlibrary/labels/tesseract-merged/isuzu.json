@@ -1,0 +1,36 @@
+[
+  {
+    "oem": "Isuzu",
+    "modelYear": 2004,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2004-Isuzu.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2004-isuzu/2004-Isuzu-pg01.jpg",
+    "bbox": {
+      "x": 78,
+      "y": 545,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#F9F9F9",
+    "code": "190/920",
+    "marketingName": "= 3 ~ = ay ToL au 50U, SOL OL 901.8798, 4080 8708 9700 820F Gray Dark Ingo Gray Black Napa Gray Medium Dark Gray Bronze Met Bronze Wet Red BIC et Met Green White BIC BIC Met 0 Mist Mist Met BC Met et ",
+    "finish": "metallic",
+    "notes": "Tesseract batch: code conf≈62; verify chip alignment."
+  },
+  {
+    "oem": "Isuzu",
+    "modelYear": 2005,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2005-Isuzu.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2005-isuzu/2005-Isuzu-pg01.jpg",
+    "bbox": {
+      "x": 104,
+      "y": 313,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#FBFAFB",
+    "code": "150/925",
+    "marketingName": "~ - sau INTERIEURES Napa Oiynpie Mineral Red Wie POUR ei 2005 BC BE ISUZU — ISUZU INTERIOR 2005 / COLORES Sa 300 COLORS 708 INTERIORES ony Tice tat Met DE e ISUZU 2005",
+    "finish": "metallic",
+    "notes": "Tesseract batch: code conf≈58; verify chip alignment."
+  }
+]

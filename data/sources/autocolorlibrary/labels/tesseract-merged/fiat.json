@@ -1,0 +1,36 @@
+[
+  {
+    "oem": "Fiat",
+    "modelYear": 1974,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1974-Fiat.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1974-fiat/1974-fiat-pg06.jpg",
+    "bbox": {
+      "x": 70,
+      "y": 0,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#FBF4EB",
+    "code": "030/031",
+    "marketingName": "lars",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈0; verify chip alignment."
+  },
+  {
+    "oem": "Fiat",
+    "modelYear": 1975,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1975-Fiat.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1975-fiat/1975-fiat-pg07.jpg",
+    "bbox": {
+      "x": 70,
+      "y": 0,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#FBF4EB",
+    "code": "030/031",
+    "marketingName": "lars",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈0; verify chip alignment."
+  }
+]

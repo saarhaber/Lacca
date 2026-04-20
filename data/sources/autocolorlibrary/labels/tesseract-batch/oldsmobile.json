@@ -1,0 +1,36 @@
+[
+  {
+    "oem": "Oldsmobile",
+    "modelYear": 1949,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1949-Oldsmobile.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1949-oldsmobile/1949-Oldsmobile_pg01.jpg",
+    "bbox": {
+      "x": 191,
+      "y": 92,
+      "w": 346,
+      "h": 210
+    },
+    "hex": "#E9E0C4",
+    "code": "1949/1950",
+    "marketingName": "Factory color 1949/1950",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈80; verify chip alignment."
+  },
+  {
+    "oem": "Oldsmobile",
+    "modelYear": 1950,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1950-Oldsmobile.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1950-oldsmobile/1949-Oldsmobile_pg01.jpg",
+    "bbox": {
+      "x": 191,
+      "y": 92,
+      "w": 346,
+      "h": 210
+    },
+    "hex": "#E9E0C4",
+    "code": "1949/1950",
+    "marketingName": "Factory color 1949/1950",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈80; verify chip alignment."
+  }
+]

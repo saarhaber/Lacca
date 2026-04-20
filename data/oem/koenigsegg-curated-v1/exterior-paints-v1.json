@@ -1,0 +1,24 @@
+{
+  "$schema": "../../../schemas/exterior-paints-v1.schema.json",
+  "scopeId": "koenigsegg-curated-v1",
+  "version": "1.0.0",
+  "paints": [
+    {
+      "code": "OE-007233",
+      "marketingName": "Crystal White",
+      "finish": "pearl",
+      "lab": {
+        "L": 97.88,
+        "a": -0.15,
+        "b": -0.59,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "hex_derived",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Derived from #F8F9FA. Ultra-bright white pearl with multi-color pearlescent shimmering ice effect.",
+        "provenanceId": "lacca:user-curated:koenigsegg:Crystal-White-OE007233"
+      }
+    }
+  ]
+}

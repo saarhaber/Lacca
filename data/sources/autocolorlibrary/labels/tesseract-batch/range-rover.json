@@ -1,0 +1,19 @@
+[
+  {
+    "oem": "Range Rover",
+    "modelYear": 2013,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2013-Range-Rover.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2013-range-rover/2013-Rangerover-pg02.jpg",
+    "bbox": {
+      "x": 713,
+      "y": 2600,
+      "w": 193,
+      "h": 210
+    },
+    "hex": "#DDDBDC",
+    "code": "112/870",
+    "marketingName": "Fuji White",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈91; verify chip alignment."
+  }
+]

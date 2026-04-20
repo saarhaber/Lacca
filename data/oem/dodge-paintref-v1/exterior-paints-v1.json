@@ -922,23 +922,6 @@
       }
     },
     {
-      "code": "PW7",
-      "marketingName": "Bright White",
-      "finish": "solid",
-      "lab": {
-        "L": 97.14,
-        "a": -0.31,
-        "b": -1.19,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_chip",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from chip-image average #F5F7F9 (PaintRef chip, OEM=Dodge, code=PW7 (models=Dakota; years=2001-2025), pixels=306, chipUrl=https://www.paintref.com/chipimages/4W424C.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref-chip:bd32ba131bff11da"
-      }
-    },
-    {
       "code": "PBW",
       "marketingName": "Sapphire Blue",
       "finish": "solid",
@@ -953,23 +936,6 @@
         "recordedAt": "2026-04-18",
         "notes": "Derived from chip-image average #102944 (PaintRef chip, OEM=Dodge, code=PBW (models=Dodge; year=2001), pixels=306, chipUrl=https://www.paintref.com/chipimages/XG5CFF.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
         "provenanceId": "paintref-chip:16c995d27aa67983"
-      }
-    },
-    {
-      "code": "PE1",
-      "marketingName": "Colorado",
-      "finish": "solid",
-      "lab": {
-        "L": 32.99,
-        "a": 51.33,
-        "b": 38.22,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_chip",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from chip-image average #9A1713 (PaintRef chip, OEM=Dodge, code=PE1 (models=Dodge; years=2001-2003), pixels=306, chipUrl=https://www.paintref.com/chipimages/CEX2XD.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref-chip:42e6625f1a1f3288"
       }
     },
     {
@@ -1140,23 +1106,6 @@
         "recordedAt": "2026-04-18",
         "notes": "Derived from chip-image average #184F9C (PaintRef chip, OEM=Dodge, code=BE (models=Dodge; years=2002-2010), pixels=306, chipUrl=https://www.paintref.com/chipimages/X3F4CH.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
         "provenanceId": "paintref-chip:e7f493a18ef35978"
-      }
-    },
-    {
-      "code": "PBW",
-      "marketingName": "Deep Sapphire Blue",
-      "finish": "solid",
-      "lab": {
-        "L": 16.07,
-        "a": 0.94,
-        "b": -19.82,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_chip",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from chip-image average #102944 (PaintRef chip, OEM=Dodge, code=PBW (models=Dodge; years=2002-2004), pixels=306, chipUrl=https://www.paintref.com/chipimages/XG5CFF.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref-chip:16c995d27aa67983"
       }
     },
     {
@@ -1415,23 +1364,6 @@
       }
     },
     {
-      "code": "PR8",
-      "marketingName": "Deep Molten Red",
-      "finish": "solid",
-      "lab": {
-        "L": 25.31,
-        "a": 36.15,
-        "b": 8.35,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_chip",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from chip-image average #6E1F31 (PaintRef chip, OEM=Dodge, code=PR8 (models=Caravan; years=2004-2012), pixels=306, chipUrl=https://www.paintref.com/chipimages/SUX4DX.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref-chip:0017409b573a9937"
-      }
-    },
-    {
       "code": "WA",
       "marketingName": "Viper Bright White",
       "finish": "solid",
@@ -1483,23 +1415,6 @@
       }
     },
     {
-      "code": "PBD",
-      "marketingName": "Marathon Blue",
-      "finish": "solid",
-      "lab": {
-        "L": 41.91,
-        "a": 7.27,
-        "b": -42.5,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_chip",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from chip-image average #3163A9 (PaintRef chip, OEM=Dodge, code=PBD (models=Dodge; years=2004-2008), pixels=306, chipUrl=https://www.paintref.com/chipimages/DXSDEC.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref-chip:e8d8c6c158b3a450"
-      }
-    },
-    {
       "code": "PDM",
       "marketingName": "Mineral Gray",
       "finish": "solid",
@@ -1548,23 +1463,6 @@
         "recordedAt": "2026-04-18",
         "notes": "Derived from chip-image average #5D7A78 (PaintRef chip, OEM=Dodge, code=PPK (models=Dodge; years=2004-2007), pixels=306, chipUrl=https://www.paintref.com/chipimages/WA2E23.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
         "provenanceId": "paintref-chip:f32e32f33202c95d"
-      }
-    },
-    {
-      "code": "PRB",
-      "marketingName": "Indy Red",
-      "finish": "solid",
-      "lab": {
-        "L": 42.7,
-        "a": 59.42,
-        "b": 43.79,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_chip",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from chip-image average #C2261F (PaintRef chip, OEM=Dodge, code=PRB (models=Dodge; year=2004), pixels=306, chipUrl=https://www.paintref.com/chipimages/H55SX4.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref-chip:8395cba09d3aaa5d"
       }
     },
     {
@@ -1874,40 +1772,6 @@
       }
     },
     {
-      "code": "P06",
-      "marketingName": "Deep Red",
-      "finish": "solid",
-      "lab": {
-        "L": 17.09,
-        "a": 32.25,
-        "b": 20.68,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_chip",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from chip-image average #560E0D (PaintRef chip, OEM=Dodge, code=P06 (models=Dodge; years=2004-2005), pixels=306, chipUrl=https://www.paintref.com/chipimages/WSGUGA.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref-chip:3e6c538aae2b304b"
-      }
-    },
-    {
-      "code": "PV3",
-      "marketingName": "Amber Red",
-      "finish": "solid",
-      "lab": {
-        "L": 29.34,
-        "a": 47.3,
-        "b": 24.6,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_chip",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from chip-image average #891522 (PaintRef chip, OEM=Dodge, code=PV3 (models=Dodge; years=2004-2006), pixels=306, chipUrl=https://www.paintref.com/chipimages/3CXW55.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref-chip:eb5bbd995dcff0e0"
-      }
-    },
-    {
       "code": "PWG",
       "marketingName": "Cool Vanilla",
       "finish": "solid",
@@ -1956,23 +1820,6 @@
         "recordedAt": "2026-04-18",
         "notes": "Derived from chip-image average #DCE4DE (PaintRef chip, OEM=Dodge, code=PA9 (models=Dodge; year=2005), pixels=306, chipUrl=https://www.paintref.com/chipimages/AHUFAU.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
         "provenanceId": "paintref-chip:889b398580c7c70b"
-      }
-    },
-    {
-      "code": "PRN",
-      "marketingName": "Venom Red",
-      "finish": "solid",
-      "lab": {
-        "L": 21.32,
-        "a": 39.32,
-        "b": 15.18,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_chip",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from chip-image average #680D1F (PaintRef chip, OEM=Dodge, code=PRN (models=Dodge; year=2005), pixels=306, chipUrl=https://www.paintref.com/chipimages/S3GAX4.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref-chip:8fa7c6fec1c7a55a"
       }
     },
     {
@@ -2333,23 +2180,6 @@
       }
     },
     {
-      "code": "RN",
-      "marketingName": "Venom Red",
-      "finish": "solid",
-      "lab": {
-        "L": 21.32,
-        "a": 39.32,
-        "b": 15.18,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_chip",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from chip-image average #680D1F (PaintRef chip, OEM=Dodge, code=RN (models=Viper; year=2005), pixels=306, chipUrl=https://www.paintref.com/chipimages/S3GAX4.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref-chip:8fa7c6fec1c7a55a"
-      }
-    },
-    {
       "code": "VR",
       "marketingName": "Copperhead Orange",
       "finish": "solid",
@@ -2381,23 +2211,6 @@
         "recordedAt": "2026-04-18",
         "notes": "Derived from chip-image average #7B9299 (PaintRef chip, OEM=Dodge, code=PA4 (models=Caravan; years=2006-2011), pixels=306, chipUrl=https://www.paintref.com/chipimages/2TC5CC.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
         "provenanceId": "paintref-chip:e3bc08f2f2ac7f3a"
-      }
-    },
-    {
-      "code": "PRH",
-      "marketingName": "Inferno Red",
-      "finish": "solid",
-      "lab": {
-        "L": 34.51,
-        "a": 52.83,
-        "b": 35.22,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_chip",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from chip-image average #A0191C (PaintRef chip, OEM=Dodge, code=PRH (models=Caravan; years=2006-2011), pixels=306, chipUrl=https://www.paintref.com/chipimages/EGXCXH.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref-chip:8782132cce27ded8"
       }
     },
     {
@@ -2605,23 +2418,6 @@
       }
     },
     {
-      "code": "PJC",
-      "marketingName": "Dark Khaki",
-      "finish": "solid",
-      "lab": {
-        "L": 39.09,
-        "a": 2,
-        "b": 19.17,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_chip",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from chip-image average #6A5A3D (PaintRef chip, OEM=Dodge, code=PJC (models=Dakota; year=2006), pixels=306, chipUrl=https://www.paintref.com/chipimages/SEWEDA.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref-chip:8648445eff61dbbe"
-      }
-    },
-    {
       "code": "PRJ",
       "marketingName": "Inferno Red",
       "finish": "solid",
@@ -2639,23 +2435,6 @@
       }
     },
     {
-      "code": "PBE",
-      "marketingName": "Viper GTS Blue",
-      "finish": "solid",
-      "lab": {
-        "L": 34.37,
-        "a": 12.24,
-        "b": -46.88,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_chip",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from chip-image average #184F9C (PaintRef chip, OEM=Dodge, code=PBE (models=Dodge; years=2006-2010), pixels=306, chipUrl=https://www.paintref.com/chipimages/X3F4CH.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref-chip:e7f493a18ef35978"
-      }
-    },
-    {
       "code": "PVE",
       "marketingName": "Go Mango (Tangerine)",
       "finish": "solid",
@@ -2670,40 +2449,6 @@
         "recordedAt": "2026-04-18",
         "notes": "Derived from chip-image average #CF463B (PaintRef chip, OEM=Dodge, code=PVE (models=Dodge; year=2006), pixels=306, chipUrl=https://www.paintref.com/chipimages/H4FSDT.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
         "provenanceId": "paintref-chip:ad520512272e4c54"
-      }
-    },
-    {
-      "code": "PYH",
-      "marketingName": "Top Banana (Solar Yellow)",
-      "finish": "solid",
-      "lab": {
-        "L": 78.18,
-        "a": 12.72,
-        "b": 68.86,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_chip",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from chip-image average #F7B638 (PaintRef chip, OEM=Dodge, code=PYH (models=Dodge; year=2006), pixels=306, chipUrl=https://www.paintref.com/chipimages/42TSD3.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref-chip:5068f44303f97665"
-      }
-    },
-    {
-      "code": "389",
-      "marketingName": "Steel Blue Pearl",
-      "finish": "solid",
-      "lab": {
-        "L": 9.62,
-        "a": 6.3,
-        "b": -24.55,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_chip",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from chip-image average #021A3C (PaintRef chip, OEM=Dodge, code=389 (models=Dodge; years=2006-2010), pixels=306, chipUrl=https://www.paintref.com/chipimages/G5XEDH.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref-chip:0605cee488912322"
       }
     },
     {
@@ -2840,23 +2585,6 @@
         "recordedAt": "2026-04-18",
         "notes": "Derived from chip-image average #D6081B (PaintRef chip, OEM=Dodge, code=R3 (models=Charger; years=2007-2010), pixels=306, chipUrl=https://www.paintref.com/chipimages/ASG3XT.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
         "provenanceId": "paintref-chip:da9200b24b02e6b1"
-      }
-    },
-    {
-      "code": "PBD",
-      "marketingName": "Competition Blue",
-      "finish": "solid",
-      "lab": {
-        "L": 41.91,
-        "a": 7.27,
-        "b": -42.5,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_chip",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from chip-image average #3163A9 (PaintRef chip, OEM=Dodge, code=PBD (models=Dodge; years=2007-2018), pixels=306, chipUrl=https://www.paintref.com/chipimages/DXSDEC.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref-chip:e8d8c6c158b3a450"
       }
     },
     {
@@ -3013,23 +2741,6 @@
       }
     },
     {
-      "code": "635",
-      "marketingName": "Coca Cola Red",
-      "finish": "solid",
-      "lab": {
-        "L": 44.71,
-        "a": 65.12,
-        "b": 43.47,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_chip",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from chip-image average #CF1E25 (PaintRef chip, OEM=Dodge, code=635 (models=Dodge Truck; years=2007-2011), pixels=306, chipUrl=https://www.paintref.com/chipimages/H4XU5W.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref-chip:c64428e5ece01fe5"
-      }
-    },
-    {
       "code": "PKG",
       "marketingName": "Light Sandstone",
       "finish": "solid",
@@ -3146,23 +2857,6 @@
         "recordedAt": "2026-04-18",
         "notes": "Derived from chip-image average #C9C1AA (PaintRef chip, OEM=Dodge, code=KG (models=Charger; years=2008-2011), pixels=306, chipUrl=https://www.paintref.com/chipimages/HCHXEE.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
         "provenanceId": "paintref-chip:adbaf8b479356182"
-      }
-    },
-    {
-      "code": "RH",
-      "marketingName": "Inferno Red",
-      "finish": "solid",
-      "lab": {
-        "L": 34.51,
-        "a": 52.83,
-        "b": 35.22,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_chip",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from chip-image average #A0191C (PaintRef chip, OEM=Dodge, code=RH (models=Charger; years=2008-2011), pixels=306, chipUrl=https://www.paintref.com/chipimages/EGXCXH.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref-chip:8782132cce27ded8"
       }
     },
     {
@@ -3353,23 +3047,6 @@
       }
     },
     {
-      "code": "PR3",
-      "marketingName": "Tor Red",
-      "finish": "solid",
-      "lab": {
-        "L": 45.02,
-        "a": 69.77,
-        "b": 49.36,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_chip",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from chip-image average #D6081B (PaintRef chip, OEM=Dodge, code=PR3 (models=Magnum; years=2008-2012), pixels=306, chipUrl=https://www.paintref.com/chipimages/ASG3XT.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref-chip:da9200b24b02e6b1"
-      }
-    },
-    {
       "code": "PDA",
       "marketingName": "Light Graystone",
       "finish": "solid",
@@ -3435,23 +3112,6 @@
         "recordedAt": "2026-04-18",
         "notes": "Derived from chip-image average #DD3023 (PaintRef chip, OEM=Dodge, code=K3 (models=Viper; years=2008-2010), pixels=306, chipUrl=https://www.paintref.com/chipimages/AADG5D.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
         "provenanceId": "paintref-chip:0838b4a15402c545"
-      }
-    },
-    {
-      "code": "R3",
-      "marketingName": "Tor Red",
-      "finish": "solid",
-      "lab": {
-        "L": 45.02,
-        "a": 69.77,
-        "b": 49.36,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_chip",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from chip-image average #D6081B (PaintRef chip, OEM=Dodge, code=R3 (models=Avenger; years=2009-2012), pixels=306, chipUrl=https://www.paintref.com/chipimages/ASG3XT.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref-chip:da9200b24b02e6b1"
       }
     },
     {
@@ -3523,23 +3183,6 @@
       }
     },
     {
-      "code": "QD",
-      "marketingName": "B5 Blue",
-      "finish": "solid",
-      "lab": {
-        "L": 49.1,
-        "a": 3.04,
-        "b": -42.7,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_chip",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from chip-image average #3777BD (PaintRef chip, OEM=Dodge, code=QD (models=Challenger; years=2009-2016), pixels=306, chipUrl=https://www.paintref.com/chipimages/D222TA.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref-chip:a27b3759982e2e26"
-      }
-    },
-    {
       "code": "PKL",
       "marketingName": "Austin Tan",
       "finish": "solid",
@@ -3557,23 +3200,6 @@
       }
     },
     {
-      "code": "PGR",
-      "marketingName": "Anaconda Green",
-      "finish": "solid",
-      "lab": {
-        "L": 23.95,
-        "a": -14.08,
-        "b": -4.29,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_chip",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from chip-image average #163F3F (PaintRef chip, OEM=Dodge, code=PGR (models=Dodge; year=2009), pixels=306, chipUrl=https://www.paintref.com/chipimages/XSD4D4.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref-chip:5f055f53310d13bb"
-      }
-    },
-    {
       "code": "PXS",
       "marketingName": "Diamond Black",
       "finish": "solid",
@@ -3587,23 +3213,6 @@
         "confidence": "derived",
         "recordedAt": "2026-04-18",
         "notes": "Derived from chip-image average #010101 (PaintRef chip, OEM=Dodge, code=PXS (models=Dodge; year=2009), pixels=306, chipUrl=https://www.paintref.com/chipimages/GGGGGG.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref-chip:1f437854e2d31a87"
-      }
-    },
-    {
-      "code": "040",
-      "marketingName": "Black",
-      "finish": "solid",
-      "lab": {
-        "L": 0.27,
-        "a": 0,
-        "b": 0,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_chip",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from chip-image average #010101 (PaintRef chip, OEM=Dodge, code=040 (models=Dodge; year=2009), pixels=306, chipUrl=https://www.paintref.com/chipimages/GGGGGG.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
         "provenanceId": "paintref-chip:1f437854e2d31a87"
       }
     },
@@ -3948,23 +3557,6 @@
       }
     },
     {
-      "code": "PQD",
-      "marketingName": "B5 Blue",
-      "finish": "solid",
-      "lab": {
-        "L": 49.1,
-        "a": 3.04,
-        "b": -42.7,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_chip",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from chip-image average #3777BD (PaintRef chip, OEM=Dodge, code=PQD (models=Dodge; years=2010-2026), pixels=306, chipUrl=https://www.paintref.com/chipimages/D222TA.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref-chip:a27b3759982e2e26"
-      }
-    },
-    {
       "code": "PRC",
       "marketingName": "Caliente Red",
       "finish": "solid",
@@ -4030,23 +3622,6 @@
         "recordedAt": "2026-04-18",
         "notes": "Derived from chip-image average #BA502C (PaintRef chip, OEM=Dodge, code=PVG (models=Dodge; years=2010-2012), pixels=306, chipUrl=https://www.paintref.com/chipimages/TEWG5H.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
         "provenanceId": "paintref-chip:da6d7a0565cc9ed7"
-      }
-    },
-    {
-      "code": "PQD",
-      "marketingName": "Blue",
-      "finish": "solid",
-      "lab": {
-        "L": 49.1,
-        "a": 3.04,
-        "b": -42.7,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_chip",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from chip-image average #3777BD (PaintRef chip, OEM=Dodge, code=PQD (models=Dodge Truck; year=2010), pixels=306, chipUrl=https://www.paintref.com/chipimages/D222TA.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref-chip:a27b3759982e2e26"
       }
     },
     {
@@ -4152,23 +3727,6 @@
       }
     },
     {
-      "code": "VG",
-      "marketingName": "Mango Tango",
-      "finish": "solid",
-      "lab": {
-        "L": 47.45,
-        "a": 40.68,
-        "b": 41.29,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_chip",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from chip-image average #BA502C (PaintRef chip, OEM=Dodge, code=VG (models=Avenger; years=2011-2012), pixels=306, chipUrl=https://www.paintref.com/chipimages/TEWG5H.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref-chip:da6d7a0565cc9ed7"
-      }
-    },
-    {
       "code": "W7",
       "marketingName": "Bright White",
       "finish": "solid",
@@ -4237,40 +3795,6 @@
       }
     },
     {
-      "code": "PRP",
-      "marketingName": "Deep Cherry",
-      "finish": "solid",
-      "lab": {
-        "L": 31.37,
-        "a": 44.72,
-        "b": 23.97,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_chip",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from chip-image average #8C2127 (PaintRef chip, OEM=Dodge, code=PRP (models=Caravan; years=2011-2016), pixels=306, chipUrl=https://www.paintref.com/chipimages/3H5X52.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref-chip:7cdc7d851602b02b"
-      }
-    },
-    {
-      "code": "DM",
-      "marketingName": "Tungsten",
-      "finish": "solid",
-      "lab": {
-        "L": 40.77,
-        "a": 0.47,
-        "b": -2.41,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_chip",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from chip-image average #5F6064 (PaintRef chip, OEM=Dodge, code=DM (models=Challenger; years=2011-2013), pixels=306, chipUrl=https://www.paintref.com/chipimages/W4SGSF.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref-chip:fc6714034781f4eb"
-      }
-    },
-    {
       "code": "GE",
       "marketingName": "Green with Envy",
       "finish": "solid",
@@ -4322,40 +3846,6 @@
       }
     },
     {
-      "code": "RY",
-      "marketingName": "Redline 3",
-      "finish": "solid",
-      "lab": {
-        "L": 43.01,
-        "a": 60.81,
-        "b": 38.85,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_chip",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from chip-image average #C42429 (PaintRef chip, OEM=Dodge, code=RY (models=Charger; year=2011), pixels=306, chipUrl=https://www.paintref.com/chipimages/HF5F5C.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref-chip:f0fe7972243b544c"
-      }
-    },
-    {
-      "code": "PDM",
-      "marketingName": "Tungsten",
-      "finish": "solid",
-      "lab": {
-        "L": 40.77,
-        "a": 0.47,
-        "b": -2.41,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_chip",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from chip-image average #5F6064 (PaintRef chip, OEM=Dodge, code=PDM (models=Dakota; years=2011-2013), pixels=306, chipUrl=https://www.paintref.com/chipimages/W4SGSF.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref-chip:fc6714034781f4eb"
-      }
-    },
-    {
       "code": "PGT",
       "marketingName": "Hunter Green",
       "finish": "solid",
@@ -4404,23 +3894,6 @@
         "recordedAt": "2026-04-18",
         "notes": "Derived from chip-image average #C42429 (PaintRef chip, OEM=Dodge, code=PRY (models=Dodge; years=2011-2018), pixels=306, chipUrl=https://www.paintref.com/chipimages/HF5F5C.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
         "provenanceId": "paintref-chip:f0fe7972243b544c"
-      }
-    },
-    {
-      "code": "PSC",
-      "marketingName": "Billet Silver",
-      "finish": "solid",
-      "lab": {
-        "L": 75.65,
-        "a": 0.94,
-        "b": -2.52,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_chip",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from chip-image average #BABABF (PaintRef chip, OEM=Dodge, code=PSC (models=Dodge; years=2011-2025), pixels=306, chipUrl=https://www.paintref.com/chipimages/TETET4.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref-chip:03c66faf2a3699eb"
       }
     },
     {
@@ -4645,23 +4118,6 @@
       }
     },
     {
-      "code": "X8",
-      "marketingName": "Pitch Black",
-      "finish": "solid",
-      "lab": {
-        "L": 0.27,
-        "a": 0,
-        "b": 0,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_chip",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from chip-image average #010101 (PaintRef chip, OEM=Dodge, code=X8 (models=Charger; years=2012-2016), pixels=306, chipUrl=https://www.paintref.com/chipimages/GGGGGG.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref-chip:1f437854e2d31a87"
-      }
-    },
-    {
       "code": "PAJ",
       "marketingName": "Storm Gray",
       "finish": "solid",
@@ -4798,23 +4254,6 @@
       }
     },
     {
-      "code": "PLB",
-      "marketingName": "Copperhead",
-      "finish": "solid",
-      "lab": {
-        "L": 39.02,
-        "a": 44.77,
-        "b": 48.42,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_chip",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from chip-image average #A63507 (PaintRef chip, OEM=Dodge, code=PLB (models=Dodge; years=2012-2017), pixels=306, chipUrl=https://www.paintref.com/chipimages/ESDWG2.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref-chip:a31647264edfa178"
-      }
-    },
-    {
       "code": "PR1",
       "marketingName": "Brilliant Red",
       "finish": "solid",
@@ -4829,57 +4268,6 @@
         "recordedAt": "2026-04-18",
         "notes": "Derived from chip-image average #830206 (PaintRef chip, OEM=Dodge, code=PR1 (models=Dodge; year=2012), pixels=306, chipUrl=https://www.paintref.com/chipimages/3DG5GS.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
         "provenanceId": "paintref-chip:c20abe6c7fe18b12"
-      }
-    },
-    {
-      "code": "PUS",
-      "marketingName": "Saddle Brown",
-      "finish": "solid",
-      "lab": {
-        "L": 53.23,
-        "a": 7.57,
-        "b": 34.15,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_chip",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from chip-image average #9D7944 (PaintRef chip, OEM=Dodge, code=PUS (models=Dodge; year=2012), pixels=306, chipUrl=https://www.paintref.com/chipimages/CA2CFF.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref-chip:fcb105aa97945028"
-      }
-    },
-    {
-      "code": "PX8",
-      "marketingName": "Pitch Black",
-      "finish": "solid",
-      "lab": {
-        "L": 0.27,
-        "a": 0,
-        "b": 0,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_chip",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from chip-image average #010101 (PaintRef chip, OEM=Dodge, code=PX8 (models=Dodge; years=2012-2024), pixels=306, chipUrl=https://www.paintref.com/chipimages/GGGGGG.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref-chip:1f437854e2d31a87"
-      }
-    },
-    {
-      "code": "PXR",
-      "marketingName": "Black",
-      "finish": "solid",
-      "lab": {
-        "L": 0.27,
-        "a": 0,
-        "b": 0,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_chip",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from chip-image average #010101 (PaintRef chip, OEM=Dodge, code=PXR (models=Dodge; year=2012), pixels=306, chipUrl=https://www.paintref.com/chipimages/GGGGGG.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref-chip:1f437854e2d31a87"
       }
     },
     {
@@ -5121,23 +4509,6 @@
       }
     },
     {
-      "code": "P06",
-      "marketingName": "Hills Green",
-      "finish": "solid",
-      "lab": {
-        "L": 66.07,
-        "a": -47.97,
-        "b": 63.12,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_chip",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from chip-image average #64B418 (PaintRef chip, OEM=Dodge, code=P06 (models=Dodge Truck; years=2012-2025), pixels=306, chipUrl=https://www.paintref.com/chipimages/SFTFX3.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref-chip:63e16311b8714471"
-      }
-    },
-    {
       "code": "P12",
       "marketingName": "Bright Red",
       "finish": "solid",
@@ -5152,23 +4523,6 @@
         "recordedAt": "2026-04-18",
         "notes": "Derived from chip-image average #CF1E25 (PaintRef chip, OEM=Dodge, code=P12 (models=Dodge Truck; years=2012-2025), pixels=306, chipUrl=https://www.paintref.com/chipimages/H4XU5W.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
         "provenanceId": "paintref-chip:c64428e5ece01fe5"
-      }
-    },
-    {
-      "code": "P12",
-      "marketingName": "Case Construction Yellow",
-      "finish": "solid",
-      "lab": {
-        "L": 71.82,
-        "a": 9.71,
-        "b": 64.5,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_chip",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from chip-image average #DEA731 (PaintRef chip, OEM=Dodge, code=P12 (models=Dodge Truck; year=2012), pixels=306, chipUrl=https://www.paintref.com/chipimages/AUE2DX.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref-chip:2e0c089103de384e"
       }
     },
     {
@@ -5237,23 +4591,6 @@
         "recordedAt": "2026-04-18",
         "notes": "Derived from chip-image average #C8BE91 (PaintRef chip, OEM=Dodge, code=P81 (models=Dodge Truck; year=2012), pixels=306, chipUrl=https://www.paintref.com/chipimages/H3TUCX.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
         "provenanceId": "paintref-chip:720fc4e67b857cd4"
-      }
-    },
-    {
-      "code": "P81",
-      "marketingName": "Dark Brown",
-      "finish": "solid",
-      "lab": {
-        "L": 20.77,
-        "a": -0.91,
-        "b": 7.5,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_chip",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from chip-image average #353227 (PaintRef chip, OEM=Dodge, code=P81 (models=Dodge Truck; year=2012), pixels=306, chipUrl=https://www.paintref.com/chipimages/DWD552.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref-chip:bc695d4c23154cbd"
       }
     },
     {
@@ -5359,40 +4696,6 @@
       }
     },
     {
-      "code": "R3",
-      "marketingName": "Torr Red",
-      "finish": "solid",
-      "lab": {
-        "L": 45.02,
-        "a": 69.77,
-        "b": 49.36,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_chip",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from chip-image average #D6081B (PaintRef chip, OEM=Dodge, code=R3 (models=Challenger; year=2013), pixels=306, chipUrl=https://www.paintref.com/chipimages/ASG3XT.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref-chip:da9200b24b02e6b1"
-      }
-    },
-    {
-      "code": "SC",
-      "marketingName": "Billet",
-      "finish": "solid",
-      "lab": {
-        "L": 75.65,
-        "a": 0.94,
-        "b": -2.52,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_chip",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from chip-image average #BABABF (PaintRef chip, OEM=Dodge, code=SC (models=Challenger; year=2013), pixels=306, chipUrl=https://www.paintref.com/chipimages/TETET4.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref-chip:03c66faf2a3699eb"
-      }
-    },
-    {
       "code": "XT",
       "marketingName": "Phantom Black",
       "finish": "solid",
@@ -5495,23 +4798,6 @@
       }
     },
     {
-      "code": "PBE",
-      "marketingName": "GTS Blue",
-      "finish": "solid",
-      "lab": {
-        "L": 34.37,
-        "a": 12.24,
-        "b": -46.88,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_chip",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from chip-image average #184F9C (PaintRef chip, OEM=Dodge, code=PBE (models=Dodge; year=2013), pixels=306, chipUrl=https://www.paintref.com/chipimages/X3F4CH.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref-chip:e7f493a18ef35978"
-      }
-    },
-    {
       "code": "PBH",
       "marketingName": "Laguna Blue",
       "finish": "solid",
@@ -5597,23 +4883,6 @@
       }
     },
     {
-      "code": "PFS",
-      "marketingName": "Cashmere",
-      "finish": "solid",
-      "lab": {
-        "L": 81.57,
-        "a": 3.06,
-        "b": 12.28,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_chip",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from chip-image average #DAC8B4 (PaintRef chip, OEM=Dodge, code=PFS (models=Dodge; years=2013-2015), pixels=306, chipUrl=https://www.paintref.com/chipimages/AEH3TF.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref-chip:0ce4cd1f29785bfc"
-      }
-    },
-    {
       "code": "PPS",
       "marketingName": "Fathom Blue",
       "finish": "solid",
@@ -5628,40 +4897,6 @@
         "recordedAt": "2026-04-18",
         "notes": "Derived from chip-image average #334C5B (PaintRef chip, OEM=Dodge, code=PPS (models=Dodge; years=2013-2015), pixels=306, chipUrl=https://www.paintref.com/chipimages/DDFHWT.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
         "provenanceId": "paintref-chip:c572cb2acce07c0a"
-      }
-    },
-    {
-      "code": "PR1",
-      "marketingName": "Bright Red",
-      "finish": "solid",
-      "lab": {
-        "L": 26.4,
-        "a": 48.59,
-        "b": 36.66,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_chip",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from chip-image average #830206 (PaintRef chip, OEM=Dodge, code=PR1 (models=Dodge; year=2013), pixels=306, chipUrl=https://www.paintref.com/chipimages/3DG5GS.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref-chip:c20abe6c7fe18b12"
-      }
-    },
-    {
-      "code": "PR3",
-      "marketingName": "Torr Red",
-      "finish": "solid",
-      "lab": {
-        "L": 45.02,
-        "a": 69.77,
-        "b": 49.36,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_chip",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from chip-image average #D6081B (PaintRef chip, OEM=Dodge, code=PR3 (models=Dodge; year=2013), pixels=306, chipUrl=https://www.paintref.com/chipimages/ASG3XT.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref-chip:da9200b24b02e6b1"
       }
     },
     {
@@ -5716,40 +4951,6 @@
       }
     },
     {
-      "code": "PRP",
-      "marketingName": "Deep Cherry Red Crystal",
-      "finish": "solid",
-      "lab": {
-        "L": 31.37,
-        "a": 44.72,
-        "b": 23.97,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_chip",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from chip-image average #8C2127 (PaintRef chip, OEM=Dodge, code=PRP (models=Dodge; years=2013-2025), pixels=306, chipUrl=https://www.paintref.com/chipimages/3H5X52.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref-chip:7cdc7d851602b02b"
-      }
-    },
-    {
-      "code": "PWA",
-      "marketingName": "Bright White",
-      "finish": "solid",
-      "lab": {
-        "L": 97.66,
-        "a": -3.58,
-        "b": 5.77,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_chip",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from chip-image average #F6FAED (PaintRef chip, OEM=Dodge, code=PWA (models=Dodge; year=2013), pixels=306, chipUrl=https://www.paintref.com/chipimages/4S4EUA.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref-chip:d41246b5812ca1e8"
-      }
-    },
-    {
       "code": "PWD",
       "marketingName": "Ivory",
       "finish": "solid",
@@ -5801,40 +5002,6 @@
       }
     },
     {
-      "code": "PYR",
-      "marketingName": "Race Yellow",
-      "finish": "solid",
-      "lab": {
-        "L": 82.44,
-        "a": 9.32,
-        "b": 64.76,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_chip",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from chip-image average #FEC44E (PaintRef chip, OEM=Dodge, code=PYR (models=Dodge; years=2013-2014), pixels=306, chipUrl=https://www.paintref.com/chipimages/44HFFU.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref-chip:e88a285d0f01916c"
-      }
-    },
-    {
-      "code": "635",
-      "marketingName": "Bright Red",
-      "finish": "solid",
-      "lab": {
-        "L": 44.71,
-        "a": 65.12,
-        "b": 43.47,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_chip",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from chip-image average #CF1E25 (PaintRef chip, OEM=Dodge, code=635 (models=Dodge Truck; year=2013), pixels=306, chipUrl=https://www.paintref.com/chipimages/H4XU5W.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref-chip:c64428e5ece01fe5"
-      }
-    },
-    {
       "code": "PEP",
       "marketingName": "Deep Auburn",
       "finish": "solid",
@@ -5852,40 +5019,6 @@
       }
     },
     {
-      "code": "PFA",
-      "marketingName": "Prairie",
-      "finish": "solid",
-      "lab": {
-        "L": 42.29,
-        "a": 2.56,
-        "b": 7.29,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_chip",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from chip-image average #6D6258 (PaintRef chip, OEM=Dodge, code=PFA (models=Dodge Truck; years=2013-2015), pixels=306, chipUrl=https://www.paintref.com/chipimages/SAS5W3.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref-chip:5fe07ffd1f6c4cdc"
-      }
-    },
-    {
-      "code": "PSC",
-      "marketingName": "Billet",
-      "finish": "solid",
-      "lab": {
-        "L": 75.65,
-        "a": 0.94,
-        "b": -2.52,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_chip",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from chip-image average #BABABF (PaintRef chip, OEM=Dodge, code=PSC (models=Dodge Truck; years=2013-2023), pixels=306, chipUrl=https://www.paintref.com/chipimages/TETET4.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref-chip:03c66faf2a3699eb"
-      }
-    },
-    {
       "code": "PUG",
       "marketingName": "Black Gold",
       "finish": "solid",
@@ -5900,23 +5033,6 @@
         "recordedAt": "2026-04-18",
         "notes": "Derived from chip-image average #483935 (PaintRef chip, OEM=Dodge, code=PUG (models=Dodge Truck; years=2013-2014), pixels=306, chipUrl=https://www.paintref.com/chipimages/F3DCDW.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
         "provenanceId": "paintref-chip:3b8178691081b3ca"
-      }
-    },
-    {
-      "code": "BE",
-      "marketingName": "GTS Blue",
-      "finish": "solid",
-      "lab": {
-        "L": 34.37,
-        "a": 12.24,
-        "b": -46.88,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_chip",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from chip-image average #184F9C (PaintRef chip, OEM=Dodge, code=BE (models=Viper; year=2013), pixels=306, chipUrl=https://www.paintref.com/chipimages/X3F4CH.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref-chip:e7f493a18ef35978"
       }
     },
     {
@@ -5988,125 +5104,6 @@
       }
     },
     {
-      "code": "WA",
-      "marketingName": "Bright White",
-      "finish": "solid",
-      "lab": {
-        "L": 97.66,
-        "a": -3.58,
-        "b": 5.77,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_chip",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from chip-image average #F6FAED (PaintRef chip, OEM=Dodge, code=WA (models=Viper; year=2013), pixels=306, chipUrl=https://www.paintref.com/chipimages/4S4EUA.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref-chip:d41246b5812ca1e8"
-      }
-    },
-    {
-      "code": "X8",
-      "marketingName": "Black Venom",
-      "finish": "solid",
-      "lab": {
-        "L": 0.27,
-        "a": 0,
-        "b": 0,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_chip",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from chip-image average #010101 (PaintRef chip, OEM=Dodge, code=X8 (models=Viper; year=2013), pixels=306, chipUrl=https://www.paintref.com/chipimages/GGGGGG.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref-chip:1f437854e2d31a87"
-      }
-    },
-    {
-      "code": "YR",
-      "marketingName": "Race Yellow",
-      "finish": "solid",
-      "lab": {
-        "L": 82.44,
-        "a": 9.32,
-        "b": 64.76,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_chip",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from chip-image average #FEC44E (PaintRef chip, OEM=Dodge, code=YR (models=Viper; years=2013-2014), pixels=306, chipUrl=https://www.paintref.com/chipimages/44HFFU.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref-chip:e88a285d0f01916c"
-      }
-    },
-    {
-      "code": "RM",
-      "marketingName": "Redline Red",
-      "finish": "solid",
-      "lab": {
-        "L": 37.87,
-        "a": 62.29,
-        "b": 44.66,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_chip",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from chip-image average #B60113 (PaintRef chip, OEM=Dodge, code=RM (models=Avenger; years=2014-2016), pixels=306, chipUrl=https://www.paintref.com/chipimages/TSGGXD.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref-chip:ee983916fc0c8c9e"
-      }
-    },
-    {
-      "code": "RP",
-      "marketingName": "Deep Cherry Red",
-      "finish": "solid",
-      "lab": {
-        "L": 31.37,
-        "a": 44.72,
-        "b": 23.97,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_chip",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from chip-image average #8C2127 (PaintRef chip, OEM=Dodge, code=RP (models=Avenger; year=2014), pixels=306, chipUrl=https://www.paintref.com/chipimages/3H5X52.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref-chip:7cdc7d851602b02b"
-      }
-    },
-    {
-      "code": "R3",
-      "marketingName": "Torred",
-      "finish": "solid",
-      "lab": {
-        "L": 45.02,
-        "a": 69.77,
-        "b": 49.36,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_chip",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from chip-image average #D6081B (PaintRef chip, OEM=Dodge, code=R3 (models=Challenger; years=2014-2016), pixels=306, chipUrl=https://www.paintref.com/chipimages/ASG3XT.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref-chip:da9200b24b02e6b1"
-      }
-    },
-    {
-      "code": "RY",
-      "marketingName": "Redline Red",
-      "finish": "solid",
-      "lab": {
-        "L": 43.01,
-        "a": 60.81,
-        "b": 38.85,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_chip",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from chip-image average #C42429 (PaintRef chip, OEM=Dodge, code=RY (models=Challenger; years=2014-2016), pixels=306, chipUrl=https://www.paintref.com/chipimages/HF5F5C.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref-chip:f0fe7972243b544c"
-      }
-    },
-    {
       "code": "PRR",
       "marketingName": "High Octane Red",
       "finish": "solid",
@@ -6121,176 +5118,6 @@
         "recordedAt": "2026-04-18",
         "notes": "Derived from chip-image average #7C1B21 (PaintRef chip, OEM=Dodge, code=PRR (models=Challenger; year=2014), pixels=306, chipUrl=https://www.paintref.com/chipimages/2HXT5X.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
         "provenanceId": "paintref-chip:1c37f3bff9e763e9"
-      }
-    },
-    {
-      "code": "PBU",
-      "marketingName": "GTS R Blue",
-      "finish": "solid",
-      "lab": {
-        "L": 18.15,
-        "a": 13.84,
-        "b": -23.91,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_chip",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from chip-image average #2C274F (PaintRef chip, OEM=Dodge, code=PBU (models=Dodge; years=2014-2018), pixels=306, chipUrl=https://www.paintref.com/chipimages/5H52F4.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref-chip:a3bb5e783888465b"
-      }
-    },
-    {
-      "code": "PR3",
-      "marketingName": "Torred",
-      "finish": "solid",
-      "lab": {
-        "L": 45.02,
-        "a": 69.77,
-        "b": 49.36,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_chip",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from chip-image average #D6081B (PaintRef chip, OEM=Dodge, code=PR3 (models=Dodge; years=2014-2023), pixels=306, chipUrl=https://www.paintref.com/chipimages/ASG3XT.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref-chip:da9200b24b02e6b1"
-      }
-    },
-    {
-      "code": "PRM",
-      "marketingName": "Redline Red",
-      "finish": "solid",
-      "lab": {
-        "L": 37.87,
-        "a": 62.29,
-        "b": 44.66,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_chip",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from chip-image average #B60113 (PaintRef chip, OEM=Dodge, code=PRM (models=Dodge; years=2014-2016), pixels=306, chipUrl=https://www.paintref.com/chipimages/TSGGXD.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref-chip:ee983916fc0c8c9e"
-      }
-    },
-    {
-      "code": "PRY",
-      "marketingName": "Redline Red",
-      "finish": "solid",
-      "lab": {
-        "L": 43.01,
-        "a": 60.81,
-        "b": 38.85,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_chip",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from chip-image average #C42429 (PaintRef chip, OEM=Dodge, code=PRY (models=Dodge; years=2014-2016), pixels=306, chipUrl=https://www.paintref.com/chipimages/HF5F5C.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref-chip:f0fe7972243b544c"
-      }
-    },
-    {
-      "code": "PWA",
-      "marketingName": "Viper White",
-      "finish": "solid",
-      "lab": {
-        "L": 97.66,
-        "a": -3.58,
-        "b": 5.77,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_chip",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from chip-image average #F6FAED (PaintRef chip, OEM=Dodge, code=PWA (models=Dodge; years=2014-2018), pixels=306, chipUrl=https://www.paintref.com/chipimages/4S4EUA.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref-chip:d41246b5812ca1e8"
-      }
-    },
-    {
-      "code": "PXR",
-      "marketingName": "Brilliant Black Crystal",
-      "finish": "solid",
-      "lab": {
-        "L": 0.27,
-        "a": 0,
-        "b": 0,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_chip",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from chip-image average #010101 (PaintRef chip, OEM=Dodge, code=PXR (models=Dodge; year=2014), pixels=306, chipUrl=https://www.paintref.com/chipimages/GGGGGG.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref-chip:1f437854e2d31a87"
-      }
-    },
-    {
-      "code": "BU",
-      "marketingName": "GTS R Blue",
-      "finish": "solid",
-      "lab": {
-        "L": 18.15,
-        "a": 13.84,
-        "b": -23.91,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_chip",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from chip-image average #2C274F (PaintRef chip, OEM=Dodge, code=BU (models=Viper; year=2014), pixels=306, chipUrl=https://www.paintref.com/chipimages/5H52F4.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref-chip:a3bb5e783888465b"
-      }
-    },
-    {
-      "code": "L4",
-      "marketingName": "TA Orange",
-      "finish": "solid",
-      "lab": {
-        "L": 59.77,
-        "a": 37.84,
-        "b": 57.73,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_chip",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from chip-image average #DF7226 (PaintRef chip, OEM=Dodge, code=L4 (models=Viper; year=2014), pixels=306, chipUrl=https://www.paintref.com/chipimages/A4255S.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref-chip:216f1e6337b8a911"
-      }
-    },
-    {
-      "code": "WA",
-      "marketingName": "Viper White",
-      "finish": "solid",
-      "lab": {
-        "L": 97.66,
-        "a": -3.58,
-        "b": 5.77,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_chip",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from chip-image average #F6FAED (PaintRef chip, OEM=Dodge, code=WA (models=Viper; year=2014), pixels=306, chipUrl=https://www.paintref.com/chipimages/4S4EUA.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref-chip:d41246b5812ca1e8"
-      }
-    },
-    {
-      "code": "X8",
-      "marketingName": "Venom Black",
-      "finish": "solid",
-      "lab": {
-        "L": 0.27,
-        "a": 0,
-        "b": 0,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_chip",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from chip-image average #010101 (PaintRef chip, OEM=Dodge, code=X8 (models=Viper; years=2014-2015), pixels=306, chipUrl=https://www.paintref.com/chipimages/GGGGGG.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref-chip:1f437854e2d31a87"
       }
     },
     {
@@ -6328,40 +5155,6 @@
       }
     },
     {
-      "code": "LC",
-      "marketingName": "Vitamin C",
-      "finish": "solid",
-      "lab": {
-        "L": 44.97,
-        "a": 52.4,
-        "b": 54.37,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_chip",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from chip-image average #C23A08 (PaintRef chip, OEM=Dodge, code=LC (models=Dart; year=2015), pixels=306, chipUrl=https://www.paintref.com/chipimages/H5DEG3.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref-chip:9903dd5217923cb5"
-      }
-    },
-    {
-      "code": "PRV",
-      "marketingName": "Passion Red",
-      "finish": "solid",
-      "lab": {
-        "L": 15.25,
-        "a": 30.11,
-        "b": 14.65,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_chip",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from chip-image average #4E0D13 (PaintRef chip, OEM=Dodge, code=PRV (models=Dart; years=2015-2017), pixels=306, chipUrl=https://www.paintref.com/chipimages/FUGAXD.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref-chip:29560d28ae511af4"
-      }
-    },
-    {
       "code": "PAG",
       "marketingName": "Ceramic Blue",
       "finish": "solid",
@@ -6376,57 +5169,6 @@
         "recordedAt": "2026-04-18",
         "notes": "Derived from chip-image average #3A4952 (PaintRef chip, OEM=Dodge, code=PAG (models=Dodge; years=2015-2017), pixels=306, chipUrl=https://www.paintref.com/chipimages/DEFCW5.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
         "provenanceId": "paintref-chip:4ee6fd95932dc296"
-      }
-    },
-    {
-      "code": "PAG",
-      "marketingName": "Dark Ceramic Gray",
-      "finish": "solid",
-      "lab": {
-        "L": 30.09,
-        "a": -3.54,
-        "b": -7.31,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_chip",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from chip-image average #3A4952 (PaintRef chip, OEM=Dodge, code=PAG (models=Dodge; year=2015), pixels=306, chipUrl=https://www.paintref.com/chipimages/DEFCW5.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref-chip:4ee6fd95932dc296"
-      }
-    },
-    {
-      "code": "PBJ",
-      "marketingName": "Laser Blue",
-      "finish": "solid",
-      "lab": {
-        "L": 39.66,
-        "a": 16.64,
-        "b": -54.96,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_chip",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from chip-image average #1E5AB8 (PaintRef chip, OEM=Dodge, code=PBJ (models=Dodge; years=2015-2016), pixels=306, chipUrl=https://www.paintref.com/chipimages/XUWET3.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref-chip:fb4133c308a7ed44"
-      }
-    },
-    {
-      "code": "PDR",
-      "marketingName": "Anodized Carbon",
-      "finish": "solid",
-      "lab": {
-        "L": 30.96,
-        "a": 5.88,
-        "b": -3.23,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_chip",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from chip-image average #50464E (PaintRef chip, OEM=Dodge, code=PDR (models=Dodge; year=2015), pixels=306, chipUrl=https://www.paintref.com/chipimages/WGFSFU.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref-chip:cabcdbd3f02280c6"
       }
     },
     {
@@ -6481,57 +5223,6 @@
       }
     },
     {
-      "code": "PL4",
-      "marketingName": "Ignition Orange",
-      "finish": "solid",
-      "lab": {
-        "L": 59.77,
-        "a": 37.84,
-        "b": 57.73,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_chip",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from chip-image average #DF7226 (PaintRef chip, OEM=Dodge, code=PL4 (models=Dodge; years=2015-2017), pixels=306, chipUrl=https://www.paintref.com/chipimages/A4255S.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref-chip:216f1e6337b8a911"
-      }
-    },
-    {
-      "code": "PLC",
-      "marketingName": "Vitamin C",
-      "finish": "solid",
-      "lab": {
-        "L": 44.97,
-        "a": 52.4,
-        "b": 54.37,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_chip",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from chip-image average #C23A08 (PaintRef chip, OEM=Dodge, code=PLC (models=Dodge; year=2015), pixels=306, chipUrl=https://www.paintref.com/chipimages/H5DEG3.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref-chip:9903dd5217923cb5"
-      }
-    },
-    {
-      "code": "PWH",
-      "marketingName": "Arctic White",
-      "finish": "solid",
-      "lab": {
-        "L": 96.61,
-        "a": -4.07,
-        "b": 9.38,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_chip",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from chip-image average #F5F7E3 (PaintRef chip, OEM=Dodge, code=PWH (models=Dodge; year=2015), pixels=306, chipUrl=https://www.paintref.com/chipimages/4W42UD.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref-chip:bd75b0acc8e0a037"
-      }
-    },
-    {
       "code": "PY5",
       "marketingName": "Dozer",
       "finish": "solid",
@@ -6580,23 +5271,6 @@
         "recordedAt": "2026-04-18",
         "notes": "Derived from chip-image average #174884 (PaintRef chip, OEM=Dodge, code=BD (models=Viper; year=2015), pixels=306, chipUrl=https://www.paintref.com/chipimages/X2F33F.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
         "provenanceId": "paintref-chip:9ed33a12bcc9096b"
-      }
-    },
-    {
-      "code": "DR",
-      "marketingName": "Anodized Carbon",
-      "finish": "solid",
-      "lab": {
-        "L": 30.96,
-        "a": 5.88,
-        "b": -3.23,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_chip",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from chip-image average #50464E (PaintRef chip, OEM=Dodge, code=DR (models=Viper; year=2015), pixels=306, chipUrl=https://www.paintref.com/chipimages/WGFSFU.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref-chip:cabcdbd3f02280c6"
       }
     },
     {
@@ -6668,40 +5342,6 @@
       }
     },
     {
-      "code": "P06",
-      "marketingName": "Green Angels",
-      "finish": "solid",
-      "lab": {
-        "L": 66.07,
-        "a": -47.97,
-        "b": 63.12,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_chip",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from chip-image average #64B418 (PaintRef chip, OEM=Dodge, code=P06 (models=Dodge; years=2016-2018), pixels=306, chipUrl=https://www.paintref.com/chipimages/SFTFX3.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref-chip:63e16311b8714471"
-      }
-    },
-    {
-      "code": "P12",
-      "marketingName": "Coca Cola Red",
-      "finish": "solid",
-      "lab": {
-        "L": 44.71,
-        "a": 65.12,
-        "b": 43.47,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_chip",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from chip-image average #CF1E25 (PaintRef chip, OEM=Dodge, code=P12 (models=Dodge; year=2016), pixels=306, chipUrl=https://www.paintref.com/chipimages/H4XU5W.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref-chip:c64428e5ece01fe5"
-      }
-    },
-    {
       "code": "P18",
       "marketingName": "Dark Brown",
       "finish": "solid",
@@ -6733,23 +5373,6 @@
         "recordedAt": "2026-04-18",
         "notes": "Derived from chip-image average #FBC301 (PaintRef chip, OEM=Dodge, code=P67 (models=Dodge; years=2016-2022), pixels=306, chipUrl=https://www.paintref.com/chipimages/4THDGG.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
         "provenanceId": "paintref-chip:24d05fbda9b069d4"
-      }
-    },
-    {
-      "code": "P72",
-      "marketingName": "Holland Blue",
-      "finish": "solid",
-      "lab": {
-        "L": 35.06,
-        "a": 20.59,
-        "b": -50.53,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_chip",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from chip-image average #324CA4 (PaintRef chip, OEM=Dodge, code=P72 (models=Dodge; years=2016-2025), pixels=306, chipUrl=https://www.paintref.com/chipimages/D5FHEF.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref-chip:ffc3e945618d8622"
       }
     },
     {
@@ -6804,23 +5427,6 @@
       }
     },
     {
-      "code": "PDT",
-      "marketingName": "Rebel",
-      "finish": "solid",
-      "lab": {
-        "L": 21.27,
-        "a": 2.8,
-        "b": -4.72,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_chip",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from chip-image average #34323A (PaintRef chip, OEM=Dodge, code=PDT (models=Dodge; year=2016), pixels=306, chipUrl=https://www.paintref.com/chipimages/DFD5DE.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref-chip:a28c3a0bc3f06407"
-      }
-    },
-    {
       "code": "PWQ",
       "marketingName": "Pearl White",
       "finish": "solid",
@@ -6872,23 +5478,6 @@
       }
     },
     {
-      "code": "PFG",
-      "marketingName": "Olive Green",
-      "finish": "solid",
-      "lab": {
-        "L": 51.2,
-        "a": -9.15,
-        "b": 34.68,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_chip",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from chip-image average #7E7D3D (PaintRef chip, OEM=Dodge, code=PFG (models=Dodge; year=2016), pixels=306, chipUrl=https://www.paintref.com/chipimages/2U2ADA.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref-chip:15dedb952ab5e49b"
-      }
-    },
-    {
       "code": "PG7",
       "marketingName": "Stryker Green",
       "finish": "solid",
@@ -6923,23 +5512,6 @@
       }
     },
     {
-      "code": "PRV",
-      "marketingName": "Velvet Red",
-      "finish": "solid",
-      "lab": {
-        "L": 15.25,
-        "a": 30.11,
-        "b": 14.65,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_chip",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from chip-image average #4E0D13 (PaintRef chip, OEM=Dodge, code=PRV (models=Dodge; year=2016), pixels=306, chipUrl=https://www.paintref.com/chipimages/FUGAXD.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref-chip:29560d28ae511af4"
-      }
-    },
-    {
       "code": "PT6",
       "marketingName": "Light Brownstone",
       "finish": "solid",
@@ -6954,40 +5526,6 @@
         "recordedAt": "2026-04-18",
         "notes": "Derived from chip-image average #7D7876 (PaintRef chip, OEM=Dodge, code=PT6 (models=Dodge; year=2016), pixels=306, chipUrl=https://www.paintref.com/chipimages/2A232S.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
         "provenanceId": "paintref-chip:3e8a2e0554932b12"
-      }
-    },
-    {
-      "code": "PTW",
-      "marketingName": "Luxury Brown",
-      "finish": "solid",
-      "lab": {
-        "L": 16.53,
-        "a": 9.5,
-        "b": 0.1,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_chip",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from chip-image average #362429 (PaintRef chip, OEM=Dodge, code=PTW (models=Dodge; years=2016-2017), pixels=306, chipUrl=https://www.paintref.com/chipimages/DS5F5C.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref-chip:27ed2b61ad8e7097"
-      }
-    },
-    {
-      "code": "PY5",
-      "marketingName": "Yorange",
-      "finish": "solid",
-      "lab": {
-        "L": 71.24,
-        "a": 24.55,
-        "b": 65.16,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_chip",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from chip-image average #F29B30 (PaintRef chip, OEM=Dodge, code=PY5 (models=Dodge; years=2016-2018), pixels=306, chipUrl=https://www.paintref.com/chipimages/45CTDG.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref-chip:676e87cfd72eafa8"
       }
     },
     {
@@ -7110,57 +5648,6 @@
       }
     },
     {
-      "code": "PX8",
-      "marketingName": "Venom Black",
-      "finish": "solid",
-      "lab": {
-        "L": 0.27,
-        "a": 0,
-        "b": 0,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_chip",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from chip-image average #010101 (PaintRef chip, OEM=Dodge, code=PX8 (models=Viper; years=2016-2018), pixels=306, chipUrl=https://www.paintref.com/chipimages/GGGGGG.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref-chip:1f437854e2d31a87"
-      }
-    },
-    {
-      "code": "PAU",
-      "marketingName": "Granite",
-      "finish": "solid",
-      "lab": {
-        "L": 40.73,
-        "a": 0,
-        "b": 0,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_chip",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from chip-image average #606060 (PaintRef chip, OEM=Dodge, code=PAU (models=Challenger; years=2017-2023), pixels=306, chipUrl=https://www.paintref.com/chipimages/SGSGSG.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref-chip:a9553bbd5bdf32d7"
-      }
-    },
-    {
-      "code": "PBX",
-      "marketingName": "Contusion Blue",
-      "finish": "solid",
-      "lab": {
-        "L": 16.37,
-        "a": 5.54,
-        "b": -15.1,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_chip",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from chip-image average #24273E (PaintRef chip, OEM=Dodge, code=PBX (models=Challenger; years=2017-2020), pixels=306, chipUrl=https://www.paintref.com/chipimages/5F52DU.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref-chip:507df1ab2ceeebf6"
-      }
-    },
-    {
       "code": "PDN",
       "marketingName": "Destroyer Gray",
       "finish": "solid",
@@ -7192,40 +5679,6 @@
         "recordedAt": "2026-04-18",
         "notes": "Derived from chip-image average #7FBE01 (PaintRef chip, OEM=Dodge, code=PGM (models=Challenger; years=2017-2018), pixels=306, chipUrl=https://www.paintref.com/chipimages/24TUGG.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
         "provenanceId": "paintref-chip:f171ab6e76a7ee59"
-      }
-    },
-    {
-      "code": "PRV",
-      "marketingName": "Octane Red",
-      "finish": "solid",
-      "lab": {
-        "L": 15.25,
-        "a": 30.11,
-        "b": 14.65,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_chip",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from chip-image average #4E0D13 (PaintRef chip, OEM=Dodge, code=PRV (models=Challenger; years=2017-2026), pixels=306, chipUrl=https://www.paintref.com/chipimages/FUGAXD.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref-chip:29560d28ae511af4"
-      }
-    },
-    {
-      "code": "PW7",
-      "marketingName": "White Knuckle",
-      "finish": "solid",
-      "lab": {
-        "L": 97.14,
-        "a": -0.31,
-        "b": -1.19,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_chip",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from chip-image average #F5F7F9 (PaintRef chip, OEM=Dodge, code=PW7 (models=Challenger; years=2017-2026), pixels=306, chipUrl=https://www.paintref.com/chipimages/4W424C.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref-chip:bd32ba131bff11da"
       }
     },
     {
@@ -7331,23 +5784,6 @@
       }
     },
     {
-      "code": "PRS",
-      "marketingName": "Bright Red",
-      "finish": "solid",
-      "lab": {
-        "L": 36.55,
-        "a": 54.18,
-        "b": 37.21,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_chip",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from chip-image average #A81D1D (PaintRef chip, OEM=Dodge, code=PRS (models=Dodge; years=2017-2022), pixels=306, chipUrl=https://www.paintref.com/chipimages/E3XAXA.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref-chip:35b7bbb4a8251165"
-      }
-    },
-    {
       "code": "PSQ",
       "marketingName": "Bruiser Grey",
       "finish": "solid",
@@ -7365,57 +5801,6 @@
       }
     },
     {
-      "code": "PW3",
-      "marketingName": "Vice White",
-      "finish": "solid",
-      "lab": {
-        "L": 97.81,
-        "a": 2.67,
-        "b": -0.13,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_chip",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from chip-image average #FEF7F9 (PaintRef chip, OEM=Dodge, code=PW3 (models=Dodge; year=2017), pixels=306, chipUrl=https://www.paintref.com/chipimages/4U424C.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref-chip:fb90a0398caa9d9e"
-      }
-    },
-    {
-      "code": "PWD",
-      "marketingName": "Vice White",
-      "finish": "solid",
-      "lab": {
-        "L": 90.72,
-        "a": -2.91,
-        "b": 1.73,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_chip",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from chip-image average #E0E6E1 (PaintRef chip, OEM=Dodge, code=PWD (models=Dodge; years=2017-2023), pixels=306, chipUrl=https://www.paintref.com/chipimages/UGUSUX.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref-chip:02cefe86632161c9"
-      }
-    },
-    {
-      "code": "PWH",
-      "marketingName": "White Noise",
-      "finish": "solid",
-      "lab": {
-        "L": 96.61,
-        "a": -4.07,
-        "b": 9.38,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_chip",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from chip-image average #F5F7E3 (PaintRef chip, OEM=Dodge, code=PWH (models=Dodge; years=2017-2020), pixels=306, chipUrl=https://www.paintref.com/chipimages/4W42UD.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref-chip:bd75b0acc8e0a037"
-      }
-    },
-    {
       "code": "PXQ",
       "marketingName": "Black",
       "finish": "solid",
@@ -7430,57 +5815,6 @@
         "recordedAt": "2026-04-18",
         "notes": "Derived from chip-image average #010101 (PaintRef chip, OEM=Dodge, code=PXQ (models=Dodge; years=2017-2020), pixels=306, chipUrl=https://www.paintref.com/chipimages/GGGGGG.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
         "provenanceId": "paintref-chip:1f437854e2d31a87"
-      }
-    },
-    {
-      "code": "PBU",
-      "marketingName": "Blue By You",
-      "finish": "solid",
-      "lab": {
-        "L": 18.15,
-        "a": 13.84,
-        "b": -23.91,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_chip",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from chip-image average #2C274F (PaintRef chip, OEM=Dodge, code=PBU (models=Durango; years=2017-2018), pixels=306, chipUrl=https://www.paintref.com/chipimages/5H52F4.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref-chip:a3bb5e783888465b"
-      }
-    },
-    {
-      "code": "PTW",
-      "marketingName": "Bomber Brown",
-      "finish": "solid",
-      "lab": {
-        "L": 16.53,
-        "a": 9.5,
-        "b": 0.1,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_chip",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from chip-image average #362429 (PaintRef chip, OEM=Dodge, code=PTW (models=Durango; year=2017), pixels=306, chipUrl=https://www.paintref.com/chipimages/DS5F5C.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref-chip:27ed2b61ad8e7097"
-      }
-    },
-    {
-      "code": "PBM",
-      "marketingName": "Indigo Blue",
-      "finish": "solid",
-      "lab": {
-        "L": 31.83,
-        "a": 10.43,
-        "b": -45.54,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_chip",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from chip-image average #014A93 (PaintRef chip, OEM=Dodge, code=PBM (models=Challenger; years=2018-2022), pixels=306, chipUrl=https://www.paintref.com/chipimages/GGFECD.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref-chip:514d047dece741b0"
       }
     },
     {
@@ -7518,23 +5852,6 @@
       }
     },
     {
-      "code": "PBJ",
-      "marketingName": "Hydro Blue",
-      "finish": "solid",
-      "lab": {
-        "L": 39.66,
-        "a": 16.64,
-        "b": -54.96,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_chip",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from chip-image average #1E5AB8 (PaintRef chip, OEM=Dodge, code=PBJ (models=Dodge; years=2018-2025), pixels=306, chipUrl=https://www.paintref.com/chipimages/XUWET3.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref-chip:fb4133c308a7ed44"
-      }
-    },
-    {
       "code": "PHR",
       "marketingName": "In-Violet",
       "finish": "solid",
@@ -7549,108 +5866,6 @@
         "recordedAt": "2026-04-18",
         "notes": "Derived from chip-image average #34151D (PaintRef chip, OEM=Dodge, code=PHR (models=Dodge; years=2018-2021), pixels=306, chipUrl=https://www.paintref.com/chipimages/DFXWXA.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
         "provenanceId": "paintref-chip:df2389ee3f7113ef"
-      }
-    },
-    {
-      "code": "PXJ",
-      "marketingName": "DB Black",
-      "finish": "solid",
-      "lab": {
-        "L": 0.27,
-        "a": 0,
-        "b": 0,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_chip",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from chip-image average #010101 (PaintRef chip, OEM=Dodge, code=PXJ (models=Dodge; years=2018-2025), pixels=306, chipUrl=https://www.paintref.com/chipimages/GGGGGG.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref-chip:1f437854e2d31a87"
-      }
-    },
-    {
-      "code": "P18",
-      "marketingName": "Earth Brown",
-      "finish": "solid",
-      "lab": {
-        "L": 19.81,
-        "a": -4.09,
-        "b": 16.07,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_chip",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from chip-image average #323118 (PaintRef chip, OEM=Dodge, code=P18 (models=Dodge; years=2018-2020), pixels=306, chipUrl=https://www.paintref.com/chipimages/D5DXX3.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref-chip:5a90c1f26733cf89"
-      }
-    },
-    {
-      "code": "PAJ",
-      "marketingName": "Quartz Gray",
-      "finish": "solid",
-      "lab": {
-        "L": 37.58,
-        "a": -0.01,
-        "b": -8.51,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_chip",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from chip-image average #515966 (PaintRef chip, OEM=Dodge, code=PAJ (models=Dodge; years=2018-2022), pixels=306, chipUrl=https://www.paintref.com/chipimages/WXWCSS.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref-chip:cd98b2b656983721"
-      }
-    },
-    {
-      "code": "PRV",
-      "marketingName": "Delmonico Red",
-      "finish": "solid",
-      "lab": {
-        "L": 15.25,
-        "a": 30.11,
-        "b": 14.65,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_chip",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from chip-image average #4E0D13 (PaintRef chip, OEM=Dodge, code=PRV (models=Dodge Truck; years=2018-2025), pixels=306, chipUrl=https://www.paintref.com/chipimages/FUGAXD.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref-chip:29560d28ae511af4"
-      }
-    },
-    {
-      "code": "PUW",
-      "marketingName": "Walnut Brown",
-      "finish": "solid",
-      "lab": {
-        "L": 27.42,
-        "a": 6.54,
-        "b": 5.9,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_chip",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from chip-image average #4E3D38 (PaintRef chip, OEM=Dodge, code=PUW (models=Dodge Truck; years=2018-2023), pixels=306, chipUrl=https://www.paintref.com/chipimages/FUDAD3.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref-chip:cc1e37830de9f7bb"
-      }
-    },
-    {
-      "code": "PXR",
-      "marketingName": "Black Onyx Crystal Pearl",
-      "finish": "solid",
-      "lab": {
-        "L": 0.27,
-        "a": 0,
-        "b": 0,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_chip",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from chip-image average #010101 (PaintRef chip, OEM=Dodge, code=PXR (models=Grand Caravan; year=2018), pixels=306, chipUrl=https://www.paintref.com/chipimages/GGGGGG.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref-chip:1f437854e2d31a87"
       }
     },
     {
@@ -7685,40 +5900,6 @@
         "recordedAt": "2026-04-18",
         "notes": "Derived from chip-image average #5A7B97 (PaintRef chip, OEM=Dodge, code=PBF (models=Dodge; years=2019-2021), pixels=306, chipUrl=https://www.paintref.com/chipimages/WE2TC2.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
         "provenanceId": "paintref-chip:afbb2e3d7fc22529"
-      }
-    },
-    {
-      "code": "PRS",
-      "marketingName": "Rosso Speed",
-      "finish": "solid",
-      "lab": {
-        "L": 36.55,
-        "a": 54.18,
-        "b": 37.21,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_chip",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from chip-image average #A81D1D (PaintRef chip, OEM=Dodge, code=PRS (models=Dodge; year=2019), pixels=306, chipUrl=https://www.paintref.com/chipimages/E3XAXA.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref-chip:35b7bbb4a8251165"
-      }
-    },
-    {
-      "code": "PXR",
-      "marketingName": "Black Onyx Crystal",
-      "finish": "solid",
-      "lab": {
-        "L": 0.27,
-        "a": 0,
-        "b": 0,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_chip",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from chip-image average #010101 (PaintRef chip, OEM=Dodge, code=PXR (models=Grand Caravan; years=2019-2020), pixels=306, chipUrl=https://www.paintref.com/chipimages/GGGGGG.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref-chip:1f437854e2d31a87"
       }
     },
     {
@@ -7824,40 +6005,6 @@
       }
     },
     {
-      "code": "PRV",
-      "marketingName": "Red Pearl",
-      "finish": "solid",
-      "lab": {
-        "L": 15.25,
-        "a": 30.11,
-        "b": 14.65,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_chip",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from chip-image average #4E0D13 (PaintRef chip, OEM=Dodge, code=PRV (models=Dodge; year=2020), pixels=306, chipUrl=https://www.paintref.com/chipimages/FUGAXD.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref-chip:29560d28ae511af4"
-      }
-    },
-    {
-      "code": "PXJ",
-      "marketingName": "Diamond Black Crystal",
-      "finish": "solid",
-      "lab": {
-        "L": 0.27,
-        "a": 0,
-        "b": 0,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_chip",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from chip-image average #010101 (PaintRef chip, OEM=Dodge, code=PXJ (models=Dodge; years=2020-2026), pixels=306, chipUrl=https://www.paintref.com/chipimages/GGGGGG.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref-chip:1f437854e2d31a87"
-      }
-    },
-    {
       "code": "P25",
       "marketingName": "Brazilian Post Yellow",
       "finish": "solid",
@@ -7872,40 +6019,6 @@
         "recordedAt": "2026-04-18",
         "notes": "Derived from chip-image average #FAB62A (PaintRef chip, OEM=Dodge, code=P25 (models=Dodge Truck; year=2020), pixels=306, chipUrl=https://www.paintref.com/chipimages/4ETS5E.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
         "provenanceId": "paintref-chip:c1015c5f0633bfee"
-      }
-    },
-    {
-      "code": "P61",
-      "marketingName": "Agriculture Red",
-      "finish": "solid",
-      "lab": {
-        "L": 31.6,
-        "a": 49.58,
-        "b": 30.2,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_chip",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from chip-image average #93171E (PaintRef chip, OEM=Dodge, code=P61 (models=Dodge Truck; years=2020-2025), pixels=306, chipUrl=https://www.paintref.com/chipimages/CDX2XU.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref-chip:c9fa3762bf0cdf88"
-      }
-    },
-    {
-      "code": "P64",
-      "marketingName": "Cream",
-      "finish": "solid",
-      "lab": {
-        "L": 81.89,
-        "a": -3.15,
-        "b": 22.23,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_chip",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from chip-image average #D6CCA2 (PaintRef chip, OEM=Dodge, code=P64 (models=Dodge Truck; year=2020), pixels=306, chipUrl=https://www.paintref.com/chipimages/ASHHE5.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref-chip:5caa6950687f8c10"
       }
     },
     {
@@ -7977,40 +6090,6 @@
       }
     },
     {
-      "code": "P74",
-      "marketingName": "National Safety Yellow",
-      "finish": "solid",
-      "lab": {
-        "L": 91.22,
-        "a": -26.64,
-        "b": 77.63,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_chip",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from chip-image average #DFF140 (PaintRef chip, OEM=Dodge, code=P74 (models=Dodge Truck; years=2020-2025), pixels=306, chipUrl=https://www.paintref.com/chipimages/A44XFG.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref-chip:45c7f95a2ee44f42"
-      }
-    },
-    {
-      "code": "P81",
-      "marketingName": "Power Tan",
-      "finish": "solid",
-      "lab": {
-        "L": 76.77,
-        "a": -3.52,
-        "b": 24.05,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_chip",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from chip-image average #C8BE91 (PaintRef chip, OEM=Dodge, code=P81 (models=Dodge Truck; years=2020-2025), pixels=306, chipUrl=https://www.paintref.com/chipimages/H3TUCX.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref-chip:720fc4e67b857cd4"
-      }
-    },
-    {
       "code": "P83",
       "marketingName": "Utility Orange",
       "finish": "solid",
@@ -8062,40 +6141,6 @@
       }
     },
     {
-      "code": "PAU",
-      "marketingName": "Granite Pearl",
-      "finish": "solid",
-      "lab": {
-        "L": 40.73,
-        "a": 0,
-        "b": 0,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_chip",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from chip-image average #606060 (PaintRef chip, OEM=Dodge, code=PAU (models=Challenger; years=2021-2022), pixels=306, chipUrl=https://www.paintref.com/chipimages/SGSGSG.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref-chip:a9553bbd5bdf32d7"
-      }
-    },
-    {
-      "code": "PXQ",
-      "marketingName": "Black Metallic",
-      "finish": "solid",
-      "lab": {
-        "L": 0.27,
-        "a": 0,
-        "b": 0,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_chip",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from chip-image average #010101 (PaintRef chip, OEM=Dodge, code=PXQ (models=Dodge; years=2021-2022), pixels=306, chipUrl=https://www.paintref.com/chipimages/GGGGGG.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref-chip:1f437854e2d31a87"
-      }
-    },
-    {
       "code": "487",
       "marketingName": "Blue Night",
       "finish": "solid",
@@ -8110,23 +6155,6 @@
         "recordedAt": "2026-04-18",
         "notes": "Derived from chip-image average #16223A (PaintRef chip, OEM=Dodge, code=487 (models=Dodge; year=2021), pixels=306, chipUrl=https://www.paintref.com/chipimages/XS55DE.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
         "provenanceId": "paintref-chip:cb8c8e9eee526fc3"
-      }
-    },
-    {
-      "code": "PWD",
-      "marketingName": "Ivory White",
-      "finish": "solid",
-      "lab": {
-        "L": 90.72,
-        "a": -2.91,
-        "b": 1.73,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_chip",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from chip-image average #E0E6E1 (PaintRef chip, OEM=Dodge, code=PWD (models=Dodge Truck; years=2021-2024), pixels=306, chipUrl=https://www.paintref.com/chipimages/UGUSUX.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref-chip:02cefe86632161c9"
       }
     },
     {
@@ -8198,23 +6226,6 @@
       }
     },
     {
-      "code": "PF2",
-      "marketingName": "Spitfire Orange",
-      "finish": "solid",
-      "lab": {
-        "L": 53.95,
-        "a": 61.42,
-        "b": 47.94,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_chip",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from chip-image average #E94631 (PaintRef chip, OEM=Dodge, code=PF2 (models=Dodge; years=2023-2025), pixels=306, chipUrl=https://www.paintref.com/chipimages/UCFSDX.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref-chip:4fbaf9e125fd1bda"
-      }
-    },
-    {
       "code": "217B",
       "marketingName": "Q Ball",
       "finish": "solid",
@@ -8283,23 +6294,6 @@
       }
     },
     {
-      "code": "PXJ",
-      "marketingName": "Diamond Black",
-      "finish": "solid",
-      "lab": {
-        "L": 0.27,
-        "a": 0,
-        "b": 0,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_chip",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from chip-image average #010101 (PaintRef chip, OEM=Dodge, code=PXJ (models=Dodge Truck; years=2023-2026), pixels=306, chipUrl=https://www.paintref.com/chipimages/GGGGGG.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref-chip:1f437854e2d31a87"
-      }
-    },
-    {
       "code": "PAS",
       "marketingName": "Vapor Gray",
       "finish": "solid",
@@ -8314,57 +6308,6 @@
         "recordedAt": "2026-04-18",
         "notes": "Derived from chip-image average #4A4444 (PaintRef chip, OEM=Dodge, code=PAS (models=Charger; years=2024-2026), pixels=306, chipUrl=https://www.paintref.com/chipimages/FEFFFF.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
         "provenanceId": "paintref-chip:83e3c3159f797b60"
-      }
-    },
-    {
-      "code": "PL4",
-      "marketingName": "Peel Out",
-      "finish": "solid",
-      "lab": {
-        "L": 59.77,
-        "a": 37.84,
-        "b": 57.73,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_chip",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from chip-image average #DF7226 (PaintRef chip, OEM=Dodge, code=PL4 (models=Charger; years=2024-2026), pixels=306, chipUrl=https://www.paintref.com/chipimages/A4255S.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref-chip:216f1e6337b8a911"
-      }
-    },
-    {
-      "code": "PPS",
-      "marketingName": "After Dark",
-      "finish": "solid",
-      "lab": {
-        "L": 30.94,
-        "a": -5.07,
-        "b": -11.83,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_chip",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from chip-image average #334C5B (PaintRef chip, OEM=Dodge, code=PPS (models=Charger; years=2024-2026), pixels=306, chipUrl=https://www.paintref.com/chipimages/DDFHWT.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref-chip:c572cb2acce07c0a"
-      }
-    },
-    {
-      "code": "PR6",
-      "marketingName": "Redeye",
-      "finish": "solid",
-      "lab": {
-        "L": 32.5,
-        "a": 51.06,
-        "b": 36.05,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_chip",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from chip-image average #981616 (PaintRef chip, OEM=Dodge, code=PR6 (models=Charger; years=2024-2026), pixels=306, chipUrl=https://www.paintref.com/chipimages/C3XSXS.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref-chip:1420a2f088d9f35f"
       }
     },
     {
@@ -8419,40 +6362,6 @@
       }
     },
     {
-      "code": "PRV",
-      "marketingName": "Demonico Red",
-      "finish": "solid",
-      "lab": {
-        "L": 15.25,
-        "a": 30.11,
-        "b": 14.65,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_chip",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from chip-image average #4E0D13 (PaintRef chip, OEM=Dodge, code=PRV (models=Dodge; year=2024), pixels=306, chipUrl=https://www.paintref.com/chipimages/FUGAXD.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref-chip:29560d28ae511af4"
-      }
-    },
-    {
-      "code": "PXJ",
-      "marketingName": "Diamond Black Black",
-      "finish": "solid",
-      "lab": {
-        "L": 0.27,
-        "a": 0,
-        "b": 0,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_chip",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from chip-image average #010101 (PaintRef chip, OEM=Dodge, code=PXJ (models=Dodge; year=2024), pixels=306, chipUrl=https://www.paintref.com/chipimages/GGGGGG.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref-chip:1f437854e2d31a87"
-      }
-    },
-    {
       "code": "PL5",
       "marketingName": "Acapulco Gold",
       "finish": "solid",
@@ -8467,57 +6376,6 @@
         "recordedAt": "2026-04-18",
         "notes": "Derived from chip-image average #EEB94E (PaintRef chip, OEM=Dodge, code=PL5 (models=Dodge; years=2025-2026), pixels=306, chipUrl=https://www.paintref.com/chipimages/UUTCFU.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
         "provenanceId": "paintref-chip:63128ffba3ebe570"
-      }
-    },
-    {
-      "code": "PW1",
-      "marketingName": "Q Ball",
-      "finish": "solid",
-      "lab": {
-        "L": 96.28,
-        "a": -0.52,
-        "b": 7.93,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_chip",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from chip-image average #FAF4E5 (PaintRef chip, OEM=Dodge, code=PW1 (models=Dodge; years=2025-2026), pixels=306, chipUrl=https://www.paintref.com/chipimages/4E4FUW.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref-chip:0e3fca4b0e0124d8"
-      }
-    },
-    {
-      "code": "PDN",
-      "marketingName": "Ceramic Gray",
-      "finish": "solid",
-      "lab": {
-        "L": 46.04,
-        "a": -0.41,
-        "b": 3.62,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_chip",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from chip-image average #6F6D67 (PaintRef chip, OEM=Dodge, code=PDN (models=Dodge; year=2025), pixels=306, chipUrl=https://www.paintref.com/chipimages/S4SAS2.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref-chip:15a1476429819818"
-      }
-    },
-    {
-      "code": "PSE",
-      "marketingName": "Silver Zynith",
-      "finish": "solid",
-      "lab": {
-        "L": 75.39,
-        "a": -5.34,
-        "b": -4.12,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_chip",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from chip-image average #ABBDC1 (PaintRef chip, OEM=Dodge, code=PSE (models=Dodge; year=2025), pixels=306, chipUrl=https://www.paintref.com/chipimages/ETTAHX.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref-chip:d7b676848659be9c"
       }
     },
     {
@@ -8555,23 +6413,6 @@
       }
     },
     {
-      "code": "PAS",
-      "marketingName": "Steel Storm",
-      "finish": "solid",
-      "lab": {
-        "L": 29.43,
-        "a": 2.53,
-        "b": 0.91,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_chip",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from chip-image average #4A4444 (PaintRef chip, OEM=Dodge, code=PAS (models=Dodge; year=2025), pixels=306, chipUrl=https://www.paintref.com/chipimages/FEFFFF.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref-chip:83e3c3159f797b60"
-      }
-    },
-    {
       "code": "PCG",
       "marketingName": "Forged Blue",
       "finish": "solid",
@@ -8586,40 +6427,6 @@
         "recordedAt": "2026-04-18",
         "notes": "Derived from chip-image average #2C303A (PaintRef chip, OEM=Dodge, code=PCG (models=Dodge; year=2025), pixels=306, chipUrl=https://www.paintref.com/chipimages/5HDGDE.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
         "provenanceId": "paintref-chip:16b163eca2a05e7f"
-      }
-    },
-    {
-      "code": "PBJ",
-      "marketingName": "Bludicrous",
-      "finish": "solid",
-      "lab": {
-        "L": 39.66,
-        "a": 16.64,
-        "b": -54.96,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_chip",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from chip-image average #1E5AB8 (PaintRef chip, OEM=Dodge, code=PBJ (models=Charger; year=2026), pixels=306, chipUrl=https://www.paintref.com/chipimages/XUWET3.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref-chip:fb4133c308a7ed44"
-      }
-    },
-    {
-      "code": "PFP",
-      "marketingName": "Green Machine",
-      "finish": "solid",
-      "lab": {
-        "L": 47.58,
-        "a": -7.76,
-        "b": 14.07,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_chip",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from chip-image average #6D7459 (PaintRef chip, OEM=Dodge, code=PFP (models=Charger; year=2026), pixels=306, chipUrl=https://www.paintref.com/chipimages/SA2FWC.png). Attribution: paintref.com. Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref-chip:5cfffd8f6abbdd0f"
       }
     }
   ]

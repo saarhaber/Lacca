@@ -1,0 +1,53 @@
+[
+  {
+    "oem": "Renault",
+    "modelYear": 1975,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1975-Renault.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1975-renault/1975-renault-pg07.jpg",
+    "bbox": {
+      "x": 146,
+      "y": 209,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#F4ECE1",
+    "code": "910/920",
+    "marketingName": "Royale Gris",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈43; verify chip alignment."
+  },
+  {
+    "oem": "Renault",
+    "modelYear": 1976,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1976-Renault.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1976-renault/1976-renault-pg03.jpg",
+    "bbox": {
+      "x": 146,
+      "y": 209,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#F4ECE1",
+    "code": "910/920",
+    "marketingName": "Royale Gris",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈43; verify chip alignment."
+  },
+  {
+    "oem": "Renault",
+    "modelYear": 1986,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1986-Renault.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1986-renault/1986-Renault-pg03.jpg",
+    "bbox": {
+      "x": 146,
+      "y": 209,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#C2B0AC",
+    "code": "9000/8300",
+    "marketingName": "Factory color 9000/8300",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈51; verify chip alignment."
+  }
+]

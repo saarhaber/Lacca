@@ -1,0 +1,103 @@
+{
+  "$schema": "../../../schemas/exterior-paints-v1.schema.json",
+  "scopeId": "mclaren-paintref-v1",
+  "version": "1.0.0",
+  "paints": [
+    {
+      "code": "MSO",
+      "marketingName": "Papaya Spark",
+      "finish": "metallic",
+      "lab": {
+        "L": 62.31,
+        "a": 55,
+        "b": 71.33,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "hex_derived",
+        "confidence": "derived",
+        "recordedAt": "2026-04-20",
+        "notes": "Derived from #FF6600 (hex_derived). Replace with spectro LAB before production claims."
+      }
+    },
+    {
+      "code": "1AB",
+      "marketingName": "Vega Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 44.03,
+        "a": 15.27,
+        "b": -59.52,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "hex_derived",
+        "confidence": "derived",
+        "recordedAt": "2026-04-20",
+        "notes": "Derived from #0066CC (hex_derived). Replace with spectro LAB before production claims."
+      }
+    },
+    {
+      "code": "1AH",
+      "marketingName": "Storm Grey",
+      "finish": "metallic",
+      "lab": {
+        "L": 46.24,
+        "a": -0.73,
+        "b": -1.51,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "hex_derived",
+        "confidence": "derived",
+        "recordedAt": "2026-04-20",
+        "notes": "Derived from #6B6E70 (hex_derived). Replace with spectro LAB before production claims."
+      }
+    },
+    {
+      "code": "1AG",
+      "marketingName": "Volcano Yellow",
+      "finish": "solid",
+      "lab": {
+        "L": 85.44,
+        "a": 1.12,
+        "b": 86.08,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "hex_derived",
+        "confidence": "derived",
+        "recordedAt": "2026-04-20",
+        "notes": "Derived from #FFD100 (hex_derived). Replace with spectro LAB before production claims."
+      }
+    },
+    {
+      "code": "1AJ",
+      "marketingName": "Silica White",
+      "finish": "metallic",
+      "lab": {
+        "L": 90.77,
+        "a": 0.48,
+        "b": 2.91,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "hex_derived",
+        "confidence": "derived",
+        "recordedAt": "2026-04-20",
+        "notes": "Derived from #E8E4DF (hex_derived). Replace with spectro LAB before production claims."
+      }
+    },
+    {
+      "code": "1AK",
+      "marketingName": "Onyx Black",
+      "finish": "solid",
+      "lab": {
+        "L": 4.31,
+        "a": 0,
+        "b": 0,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "hex_derived",
+        "confidence": "derived",
+        "recordedAt": "2026-04-20",
+        "notes": "Derived from #0F0F0F (hex_derived). Replace with spectro LAB before production claims."
+      }
+    }
+  ]
+}

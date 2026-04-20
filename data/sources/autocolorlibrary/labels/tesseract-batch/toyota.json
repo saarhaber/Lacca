@@ -1,0 +1,546 @@
+[
+  {
+    "oem": "Toyota",
+    "modelYear": 1968,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1968-Toyota.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1968-toyota/1968-toyota-pg01.jpg",
+    "bbox": {
+      "x": 36,
+      "y": 777,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#BCB5A9",
+    "code": "T1255",
+    "marketingName": "Factory color T1255",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈0; verify chip alignment."
+  },
+  {
+    "oem": "Toyota",
+    "modelYear": 1968,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1968-Toyota.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1968-toyota/1968-toyota-pg01.jpg",
+    "bbox": {
+      "x": 179,
+      "y": 0,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#B5AA9D",
+    "code": "T1276",
+    "marketingName": "Factory color T1276",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈0; verify chip alignment."
+  },
+  {
+    "oem": "Toyota",
+    "modelYear": 1968,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1968-Toyota.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1968-toyota/1968-toyota-pg01.jpg",
+    "bbox": {
+      "x": 323,
+      "y": 779,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#9E9F99",
+    "code": "T1421",
+    "marketingName": "Factory color T1421",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈53; verify chip alignment."
+  },
+  {
+    "oem": "Toyota",
+    "modelYear": 1968,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1968-Toyota.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1968-toyota/1968-toyota-pg01.jpg",
+    "bbox": {
+      "x": 467,
+      "y": 0,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#A89C92",
+    "code": "T1424",
+    "marketingName": "Factory color T1424",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈0; verify chip alignment."
+  },
+  {
+    "oem": "Toyota",
+    "modelYear": 1968,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1968-Toyota.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1968-toyota/1968-toyota-pg01.jpg",
+    "bbox": {
+      "x": 467,
+      "y": 393,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#B49A90",
+    "code": "T1502",
+    "marketingName": "SATELLITE PEARL PAN WHITE",
+    "finish": "pearl",
+    "notes": "Tesseract batch: code conf≈0; verify chip alignment."
+  },
+  {
+    "oem": "Toyota",
+    "modelYear": 1968,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1968-Toyota.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1968-toyota/1968-toyota-pg01.jpg",
+    "bbox": {
+      "x": 468,
+      "y": 470,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#BCB3A3",
+    "code": "T1506",
+    "marketingName": "Factory color T1506",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈0; verify chip alignment."
+  },
+  {
+    "oem": "Toyota",
+    "modelYear": 1968,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1968-Toyota.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1968-toyota/1968-toyota-pg01.jpg",
+    "bbox": {
+      "x": 611,
+      "y": 393,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#BFB0A1",
+    "code": "T1540",
+    "marketingName": "MOONSTONE",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈0; verify chip alignment."
+  },
+  {
+    "oem": "Toyota",
+    "modelYear": 1968,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1968-Toyota.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1968-toyota/1968-toyota-pg01.jpg",
+    "bbox": {
+      "x": 611,
+      "y": 470,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#B7B2A6",
+    "code": "T1551",
+    "marketingName": "Factory color T1551",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈0; verify chip alignment."
+  },
+  {
+    "oem": "Toyota",
+    "modelYear": 1968,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1968-Toyota.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1968-toyota/1968-toyota-pg01.jpg",
+    "bbox": {
+      "x": 477,
+      "y": 160,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#B6AD9B",
+    "code": "TeM453",
+    "marketingName": "Factory color TEM453",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈0; verify chip alignment."
+  },
+  {
+    "oem": "Toyota",
+    "modelYear": 1969,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1969-Toyota.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1969-toyota/1969-toyota-pg04.jpg",
+    "bbox": {
+      "x": 145,
+      "y": 436,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#F5EEE7",
+    "code": "207/718",
+    "marketingName": "Factory color 207/718",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈0; verify chip alignment."
+  },
+  {
+    "oem": "Toyota",
+    "modelYear": 1969,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1969-Toyota.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1969-toyota/1969-toyota-pg07.jpg",
+    "bbox": {
+      "x": 149,
+      "y": 291,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#F6EFE7",
+    "code": "702/165",
+    "marketingName": "Sircon Purpto",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈0; verify chip alignment."
+  },
+  {
+    "oem": "Toyota",
+    "modelYear": 1969,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1969-Toyota.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1969-toyota/1969-toyota-pg01.jpg",
+    "bbox": {
+      "x": 36,
+      "y": 777,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#BCB5A9",
+    "code": "T1255",
+    "marketingName": "Factory color T1255",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈0; verify chip alignment."
+  },
+  {
+    "oem": "Toyota",
+    "modelYear": 1969,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1969-Toyota.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1969-toyota/1969-toyota-pg01.jpg",
+    "bbox": {
+      "x": 179,
+      "y": 0,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#B5AA9D",
+    "code": "T1276",
+    "marketingName": "Factory color T1276",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈0; verify chip alignment."
+  },
+  {
+    "oem": "Toyota",
+    "modelYear": 1969,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1969-Toyota.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1969-toyota/1969-toyota-pg01.jpg",
+    "bbox": {
+      "x": 323,
+      "y": 779,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#9E9F99",
+    "code": "T1421",
+    "marketingName": "Factory color T1421",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈53; verify chip alignment."
+  },
+  {
+    "oem": "Toyota",
+    "modelYear": 1969,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1969-Toyota.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1969-toyota/1969-toyota-pg01.jpg",
+    "bbox": {
+      "x": 467,
+      "y": 0,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#A89C92",
+    "code": "T1424",
+    "marketingName": "Factory color T1424",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈0; verify chip alignment."
+  },
+  {
+    "oem": "Toyota",
+    "modelYear": 1969,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1969-Toyota.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1969-toyota/1969-toyota-pg01.jpg",
+    "bbox": {
+      "x": 467,
+      "y": 393,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#B49A90",
+    "code": "T1502",
+    "marketingName": "SATELLITE PEARL PAN WHITE",
+    "finish": "pearl",
+    "notes": "Tesseract batch: code conf≈0; verify chip alignment."
+  },
+  {
+    "oem": "Toyota",
+    "modelYear": 1969,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1969-Toyota.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1969-toyota/1969-toyota-pg01.jpg",
+    "bbox": {
+      "x": 468,
+      "y": 470,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#BCB3A3",
+    "code": "T1506",
+    "marketingName": "Factory color T1506",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈0; verify chip alignment."
+  },
+  {
+    "oem": "Toyota",
+    "modelYear": 1969,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1969-Toyota.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1969-toyota/1969-toyota-pg01.jpg",
+    "bbox": {
+      "x": 611,
+      "y": 393,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#BFB0A1",
+    "code": "T1540",
+    "marketingName": "MOONSTONE",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈0; verify chip alignment."
+  },
+  {
+    "oem": "Toyota",
+    "modelYear": 1969,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1969-Toyota.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1969-toyota/1969-toyota-pg01.jpg",
+    "bbox": {
+      "x": 611,
+      "y": 470,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#B7B2A6",
+    "code": "T1551",
+    "marketingName": "Factory color T1551",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈0; verify chip alignment."
+  },
+  {
+    "oem": "Toyota",
+    "modelYear": 1969,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1969-Toyota.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1969-toyota/1969-toyota-pg01.jpg",
+    "bbox": {
+      "x": 477,
+      "y": 160,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#B6AD9B",
+    "code": "TeM453",
+    "marketingName": "Factory color TEM453",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈0; verify chip alignment."
+  },
+  {
+    "oem": "Toyota",
+    "modelYear": 1970,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1970-Toyota.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1970-toyota/1970-toyota-pg04.jpg",
+    "bbox": {
+      "x": 145,
+      "y": 436,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#F5EEE7",
+    "code": "207/718",
+    "marketingName": "Factory color 207/718",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈0; verify chip alignment."
+  },
+  {
+    "oem": "Toyota",
+    "modelYear": 1970,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1970-Toyota.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1970-toyota/1970-toyota-pg07.jpg",
+    "bbox": {
+      "x": 149,
+      "y": 291,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#F6EFE7",
+    "code": "702/165",
+    "marketingName": "Sircon Purpto",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈0; verify chip alignment."
+  },
+  {
+    "oem": "Toyota",
+    "modelYear": 1971,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1971-Toyota.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1971-toyota/1971-toyota-pg04.jpg",
+    "bbox": {
+      "x": 145,
+      "y": 436,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#F5EEE7",
+    "code": "207/718",
+    "marketingName": "Factory color 207/718",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈0; verify chip alignment."
+  },
+  {
+    "oem": "Toyota",
+    "modelYear": 1971,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1971-Toyota.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1971-toyota/1971-toyota-pg07.jpg",
+    "bbox": {
+      "x": 149,
+      "y": 291,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#F6EFE7",
+    "code": "702/165",
+    "marketingName": "Sircon Purpto",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈0; verify chip alignment."
+  },
+  {
+    "oem": "Toyota",
+    "modelYear": 1972,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1972-Toyota.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1972-toyota/1972-toyota-pg06.jpg",
+    "bbox": {
+      "x": 145,
+      "y": 436,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#F5EEE7",
+    "code": "207/718",
+    "marketingName": "Factory color 207/718",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈0; verify chip alignment."
+  },
+  {
+    "oem": "Toyota",
+    "modelYear": 1972,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1972-Toyota.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1972-toyota/1972-toyota-pg09.jpg",
+    "bbox": {
+      "x": 149,
+      "y": 291,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#F6EFE7",
+    "code": "702/165",
+    "marketingName": "Sircon Purpto",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈0; verify chip alignment."
+  },
+  {
+    "oem": "Toyota",
+    "modelYear": 1973,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1973-Toyota.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1973-toyota/1973-toyota-pg06.jpg",
+    "bbox": {
+      "x": 145,
+      "y": 436,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#F5EEE7",
+    "code": "207/718",
+    "marketingName": "Factory color 207/718",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈0; verify chip alignment."
+  },
+  {
+    "oem": "Toyota",
+    "modelYear": 1973,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1973-Toyota.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1973-toyota/1973-toyota-pg09.jpg",
+    "bbox": {
+      "x": 149,
+      "y": 291,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#F6EFE7",
+    "code": "702/165",
+    "marketingName": "Sircon Purpto",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈0; verify chip alignment."
+  },
+  {
+    "oem": "Toyota",
+    "modelYear": 2003,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2003-Toyota.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2003-toyota/2003-Toyota-pg01.jpg",
+    "bbox": {
+      "x": 112,
+      "y": 303,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#F5F4F5",
+    "code": "5641/5656",
+    "marketingName": "etal",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈84; verify chip alignment."
+  },
+  {
+    "oem": "Toyota",
+    "modelYear": 2003,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2003-Toyota.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2003-toyota/2003-Toyota-pg01.jpg",
+    "bbox": {
+      "x": 113,
+      "y": 569,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#F3F0F3",
+    "code": "5758/5759",
+    "marketingName": "Cristal lane ove",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈86; verify chip alignment."
+  },
+  {
+    "oem": "Toyota",
+    "modelYear": 2003,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2003-Toyota.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2003-toyota/2003-Toyota-pg01.jpg",
+    "bbox": {
+      "x": 286,
+      "y": 0,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#E3E1E0",
+    "code": "5794/5795",
+    "marketingName": "‘risa",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈88; verify chip alignment."
+  },
+  {
+    "oem": "Toyota",
+    "modelYear": 2003,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2003-Toyota.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2003-toyota/2003-Toyota-pg01.jpg",
+    "bbox": {
+      "x": 113,
+      "y": 441,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#F6F3F5",
+    "code": "5904/5905",
+    "marketingName": "Crista",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈82; verify chip alignment."
+  }
+]

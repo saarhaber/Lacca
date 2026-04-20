@@ -1094,3 +1094,140 @@ input[type="text"]:focus-visible {
   padding: 0.1em 0.35em;
   border-radius: 4px;
 }
+
+/* ------------------------------------------------------------------
+   Mobile / responsive tuning.
+   Base layout is designed for a 640px column and works from tablet up.
+   These queries tighten spacing, stack crowded rows, and cap tooltips
+   so the app stays usable at 320–480px widths.
+   ------------------------------------------------------------------ */
+
+@media (max-width: 560px) {
+  .page {
+    padding: 1.5rem 1rem 2rem;
+  }
+  .page.page--wide {
+    max-width: 100%;
+    padding: 1.5rem 0.85rem 2rem;
+  }
+  .panel {
+    padding: 1.15rem;
+    border-radius: var(--radius);
+  }
+  .panel.gallery-panel {
+    padding: 0 0 1rem;
+  }
+  .gallery-intro,
+  .gallery-toolbar {
+    padding-left: 1.15rem;
+    padding-right: 1.15rem;
+  }
+  .hero {
+    margin-bottom: 1.5rem;
+  }
+  .lede {
+    font-size: 0.98rem;
+  }
+  .top-bar {
+    gap: 0.5rem;
+  }
+  .eyebrow {
+    letter-spacing: 0.2em;
+    font-size: 0.7rem;
+  }
+  .app-tab {
+    font-size: 0.85rem;
+    padding: 0.55rem 0.5rem;
+  }
+  .form {
+    gap: 1rem;
+  }
+  .car-row {
+    padding: 0.85rem;
+    gap: 0.85rem;
+  }
+  .car-swatch {
+    width: 3.25rem;
+    min-height: 3.25rem;
+  }
+  .match-item {
+    grid-template-columns: auto 1fr;
+    grid-template-rows: auto auto;
+    row-gap: 0.5rem;
+    padding: 0.75rem 0.85rem;
+  }
+  .match-item .opi-swatch {
+    grid-row: 1 / span 2;
+  }
+  .match-item .badge {
+    grid-column: 2;
+    justify-self: start;
+    align-self: start;
+  }
+  .gallery-lightbox__frame {
+    width: min(100vw, 1100px);
+    border-radius: var(--radius);
+    padding: 0.35rem 0.35rem 0.65rem;
+  }
+  .gallery-lightbox__img {
+    max-height: 64vh;
+  }
+  .gallery-lightbox__cap {
+    font-size: 0.82rem;
+  }
+  .gallery-lightbox__icon {
+    width: 2.25rem;
+    height: 2.25rem;
+    font-size: 1.45rem;
+  }
+}
+
+@media (max-width: 380px) {
+  .page {
+    padding: 1.25rem 0.75rem 1.75rem;
+  }
+  .panel {
+    padding: 0.95rem;
+  }
+  .gallery-intro,
+  .gallery-toolbar {
+    padding-left: 0.95rem;
+    padding-right: 0.95rem;
+  }
+  h1 {
+    font-size: 1.6rem;
+  }
+  .lede {
+    font-size: 0.95rem;
+  }
+  .vin-row {
+    flex-wrap: wrap;
+  }
+  .vin-row input[type="text"] {
+    flex-basis: 100%;
+  }
+  .vin-row .secondary {
+    flex: 1;
+    padding: 0.6rem 0.9rem;
+  }
+  select {
+    font-size: 0.95rem;
+  }
+  .tier-legend,
+  .finish-disclaimer,
+  .catalog-meta {
+    font-size: 0.75rem;
+  }
+}
+
+/* Tooltips rendered as ::after pseudos: cap width so they never exceed the
+   viewport on narrow screens. Original rules set right:0 + max-width:20rem,
+   which could push a 320px edge case off-screen. */
+@media (max-width: 480px) {
+  .info[data-tip]::after,
+  .conf-help[data-tip]::after {
+    max-width: calc(100vw - 1.5rem);
+    right: auto;
+    left: 0;
+  }
+}

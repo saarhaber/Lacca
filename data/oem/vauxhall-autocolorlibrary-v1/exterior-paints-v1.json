@@ -1,0 +1,840 @@
+{
+  "$schema": "../../../schemas/exterior-paints-v1.schema.json",
+  "scopeId": "vauxhall-autocolorlibrary-v1",
+  "version": "1.0.0",
+  "paints": [
+    {
+      "code": "C101",
+      "marketingName": "Factory color C101",
+      "finish": "solid",
+      "lab": {
+        "L": 88.97,
+        "a": -0.73,
+        "b": 12.37,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-20",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/1967-Vauxhall.html). Image data/sources/autocolorlibrary/pages/1967-vauxhall/1967-vauxhall-pg02.jpg; bbox 509,536 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈67; verify chip alignment.",
+        "provenanceId": "acl:vauxhall:1967:C101:509,536,150x210"
+      }
+    },
+    {
+      "code": "C545",
+      "marketingName": "Factory color C545",
+      "finish": "solid",
+      "lab": {
+        "L": 86.95,
+        "a": -0.21,
+        "b": 12.07,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-20",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/1967-Vauxhall.html). Image data/sources/autocolorlibrary/pages/1967-vauxhall/1967-vauxhall-pg02.jpg; bbox 548,401 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈62; verify chip alignment.",
+        "provenanceId": "acl:vauxhall:1967:C545:548,401,150x210"
+      }
+    },
+    {
+      "code": "C549",
+      "marketingName": "Factory color C549",
+      "finish": "solid",
+      "lab": {
+        "L": 88.68,
+        "a": -0.26,
+        "b": 10.91,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-20",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/1967-Vauxhall.html). Image data/sources/autocolorlibrary/pages/1967-vauxhall/1967-vauxhall-pg02.jpg; bbox 548,624 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈43; verify chip alignment.",
+        "provenanceId": "acl:vauxhall:1967:C549:548,624,150x210"
+      }
+    },
+    {
+      "code": "C557",
+      "marketingName": "Factory color C557",
+      "finish": "solid",
+      "lab": {
+        "L": 87.68,
+        "a": -0.06,
+        "b": 11.55,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-20",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/1967-Vauxhall.html). Image data/sources/autocolorlibrary/pages/1967-vauxhall/1967-vauxhall-pg02.jpg; bbox 585,401 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈49; verify chip alignment.",
+        "provenanceId": "acl:vauxhall:1967:C557:585,401,150x210"
+      }
+    },
+    {
+      "code": "C564",
+      "marketingName": "Factory color C564",
+      "finish": "solid",
+      "lab": {
+        "L": 92.15,
+        "a": -0.46,
+        "b": 10.2,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-20",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/1967-Vauxhall.html). Image data/sources/autocolorlibrary/pages/1967-vauxhall/1967-vauxhall-pg02.jpg; bbox 548,0 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈71; verify chip alignment.",
+        "provenanceId": "acl:vauxhall:1967:C564:548,0,150x210"
+      }
+    },
+    {
+      "code": "C568",
+      "marketingName": "Factory color C568",
+      "finish": "solid",
+      "lab": {
+        "L": 89.44,
+        "a": 0.06,
+        "b": 9.9,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-20",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/1967-Vauxhall.html). Image data/sources/autocolorlibrary/pages/1967-vauxhall/1967-vauxhall-pg02.jpg; bbox 585,625 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈59; verify chip alignment.",
+        "provenanceId": "acl:vauxhall:1967:C568:585,625,150x210"
+      }
+    },
+    {
+      "code": "C593",
+      "marketingName": "Factory color C593",
+      "finish": "solid",
+      "lab": {
+        "L": 92.13,
+        "a": -0.62,
+        "b": 10.69,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-20",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/1967-Vauxhall.html). Image data/sources/autocolorlibrary/pages/1967-vauxhall/1967-vauxhall-pg02.jpg; bbox 586,0 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈48; verify chip alignment.",
+        "provenanceId": "acl:vauxhall:1967:C593:586,0,150x210"
+      }
+    },
+    {
+      "code": "C597",
+      "marketingName": "Factory color C597",
+      "finish": "solid",
+      "lab": {
+        "L": 87.75,
+        "a": 0.04,
+        "b": 13.78,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-20",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/1967-Vauxhall.html). Image data/sources/autocolorlibrary/pages/1967-vauxhall/1967-vauxhall-pg02.jpg; bbox 248,584 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈51; verify chip alignment.",
+        "provenanceId": "acl:vauxhall:1967:C597:248,584,150x210"
+      }
+    },
+    {
+      "code": "C601",
+      "marketingName": "Factory color C601",
+      "finish": "solid",
+      "lab": {
+        "L": 87.78,
+        "a": 0.46,
+        "b": 11.18,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-20",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/1967-Vauxhall.html). Image data/sources/autocolorlibrary/pages/1967-vauxhall/1967-vauxhall-pg02.jpg; bbox 586,417 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈84; verify chip alignment.",
+        "provenanceId": "acl:vauxhall:1967:C601:586,417,150x210"
+      }
+    },
+    {
+      "code": "C602",
+      "marketingName": "Factory color C602",
+      "finish": "solid",
+      "lab": {
+        "L": 89.79,
+        "a": 0.06,
+        "b": 9.9,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-20",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/1967-Vauxhall.html). Image data/sources/autocolorlibrary/pages/1967-vauxhall/1967-vauxhall-pg02.jpg; bbox 212,0 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈43; verify chip alignment.",
+        "provenanceId": "acl:vauxhall:1967:C602:212,0,150x210"
+      }
+    },
+    {
+      "code": "C604",
+      "marketingName": "Jade Kestrel Green Grey Maroon 751, CROC",
+      "finish": "solid",
+      "lab": {
+        "L": 87.35,
+        "a": 0.1,
+        "b": 11.07,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-20",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/1967-Vauxhall.html). Image data/sources/autocolorlibrary/pages/1967-vauxhall/1967-vauxhall-pg02.jpg; bbox 548,473 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈86; verify chip alignment.",
+        "provenanceId": "acl:vauxhall:1967:C604:548,473,150x210"
+      }
+    },
+    {
+      "code": "C605",
+      "marketingName": "Factory color C605",
+      "finish": "solid",
+      "lab": {
+        "L": 88.61,
+        "a": -0.61,
+        "b": 10.78,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-20",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/1967-Vauxhall.html). Image data/sources/autocolorlibrary/pages/1967-vauxhall/1967-vauxhall-pg02.jpg; bbox 547,640 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈89; verify chip alignment.",
+        "provenanceId": "acl:vauxhall:1967:C605:547,640,150x210"
+      }
+    },
+    {
+      "code": "C606",
+      "marketingName": "Cavalry Cherry Cypress Deep Bronze Red Green",
+      "finish": "solid",
+      "lab": {
+        "L": 87.42,
+        "a": 0.2,
+        "b": 13.29,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-20",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/1967-Vauxhall.html). Image data/sources/autocolorlibrary/pages/1967-vauxhall/1967-vauxhall-pg02.jpg; bbox 212,136 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈53; verify chip alignment.",
+        "provenanceId": "acl:vauxhall:1967:C606:212,136,150x210"
+      }
+    },
+    {
+      "code": "C614",
+      "marketingName": "732, Pampas Blue Green",
+      "finish": "solid",
+      "lab": {
+        "L": 90.55,
+        "a": 0.25,
+        "b": 10.49,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-20",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/1967-Vauxhall.html). Image data/sources/autocolorlibrary/pages/1967-vauxhall/1967-vauxhall-pg02.jpg; bbox 250,0 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈86; verify chip alignment.",
+        "provenanceId": "acl:vauxhall:1967:C614:250,0,150x210"
+      }
+    },
+    {
+      "code": "C615",
+      "marketingName": "Factory color C615",
+      "finish": "solid",
+      "lab": {
+        "L": 88.33,
+        "a": -0.26,
+        "b": 10.92,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-20",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/1967-Vauxhall.html). Image data/sources/autocolorlibrary/pages/1967-vauxhall/1967-vauxhall-pg02.jpg; bbox 585,473 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈88; verify chip alignment.",
+        "provenanceId": "acl:vauxhall:1967:C615:585,473,150x210"
+      }
+    },
+    {
+      "code": "C616",
+      "marketingName": "Factory color C616",
+      "finish": "solid",
+      "lab": {
+        "L": 89.71,
+        "a": -0.3,
+        "b": 9.77,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-20",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/1967-Vauxhall.html). Image data/sources/autocolorlibrary/pages/1967-vauxhall/1967-vauxhall-pg02.jpg; bbox 584,640 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈83; verify chip alignment.",
+        "provenanceId": "acl:vauxhall:1967:C616:584,640,150x210"
+      }
+    },
+    {
+      "code": "C617",
+      "marketingName": "Panama Peacock White Bive 543, 589, eee",
+      "finish": "solid",
+      "lab": {
+        "L": 88.21,
+        "a": 0.55,
+        "b": 13.4,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-20",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/1967-Vauxhall.html). Image data/sources/autocolorlibrary/pages/1967-vauxhall/1967-vauxhall-pg02.jpg; bbox 249,136 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈82; verify chip alignment.",
+        "provenanceId": "acl:vauxhall:1967:C617:249,136,150x210"
+      }
+    },
+    {
+      "code": "C619",
+      "marketingName": "Factory color C619",
+      "finish": "solid",
+      "lab": {
+        "L": 88.14,
+        "a": 0.46,
+        "b": 11.17,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-20",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/1967-Vauxhall.html). Image data/sources/autocolorlibrary/pages/1967-vauxhall/1967-vauxhall-pg02.jpg; bbox 586,169 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈79; verify chip alignment.",
+        "provenanceId": "acl:vauxhall:1967:C619:586,169,150x210"
+      }
+    },
+    {
+      "code": "C621",
+      "marketingName": "Factory color C621",
+      "finish": "solid",
+      "lab": {
+        "L": 87.38,
+        "a": 0.15,
+        "b": 12.18,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-20",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/1967-Vauxhall.html). Image data/sources/autocolorlibrary/pages/1967-vauxhall/1967-vauxhall-pg02.jpg; bbox 546,433 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈49; verify chip alignment.",
+        "provenanceId": "acl:vauxhall:1967:C621:546,433,150x210"
+      }
+    },
+    {
+      "code": "C678",
+      "marketingName": "MCE 694, Storm Strate Svede Grey Grey",
+      "finish": "solid",
+      "lab": {
+        "L": 88.23,
+        "a": 0.71,
+        "b": 12.9,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-20",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/1967-Vauxhall.html). Image data/sources/autocolorlibrary/pages/1967-vauxhall/1967-vauxhall-pg02.jpg; bbox 247,504 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈53; verify chip alignment.",
+        "provenanceId": "acl:vauxhall:1967:C678:247,504,150x210"
+      }
+    },
+    {
+      "code": "C681",
+      "marketingName": "Factory color C681",
+      "finish": "solid",
+      "lab": {
+        "L": 89.06,
+        "a": -0.1,
+        "b": 10.4,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-20",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/1967-Vauxhall.html). Image data/sources/autocolorlibrary/pages/1967-vauxhall/1967-vauxhall-pg02.jpg; bbox 584,537 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈0; verify chip alignment.",
+        "provenanceId": "acl:vauxhall:1967:C681:584,537,150x210"
+      }
+    },
+    {
+      "code": "C685",
+      "marketingName": "Factory color C685",
+      "finish": "solid",
+      "lab": {
+        "L": 88.74,
+        "a": -0.06,
+        "b": 11.52,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-20",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/1967-Vauxhall.html). Image data/sources/autocolorlibrary/pages/1967-vauxhall/1967-vauxhall-pg02.jpg; bbox 212,32 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈82; verify chip alignment.",
+        "provenanceId": "acl:vauxhall:1967:C685:212,32,150x210"
+      }
+    },
+    {
+      "code": "C698",
+      "marketingName": "732, Pampas Panama Green White",
+      "finish": "solid",
+      "lab": {
+        "L": 89.43,
+        "a": -0.22,
+        "b": 11.99,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-20",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/1967-Vauxhall.html). Image data/sources/autocolorlibrary/pages/1967-vauxhall/1967-vauxhall-pg02.jpg; bbox 249,32 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈89; verify chip alignment.",
+        "provenanceId": "acl:vauxhall:1967:C698:249,32,150x210"
+      }
+    },
+    {
+      "code": "C707",
+      "marketingName": "Jade Kestrel Green Grey 751, CROC 743,",
+      "finish": "solid",
+      "lab": {
+        "L": 89.13,
+        "a": -0.02,
+        "b": 12.62,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-20",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/1967-Vauxhall.html). Image data/sources/autocolorlibrary/pages/1967-vauxhall/1967-vauxhall-pg02.jpg; bbox 211,400 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈63; verify chip alignment.",
+        "provenanceId": "acl:vauxhall:1967:C707:211,400,150x210"
+      }
+    },
+    {
+      "code": "C710",
+      "marketingName": "750, Tibeton Yellow",
+      "finish": "solid",
+      "lab": {
+        "L": 86.57,
+        "a": -0.37,
+        "b": 12.57,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-20",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/1967-Vauxhall.html). Image data/sources/autocolorlibrary/pages/1967-vauxhall/1967-vauxhall-pg02.jpg; bbox 211,640 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈62; verify chip alignment.",
+        "provenanceId": "acl:vauxhall:1967:C710:211,640,150x210"
+      }
+    },
+    {
+      "code": "C715",
+      "marketingName": "Factory color C715",
+      "finish": "solid",
+      "lab": {
+        "L": 91.43,
+        "a": -0.62,
+        "b": 10.71,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-20",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/1967-Vauxhall.html). Image data/sources/autocolorlibrary/pages/1967-vauxhall/1967-vauxhall-pg02.jpg; bbox 549,17 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈59; verify chip alignment.",
+        "provenanceId": "acl:vauxhall:1967:C715:549,17,150x210"
+      }
+    },
+    {
+      "code": "C749",
+      "marketingName": "MCE 839, Storm Grey ug",
+      "finish": "solid",
+      "lab": {
+        "L": 90.17,
+        "a": -0.18,
+        "b": 13.08,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-20",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/1967-Vauxhall.html). Image data/sources/autocolorlibrary/pages/1967-vauxhall/1967-vauxhall-pg02.jpg; bbox 249,416 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈89; verify chip alignment.",
+        "provenanceId": "acl:vauxhall:1967:C749:249,416,150x210"
+      }
+    },
+    {
+      "code": "C752",
+      "marketingName": "Cavalry Fawn 864, €596,",
+      "finish": "solid",
+      "lab": {
+        "L": 87.74,
+        "a": 0.14,
+        "b": 12.17,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-20",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/1967-Vauxhall.html). Image data/sources/autocolorlibrary/pages/1967-vauxhall/1967-vauxhall-pg02.jpg; bbox 212,64 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈72; verify chip alignment.",
+        "provenanceId": "acl:vauxhall:1967:C752:212,64,150x210"
+      }
+    },
+    {
+      "code": "C760",
+      "marketingName": "Cherry Cypress Deep Bronze Blue Red Green",
+      "finish": "solid",
+      "lab": {
+        "L": 87.66,
+        "a": -0.21,
+        "b": 12.05,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-20",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/1967-Vauxhall.html). Image data/sources/autocolorlibrary/pages/1967-vauxhall/1967-vauxhall-pg02.jpg; bbox 211,176 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈61; verify chip alignment.",
+        "provenanceId": "acl:vauxhall:1967:C760:211,176,150x210"
+      }
+    },
+    {
+      "code": "C761",
+      "marketingName": "Pampas Panama Green White",
+      "finish": "solid",
+      "lab": {
+        "L": 88.52,
+        "a": 0.5,
+        "b": 12.27,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-20",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/1967-Vauxhall.html). Image data/sources/autocolorlibrary/pages/1967-vauxhall/1967-vauxhall-pg02.jpg; bbox 249,64 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈76; verify chip alignment.",
+        "provenanceId": "acl:vauxhall:1967:C761:249,64,150x210"
+      }
+    },
+    {
+      "code": "C808",
+      "marketingName": "Factory color C808",
+      "finish": "solid",
+      "lab": {
+        "L": 90.8,
+        "a": -0.27,
+        "b": 10.85,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-20",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/1967-Vauxhall.html). Image data/sources/autocolorlibrary/pages/1967-vauxhall/1967-vauxhall-pg02.jpg; bbox 586,33 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈84; verify chip alignment.",
+        "provenanceId": "acl:vauxhall:1967:C808:586,33,150x210"
+      }
+    },
+    {
+      "code": "C811",
+      "marketingName": "Cavalry Cherry Red Fawn 864, €596,",
+      "finish": "solid",
+      "lab": {
+        "L": 88.09,
+        "a": 0.14,
+        "b": 12.16,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-20",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/1967-Vauxhall.html). Image data/sources/autocolorlibrary/pages/1967-vauxhall/1967-vauxhall-pg02.jpg; bbox 174,80 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈64; verify chip alignment.",
+        "provenanceId": "acl:vauxhall:1967:C811:174,80,150x210"
+      }
+    },
+    {
+      "code": "C819",
+      "marketingName": "Factory color C819",
+      "finish": "solid",
+      "lab": {
+        "L": 87.05,
+        "a": 0.3,
+        "b": 11.7,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-20",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/1967-Vauxhall.html). Image data/sources/autocolorlibrary/pages/1967-vauxhall/1967-vauxhall-pg02.jpg; bbox 212,80 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈79; verify chip alignment.",
+        "provenanceId": "acl:vauxhall:1967:C819:212,80,150x210"
+      }
+    },
+    {
+      "code": "C835",
+      "marketingName": "Factory color C835",
+      "finish": "solid",
+      "lab": {
+        "L": 89.43,
+        "a": -0.22,
+        "b": 11.99,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-20",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/1967-Vauxhall.html). Image data/sources/autocolorlibrary/pages/1967-vauxhall/1967-vauxhall-pg02.jpg; bbox 510,568 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈44; verify chip alignment.",
+        "provenanceId": "acl:vauxhall:1967:C835:510,568,150x210"
+      }
+    },
+    {
+      "code": "C836",
+      "marketingName": "Factory color C836",
+      "finish": "solid",
+      "lab": {
+        "L": 88.68,
+        "a": -0.26,
+        "b": 10.91,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-20",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/1967-Vauxhall.html). Image data/sources/autocolorlibrary/pages/1967-vauxhall/1967-vauxhall-pg02.jpg; bbox 548,569 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈82; verify chip alignment.",
+        "provenanceId": "acl:vauxhall:1967:C836:548,569,150x210"
+      }
+    },
+    {
+      "code": "C842",
+      "marketingName": "Jade Kestrel Green Grey 751, CROC 743,",
+      "finish": "solid",
+      "lab": {
+        "L": 89.62,
+        "a": 0.54,
+        "b": 13.35,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-20",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/1967-Vauxhall.html). Image data/sources/autocolorlibrary/pages/1967-vauxhall/1967-vauxhall-pg02.jpg; bbox 249,432 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈64; verify chip alignment.",
+        "provenanceId": "acl:vauxhall:1967:C842:249,432,150x210"
+      }
+    },
+    {
+      "code": "C846",
+      "marketingName": "Factory color C846",
+      "finish": "solid",
+      "lab": {
+        "L": 89.77,
+        "a": -0.1,
+        "b": 10.39,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-20",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/1967-Vauxhall.html). Image data/sources/autocolorlibrary/pages/1967-vauxhall/1967-vauxhall-pg02.jpg; bbox 585,569 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈49; verify chip alignment.",
+        "provenanceId": "acl:vauxhall:1967:C846:585,569,150x210"
+      }
+    },
+    {
+      "code": "C854",
+      "marketingName": "Kestrel Meteor Grey Blue Maroon CROC 743,",
+      "finish": "solid",
+      "lab": {
+        "L": 88.08,
+        "a": -0.11,
+        "b": 14.26,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-20",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/1967-Vauxhall.html). Image data/sources/autocolorlibrary/pages/1967-vauxhall/1967-vauxhall-pg02.jpg; bbox 173,504 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈68; verify chip alignment.",
+        "provenanceId": "acl:vauxhall:1967:C854:173,504,150x210"
+      }
+    },
+    {
+      "code": "C855",
+      "marketingName": "Pampas Panama Green White 543, 589, eee",
+      "finish": "solid",
+      "lab": {
+        "L": 88.07,
+        "a": -0.01,
+        "b": 12.65,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-20",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/1967-Vauxhall.html). Image data/sources/autocolorlibrary/pages/1967-vauxhall/1967-vauxhall-pg02.jpg; bbox 249,80 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈65; verify chip alignment.",
+        "provenanceId": "acl:vauxhall:1967:C855:249,80,150x210"
+      }
+    },
+    {
+      "code": "C858",
+      "marketingName": "Factory color C858",
+      "finish": "solid",
+      "lab": {
+        "L": 88.66,
+        "a": -0.42,
+        "b": 11.4,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-20",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/1967-Vauxhall.html). Image data/sources/autocolorlibrary/pages/1967-vauxhall/1967-vauxhall-pg02.jpg; bbox 548,584 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈74; verify chip alignment.",
+        "provenanceId": "acl:vauxhall:1967:C858:548,584,150x210"
+      }
+    },
+    {
+      "code": "C861",
+      "marketingName": "Factory color C861",
+      "finish": "solid",
+      "lab": {
+        "L": 90.15,
+        "a": -0.07,
+        "b": 11.48,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-20",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/1967-Vauxhall.html). Image data/sources/autocolorlibrary/pages/1967-vauxhall/1967-vauxhall-pg02.jpg; bbox 548,49 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈61; verify chip alignment.",
+        "provenanceId": "acl:vauxhall:1967:C861:548,49,150x210"
+      }
+    },
+    {
+      "code": "C866",
+      "marketingName": "Factory color C866",
+      "finish": "solid",
+      "lab": {
+        "L": 87.42,
+        "a": 0.2,
+        "b": 13.29,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-20",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/1967-Vauxhall.html). Image data/sources/autocolorlibrary/pages/1967-vauxhall/1967-vauxhall-pg02.jpg; bbox 211,504 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈72; verify chip alignment.",
+        "provenanceId": "acl:vauxhall:1967:C866:211,504,150x210"
+      }
+    },
+    {
+      "code": "C870",
+      "marketingName": "Factory color C870",
+      "finish": "solid",
+      "lab": {
+        "L": 90.51,
+        "a": -0.07,
+        "b": 11.47,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-20",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/1967-Vauxhall.html). Image data/sources/autocolorlibrary/pages/1967-vauxhall/1967-vauxhall-pg02.jpg; bbox 585,49 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈44; verify chip alignment.",
+        "provenanceId": "acl:vauxhall:1967:C870:585,49,150x210"
+      }
+    },
+    {
+      "code": "C957",
+      "marketingName": "Fir Grecian Green White 8GN 103, 706,",
+      "finish": "solid",
+      "lab": {
+        "L": 88.44,
+        "a": 0.14,
+        "b": 12.15,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-20",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/1967-Vauxhall.html). Image data/sources/autocolorlibrary/pages/1967-vauxhall/1967-vauxhall-pg02.jpg; bbox 211,304 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈88; verify chip alignment.",
+        "provenanceId": "acl:vauxhall:1967:C957:211,304,150x210"
+      }
+    },
+    {
+      "code": "C962",
+      "marketingName": "Factory color C962",
+      "finish": "solid",
+      "lab": {
+        "L": 89.13,
+        "a": -0.02,
+        "b": 12.62,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-20",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/1967-Vauxhall.html). Image data/sources/autocolorlibrary/pages/1967-vauxhall/1967-vauxhall-pg02.jpg; bbox 249,304 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈79; verify chip alignment.",
+        "provenanceId": "acl:vauxhall:1967:C962:249,304,150x210"
+      }
+    },
+    {
+      "code": "C966",
+      "marketingName": "Factory color C966",
+      "finish": "solid",
+      "lab": {
+        "L": 88.65,
+        "a": -0.29,
+        "b": 9.8,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-20",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/1967-Vauxhall.html). Image data/sources/autocolorlibrary/pages/1967-vauxhall/1967-vauxhall-pg02.jpg; bbox 546,696 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈56; verify chip alignment.",
+        "provenanceId": "acl:vauxhall:1967:C966:546,696,150x210"
+      }
+    },
+    {
+      "code": "C970",
+      "marketingName": "Factory color C970",
+      "finish": "solid",
+      "lab": {
+        "L": 92.13,
+        "a": -0.62,
+        "b": 10.69,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-20",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/1967-Vauxhall.html). Image data/sources/autocolorlibrary/pages/1967-vauxhall/1967-vauxhall-pg02.jpg; bbox 586,0 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈58; verify chip alignment.",
+        "provenanceId": "acl:vauxhall:1967:C970:586,0,150x210"
+      }
+    },
+    {
+      "code": "C975",
+      "marketingName": "Factory color C975",
+      "finish": "solid",
+      "lab": {
+        "L": 89.73,
+        "a": -0.14,
+        "b": 9.28,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-20",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/1967-Vauxhall.html). Image data/sources/autocolorlibrary/pages/1967-vauxhall/1967-vauxhall-pg02.jpg; bbox 584,696 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈74; verify chip alignment.",
+        "provenanceId": "acl:vauxhall:1967:C975:584,696,150x210"
+      }
+    },
+    {
+      "code": "C982",
+      "marketingName": "Factory color C982",
+      "finish": "solid",
+      "lab": {
+        "L": 92.75,
+        "a": -0.97,
+        "b": 10.55,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-20",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/1967-Vauxhall.html). Image data/sources/autocolorlibrary/pages/1967-vauxhall/1967-vauxhall-pg02.jpg; bbox 511,0 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈43; verify chip alignment.",
+        "provenanceId": "acl:vauxhall:1967:C982:511,0,150x210"
+      }
+    }
+  ]
+}

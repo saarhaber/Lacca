@@ -1,0 +1,24 @@
+{
+  "$schema": "../../../schemas/exterior-paints-v1.schema.json",
+  "scopeId": "lancia-curated-v1",
+  "version": "1.0.0",
+  "paints": [
+    {
+      "code": "426",
+      "marketingName": "Blu Lancia",
+      "finish": "solid",
+      "lab": {
+        "L": 11.54,
+        "a": 3.46,
+        "b": -23.59,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "hex_derived",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Derived from #001F3F. Alternate code 6984192. Historic navy blue, near-black in low light.",
+        "provenanceId": "lacca:user-curated:lancia:Blu-Lancia-426"
+      }
+    }
+  ]
+}

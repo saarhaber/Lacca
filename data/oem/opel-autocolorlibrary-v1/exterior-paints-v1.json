@@ -1,0 +1,24 @@
+{
+  "$schema": "../../../schemas/exterior-paints-v1.schema.json",
+  "scopeId": "opel-autocolorlibrary-v1",
+  "version": "1.0.0",
+  "paints": [
+    {
+      "code": "030",
+      "marketingName": "a.",
+      "finish": "solid",
+      "lab": {
+        "L": 94.59,
+        "a": 1.52,
+        "b": 6.52,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-20",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/1976-Opel.html). Image data/sources/autocolorlibrary/pages/1976-opel/1976-opel-pg04.jpg; bbox 66,0 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈70; verify chip alignment.",
+        "provenanceId": "acl:opel:1976:030:66,0,150x210"
+      }
+    }
+  ]
+}

@@ -16,7 +16,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/1996-Lexus.html). Image data/sources/autocolorlibrary/pages/1996-lexus/1996-Lexus-pg01.jpg; bbox 47,0 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈41; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/1996-Lexus.html). Image data/sources/autocolorlibrary/pages/1996-lexus/1996-Lexus-pg01.jpg; bbox 47,0 150\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224841; verify chip alignment.",
         "provenanceId": "acl:lexus:1996:2002:47,0,150x210"
       }
     },
@@ -33,7 +33,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/1992-Lexus.html). Image data/sources/autocolorlibrary/pages/1992-lexus/1992-Lexus-pg01.jpg; bbox 179,0 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈62; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/1992-Lexus.html). Image data/sources/autocolorlibrary/pages/1992-lexus/1992-Lexus-pg01.jpg; bbox 179,0 150\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224862; verify chip alignment.",
         "provenanceId": "acl:lexus:1992:3900:179,0,150x210"
       }
     },
@@ -50,8 +50,25 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/1995-Lexus.html). Image data/sources/autocolorlibrary/pages/1995-lexus/1995-Lexus-pg01.jpg; bbox 56,0 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈75; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/1995-Lexus.html). Image data/sources/autocolorlibrary/pages/1995-lexus/1995-Lexus-pg01.jpg; bbox 56,0 150\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224875; verify chip alignment.",
         "provenanceId": "acl:lexus:1995:4997:56,0,150x210"
+      }
+    },
+    {
+      "code": "8Y0",
+      "marketingName": "Structural Blue",
+      "finish": "pearl",
+      "lab": {
+        "L": 26.46,
+        "a": 31.69,
+        "b": -62.21,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "hex_derived",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Derived from #0033A0. Multi-stage pigment inspired by Morpho butterfly; extremely high saturation.",
+        "provenanceId": "lacca:user-curated:lexus:Structural-Blue-8Y0"
       }
     }
   ]

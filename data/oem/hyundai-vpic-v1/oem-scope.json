@@ -18,8 +18,6 @@
     "Excel",
     "Genesis",
     "Genesis Coupe",
-    "Hyundai Steel Industries, Inc.",
-    "Hyundai Translead Trailers",
     "Ioniq",
     "Ioniq 5",
     "Ioniq 5 N",
@@ -44,9 +42,9 @@
     "Veloster N",
     "Venue",
     "Veracruz",
-    "Xcient",
     "XG300",
-    "XG350"
+    "XG350",
+    "Xcient"
   ],
   "notes": "Hyundai model catalog sourced from NHTSA vPIC (GetModelsForMake). 40 distinct models. Paint catalog intentionally empty for this scope; the web UI falls back to generic colors when an OEM has no dedicated paint rows yet. Merge with curated scopes via merge-oem-scopes to enrich with real paint codes.",
   "exteriorPaintFile": "./exterior-paints-v1.json"

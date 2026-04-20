@@ -38,23 +38,6 @@
       }
     },
     {
-      "code": "41",
-      "marketingName": "Onyx Black",
-      "finish": "solid",
-      "lab": {
-        "L": 0,
-        "a": 0,
-        "b": 0,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #000000 (PaintRef hex, OEM=GMC, code=41 (models=Canyon, Savana, Sierra, Suburban, Terrain, Yukon; years=2010-2014)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:GMC:canyon:41"
-      }
-    },
-    {
       "code": "GBA",
       "marketingName": "Onyx Black",
       "finish": "solid",
@@ -205,23 +188,6 @@
         "recordedAt": "2026-04-18",
         "notes": "Derived from #595953 (PaintRef hex, OEM=GMC, code=GGU (models=Canyon; year=2010)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:GMC:canyon:GGU"
-      }
-    },
-    {
-      "code": "48",
-      "marketingName": "Navy Blue",
-      "finish": "solid",
-      "lab": {
-        "L": 10.95,
-        "a": 17.71,
-        "b": -37.06,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #011851 (PaintRef hex, OEM=GMC, code=48 (models=Canyon; years=2010-2012)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:GMC:canyon:48"
       }
     },
     {
@@ -514,40 +480,6 @@
       }
     },
     {
-      "code": "75",
-      "marketingName": "Dark Steel Gray",
-      "finish": "solid",
-      "lab": {
-        "L": 41.68,
-        "a": -1.12,
-        "b": -1.67,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #5F6365 (PaintRef hex, OEM=GMC, code=75 (models=Canyon; year=2012)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:GMC:canyon:75"
-      }
-    },
-    {
-      "code": "18",
-      "marketingName": "Quicksilver",
-      "finish": "solid",
-      "lab": {
-        "L": 92.3,
-        "a": -0.16,
-        "b": -0.6,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #E8E9EA (PaintRef hex, OEM=GMC, code=18 (models=Savana; year=2012)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:GMC:savana:18"
-      }
-    },
-    {
       "code": "GBV",
       "marketingName": "Cyber Gray",
       "finish": "solid",
@@ -718,23 +650,6 @@
       }
     },
     {
-      "code": "GXD",
-      "marketingName": "Sterling",
-      "finish": "solid",
-      "lab": {
-        "L": 64.87,
-        "a": -2.85,
-        "b": -0.99,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #979F9F (PaintRef hex, OEM=GMC, code=GXD (models=Canyon, Sierra, Suburban, Terrain, Yukon; years=2023-2027)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:GMC:canyon:GXD"
-      }
-    },
-    {
       "code": "47",
       "marketingName": "Medium Green",
       "finish": "solid",
@@ -816,23 +731,6 @@
         "confidence": "derived",
         "recordedAt": "2026-04-18",
         "notes": "Derived from #F33825 (PaintRef hex, OEM=GMC, code=28 (models=Canyon; years=2008-2012)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:GMC:canyon:28"
-      }
-    },
-    {
-      "code": "28",
-      "marketingName": "Red Orange",
-      "finish": "solid",
-      "lab": {
-        "L": 54.05,
-        "a": 68.69,
-        "b": 54.5,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #F33825 (PaintRef hex, OEM=GMC, code=28 (models=Canyon; year=2010)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:GMC:canyon:28"
       }
     },
@@ -922,23 +820,6 @@
       }
     },
     {
-      "code": "74",
-      "marketingName": "Fire Red",
-      "finish": "solid",
-      "lab": {
-        "L": 37.37,
-        "a": 61.82,
-        "b": 46.31,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #B4000E (PaintRef hex, OEM=GMC, code=74 (models=Canyon, Savana, Sierra; years=2010-2014)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:GMC:canyon:74"
-      }
-    },
-    {
       "code": "79",
       "marketingName": "Merlot Jewel",
       "finish": "solid",
@@ -986,23 +867,6 @@
         "confidence": "derived",
         "recordedAt": "2026-04-18",
         "notes": "Derived from #711F1F (PaintRef hex, OEM=GMC, code=GPJ (models=Canyon; year=2017)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:GMC:canyon:GPJ"
-      }
-    },
-    {
-      "code": "GPJ",
-      "marketingName": "Red Quartz",
-      "finish": "solid",
-      "lab": {
-        "L": 25.54,
-        "a": 35.89,
-        "b": 20.81,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #711F1F (PaintRef hex, OEM=GMC, code=GPJ (models=Canyon, Sierra, Terrain; years=2018-2021)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:GMC:canyon:GPJ"
       }
     },
@@ -1075,23 +939,6 @@
       }
     },
     {
-      "code": "39",
-      "marketingName": "Indigo",
-      "finish": "solid",
-      "lab": {
-        "L": 10.27,
-        "a": 14.82,
-        "b": -34.04,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #00184B (PaintRef hex, OEM=GMC, code=39 (models=Jimmy, Safari, Sierra, Sonoma, Suburban, Yukon; years=1993-2001)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:GMC:jimmy:39"
-      }
-    },
-    {
       "code": "23",
       "marketingName": "Space Blue",
       "finish": "solid",
@@ -1140,23 +987,6 @@
         "recordedAt": "2026-04-18",
         "notes": "Derived from #887867 (PaintRef hex, OEM=GMC, code=60 (models=Jimmy, Sierra, Sonoma, Suburban, Yukon; years=1999-2001)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:GMC:jimmy:60"
-      }
-    },
-    {
-      "code": "61",
-      "marketingName": "Tan",
-      "finish": "solid",
-      "lab": {
-        "L": 74.47,
-        "a": 8.04,
-        "b": 19.44,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #D3B194 (PaintRef hex, OEM=GMC, code=61 (models=Jimmy, Safari, Sonoma, Suburban, Yukon; years=1991-2005)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:GMC:jimmy:61"
       }
     },
     {
@@ -1449,23 +1279,6 @@
       }
     },
     {
-      "code": "45",
-      "marketingName": "Woodland Green",
-      "finish": "solid",
-      "lab": {
-        "L": 24.61,
-        "a": -20.6,
-        "b": 11.13,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #1B4229 (PaintRef hex, OEM=GMC, code=45 (models=Yukon; year=2003)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:GMC:yukon:45"
-      }
-    },
-    {
       "code": "38",
       "marketingName": "Emerald Jewel",
       "finish": "solid",
@@ -1480,23 +1293,6 @@
         "recordedAt": "2026-04-18",
         "notes": "Derived from #1B5144 (PaintRef hex, OEM=GMC, code=38 (models=Envoy; years=2004-2006)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:GMC:envoy:38"
-      }
-    },
-    {
-      "code": "92",
-      "marketingName": "Urbane Moss",
-      "finish": "solid",
-      "lab": {
-        "L": 44.64,
-        "a": -20.58,
-        "b": 0.59,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #3E7368 (PaintRef hex, OEM=GMC, code=92 (models=Envoy; year=2009)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:GMC:envoy:92"
       }
     },
     {
@@ -1585,23 +1381,6 @@
       }
     },
     {
-      "code": "80",
-      "marketingName": "Red Jewel",
-      "finish": "solid",
-      "lab": {
-        "L": 29.65,
-        "a": 42.05,
-        "b": 18.22,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #83212C (PaintRef hex, OEM=GMC, code=80 (models=Envoy, Suburban, Yukon; years=2006-2011)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:GMC:envoy:80"
-      }
-    },
-    {
       "code": "50",
       "marketingName": "Olympic White",
       "finish": "solid",
@@ -1636,23 +1415,6 @@
       }
     },
     {
-      "code": "22",
-      "marketingName": "Bahama Blue",
-      "finish": "solid",
-      "lab": {
-        "L": 42.31,
-        "a": 5.95,
-        "b": -44.83,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #2265AE (PaintRef hex, OEM=GMC, code=22 (models=Jimmy, Sonoma, Suburban, Yukon; years=1991-1995)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:GMC:jimmy:22"
-      }
-    },
-    {
       "code": "98",
       "marketingName": "Black Sapphire",
       "finish": "solid",
@@ -1667,23 +1429,6 @@
         "recordedAt": "2026-04-18",
         "notes": "Derived from #000020 (PaintRef hex, OEM=GMC, code=98 (models=Suburban; year=1991)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:GMC:suburban:98"
-      }
-    },
-    {
-      "code": "42",
-      "marketingName": "Bright Blue",
-      "finish": "solid",
-      "lab": {
-        "L": 16.56,
-        "a": 36.73,
-        "b": -58.72,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #001880 (PaintRef hex, OEM=GMC, code=42 (models=Suburban; year=1991)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:GMC:suburban:42"
       }
     },
     {
@@ -1738,23 +1483,6 @@
       }
     },
     {
-      "code": "47",
-      "marketingName": "Dark Blue",
-      "finish": "solid",
-      "lab": {
-        "L": 31.34,
-        "a": -3.56,
-        "b": -20.79,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #284D6A (PaintRef hex, OEM=GMC, code=47 (models=Jimmy, Sonoma, Typhoon; years=1991-1994)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:GMC:jimmy:47"
-      }
-    },
-    {
       "code": "24",
       "marketingName": "Medium Blue",
       "finish": "solid",
@@ -1803,57 +1531,6 @@
         "recordedAt": "2026-04-18",
         "notes": "Derived from #1C224C (PaintRef hex, OEM=GMC, code=21 (models=Jimmy, Sonoma; years=1994-1996)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:GMC:jimmy:21"
-      }
-    },
-    {
-      "code": "38",
-      "marketingName": "Bright Teal",
-      "finish": "solid",
-      "lab": {
-        "L": 50.8,
-        "a": -26.18,
-        "b": -14.61,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #008691 (PaintRef hex, OEM=GMC, code=38 (models=Sonoma; year=1995)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:GMC:sonoma:38"
-      }
-    },
-    {
-      "code": "27",
-      "marketingName": "Light Stellar Blue",
-      "finish": "solid",
-      "lab": {
-        "L": 55.71,
-        "a": 7.18,
-        "b": -47.52,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #4E86D8 (PaintRef hex, OEM=GMC, code=27 (models=Jimmy, Sonoma; years=1996-1997)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:GMC:jimmy:27"
-      }
-    },
-    {
-      "code": "37",
-      "marketingName": "Light Mesa Brown",
-      "finish": "solid",
-      "lab": {
-        "L": 95.19,
-        "a": -4.76,
-        "b": 31.57,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #FFF2B4 (PaintRef hex, OEM=GMC, code=37 (models=Jimmy, Sonoma, Suburban, Typhoon; years=1991-1992)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:GMC:jimmy:37"
       }
     },
     {
@@ -1908,23 +1585,6 @@
       }
     },
     {
-      "code": "97",
-      "marketingName": "Dark Gray",
-      "finish": "solid",
-      "lab": {
-        "L": 44.27,
-        "a": -0.56,
-        "b": -0.83,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #67696A (PaintRef hex, OEM=GMC, code=97 (models=Safari, Suburban, Yukon; years=1991-1993)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:GMC:safari:97"
-      }
-    },
-    {
       "code": "90",
       "marketingName": "Gray",
       "finish": "solid",
@@ -1959,57 +1619,6 @@
       }
     },
     {
-      "code": "17",
-      "marketingName": "Light Slate",
-      "finish": "solid",
-      "lab": {
-        "L": 57.18,
-        "a": -0.67,
-        "b": -5.67,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #838A93 (PaintRef hex, OEM=GMC, code=17 (models=Sonoma, Typhoon; years=1991-1992)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:GMC:sonoma:17"
-      }
-    },
-    {
-      "code": "18",
-      "marketingName": "Dove Gray",
-      "finish": "solid",
-      "lab": {
-        "L": 46.98,
-        "a": 0.57,
-        "b": 0.83,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #716F6E (PaintRef hex, OEM=GMC, code=18 (models=Sonoma, Typhoon; years=1993-1994)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:GMC:sonoma:18"
-      }
-    },
-    {
-      "code": "96",
-      "marketingName": "Ultra Silver",
-      "finish": "solid",
-      "lab": {
-        "L": 82.62,
-        "a": -3,
-        "b": 5.1,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #CCCFC4 (PaintRef hex, OEM=GMC, code=96 (models=Jimmy, Sonoma, Suburban, Yukon; years=1992-1997)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:GMC:jimmy:96"
-      }
-    },
-    {
       "code": "P33",
       "marketingName": "Pewter",
       "finish": "solid",
@@ -2024,91 +1633,6 @@
         "recordedAt": "2026-04-18",
         "notes": "Derived from #BCB7B7 (PaintRef hex, OEM=GMC, code=P33 (models=Jimmy, Safari, Savana, Sonoma, Yukon; years=1998-2005)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:GMC:jimmy:P33"
-      }
-    },
-    {
-      "code": "65",
-      "marketingName": "Smokey Carmel",
-      "finish": "solid",
-      "lab": {
-        "L": 35.74,
-        "a": 3.53,
-        "b": 3.26,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #5C524F (PaintRef hex, OEM=GMC, code=65 (models=Yukon; year=1998)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:GMC:yukon:65"
-      }
-    },
-    {
-      "code": "43",
-      "marketingName": "Seafoam Green",
-      "finish": "solid",
-      "lab": {
-        "L": 78.35,
-        "a": -17.44,
-        "b": -9.64,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #90CCD3 (PaintRef hex, OEM=GMC, code=43 (models=Sonoma, Typhoon; years=1991-1992)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:GMC:sonoma:43"
-      }
-    },
-    {
-      "code": "44",
-      "marketingName": "Forest Green",
-      "finish": "solid",
-      "lab": {
-        "L": 12.08,
-        "a": -5.6,
-        "b": -1.82,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #152222 (PaintRef hex, OEM=GMC, code=44 (models=Sonoma, Typhoon; years=1991-1994)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:GMC:sonoma:44"
-      }
-    },
-    {
-      "code": "46",
-      "marketingName": "Dark Woodland Green",
-      "finish": "solid",
-      "lab": {
-        "L": 28.88,
-        "a": -23.56,
-        "b": 10.61,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #1C4D33 (PaintRef hex, OEM=GMC, code=46 (models=Yukon; year=1995)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:GMC:yukon:46"
-      }
-    },
-    {
-      "code": "43",
-      "marketingName": "Emerald Green",
-      "finish": "solid",
-      "lab": {
-        "L": 28.73,
-        "a": -19.5,
-        "b": -4.41,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #0B4C4A (PaintRef hex, OEM=GMC, code=43 (models=Jimmy, Safari, Sonoma, Suburban, Yukon; years=1995-1999)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:GMC:jimmy:43"
       }
     },
     {
@@ -2160,159 +1684,6 @@
         "recordedAt": "2026-04-18",
         "notes": "Derived from #AB1B19 (PaintRef hex, OEM=GMC, code=72 (models=Suburban; year=1991)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:GMC:suburban:72"
-      }
-    },
-    {
-      "code": "48",
-      "marketingName": "Dark Red",
-      "finish": "solid",
-      "lab": {
-        "L": 16.5,
-        "a": 31.87,
-        "b": 20.32,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #540D0C (PaintRef hex, OEM=GMC, code=48 (models=Jimmy, Sonoma, Typhoon; years=1993-1994)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:GMC:jimmy:48"
-      }
-    },
-    {
-      "code": "72",
-      "marketingName": "Standard Red",
-      "finish": "solid",
-      "lab": {
-        "L": 36.96,
-        "a": 55.45,
-        "b": 39.97,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #AB1B19 (PaintRef hex, OEM=GMC, code=72 (models=Jimmy, Sonoma, Typhoon; years=1993-1998)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:GMC:jimmy:72"
-      }
-    },
-    {
-      "code": "85",
-      "marketingName": "Raspberry Red",
-      "finish": "solid",
-      "lab": {
-        "L": 34.37,
-        "a": 52.9,
-        "b": 18.18,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #9D1A37 (PaintRef hex, OEM=GMC, code=85 (models=Sonoma; year=1994)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:GMC:sonoma:85"
-      }
-    },
-    {
-      "code": "85",
-      "marketingName": "Raspberry",
-      "finish": "solid",
-      "lab": {
-        "L": 34.37,
-        "a": 52.9,
-        "b": 18.18,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #9D1A37 (PaintRef hex, OEM=GMC, code=85 (models=Sonoma; year=1995)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:GMC:sonoma:85"
-      }
-    },
-    {
-      "code": "50",
-      "marketingName": "White",
-      "finish": "solid",
-      "lab": {
-        "L": 95.42,
-        "a": -0.71,
-        "b": 3.01,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #F3F2EC (PaintRef hex, OEM=GMC, code=50 (models=Suburban; year=1991)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:GMC:suburban:50"
-      }
-    },
-    {
-      "code": "12",
-      "marketingName": "Yellow White",
-      "finish": "solid",
-      "lab": {
-        "L": 93.18,
-        "a": -0.79,
-        "b": -1.92,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #E8ECEF (PaintRef hex, OEM=GMC, code=12 (models=Typhoon; year=1992)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:GMC:typhoon:12"
-      }
-    },
-    {
-      "code": "12",
-      "marketingName": "Linen White",
-      "finish": "solid",
-      "lab": {
-        "L": 93.18,
-        "a": -0.79,
-        "b": -1.92,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #E8ECEF (PaintRef hex, OEM=GMC, code=12 (models=Jimmy, Sonoma, Typhoon; years=1993-1995)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:GMC:jimmy:12"
-      }
-    },
-    {
-      "code": "87",
-      "marketingName": "Wheatland Yellow",
-      "finish": "solid",
-      "lab": {
-        "L": 69.96,
-        "a": 33.74,
-        "b": 73.04,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #FC9012 (PaintRef hex, OEM=GMC, code=87 (models=Suburban, Yukon; years=1991-1994)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:GMC:suburban:87"
-      }
-    },
-    {
-      "code": "86",
-      "marketingName": "Wheatland Yellow",
-      "finish": "solid",
-      "lab": {
-        "L": 69.96,
-        "a": 33.74,
-        "b": 73.04,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #FC9012 (PaintRef hex, OEM=GMC, code=86 (models=Savana, Sierra, Yukon; years=1995-2014)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:GMC:savana:86"
       }
     },
     {
@@ -2500,23 +1871,6 @@
         "recordedAt": "2026-04-18",
         "notes": "Derived from #133C79 (PaintRef hex, OEM=GMC, code=LY5Q (models=S7; year=2015)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:GMC:s7:LY5Q"
-      }
-    },
-    {
-      "code": "LY5Q",
-      "marketingName": "Sepang Blue",
-      "finish": "solid",
-      "lab": {
-        "L": 26.01,
-        "a": 10.35,
-        "b": -38.78,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #133C79 (PaintRef hex, OEM=GMC, code=LY5Q (models=S6, S7; years=2016-2018)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:GMC:s6:LY5Q"
       }
     },
     {
@@ -2724,23 +2078,6 @@
       }
     },
     {
-      "code": "LX7W",
-      "marketingName": "Cool Silver",
-      "finish": "solid",
-      "lab": {
-        "L": 68.26,
-        "a": -0.83,
-        "b": -2.04,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #A3A7AA (PaintRef hex, OEM=GMC, code=LX7W (models=S7; year=2013)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:GMC:s7:LX7W"
-      }
-    },
-    {
       "code": "LX7U",
       "marketingName": "Oolong Gray",
       "finish": "solid",
@@ -2806,23 +2143,6 @@
         "recordedAt": "2026-04-18",
         "notes": "Derived from #9698A7 (PaintRef hex, OEM=GMC, code=LX7P (models=S7; year=2016)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:GMC:s7:LX7P"
-      }
-    },
-    {
-      "code": "LZ7S",
-      "marketingName": "Daytona Gray",
-      "finish": "solid",
-      "lab": {
-        "L": 50.68,
-        "a": 2.68,
-        "b": 2.2,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #7F7775 (PaintRef hex, OEM=GMC, code=LZ7S (models=S6, S7; years=2018-2027)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:GMC:s6:LZ7S"
       }
     },
     {
@@ -3098,23 +2418,6 @@
       }
     },
     {
-      "code": "27",
-      "marketingName": "Light French Blue",
-      "finish": "solid",
-      "lab": {
-        "L": 79.58,
-        "a": -6.28,
-        "b": -15.72,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #A7CAE2 (PaintRef hex, OEM=GMC, code=27 (models=Suburban, Yukon; years=1992-1993)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:GMC:suburban:27"
-      }
-    },
-    {
       "code": "34",
       "marketingName": "Light Teal",
       "finish": "solid",
@@ -3146,108 +2449,6 @@
         "recordedAt": "2026-04-18",
         "notes": "Derived from #305473 (PaintRef hex, OEM=GMC, code=36 (models=Safari, Suburban, Yukon; years=1992-2003)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:GMC:safari:36"
-      }
-    },
-    {
-      "code": "20",
-      "marketingName": "Light Quasar Blue",
-      "finish": "solid",
-      "lab": {
-        "L": 58.84,
-        "a": -13.12,
-        "b": -22.29,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #5196B4 (PaintRef hex, OEM=GMC, code=20 (models=Safari; years=1993-1994)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:GMC:safari:20"
-      }
-    },
-    {
-      "code": "80",
-      "marketingName": "Medium Quasar Blue",
-      "finish": "solid",
-      "lab": {
-        "L": 26.56,
-        "a": 0.18,
-        "b": -27.73,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #134169 (PaintRef hex, OEM=GMC, code=80 (models=Safari; years=1993-1995)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:GMC:safari:80"
-      }
-    },
-    {
-      "code": "37",
-      "marketingName": "Medium Stellar Blue",
-      "finish": "solid",
-      "lab": {
-        "L": 22.42,
-        "a": 4.06,
-        "b": -18.53,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #2A3551 (PaintRef hex, OEM=GMC, code=37 (models=Safari; years=1996-1997)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:GMC:safari:37"
-      }
-    },
-    {
-      "code": "25",
-      "marketingName": "Cadet Blue",
-      "finish": "solid",
-      "lab": {
-        "L": 22.88,
-        "a": 2.31,
-        "b": -19.81,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #253754 (PaintRef hex, OEM=GMC, code=25 (models=Safari, Savana, Sierra, Suburban, Yukon; years=1998-2005)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:GMC:safari:25"
-      }
-    },
-    {
-      "code": "34",
-      "marketingName": "Light Mesa Brown",
-      "finish": "solid",
-      "lab": {
-        "L": 54.46,
-        "a": 15.45,
-        "b": 34.95,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #AC7746 (PaintRef hex, OEM=GMC, code=34 (models=Safari; year=1991)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:GMC:safari:34"
-      }
-    },
-    {
-      "code": "57",
-      "marketingName": "Beige",
-      "finish": "solid",
-      "lab": {
-        "L": 79.32,
-        "a": -1.44,
-        "b": 4.01,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #C5C5BD (PaintRef hex, OEM=GMC, code=57 (models=Safari, Suburban, Yukon; years=1992-1993)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:GMC:safari:57"
       }
     },
     {
@@ -3285,108 +2486,6 @@
       }
     },
     {
-      "code": "16",
-      "marketingName": "Warm Gray",
-      "finish": "solid",
-      "lab": {
-        "L": 50.98,
-        "a": -0.88,
-        "b": -2.16,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #767A7D (PaintRef hex, OEM=GMC, code=16 (models=Safari; years=1991-1995)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:GMC:safari:16"
-      }
-    },
-    {
-      "code": "15",
-      "marketingName": "Astral Silver",
-      "finish": "solid",
-      "lab": {
-        "L": 75.64,
-        "a": -2.21,
-        "b": -5.34,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #B1BCC4 (PaintRef hex, OEM=GMC, code=15 (models=Safari; years=1992-1996)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:GMC:safari:15"
-      }
-    },
-    {
-      "code": "47",
-      "marketingName": "Medium Dark Lichen",
-      "finish": "solid",
-      "lab": {
-        "L": 35.02,
-        "a": -3.7,
-        "b": 2.68,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #4E544E (PaintRef hex, OEM=GMC, code=47 (models=Safari; years=1996-1997)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:GMC:safari:47"
-      }
-    },
-    {
-      "code": "17",
-      "marketingName": "Silvermist",
-      "finish": "solid",
-      "lab": {
-        "L": 62.74,
-        "a": -0.09,
-        "b": -3,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #95989D (PaintRef hex, OEM=GMC, code=17 (models=Safari, Savana; years=1997-2000)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:GMC:safari:17"
-      }
-    },
-    {
-      "code": "17",
-      "marketingName": "Silver Mist",
-      "finish": "solid",
-      "lab": {
-        "L": 62.74,
-        "a": -0.09,
-        "b": -3,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #95989D (PaintRef hex, OEM=GMC, code=17 (models=Safari, Sierra, Yukon; years=1998-1999)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:GMC:safari:17"
-      }
-    },
-    {
-      "code": "14",
-      "marketingName": "Storm Gray",
-      "finish": "solid",
-      "lab": {
-        "L": 37.77,
-        "a": -1.83,
-        "b": -3.24,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #535A5E (PaintRef hex, OEM=GMC, code=14 (models=Safari, Savana, Sierra, Suburban, Yukon; years=1999-2005)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:GMC:safari:14"
-      }
-    },
-    {
       "code": "35",
       "marketingName": "Laguna Green",
       "finish": "solid",
@@ -3404,40 +2503,6 @@
       }
     },
     {
-      "code": "57",
-      "marketingName": "Forest Green",
-      "finish": "solid",
-      "lab": {
-        "L": 16.28,
-        "a": -8.97,
-        "b": -0.61,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #182C29 (PaintRef hex, OEM=GMC, code=57 (models=Safari; years=1998-2005)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:GMC:safari:57"
-      }
-    },
-    {
-      "code": "31",
-      "marketingName": "Fernmist Green",
-      "finish": "solid",
-      "lab": {
-        "L": 38.4,
-        "a": -14.86,
-        "b": 3.7,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #416154 (PaintRef hex, OEM=GMC, code=31 (models=Savana; years=1999-2000)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:GMC:savana:31"
-      }
-    },
-    {
       "code": "05",
       "marketingName": "Cyclamen",
       "finish": "solid",
@@ -3452,57 +2517,6 @@
         "recordedAt": "2026-04-18",
         "notes": "Derived from #40162D (PaintRef hex, OEM=GMC, code=05 (models=Safari; years=1997-1998)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:GMC:safari:05"
-      }
-    },
-    {
-      "code": "76",
-      "marketingName": "Dark Garnet Red",
-      "finish": "solid",
-      "lab": {
-        "L": 13.13,
-        "a": 12.73,
-        "b": -0.63,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #321B23 (PaintRef hex, OEM=GMC, code=76 (models=Safari, Suburban, Yukon; years=1991-1996)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:GMC:safari:76"
-      }
-    },
-    {
-      "code": "75",
-      "marketingName": "Red",
-      "finish": "solid",
-      "lab": {
-        "L": 21.29,
-        "a": 29.95,
-        "b": 7.04,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #5C1D2A (PaintRef hex, OEM=GMC, code=75 (models=Safari; years=1991-1995)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:GMC:safari:75"
-      }
-    },
-    {
-      "code": "59",
-      "marketingName": "Red Maple",
-      "finish": "solid",
-      "lab": {
-        "L": 26.26,
-        "a": 14.49,
-        "b": -0.3,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #53363F (PaintRef hex, OEM=GMC, code=59 (models=Safari, Suburban, Yukon; years=1996-1998)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:GMC:safari:59"
       }
     },
     {
@@ -3554,91 +2568,6 @@
         "recordedAt": "2026-04-18",
         "notes": "Derived from #ECECED (PaintRef hex, OEM=GMC, code=10 (models=Safari; year=1991)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:GMC:safari:10"
-      }
-    },
-    {
-      "code": "10",
-      "marketingName": "Gray White",
-      "finish": "solid",
-      "lab": {
-        "L": 93.42,
-        "a": 0.18,
-        "b": -0.48,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #ECECED (PaintRef hex, OEM=GMC, code=10 (models=Safari; year=1992)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:GMC:safari:10"
-      }
-    },
-    {
-      "code": "10",
-      "marketingName": "Ghost White",
-      "finish": "solid",
-      "lab": {
-        "L": 93.42,
-        "a": 0.18,
-        "b": -0.48,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #ECECED (PaintRef hex, OEM=GMC, code=10 (models=Safari; years=1993-2002)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:GMC:safari:10"
-      }
-    },
-    {
-      "code": "25",
-      "marketingName": "Dark Ming Blue",
-      "finish": "solid",
-      "lab": {
-        "L": 15.3,
-        "a": -2.14,
-        "b": -11.96,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #162837 (PaintRef hex, OEM=GMC, code=25 (models=Savana, Sierra, Suburban, Yukon; years=2006-2009)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:GMC:savana:25"
-      }
-    },
-    {
-      "code": "25",
-      "marketingName": "Deep Blue",
-      "finish": "solid",
-      "lab": {
-        "L": 15.3,
-        "a": -2.14,
-        "b": -11.96,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #162837 (PaintRef hex, OEM=GMC, code=25 (models=Savana, Suburban; years=2010-2015)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:GMC:savana:25"
-      }
-    },
-    {
-      "code": "25",
-      "marketingName": "Dark Blue",
-      "finish": "solid",
-      "lab": {
-        "L": 15.3,
-        "a": -2.14,
-        "b": -11.96,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #162837 (PaintRef hex, OEM=GMC, code=25 (models=Savana; years=2012-2014)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:GMC:savana:25"
       }
     },
     {
@@ -3727,57 +2656,6 @@
       }
     },
     {
-      "code": "5IH",
-      "marketingName": "Dark Ming Blue",
-      "finish": "solid",
-      "lab": {
-        "L": 15.3,
-        "a": -2.14,
-        "b": -11.96,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #162837 (PaintRef hex, OEM=GMC, code=5IH (models=Savana; year=2026)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:GMC:savana:5IH"
-      }
-    },
-    {
-      "code": "15",
-      "marketingName": "Sand Beige",
-      "finish": "solid",
-      "lab": {
-        "L": 78.91,
-        "a": 4.28,
-        "b": 28.32,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #DEBF8F (PaintRef hex, OEM=GMC, code=15 (models=Savana; years=2010-2013)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:GMC:savana:15"
-      }
-    },
-    {
-      "code": "GWX",
-      "marketingName": "Subterranean",
-      "finish": "solid",
-      "lab": {
-        "L": 63.84,
-        "a": -0.05,
-        "b": 9.98,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #A29A89 (PaintRef hex, OEM=GMC, code=GWX (models=Terrain; year=2014)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:GMC:terrain:GWX"
-      }
-    },
-    {
       "code": "IncaGold-2021",
       "marketingName": "Inca Gold",
       "finish": "solid",
@@ -3809,40 +2687,6 @@
         "recordedAt": "2026-04-18",
         "notes": "Derived from #C1B68E (PaintRef hex, OEM=GMC, code=5IK (models=Savana; years=2024-2026)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:GMC:savana:5IK"
-      }
-    },
-    {
-      "code": "16",
-      "marketingName": "Steel Gray",
-      "finish": "solid",
-      "lab": {
-        "L": 61.81,
-        "a": 0.16,
-        "b": 3.02,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #989590 (PaintRef hex, OEM=GMC, code=16 (models=Savana, Sierra, Suburban, Yukon; years=2010-2013)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:GMC:savana:16"
-      }
-    },
-    {
-      "code": "17",
-      "marketingName": "Quicksilver",
-      "finish": "solid",
-      "lab": {
-        "L": 86.73,
-        "a": 3.47,
-        "b": -12.67,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #D4D8F1 (PaintRef hex, OEM=GMC, code=17 (models=Sierra, Suburban, Terrain, Yukon; years=2010-2014)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:GMC:sierra:17"
       }
     },
     {
@@ -3911,23 +2755,6 @@
         "recordedAt": "2026-04-18",
         "notes": "Derived from #D5D2C1 (PaintRef hex, OEM=GMC, code=5IG (models=Savana; years=2024-2026)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:GMC:savana:5IG"
-      }
-    },
-    {
-      "code": "47",
-      "marketingName": "Polo Green",
-      "finish": "solid",
-      "lab": {
-        "L": 27.03,
-        "a": -9.77,
-        "b": 3.02,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #31443B (PaintRef hex, OEM=GMC, code=47 (models=Savana; years=2010-2013)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:GMC:savana:47"
       }
     },
     {
@@ -4067,23 +2894,6 @@
       }
     },
     {
-      "code": "87",
-      "marketingName": "Berry",
-      "finish": "solid",
-      "lab": {
-        "L": 13.94,
-        "a": 24.72,
-        "b": 4.61,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #43121E (PaintRef hex, OEM=GMC, code=87 (models=Savana; years=2003-2005)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:GMC:savana:87"
-      }
-    },
-    {
       "code": "63",
       "marketingName": "Sport Red",
       "finish": "solid",
@@ -4135,23 +2945,6 @@
       }
     },
     {
-      "code": "G7C",
-      "marketingName": "Cardubak Hot",
-      "finish": "solid",
-      "lab": {
-        "L": 44.04,
-        "a": 69.47,
-        "b": 56.62,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #D30005 (PaintRef hex, OEM=GMC, code=G7C (models=Sierra; year=2024)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:GMC:sierra:G7C"
-      }
-    },
-    {
       "code": "5I1",
       "marketingName": "Dark Toreador Red",
       "finish": "solid",
@@ -4183,23 +2976,6 @@
         "recordedAt": "2026-04-18",
         "notes": "Derived from #B4000E (PaintRef hex, OEM=GMC, code=5IP (models=Savana; years=2024-2026)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:GMC:savana:5IP"
-      }
-    },
-    {
-      "code": "50",
-      "marketingName": "Summit White",
-      "finish": "solid",
-      "lab": {
-        "L": 95.42,
-        "a": -0.71,
-        "b": 3.01,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #F3F2EC (PaintRef hex, OEM=GMC, code=50 (models=Savana, Sierra, Suburban, Terrain, Yukon; years=2010-2014)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:GMC:savana:50"
       }
     },
     {
@@ -4237,23 +3013,6 @@
       }
     },
     {
-      "code": "GAR",
-      "marketingName": "Carbon Black",
-      "finish": "solid",
-      "lab": {
-        "L": 21.25,
-        "a": 0,
-        "b": 0,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #333333 (PaintRef hex, OEM=GMC, code=GAR (models=Sierra, Suburban, Terrain, Yukon; years=2010-2015)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:GMC:sierra:GAR"
-      }
-    },
-    {
       "code": "GB8",
       "marketingName": "Ebony Twilight",
       "finish": "solid",
@@ -4288,23 +3047,6 @@
       }
     },
     {
-      "code": "24",
-      "marketingName": "Aero Blue",
-      "finish": "solid",
-      "lab": {
-        "L": 28.4,
-        "a": 13.92,
-        "b": -43.67,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #184087 (PaintRef hex, OEM=GMC, code=24 (models=Sierra; year=2005)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:GMC:sierra:24"
-      }
-    },
-    {
       "code": "G7Z",
       "marketingName": "Laser Blue",
       "finish": "solid",
@@ -4322,23 +3064,6 @@
       }
     },
     {
-      "code": "37",
-      "marketingName": "Midnight Blue",
-      "finish": "solid",
-      "lab": {
-        "L": 13.96,
-        "a": 6.45,
-        "b": -19.65,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #1A223F (PaintRef hex, OEM=GMC, code=37 (models=Sierra; years=2010-2012)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:GMC:sierra:37"
-      }
-    },
-    {
       "code": "GTS",
       "marketingName": "Heritage Blue",
       "finish": "solid",
@@ -4352,40 +3077,6 @@
         "confidence": "derived",
         "recordedAt": "2026-04-18",
         "notes": "Derived from #000F5F (PaintRef hex, OEM=GMC, code=GTS (models=Sierra; year=2013)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:GMC:sierra:GTS"
-      }
-    },
-    {
-      "code": "19",
-      "marketingName": "Heritage Blue",
-      "finish": "solid",
-      "lab": {
-        "L": 10.32,
-        "a": 29.83,
-        "b": -47.58,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #000F5F (PaintRef hex, OEM=GMC, code=19 (models=Sierra; year=2014)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:GMC:sierra:19"
-      }
-    },
-    {
-      "code": "GTS",
-      "marketingName": "Cobalt Blue",
-      "finish": "solid",
-      "lab": {
-        "L": 10.32,
-        "a": 29.83,
-        "b": -47.58,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #000F5F (PaintRef hex, OEM=GMC, code=GTS (models=Sierra; year=2015)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:GMC:sierra:GTS"
       }
     },
@@ -4730,57 +3421,6 @@
       }
     },
     {
-      "code": "GXN",
-      "marketingName": "Deep Aurora",
-      "finish": "solid",
-      "lab": {
-        "L": 23.77,
-        "a": 1.94,
-        "b": 12.48,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #423726 (PaintRef hex, OEM=GMC, code=GXN (models=Sierra; year=2026)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:GMC:sierra:GXN"
-      }
-    },
-    {
-      "code": "91",
-      "marketingName": "Dark Argent",
-      "finish": "solid",
-      "lab": {
-        "L": 19.23,
-        "a": 2.01,
-        "b": -5.1,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #2E2E36 (PaintRef hex, OEM=GMC, code=91 (models=Yukon; year=1999)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:GMC:yukon:91"
-      }
-    },
-    {
-      "code": "62",
-      "marketingName": "Storm Gray",
-      "finish": "solid",
-      "lab": {
-        "L": 19.34,
-        "a": 2.04,
-        "b": -1.44,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #312E31 (PaintRef hex, OEM=GMC, code=62 (models=Sierra, Suburban, Yukon; years=2010-2011)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:GMC:sierra:62"
-      }
-    },
-    {
       "code": "GXG",
       "marketingName": "Iridium",
       "finish": "solid",
@@ -4812,23 +3452,6 @@
         "recordedAt": "2026-04-18",
         "notes": "Derived from #5B5A57 (PaintRef hex, OEM=GMC, code=GMU (models=Suburban, Yukon; years=2017-2019)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:GMC:suburban:GMU"
-      }
-    },
-    {
-      "code": "GED",
-      "marketingName": "Forest",
-      "finish": "solid",
-      "lab": {
-        "L": 31.77,
-        "a": -9.19,
-        "b": -0.98,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #394F4C (PaintRef hex, OEM=GMC, code=GED (models=Sierra; year=2022)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:GMC:sierra:GED"
       }
     },
     {
@@ -4931,23 +3554,6 @@
         "recordedAt": "2026-04-18",
         "notes": "Derived from #7C766F (PaintRef hex, OEM=GMC, code=GBL (models=Sierra; year=2026)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:GMC:sierra:GBL"
-      }
-    },
-    {
-      "code": "18",
-      "marketingName": "Dark Gray Green",
-      "finish": "solid",
-      "lab": {
-        "L": 28.07,
-        "a": -4.37,
-        "b": -11.08,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #2F4553 (PaintRef hex, OEM=GMC, code=18 (models=Yukon; year=1999)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:GMC:yukon:18"
       }
     },
     {
@@ -5155,23 +3761,6 @@
       }
     },
     {
-      "code": "66",
-      "marketingName": "Sonoma Red",
-      "finish": "solid",
-      "lab": {
-        "L": 22.67,
-        "a": 38.93,
-        "b": 19.1,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #6C121C (PaintRef hex, OEM=GMC, code=66 (models=Sierra; years=2013-2014)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:GMC:sierra:66"
-      }
-    },
-    {
       "code": "GCN",
       "marketingName": "Fire Red",
       "finish": "solid",
@@ -5291,23 +3880,6 @@
       }
     },
     {
-      "code": "98",
-      "marketingName": "White Diamond",
-      "finish": "solid",
-      "lab": {
-        "L": 99.18,
-        "a": -3.37,
-        "b": 9.57,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #FEFEEA (PaintRef hex, OEM=GMC, code=98 (models=Sierra, Suburban, Yukon; years=2003-2014)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:GMC:sierra:98"
-      }
-    },
-    {
       "code": "GBN",
       "marketingName": "White Diamond",
       "finish": "solid",
@@ -5356,40 +3928,6 @@
         "recordedAt": "2026-04-18",
         "notes": "Derived from #EFEFEF (PaintRef hex, OEM=GMC, code=G4J (models=Terrain, Yukon; years=2026-2027)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:GMC:terrain:G4J"
-      }
-    },
-    {
-      "code": "19",
-      "marketingName": "Black",
-      "finish": "solid",
-      "lab": {
-        "L": 0,
-        "a": 0,
-        "b": 0,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #000000 (PaintRef hex, OEM=GMC, code=19 (models=Sonoma; year=1991)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:GMC:sonoma:19"
-      }
-    },
-    {
-      "code": "24",
-      "marketingName": "Bright Blue",
-      "finish": "solid",
-      "lab": {
-        "L": 29.88,
-        "a": 6.23,
-        "b": -31.91,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #284678 (PaintRef hex, OEM=GMC, code=24 (models=Sonoma; year=1991)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:GMC:sonoma:24"
       }
     },
     {
@@ -5478,142 +4016,6 @@
       }
     },
     {
-      "code": "12",
-      "marketingName": "White",
-      "finish": "solid",
-      "lab": {
-        "L": 93.18,
-        "a": -0.79,
-        "b": -1.92,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #E8ECEF (PaintRef hex, OEM=GMC, code=12 (models=Sonoma; year=1991)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:GMC:sonoma:12"
-      }
-    },
-    {
-      "code": "58",
-      "marketingName": "Black Granite",
-      "finish": "solid",
-      "lab": {
-        "L": 21.25,
-        "a": 0,
-        "b": 0,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #333333 (PaintRef hex, OEM=GMC, code=58 (models=Terrain; year=2011)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:GMC:terrain:58"
-      }
-    },
-    {
-      "code": "57",
-      "marketingName": "Black Granite",
-      "finish": "solid",
-      "lab": {
-        "L": 21.25,
-        "a": 0,
-        "b": 0,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #333333 (PaintRef hex, OEM=GMC, code=57 (models=Suburban; year=2013)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:GMC:suburban:57"
-      }
-    },
-    {
-      "code": "30",
-      "marketingName": "Atlantic Blue",
-      "finish": "solid",
-      "lab": {
-        "L": 42.41,
-        "a": 1.12,
-        "b": -19.5,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #526584 (PaintRef hex, OEM=GMC, code=30 (models=Suburban, Yukon; years=1994-1996)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:GMC:suburban:30"
-      }
-    },
-    {
-      "code": "24",
-      "marketingName": "Opal Blue",
-      "finish": "solid",
-      "lab": {
-        "L": 33.11,
-        "a": 2.94,
-        "b": -21.1,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #3D4E6F (PaintRef hex, OEM=GMC, code=24 (models=Yukon; year=1997)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:GMC:yukon:24"
-      }
-    },
-    {
-      "code": "26",
-      "marketingName": "Bermuda Blue",
-      "finish": "solid",
-      "lab": {
-        "L": 32.93,
-        "a": -14,
-        "b": -5.71,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #2A5456 (PaintRef hex, OEM=GMC, code=26 (models=Suburban, Yukon; years=2005-2007)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:GMC:suburban:26"
-      }
-    },
-    {
-      "code": "24",
-      "marketingName": "Ice Blue",
-      "finish": "solid",
-      "lab": {
-        "L": 72.73,
-        "a": -8.9,
-        "b": -8.75,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #97B8C2 (PaintRef hex, OEM=GMC, code=24 (models=Suburban; year=2011)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:GMC:suburban:24"
-      }
-    },
-    {
-      "code": "19",
-      "marketingName": "Blue Topaz",
-      "finish": "solid",
-      "lab": {
-        "L": 10.32,
-        "a": 29.83,
-        "b": -47.58,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #000F5F (PaintRef hex, OEM=GMC, code=19 (models=Suburban; year=2012)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:GMC:suburban:19"
-      }
-    },
-    {
       "code": "GXH",
       "marketingName": "Blue Ray",
       "finish": "solid",
@@ -5682,40 +4084,6 @@
       }
     },
     {
-      "code": "53",
-      "marketingName": "Antique Bronze",
-      "finish": "solid",
-      "lab": {
-        "L": 57,
-        "a": 2.91,
-        "b": 18.97,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #9A8668 (PaintRef hex, OEM=GMC, code=53 (models=Yukon; year=2007)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:GMC:yukon:53"
-      }
-    },
-    {
-      "code": "51",
-      "marketingName": "Gold Mist",
-      "finish": "solid",
-      "lab": {
-        "L": 77.47,
-        "a": -1.31,
-        "b": 17.56,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #CABF9F (PaintRef hex, OEM=GMC, code=51 (models=Suburban, Terrain, Yukon; years=2007-2012)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:GMC:suburban:51"
-      }
-    },
-    {
       "code": "GJW",
       "marketingName": "Empire Beige",
       "finish": "solid",
@@ -5733,40 +4101,6 @@
       }
     },
     {
-      "code": "G48",
-      "marketingName": "Auburn",
-      "finish": "solid",
-      "lab": {
-        "L": 13.1,
-        "a": 19.58,
-        "b": 10.51,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #3D1514 (PaintRef hex, OEM=GMC, code=G48 (models=Suburban, Yukon; years=2022-2023)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:GMC:suburban:G48"
-      }
-    },
-    {
-      "code": "18",
-      "marketingName": "Sheer Silver",
-      "finish": "solid",
-      "lab": {
-        "L": 92.3,
-        "a": -0.16,
-        "b": -0.6,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #E8E9EA (PaintRef hex, OEM=GMC, code=18 (models=Suburban; year=2010)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:GMC:suburban:18"
-      }
-    },
-    {
       "code": "GWT",
       "marketingName": "Champagne Silver",
       "finish": "solid",
@@ -5781,57 +4115,6 @@
         "recordedAt": "2026-04-18",
         "notes": "Derived from #D5CFBF (PaintRef hex, OEM=GMC, code=GWT (models=Suburban, Terrain, Yukon; years=2013-2017)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:GMC:suburban:GWT"
-      }
-    },
-    {
-      "code": "GXG",
-      "marketingName": "Tungsten",
-      "finish": "solid",
-      "lab": {
-        "L": 22.06,
-        "a": 4,
-        "b": -2.81,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #393339 (PaintRef hex, OEM=GMC, code=GXG (models=Yukon; year=2018)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:GMC:yukon:GXG"
-      }
-    },
-    {
-      "code": "GS6",
-      "marketingName": "Graywood",
-      "finish": "solid",
-      "lab": {
-        "L": 39.31,
-        "a": 1.21,
-        "b": -0.86,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #5E5C5E (PaintRef hex, OEM=GMC, code=GS6 (models=Yukon; year=2021)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:GMC:yukon:GS6"
-      }
-    },
-    {
-      "code": "G6M",
-      "marketingName": "Dark Ash",
-      "finish": "solid",
-      "lab": {
-        "L": 25.2,
-        "a": 2.07,
-        "b": -4.15,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #3C3B42 (PaintRef hex, OEM=GMC, code=G6M (models=Yukon; year=2025)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:GMC:yukon:G6M"
       }
     },
     {
@@ -5937,40 +4220,6 @@
       }
     },
     {
-      "code": "72",
-      "marketingName": "Redfire",
-      "finish": "solid",
-      "lab": {
-        "L": 18.26,
-        "a": 26,
-        "b": 11.67,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #511A1D (PaintRef hex, OEM=GMC, code=72 (models=Suburban, Yukon; years=2000-2005)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:GMC:suburban:72"
-      }
-    },
-    {
-      "code": "89",
-      "marketingName": "Crystal Red",
-      "finish": "solid",
-      "lab": {
-        "L": 25.79,
-        "a": 36.42,
-        "b": 19.2,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #721F22 (PaintRef hex, OEM=GMC, code=89 (models=Suburban, Terrain, Yukon; years=2012-2014)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:GMC:suburban:89"
-      }
-    },
-    {
       "code": "GBE",
       "marketingName": "Crystal Red",
       "finish": "solid",
@@ -6005,23 +4254,6 @@
       }
     },
     {
-      "code": "G1E",
-      "marketingName": "Siren Red",
-      "finish": "solid",
-      "lab": {
-        "L": 17.23,
-        "a": 33.76,
-        "b": 14.83,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #570C17 (PaintRef hex, OEM=GMC, code=G1E (models=Suburban, Yukon; years=2018-2020)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:GMC:suburban:G1E"
-      }
-    },
-    {
       "code": "GLR",
       "marketingName": "Black Cherry",
       "finish": "solid",
@@ -6039,23 +4271,6 @@
       }
     },
     {
-      "code": "50",
-      "marketingName": "Blue White",
-      "finish": "solid",
-      "lab": {
-        "L": 95.42,
-        "a": -0.71,
-        "b": 3.01,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #F3F2EC (PaintRef hex, OEM=GMC, code=50 (models=Yukon; year=1992)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:GMC:yukon:50"
-      }
-    },
-    {
       "code": "40",
       "marketingName": "White",
       "finish": "solid",
@@ -6070,40 +4285,6 @@
         "recordedAt": "2026-04-18",
         "notes": "Derived from #F9F6E6 (PaintRef hex, OEM=GMC, code=40 (models=Yukon; year=2001)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:GMC:yukon:40"
-      }
-    },
-    {
-      "code": "G1W",
-      "marketingName": "Iridescent Pearl",
-      "finish": "solid",
-      "lab": {
-        "L": 82.78,
-        "a": -1.29,
-        "b": -2.69,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #C9CFD3 (PaintRef hex, OEM=GMC, code=G1W (models=Suburban, Terrain, Yukon; years=2016-2023)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:GMC:suburban:G1W"
-      }
-    },
-    {
-      "code": "58",
-      "marketingName": "Carbon Black",
-      "finish": "solid",
-      "lab": {
-        "L": 13.91,
-        "a": -3.92,
-        "b": 0.95,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #1E2522 (PaintRef hex, OEM=GMC, code=58 (models=Terrain; years=2010-2014)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:GMC:terrain:58"
       }
     },
     {
@@ -6171,40 +4352,6 @@
         "confidence": "derived",
         "recordedAt": "2026-04-18",
         "notes": "Derived from #94B3BF (PaintRef hex, OEM=GMC, code=GWS (models=Terrain; year=2014)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:GMC:terrain:GWS"
-      }
-    },
-    {
-      "code": "G1M",
-      "marketingName": "Dark Sapphire Blue",
-      "finish": "solid",
-      "lab": {
-        "L": 18.36,
-        "a": 3.14,
-        "b": -10.6,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #292C3C (PaintRef hex, OEM=GMC, code=G1M (models=Terrain; years=2015-2016)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:GMC:terrain:G1M"
-      }
-    },
-    {
-      "code": "GWS",
-      "marketingName": "Silver Sky",
-      "finish": "solid",
-      "lab": {
-        "L": 71.07,
-        "a": -7.84,
-        "b": -9.59,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #94B3BF (PaintRef hex, OEM=GMC, code=GWS (models=Terrain; year=2015)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:GMC:terrain:GWS"
       }
     },
@@ -6362,23 +4509,6 @@
       }
     },
     {
-      "code": "G7P",
-      "marketingName": "Red Rock",
-      "finish": "solid",
-      "lab": {
-        "L": 38.86,
-        "a": 49.3,
-        "b": 41.08,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #AA2E1A (PaintRef hex, OEM=GMC, code=G7P (models=Terrain; year=2014)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:GMC:terrain:G7P"
-      }
-    },
-    {
       "code": "13",
       "marketingName": "Merlot Jewel",
       "finish": "solid",
@@ -6393,23 +4523,6 @@
         "recordedAt": "2026-04-18",
         "notes": "Derived from #851422 (PaintRef hex, OEM=GMC, code=13 (models=Terrain; years=2010-2011)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:GMC:terrain:13"
-      }
-    },
-    {
-      "code": "79",
-      "marketingName": "Merlot Red",
-      "finish": "solid",
-      "lab": {
-        "L": 27.24,
-        "a": 44.64,
-        "b": 24.88,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #80141D (PaintRef hex, OEM=GMC, code=79 (models=Terrain; year=2012)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:GMC:terrain:79"
       }
     },
     {
@@ -6444,40 +4557,6 @@
         "recordedAt": "2026-04-18",
         "notes": "Derived from #312E31 (PaintRef hex, OEM=GMC, code=GGW (models=Yukon; year=2010)). Replace with spectro LAB before production claims.",
         "provenanceId": "paintref:GMC:yukon:GGW"
-      }
-    },
-    {
-      "code": "GC8",
-      "marketingName": "Dark Forest Green",
-      "finish": "solid",
-      "lab": {
-        "L": 21.21,
-        "a": -7.22,
-        "b": 0.5,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #273632 (PaintRef hex, OEM=GMC, code=GC8 (models=Yukon; year=2017)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:GMC:yukon:GC8"
-      }
-    },
-    {
-      "code": "G7U",
-      "marketingName": "Midnight Amethyst",
-      "finish": "solid",
-      "lab": {
-        "L": 26.04,
-        "a": 9.26,
-        "b": -4.09,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "paintref_hex",
-        "confidence": "derived",
-        "recordedAt": "2026-04-18",
-        "notes": "Derived from #493944 (PaintRef hex, OEM=GMC, code=G7U (models=Yukon; year=2017)). Replace with spectro LAB before production claims.",
-        "provenanceId": "paintref:GMC:yukon:G7U"
       }
     }
   ]

@@ -1,0 +1,17 @@
+{
+  "$schema": "../../../schemas/oem-scope-v1.schema.json",
+  "scopeId": "rivian-curated-v1",
+  "oem": "Rivian",
+  "region": "North America",
+  "modelYears": {
+    "from": 2022,
+    "to": 2026
+  },
+  "models": [
+    "R1T",
+    "R1S",
+    "R2"
+  ],
+  "notes": "Rivian exterior colors, curated from configurator references. LAB values are HEX-derived approximations.",
+  "exteriorPaintFile": "./exterior-paints-v1.json"
+}

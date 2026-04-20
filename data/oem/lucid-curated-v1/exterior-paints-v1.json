@@ -1,0 +1,103 @@
+{
+  "$schema": "../../../schemas/exterior-paints-v1.schema.json",
+  "scopeId": "lucid-curated-v1",
+  "version": "1.0.0",
+  "paints": [
+    {
+      "code": "STL",
+      "marketingName": "Stellar White",
+      "finish": "pearl",
+      "lab": {
+        "L": 94.85,
+        "a": -0.03,
+        "b": 2.16,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "hex_derived",
+        "confidence": "derived",
+        "recordedAt": "2026-04-20",
+        "notes": "Derived from #F2F0EC (hex_derived). Replace with spectro LAB before production claims."
+      }
+    },
+    {
+      "code": "INF",
+      "marketingName": "Infinite Black",
+      "finish": "metallic",
+      "lab": {
+        "L": 4.74,
+        "a": 0.4,
+        "b": -1.08,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "hex_derived",
+        "confidence": "derived",
+        "recordedAt": "2026-04-20",
+        "notes": "Derived from #101012 (hex_derived). Replace with spectro LAB before production claims."
+      }
+    },
+    {
+      "code": "EUR",
+      "marketingName": "Eureka Gold",
+      "finish": "metallic",
+      "lab": {
+        "L": 52.64,
+        "a": 6.24,
+        "b": 43.57,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "hex_derived",
+        "confidence": "derived",
+        "recordedAt": "2026-04-20",
+        "notes": "Derived from #9C7830 (hex_derived). Replace with spectro LAB before production claims."
+      }
+    },
+    {
+      "code": "COS",
+      "marketingName": "Cosmos Silver",
+      "finish": "metallic",
+      "lab": {
+        "L": 69.3,
+        "a": 0.61,
+        "b": -2.69,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "hex_derived",
+        "confidence": "derived",
+        "recordedAt": "2026-04-20",
+        "notes": "Derived from #A8A9AE (hex_derived). Replace with spectro LAB before production claims."
+      }
+    },
+    {
+      "code": "ZEN",
+      "marketingName": "Zenith Red",
+      "finish": "metallic",
+      "lab": {
+        "L": 22.8,
+        "a": 38.3,
+        "b": 15.14,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "hex_derived",
+        "confidence": "derived",
+        "recordedAt": "2026-04-20",
+        "notes": "Derived from #6B1422 (hex_derived). Replace with spectro LAB before production claims."
+      }
+    },
+    {
+      "code": "SAP",
+      "marketingName": "Sapphire Blue",
+      "finish": "metallic",
+      "lab": {
+        "L": 15.94,
+        "a": 4.7,
+        "b": -19.99,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "hex_derived",
+        "confidence": "derived",
+        "recordedAt": "2026-04-20",
+        "notes": "Derived from #1A2744 (hex_derived). Replace with spectro LAB before production claims."
+      }
+    }
+  ]
+}

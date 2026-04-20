@@ -1,0 +1,19 @@
+{
+  "$schema": "../../../schemas/oem-scope-v1.schema.json",
+  "scopeId": "lucid-curated-v1",
+  "oem": "Lucid",
+  "region": "North America",
+  "modelYears": {
+    "from": 2022,
+    "to": 2026
+  },
+  "models": [
+    "Air",
+    "Air Pure",
+    "Air Touring",
+    "Air Grand Touring",
+    "Gravity"
+  ],
+  "notes": "Lucid Motors exterior colors, curated from configurator references. LAB values are HEX-derived approximations.",
+  "exteriorPaintFile": "./exterior-paints-v1.json"
+}

@@ -1,0 +1,22 @@
+{
+  "$schema": "../../../schemas/oem-scope-v1.schema.json",
+  "scopeId": "kia-curated-v1",
+  "oem": "Kia",
+  "region": "Global",
+  "modelYears": {
+    "from": 2010,
+    "to": 2026
+  },
+  "models": [
+    "EV6",
+    "EV9",
+    "Telluride",
+    "Sorento",
+    "Sportage",
+    "Forte",
+    "K5",
+    "Stinger"
+  ],
+  "notes": "Kia exterior colors, curated from industry touch-up references. LAB values are HEX-derived approximations.",
+  "exteriorPaintFile": "./exterior-paints-v1.json"
+}

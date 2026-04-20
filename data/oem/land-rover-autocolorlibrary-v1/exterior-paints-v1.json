@@ -16,7 +16,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Land-Rover.html). Image data/sources/autocolorlibrary/pages/2019-land-rover/2019_LandRover_01.jpg; bbox 480,173 440×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈93; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Land-Rover.html). Image data/sources/autocolorlibrary/pages/2019-land-rover/2019_LandRover_01.jpg; bbox 480,173 440\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224893; verify chip alignment.",
         "provenanceId": "acl:land-rover:2019:2130:480,173,440x210"
       }
     },
@@ -33,7 +33,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Land-Rover.html). Image data/sources/autocolorlibrary/pages/2019-land-rover/2019_LandRover_01.jpg; bbox 890,173 439×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈93; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Land-Rover.html). Image data/sources/autocolorlibrary/pages/2019-land-rover/2019_LandRover_01.jpg; bbox 890,173 439\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224893; verify chip alignment.",
         "provenanceId": "acl:land-rover:2019:2135:890,173,439x210"
       }
     },
@@ -50,7 +50,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Land-Rover.html). Image data/sources/autocolorlibrary/pages/2019-land-rover/2019_LandRover_01.jpg; bbox 1299,172 438×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈91; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Land-Rover.html). Image data/sources/autocolorlibrary/pages/2019-land-rover/2019_LandRover_01.jpg; bbox 1299,172 438\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224891; verify chip alignment.",
         "provenanceId": "acl:land-rover:2019:2144:1299,172,438x210"
       }
     },
@@ -67,7 +67,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Land-Rover.html). Image data/sources/autocolorlibrary/pages/2019-land-rover/2019_LandRover_01.jpg; bbox 0,653 178×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈75; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Land-Rover.html). Image data/sources/autocolorlibrary/pages/2019-land-rover/2019_LandRover_01.jpg; bbox 0,653 178\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224875; verify chip alignment.",
         "provenanceId": "acl:land-rover:2019:921:0,653,178x210"
       }
     },
@@ -84,7 +84,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Land-Rover.html). Image data/sources/autocolorlibrary/pages/2019-land-rover/2019_LandRover_01.jpg; bbox 400,652 210×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈90; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Land-Rover.html). Image data/sources/autocolorlibrary/pages/2019-land-rover/2019_LandRover_01.jpg; bbox 400,652 210\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224890; verify chip alignment.",
         "provenanceId": "acl:land-rover:2019:942:400,652,210x210"
       }
     },
@@ -101,7 +101,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Land-Rover.html). Image data/sources/autocolorlibrary/pages/2019-land-rover/2019_LandRover_01.jpg; bbox 810,651 209×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈91; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Land-Rover.html). Image data/sources/autocolorlibrary/pages/2019-land-rover/2019_LandRover_01.jpg; bbox 810,651 209\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224891; verify chip alignment.",
         "provenanceId": "acl:land-rover:2019:943:810,651,209x210"
       }
     },
@@ -118,7 +118,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Land-Rover.html). Image data/sources/autocolorlibrary/pages/2019-land-rover/2019_LandRover_01.jpg; bbox 1219,651 205×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈79; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Land-Rover.html). Image data/sources/autocolorlibrary/pages/2019-land-rover/2019_LandRover_01.jpg; bbox 1219,651 205\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224879; verify chip alignment.",
         "provenanceId": "acl:land-rover:2019:995:1219,651,205x210"
       }
     },
@@ -135,7 +135,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Land-Rover.html). Image data/sources/autocolorlibrary/pages/2019-land-rover/2019_LandRover_01.jpg; bbox 1627,650 208×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈93; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Land-Rover.html). Image data/sources/autocolorlibrary/pages/2019-land-rover/2019_LandRover_01.jpg; bbox 1627,650 208\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224893; verify chip alignment.",
         "provenanceId": "acl:land-rover:2019:997:1627,650,208x210"
       }
     },
@@ -152,8 +152,25 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Land-Rover.html). Image data/sources/autocolorlibrary/pages/2019-land-rover/2019_LandRover_01.jpg; bbox 0,1132 231×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈93; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Land-Rover.html). Image data/sources/autocolorlibrary/pages/2019-land-rover/2019_LandRover_01.jpg; bbox 0,1132 231\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224893; verify chip alignment.",
         "provenanceId": "acl:land-rover:2019:998:0,1132,231x210"
+      }
+    },
+    {
+      "code": "799",
+      "marketingName": "Keswick Green",
+      "finish": "solid",
+      "lab": {
+        "L": 35.13,
+        "a": -6.07,
+        "b": 9.72,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "hex_derived",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Derived from #4F5543. Alternate code LRC799. Heritage-inspired military olive green with yellow/brown undertone.",
+        "provenanceId": "lacca:user-curated:land-rover:Keswick-Green-799"
       }
     }
   ]

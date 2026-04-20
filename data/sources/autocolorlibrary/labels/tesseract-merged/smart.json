@@ -1,0 +1,546 @@
+[
+  {
+    "oem": "Smart",
+    "modelYear": 2008,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2008-Smart-Car.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2008-smart-car/2008-Smart-pg01.jpg",
+    "bbox": {
+      "x": 693,
+      "y": 328,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#4F4D52",
+    "code": "C21L",
+    "marketingName": "— Lite FOURTWO White B/C Jack FOURTWO Black B/C",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈90; verify chip alignment."
+  },
+  {
+    "oem": "Smart",
+    "modelYear": 2008,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2008-Smart-Car.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2008-smart-car/2008-Smart-pg01.jpg",
+    "bbox": {
+      "x": 1105,
+      "y": 326,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#C65056",
+    "code": "C36L",
+    "marketingName": "Phat FOURTWO Red B/C",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈92; verify chip alignment."
+  },
+  {
+    "oem": "Smart",
+    "modelYear": 2008,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2008-Smart-Car.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2008-smart-car/2008-Smart-pg01.jpg",
+    "bbox": {
+      "x": 1518,
+      "y": 324,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#EBF0AB",
+    "code": "C43L",
+    "marketingName": "Stream FOURTWO Green B/C Bay FOURTWO Gray Met B/C",
+    "finish": "metallic",
+    "notes": "Tesseract batch: code conf≈85; verify chip alignment."
+  },
+  {
+    "oem": "Smart",
+    "modelYear": 2008,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2008-Smart-Car.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2008-smart-car/2008-Smart-pg01.jpg",
+    "bbox": {
+      "x": 695,
+      "y": 892,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#C6C4C9",
+    "code": "C50L",
+    "marketingName": "= Schwarz FOURTWO B/C River FOURTWO Silver Met B/C",
+    "finish": "metallic",
+    "notes": "Tesseract batch: code conf≈83; verify chip alignment."
+  },
+  {
+    "oem": "Smart",
+    "modelYear": 2008,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2008-Smart-Car.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2008-smart-car/2008-Smart-pg01.jpg",
+    "bbox": {
+      "x": 1107,
+      "y": 890,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#545358",
+    "code": "C55L",
+    "marketingName": "Jet FOURTWO Black B/C",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈87; verify chip alignment."
+  },
+  {
+    "oem": "Smart",
+    "modelYear": 2008,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2008-Smart-Car.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2008-smart-car/2008-Smart-pg01.jpg",
+    "bbox": {
+      "x": 1519,
+      "y": 888,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#58585C",
+    "code": "C70L",
+    "marketingName": "Black FOURTWO Fury Pearl B/C",
+    "finish": "pearl",
+    "notes": "Tesseract batch: code conf≈91; verify chip alignment."
+  },
+  {
+    "oem": "Smart",
+    "modelYear": 2008,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2008-Smart-Car.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2008-smart-car/2008-Smart-pg01.jpg",
+    "bbox": {
+      "x": 1931,
+      "y": 886,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#746F74",
+    "code": "C78L",
+    "marketingName": "Pyritgrau FOURTWO Pearl B/C",
+    "finish": "pearl",
+    "notes": "Tesseract batch: code conf≈92; verify chip alignment."
+  },
+  {
+    "oem": "Smart",
+    "modelYear": 2009,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2009-Smart-Car.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2009-smart-car/2009-Smart-pg01.jpg",
+    "bbox": {
+      "x": 699,
+      "y": 341,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#7C797F",
+    "code": "C49L",
+    "marketingName": "~ Schwarz B/C Brilliant Silver Met B/C",
+    "finish": "metallic",
+    "notes": "Tesseract batch: code conf≈87; verify chip alignment."
+  },
+  {
+    "oem": "Smart",
+    "modelYear": 2009,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2009-Smart-Car.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2009-smart-car/2009-Smart-pg01.jpg",
+    "bbox": {
+      "x": 1111,
+      "y": 340,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#BAB9C1",
+    "code": "C50L",
+    "marketingName": "River Silver Met B/C Red Orange Pearl B/C Light Lemon B/C",
+    "finish": "pearl",
+    "notes": "Tesseract batch: code conf≈76; verify chip alignment."
+  },
+  {
+    "oem": "Smart",
+    "modelYear": 2010,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2010-Smart-Car.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2010-smart-car/2010-Smart-pg01.jpg",
+    "bbox": {
+      "x": 285,
+      "y": 344,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#454347",
+    "code": "C46L",
+    "marketingName": "Schwarz",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈91; verify chip alignment."
+  },
+  {
+    "oem": "Smart",
+    "modelYear": 2010,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2010-Smart-Car.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2010-smart-car/2010-Smart-pg01.jpg",
+    "bbox": {
+      "x": 386,
+      "y": 344,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#18171A",
+    "code": "C47L",
+    "marketingName": "B/C Brilliant Silver Met B/C River Silver Met B/C Pyritgrau Pearl B/C Melon Green Pearl B/C",
+    "finish": "pearl",
+    "notes": "Tesseract batch: code conf≈82; verify chip alignment."
+  },
+  {
+    "oem": "Smart",
+    "modelYear": 2010,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2010-Smart-Car.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2010-smart-car/2010-Smart-pg01.jpg",
+    "bbox": {
+      "x": 697,
+      "y": 342,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#9F9BA2",
+    "code": "C48L",
+    "marketingName": "Schwarz B/C Brilliant",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈86; verify chip alignment."
+  },
+  {
+    "oem": "Smart",
+    "modelYear": 2010,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2010-Smart-Car.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2010-smart-car/2010-Smart-pg01.jpg",
+    "bbox": {
+      "x": 799,
+      "y": 342,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#848188",
+    "code": "C49L",
+    "marketingName": "Silver Met B/C",
+    "finish": "metallic",
+    "notes": "Tesseract batch: code conf≈87; verify chip alignment."
+  },
+  {
+    "oem": "Smart",
+    "modelYear": 2010,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2010-Smart-Car.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2010-smart-car/2010-Smart-pg01.jpg",
+    "bbox": {
+      "x": 1110,
+      "y": 340,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#C9C8CE",
+    "code": "C50L",
+    "marketingName": "River Silver Met B/C",
+    "finish": "metallic",
+    "notes": "Tesseract batch: code conf≈74; verify chip alignment."
+  },
+  {
+    "oem": "Smart",
+    "modelYear": 2010,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2010-Smart-Car.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2010-smart-car/2010-Smart-pg01.jpg",
+    "bbox": {
+      "x": 1522,
+      "y": 338,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#6C6567",
+    "code": "C78L",
+    "marketingName": "Pyritgrau Pearl B/C",
+    "finish": "pearl",
+    "notes": "Tesseract batch: code conf≈90; verify chip alignment."
+  },
+  {
+    "oem": "Smart",
+    "modelYear": 2010,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2010-Smart-Car.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2010-smart-car/2010-Smart-pg01.jpg",
+    "bbox": {
+      "x": 1934,
+      "y": 336,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#C0B79E",
+    "code": "C92L",
+    "marketingName": "Melon Green Pearl B/C",
+    "finish": "pearl",
+    "notes": "Tesseract batch: code conf≈48; verify chip alignment."
+  },
+  {
+    "oem": "Smart",
+    "modelYear": 2011,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2011-Smart-Car.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2011-smart-car/2011-Smart-pg01.jpg",
+    "bbox": {
+      "x": 1111,
+      "y": 325,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#DDDCE1",
+    "code": "C50L",
+    "marketingName": "Schwarz B/C Brilliant Silver Met B/C River Silver Met B/C",
+    "finish": "metallic",
+    "notes": "Tesseract batch: code conf≈89; verify chip alignment."
+  },
+  {
+    "oem": "Smart",
+    "modelYear": 2011,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2011-Smart-Car.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2011-smart-car/2011-Smart-pg01.jpg",
+    "bbox": {
+      "x": 1523,
+      "y": 323,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#7C7577",
+    "code": "C78L",
+    "marketingName": "Pyritgrau Pearl B/C",
+    "finish": "pearl",
+    "notes": "Tesseract batch: code conf≈91; verify chip alignment."
+  },
+  {
+    "oem": "Smart",
+    "modelYear": 2011,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2011-Smart-Car.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2011-smart-car/2011-Smart-pg01.jpg",
+    "bbox": {
+      "x": 1935,
+      "y": 322,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#C1B9A3",
+    "code": "c92L",
+    "marketingName": "Melon Green Pearl B/C",
+    "finish": "pearl",
+    "notes": "Tesseract batch: code conf≈75; verify chip alignment."
+  },
+  {
+    "oem": "Smart",
+    "modelYear": 2012,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2012-Smart-Car.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2012-smart-car/2012-Smart-pg01.jpg",
+    "bbox": {
+      "x": 281,
+      "y": 336,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#5A595E",
+    "code": "C46L",
+    "marketingName": "Schwarz",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈91; verify chip alignment."
+  },
+  {
+    "oem": "Smart",
+    "modelYear": 2012,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2012-Smart-Car.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2012-smart-car/2012-Smart-pg01.jpg",
+    "bbox": {
+      "x": 382,
+      "y": 335,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#1B1A1F",
+    "code": "C47L",
+    "marketingName": "B/C",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈78; verify chip alignment."
+  },
+  {
+    "oem": "Smart",
+    "modelYear": 2012,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2012-Smart-Car.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2012-smart-car/2012-Smart-pg01.jpg",
+    "bbox": {
+      "x": 693,
+      "y": 334,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#B3B0B6",
+    "code": "C48L",
+    "marketingName": "Brilliant",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈79; verify chip alignment."
+  },
+  {
+    "oem": "Smart",
+    "modelYear": 2012,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2012-Smart-Car.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2012-smart-car/2012-Smart-pg01.jpg",
+    "bbox": {
+      "x": 795,
+      "y": 334,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#918D94",
+    "code": "C49L",
+    "marketingName": "Silver Met B/C",
+    "finish": "metallic",
+    "notes": "Tesseract batch: code conf≈88; verify chip alignment."
+  },
+  {
+    "oem": "Smart",
+    "modelYear": 2012,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2012-Smart-Car.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2012-smart-car/2012-Smart-pg01.jpg",
+    "bbox": {
+      "x": 1106,
+      "y": 332,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#D9D7DD",
+    "code": "C50L",
+    "marketingName": "River Silver Met B/C",
+    "finish": "metallic",
+    "notes": "Tesseract batch: code conf≈90; verify chip alignment."
+  },
+  {
+    "oem": "Smart",
+    "modelYear": 2012,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2012-Smart-Car.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2012-smart-car/2012-Smart-pg01.jpg",
+    "bbox": {
+      "x": 1518,
+      "y": 330,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#787174",
+    "code": "C78L",
+    "marketingName": "Pyritgrau Pearl B/C",
+    "finish": "pearl",
+    "notes": "Tesseract batch: code conf≈90; verify chip alignment."
+  },
+  {
+    "oem": "Smart",
+    "modelYear": 2012,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2012-Smart-Car.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2012-smart-car/2012-Smart-pg01.jpg",
+    "bbox": {
+      "x": 1930,
+      "y": 329,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#D0C9B5",
+    "code": "c92L",
+    "marketingName": "Melon Green Pear! B/C",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈78; verify chip alignment."
+  },
+  {
+    "oem": "Smart",
+    "modelYear": 2014,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2014-Smart-Car.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2014-smart-car/2014-Smart-pg01.jpg",
+    "bbox": {
+      "x": 35,
+      "y": 295,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#4C4D4E",
+    "code": "C46L",
+    "marketingName": "Schwarz",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈91; verify chip alignment."
+  },
+  {
+    "oem": "Smart",
+    "modelYear": 2014,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2014-Smart-Car.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2014-smart-car/2014-Smart-pg01.jpg",
+    "bbox": {
+      "x": 137,
+      "y": 295,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#0D0E0F",
+    "code": "C47L",
+    "marketingName": "B/C",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈85; verify chip alignment."
+  },
+  {
+    "oem": "Smart",
+    "modelYear": 2014,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2014-Smart-Car.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2014-smart-car/2014-Smart-pg01.jpg",
+    "bbox": {
+      "x": 448,
+      "y": 293,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#8D9598",
+    "code": "C48L",
+    "marketingName": "Brilliant",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈87; verify chip alignment."
+  },
+  {
+    "oem": "Smart",
+    "modelYear": 2014,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2014-Smart-Car.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2014-smart-car/2014-Smart-pg01.jpg",
+    "bbox": {
+      "x": 550,
+      "y": 293,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#6F7980",
+    "code": "C49L",
+    "marketingName": "Silver Met B/C River Silver Met B/C Jack Black B/C Liquid Paper B/C",
+    "finish": "metallic",
+    "notes": "Tesseract batch: code conf≈86; verify chip alignment."
+  },
+  {
+    "oem": "Smart",
+    "modelYear": 2015,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2015-Smart-Car.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2015-smart-car/2015-Smart-pg02.jpg",
+    "bbox": {
+      "x": 1115,
+      "y": 331,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#B0AEB3",
+    "code": "C50L",
+    "marketingName": "Schwarz B/C Brilliant Silver Met B/C River Silver Met B/C",
+    "finish": "metallic",
+    "notes": "Tesseract batch: code conf≈80; verify chip alignment."
+  },
+  {
+    "oem": "Smart",
+    "modelYear": 2015,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2015-Smart-Car.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2015-smart-car/2015-Smart-pg02.jpg",
+    "bbox": {
+      "x": 1528,
+      "y": 329,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#6E6868",
+    "code": "C78L",
+    "marketingName": "Pyritgrau Pri 3ct Melon Green Met B/C",
+    "finish": "pearl",
+    "notes": "Tesseract batch: code conf≈89; verify chip alignment."
+  }
+]

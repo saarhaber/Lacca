@@ -1,0 +1,70 @@
+[
+  {
+    "oem": "Riley",
+    "modelYear": 1968,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1968-Riley.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1968-riley/1968-riley-pg01.jpg",
+    "bbox": {
+      "x": 400,
+      "y": 318,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#929087",
+    "code": "G30",
+    "marketingName": "Factory color G30",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈0; verify chip alignment."
+  },
+  {
+    "oem": "Riley",
+    "modelYear": 1968,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1968-Riley.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1968-riley/1968-riley-pg01.jpg",
+    "bbox": {
+      "x": 257,
+      "y": 318,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#8C8F85",
+    "code": "GN29",
+    "marketingName": "Factory color GN29",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈51; verify chip alignment."
+  },
+  {
+    "oem": "Riley",
+    "modelYear": 1969,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1969-Riley.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1969-riley/1969-riley-pg01.jpg",
+    "bbox": {
+      "x": 400,
+      "y": 318,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#929087",
+    "code": "G30",
+    "marketingName": "Factory color G30",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈0; verify chip alignment."
+  },
+  {
+    "oem": "Riley",
+    "modelYear": 1969,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1969-Riley.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1969-riley/1969-riley-pg01.jpg",
+    "bbox": {
+      "x": 257,
+      "y": 318,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#8C8F85",
+    "code": "GN29",
+    "marketingName": "Factory color GN29",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈51; verify chip alignment."
+  }
+]

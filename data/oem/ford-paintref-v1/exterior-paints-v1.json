@@ -172,6 +172,23 @@
         "notes": "LAB from sRGB #F3F3F3 — scripts/fetch-nhtsa-colors.ts \"Oxford White\". Replaces a navy chip average from the pilot.",
         "provenanceId": "lacca:nhtsa-hex-map:ford:Oxford-White"
       }
+    },
+    {
+      "code": "CI",
+      "marketingName": "Grabber Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 48.77,
+        "a": 5.87,
+        "b": -53.03,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "hex_derived",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Derived from #0076CE (alternate codes: J7, M5014G). Highly saturated medium-light blue, no metallic or pearl additives. Replace with spectro LAB before production claims.",
+        "provenanceId": "lacca:user-curated:ford:Grabber-Blue"
+      }
     }
   ]
 }

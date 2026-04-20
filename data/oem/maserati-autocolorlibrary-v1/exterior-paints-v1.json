@@ -16,7 +16,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/1986-Maserati.html). Image data/sources/autocolorlibrary/pages/1986-maserati/1986-Maserati-pg03.jpg; bbox 146,209 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈51; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/1986-Maserati.html). Image data/sources/autocolorlibrary/pages/1986-maserati/1986-Maserati-pg03.jpg; bbox 146,209 150\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224851; verify chip alignment.",
         "provenanceId": "acl:maserati:1986:9000:146,209,150x210"
       }
     },
@@ -33,8 +33,25 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/1988-Maserati.html). Image data/sources/autocolorlibrary/pages/1988-maserati/1988-Maserati-pg08.jpg; bbox 316,0 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈50; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/1988-Maserati.html). Image data/sources/autocolorlibrary/pages/1988-maserati/1988-Maserati-pg08.jpg; bbox 316,0 150\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224850; verify chip alignment.",
         "provenanceId": "acl:maserati:1988:903:316,0,150x210"
+      }
+    },
+    {
+      "code": "212",
+      "marketingName": "Blu Sofisticato",
+      "finish": "metallic",
+      "lab": {
+        "L": 22.65,
+        "a": 7.68,
+        "b": -30.71,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "hex_derived",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Derived from #1B3564. Alternate code 266890. Royal blue metallic with medium-grain silver flake.",
+        "provenanceId": "lacca:user-curated:maserati:Blu-Sofisticato-212"
       }
     }
   ]

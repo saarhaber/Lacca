@@ -1,0 +1,87 @@
+[
+  {
+    "oem": "BMW",
+    "modelYear": 2019,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2019-Bmw.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2019-bmw/2019_BMW_01.jpg",
+    "bbox": {
+      "x": 532,
+      "y": 1612,
+      "w": 100,
+      "h": 100
+    },
+    "hex": "#DBDCD4",
+    "code": "300",
+    "marketingName": "Alpine White",
+    "finish": "solid",
+    "notes": "Pilot: window chosen to minimize RGB distance to PaintRef hex #D9DED3 (automated placement)."
+  },
+  {
+    "oem": "BMW",
+    "modelYear": 2019,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2019-Bmw.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2019-bmw/2019_BMW_01.jpg",
+    "bbox": {
+      "x": 1386,
+      "y": 2116,
+      "w": 100,
+      "h": 100
+    },
+    "hex": "#1A1513",
+    "code": "416",
+    "marketingName": "Carbon Black",
+    "finish": "pearl",
+    "notes": "Pilot: window chosen to minimize RGB distance to PaintRef hex #1A1412 (automated placement)."
+  },
+  {
+    "oem": "BMW",
+    "modelYear": 2019,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2019-Bmw.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2019-bmw/2019_BMW_01.jpg",
+    "bbox": {
+      "x": 1386,
+      "y": 1108,
+      "w": 100,
+      "h": 100
+    },
+    "hex": "#1E1F25",
+    "code": "475",
+    "marketingName": "Black Sapphire",
+    "finish": "pearl",
+    "notes": "Pilot: window chosen to minimize RGB distance to PaintRef hex #1D2125 (automated placement)."
+  },
+  {
+    "oem": "BMW",
+    "modelYear": 2019,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2019-Bmw.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2019-bmw/2019_BMW_01.jpg",
+    "bbox": {
+      "x": 56,
+      "y": 1612,
+      "w": 100,
+      "h": 100
+    },
+    "hex": "#0D0C0A",
+    "code": "668",
+    "marketingName": "Jet Black",
+    "finish": "solid",
+    "notes": "Pilot: window chosen to minimize RGB distance to PaintRef hex #000000 (automated placement)."
+  },
+  {
+    "oem": "BMW",
+    "modelYear": 2019,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2019-Bmw.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2019-bmw/2019_BMW_01.jpg",
+    "bbox": {
+      "x": 462,
+      "y": 630,
+      "w": 100,
+      "h": 100
+    },
+    "hex": "#B8121E",
+    "code": "A75",
+    "marketingName": "Melbourne Red",
+    "finish": "solid",
+    "notes": "Pilot: window chosen to minimize RGB distance to PaintRef hex #CC2504 (automated placement)."
+  }
+]

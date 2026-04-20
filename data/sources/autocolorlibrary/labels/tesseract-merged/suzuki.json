@@ -1,0 +1,240 @@
+[
+  {
+    "oem": "Suzuki",
+    "modelYear": 2009,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2009-Suzuki.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2009-suzuki/2009-Suzuki-pg01.jpg",
+    "bbox": {
+      "x": 279,
+      "y": 912,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#C8525D",
+    "code": "A20",
+    "marketingName": "Red EQ River Met B/C Swi",
+    "finish": "metallic",
+    "notes": "Tesseract batch: code conf≈93; verify chip alignment."
+  },
+  {
+    "oem": "Suzuki",
+    "modelYear": 2009,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2009-Suzuki.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2009-suzuki/2009-Suzuki-pg01.jpg",
+    "bbox": {
+      "x": 1104,
+      "y": 908,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#CFCFD4",
+    "code": "K12",
+    "marketingName": "Carbon Black Met B/C Liquid EQ Metal Met B/C",
+    "finish": "metallic",
+    "notes": "Tesseract batch: code conf≈89; verify chip alignment."
+  },
+  {
+    "oem": "Suzuki",
+    "modelYear": 2009,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2009-Suzuki.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2009-suzuki/2009-Suzuki-pg01.jpg",
+    "bbox": {
+      "x": 1516,
+      "y": 907,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#77767A",
+    "code": "K27",
+    "marketingName": "Granite EQ Grey Met B/C Gunpowder EQ Black B/C",
+    "finish": "metallic",
+    "notes": "Tesseract batch: code conf≈92; verify chip alignment."
+  },
+  {
+    "oem": "Suzuki",
+    "modelYear": 2010,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2010-Suzuki.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2010-suzuki/2010-Suzuki-pg01.jpg",
+    "bbox": {
+      "x": 275,
+      "y": 341,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#C65A64",
+    "code": "A20",
+    "marketingName": "Red EQ River Met B/C",
+    "finish": "metallic",
+    "notes": "Tesseract batch: code conf≈89; verify chip alignment."
+  },
+  {
+    "oem": "Suzuki",
+    "modelYear": 2010,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2010-Suzuki.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2010-suzuki/2010-Suzuki-pg01.jpg",
+    "bbox": {
+      "x": 688,
+      "y": 340,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#C5C4CB",
+    "code": "K12",
+    "marketingName": "Liquid EQ Metal Met B/C",
+    "finish": "metallic",
+    "notes": "Tesseract batch: code conf≈92; verify chip alignment."
+  },
+  {
+    "oem": "Suzuki",
+    "modelYear": 2010,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2010-Suzuki.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2010-suzuki/2010-Suzuki-pg01.jpg",
+    "bbox": {
+      "x": 1100,
+      "y": 339,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#646367",
+    "code": "K27",
+    "marketingName": "Granite EQ Grey Met B/C Gunpowder EQ Black B/C Glacier EQ White B/C",
+    "finish": "metallic",
+    "notes": "Tesseract batch: code conf≈92; verify chip alignment."
+  },
+  {
+    "oem": "Suzuki",
+    "modelYear": 2011,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2011-Suzuki.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2011-suzuki/2011-Suzuki-pg01.jpg",
+    "bbox": {
+      "x": 272,
+      "y": 895,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#CBCAD0",
+    "code": "K12",
+    "marketingName": "as Liquid EQ Metal Met B/C",
+    "finish": "metallic",
+    "notes": "Tesseract batch: code conf≈92; verify chip alignment."
+  },
+  {
+    "oem": "Suzuki",
+    "modelYear": 2011,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2011-Suzuki.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2011-suzuki/2011-Suzuki-pg01.jpg",
+    "bbox": {
+      "x": 685,
+      "y": 894,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#6C6B6F",
+    "code": "K26",
+    "marketingName": "Night EQ Armor Pearl B/C Gunpowder EQ Black B/C EQ Red Brick Pearl B/C Glacier EQ White B/C",
+    "finish": "pearl",
+    "notes": "Tesseract batch: code conf≈92; verify chip alignment."
+  },
+  {
+    "oem": "Suzuki",
+    "modelYear": 2012,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2012-Suzuki.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2012-suzuki/2012-Suzuki-pg01.jpg",
+    "bbox": {
+      "x": 281,
+      "y": 352,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#7D7FA2",
+    "code": "B17",
+    "marketingName": "Bay EQ Blue Pearl B/C",
+    "finish": "pearl",
+    "notes": "Tesseract batch: code conf≈96; verify chip alignment."
+  },
+  {
+    "oem": "Suzuki",
+    "modelYear": 2012,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2012-Suzuki.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2012-suzuki/2012-Suzuki-pg01.jpg",
+    "bbox": {
+      "x": 693,
+      "y": 350,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#D5D4DA",
+    "code": "K23",
+    "marketingName": "Silver EQ Alloy Met B/C",
+    "finish": "metallic",
+    "notes": "Tesseract batch: code conf≈93; verify chip alignment."
+  },
+  {
+    "oem": "Suzuki",
+    "modelYear": 2012,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2012-Suzuki.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2012-suzuki/2012-Suzuki-pg01.jpg",
+    "bbox": {
+      "x": 1106,
+      "y": 348,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#79777C",
+    "code": "K26",
+    "marketingName": "Night EQ Armor Pearl B/C Gunpowder EQ Black B/C Adobe EQ Red Pearl B/C",
+    "finish": "pearl",
+    "notes": "Tesseract batch: code conf≈92; verify chip alignment."
+  },
+  {
+    "oem": "Suzuki",
+    "modelYear": 2013,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2013-Suzuki.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2013-suzuki/2013-Suzuki-pg02.jpg",
+    "bbox": {
+      "x": 284,
+      "y": 340,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#59587E",
+    "code": "B17",
+    "marketingName": "Bay EQ Blue Pearl B/C",
+    "finish": "pearl",
+    "notes": "Tesseract batch: code conf≈97; verify chip alignment."
+  },
+  {
+    "oem": "Suzuki",
+    "modelYear": 2013,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2013-Suzuki.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2013-suzuki/2013-Suzuki-pg02.jpg",
+    "bbox": {
+      "x": 696,
+      "y": 339,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#AEACB1",
+    "code": "K23",
+    "marketingName": "Silver EQ Alloy Met B/C",
+    "finish": "metallic",
+    "notes": "Tesseract batch: code conf≈93; verify chip alignment."
+  },
+  {
+    "oem": "Suzuki",
+    "modelYear": 2013,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/2013-Suzuki.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/2013-suzuki/2013-Suzuki-pg02.jpg",
+    "bbox": {
+      "x": 1109,
+      "y": 339,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#686669",
+    "code": "K26",
+    "marketingName": "Night EQ Armor Pearl B/C Gunpowder EQ Black B/C Adobe EQ Red Pearl B/C",
+    "finish": "pearl",
+    "notes": "Tesseract batch: code conf≈92; verify chip alignment."
+  }
+]

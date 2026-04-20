@@ -1,0 +1,24 @@
+{
+  "$schema": "../../../schemas/exterior-paints-v1.schema.json",
+  "scopeId": "datsun-autocolorlibrary-v1",
+  "version": "1.0.0",
+  "paints": [
+    {
+      "code": "030",
+      "marketingName": "Factory color 030",
+      "finish": "solid",
+      "lab": {
+        "L": 93.63,
+        "a": 1.73,
+        "b": 8.24,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "autocolorlibrary_swatch",
+        "confidence": "derived",
+        "recordedAt": "2026-04-20",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/1976-Datsun.html). Image data/sources/autocolorlibrary/pages/1976-datsun/1976-datsun-pg07.jpg; bbox 74,0 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈47; verify chip alignment.",
+        "provenanceId": "acl:datsun:1976:030:74,0,150x210"
+      }
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+[
+  {
+    "oem": "Nash",
+    "modelYear": 1957,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1957-Nash.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1957-nash/1957-nash-pg05.jpg",
+    "bbox": {
+      "x": 30,
+      "y": 350,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#EFE6D9",
+    "code": "P913",
+    "marketingName": "Factory color P913",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈83; verify chip alignment."
+  },
+  {
+    "oem": "Nash",
+    "modelYear": 1957,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1957-Nash.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1957-nash/1957-nash-pg05.jpg",
+    "bbox": {
+      "x": 314,
+      "y": 355,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#EBE3DB",
+    "code": "T0712",
+    "marketingName": "Factory color T0712",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈57; verify chip alignment."
+  }
+]

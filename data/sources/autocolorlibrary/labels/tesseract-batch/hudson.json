@@ -1,0 +1,70 @@
+[
+  {
+    "oem": "Hudson",
+    "modelYear": 1938,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1938-Hudson.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1938-hudson/1938-hudson-pg03.jpg",
+    "bbox": {
+      "x": 326,
+      "y": 71,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#B9A483",
+    "code": "M903",
+    "marketingName": "Factory color M903",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈0; verify chip alignment."
+  },
+  {
+    "oem": "Hudson",
+    "modelYear": 1938,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1938-Hudson.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1938-hudson/1938-hudson-pg03.jpg",
+    "bbox": {
+      "x": 84,
+      "y": 71,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#918C7D",
+    "code": "TM3021",
+    "marketingName": "Factory color TM3021",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈0; verify chip alignment."
+  },
+  {
+    "oem": "Hudson",
+    "modelYear": 1957,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1957-Hudson.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1957-hudson/1957-hudson-pg05.jpg",
+    "bbox": {
+      "x": 30,
+      "y": 350,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#EFE6D9",
+    "code": "P913",
+    "marketingName": "Factory color P913",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈83; verify chip alignment."
+  },
+  {
+    "oem": "Hudson",
+    "modelYear": 1957,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1957-Hudson.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1957-hudson/1957-hudson-pg05.jpg",
+    "bbox": {
+      "x": 314,
+      "y": 355,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#EBE3DB",
+    "code": "T0712",
+    "marketingName": "Factory color T0712",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈57; verify chip alignment."
+  }
+]

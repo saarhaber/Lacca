@@ -1,0 +1,24 @@
+{
+  "$schema": "../../../schemas/exterior-paints-v1.schema.json",
+  "scopeId": "peugeot-curated-v1",
+  "version": "1.0.0",
+  "paints": [
+    {
+      "code": "M6S",
+      "marketingName": "Vertigo Blue",
+      "finish": "pearl",
+      "lab": {
+        "L": 49.92,
+        "a": -2.13,
+        "b": -44.91,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "hex_derived",
+        "confidence": "derived",
+        "recordedAt": "2026-04-19",
+        "notes": "Derived from #007CC3. Alternate code ESM. Tri-coat vibrant cyan with liquid appearance.",
+        "provenanceId": "lacca:user-curated:peugeot:Vertigo-Blue-M6S"
+      }
+    }
+  ]
+}

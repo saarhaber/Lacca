@@ -1,0 +1,19 @@
+[
+  {
+    "oem": "Saturn",
+    "modelYear": 1995,
+    "sourcePageUrl": "https://www.autocolorlibrary.com/pages/1995-Saturn.html",
+    "imageFile": "data/sources/autocolorlibrary/pages/1995-saturn/1995-Saturn-pg01.jpg",
+    "bbox": {
+      "x": 60,
+      "y": 0,
+      "w": 150,
+      "h": 210
+    },
+    "hex": "#BBC3C5",
+    "code": "5020/5029",
+    "marketingName": "i cal",
+    "finish": "solid",
+    "notes": "Tesseract batch: code conf≈69; verify chip alignment."
+  }
+]

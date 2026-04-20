@@ -1,0 +1,19 @@
+{
+  "$schema": "../../../schemas/oem-scope-v1.schema.json",
+  "scopeId": "seat-curated-v1",
+  "oem": "Seat",
+  "region": "Global",
+  "modelYears": {
+    "from": 1950,
+    "to": 2026
+  },
+  "models": [
+    "Ibiza",
+    "Leon",
+    "Arona",
+    "Ateca",
+    "Tarraco"
+  ],
+  "notes": "Seat exterior colors, curated from industry touch-up references. LAB values are HEX-derived approximations; replace with spectro data before production claims.",
+  "exteriorPaintFile": "./exterior-paints-v1.json"
+}
