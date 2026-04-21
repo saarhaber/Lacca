@@ -59,25 +59,118 @@ if (!opiCatalog) {
   );
 }
 
+function normalizeModelKey(name: string): string {
+  return name.trim().toLowerCase().replace(/[\s\-_]+/g, "");
+}
+
+/**
+ * Reject garbage model names that leak in from bulk sources (vPIC custom-shop
+ * rows, OCR noise). Keeps legitimate short/punctuated names like "A3", "ID.4",
+ * "650i, B6", "Huracán" — only flags entries that are clearly not a vehicle.
+ */
+function isValidModelName(name: string): boolean {
+  const s = (name ?? "").trim();
+  if (!s) return false;
+  if (s.length > 60) return false;
+  if (!/^[A-Za-z0-9]/.test(s)) return false;
+  if (/[#]/.test(s)) return false;
+  if (/\bL\.?L\.?C\b/i.test(s)) return false;
+  if (/\bAutorama\b/i.test(s)) return false;
+  if (/\bRestorations?\b/i.test(s)) return false;
+  if (/\bCustoms?\b/i.test(s) && /[#&]/.test(s)) return false;
+  // Single-letter + optional punctuation ("a", "a.", "X-") — never a real model.
+  if (/^[A-Za-z][.\-_]?$/.test(s)) return false;
+  return true;
+}
+
+/**
+ * Extract the per-model list embedded in PaintRef-seeded paint notes, e.g.
+ *   "… code=QM1 (models=Altima, Rogue, Sentra; years=2010-2020) …"
+ * Returns a Set of normalized model keys. Empty set means "no per-model
+ * metadata in notes" — callers treat that as 'applies to all models in scope'.
+ */
+function extractNoteModels(notes: string | undefined): Set<string> {
+  const out = new Set<string>();
+  if (!notes) return out;
+  const m = /models=([^;)\]]+)/i.exec(notes);
+  if (!m) return out;
+  for (const raw of m[1].split(",")) {
+    const k = normalizeModelKey(raw);
+    if (k) out.add(k);
+  }
+  return out;
+}
+
+function paintAppliesToModel(
+  paint: ExteriorPaint,
+  modelKey: string,
+  scopeModelKeys: Set<string>
+): boolean {
+  const noted = extractNoteModels(paint.lab.notes);
+  if (noted.size === 0) return true; // no per-model tag → show for every model in the scope
+  if (noted.has(modelKey)) return true;
+  // Some paintref rows list models from a sibling scope (different spelling);
+  // if none of the noted models are even in this scope, treat as scope-wide
+  // rather than hiding the paint entirely.
+  for (const k of noted) if (scopeModelKeys.has(k)) return false;
+  return true;
+}
+
 function scopeToVehicles(scope: OemScope, exterior: OemExterior): SupportedVehicle[] {
-  const paints = exterior.paints.filter(
+  const usablePaints = exterior.paints.filter(
     (p) => !p.code.startsWith("TBD_") && !p.marketingName.includes("Reserved slot")
   );
-  return scope.models.map((model) => ({ make: scope.oem, model, paints }));
+  const scopeModelKeys = new Set(scope.models.map(normalizeModelKey));
+  return scope.models
+    .filter(isValidModelName)
+    .map((model) => {
+      const modelKey = normalizeModelKey(model);
+      const paints = usablePaints.filter((p) =>
+        paintAppliesToModel(p, modelKey, scopeModelKeys)
+      );
+      return { make: scope.oem, model, paints };
+    });
 }
 
 function normalizePaintCodeKey(code: string): string {
   return code.replace(/\s+/g, "").toUpperCase();
 }
 
-/** Merge paint rows; first occurrence wins per normalized code (stable scope order). */
+function normalizePaintNameKey(name: string): string {
+  return name.trim().toLowerCase().replace(/\s+/g, " ");
+}
+
+/**
+ * Merge paint rows. First occurrence wins per normalized code, then a second
+ * pass collapses rows that share the same (marketingName, finish) — two
+ * generations of "White · solid" on the same model read as duplicates to
+ * users even when the OEM code is different. Sorted alphabetically for
+ * stable UI order.
+ */
 function dedupePaints(paints: ExteriorPaint[]): ExteriorPaint[] {
   const byCode = new Map<string, ExteriorPaint>();
   for (const p of paints) {
     const k = normalizePaintCodeKey(p.code);
     if (!byCode.has(k)) byCode.set(k, p);
   }
-  return [...byCode.values()].sort((a, b) => a.marketingName.localeCompare(b.marketingName));
+  const byNameFinish = new Map<string, ExteriorPaint>();
+  for (const p of byCode.values()) {
+    const k = `${normalizePaintNameKey(p.marketingName)}::${p.finish}`;
+    const prev = byNameFinish.get(k);
+    if (!prev) {
+      byNameFinish.set(k, p);
+      continue;
+    }
+    // Keep the higher-confidence entry when names collide.
+    const rank = (c: string) =>
+      c === "measured" ? 3 : c === "spec" ? 2 : c === "derived" ? 1 : 0;
+    if (rank(p.lab.confidence) > rank(prev.lab.confidence)) {
+      byNameFinish.set(k, p);
+    }
+  }
+  return [...byNameFinish.values()].sort((a, b) =>
+    a.marketingName.localeCompare(b.marketingName)
+  );
 }
 
 /**
@@ -158,15 +251,17 @@ function findSupported(make: string, model: string): SupportedVehicle | undefine
   const a = make.toLowerCase();
   const b = model.toLowerCase();
   // A make/model can appear in multiple scopes (e.g. a curated scope with
-  // real paints + a vPIC-seeded scope with an empty paint catalog). Pick
-  // whichever entry has the richer paint list so the UI surfaces the
-  // best-available colors.
-  let best: SupportedVehicle | undefined;
+  // real paints + a vPIC-seeded scope with an empty paint catalog, plus a
+  // PaintRef bulk import). Union paints across all matching scopes and
+  // dedupe so the user sees one clean list per model.
+  const hits: SupportedVehicle[] = [];
   for (const v of supportedVehicles) {
     if (v.make.toLowerCase() !== a || v.model.toLowerCase() !== b) continue;
-    if (!best || v.paints.length > best.paints.length) best = v;
+    hits.push(v);
   }
-  return best;
+  if (hits.length === 0) return undefined;
+  const union = hits.flatMap((v) => v.paints);
+  return { make: hits[0].make, model: hits[0].model, paints: dedupePaints(union) };
 }
 
 function makeLevelPaints(make: string): ExteriorPaint[] {
@@ -226,7 +321,8 @@ async function fetchMakes(): Promise<string[]> {
     const json = (await res.json()) as { Results?: VpicMakeRow[] };
     const names = (json.Results ?? [])
       .map((r) => r.MakeName ?? r.Make_Name ?? "")
-      .filter((n): n is string => n.length > 0);
+      .filter((n): n is string => n.length > 0)
+      .filter(isValidModelName);
     return [...new Set(names)].sort((x, y) => x.localeCompare(y));
   } catch {
     return [];
@@ -240,7 +336,8 @@ async function fetchModels(make: string): Promise<string[]> {
     const json = (await res.json()) as { Results?: VpicModelRow[] };
     const names = (json.Results ?? [])
       .map((r) => r.Model_Name ?? r.ModelName ?? "")
-      .filter((n): n is string => n.length > 0);
+      .filter((n): n is string => n.length > 0)
+      .filter(isValidModelName);
     return [...new Set(names)].sort((x, y) => x.localeCompare(y));
   } catch {
     return [];
