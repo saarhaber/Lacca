@@ -16,7 +16,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2003-Honda.html). Image data/sources/autocolorlibrary/pages/2003-honda/2003-Honda-pg01.jpg; bbox 637,312 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈76; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2003-Honda.html). Image data/sources/autocolorlibrary/pages/2003-honda/2003-Honda-pg01.jpg; bbox 637,312 150\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224876; verify chip alignment.",
         "provenanceId": "acl:honda:2003:5428:637,312,150x210"
       }
     },
@@ -33,7 +33,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2003-Honda.html). Image data/sources/autocolorlibrary/pages/2003-honda/2003-Honda-pg01.jpg; bbox 638,568 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈55; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2003-Honda.html). Image data/sources/autocolorlibrary/pages/2003-honda/2003-Honda-pg01.jpg; bbox 638,568 150\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224855; verify chip alignment.",
         "provenanceId": "acl:honda:2003:5574:638,568,150x210"
       }
     },
@@ -50,7 +50,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2003-Honda.html). Image data/sources/autocolorlibrary/pages/2003-honda/2003-Honda-pg01.jpg; bbox 114,313 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈84; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2003-Honda.html). Image data/sources/autocolorlibrary/pages/2003-honda/2003-Honda-pg01.jpg; bbox 114,313 150\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224884; verify chip alignment.",
         "provenanceId": "acl:honda:2003:5925:114,313,150x210"
       }
     },
@@ -67,7 +67,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2002-Honda.html). Image data/sources/autocolorlibrary/pages/2002-honda/2002-Honda-pg03.jpg; bbox 440,335 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈59; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2002-Honda.html). Image data/sources/autocolorlibrary/pages/2002-honda/2002-Honda-pg03.jpg; bbox 440,335 150\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224859; verify chip alignment.",
         "provenanceId": "acl:honda:2002:5927:440,335,150x210"
       }
     },
@@ -84,7 +84,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2008-Honda.html). Image data/sources/autocolorlibrary/pages/2008-honda/2008-Honda-pg01.jpg; bbox 294,308 151×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈92; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2008-Honda.html). Image data/sources/autocolorlibrary/pages/2008-honda/2008-Honda-pg01.jpg; bbox 294,308 151\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224892; verify chip alignment.",
         "provenanceId": "acl:honda:2008:B507P:294,308,151x210"
       }
     },
@@ -101,7 +101,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2008-Honda.html). Image data/sources/autocolorlibrary/pages/2008-honda/2008-Honda-pg01.jpg; bbox 706,307 151×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈92; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2008-Honda.html). Image data/sources/autocolorlibrary/pages/2008-honda/2008-Honda-pg01.jpg; bbox 706,307 151\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224892; verify chip alignment.",
         "provenanceId": "acl:honda:2008:B520P:706,307,151x210"
       }
     },
@@ -118,7 +118,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2008-Honda.html). Image data/sources/autocolorlibrary/pages/2008-honda/2008-Honda-pg01.jpg; bbox 1118,305 152×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈82; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2008-Honda.html). Image data/sources/autocolorlibrary/pages/2008-honda/2008-Honda-pg01.jpg; bbox 1118,305 152\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224882; verify chip alignment.",
         "provenanceId": "acl:honda:2008:B529P:1118,305,152x210"
       }
     },
@@ -135,7 +135,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2010-Honda.html). Image data/sources/autocolorlibrary/pages/2010-honda/2010-Honda-pg01.jpg; bbox 297,346 157×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈91; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2010-Honda.html). Image data/sources/autocolorlibrary/pages/2010-honda/2010-Honda-pg01.jpg; bbox 297,346 157\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224891; verify chip alignment.",
         "provenanceId": "acl:honda:2010:B530M:297,346,157x210"
       }
     },
@@ -152,7 +152,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2010-Honda.html). Image data/sources/autocolorlibrary/pages/2010-honda/2010-Honda-pg01.jpg; bbox 709,345 151×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈91; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2010-Honda.html). Image data/sources/autocolorlibrary/pages/2010-honda/2010-Honda-pg01.jpg; bbox 709,345 151\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224891; verify chip alignment.",
         "provenanceId": "acl:honda:2010:B532P:709,345,151x210"
       }
     },
@@ -169,7 +169,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2008-Honda.html). Image data/sources/autocolorlibrary/pages/2008-honda/2008-Honda-pg01.jpg; bbox 294,873 158×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈92; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2008-Honda.html). Image data/sources/autocolorlibrary/pages/2008-honda/2008-Honda-pg01.jpg; bbox 294,873 158\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224892; verify chip alignment.",
         "provenanceId": "acl:honda:2008:B533M:294,873,158x210"
       }
     },
@@ -186,7 +186,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2012-Honda.html). Image data/sources/autocolorlibrary/pages/2012-honda/2012-Honda-pg01.jpg; bbox 301,342 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈92; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2012-Honda.html). Image data/sources/autocolorlibrary/pages/2012-honda/2012-Honda-pg01.jpg; bbox 301,342 150\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224892; verify chip alignment.",
         "provenanceId": "acl:honda:2012:B536P:301,342,150x210"
       }
     },
@@ -203,7 +203,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2011-Honda.html). Image data/sources/autocolorlibrary/pages/2011-honda/2011-Honda-pg01.jpg; bbox 703,331 158×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈90; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2011-Honda.html). Image data/sources/autocolorlibrary/pages/2011-honda/2011-Honda-pg01.jpg; bbox 703,331 158\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224890; verify chip alignment.",
         "provenanceId": "acl:honda:2011:B537M:703,331,158x210"
       }
     },
@@ -220,7 +220,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2011-Honda.html). Image data/sources/autocolorlibrary/pages/2011-honda/2011-Honda-pg01.jpg; bbox 1116,330 158×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈89; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2011-Honda.html). Image data/sources/autocolorlibrary/pages/2011-honda/2011-Honda-pg01.jpg; bbox 1116,330 158\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224889; verify chip alignment.",
         "provenanceId": "acl:honda:2011:B538M:1116,330,158x210"
       }
     },
@@ -237,7 +237,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2009-Honda.html). Image data/sources/autocolorlibrary/pages/2009-honda/2009-Honda-pg01.jpg; bbox 297,917 151×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈91; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2009-Honda.html). Image data/sources/autocolorlibrary/pages/2009-honda/2009-Honda-pg01.jpg; bbox 297,917 151\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224891; verify chip alignment.",
         "provenanceId": "acl:honda:2009:B545P:297,917,151x210"
       }
     },
@@ -254,7 +254,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2008-Honda.html). Image data/sources/autocolorlibrary/pages/2008-honda/2008-Honda-pg01.jpg; bbox 295,1437 151×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈91; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2008-Honda.html). Image data/sources/autocolorlibrary/pages/2008-honda/2008-Honda-pg01.jpg; bbox 295,1437 151\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224891; verify chip alignment.",
         "provenanceId": "acl:honda:2008:B546P:295,1437,151x210"
       }
     },
@@ -271,7 +271,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2008-Honda.html). Image data/sources/autocolorlibrary/pages/2008-honda/2008-Honda-pg01.jpg; bbox 707,1436 151×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈60; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2008-Honda.html). Image data/sources/autocolorlibrary/pages/2008-honda/2008-Honda-pg01.jpg; bbox 707,1436 151\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224860; verify chip alignment.",
         "provenanceId": "acl:honda:2008:B547P:707,1436,151x210"
       }
     },
@@ -288,7 +288,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2010-Honda.html). Image data/sources/autocolorlibrary/pages/2010-honda/2010-Honda-pg01.jpg; bbox 297,910 151×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈92; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2010-Honda.html). Image data/sources/autocolorlibrary/pages/2010-honda/2010-Honda-pg01.jpg; bbox 297,910 151\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224892; verify chip alignment.",
         "provenanceId": "acl:honda:2010:B548P:297,910,151x210"
       }
     },
@@ -305,7 +305,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2010-Honda.html). Image data/sources/autocolorlibrary/pages/2010-honda/2010-Honda-pg01.jpg; bbox 709,909 158×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈91; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2010-Honda.html). Image data/sources/autocolorlibrary/pages/2010-honda/2010-Honda-pg01.jpg; bbox 709,909 158\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224891; verify chip alignment.",
         "provenanceId": "acl:honda:2010:B549M:709,909,158x210"
       }
     },
@@ -322,7 +322,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2011-Honda.html). Image data/sources/autocolorlibrary/pages/2011-honda/2011-Honda-pg01.jpg; bbox 1528,329 151×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈91; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2011-Honda.html). Image data/sources/autocolorlibrary/pages/2011-honda/2011-Honda-pg01.jpg; bbox 1528,329 151\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224891; verify chip alignment.",
         "provenanceId": "acl:honda:2011:B551P:1528,329,151x210"
       }
     },
@@ -339,7 +339,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2013-Honda.html). Image data/sources/autocolorlibrary/pages/2013-honda/2013-Honda-pg02.jpg; bbox 298,346 151×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈87; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2013-Honda.html). Image data/sources/autocolorlibrary/pages/2013-honda/2013-Honda-pg02.jpg; bbox 298,346 151\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224887; verify chip alignment.",
         "provenanceId": "acl:honda:2013:B552P:298,346,151x210"
       }
     },
@@ -356,7 +356,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Honda.html). Image data/sources/autocolorlibrary/pages/2019-honda/2019_HondaAcura_01.jpg; bbox 2,174 151×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈91; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Honda.html). Image data/sources/autocolorlibrary/pages/2019-honda/2019_HondaAcura_01.jpg; bbox 2,174 151\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224891; verify chip alignment.",
         "provenanceId": "acl:honda:2019:B553P:2,174,151x210"
       }
     },
@@ -373,7 +373,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2009-Honda.html). Image data/sources/autocolorlibrary/pages/2009-honda/2009-Honda-pg01.jpg; bbox 709,1481 151×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈89; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2009-Honda.html). Image data/sources/autocolorlibrary/pages/2009-honda/2009-Honda-pg01.jpg; bbox 709,1481 151\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224889; verify chip alignment.",
         "provenanceId": "acl:honda:2009:B554P:709,1481,151x210"
       }
     },
@@ -390,7 +390,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2011-Honda.html). Image data/sources/autocolorlibrary/pages/2011-honda/2011-Honda-pg01.jpg; bbox 703,895 151×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈91; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2011-Honda.html). Image data/sources/autocolorlibrary/pages/2011-honda/2011-Honda-pg01.jpg; bbox 703,895 151\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224891; verify chip alignment.",
         "provenanceId": "acl:honda:2011:B559P:703,895,151x210"
       }
     },
@@ -407,7 +407,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2016-Honda.html). Image data/sources/autocolorlibrary/pages/2016-honda/2016-Honda-pg02.jpg; bbox 293,335 151×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈92; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2016-Honda.html). Image data/sources/autocolorlibrary/pages/2016-honda/2016-Honda-pg02.jpg; bbox 293,335 151\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224892; verify chip alignment.",
         "provenanceId": "acl:honda:2016:B561P:293,335,151x210"
       }
     },
@@ -424,7 +424,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2010-Honda.html). Image data/sources/autocolorlibrary/pages/2010-honda/2010-Honda-pg01.jpg; bbox 1122,1473 151×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈91; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2010-Honda.html). Image data/sources/autocolorlibrary/pages/2010-honda/2010-Honda-pg01.jpg; bbox 1122,1473 151\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224891; verify chip alignment.",
         "provenanceId": "acl:honda:2010:B562P:1122,1473,151x210"
       }
     },
@@ -441,7 +441,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2014-Honda.html). Image data/sources/autocolorlibrary/pages/2014-honda/2014-Honda-pg01.jpg; bbox 891,286 158×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈92; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2014-Honda.html). Image data/sources/autocolorlibrary/pages/2014-honda/2014-Honda-pg01.jpg; bbox 891,286 158\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224892; verify chip alignment.",
         "provenanceId": "acl:honda:2014:B564M:891,286,158x210"
       }
     },
@@ -458,7 +458,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2014-Honda.html). Image data/sources/autocolorlibrary/pages/2014-honda/2014-Honda-pg01.jpg; bbox 1304,286 158×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈90; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2014-Honda.html). Image data/sources/autocolorlibrary/pages/2014-honda/2014-Honda-pg01.jpg; bbox 1304,286 158\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224890; verify chip alignment.",
         "provenanceId": "acl:honda:2014:B570M:1304,286,158x210"
       }
     },
@@ -475,7 +475,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2014-Honda.html). Image data/sources/autocolorlibrary/pages/2014-honda/2014-Honda-pg01.jpg; bbox 1717,287 151×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈89; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2014-Honda.html). Image data/sources/autocolorlibrary/pages/2014-honda/2014-Honda-pg01.jpg; bbox 1717,287 151\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224889; verify chip alignment.",
         "provenanceId": "acl:honda:2014:B572P:1717,287,151x210"
       }
     },
@@ -492,7 +492,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Honda.html). Image data/sources/autocolorlibrary/pages/2019-honda/2019_HondaAcura_01.jpg; bbox 412,175 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈90; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Honda.html). Image data/sources/autocolorlibrary/pages/2019-honda/2019_HondaAcura_01.jpg; bbox 412,175 150\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224890; verify chip alignment.",
         "provenanceId": "acl:honda:2019:B575P:412,175,150x210"
       }
     },
@@ -509,7 +509,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2014-Honda.html). Image data/sources/autocolorlibrary/pages/2014-honda/2014-Honda-pg01.jpg; bbox 477,848 151×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈90; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2014-Honda.html). Image data/sources/autocolorlibrary/pages/2014-honda/2014-Honda-pg01.jpg; bbox 477,848 151\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224890; verify chip alignment.",
         "provenanceId": "acl:honda:2014:B576P:477,848,151x210"
       }
     },
@@ -526,7 +526,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2017-Honda.html). Image data/sources/autocolorlibrary/pages/2017-honda/2017-Honda-pg02.jpg; bbox 1127,335 158×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈91; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2017-Honda.html). Image data/sources/autocolorlibrary/pages/2017-honda/2017-Honda-pg02.jpg; bbox 1127,335 158\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224891; verify chip alignment.",
         "provenanceId": "acl:honda:2017:B578M:1127,335,158x210"
       }
     },
@@ -543,7 +543,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2014-Honda.html). Image data/sources/autocolorlibrary/pages/2014-honda/2014-Honda-pg01.jpg; bbox 890,849 151×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈87; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2014-Honda.html). Image data/sources/autocolorlibrary/pages/2014-honda/2014-Honda-pg01.jpg; bbox 890,849 151\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224887; verify chip alignment.",
         "provenanceId": "acl:honda:2014:B579P:890,849,151x210"
       }
     },
@@ -560,7 +560,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2012-Honda.html). Image data/sources/autocolorlibrary/pages/2012-honda/2012-Honda-pg01.jpg; bbox 1537,905 151×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈91; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2012-Honda.html). Image data/sources/autocolorlibrary/pages/2012-honda/2012-Honda-pg01.jpg; bbox 1537,905 151\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224891; verify chip alignment.",
         "provenanceId": "acl:honda:2012:B586P:1537,905,151x210"
       }
     },
@@ -577,7 +577,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2018-Honda.html). Image data/sources/autocolorlibrary/pages/2018-honda/2018-Honda-pg01.jpg; bbox 1231,331 156×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈91; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2018-Honda.html). Image data/sources/autocolorlibrary/pages/2018-honda/2018-Honda-pg01.jpg; bbox 1231,331 156\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224891; verify chip alignment.",
         "provenanceId": "acl:honda:2018:B588P:1231,331,156x210"
       }
     },
@@ -594,7 +594,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Honda.html). Image data/sources/autocolorlibrary/pages/2019-honda/2019_HondaAcura_01.jpg; bbox 1231,177 157×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈92; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Honda.html). Image data/sources/autocolorlibrary/pages/2019-honda/2019_HondaAcura_01.jpg; bbox 1231,177 157\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224892; verify chip alignment.",
         "provenanceId": "acl:honda:2019:B593M:1231,177,157x210"
       }
     },
@@ -611,7 +611,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2017-Honda.html). Image data/sources/autocolorlibrary/pages/2017-honda/2017-Honda-pg02.jpg; bbox 304,901 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈93; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2017-Honda.html). Image data/sources/autocolorlibrary/pages/2017-honda/2017-Honda-pg02.jpg; bbox 304,901 150\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224893; verify chip alignment.",
         "provenanceId": "acl:honda:2017:B594P:304,901,150x210"
       }
     },
@@ -628,7 +628,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Honda.html). Image data/sources/autocolorlibrary/pages/2019-honda/2019_HondaAcura_01.jpg; bbox 1639,179 157×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈90; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Honda.html). Image data/sources/autocolorlibrary/pages/2019-honda/2019_HondaAcura_01.jpg; bbox 1639,179 157\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224890; verify chip alignment.",
         "provenanceId": "acl:honda:2019:B600M:1639,179,157x210"
       }
     },
@@ -645,7 +645,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Honda.html). Image data/sources/autocolorlibrary/pages/2019-honda/2019_HondaAcura_01.jpg; bbox 0,652 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈91; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Honda.html). Image data/sources/autocolorlibrary/pages/2019-honda/2019_HondaAcura_01.jpg; bbox 0,652 150\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224891; verify chip alignment.",
         "provenanceId": "acl:honda:2019:B605P:0,652,150x210"
       }
     },
@@ -662,7 +662,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Honda.html). Image data/sources/autocolorlibrary/pages/2019-honda/2019_HondaAcura_01.jpg; bbox 410,653 157×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈93; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Honda.html). Image data/sources/autocolorlibrary/pages/2019-honda/2019_HondaAcura_01.jpg; bbox 410,653 157\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224893; verify chip alignment.",
         "provenanceId": "acl:honda:2019:B607M:410,653,157x210"
       }
     },
@@ -679,7 +679,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2018-Honda.html). Image data/sources/autocolorlibrary/pages/2018-honda/2018-Honda-pg01.jpg; bbox 1231,835 156×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈89; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2018-Honda.html). Image data/sources/autocolorlibrary/pages/2018-honda/2018-Honda-pg01.jpg; bbox 1231,835 156\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224889; verify chip alignment.",
         "provenanceId": "acl:honda:2018:B612P:1231,835,156x210"
       }
     },
@@ -696,7 +696,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2016-Honda.html). Image data/sources/autocolorlibrary/pages/2016-honda/2016-Honda-pg02.jpg; bbox 1530,899 158×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈92; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2016-Honda.html). Image data/sources/autocolorlibrary/pages/2016-honda/2016-Honda-pg02.jpg; bbox 1530,899 158\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224892; verify chip alignment.",
         "provenanceId": "acl:honda:2016:B615M:1530,899,158x210"
       }
     },
@@ -713,7 +713,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Honda.html). Image data/sources/autocolorlibrary/pages/2019-honda/2019_HondaAcura_01.jpg; bbox 820,654 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈92; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Honda.html). Image data/sources/autocolorlibrary/pages/2019-honda/2019_HondaAcura_01.jpg; bbox 820,654 150\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224892; verify chip alignment.",
         "provenanceId": "acl:honda:2019:B621P:820,654,150x210"
       }
     },
@@ -730,7 +730,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2009-Honda.html). Image data/sources/autocolorlibrary/pages/2009-honda/2009-Honda-pg01.jpg; bbox 289,2047 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈93; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2009-Honda.html). Image data/sources/autocolorlibrary/pages/2009-honda/2009-Honda-pg01.jpg; bbox 289,2047 150\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224893; verify chip alignment.",
         "provenanceId": "acl:honda:2009:B92P:289,2047,150x210"
       }
     },
@@ -747,7 +747,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2008-Honda.html). Image data/sources/autocolorlibrary/pages/2008-honda/2008-Honda-pg01.jpg; bbox 707,1999 163×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈74; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2008-Honda.html). Image data/sources/autocolorlibrary/pages/2008-honda/2008-Honda-pg01.jpg; bbox 707,1999 163\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224874; verify chip alignment.",
         "provenanceId": "acl:honda:2008:BG51M:707,1999,163x210"
       }
     },
@@ -764,7 +764,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2011-Honda.html). Image data/sources/autocolorlibrary/pages/2011-honda/2011-Honda-pg01.jpg; bbox 290,1460 161×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈89; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2011-Honda.html). Image data/sources/autocolorlibrary/pages/2011-honda/2011-Honda-pg01.jpg; bbox 290,1460 161\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224889; verify chip alignment.",
         "provenanceId": "acl:honda:2011:BG53M:290,1460,161x210"
       }
     },
@@ -781,7 +781,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2015-Honda.html). Image data/sources/autocolorlibrary/pages/2015-honda/2015-Honda-pg02.jpg; bbox 303,912 154×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈89; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2015-Honda.html). Image data/sources/autocolorlibrary/pages/2015-honda/2015-Honda-pg02.jpg; bbox 303,912 154\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224889; verify chip alignment.",
         "provenanceId": "acl:honda:2015:BG57P:303,912,154x210"
       }
     },
@@ -798,7 +798,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2014-Honda.html). Image data/sources/autocolorlibrary/pages/2014-honda/2014-Honda-pg01.jpg; bbox 63,1410 162×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈91; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2014-Honda.html). Image data/sources/autocolorlibrary/pages/2014-honda/2014-Honda-pg01.jpg; bbox 63,1410 162\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224891; verify chip alignment.",
         "provenanceId": "acl:honda:2014:BG59M:63,1410,162x210"
       }
     },
@@ -815,7 +815,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2013-Honda.html). Image data/sources/autocolorlibrary/pages/2013-honda/2013-Honda-pg02.jpg; bbox 710,1473 162×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈89; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2013-Honda.html). Image data/sources/autocolorlibrary/pages/2013-honda/2013-Honda-pg02.jpg; bbox 710,1473 162\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224889; verify chip alignment.",
         "provenanceId": "acl:honda:2013:BG61M:710,1473,162x210"
       }
     },
@@ -832,7 +832,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2016-Honda.html). Image data/sources/autocolorlibrary/pages/2016-honda/2016-Honda-pg02.jpg; bbox 1942,898 162×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈92; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2016-Honda.html). Image data/sources/autocolorlibrary/pages/2016-honda/2016-Honda-pg02.jpg; bbox 1942,898 162\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224892; verify chip alignment.",
         "provenanceId": "acl:honda:2016:BG62M:1942,898,162x210"
       }
     },
@@ -849,7 +849,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Honda.html). Image data/sources/autocolorlibrary/pages/2019-honda/2019_HondaAcura_01.jpg; bbox 1229,655 154×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈87; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Honda.html). Image data/sources/autocolorlibrary/pages/2019-honda/2019_HondaAcura_01.jpg; bbox 1229,655 154\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224887; verify chip alignment.",
         "provenanceId": "acl:honda:2019:BG66P:1229,655,154x210"
       }
     },
@@ -866,7 +866,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2008-Honda.html). Image data/sources/autocolorlibrary/pages/2008-honda/2008-Honda-pg01.jpg; bbox 1119,1997 154×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈91; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2008-Honda.html). Image data/sources/autocolorlibrary/pages/2008-honda/2008-Honda-pg01.jpg; bbox 1119,1997 154\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224891; verify chip alignment.",
         "provenanceId": "acl:honda:2008:G516P:1119,1997,154x210"
       }
     },
@@ -883,7 +883,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2008-Honda.html). Image data/sources/autocolorlibrary/pages/2008-honda/2008-Honda-pg01.jpg; bbox 1532,1996 160×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈90; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2008-Honda.html). Image data/sources/autocolorlibrary/pages/2008-honda/2008-Honda-pg01.jpg; bbox 1532,1996 160\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224890; verify chip alignment.",
         "provenanceId": "acl:honda:2008:G525M:1532,1996,160x210"
       }
     },
@@ -900,7 +900,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2009-Honda.html). Image data/sources/autocolorlibrary/pages/2009-honda/2009-Honda-pg01.jpg; bbox 709,2045 160×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈91; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2009-Honda.html). Image data/sources/autocolorlibrary/pages/2009-honda/2009-Honda-pg01.jpg; bbox 709,2045 160\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224891; verify chip alignment.",
         "provenanceId": "acl:honda:2009:G526M:709,2045,160x210"
       }
     },
@@ -917,7 +917,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2010-Honda.html). Image data/sources/autocolorlibrary/pages/2010-honda/2010-Honda-pg01.jpg; bbox 1946,1469 160×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈90; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2010-Honda.html). Image data/sources/autocolorlibrary/pages/2010-honda/2010-Honda-pg01.jpg; bbox 1946,1469 160\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224890; verify chip alignment.",
         "provenanceId": "acl:honda:2010:G530M:1946,1469,160x210"
       }
     },
@@ -934,7 +934,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2013-Honda.html). Image data/sources/autocolorlibrary/pages/2013-honda/2013-Honda-pg02.jpg; bbox 1534,1472 160×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈91; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2013-Honda.html). Image data/sources/autocolorlibrary/pages/2013-honda/2013-Honda-pg02.jpg; bbox 1534,1472 160\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224891; verify chip alignment.",
         "provenanceId": "acl:honda:2013:G532M:1534,1472,160x210"
       }
     },
@@ -951,7 +951,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2016-Honda.html). Image data/sources/autocolorlibrary/pages/2016-honda/2016-Honda-pg02.jpg; bbox 293,1464 160×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈91; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2016-Honda.html). Image data/sources/autocolorlibrary/pages/2016-honda/2016-Honda-pg02.jpg; bbox 293,1464 160\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224891; verify chip alignment.",
         "provenanceId": "acl:honda:2016:G534M:293,1464,160x210"
       }
     },
@@ -968,7 +968,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2016-Honda.html). Image data/sources/autocolorlibrary/pages/2016-honda/2016-Honda-pg02.jpg; bbox 706,1464 160×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈90; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2016-Honda.html). Image data/sources/autocolorlibrary/pages/2016-honda/2016-Honda-pg02.jpg; bbox 706,1464 160\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224890; verify chip alignment.",
         "provenanceId": "acl:honda:2016:G536M:706,1464,160x210"
       }
     },
@@ -985,7 +985,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Honda.html). Image data/sources/autocolorlibrary/pages/2019-honda/2019_HondaAcura_01.jpg; bbox 1636,656 159×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈92; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Honda.html). Image data/sources/autocolorlibrary/pages/2019-honda/2019_HondaAcura_01.jpg; bbox 1636,656 159\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224892; verify chip alignment.",
         "provenanceId": "acl:honda:2019:G537M:1636,656,159x210"
       }
     },
@@ -1002,7 +1002,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2018-Honda.html). Image data/sources/autocolorlibrary/pages/2018-honda/2018-Honda-pg01.jpg; bbox 357,1342 159×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈92; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2018-Honda.html). Image data/sources/autocolorlibrary/pages/2018-honda/2018-Honda-pg01.jpg; bbox 357,1342 159\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224892; verify chip alignment.",
         "provenanceId": "acl:honda:2018:G539P:357,1342,159x210"
       }
     },
@@ -1019,7 +1019,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Honda.html). Image data/sources/autocolorlibrary/pages/2019-honda/2019_HondaAcura_01.jpg; bbox 0,1130 153×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈92; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Honda.html). Image data/sources/autocolorlibrary/pages/2019-honda/2019_HondaAcura_01.jpg; bbox 0,1130 153\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224892; verify chip alignment.",
         "provenanceId": "acl:honda:2019:G542P:0,1130,153x210"
       }
     },
@@ -1036,7 +1036,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2018-Honda.html). Image data/sources/autocolorlibrary/pages/2018-honda/2018-Honda-pg01.jpg; bbox 1231,1337 166×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈81; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2018-Honda.html). Image data/sources/autocolorlibrary/pages/2018-honda/2018-Honda-pg01.jpg; bbox 1231,1337 166\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224881; verify chip alignment.",
         "provenanceId": "acl:honda:2018:G544M:1231,1337,166x210"
       }
     },
@@ -1053,7 +1053,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Honda.html). Image data/sources/autocolorlibrary/pages/2019-honda/2019_HondaAcura_01.jpg; bbox 408,1131 159×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈89; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Honda.html). Image data/sources/autocolorlibrary/pages/2019-honda/2019_HondaAcura_01.jpg; bbox 408,1131 159\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224889; verify chip alignment.",
         "provenanceId": "acl:honda:2019:G546M:408,1131,159x210"
       }
     },
@@ -1070,7 +1070,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2018-Honda.html). Image data/sources/autocolorlibrary/pages/2018-honda/2018-Honda-pg01.jpg; bbox 2105,1340 160×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈92; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2018-Honda.html). Image data/sources/autocolorlibrary/pages/2018-honda/2018-Honda-pg01.jpg; bbox 2105,1340 160\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224892; verify chip alignment.",
         "provenanceId": "acl:honda:2018:GY30P:2105,1340,160x210"
       }
     },
@@ -1087,7 +1087,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Honda.html). Image data/sources/autocolorlibrary/pages/2019-honda/2019_HondaAcura_01.jpg; bbox 1227,1134 153×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈92; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Honda.html). Image data/sources/autocolorlibrary/pages/2019-honda/2019_HondaAcura_01.jpg; bbox 1227,1134 153\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224892; verify chip alignment.",
         "provenanceId": "acl:honda:2019:NH547:1227,1134,153x210"
       }
     },
@@ -1104,7 +1104,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2018-Honda.html). Image data/sources/autocolorlibrary/pages/2018-honda/2018-Honda-pg01.jpg; bbox 1232,1849 160×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈91; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2018-Honda.html). Image data/sources/autocolorlibrary/pages/2018-honda/2018-Honda-pg01.jpg; bbox 1232,1849 160\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224891; verify chip alignment.",
         "provenanceId": "acl:honda:2018:NH578:1232,1849,160x210"
       }
     },
@@ -1121,7 +1121,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Honda.html). Image data/sources/autocolorlibrary/pages/2019-honda/2019_HondaAcura_01.jpg; bbox 1635,1135 173×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈92; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Honda.html). Image data/sources/autocolorlibrary/pages/2019-honda/2019_HondaAcura_01.jpg; bbox 1635,1135 173\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224892; verify chip alignment.",
         "provenanceId": "acl:honda:2019:NH603P:1635,1135,173x210"
       }
     },
@@ -1138,7 +1138,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2015-Honda.html). Image data/sources/autocolorlibrary/pages/2015-honda/2015-Honda-pg02.jpg; bbox 1128,1476 175×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈93; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2015-Honda.html). Image data/sources/autocolorlibrary/pages/2015-honda/2015-Honda-pg02.jpg; bbox 1128,1476 175\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224893; verify chip alignment.",
         "provenanceId": "acl:honda:2015:NH624P:1128,1476,175x210"
       }
     },
@@ -1155,7 +1155,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Honda.html). Image data/sources/autocolorlibrary/pages/2019-honda/2019_HondaAcura_01.jpg; bbox 0,1609 181×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈91; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Honda.html). Image data/sources/autocolorlibrary/pages/2019-honda/2019_HondaAcura_01.jpg; bbox 0,1609 181\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224891; verify chip alignment.",
         "provenanceId": "acl:honda:2019:NH642M:0,1609,181x210"
       }
     },
@@ -1172,7 +1172,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2008-Honda.html). Image data/sources/autocolorlibrary/pages/2008-honda/2008-Honda-pg02.jpg; bbox 1564,308 175×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈93; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2008-Honda.html). Image data/sources/autocolorlibrary/pages/2008-honda/2008-Honda-pg02.jpg; bbox 1564,308 175\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224893; verify chip alignment.",
         "provenanceId": "acl:honda:2008:NH658P:1564,308,175x210"
       }
     },
@@ -1189,7 +1189,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2014-Honda.html). Image data/sources/autocolorlibrary/pages/2014-honda/2014-Honda-pg01.jpg; bbox 1301,1975 175×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈93; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2014-Honda.html). Image data/sources/autocolorlibrary/pages/2014-honda/2014-Honda-pg01.jpg; bbox 1301,1975 175\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224893; verify chip alignment.",
         "provenanceId": "acl:honda:2014:NH677P:1301,1975,175x210"
       }
     },
@@ -1206,7 +1206,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2009-Honda.html). Image data/sources/autocolorlibrary/pages/2009-honda/2009-Honda-pg02.jpg; bbox 316,354 181×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈92; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2009-Honda.html). Image data/sources/autocolorlibrary/pages/2009-honda/2009-Honda-pg02.jpg; bbox 316,354 181\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224892; verify chip alignment.",
         "provenanceId": "acl:honda:2009:NH678M:316,354,181x210"
       }
     },
@@ -1223,7 +1223,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2010-Honda.html). Image data/sources/autocolorlibrary/pages/2010-honda/2010-Honda-pg01.jpg; bbox 711,2602 182×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈92; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2010-Honda.html). Image data/sources/autocolorlibrary/pages/2010-honda/2010-Honda-pg01.jpg; bbox 711,2602 182\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224892; verify chip alignment.",
         "provenanceId": "acl:honda:2010:NH679M:711,2602,182x210"
       }
     },
@@ -1240,7 +1240,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2011-Honda.html). Image data/sources/autocolorlibrary/pages/2011-honda/2011-Honda-pg01.jpg; bbox 1526,2022 175×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈92; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2011-Honda.html). Image data/sources/autocolorlibrary/pages/2011-honda/2011-Honda-pg01.jpg; bbox 1526,2022 175\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224892; verify chip alignment.",
         "provenanceId": "acl:honda:2011:NH684P:1526,2022,175x210"
       }
     },
@@ -1257,7 +1257,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2008-Honda.html). Image data/sources/autocolorlibrary/pages/2008-honda/2008-Honda-pg02.jpg; bbox 1556,872 182×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈89; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2008-Honda.html). Image data/sources/autocolorlibrary/pages/2008-honda/2008-Honda-pg02.jpg; bbox 1556,872 182\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224889; verify chip alignment.",
         "provenanceId": "acl:honda:2008:NH686M:1556,872,182x210"
       }
     },
@@ -1274,7 +1274,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2009-Honda.html). Image data/sources/autocolorlibrary/pages/2009-honda/2009-Honda-pg02.jpg; bbox 1552,350 182×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈90; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2009-Honda.html). Image data/sources/autocolorlibrary/pages/2009-honda/2009-Honda-pg02.jpg; bbox 1552,350 182\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224890; verify chip alignment.",
         "provenanceId": "acl:honda:2009:NH689M:1552,350,182x210"
       }
     },
@@ -1291,7 +1291,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2016-Honda.html). Image data/sources/autocolorlibrary/pages/2016-honda/2016-Honda-pg02.jpg; bbox 1119,2028 181×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈92; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2016-Honda.html). Image data/sources/autocolorlibrary/pages/2016-honda/2016-Honda-pg02.jpg; bbox 1119,2028 181\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224892; verify chip alignment.",
         "provenanceId": "acl:honda:2016:NH700M:1119,2028,181x210"
       }
     },
@@ -1308,7 +1308,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2008-Honda.html). Image data/sources/autocolorlibrary/pages/2008-honda/2008-Honda-pg02.jpg; bbox 732,1440 181×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈92; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2008-Honda.html). Image data/sources/autocolorlibrary/pages/2008-honda/2008-Honda-pg02.jpg; bbox 732,1440 181\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224892; verify chip alignment.",
         "provenanceId": "acl:honda:2008:NH701M:732,1440,181x210"
       }
     },
@@ -1325,7 +1325,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Honda.html). Image data/sources/autocolorlibrary/pages/2019-honda/2019_HondaAcura_01.jpg; bbox 405,1610 181×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈90; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Honda.html). Image data/sources/autocolorlibrary/pages/2019-honda/2019_HondaAcura_01.jpg; bbox 405,1610 181\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224890; verify chip alignment.",
         "provenanceId": "acl:honda:2019:NH704M:405,1610,181x210"
       }
     },
@@ -1342,7 +1342,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2008-Honda.html). Image data/sources/autocolorlibrary/pages/2008-honda/2008-Honda-pg02.jpg; bbox 1144,1438 181×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈91; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2008-Honda.html). Image data/sources/autocolorlibrary/pages/2008-honda/2008-Honda-pg02.jpg; bbox 1144,1438 181\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224891; verify chip alignment.",
         "provenanceId": "acl:honda:2008:NH705M:1144,1438,181x210"
       }
     },
@@ -1359,7 +1359,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2009-Honda.html). Image data/sources/autocolorlibrary/pages/2009-honda/2009-Honda-pg02.jpg; bbox 756,917 154×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈91; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2009-Honda.html). Image data/sources/autocolorlibrary/pages/2009-honda/2009-Honda-pg02.jpg; bbox 756,917 154\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224891; verify chip alignment.",
         "provenanceId": "acl:honda:2009:NH707:756,917,154x210"
       }
     },
@@ -1376,7 +1376,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2008-Honda.html). Image data/sources/autocolorlibrary/pages/2008-honda/2008-Honda-pg02.jpg; bbox 1968,1435 182×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈80; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2008-Honda.html). Image data/sources/autocolorlibrary/pages/2008-honda/2008-Honda-pg02.jpg; bbox 1968,1435 182\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224880; verify chip alignment.",
         "provenanceId": "acl:honda:2008:NH711M:1968,1435,182x210"
       }
     },
@@ -1393,7 +1393,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2012-Honda.html). Image data/sources/autocolorlibrary/pages/2012-honda/2012-Honda-pg01.jpg; bbox 300,2598 174×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈88; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2012-Honda.html). Image data/sources/autocolorlibrary/pages/2012-honda/2012-Honda-pg01.jpg; bbox 300,2598 174\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224888; verify chip alignment.",
         "provenanceId": "acl:honda:2012:NH717P:300,2598,174x210"
       }
     },
@@ -1410,7 +1410,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2012-Honda.html). Image data/sources/autocolorlibrary/pages/2012-honda/2012-Honda-pg01.jpg; bbox 712,2597 182×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈92; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2012-Honda.html). Image data/sources/autocolorlibrary/pages/2012-honda/2012-Honda-pg01.jpg; bbox 712,2597 182\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224892; verify chip alignment.",
         "provenanceId": "acl:honda:2012:NH727M:712,2597,182x210"
       }
     },
@@ -1427,7 +1427,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Honda.html). Image data/sources/autocolorlibrary/pages/2019-honda/2019_HondaAcura_01.jpg; bbox 816,1611 174×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈91; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Honda.html). Image data/sources/autocolorlibrary/pages/2019-honda/2019_HondaAcura_01.jpg; bbox 816,1611 174\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224891; verify chip alignment.",
         "provenanceId": "acl:honda:2019:NH731P:816,1611,174x210"
       }
     },
@@ -1444,7 +1444,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2012-Honda.html). Image data/sources/autocolorlibrary/pages/2012-honda/2012-Honda-pg01.jpg; bbox 1536,2595 182×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈92; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2012-Honda.html). Image data/sources/autocolorlibrary/pages/2012-honda/2012-Honda-pg01.jpg; bbox 1536,2595 182\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224892; verify chip alignment.",
         "provenanceId": "acl:honda:2012:NH736M:1536,2595,182x210"
       }
     },
@@ -1461,7 +1461,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Honda.html). Image data/sources/autocolorlibrary/pages/2019-honda/2019_HondaAcura_01.jpg; bbox 1225,1612 181×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈91; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Honda.html). Image data/sources/autocolorlibrary/pages/2019-honda/2019_HondaAcura_01.jpg; bbox 1225,1612 181\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224891; verify chip alignment.",
         "provenanceId": "acl:honda:2019:NH737M:1225,1612,181x210"
       }
     },
@@ -1478,7 +1478,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2009-Honda.html). Image data/sources/autocolorlibrary/pages/2009-honda/2009-Honda-pg02.jpg; bbox 1141,1481 181×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈92; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2009-Honda.html). Image data/sources/autocolorlibrary/pages/2009-honda/2009-Honda-pg02.jpg; bbox 1141,1481 181\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224892; verify chip alignment.",
         "provenanceId": "acl:honda:2009:NH741M:1141,1481,181x210"
       }
     },
@@ -1495,7 +1495,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2013-Honda.html). Image data/sources/autocolorlibrary/pages/2013-honda/2013-Honda-pg02.jpg; bbox 1534,2596 183×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈92; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2013-Honda.html). Image data/sources/autocolorlibrary/pages/2013-honda/2013-Honda-pg02.jpg; bbox 1534,2596 183\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224892; verify chip alignment.",
         "provenanceId": "acl:honda:2013:NH743M:1534,2596,183x210"
       }
     },
@@ -1512,7 +1512,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2009-Honda.html). Image data/sources/autocolorlibrary/pages/2009-honda/2009-Honda-pg02.jpg; bbox 1965,1477 182×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈92; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2009-Honda.html). Image data/sources/autocolorlibrary/pages/2009-honda/2009-Honda-pg02.jpg; bbox 1965,1477 182\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224892; verify chip alignment.",
         "provenanceId": "acl:honda:2009:NH745M:1965,1477,182x210"
       }
     },
@@ -1529,7 +1529,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2009-Honda.html). Image data/sources/autocolorlibrary/pages/2009-honda/2009-Honda-pg02.jpg; bbox 318,2049 181×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈91; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2009-Honda.html). Image data/sources/autocolorlibrary/pages/2009-honda/2009-Honda-pg02.jpg; bbox 318,2049 181\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224891; verify chip alignment.",
         "provenanceId": "acl:honda:2009:NH750M:318,2049,181x210"
       }
     },
@@ -1546,7 +1546,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2011-Honda.html). Image data/sources/autocolorlibrary/pages/2011-honda/2011-Honda-pg02.jpg; bbox 331,330 174×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈92; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2011-Honda.html). Image data/sources/autocolorlibrary/pages/2011-honda/2011-Honda-pg02.jpg; bbox 331,330 174\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224892; verify chip alignment.",
         "provenanceId": "acl:honda:2011:NH756P:331,330,174x210"
       }
     },
@@ -1563,7 +1563,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2017-Honda.html). Image data/sources/autocolorlibrary/pages/2017-honda/2017-Honda-pg02.jpg; bbox 1544,2588 182×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈91; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2017-Honda.html). Image data/sources/autocolorlibrary/pages/2017-honda/2017-Honda-pg02.jpg; bbox 1544,2588 182\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224891; verify chip alignment.",
         "provenanceId": "acl:honda:2017:NH777M:1544,2588,182x210"
       }
     },
@@ -1580,7 +1580,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2018-Honda.html). Image data/sources/autocolorlibrary/pages/2018-honda/2018-Honda-pg01.jpg; bbox 1233,2357 189×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈93; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2018-Honda.html). Image data/sources/autocolorlibrary/pages/2018-honda/2018-Honda-pg01.jpg; bbox 1233,2357 189\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224893; verify chip alignment.",
         "provenanceId": "acl:honda:2018:NH782M:1233,2357,189x210"
       }
     },
@@ -1597,7 +1597,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Honda.html). Image data/sources/autocolorlibrary/pages/2019-honda/2019_HondaAcura_01.jpg; bbox 1633,1614 173×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈92; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Honda.html). Image data/sources/autocolorlibrary/pages/2019-honda/2019_HondaAcura_01.jpg; bbox 1633,1614 173\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224892; verify chip alignment.",
         "provenanceId": "acl:honda:2019:NH788P:1633,1614,173x210"
       }
     },
@@ -1614,7 +1614,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2015-Honda.html). Image data/sources/autocolorlibrary/pages/2015-honda/2015-Honda-pg02.jpg; bbox 1954,2038 182×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈93; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2015-Honda.html). Image data/sources/autocolorlibrary/pages/2015-honda/2015-Honda-pg02.jpg; bbox 1954,2038 182\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224893; verify chip alignment.",
         "provenanceId": "acl:honda:2015:NH789M:1954,2038,182x210"
       }
     },
@@ -1631,7 +1631,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Honda.html). Image data/sources/autocolorlibrary/pages/2019-honda/2019_HondaAcura_01.jpg; bbox 0,2087 182×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈92; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Honda.html). Image data/sources/autocolorlibrary/pages/2019-honda/2019_HondaAcura_01.jpg; bbox 0,2087 182\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224892; verify chip alignment.",
         "provenanceId": "acl:honda:2019:NH797M:0,2087,182x210"
       }
     },
@@ -1648,7 +1648,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2013-Honda.html). Image data/sources/autocolorlibrary/pages/2013-honda/2013-Honda-pg03.jpg; bbox 1976,341 175×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈88; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2013-Honda.html). Image data/sources/autocolorlibrary/pages/2013-honda/2013-Honda-pg03.jpg; bbox 1976,341 175\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224888; verify chip alignment.",
         "provenanceId": "acl:honda:2013:NH814P:1976,341,175x210"
       }
     },
@@ -1665,7 +1665,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2018-Honda.html). Image data/sources/autocolorlibrary/pages/2018-honda/2018-Honda-pg01.jpg; bbox 359,2865 189×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈92; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2018-Honda.html). Image data/sources/autocolorlibrary/pages/2018-honda/2018-Honda-pg01.jpg; bbox 359,2865 189\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224892; verify chip alignment.",
         "provenanceId": "acl:honda:2018:NH821M:359,2865,189x210"
       }
     },
@@ -1682,7 +1682,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2018-Honda.html). Image data/sources/autocolorlibrary/pages/2018-honda/2018-Honda-pg01.jpg; bbox 796,2864 189×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈91; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2018-Honda.html). Image data/sources/autocolorlibrary/pages/2018-honda/2018-Honda-pg01.jpg; bbox 796,2864 189\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224891; verify chip alignment.",
         "provenanceId": "acl:honda:2018:NH829M:796,2864,189x210"
       }
     },
@@ -1699,7 +1699,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Honda.html). Image data/sources/autocolorlibrary/pages/2019-honda/2019_HondaAcura_01.jpg; bbox 403,2088 181×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈88; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Honda.html). Image data/sources/autocolorlibrary/pages/2019-honda/2019_HondaAcura_01.jpg; bbox 403,2088 181\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224888; verify chip alignment.",
         "provenanceId": "acl:honda:2019:NH830M:403,2088,181x210"
       }
     },
@@ -1716,7 +1716,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Honda.html). Image data/sources/autocolorlibrary/pages/2019-honda/2019_HondaAcura_01.jpg; bbox 813,2089 181×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈91; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Honda.html). Image data/sources/autocolorlibrary/pages/2019-honda/2019_HondaAcura_01.jpg; bbox 813,2089 181\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224891; verify chip alignment.",
         "provenanceId": "acl:honda:2019:NH837M:813,2089,181x210"
       }
     },
@@ -1733,7 +1733,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Honda.html). Image data/sources/autocolorlibrary/pages/2019-honda/2019_HondaAcura_01.jpg; bbox 1223,2090 174×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈92; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Honda.html). Image data/sources/autocolorlibrary/pages/2019-honda/2019_HondaAcura_01.jpg; bbox 1223,2090 174\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224892; verify chip alignment.",
         "provenanceId": "acl:honda:2019:NH839P:1223,2090,174x210"
       }
     },
@@ -1750,7 +1750,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2017-Honda.html). Image data/sources/autocolorlibrary/pages/2017-honda/2017-Honda-pg03.jpg; bbox 1290,901 154×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈90; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2017-Honda.html). Image data/sources/autocolorlibrary/pages/2017-honda/2017-Honda-pg03.jpg; bbox 1290,901 154\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224890; verify chip alignment.",
         "provenanceId": "acl:honda:2017:NH850:1290,901,154x210"
       }
     },
@@ -1767,7 +1767,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Honda.html). Image data/sources/autocolorlibrary/pages/2019-honda/2019_HondaAcura_01.jpg; bbox 1631,2091 154×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈90; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Honda.html). Image data/sources/autocolorlibrary/pages/2019-honda/2019_HondaAcura_01.jpg; bbox 1631,2091 154\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224890; verify chip alignment.",
         "provenanceId": "acl:honda:2019:NH854:1631,2091,154x210"
       }
     },
@@ -1784,7 +1784,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Honda.html). Image data/sources/autocolorlibrary/pages/2019-honda/2019_HondaAcura_01.jpg; bbox 0,2565 181×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈91; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Honda.html). Image data/sources/autocolorlibrary/pages/2019-honda/2019_HondaAcura_01.jpg; bbox 0,2565 181\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224891; verify chip alignment.",
         "provenanceId": "acl:honda:2019:NH862M:0,2565,181x210"
       }
     },
@@ -1801,7 +1801,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2017-Honda.html). Image data/sources/autocolorlibrary/pages/2017-honda/2017-Honda-pg03.jpg; bbox 2095,900 174×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈92; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2017-Honda.html). Image data/sources/autocolorlibrary/pages/2017-honda/2017-Honda-pg03.jpg; bbox 2095,900 174\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224892; verify chip alignment.",
         "provenanceId": "acl:honda:2017:NH875P:2095,900,174x210"
       }
     },
@@ -1818,7 +1818,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Honda.html). Image data/sources/autocolorlibrary/pages/2019-honda/2019_HondaAcura_01.jpg; bbox 401,2566 174×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈91; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Honda.html). Image data/sources/autocolorlibrary/pages/2019-honda/2019_HondaAcura_01.jpg; bbox 401,2566 174\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224891; verify chip alignment.",
         "provenanceId": "acl:honda:2019:NH877P:401,2566,174x210"
       }
     },
@@ -1835,7 +1835,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Honda.html). Image data/sources/autocolorlibrary/pages/2019-honda/2019_HondaAcura_01.jpg; bbox 811,2567 174×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈92; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Honda.html). Image data/sources/autocolorlibrary/pages/2019-honda/2019_HondaAcura_01.jpg; bbox 811,2567 174\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224892; verify chip alignment.",
         "provenanceId": "acl:honda:2019:NH883P:811,2567,174x210"
       }
     },
@@ -1852,7 +1852,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Honda.html). Image data/sources/autocolorlibrary/pages/2019-honda/2019_HondaAcura_01.jpg; bbox 1221,2568 174×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈92; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Honda.html). Image data/sources/autocolorlibrary/pages/2019-honda/2019_HondaAcura_01.jpg; bbox 1221,2568 174\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224892; verify chip alignment.",
         "provenanceId": "acl:honda:2019:NH893P:1221,2568,174x210"
       }
     },
@@ -1869,7 +1869,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2004-Honda.html). Image data/sources/autocolorlibrary/pages/2004-honda/2004-Honda-pg01.jpg; bbox 460,125 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈0; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2004-Honda.html). Image data/sources/autocolorlibrary/pages/2004-honda/2004-Honda-pg01.jpg; bbox 460,125 150\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u22480; verify chip alignment.",
         "provenanceId": "acl:honda:2004:NHESSP:460,125,150x210"
       }
     },
@@ -1886,7 +1886,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Honda.html). Image data/sources/autocolorlibrary/pages/2019-honda/2019_HondaAcura_01.jpg; bbox 802,1133 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈89; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Honda.html). Image data/sources/autocolorlibrary/pages/2019-honda/2019_HondaAcura_01.jpg; bbox 802,1133 150\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224889; verify chip alignment.",
         "provenanceId": "acl:honda:2019:NHO:802,1133,150x210"
       }
     },
@@ -1903,7 +1903,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2005-Honda.html). Image data/sources/autocolorlibrary/pages/2005-honda/2005-Honda-pg02.jpg; bbox 467,148 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈0; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2005-Honda.html). Image data/sources/autocolorlibrary/pages/2005-honda/2005-Honda-pg02.jpg; bbox 467,148 150\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u22480; verify chip alignment.",
         "provenanceId": "acl:honda:2005:O207:467,148,150x210"
       }
     },
@@ -1920,7 +1920,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2010-Honda.html). Image data/sources/autocolorlibrary/pages/2010-honda/2010-Honda-pg02.jpg; bbox 1173,910 153×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈86; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2010-Honda.html). Image data/sources/autocolorlibrary/pages/2010-honda/2010-Honda-pg02.jpg; bbox 1173,910 153\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224886; verify chip alignment.",
         "provenanceId": "acl:honda:2010:PB83P:1173,910,153x210"
       }
     },
@@ -1937,7 +1937,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2015-Honda.html). Image data/sources/autocolorlibrary/pages/2015-honda/2015-Honda-pg02.jpg; bbox 1130,2604 153×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈85; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2015-Honda.html). Image data/sources/autocolorlibrary/pages/2015-honda/2015-Honda-pg02.jpg; bbox 1130,2604 153\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224885; verify chip alignment.",
         "provenanceId": "acl:honda:2015:PB85P:1130,2604,153x210"
       }
     },
@@ -1954,7 +1954,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Honda.html). Image data/sources/autocolorlibrary/pages/2019-honda/2019_HondaAcura_01.jpg; bbox 1630,2569 159×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈74; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Honda.html). Image data/sources/autocolorlibrary/pages/2019-honda/2019_HondaAcura_01.jpg; bbox 1630,2569 159\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224874; verify chip alignment.",
         "provenanceId": "acl:honda:2019:PB88M:1630,2569,159x210"
       }
     },
@@ -1971,7 +1971,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2017-Honda.html). Image data/sources/autocolorlibrary/pages/2017-honda/2017-Honda-pg03.jpg; bbox 1704,1464 153×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈78; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2017-Honda.html). Image data/sources/autocolorlibrary/pages/2017-honda/2017-Honda-pg03.jpg; bbox 1704,1464 153\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224878; verify chip alignment.",
         "provenanceId": "acl:honda:2017:PB89P:1704,1464,153x210"
       }
     },
@@ -1988,7 +1988,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2009-Honda.html). Image data/sources/autocolorlibrary/pages/2009-honda/2009-Honda-pg02.jpg; bbox 1595,2043 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈96; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2009-Honda.html). Image data/sources/autocolorlibrary/pages/2009-honda/2009-Honda-pg02.jpg; bbox 1595,2043 150\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224896; verify chip alignment.",
         "provenanceId": "acl:honda:2009:R510:1595,2043,150x210"
       }
     },
@@ -2005,7 +2005,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Honda.html). Image data/sources/autocolorlibrary/pages/2019-honda/2019_HondaAcura_02.jpg; bbox 233,179 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈93; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Honda.html). Image data/sources/autocolorlibrary/pages/2019-honda/2019_HondaAcura_02.jpg; bbox 233,179 150\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224893; verify chip alignment.",
         "provenanceId": "acl:honda:2019:R513:233,179,150x210"
       }
     },
@@ -2022,7 +2022,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2004-Honda.html). Image data/sources/autocolorlibrary/pages/2004-honda/2004-Honda-pg01.jpg; bbox 604,126 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈68; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2004-Honda.html). Image data/sources/autocolorlibrary/pages/2004-honda/2004-Honda-pg01.jpg; bbox 604,126 150\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224868; verify chip alignment.",
         "provenanceId": "acl:honda:2004:R518:604,126,150x210"
       }
     },
@@ -2039,7 +2039,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2009-Honda.html). Image data/sources/autocolorlibrary/pages/2009-honda/2009-Honda-pg02.jpg; bbox 349,2613 152×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈91; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2009-Honda.html). Image data/sources/autocolorlibrary/pages/2009-honda/2009-Honda-pg02.jpg; bbox 349,2613 152\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224891; verify chip alignment.",
         "provenanceId": "acl:honda:2009:R522P:349,2613,152x210"
       }
     },
@@ -2056,7 +2056,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2011-Honda.html). Image data/sources/autocolorlibrary/pages/2011-honda/2011-Honda-pg02.jpg; bbox 2002,323 153×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈91; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2011-Honda.html). Image data/sources/autocolorlibrary/pages/2011-honda/2011-Honda-pg02.jpg; bbox 2002,323 153\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224891; verify chip alignment.",
         "provenanceId": "acl:honda:2011:R525P:2002,323,153x210"
       }
     },
@@ -2073,7 +2073,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2008-Honda.html). Image data/sources/autocolorlibrary/pages/2008-honda/2008-Honda-pg02.jpg; bbox 1999,2562 154×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈91; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2008-Honda.html). Image data/sources/autocolorlibrary/pages/2008-honda/2008-Honda-pg02.jpg; bbox 1999,2562 154\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224891; verify chip alignment.",
         "provenanceId": "acl:honda:2008:R528P:1999,2562,154x210"
       }
     },
@@ -2090,7 +2090,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2017-Honda.html). Image data/sources/autocolorlibrary/pages/2017-honda/2017-Honda-pg03.jpg; bbox 880,2029 152×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈90; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2017-Honda.html). Image data/sources/autocolorlibrary/pages/2017-honda/2017-Honda-pg03.jpg; bbox 880,2029 152\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224890; verify chip alignment.",
         "provenanceId": "acl:honda:2017:R529P:880,2029,152x210"
       }
     },
@@ -2107,7 +2107,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2013-Honda.html). Image data/sources/autocolorlibrary/pages/2013-honda/2013-Honda-pg03.jpg; bbox 1175,907 152×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈90; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2013-Honda.html). Image data/sources/autocolorlibrary/pages/2013-honda/2013-Honda-pg03.jpg; bbox 1175,907 152\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224890; verify chip alignment.",
         "provenanceId": "acl:honda:2013:R530P:1175,907,152x210"
       }
     },
@@ -2124,7 +2124,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2009-Honda.html). Image data/sources/autocolorlibrary/pages/2009-honda/2009-Honda-pg02.jpg; bbox 1997,2605 153×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈89; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2009-Honda.html). Image data/sources/autocolorlibrary/pages/2009-honda/2009-Honda-pg02.jpg; bbox 1997,2605 153\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224889; verify chip alignment.",
         "provenanceId": "acl:honda:2009:R538P:1997,2605,153x210"
       }
     },
@@ -2141,7 +2141,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Honda.html). Image data/sources/autocolorlibrary/pages/2019-honda/2019_HondaAcura_02.jpg; bbox 632,176 153×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈87; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Honda.html). Image data/sources/autocolorlibrary/pages/2019-honda/2019_HondaAcura_02.jpg; bbox 632,176 153\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224887; verify chip alignment.",
         "provenanceId": "acl:honda:2019:R539P:632,176,153x210"
       }
     },
@@ -2158,7 +2158,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2018-Honda.html). Image data/sources/autocolorlibrary/pages/2018-honda/2018-Honda-pg02.jpg; bbox 1247,833 158×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈88; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2018-Honda.html). Image data/sources/autocolorlibrary/pages/2018-honda/2018-Honda-pg02.jpg; bbox 1247,833 158\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224888; verify chip alignment.",
         "provenanceId": "acl:honda:2018:R540P:1247,833,158x210"
       }
     },
@@ -2175,7 +2175,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Honda.html). Image data/sources/autocolorlibrary/pages/2019-honda/2019_HondaAcura_02.jpg; bbox 1042,174 152×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈85; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Honda.html). Image data/sources/autocolorlibrary/pages/2019-honda/2019_HondaAcura_02.jpg; bbox 1042,174 152\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224885; verify chip alignment.",
         "provenanceId": "acl:honda:2019:R543P:1042,174,152x210"
       }
     },
@@ -2192,7 +2192,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2012-Honda.html). Image data/sources/autocolorlibrary/pages/2012-honda/2012-Honda-pg02.jpg; bbox 1997,1468 153×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈90; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2012-Honda.html). Image data/sources/autocolorlibrary/pages/2012-honda/2012-Honda-pg02.jpg; bbox 1997,1468 153\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224890; verify chip alignment.",
         "provenanceId": "acl:honda:2012:R547P:1997,1468,153x210"
       }
     },
@@ -2209,7 +2209,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Honda.html). Image data/sources/autocolorlibrary/pages/2019-honda/2019_HondaAcura_02.jpg; bbox 1451,171 152×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈91; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Honda.html). Image data/sources/autocolorlibrary/pages/2019-honda/2019_HondaAcura_02.jpg; bbox 1451,171 152\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224891; verify chip alignment.",
         "provenanceId": "acl:honda:2019:R548P:1451,171,152x210"
       }
     },
@@ -2226,7 +2226,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Honda.html). Image data/sources/autocolorlibrary/pages/2019-honda/2019_HondaAcura_02.jpg; bbox 1852,169 152×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈87; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Honda.html). Image data/sources/autocolorlibrary/pages/2019-honda/2019_HondaAcura_02.jpg; bbox 1852,169 152\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224887; verify chip alignment.",
         "provenanceId": "acl:honda:2019:R556P:1852,169,152x210"
       }
     },
@@ -2243,7 +2243,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Honda.html). Image data/sources/autocolorlibrary/pages/2019-honda/2019_HondaAcura_02.jpg; bbox 235,657 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈96; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Honda.html). Image data/sources/autocolorlibrary/pages/2019-honda/2019_HondaAcura_02.jpg; bbox 235,657 150\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224896; verify chip alignment.",
         "provenanceId": "acl:honda:2019:R559:235,657,150x210"
       }
     },
@@ -2260,7 +2260,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2018-Honda.html). Image data/sources/autocolorlibrary/pages/2018-honda/2018-Honda-pg02.jpg; bbox 1247,1341 158×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈65; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2018-Honda.html). Image data/sources/autocolorlibrary/pages/2018-honda/2018-Honda-pg02.jpg; bbox 1247,1341 158\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224865; verify chip alignment.",
         "provenanceId": "acl:honda:2018:R560P:1247,1341,158x210"
       }
     },
@@ -2277,7 +2277,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Honda.html). Image data/sources/autocolorlibrary/pages/2019-honda/2019_HondaAcura_02.jpg; bbox 634,654 153×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈87; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Honda.html). Image data/sources/autocolorlibrary/pages/2019-honda/2019_HondaAcura_02.jpg; bbox 634,654 153\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224887; verify chip alignment.",
         "provenanceId": "acl:honda:2019:R561P:634,654,153x210"
       }
     },
@@ -2294,7 +2294,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Honda.html). Image data/sources/autocolorlibrary/pages/2019-honda/2019_HondaAcura_02.jpg; bbox 1035,652 160×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈90; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Honda.html). Image data/sources/autocolorlibrary/pages/2019-honda/2019_HondaAcura_02.jpg; bbox 1035,652 160\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224890; verify chip alignment.",
         "provenanceId": "acl:honda:2019:R565M:1035,652,160x210"
       }
     },
@@ -2311,7 +2311,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2018-Honda.html). Image data/sources/autocolorlibrary/pages/2018-honda/2018-Honda-pg02.jpg; bbox 2115,1339 165×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈85; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2018-Honda.html). Image data/sources/autocolorlibrary/pages/2018-honda/2018-Honda-pg02.jpg; bbox 2115,1339 165\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224885; verify chip alignment.",
         "provenanceId": "acl:honda:2018:R567M:2115,1339,165x210"
       }
     },
@@ -2328,7 +2328,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Honda.html). Image data/sources/autocolorlibrary/pages/2019-honda/2019_HondaAcura_02.jpg; bbox 1453,650 152×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈84; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Honda.html). Image data/sources/autocolorlibrary/pages/2019-honda/2019_HondaAcura_02.jpg; bbox 1453,650 152\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224884; verify chip alignment.",
         "provenanceId": "acl:honda:2019:R568P:1453,650,152x210"
       }
     },
@@ -2345,7 +2345,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Honda.html). Image data/sources/autocolorlibrary/pages/2019-honda/2019_HondaAcura_02.jpg; bbox 1846,647 158×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈91; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Honda.html). Image data/sources/autocolorlibrary/pages/2019-honda/2019_HondaAcura_02.jpg; bbox 1846,647 158\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224891; verify chip alignment.",
         "provenanceId": "acl:honda:2019:R569M:1846,647,158x210"
       }
     },
@@ -2362,7 +2362,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Honda.html). Image data/sources/autocolorlibrary/pages/2019-honda/2019_HondaAcura_02.jpg; bbox 244,1135 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈94; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Honda.html). Image data/sources/autocolorlibrary/pages/2019-honda/2019_HondaAcura_02.jpg; bbox 244,1135 150\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224894; verify chip alignment.",
         "provenanceId": "acl:honda:2019:R81:244,1135,150x210"
       }
     },
@@ -2379,7 +2379,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Honda.html). Image data/sources/autocolorlibrary/pages/2019-honda/2019_HondaAcura_02.jpg; bbox 657,1133 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈96; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Honda.html). Image data/sources/autocolorlibrary/pages/2019-honda/2019_HondaAcura_02.jpg; bbox 657,1133 150\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224896; verify chip alignment.",
         "provenanceId": "acl:honda:2019:R94:657,1133,150x210"
       }
     },
@@ -2396,25 +2396,8 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2017-Honda.html). Image data/sources/autocolorlibrary/pages/2017-honda/2017-Honda-pg04.jpg; bbox 718,331 155×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈92; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2017-Honda.html). Image data/sources/autocolorlibrary/pages/2017-honda/2017-Honda-pg04.jpg; bbox 718,331 155\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224892; verify chip alignment.",
         "provenanceId": "acl:honda:2017:RP46P:718,331,155x210"
-      }
-    },
-    {
-      "code": "SE03",
-      "marketingName": "i... |",
-      "finish": "solid",
-      "lab": {
-        "L": 76.6,
-        "a": 12.37,
-        "b": 4.06,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "autocolorlibrary_swatch",
-        "confidence": "derived",
-        "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2005-Honda.html). Image data/sources/autocolorlibrary/pages/2005-honda/2005-Honda-pg02.jpg; bbox 182,166 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈48; verify chip alignment.",
-        "provenanceId": "acl:honda:2005:SE03:182,166,150x210"
       }
     },
     {
@@ -2430,7 +2413,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2009-Honda.html). Image data/sources/autocolorlibrary/pages/2009-honda/2009-Honda-pg03.jpg; bbox 1115,351 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈92; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2009-Honda.html). Image data/sources/autocolorlibrary/pages/2009-honda/2009-Honda-pg03.jpg; bbox 1115,351 150\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224892; verify chip alignment.",
         "provenanceId": "acl:honda:2009:Y65P:1115,351,150x210"
       }
     },
@@ -2447,7 +2430,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Honda.html). Image data/sources/autocolorlibrary/pages/2019-honda/2019_HondaAcura_02.jpg; bbox 1056,1130 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈87; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Honda.html). Image data/sources/autocolorlibrary/pages/2019-honda/2019_HondaAcura_02.jpg; bbox 1056,1130 150\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224887; verify chip alignment.",
         "provenanceId": "acl:honda:2019:Y70P:1056,1130,150x210"
       }
     },
@@ -2464,7 +2447,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2013-Honda.html). Image data/sources/autocolorlibrary/pages/2013-honda/2013-Honda-pg03.jpg; bbox 2006,1470 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈91; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2013-Honda.html). Image data/sources/autocolorlibrary/pages/2013-honda/2013-Honda-pg03.jpg; bbox 2006,1470 150\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224891; verify chip alignment.",
         "provenanceId": "acl:honda:2013:Y71M:2006,1470,150x210"
       }
     },
@@ -2481,7 +2464,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2017-Honda.html). Image data/sources/autocolorlibrary/pages/2017-honda/2017-Honda-pg04.jpg; bbox 1121,330 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈84; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2017-Honda.html). Image data/sources/autocolorlibrary/pages/2017-honda/2017-Honda-pg04.jpg; bbox 1121,330 150\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224884; verify chip alignment.",
         "provenanceId": "acl:honda:2017:Y72P:1121,330,150x210"
       }
     },
@@ -2498,7 +2481,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Honda.html). Image data/sources/autocolorlibrary/pages/2019-honda/2019_HondaAcura_02.jpg; bbox 1465,1128 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈92; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Honda.html). Image data/sources/autocolorlibrary/pages/2019-honda/2019_HondaAcura_02.jpg; bbox 1465,1128 150\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224892; verify chip alignment.",
         "provenanceId": "acl:honda:2019:Y78P:1465,1128,150x210"
       }
     },
@@ -2515,7 +2498,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2008-Honda.html). Image data/sources/autocolorlibrary/pages/2008-honda/2008-Honda-pg03.jpg; bbox 293,885 182×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈89; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2008-Honda.html). Image data/sources/autocolorlibrary/pages/2008-honda/2008-Honda-pg03.jpg; bbox 293,885 182\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224889; verify chip alignment.",
         "provenanceId": "acl:honda:2008:YR538M:293,885,182x210"
       }
     },
@@ -2532,7 +2515,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2008-Honda.html). Image data/sources/autocolorlibrary/pages/2008-honda/2008-Honda-pg03.jpg; bbox 706,883 181×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈92; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2008-Honda.html). Image data/sources/autocolorlibrary/pages/2008-honda/2008-Honda-pg03.jpg; bbox 706,883 181\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224892; verify chip alignment.",
         "provenanceId": "acl:honda:2008:YR552M:706,883,181x210"
       }
     },
@@ -2549,7 +2532,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2008-Honda.html). Image data/sources/autocolorlibrary/pages/2008-honda/2008-Honda-pg03.jpg; bbox 1118,881 175×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈91; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2008-Honda.html). Image data/sources/autocolorlibrary/pages/2008-honda/2008-Honda-pg03.jpg; bbox 1118,881 175\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224891; verify chip alignment.",
         "provenanceId": "acl:honda:2008:YR557P:1118,881,175x210"
       }
     },
@@ -2566,7 +2549,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2008-Honda.html). Image data/sources/autocolorlibrary/pages/2008-honda/2008-Honda-pg03.jpg; bbox 1530,880 175×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈92; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2008-Honda.html). Image data/sources/autocolorlibrary/pages/2008-honda/2008-Honda-pg03.jpg; bbox 1530,880 175\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224892; verify chip alignment.",
         "provenanceId": "acl:honda:2008:YR562P:1530,880,175x210"
       }
     },
@@ -2583,7 +2566,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2008-Honda.html). Image data/sources/autocolorlibrary/pages/2008-honda/2008-Honda-pg03.jpg; bbox 1943,878 181×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈92; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2008-Honda.html). Image data/sources/autocolorlibrary/pages/2008-honda/2008-Honda-pg03.jpg; bbox 1943,878 181\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224892; verify chip alignment.",
         "provenanceId": "acl:honda:2008:YR563M:1943,878,181x210"
       }
     },
@@ -2600,7 +2583,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2009-Honda.html). Image data/sources/autocolorlibrary/pages/2009-honda/2009-Honda-pg03.jpg; bbox 1534,349 182×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈90; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2009-Honda.html). Image data/sources/autocolorlibrary/pages/2009-honda/2009-Honda-pg03.jpg; bbox 1534,349 182\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224890; verify chip alignment.",
         "provenanceId": "acl:honda:2009:YR566M:1534,349,182x210"
       }
     },
@@ -2617,7 +2600,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2012-Honda.html). Image data/sources/autocolorlibrary/pages/2012-honda/2012-Honda-pg02.jpg; bbox 1556,2034 182×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈83; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2012-Honda.html). Image data/sources/autocolorlibrary/pages/2012-honda/2012-Honda-pg02.jpg; bbox 1556,2034 182\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224883; verify chip alignment.",
         "provenanceId": "acl:honda:2012:YR569M:1556,2034,182x210"
       }
     },
@@ -2634,7 +2617,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2013-Honda.html). Image data/sources/autocolorlibrary/pages/2013-honda/2013-Honda-pg03.jpg; bbox 322,2038 182×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈91; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2013-Honda.html). Image data/sources/autocolorlibrary/pages/2013-honda/2013-Honda-pg03.jpg; bbox 322,2038 182\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224891; verify chip alignment.",
         "provenanceId": "acl:honda:2013:YR573M:322,2038,182x210"
       }
     },
@@ -2651,7 +2634,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2009-Honda.html). Image data/sources/autocolorlibrary/pages/2009-honda/2009-Honda-pg03.jpg; bbox 711,916 181×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈92; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2009-Honda.html). Image data/sources/autocolorlibrary/pages/2009-honda/2009-Honda-pg03.jpg; bbox 711,916 181\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224892; verify chip alignment.",
         "provenanceId": "acl:honda:2009:YR574M:711,916,181x210"
       }
     },
@@ -2668,7 +2651,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2009-Honda.html). Image data/sources/autocolorlibrary/pages/2009-honda/2009-Honda-pg03.jpg; bbox 1123,915 181×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈91; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2009-Honda.html). Image data/sources/autocolorlibrary/pages/2009-honda/2009-Honda-pg03.jpg; bbox 1123,915 181\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224891; verify chip alignment.",
         "provenanceId": "acl:honda:2009:YR575M:1123,915,181x210"
       }
     },
@@ -2685,7 +2668,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2011-Honda.html). Image data/sources/autocolorlibrary/pages/2011-honda/2011-Honda-pg02.jpg; bbox 1149,1456 181×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈91; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2011-Honda.html). Image data/sources/autocolorlibrary/pages/2011-honda/2011-Honda-pg02.jpg; bbox 1149,1456 181\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224891; verify chip alignment.",
         "provenanceId": "acl:honda:2011:YR576M:1149,1456,181x210"
       }
     },
@@ -2702,7 +2685,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2011-Honda.html). Image data/sources/autocolorlibrary/pages/2011-honda/2011-Honda-pg02.jpg; bbox 1570,1454 174×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈90; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2011-Honda.html). Image data/sources/autocolorlibrary/pages/2011-honda/2011-Honda-pg02.jpg; bbox 1570,1454 174\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224890; verify chip alignment.",
         "provenanceId": "acl:honda:2011:YR577P:1570,1454,174x210"
       }
     },
@@ -2719,7 +2702,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2010-Honda.html). Image data/sources/autocolorlibrary/pages/2010-honda/2010-Honda-pg02.jpg; bbox 732,2605 181×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈0; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2010-Honda.html). Image data/sources/autocolorlibrary/pages/2010-honda/2010-Honda-pg02.jpg; bbox 732,2605 181\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u22480; verify chip alignment.",
         "provenanceId": "acl:honda:2010:YR5782M:732,2605,181x210"
       }
     },
@@ -2736,7 +2719,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2015-Honda.html). Image data/sources/autocolorlibrary/pages/2015-honda/2015-Honda-pg03.jpg; bbox 1139,909 181×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈93; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2015-Honda.html). Image data/sources/autocolorlibrary/pages/2015-honda/2015-Honda-pg03.jpg; bbox 1139,909 181\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224893; verify chip alignment.",
         "provenanceId": "acl:honda:2015:YR578M:1139,909,181x210"
       }
     },
@@ -2753,7 +2736,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2010-Honda.html). Image data/sources/autocolorlibrary/pages/2010-honda/2010-Honda-pg02.jpg; bbox 1144,2603 181×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈87; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2010-Honda.html). Image data/sources/autocolorlibrary/pages/2010-honda/2010-Honda-pg02.jpg; bbox 1144,2603 181\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224887; verify chip alignment.",
         "provenanceId": "acl:honda:2010:YR579M:1144,2603,181x210"
       }
     },
@@ -2770,7 +2753,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Honda.html). Image data/sources/autocolorlibrary/pages/2019-honda/2019_HondaAcura_02.jpg; bbox 1851,1125 153×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈91; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Honda.html). Image data/sources/autocolorlibrary/pages/2019-honda/2019_HondaAcura_02.jpg; bbox 1851,1125 153\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224891; verify chip alignment.",
         "provenanceId": "acl:honda:2019:YR585:1851,1125,153x210"
       }
     },
@@ -2787,7 +2770,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2015-Honda.html). Image data/sources/autocolorlibrary/pages/2015-honda/2015-Honda-pg03.jpg; bbox 1552,908 181×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈92; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2015-Honda.html). Image data/sources/autocolorlibrary/pages/2015-honda/2015-Honda-pg03.jpg; bbox 1552,908 181\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224892; verify chip alignment.",
         "provenanceId": "acl:honda:2015:YR587M:1552,908,181x210"
       }
     },
@@ -2804,7 +2787,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2013-Honda.html). Image data/sources/autocolorlibrary/pages/2013-honda/2013-Honda-pg03.jpg; bbox 1568,2035 174×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈90; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2013-Honda.html). Image data/sources/autocolorlibrary/pages/2013-honda/2013-Honda-pg03.jpg; bbox 1568,2035 174\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224890; verify chip alignment.",
         "provenanceId": "acl:honda:2013:YR589P:1568,2035,174x210"
       }
     },
@@ -2821,7 +2804,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Honda.html). Image data/sources/autocolorlibrary/pages/2019-honda/2019_HondaAcura_02.jpg; bbox 206,1613 174×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈93; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Honda.html). Image data/sources/autocolorlibrary/pages/2019-honda/2019_HondaAcura_02.jpg; bbox 206,1613 174\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224893; verify chip alignment.",
         "provenanceId": "acl:honda:2019:YR591P:206,1613,174x210"
       }
     },
@@ -2838,7 +2821,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Honda.html). Image data/sources/autocolorlibrary/pages/2019-honda/2019_HondaAcura_02.jpg; bbox 608,1611 181×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈92; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Honda.html). Image data/sources/autocolorlibrary/pages/2019-honda/2019_HondaAcura_02.jpg; bbox 608,1611 181\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224892; verify chip alignment.",
         "provenanceId": "acl:honda:2019:YR592M:608,1611,181x210"
       }
     },
@@ -2855,7 +2838,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2014-Honda.html). Image data/sources/autocolorlibrary/pages/2014-honda/2014-Honda-pg02.jpg; bbox 1477,1410 175×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈92; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2014-Honda.html). Image data/sources/autocolorlibrary/pages/2014-honda/2014-Honda-pg02.jpg; bbox 1477,1410 175\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224892; verify chip alignment.",
         "provenanceId": "acl:honda:2014:YR593P:1477,1410,175x210"
       }
     },
@@ -2872,7 +2855,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2015-Honda.html). Image data/sources/autocolorlibrary/pages/2015-honda/2015-Honda-pg03.jpg; bbox 323,1475 174×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈91; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2015-Honda.html). Image data/sources/autocolorlibrary/pages/2015-honda/2015-Honda-pg03.jpg; bbox 323,1475 174\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224891; verify chip alignment.",
         "provenanceId": "acl:honda:2015:YR594P:323,1475,174x210"
       }
     },
@@ -2889,7 +2872,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Honda.html). Image data/sources/autocolorlibrary/pages/2019-honda/2019_HondaAcura_02.jpg; bbox 1018,1608 181×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈91; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Honda.html). Image data/sources/autocolorlibrary/pages/2019-honda/2019_HondaAcura_02.jpg; bbox 1018,1608 181\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224891; verify chip alignment.",
         "provenanceId": "acl:honda:2019:YR596M:1018,1608,181x210"
       }
     },
@@ -2906,7 +2889,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2018-Honda.html). Image data/sources/autocolorlibrary/pages/2018-honda/2018-Honda-pg02.jpg; bbox 1216,2360 189×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈89; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2018-Honda.html). Image data/sources/autocolorlibrary/pages/2018-honda/2018-Honda-pg02.jpg; bbox 1216,2360 189\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224889; verify chip alignment.",
         "provenanceId": "acl:honda:2018:YR600M:1216,2360,189x210"
       }
     },
@@ -2923,7 +2906,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Honda.html). Image data/sources/autocolorlibrary/pages/2019-honda/2019_HondaAcura_02.jpg; bbox 1436,1606 173×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈93; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Honda.html). Image data/sources/autocolorlibrary/pages/2019-honda/2019_HondaAcura_02.jpg; bbox 1436,1606 173\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224893; verify chip alignment.",
         "provenanceId": "acl:honda:2019:YR601P:1436,1606,173x210"
       }
     },
@@ -2940,7 +2923,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2017-Honda.html). Image data/sources/autocolorlibrary/pages/2017-honda/2017-Honda-pg04.jpg; bbox 1129,893 181×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈89; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2017-Honda.html). Image data/sources/autocolorlibrary/pages/2017-honda/2017-Honda-pg04.jpg; bbox 1129,893 181\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224889; verify chip alignment.",
         "provenanceId": "acl:honda:2017:YR602M:1129,893,181x210"
       }
     },
@@ -2957,7 +2940,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2015-Honda.html). Image data/sources/autocolorlibrary/pages/2015-honda/2015-Honda-pg03.jpg; bbox 1973,1472 174×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈89; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2015-Honda.html). Image data/sources/autocolorlibrary/pages/2015-honda/2015-Honda-pg03.jpg; bbox 1973,1472 174\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224889; verify chip alignment.",
         "provenanceId": "acl:honda:2015:YR612P:1973,1472,174x210"
       }
     },
@@ -2974,7 +2957,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Honda.html). Image data/sources/autocolorlibrary/pages/2019-honda/2019_HondaAcura_02.jpg; bbox 1824,1603 180×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈93; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Honda.html). Image data/sources/autocolorlibrary/pages/2019-honda/2019_HondaAcura_02.jpg; bbox 1824,1603 180\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224893; verify chip alignment.",
         "provenanceId": "acl:honda:2019:YR620M:1824,1603,180x210"
       }
     },
@@ -2991,7 +2974,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Honda.html). Image data/sources/autocolorlibrary/pages/2019-honda/2019_HondaAcura_02.jpg; bbox 200,2091 181×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈92; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Honda.html). Image data/sources/autocolorlibrary/pages/2019-honda/2019_HondaAcura_02.jpg; bbox 200,2091 181\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224892; verify chip alignment.",
         "provenanceId": "acl:honda:2019:YR632M:200,2091,181x210"
       }
     },
@@ -3008,7 +2991,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Honda.html). Image data/sources/autocolorlibrary/pages/2019-honda/2019_HondaAcura_02.jpg; bbox 619,2089 174×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈92; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Honda.html). Image data/sources/autocolorlibrary/pages/2019-honda/2019_HondaAcura_02.jpg; bbox 619,2089 174\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224892; verify chip alignment.",
         "provenanceId": "acl:honda:2019:YR647P:619,2089,174x210"
       }
     },
@@ -3025,7 +3008,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2010-Honda.html). Image data/sources/autocolorlibrary/pages/2010-honda/2010-Honda-pg02.jpg; bbox 732,2040 181×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈42; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2010-Honda.html). Image data/sources/autocolorlibrary/pages/2010-honda/2010-Honda-pg02.jpg; bbox 732,2040 181\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224842; verify chip alignment.",
         "provenanceId": "acl:honda:2010:YRS73M:732,2040,181x210"
       }
     },
@@ -3042,7 +3025,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2010-Honda.html). Image data/sources/autocolorlibrary/pages/2010-honda/2010-Honda-pg02.jpg; bbox 1144,2039 181×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈60; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2010-Honda.html). Image data/sources/autocolorlibrary/pages/2010-honda/2010-Honda-pg02.jpg; bbox 1144,2039 181\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224860; verify chip alignment.",
         "provenanceId": "acl:honda:2010:YRS74M:1144,2039,181x210"
       }
     },
@@ -3059,7 +3042,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2013-Honda.html). Image data/sources/autocolorlibrary/pages/2013-honda/2013-Honda-pg03.jpg; bbox 1147,2036 181×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈49; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2013-Honda.html). Image data/sources/autocolorlibrary/pages/2013-honda/2013-Honda-pg03.jpg; bbox 1147,2036 181\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224849; verify chip alignment.",
         "provenanceId": "acl:honda:2013:YRS87M:1147,2036,181x210"
       }
     }

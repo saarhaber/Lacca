@@ -567,6 +567,13 @@ select {
   border: 1px solid var(--border);
   background: #fff;
   color: var(--ink);
+  width: 100%;
+  transition: border-color 0.12s ease;
+}
+
+select:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: 1px;
 }
 
 select:disabled {
@@ -688,6 +695,12 @@ input[type="text"]:focus-visible {
   margin-top: 1.75rem;
   padding-top: 1.5rem;
   border-top: 1px solid var(--border);
+  animation: fade-in 0.3s ease;
+}
+
+@keyframes fade-in {
+  from { opacity: 0; transform: translateY(8px); }
+  to { opacity: 1; transform: translateY(0); }
 }
 
 .results h2 {

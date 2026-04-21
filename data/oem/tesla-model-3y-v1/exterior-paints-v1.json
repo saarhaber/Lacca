@@ -48,7 +48,7 @@
         "source": "placeholder_prototype",
         "confidence": "estimated",
         "recordedAt": "2026-04-16",
-        "notes": "Metallic: rank with ΔE but disclose angle/light sensitivity."
+        "notes": "Metallic: rank with \u0394E but disclose angle/light sensitivity."
       }
     },
     {
@@ -193,54 +193,6 @@
         "confidence": "estimated",
         "recordedAt": "2026-04-16",
         "notes": "Regional/option package; verify before production."
-      }
-    },
-    {
-      "code": "WRAP_MATTE_BLACK",
-      "marketingName": "Aftermarket matte black film (non-factory; optional v1)",
-      "finish": "matte",
-      "lab": {
-        "L": 4.5,
-        "a": 0.1,
-        "b": -0.5,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "placeholder_prototype",
-        "confidence": "estimated",
-        "recordedAt": "2026-04-16",
-        "notes": "LAB captures average color; texture not modeled. Omit from OEM-only demos."
-      }
-    },
-    {
-      "code": "TBD_MEASURED_01",
-      "marketingName": "Reserved slot — replace with factory code + measured LAB",
-      "finish": "solid",
-      "lab": {
-        "L": 50.0,
-        "a": 0.0,
-        "b": 0.0,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "placeholder_prototype",
-        "confidence": "estimated",
-        "recordedAt": "2026-04-16",
-        "notes": "Holds a neutral LAB until a physical chip is measured."
-      }
-    },
-    {
-      "code": "TBD_MEASURED_02",
-      "marketingName": "Reserved slot — replace with factory code + measured LAB",
-      "finish": "solid",
-      "lab": {
-        "L": 50.0,
-        "a": 0.0,
-        "b": 0.0,
-        "illuminant": "D65",
-        "observer": "2deg",
-        "source": "placeholder_prototype",
-        "confidence": "estimated",
-        "recordedAt": "2026-04-16",
-        "notes": "Holds a neutral LAB until a physical chip is measured."
       }
     }
   ]

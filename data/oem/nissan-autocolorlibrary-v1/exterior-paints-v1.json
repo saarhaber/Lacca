@@ -16,7 +16,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2008-Nissan.html). Image data/sources/autocolorlibrary/pages/2008-nissan/2008-Nissan-pg03.jpg; bbox 273,2660 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈80; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2008-Nissan.html). Image data/sources/autocolorlibrary/pages/2008-nissan/2008-Nissan-pg03.jpg; bbox 273,2660 150\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224880; verify chip alignment.",
         "provenanceId": "acl:nissan:2008:A15:273,2660,150x210"
       }
     },
@@ -33,7 +33,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2017-Nissan.html). Image data/sources/autocolorlibrary/pages/2017-nissan/2017-Nissan-pg02.jpg; bbox 280,331 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈93; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2017-Nissan.html). Image data/sources/autocolorlibrary/pages/2017-nissan/2017-Nissan-pg02.jpg; bbox 280,331 150\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224893; verify chip alignment.",
         "provenanceId": "acl:nissan:2017:A20:280,331,150x210"
       }
     },
@@ -50,7 +50,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2010-Nissan.html). Image data/sources/autocolorlibrary/pages/2010-nissan/2010-Nissan-pg01.jpg; bbox 684,333 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈93; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2010-Nissan.html). Image data/sources/autocolorlibrary/pages/2010-nissan/2010-Nissan-pg01.jpg; bbox 684,333 150\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224893; verify chip alignment.",
         "provenanceId": "acl:nissan:2010:A33:684,333,150x210"
       }
     },
@@ -67,7 +67,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2008-Nissan.html). Image data/sources/autocolorlibrary/pages/2008-nissan/2008-Nissan-pg01.jpg; bbox 1930,322 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈91; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2008-Nissan.html). Image data/sources/autocolorlibrary/pages/2008-nissan/2008-Nissan-pg01.jpg; bbox 1930,322 150\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224891; verify chip alignment.",
         "provenanceId": "acl:nissan:2008:A50:1930,322,150x210"
       }
     },
@@ -84,7 +84,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2017-Nissan.html). Image data/sources/autocolorlibrary/pages/2017-nissan/2017-Nissan-pg02.jpg; bbox 695,334 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈80; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2017-Nissan.html). Image data/sources/autocolorlibrary/pages/2017-nissan/2017-Nissan-pg02.jpg; bbox 695,334 150\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224880; verify chip alignment.",
         "provenanceId": "acl:nissan:2017:A54:695,334,150x210"
       }
     },
@@ -101,7 +101,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2010-Nissan.html). Image data/sources/autocolorlibrary/pages/2010-nissan/2010-Nissan-pg01.jpg; bbox 1508,331 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈68; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2010-Nissan.html). Image data/sources/autocolorlibrary/pages/2010-nissan/2010-Nissan-pg01.jpg; bbox 1508,331 150\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224868; verify chip alignment.",
         "provenanceId": "acl:nissan:2010:A55:1508,331,150x210"
       }
     },
@@ -118,7 +118,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2017-Nissan.html). Image data/sources/autocolorlibrary/pages/2017-nissan/2017-Nissan-pg02.jpg; bbox 1107,332 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈96; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2017-Nissan.html). Image data/sources/autocolorlibrary/pages/2017-nissan/2017-Nissan-pg02.jpg; bbox 1107,332 150\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224896; verify chip alignment.",
         "provenanceId": "acl:nissan:2017:B17:1107,332,150x210"
       }
     },
@@ -135,7 +135,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2007-Nissan.html). Image data/sources/autocolorlibrary/pages/2007-nissan/2007-Nissan-pg03.jpg; bbox 391,1365 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈77; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2007-Nissan.html). Image data/sources/autocolorlibrary/pages/2007-nissan/2007-Nissan-pg03.jpg; bbox 391,1365 150\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224877; verify chip alignment.",
         "provenanceId": "acl:nissan:2007:B18:391,1365,150x210"
       }
     },
@@ -152,13 +152,13 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2014-Nissan.html). Image data/sources/autocolorlibrary/pages/2014-nissan/2014-Nissan-pg01.jpg; bbox 1269,306 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈97; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2014-Nissan.html). Image data/sources/autocolorlibrary/pages/2014-nissan/2014-Nissan-pg01.jpg; bbox 1269,306 150\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224897; verify chip alignment.",
         "provenanceId": "acl:nissan:2014:B20:1269,306,150x210"
       }
     },
     {
       "code": "B21",
-      "marketingName": "Athens Blue Pear!",
+      "marketingName": "Athens Blue Pearl",
       "finish": "solid",
       "lab": {
         "L": 33.59,
@@ -169,7 +169,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2010-Nissan.html). Image data/sources/autocolorlibrary/pages/2010-nissan/2010-Nissan-pg01.jpg; bbox 1507,895 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈94; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2010-Nissan.html). Image data/sources/autocolorlibrary/pages/2010-nissan/2010-Nissan-pg01.jpg; bbox 1507,895 150\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224894; verify chip alignment.",
         "provenanceId": "acl:nissan:2010:B21:1507,895,150x210"
       }
     },
@@ -186,7 +186,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2014-Nissan.html). Image data/sources/autocolorlibrary/pages/2014-nissan/2014-Nissan-pg01.jpg; bbox 1681,306 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈97; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2014-Nissan.html). Image data/sources/autocolorlibrary/pages/2014-nissan/2014-Nissan-pg01.jpg; bbox 1681,306 150\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224897; verify chip alignment.",
         "provenanceId": "acl:nissan:2014:B23:1681,306,150x210"
       }
     },
@@ -203,7 +203,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2008-Nissan.html). Image data/sources/autocolorlibrary/pages/2008-nissan/2008-Nissan-pg03.jpg; bbox 686,2096 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈97; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2008-Nissan.html). Image data/sources/autocolorlibrary/pages/2008-nissan/2008-Nissan-pg03.jpg; bbox 686,2096 150\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224897; verify chip alignment.",
         "provenanceId": "acl:nissan:2008:B25:686,2096,150x210"
       }
     },
@@ -220,7 +220,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2012-Nissan.html). Image data/sources/autocolorlibrary/pages/2012-nissan/2012-Nissan-pg01.jpg; bbox 682,904 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈97; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2012-Nissan.html). Image data/sources/autocolorlibrary/pages/2012-nissan/2012-Nissan-pg01.jpg; bbox 682,904 150\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224897; verify chip alignment.",
         "provenanceId": "acl:nissan:2012:B30:682,904,150x210"
       }
     },
@@ -237,7 +237,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2012-Nissan.html). Image data/sources/autocolorlibrary/pages/2012-nissan/2012-Nissan-pg01.jpg; bbox 1092,902 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈94; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2012-Nissan.html). Image data/sources/autocolorlibrary/pages/2012-nissan/2012-Nissan-pg01.jpg; bbox 1092,902 150\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224894; verify chip alignment.",
         "provenanceId": "acl:nissan:2012:B51:1092,902,150x210"
       }
     },
@@ -254,7 +254,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2010-Nissan.html). Image data/sources/autocolorlibrary/pages/2010-nissan/2010-Nissan-pg01.jpg; bbox 685,1463 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈92; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2010-Nissan.html). Image data/sources/autocolorlibrary/pages/2010-nissan/2010-Nissan-pg01.jpg; bbox 685,1463 150\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224892; verify chip alignment.",
         "provenanceId": "acl:nissan:2010:B53:685,1463,150x210"
       }
     },
@@ -271,7 +271,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2010-Nissan.html). Image data/sources/autocolorlibrary/pages/2010-nissan/2010-Nissan-pg01.jpg; bbox 1098,1461 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈87; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2010-Nissan.html). Image data/sources/autocolorlibrary/pages/2010-nissan/2010-Nissan-pg01.jpg; bbox 1098,1461 150\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224887; verify chip alignment.",
         "provenanceId": "acl:nissan:2010:B54:1098,1461,150x210"
       }
     },
@@ -288,13 +288,13 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2007-Nissan.html). Image data/sources/autocolorlibrary/pages/2007-nissan/2007-Nissan-pg04.jpg; bbox 516,631 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈94; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2007-Nissan.html). Image data/sources/autocolorlibrary/pages/2007-nissan/2007-Nissan-pg04.jpg; bbox 516,631 150\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224894; verify chip alignment.",
         "provenanceId": "acl:nissan:2007:C12:516,631,150x210"
       }
     },
     {
       "code": "C16",
-      "marketingName": "Majestic Blue Pearl Mocha Pear!",
+      "marketingName": "Majestic Blue Pearl",
       "finish": "pearl",
       "lab": {
         "L": 40.92,
@@ -305,7 +305,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2008-Nissan.html). Image data/sources/autocolorlibrary/pages/2008-nissan/2008-Nissan-pg01.jpg; bbox 1931,2013 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈66; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2008-Nissan.html). Image data/sources/autocolorlibrary/pages/2008-nissan/2008-Nissan-pg01.jpg; bbox 1931,2013 150\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224866; verify chip alignment.",
         "provenanceId": "acl:nissan:2008:C16:1931,2013,150x210"
       }
     },
@@ -322,7 +322,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2010-Nissan.html). Image data/sources/autocolorlibrary/pages/2010-nissan/2010-Nissan-pg01.jpg; bbox 1509,1459 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈96; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2010-Nissan.html). Image data/sources/autocolorlibrary/pages/2010-nissan/2010-Nissan-pg01.jpg; bbox 1509,1459 150\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224896; verify chip alignment.",
         "provenanceId": "acl:nissan:2010:C43:1509,1459,150x210"
       }
     },
@@ -339,7 +339,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2007-Nissan.html). Image data/sources/autocolorlibrary/pages/2007-nissan/2007-Nissan-pg04.jpg; bbox 1382,388 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈84; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2007-Nissan.html). Image data/sources/autocolorlibrary/pages/2007-nissan/2007-Nissan-pg04.jpg; bbox 1382,388 150\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224884; verify chip alignment.",
         "provenanceId": "acl:nissan:2007:C50:1382,388,150x210"
       }
     },
@@ -356,7 +356,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2008-Nissan.html). Image data/sources/autocolorlibrary/pages/2008-nissan/2008-Nissan-pg01.jpg; bbox 1107,2579 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈83; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2008-Nissan.html). Image data/sources/autocolorlibrary/pages/2008-nissan/2008-Nissan-pg01.jpg; bbox 1107,2579 150\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224883; verify chip alignment.",
         "provenanceId": "acl:nissan:2008:D51:1107,2579,150x210"
       }
     },
@@ -373,7 +373,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2008-Nissan.html). Image data/sources/autocolorlibrary/pages/2008-nissan/2008-Nissan-pg01.jpg; bbox 1518,2578 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈97; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2008-Nissan.html). Image data/sources/autocolorlibrary/pages/2008-nissan/2008-Nissan-pg01.jpg; bbox 1518,2578 150\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224897; verify chip alignment.",
         "provenanceId": "acl:nissan:2008:E10:1518,2578,150x210"
       }
     },
@@ -390,7 +390,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2008-Nissan.html). Image data/sources/autocolorlibrary/pages/2008-nissan/2008-Nissan-pg01.jpg; bbox 1930,2577 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈97; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2008-Nissan.html). Image data/sources/autocolorlibrary/pages/2008-nissan/2008-Nissan-pg01.jpg; bbox 1930,2577 150\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224897; verify chip alignment.",
         "provenanceId": "acl:nissan:2008:E50:1930,2577,150x210"
       }
     },
@@ -407,7 +407,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2011-Nissan.html). Image data/sources/autocolorlibrary/pages/2011-nissan/2011-Nissan-pg02.jpg; bbox 715,2931 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈53; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2011-Nissan.html). Image data/sources/autocolorlibrary/pages/2011-nissan/2011-Nissan-pg02.jpg; bbox 715,2931 150\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224853; verify chip alignment.",
         "provenanceId": "acl:nissan:2011:EX35:715,2931,150x210"
       }
     },
@@ -424,7 +424,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2014-Nissan.html). Image data/sources/autocolorlibrary/pages/2014-nissan/2014-Nissan-pg01.jpg; bbox 1265,1995 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈46; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2014-Nissan.html). Image data/sources/autocolorlibrary/pages/2014-nissan/2014-Nissan-pg01.jpg; bbox 1265,1995 150\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224846; verify chip alignment.",
         "provenanceId": "acl:nissan:2014:G10:1265,1995,150x210"
       }
     },
@@ -441,7 +441,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2008-Nissan.html). Image data/sources/autocolorlibrary/pages/2008-nissan/2008-Nissan-pg03.jpg; bbox 275,402 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈96; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2008-Nissan.html). Image data/sources/autocolorlibrary/pages/2008-nissan/2008-Nissan-pg03.jpg; bbox 275,402 150\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224896; verify chip alignment.",
         "provenanceId": "acl:nissan:2008:G35:275,402,150x210"
       }
     },
@@ -458,7 +458,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2008-Nissan.html). Image data/sources/autocolorlibrary/pages/2008-nissan/2008-Nissan-pg01.jpg; bbox 693,1525 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈97; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2008-Nissan.html). Image data/sources/autocolorlibrary/pages/2008-nissan/2008-Nissan-pg01.jpg; bbox 693,1525 150\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224897; verify chip alignment.",
         "provenanceId": "acl:nissan:2008:G37:693,1525,150x210"
       }
     },
@@ -475,7 +475,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2014-Nissan.html). Image data/sources/autocolorlibrary/pages/2014-nissan/2014-Nissan-pg01.jpg; bbox 1675,1995 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈95; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2014-Nissan.html). Image data/sources/autocolorlibrary/pages/2014-nissan/2014-Nissan-pg01.jpg; bbox 1675,1995 150\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224895; verify chip alignment.",
         "provenanceId": "acl:nissan:2014:G41:1675,1995,150x210"
       }
     },
@@ -492,7 +492,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2008-Nissan.html). Image data/sources/autocolorlibrary/pages/2008-nissan/2008-Nissan-pg02.jpg; bbox 366,888 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈91; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2008-Nissan.html). Image data/sources/autocolorlibrary/pages/2008-nissan/2008-Nissan-pg02.jpg; bbox 366,888 150\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224891; verify chip alignment.",
         "provenanceId": "acl:nissan:2008:J40:366,888,150x210"
       }
     },
@@ -509,7 +509,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2011-Nissan.html). Image data/sources/autocolorlibrary/pages/2011-nissan/2011-Nissan-pg02.jpg; bbox 1197,314 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈65; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2011-Nissan.html). Image data/sources/autocolorlibrary/pages/2011-nissan/2011-Nissan-pg02.jpg; bbox 1197,314 150\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224865; verify chip alignment.",
         "provenanceId": "acl:nissan:2011:K11:1197,314,150x210"
       }
     },
@@ -526,7 +526,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2011-Nissan.html). Image data/sources/autocolorlibrary/pages/2011-nissan/2011-Nissan-pg02.jpg; bbox 1611,312 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈92; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2011-Nissan.html). Image data/sources/autocolorlibrary/pages/2011-nissan/2011-Nissan-pg02.jpg; bbox 1611,312 150\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224892; verify chip alignment.",
         "provenanceId": "acl:nissan:2011:K12:1611,312,150x210"
       }
     },
@@ -543,7 +543,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2014-Nissan.html). Image data/sources/autocolorlibrary/pages/2014-nissan/2014-Nissan-pg02.jpg; bbox 713,312 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈92; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2014-Nissan.html). Image data/sources/autocolorlibrary/pages/2014-nissan/2014-Nissan-pg02.jpg; bbox 713,312 150\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224892; verify chip alignment.",
         "provenanceId": "acl:nissan:2014:K13:713,312,150x210"
       }
     },
@@ -560,7 +560,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2011-Nissan.html). Image data/sources/autocolorlibrary/pages/2011-nissan/2011-Nissan-pg02.jpg; bbox 2022,310 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈92; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2011-Nissan.html). Image data/sources/autocolorlibrary/pages/2011-nissan/2011-Nissan-pg02.jpg; bbox 2022,310 150\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224892; verify chip alignment.",
         "provenanceId": "acl:nissan:2011:K21:2022,310,150x210"
       }
     },
@@ -577,7 +577,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2014-Nissan.html). Image data/sources/autocolorlibrary/pages/2014-nissan/2014-Nissan-pg02.jpg; bbox 1123,307 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈93; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2014-Nissan.html). Image data/sources/autocolorlibrary/pages/2014-nissan/2014-Nissan-pg02.jpg; bbox 1123,307 150\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224893; verify chip alignment.",
         "provenanceId": "acl:nissan:2014:K23:1123,307,150x210"
       }
     },
@@ -594,7 +594,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2008-Nissan.html). Image data/sources/autocolorlibrary/pages/2008-nissan/2008-Nissan-pg02.jpg; bbox 366,1453 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈92; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2008-Nissan.html). Image data/sources/autocolorlibrary/pages/2008-nissan/2008-Nissan-pg02.jpg; bbox 366,1453 150\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224892; verify chip alignment.",
         "provenanceId": "acl:nissan:2008:K25:366,1453,150x210"
       }
     },
@@ -611,7 +611,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2014-Nissan.html). Image data/sources/autocolorlibrary/pages/2014-nissan/2014-Nissan-pg02.jpg; bbox 1539,311 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈92; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2014-Nissan.html). Image data/sources/autocolorlibrary/pages/2014-nissan/2014-Nissan-pg02.jpg; bbox 1539,311 150\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224892; verify chip alignment.",
         "provenanceId": "acl:nissan:2014:K26:1539,311,150x210"
       }
     },
@@ -628,7 +628,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2009-Nissan.html). Image data/sources/autocolorlibrary/pages/2009-nissan/2009-Nissan-pg02.jpg; bbox 780,1469 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈91; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2009-Nissan.html). Image data/sources/autocolorlibrary/pages/2009-nissan/2009-Nissan-pg02.jpg; bbox 780,1469 150\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224891; verify chip alignment.",
         "provenanceId": "acl:nissan:2009:K27:780,1469,150x210"
       }
     },
@@ -645,7 +645,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2009-Nissan.html). Image data/sources/autocolorlibrary/pages/2009-nissan/2009-Nissan-pg02.jpg; bbox 1192,1472 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈93; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2009-Nissan.html). Image data/sources/autocolorlibrary/pages/2009-nissan/2009-Nissan-pg02.jpg; bbox 1192,1472 150\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224893; verify chip alignment.",
         "provenanceId": "acl:nissan:2009:K32:1192,1472,150x210"
       }
     },
@@ -662,7 +662,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2014-Nissan.html). Image data/sources/autocolorlibrary/pages/2014-nissan/2014-Nissan-pg02.jpg; bbox 1951,310 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈92; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2014-Nissan.html). Image data/sources/autocolorlibrary/pages/2014-nissan/2014-Nissan-pg02.jpg; bbox 1951,310 150\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224892; verify chip alignment.",
         "provenanceId": "acl:nissan:2014:K36:1951,310,150x210"
       }
     },
@@ -679,7 +679,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2009-Nissan.html). Image data/sources/autocolorlibrary/pages/2009-nissan/2009-Nissan-pg02.jpg; bbox 2016,1470 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈93; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2009-Nissan.html). Image data/sources/autocolorlibrary/pages/2009-nissan/2009-Nissan-pg02.jpg; bbox 2016,1470 150\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224893; verify chip alignment.",
         "provenanceId": "acl:nissan:2009:K37:2016,1470,150x210"
       }
     },
@@ -696,7 +696,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2014-Nissan.html). Image data/sources/autocolorlibrary/pages/2014-nissan/2014-Nissan-pg02.jpg; bbox 299,876 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈91; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2014-Nissan.html). Image data/sources/autocolorlibrary/pages/2014-nissan/2014-Nissan-pg02.jpg; bbox 299,876 150\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224891; verify chip alignment.",
         "provenanceId": "acl:nissan:2014:K50:299,876,150x210"
       }
     },
@@ -713,7 +713,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2014-Nissan.html). Image data/sources/autocolorlibrary/pages/2014-nissan/2014-Nissan-pg02.jpg; bbox 711,876 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈89; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2014-Nissan.html). Image data/sources/autocolorlibrary/pages/2014-nissan/2014-Nissan-pg02.jpg; bbox 711,876 150\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224889; verify chip alignment.",
         "provenanceId": "acl:nissan:2014:K51:711,876,150x210"
       }
     },
@@ -730,7 +730,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2014-Nissan.html). Image data/sources/autocolorlibrary/pages/2014-nissan/2014-Nissan-pg02.jpg; bbox 1125,875 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈91; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2014-Nissan.html). Image data/sources/autocolorlibrary/pages/2014-nissan/2014-Nissan-pg02.jpg; bbox 1125,875 150\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224891; verify chip alignment.",
         "provenanceId": "acl:nissan:2014:K52:1125,875,150x210"
       }
     },
@@ -747,7 +747,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2010-Nissan.html). Image data/sources/autocolorlibrary/pages/2010-nissan/2010-Nissan-pg02.jpg; bbox 783,1462 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈91; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2010-Nissan.html). Image data/sources/autocolorlibrary/pages/2010-nissan/2010-Nissan-pg02.jpg; bbox 783,1462 150\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224891; verify chip alignment.",
         "provenanceId": "acl:nissan:2010:K55:783,1462,150x210"
       }
     },
@@ -764,7 +764,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2010-Nissan.html). Image data/sources/autocolorlibrary/pages/2010-nissan/2010-Nissan-pg02.jpg; bbox 1195,1461 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈91; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2010-Nissan.html). Image data/sources/autocolorlibrary/pages/2010-nissan/2010-Nissan-pg02.jpg; bbox 1195,1461 150\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224891; verify chip alignment.",
         "provenanceId": "acl:nissan:2010:K57:1195,1461,150x210"
       }
     },
@@ -781,7 +781,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2008-Nissan.html). Image data/sources/autocolorlibrary/pages/2008-nissan/2008-Nissan-pg03.jpg; bbox 689,330 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈92; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2008-Nissan.html). Image data/sources/autocolorlibrary/pages/2008-nissan/2008-Nissan-pg03.jpg; bbox 689,330 150\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224892; verify chip alignment.",
         "provenanceId": "acl:nissan:2008:L50:689,330,150x210"
       }
     },
@@ -798,7 +798,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2007-Nissan.html). Image data/sources/autocolorlibrary/pages/2007-nissan/2007-Nissan-pg03.jpg; bbox 525,1232 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈91; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2007-Nissan.html). Image data/sources/autocolorlibrary/pages/2007-nissan/2007-Nissan-pg03.jpg; bbox 525,1232 150\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224891; verify chip alignment.",
         "provenanceId": "acl:nissan:2007:NPX2630:525,1232,150x210"
       }
     },
@@ -815,7 +815,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2007-Nissan.html). Image data/sources/autocolorlibrary/pages/2007-nissan/2007-Nissan-pg03.jpg; bbox 815,1232 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈90; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2007-Nissan.html). Image data/sources/autocolorlibrary/pages/2007-nissan/2007-Nissan-pg03.jpg; bbox 815,1232 150\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224890; verify chip alignment.",
         "provenanceId": "acl:nissan:2007:NPX2645:815,1232,150x210"
       }
     },
@@ -832,7 +832,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2008-Nissan.html). Image data/sources/autocolorlibrary/pages/2008-nissan/2008-Nissan-pg03.jpg; bbox 708,2024 190×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈92; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2008-Nissan.html). Image data/sources/autocolorlibrary/pages/2008-nissan/2008-Nissan-pg03.jpg; bbox 708,2024 190\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224892; verify chip alignment.",
         "provenanceId": "acl:nissan:2008:NPX2648:708,2024,190x210"
       }
     },
@@ -849,7 +849,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2009-Nissan.html). Image data/sources/autocolorlibrary/pages/2009-nissan/2009-Nissan-pg04.jpg; bbox 723,345 190×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈92; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2009-Nissan.html). Image data/sources/autocolorlibrary/pages/2009-nissan/2009-Nissan-pg04.jpg; bbox 723,345 190\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224892; verify chip alignment.",
         "provenanceId": "acl:nissan:2009:NPX2649:723,345,190x210"
       }
     },
@@ -866,7 +866,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2012-Nissan.html). Image data/sources/autocolorlibrary/pages/2012-nissan/2012-Nissan-pg03.jpg; bbox 718,2602 189×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈93; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2012-Nissan.html). Image data/sources/autocolorlibrary/pages/2012-nissan/2012-Nissan-pg03.jpg; bbox 718,2602 189\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224893; verify chip alignment.",
         "provenanceId": "acl:nissan:2012:NPX2650:718,2602,189x210"
       }
     },
@@ -883,7 +883,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2012-Nissan.html). Image data/sources/autocolorlibrary/pages/2012-nissan/2012-Nissan-pg03.jpg; bbox 1130,2599 189×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈93; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2012-Nissan.html). Image data/sources/autocolorlibrary/pages/2012-nissan/2012-Nissan-pg03.jpg; bbox 1130,2599 189\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224893; verify chip alignment.",
         "provenanceId": "acl:nissan:2012:NPX2652:1130,2599,189x210"
       }
     },
@@ -900,7 +900,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2009-Nissan.html). Image data/sources/autocolorlibrary/pages/2009-nissan/2009-Nissan-pg04.jpg; bbox 1959,345 191×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈92; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2009-Nissan.html). Image data/sources/autocolorlibrary/pages/2009-nissan/2009-Nissan-pg04.jpg; bbox 1959,345 191\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224892; verify chip alignment.",
         "provenanceId": "acl:nissan:2009:NPX2656:1959,345,191x210"
       }
     },
@@ -917,7 +917,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2010-Nissan.html). Image data/sources/autocolorlibrary/pages/2010-nissan/2010-Nissan-pg03.jpg; bbox 1538,2028 190×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈92; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2010-Nissan.html). Image data/sources/autocolorlibrary/pages/2010-nissan/2010-Nissan-pg03.jpg; bbox 1538,2028 190\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224892; verify chip alignment.",
         "provenanceId": "acl:nissan:2010:NPX3658:1538,2028,190x210"
       }
     },
@@ -934,7 +934,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2012-Nissan.html). Image data/sources/autocolorlibrary/pages/2012-nissan/2012-Nissan-pg03.jpg; bbox 1541,2597 191×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈92; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2012-Nissan.html). Image data/sources/autocolorlibrary/pages/2012-nissan/2012-Nissan-pg03.jpg; bbox 1541,2597 191\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224892; verify chip alignment.",
         "provenanceId": "acl:nissan:2012:OPP2620:1541,2597,191x210"
       }
     },
@@ -951,7 +951,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2012-Nissan.html). Image data/sources/autocolorlibrary/pages/2012-nissan/2012-Nissan-pg03.jpg; bbox 1953,2594 191×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈92; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2012-Nissan.html). Image data/sources/autocolorlibrary/pages/2012-nissan/2012-Nissan-pg03.jpg; bbox 1953,2594 191\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224892; verify chip alignment.",
         "provenanceId": "acl:nissan:2012:OPP2622:1953,2594,191x210"
       }
     },
@@ -968,7 +968,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2009-Nissan.html). Image data/sources/autocolorlibrary/pages/2009-nissan/2009-Nissan-pg04.jpg; bbox 1546,908 190×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈93; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2009-Nissan.html). Image data/sources/autocolorlibrary/pages/2009-nissan/2009-Nissan-pg04.jpg; bbox 1546,908 190\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224893; verify chip alignment.",
         "provenanceId": "acl:nissan:2009:OPP2630:1546,908,190x210"
       }
     },
@@ -985,7 +985,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2008-Nissan.html). Image data/sources/autocolorlibrary/pages/2008-nissan/2008-Nissan-pg04.jpg; bbox 310,330 187×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈92; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2008-Nissan.html). Image data/sources/autocolorlibrary/pages/2008-nissan/2008-Nissan-pg04.jpg; bbox 310,330 187\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224892; verify chip alignment.",
         "provenanceId": "acl:nissan:2008:OPP2631:310,330,187x210"
       }
     },
@@ -1002,7 +1002,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2009-Nissan.html). Image data/sources/autocolorlibrary/pages/2009-nissan/2009-Nissan-pg04.jpg; bbox 1958,908 190×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈92; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2009-Nissan.html). Image data/sources/autocolorlibrary/pages/2009-nissan/2009-Nissan-pg04.jpg; bbox 1958,908 190\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224892; verify chip alignment.",
         "provenanceId": "acl:nissan:2009:OPP2648:1958,908,190x210"
       }
     },
@@ -1019,7 +1019,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2010-Nissan.html). Image data/sources/autocolorlibrary/pages/2010-nissan/2010-Nissan-pg03.jpg; bbox 714,2596 189×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈93; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2010-Nissan.html). Image data/sources/autocolorlibrary/pages/2010-nissan/2010-Nissan-pg03.jpg; bbox 714,2596 189\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224893; verify chip alignment.",
         "provenanceId": "acl:nissan:2010:OPP2652:714,2596,189x210"
       }
     },
@@ -1036,7 +1036,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2008-Nissan.html). Image data/sources/autocolorlibrary/pages/2008-nissan/2008-Nissan-pg04.jpg; bbox 1547,324 191×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈90; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2008-Nissan.html). Image data/sources/autocolorlibrary/pages/2008-nissan/2008-Nissan-pg04.jpg; bbox 1547,324 191\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224890; verify chip alignment.",
         "provenanceId": "acl:nissan:2008:OPP2654:1547,324,191x210"
       }
     },
@@ -1053,7 +1053,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2010-Nissan.html). Image data/sources/autocolorlibrary/pages/2010-nissan/2010-Nissan-pg03.jpg; bbox 1126,2594 190×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈91; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2010-Nissan.html). Image data/sources/autocolorlibrary/pages/2010-nissan/2010-Nissan-pg03.jpg; bbox 1126,2594 190\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224891; verify chip alignment.",
         "provenanceId": "acl:nissan:2010:OPP2656:1126,2594,190x210"
       }
     },
@@ -1070,7 +1070,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2010-Nissan.html). Image data/sources/autocolorlibrary/pages/2010-nissan/2010-Nissan-pg03.jpg; bbox 694,338 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈86; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2010-Nissan.html). Image data/sources/autocolorlibrary/pages/2010-nissan/2010-Nissan-pg03.jpg; bbox 694,338 150\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224886; verify chip alignment.",
         "provenanceId": "acl:nissan:2010:Q10:694,338,150x210"
       }
     },
@@ -1087,7 +1087,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2010-Nissan.html). Image data/sources/autocolorlibrary/pages/2010-nissan/2010-Nissan-pg03.jpg; bbox 1104,336 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈91; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2010-Nissan.html). Image data/sources/autocolorlibrary/pages/2010-nissan/2010-Nissan-pg03.jpg; bbox 1104,336 150\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224891; verify chip alignment.",
         "provenanceId": "acl:nissan:2010:Q11:1104,336,150x210"
       }
     },
@@ -1104,7 +1104,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2018-Nissan.html). Image data/sources/autocolorlibrary/pages/2018-nissan/2018-Nissan-pg02.jpg; bbox 1086,2443 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈76; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2018-Nissan.html). Image data/sources/autocolorlibrary/pages/2018-nissan/2018-Nissan-pg02.jpg; bbox 1086,2443 150\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224876; verify chip alignment.",
         "provenanceId": "acl:nissan:2018:Q50:1086,2443,150x210"
       }
     },
@@ -1121,7 +1121,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2018-Nissan.html). Image data/sources/autocolorlibrary/pages/2018-nissan/2018-Nissan-pg01.jpg; bbox 322,1930 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈92; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2018-Nissan.html). Image data/sources/autocolorlibrary/pages/2018-nissan/2018-Nissan-pg01.jpg; bbox 322,1930 150\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224892; verify chip alignment.",
         "provenanceId": "acl:nissan:2018:Q60:322,1930,150x210"
       }
     },
@@ -1138,7 +1138,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Nissan.html). Image data/sources/autocolorlibrary/pages/2019-nissan/2019_NissanInfiniti_02.jpg; bbox 1859,245 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈77; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Nissan.html). Image data/sources/autocolorlibrary/pages/2019-nissan/2019_NissanInfiniti_02.jpg; bbox 1859,245 150\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224877; verify chip alignment.",
         "provenanceId": "acl:nissan:2019:QX30:1859,245,150x210"
       }
     },
@@ -1155,7 +1155,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2018-Nissan.html). Image data/sources/autocolorlibrary/pages/2018-nissan/2018-Nissan-pg02.jpg; bbox 1710,908 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈50; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2018-Nissan.html). Image data/sources/autocolorlibrary/pages/2018-nissan/2018-Nissan-pg02.jpg; bbox 1710,908 150\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224850; verify chip alignment.",
         "provenanceId": "acl:nissan:2018:QX50:1710,908,150x210"
       }
     },
@@ -1172,7 +1172,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2011-Nissan.html). Image data/sources/autocolorlibrary/pages/2011-nissan/2011-Nissan-pg02.jpg; bbox 1539,2926 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈85; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2011-Nissan.html). Image data/sources/autocolorlibrary/pages/2011-nissan/2011-Nissan-pg02.jpg; bbox 1539,2926 150\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224885; verify chip alignment.",
         "provenanceId": "acl:nissan:2011:QX56:1539,2926,150x210"
       }
     },
@@ -1189,7 +1189,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Nissan.html). Image data/sources/autocolorlibrary/pages/2019-nissan/2019_NissanInfiniti_01.jpg; bbox 1222,1682 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈66; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Nissan.html). Image data/sources/autocolorlibrary/pages/2019-nissan/2019_NissanInfiniti_01.jpg; bbox 1222,1682 150\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224866; verify chip alignment.",
         "provenanceId": "acl:nissan:2019:QX60:1222,1682,150x210"
       }
     },
@@ -1206,7 +1206,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2017-Nissan.html). Image data/sources/autocolorlibrary/pages/2017-nissan/2017-Nissan-pg03.jpg; bbox 2044,2919 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈84; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2017-Nissan.html). Image data/sources/autocolorlibrary/pages/2017-nissan/2017-Nissan-pg03.jpg; bbox 2044,2919 150\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224884; verify chip alignment.",
         "provenanceId": "acl:nissan:2017:QX70:2044,2919,150x210"
       }
     },
@@ -1223,7 +1223,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Nissan.html). Image data/sources/autocolorlibrary/pages/2019-nissan/2019_NissanInfiniti_04.jpg; bbox 1551,2843 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈83; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Nissan.html). Image data/sources/autocolorlibrary/pages/2019-nissan/2019_NissanInfiniti_04.jpg; bbox 1551,2843 150\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224883; verify chip alignment.",
         "provenanceId": "acl:nissan:2019:QX80:1551,2843,150x210"
       }
     },
@@ -1240,7 +1240,7 @@
         "source": "autocolorlibrary_swatch",
         "confidence": "derived",
         "recordedAt": "2026-04-19",
-        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Nissan.html). Image data/sources/autocolorlibrary/pages/2019-nissan/2019_NissanInfiniti_01.jpg; bbox 1629,2161 150×210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf≈41; verify chip alignment.",
+        "notes": "Auto Color Library swatch sample (https://www.autocolorlibrary.com/pages/2019-Nissan.html). Image data/sources/autocolorlibrary/pages/2019-nissan/2019_NissanInfiniti_01.jpg; bbox 1629,2161 150\u00d7210. Online chip; replace with spectro LAB before production claims. Tesseract batch: code conf\u224841; verify chip alignment.",
         "provenanceId": "acl:nissan:2019:QXX80:1629,2161,150x210"
       }
     }

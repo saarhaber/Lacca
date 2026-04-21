@@ -77,7 +77,7 @@ function dedupePaints(paints: ExteriorPaint[]): ExteriorPaint[] {
     const k = normalizePaintCodeKey(p.code);
     if (!byCode.has(k)) byCode.set(k, p);
   }
-  return [...byCode.values()].sort((a, b) => a.code.localeCompare(b.code));
+  return [...byCode.values()].sort((a, b) => a.marketingName.localeCompare(b.marketingName));
 }
 
 /**
@@ -647,11 +647,12 @@ async function initMakes() {
     makeSelect.appendChild(group);
   }
 
-  const first = makesWithCatalog[0] ?? makesModelsOnly[0];
-  if (first) {
-    makeSelect.value = first;
-    makeSelect.dispatchEvent(new Event("change"));
-  }
+  makeSelect.value = "";
+  modelSelect.disabled = true;
+  modelSelect.innerHTML = `<option disabled selected>${t("dropdown.pickMakeFirst")}</option>`;
+  paintSelect.disabled = true;
+  paintSelect.innerHTML = `<option disabled selected>${t("dropdown.pickModelFirst")}</option>`;
+  submitBtn.disabled = true;
 }
 
 async function loadModelsFor(make: string) {
@@ -737,11 +738,10 @@ async function loadModelsFor(make: string) {
 
   modelSelect.disabled = false;
 
-  const firstSupported = modelsWithPaints[0] ?? modelsKnownOnly[0];
-  if (firstSupported) {
-    modelSelect.value = firstSupported;
-    modelSelect.dispatchEvent(new Event("change"));
-  }
+  modelSelect.value = "";
+  paintSelect.disabled = true;
+  paintSelect.innerHTML = `<option disabled selected>${t("dropdown.pickModelFirst")}</option>`;
+  submitBtn.disabled = true;
 }
 
 function loadPaintsFor(make: string, model: string) {
@@ -768,11 +768,8 @@ function loadPaintsFor(make: string, model: string) {
       paintSelect.appendChild(opt);
     }
 
-    const firstPaint = paints[0];
-    if (firstPaint) {
-      paintSelect.value = firstPaint.code;
-      submitBtn.disabled = false;
-    }
+    paintSelect.value = "";
+    submitBtn.disabled = true;
     return;
   }
 
@@ -789,11 +786,8 @@ function loadPaintsFor(make: string, model: string) {
   availability.hidden = false;
   availability.innerHTML = interpolate(t("availability.noData"), { make, model });
 
-  const firstGeneric = GENERIC_PAINTS[0];
-  if (firstGeneric) {
-    paintSelect.value = firstGeneric.code;
-    submitBtn.disabled = false;
-  }
+  paintSelect.value = "";
+  submitBtn.disabled = true;
 }
 
 function selectedPaint(): ExteriorPaint | undefined {
