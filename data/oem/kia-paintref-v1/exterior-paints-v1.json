@@ -1,0 +1,5498 @@
+{
+  "$schema": "../../../schemas/exterior-paints-v1.schema.json",
+  "scopeId": "kia-paintref-v1",
+  "version": "1.0.0",
+  "paints": [
+    {
+      "code": "R1",
+      "marketingName": "Radiant Red",
+      "finish": "solid",
+      "lab": {
+        "L": 26.25,
+        "a": 38.47,
+        "b": 21.9,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #761D1F (PaintRef hex, OEM=Kia, code=R1 (models=Optima, Sorento; years=1994-2007)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:optima:R1"
+      }
+    },
+    {
+      "code": "5C",
+      "marketingName": "Olive Green",
+      "finish": "solid",
+      "lab": {
+        "L": 24.65,
+        "a": -10.4,
+        "b": -0.51,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #273F3B (PaintRef hex, OEM=Kia, code=5C (models=Optima, Spectra; years=1995-2006)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:optima:5C"
+      }
+    },
+    {
+      "code": "EB",
+      "marketingName": "Ebony Black",
+      "finish": "solid",
+      "lab": {
+        "L": 0,
+        "a": 0,
+        "b": 0,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #000000 (PaintRef hex, OEM=Kia, code=EB (models=Amanti, Borrego, EV9, Forte, K5, Optima, Sephia, Sorento, Spectra, Sportage, Telluride; years=1995-2025)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:amanti:EB"
+      }
+    },
+    {
+      "code": "5E",
+      "marketingName": "Evergreen",
+      "finish": "solid",
+      "lab": {
+        "L": 28.5,
+        "a": -10.46,
+        "b": -2.66,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #2D4847 (PaintRef hex, OEM=Kia, code=5E (models=Sephia, Spectra, Sportage; years=1998-2004)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:sephia:5E"
+      }
+    },
+    {
+      "code": "C3",
+      "marketingName": "Pewter",
+      "finish": "solid",
+      "lab": {
+        "L": 67.49,
+        "a": 1.98,
+        "b": 2.45,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #AAA3A0 (PaintRef hex, OEM=Kia, code=C3 (models=Sportage; years=1998-2002)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:sportage:C3"
+      }
+    },
+    {
+      "code": "4C",
+      "marketingName": "Cobalt Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 16.89,
+        "a": 1.02,
+        "b": -12.24,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #202A3B (PaintRef hex, OEM=Kia, code=4C (models=Amanti; years=2004-2007)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:amanti:4C"
+      }
+    },
+    {
+      "code": "J6",
+      "marketingName": "Light Almond Beige",
+      "finish": "solid",
+      "lab": {
+        "L": 74.83,
+        "a": 4.67,
+        "b": 5.11,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #C5B5AF (PaintRef hex, OEM=Kia, code=J6 (models=Optima, Rondo; years=2006-2009)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:optima:J6"
+      }
+    },
+    {
+      "code": "8Q",
+      "marketingName": "Pewter Beige",
+      "finish": "solid",
+      "lab": {
+        "L": 54.5,
+        "a": 1.91,
+        "b": 4.33,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #89817B (PaintRef hex, OEM=Kia, code=8Q (models=Amanti; years=2007-2009)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:amanti:8Q"
+      }
+    },
+    {
+      "code": "N7",
+      "marketingName": "Carbon Gray",
+      "finish": "solid",
+      "lab": {
+        "L": 28.27,
+        "a": 1.79,
+        "b": -3.48,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #434248 (PaintRef hex, OEM=Kia, code=N7 (models=Amanti; years=2004-2006)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:amanti:N7"
+      }
+    },
+    {
+      "code": "C5",
+      "marketingName": "Silver",
+      "finish": "solid",
+      "lab": {
+        "L": 76.4,
+        "a": -1.27,
+        "b": 2.4,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #BCBDB8 (PaintRef hex, OEM=Kia, code=C5 (models=Amanti, Optima, Rio, Sedona, Sorento; years=2004-2005)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:amanti:C5"
+      }
+    },
+    {
+      "code": "6C",
+      "marketingName": "Clear Silver",
+      "finish": "solid",
+      "lab": {
+        "L": 75.58,
+        "a": 0.83,
+        "b": -4.28,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #B8BAC2 (PaintRef hex, OEM=Kia, code=6C (models=Rio, Sedona, Sorento, Spectra; years=2005-2012)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:rio:6C"
+      }
+    },
+    {
+      "code": "3D",
+      "marketingName": "Bright Silver",
+      "finish": "solid",
+      "lab": {
+        "L": 81.72,
+        "a": 2.35,
+        "b": -4.22,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #CCCAD3 (PaintRef hex, OEM=Kia, code=3D (models=Amanti, Borrego, Cadenza, Forte, K900, Optima, Rio, Rondo, Sedona, Sorento, Soul, Spectra, Sportage; years=2007-2017)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:amanti:3D"
+      }
+    },
+    {
+      "code": "8V",
+      "marketingName": "Midnight Gray",
+      "finish": "solid",
+      "lab": {
+        "L": 39.68,
+        "a": 1.3,
+        "b": -3.42,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #5D5D63 (PaintRef hex, OEM=Kia, code=8V (models=Amanti, Optima; years=2007-2009)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:amanti:8V"
+      }
+    },
+    {
+      "code": "R8",
+      "marketingName": "Dark Rose Red",
+      "finish": "solid",
+      "lab": {
+        "L": 14.02,
+        "a": 17.29,
+        "b": -5.77,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #371A2C (PaintRef hex, OEM=Kia, code=R8 (models=Amanti; years=2004-2006)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:amanti:R8"
+      }
+    },
+    {
+      "code": "5P",
+      "marketingName": "Dark Red Wine",
+      "finish": "solid",
+      "lab": {
+        "L": 20.28,
+        "a": 16.72,
+        "b": -8.78,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #43283E (PaintRef hex, OEM=Kia, code=5P (models=Amanti; years=2007-2008)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:amanti:5P"
+      }
+    },
+    {
+      "code": "D8",
+      "marketingName": "Cream Gold",
+      "finish": "solid",
+      "lab": {
+        "L": 72.78,
+        "a": 5.73,
+        "b": 2.08,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #BFAFAF (PaintRef hex, OEM=Kia, code=D8 (models=Amanti, Optima; years=2004-2005)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:amanti:D8"
+      }
+    },
+    {
+      "code": "U3",
+      "marketingName": "New Pearl White",
+      "finish": "solid",
+      "lab": {
+        "L": 85.63,
+        "a": -2.29,
+        "b": 5.3,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #D6D7CC (PaintRef hex, OEM=Kia, code=U3 (models=Amanti, Optima; years=2004-2005)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:amanti:U3"
+      }
+    },
+    {
+      "code": "U4",
+      "marketingName": "White Pearl",
+      "finish": "solid",
+      "lab": {
+        "L": 90.57,
+        "a": -2.08,
+        "b": 2.57,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #E2E5DF (PaintRef hex, OEM=Kia, code=U4 (models=Amanti, Optima; years=2006-2009)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:amanti:U4"
+      }
+    },
+    {
+      "code": "UD",
+      "marketingName": "Clear White",
+      "finish": "solid",
+      "lab": {
+        "L": 91.44,
+        "a": -1.22,
+        "b": 2.31,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #E6E7E2 (PaintRef hex, OEM=Kia, code=UD (models=Borrego, Cadenza, Forte, K900, Niro, Optima, Rio, Sephia, Sorento, Soul, Spectra, Sportage; years=2002-2023)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:borrego:UD"
+      }
+    },
+    {
+      "code": "U4",
+      "marketingName": "Pearl White",
+      "finish": "solid",
+      "lab": {
+        "L": 90.57,
+        "a": -2.08,
+        "b": 2.57,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #E2E5DF (PaintRef hex, OEM=Kia, code=U4 (models=Optima; year=2008)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:optima:U4"
+      }
+    },
+    {
+      "code": "QG",
+      "marketingName": "Midnight Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 20.14,
+        "a": 8.62,
+        "b": -21.43,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #2A2E50 (PaintRef hex, OEM=Kia, code=QG (models=Borrego, Optima; years=2009-2010)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:borrego:QG"
+      }
+    },
+    {
+      "code": "DO",
+      "marketingName": "Metal Bronze",
+      "finish": "solid",
+      "lab": {
+        "L": 33.94,
+        "a": 0.91,
+        "b": 5.62,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #554F47 (PaintRef hex, OEM=Kia, code=DO (models=Borrego, Forte, K900, Optima, Sorento; years=2009-2016)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:borrego:DO"
+      }
+    },
+    {
+      "code": "IM",
+      "marketingName": "Titanium Silver",
+      "finish": "solid",
+      "lab": {
+        "L": 57.1,
+        "a": 3.04,
+        "b": 4.71,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #928781 (PaintRef hex, OEM=Kia, code=IM (models=Borrego, Forte, Optima, Rio, Rondo, Sedona, Sorento, Soul; years=2009-2017)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:borrego:IM"
+      }
+    },
+    {
+      "code": "O9",
+      "marketingName": "Sweet Orange",
+      "finish": "solid",
+      "lab": {
+        "L": 41.03,
+        "a": 45.82,
+        "b": 25.28,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #AA3A3A (PaintRef hex, OEM=Kia, code=O9 (models=Borrego, Forte, Spectra; years=2009-2011)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:borrego:O9"
+      }
+    },
+    {
+      "code": "IY",
+      "marketingName": "Spicy Red",
+      "finish": "solid",
+      "lab": {
+        "L": 32.69,
+        "a": 50.62,
+        "b": 35.13,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #981818 (PaintRef hex, OEM=Kia, code=IY (models=Borrego, Forte, Optima, Sorento; years=2008-2012)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:borrego:IY"
+      }
+    },
+    {
+      "code": "SWP",
+      "marketingName": "Snow White",
+      "finish": "solid",
+      "lab": {
+        "L": 92.93,
+        "a": -2.38,
+        "b": 1.35,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #E7ECE8 (PaintRef hex, OEM=Kia, code=SWP (models=Cadenza, EV6, EV9, Forte, K4, K5, K900, Niro, Optima, Rio, Seltos, Sorento, Soul, Sportage, Stinger, Telluride; years=2010-2025)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:cadenza:SWP"
+      }
+    },
+    {
+      "code": "ABP",
+      "marketingName": "Aurora Black",
+      "finish": "solid",
+      "lab": {
+        "L": 0,
+        "a": 0,
+        "b": 0,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #000000 (PaintRef hex, OEM=Kia, code=ABP (models=Cadenza, Carnival, EV9, Forte, K4, K5, Optima, Rio, Rondo, Sorento, Soul, Sportage, Stinger; years=2013-2025)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:cadenza:ABP"
+      }
+    },
+    {
+      "code": "B3U",
+      "marketingName": "Smoky Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 32.04,
+        "a": 1.53,
+        "b": -6.18,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #494B55 (PaintRef hex, OEM=Kia, code=B3U (models=Cadenza, K900, Optima; years=2014-2016)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:cadenza:B3U"
+      }
+    },
+    {
+      "code": "B4U",
+      "marketingName": "Gravity Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 20.11,
+        "a": 6.46,
+        "b": -9.9,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #332E3F (PaintRef hex, OEM=Kia, code=B4U (models=Cadenza, Forte, Niro, Optima; years=2016-2022)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:cadenza:B4U"
+      }
+    },
+    {
+      "code": "K3N",
+      "marketingName": "Metallic Bronze",
+      "finish": "solid",
+      "lab": {
+        "L": 33.98,
+        "a": 4.93,
+        "b": 5.13,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #5B4D48 (PaintRef hex, OEM=Kia, code=K3N (models=Cadenza, Forte, Optima, Sorento; years=2013-2015)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:cadenza:K3N"
+      }
+    },
+    {
+      "code": "K3N",
+      "marketingName": "Golden Beat",
+      "finish": "solid",
+      "lab": {
+        "L": 33.98,
+        "a": 4.93,
+        "b": 5.13,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #5B4D48 (PaintRef hex, OEM=Kia, code=K3N (models=Forte; year=2016)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:forte:K3N"
+      }
+    },
+    {
+      "code": "G4N",
+      "marketingName": "Pluto Brown",
+      "finish": "solid",
+      "lab": {
+        "L": 25.06,
+        "a": 6.57,
+        "b": 1.09,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #46383A (PaintRef hex, OEM=Kia, code=G4N (models=Cadenza, Optima; years=2016-2018)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:cadenza:G4N"
+      }
+    },
+    {
+      "code": "ABT",
+      "marketingName": "Platinum Graphite",
+      "finish": "solid",
+      "lab": {
+        "L": 33.82,
+        "a": 1.03,
+        "b": -0.3,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #514F50 (PaintRef hex, OEM=Kia, code=ABT (models=Cadenza, K900, Optima, Rio, Sedona, Sorento; years=2010-2024)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:cadenza:ABT"
+      }
+    },
+    {
+      "code": "STM",
+      "marketingName": "Satin Metal",
+      "finish": "solid",
+      "lab": {
+        "L": 75.22,
+        "a": 3.53,
+        "b": 1.27,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #C1B7B7 (PaintRef hex, OEM=Kia, code=STM (models=Cadenza, K900, Optima, Sorento; years=2011-2016)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:cadenza:STM"
+      }
+    },
+    {
+      "code": "4SS",
+      "marketingName": "Silky Silver",
+      "finish": "solid",
+      "lab": {
+        "L": 82.72,
+        "a": -1.67,
+        "b": -1.7,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #C9CFD1 (PaintRef hex, OEM=Kia, code=4SS (models=Cadenza, Carnival, Forte, K900, Niro, Optima, Rio, Sedona, Sorento, Soul, Sportage; years=2015-2025)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:cadenza:4SS"
+      }
+    },
+    {
+      "code": "M5G",
+      "marketingName": "Moss Gray",
+      "finish": "solid",
+      "lab": {
+        "L": 27.46,
+        "a": 0.19,
+        "b": -4.07,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #3E4147 (PaintRef hex, OEM=Kia, code=M5G (models=Optima; year=2017)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:optima:M5G"
+      }
+    },
+    {
+      "code": "ABT",
+      "marketingName": "Graphite",
+      "finish": "solid",
+      "lab": {
+        "L": 33.82,
+        "a": 1.03,
+        "b": -0.3,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #514F50 (PaintRef hex, OEM=Kia, code=ABT (models=Sorento; year=2018)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:sorento:ABT"
+      }
+    },
+    {
+      "code": "ABT",
+      "marketingName": "Graphite Gray",
+      "finish": "solid",
+      "lab": {
+        "L": 33.82,
+        "a": 1.03,
+        "b": -0.3,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #514F50 (PaintRef hex, OEM=Kia, code=ABT (models=Optima; year=2020)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:optima:ABT"
+      }
+    },
+    {
+      "code": "D2U",
+      "marketingName": "Astra Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 48.59,
+        "a": -1.37,
+        "b": -12.34,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #657588 (PaintRef hex, OEM=Kia, code=D2U (models=Carnival; years=2021-2025)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:carnival:D2U"
+      }
+    },
+    {
+      "code": "D9B",
+      "marketingName": "Deep Chroma Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 28.39,
+        "a": 10.17,
+        "b": -27.9,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #37406E (PaintRef hex, OEM=Kia, code=D9B (models=Carnival, K900, Sedona; years=2019-2025)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:carnival:D9B"
+      }
+    },
+    {
+      "code": "SK2",
+      "marketingName": "Beige Pearl",
+      "finish": "solid",
+      "lab": {
+        "L": 70.52,
+        "a": 3.2,
+        "b": 8.65,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #B9AA9D (PaintRef hex, OEM=Kia, code=SK2 (models=Sedona; years=2015-2017)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:sedona:SK2"
+      }
+    },
+    {
+      "code": "P2M",
+      "marketingName": "Panthera Metal",
+      "finish": "solid",
+      "lab": {
+        "L": 24.21,
+        "a": -0.34,
+        "b": -5.04,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #353A41 (PaintRef hex, OEM=Kia, code=P2M (models=Carnival, K900, Sedona, Stinger; years=2018-2025)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:carnival:P2M"
+      }
+    },
+    {
+      "code": "C4S",
+      "marketingName": "Ceramic Silver",
+      "finish": "solid",
+      "lab": {
+        "L": 50.72,
+        "a": -0.58,
+        "b": 0.41,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #787978 (PaintRef hex, OEM=Kia, code=C4S (models=Carnival, Stinger; years=2018-2025)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:carnival:C4S"
+      }
+    },
+    {
+      "code": "ISG",
+      "marketingName": "Ivory Silver",
+      "finish": "solid",
+      "lab": {
+        "L": 99.37,
+        "a": -2.21,
+        "b": 7.28,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #FFFEEF (PaintRef hex, OEM=Kia, code=ISG (models=Carnival; year=2025)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:carnival:ISG"
+      }
+    },
+    {
+      "code": "BGD",
+      "marketingName": "Black Berry",
+      "finish": "solid",
+      "lab": {
+        "L": 19.05,
+        "a": 22.03,
+        "b": 5.59,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #4D2027 (PaintRef hex, OEM=Kia, code=BGD (models=Sedona; years=2015-2017)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:sedona:BGD"
+      }
+    },
+    {
+      "code": "C7R",
+      "marketingName": "Flare Red",
+      "finish": "solid",
+      "lab": {
+        "L": 43.2,
+        "a": 21.76,
+        "b": 7.85,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #8C585A (PaintRef hex, OEM=Kia, code=C7R (models=Carnival; years=2021-2025)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:carnival:C7R"
+      }
+    },
+    {
+      "code": "GLB",
+      "marketingName": "Glacier",
+      "finish": "solid",
+      "lab": {
+        "L": 64.45,
+        "a": -2.04,
+        "b": 5.75,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #9D9D92 (PaintRef hex, OEM=Kia, code=GLB (models=EV6; years=2022-2024)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:ev6:GLB"
+      }
+    },
+    {
+      "code": "AGT",
+      "marketingName": "Interstellar Gray",
+      "finish": "solid",
+      "lab": {
+        "L": 34.65,
+        "a": 1.33,
+        "b": -3.5,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #515157 (PaintRef hex, OEM=Kia, code=AGT (models=EV6, K5, Sorento; years=2022-2025)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:ev6:AGT"
+      }
+    },
+    {
+      "code": "KLG",
+      "marketingName": "Steel Gray",
+      "finish": "solid",
+      "lab": {
+        "L": 57.86,
+        "a": 0,
+        "b": 0,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #8B8B8B (PaintRef hex, OEM=Kia, code=KLG (models=EV6, Forte, K4, Rio, Seltos, Sorento, Soul, Sportage; years=2020-2025)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:ev6:KLG"
+      }
+    },
+    {
+      "code": "KLM",
+      "marketingName": "Steel Matte Gray",
+      "finish": "solid",
+      "lab": {
+        "L": 64.64,
+        "a": -2.37,
+        "b": 0.94,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #999E9B (PaintRef hex, OEM=Kia, code=KLM (models=EV6, K5; years=2022-2025)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:ev6:KLM"
+      }
+    },
+    {
+      "code": "CR5",
+      "marketingName": "Runway Red",
+      "finish": "solid",
+      "lab": {
+        "L": 31.51,
+        "a": 54.96,
+        "b": 45.4,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #9A0000 (PaintRef hex, OEM=Kia, code=CR5 (models=EV6, K5, Niro, Optima, Sorento; years=2019-2025)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:ev6:CR5"
+      }
+    },
+    {
+      "code": "OBG",
+      "marketingName": "Ocean Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 51.64,
+        "a": -21.85,
+        "b": -21.46,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #00879F (PaintRef hex, OEM=Kia, code=OBG (models=EV9; years=2024-2025)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:ev9:OBG"
+      }
+    },
+    {
+      "code": "OBM",
+      "marketingName": "Ocean Matte Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 52.31,
+        "a": -22.68,
+        "b": -20.43,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #05899F (PaintRef hex, OEM=Kia, code=OBM (models=EV9; year=2024)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:ev9:OBM"
+      }
+    },
+    {
+      "code": "IEG",
+      "marketingName": "Iceberg Green",
+      "finish": "solid",
+      "lab": {
+        "L": 53.7,
+        "a": -4.96,
+        "b": -1.09,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #768382 (PaintRef hex, OEM=Kia, code=IEG (models=EV9; year=2024)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:ev9:IEG"
+      }
+    },
+    {
+      "code": "IEG",
+      "marketingName": "Ice Green",
+      "finish": "solid",
+      "lab": {
+        "L": 53.7,
+        "a": -4.96,
+        "b": -1.09,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #768382 (PaintRef hex, OEM=Kia, code=IEG (models=EV9; year=2025)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:ev9:IEG"
+      }
+    },
+    {
+      "code": "ISM",
+      "marketingName": "Ivory Matte Silver",
+      "finish": "solid",
+      "lab": {
+        "L": 75.96,
+        "a": -1.06,
+        "b": 12.67,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #C3BBA4 (PaintRef hex, OEM=Kia, code=ISM (models=EV9; year=2024)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:ev9:ISM"
+      }
+    },
+    {
+      "code": "GWP",
+      "marketingName": "Glacial White",
+      "finish": "solid",
+      "lab": {
+        "L": 90.59,
+        "a": 2.12,
+        "b": -3.65,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #E5E3EB (PaintRef hex, OEM=Kia, code=GWP (models=K5, Sorento, Sportage, Telluride; years=2021-2025)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:k5:GWP"
+      }
+    },
+    {
+      "code": "9B",
+      "marketingName": "Midnight Black",
+      "finish": "solid",
+      "lab": {
+        "L": 0,
+        "a": 0,
+        "b": 0,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #000000 (PaintRef hex, OEM=Kia, code=9B (models=Rio; years=2003-2014)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:rio:9B"
+      }
+    },
+    {
+      "code": "LC",
+      "marketingName": "Light Graphite",
+      "finish": "solid",
+      "lab": {
+        "L": 48.76,
+        "a": 4.71,
+        "b": -10.8,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #737286 (PaintRef hex, OEM=Kia, code=LC (models=Forte, Optima; years=2010-2013)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:forte:LC"
+      }
+    },
+    {
+      "code": "HO",
+      "marketingName": "Santorini Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 23.1,
+        "a": 25.6,
+        "b": -51.06,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #172E85 (PaintRef hex, OEM=Kia, code=HO (models=Forte, Optima; years=2010-2016)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:forte:HO"
+      }
+    },
+    {
+      "code": "HO",
+      "marketingName": "Corsa Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 23.1,
+        "a": 25.6,
+        "b": -51.06,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #172E85 (PaintRef hex, OEM=Kia, code=HO (models=Forte, Optima; years=2012-2014)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:forte:HO"
+      }
+    },
+    {
+      "code": "K3U",
+      "marketingName": "Abyss Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 35.99,
+        "a": -0.3,
+        "b": -27.2,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #305780 (PaintRef hex, OEM=Kia, code=K3U (models=Forte, Optima; years=2013-2016)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:forte:K3U"
+      }
+    },
+    {
+      "code": "T3U",
+      "marketingName": "Baltic Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 21.75,
+        "a": 1.01,
+        "b": -6.07,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #31343D (PaintRef hex, OEM=Kia, code=T3U (models=Optima; year=2013)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:optima:T3U"
+      }
+    },
+    {
+      "code": "D7U",
+      "marketingName": "Steel Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 38.63,
+        "a": 0.71,
+        "b": -6.26,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #575B65 (PaintRef hex, OEM=Kia, code=D7U (models=Forte, Sportage; years=2014-2015)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:forte:D7U"
+      }
+    },
+    {
+      "code": "D7U",
+      "marketingName": "Planet Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 38.63,
+        "a": 0.71,
+        "b": -6.26,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #575B65 (PaintRef hex, OEM=Kia, code=D7U (models=Forte; year=2016)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:forte:D7U"
+      }
+    },
+    {
+      "code": "B2R",
+      "marketingName": "Deep Sea Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 22.96,
+        "a": 11.53,
+        "b": -34.1,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #1F346A (PaintRef hex, OEM=Kia, code=B2R (models=Forte, K4, Rio; years=2017-2025)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:forte:B2R"
+      }
+    },
+    {
+      "code": "B2R",
+      "marketingName": "Hyper Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 22.96,
+        "a": 11.53,
+        "b": -34.1,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #1F346A (PaintRef hex, OEM=Kia, code=B2R (models=Rio; year=2018)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:rio:B2R"
+      }
+    },
+    {
+      "code": "SPB",
+      "marketingName": "Sporty Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 43.65,
+        "a": -4.36,
+        "b": -32.08,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #296C9C (PaintRef hex, OEM=Kia, code=SPB (models=Forte, Rio; years=2021-2024)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:forte:SPB"
+      }
+    },
+    {
+      "code": "MBN",
+      "marketingName": "Titanium Brown",
+      "finish": "solid",
+      "lab": {
+        "L": 23.45,
+        "a": 6.93,
+        "b": 5.46,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #453430 (PaintRef hex, OEM=Kia, code=MBN (models=K900, Sedona, Sorento; years=2015-2018)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:k900:MBN"
+      }
+    },
+    {
+      "code": "K3G",
+      "marketingName": "Gunmetal Gray",
+      "finish": "solid",
+      "lab": {
+        "L": 38.3,
+        "a": 4.25,
+        "b": -1.71,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #60585D (PaintRef hex, OEM=Kia, code=K3G (models=Forte, Sorento; years=2013-2014)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:forte:K3G"
+      }
+    },
+    {
+      "code": "M9Y",
+      "marketingName": "Desert Sand",
+      "finish": "solid",
+      "lab": {
+        "L": 73.03,
+        "a": -0.2,
+        "b": 5.09,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #B7B3AA (PaintRef hex, OEM=Kia, code=M9Y (models=Forte; years=2014-2016)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:forte:M9Y"
+      }
+    },
+    {
+      "code": "MST",
+      "marketingName": "Graphite Steel",
+      "finish": "solid",
+      "lab": {
+        "L": 50.69,
+        "a": -4.22,
+        "b": -2.06,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #6F7B7C (PaintRef hex, OEM=Kia, code=MST (models=Forte, Sorento; years=2014-2015)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:forte:MST"
+      }
+    },
+    {
+      "code": "K3G",
+      "marketingName": "Glittering",
+      "finish": "solid",
+      "lab": {
+        "L": 38.3,
+        "a": 4.25,
+        "b": -1.71,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #60585D (PaintRef hex, OEM=Kia, code=K3G (models=Sorento; year=2016)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:sorento:K3G"
+      }
+    },
+    {
+      "code": "MST",
+      "marketingName": "Metal Stream",
+      "finish": "solid",
+      "lab": {
+        "L": 50.69,
+        "a": -4.22,
+        "b": -2.06,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #6F7B7C (PaintRef hex, OEM=Kia, code=MST (models=Sorento; years=2016-2017)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:sorento:MST"
+      }
+    },
+    {
+      "code": "U4G",
+      "marketingName": "Phantom Gray",
+      "finish": "solid",
+      "lab": {
+        "L": 42.72,
+        "a": 0.45,
+        "b": -5.59,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #61656E (PaintRef hex, OEM=Kia, code=U4G (models=Forte, Rio; years=2017-2020)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:forte:U4G"
+      }
+    },
+    {
+      "code": "4SS",
+      "marketingName": "Ultra Silver",
+      "finish": "solid",
+      "lab": {
+        "L": 82.72,
+        "a": -1.67,
+        "b": -1.7,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #C9CFD1 (PaintRef hex, OEM=Kia, code=4SS (models=Stinger; year=2018)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:stinger:4SS"
+      }
+    },
+    {
+      "code": "U4G",
+      "marketingName": "Urban Gray",
+      "finish": "solid",
+      "lab": {
+        "L": 42.72,
+        "a": 0.45,
+        "b": -5.59,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #61656E (PaintRef hex, OEM=Kia, code=U4G (models=Forte; year=2018)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:forte:U4G"
+      }
+    },
+    {
+      "code": "KDG",
+      "marketingName": "Gravity Gray",
+      "finish": "solid",
+      "lab": {
+        "L": 38.51,
+        "a": -4.29,
+        "b": -3.41,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #505D60 (PaintRef hex, OEM=Kia, code=KDG (models=Forte, K5, Optima, Seltos, Sorento, Soul, Sportage, Telluride; years=2019-2025)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:forte:KDG"
+      }
+    },
+    {
+      "code": "DRG",
+      "marketingName": "Fire Orange",
+      "finish": "solid",
+      "lab": {
+        "L": 44.57,
+        "a": 57.68,
+        "b": 44.77,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #C63021 (PaintRef hex, OEM=Kia, code=DRG (models=Forte, Niro; years=2019-2024)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:forte:DRG"
+      }
+    },
+    {
+      "code": "IR",
+      "marketingName": "Dark Cherry",
+      "finish": "solid",
+      "lab": {
+        "L": 23.23,
+        "a": 13.15,
+        "b": 1.87,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #4B3035 (PaintRef hex, OEM=Kia, code=IR (models=Forte, Optima, Sorento; years=2010-2016)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:forte:IR"
+      }
+    },
+    {
+      "code": "DRR",
+      "marketingName": "Racing Red",
+      "finish": "solid",
+      "lab": {
+        "L": 50.06,
+        "a": 73.72,
+        "b": 57.58,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #EC1615 (PaintRef hex, OEM=Kia, code=DRR (models=Forte; years=2010-2017)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:forte:DRR"
+      }
+    },
+    {
+      "code": "K3R",
+      "marketingName": "Crimson Red",
+      "finish": "solid",
+      "lab": {
+        "L": 35.89,
+        "a": 54.28,
+        "b": 28.68,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #A51B2A (PaintRef hex, OEM=Kia, code=K3R (models=Forte, Optima, Sorento; years=2013-2015)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:forte:K3R"
+      }
+    },
+    {
+      "code": "K3R",
+      "marketingName": "Temptation Red",
+      "finish": "solid",
+      "lab": {
+        "L": 35.89,
+        "a": 54.28,
+        "b": 28.68,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #A51B2A (PaintRef hex, OEM=Kia, code=K3R (models=Niro, Optima; years=2016-2018)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:niro:K3R"
+      }
+    },
+    {
+      "code": "R4R",
+      "marketingName": "Currant Red",
+      "finish": "solid",
+      "lab": {
+        "L": 37.17,
+        "a": 61.39,
+        "b": 47.98,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #B30109 (PaintRef hex, OEM=Kia, code=R4R (models=Forte, K4, Rio; years=2017-2025)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:forte:R4R"
+      }
+    },
+    {
+      "code": "B4N",
+      "marketingName": "Gamet Red",
+      "finish": "solid",
+      "lab": {
+        "L": 20.67,
+        "a": 24.22,
+        "b": 1.05,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #522231 (PaintRef hex, OEM=Kia, code=B4N (models=Forte; years=2017-2018)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:forte:B4N"
+      }
+    },
+    {
+      "code": "R4R",
+      "marketingName": "Radiant Red",
+      "finish": "solid",
+      "lab": {
+        "L": 37.17,
+        "a": 61.39,
+        "b": 47.98,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #B30109 (PaintRef hex, OEM=Kia, code=R4R (models=Forte, Rio; years=2018-2019)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:forte:R4R"
+      }
+    },
+    {
+      "code": "1D",
+      "marketingName": "Clear White",
+      "finish": "solid",
+      "lab": {
+        "L": 93.18,
+        "a": -1,
+        "b": -0.35,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #E9ECEC (PaintRef hex, OEM=Kia, code=1D (models=Forte, Rondo, Seltos, Soul, Sportage; years=2008-2025)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:forte:1D"
+      }
+    },
+    {
+      "code": "DM4",
+      "marketingName": "Morning Haze",
+      "finish": "solid",
+      "lab": {
+        "L": 80.44,
+        "a": -7.65,
+        "b": -0.92,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #B7CCC9 (PaintRef hex, OEM=Kia, code=DM4 (models=K4; year=2025)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:k4:DM4"
+      }
+    },
+    {
+      "code": "WVB",
+      "marketingName": "Wave Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 56.23,
+        "a": 10.12,
+        "b": -42.68,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #6585D1 (PaintRef hex, OEM=Kia, code=WVB (models=K4; year=2025)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:k4:WVB"
+      }
+    },
+    {
+      "code": "AG9",
+      "marketingName": "Intersteller Gray",
+      "finish": "solid",
+      "lab": {
+        "L": 52.4,
+        "a": 1.38,
+        "b": -10.6,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #767D8F (PaintRef hex, OEM=Kia, code=AG9 (models=K4; year=2025)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:k4:AG9"
+      }
+    },
+    {
+      "code": "DU2",
+      "marketingName": "Sapphire Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 48.92,
+        "a": 11.33,
+        "b": -51.01,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #3C73CB (PaintRef hex, OEM=Kia, code=DU2 (models=K5, Sportage; years=2021-2025)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:k5:DU2"
+      }
+    },
+    {
+      "code": "DU3",
+      "marketingName": "Yacht Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 24.97,
+        "a": 10.29,
+        "b": -40.48,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #003A79 (PaintRef hex, OEM=Kia, code=DU3 (models=K5; year=2025)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:k5:DU3"
+      }
+    },
+    {
+      "code": "CRB",
+      "marketingName": "Crystal Beige",
+      "finish": "solid",
+      "lab": {
+        "L": 75.19,
+        "a": 0.2,
+        "b": 15.4,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #C5B89D (PaintRef hex, OEM=Kia, code=CRB (models=Sorento; year=2021)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:sorento:CRB"
+      }
+    },
+    {
+      "code": "ERG",
+      "marketingName": "Everlasting Silver",
+      "finish": "solid",
+      "lab": {
+        "L": 48.18,
+        "a": -2.64,
+        "b": -4.03,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #6A7479 (PaintRef hex, OEM=Kia, code=ERG (models=K5, Sorento, Sportage, Telluride; years=2020-2025)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:k5:ERG"
+      }
+    },
+    {
+      "code": "C7S",
+      "marketingName": "Wolf Gray",
+      "finish": "solid",
+      "lab": {
+        "L": 78.35,
+        "a": 0.4,
+        "b": -6.1,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #BDC2CD (PaintRef hex, OEM=Kia, code=C7S (models=K5, Sorento, Sportage, Telluride; years=2021-2025)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:k5:C7S"
+      }
+    },
+    {
+      "code": "ADR",
+      "marketingName": "Passion Red",
+      "finish": "solid",
+      "lab": {
+        "L": 29.47,
+        "a": 52.59,
+        "b": 42.98,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #910000 (PaintRef hex, OEM=Kia, code=ADR (models=K5, Optima, Sorento; years=2019-2024)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:k5:ADR"
+      }
+    },
+    {
+      "code": "BLA",
+      "marketingName": "Deep Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 19.44,
+        "a": -0.74,
+        "b": -8.97,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #26303C (PaintRef hex, OEM=Kia, code=BLA (models=Rio, Sedona; years=2012-2016)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:rio:BLA"
+      }
+    },
+    {
+      "code": "L5S",
+      "marketingName": "Lakestone",
+      "finish": "solid",
+      "lab": {
+        "L": 33.15,
+        "a": -3.75,
+        "b": -3.94,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #445054 (PaintRef hex, OEM=Kia, code=L5S (models=K900; year=2019)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:k900:L5S"
+      }
+    },
+    {
+      "code": "MSL",
+      "marketingName": "Marsala",
+      "finish": "solid",
+      "lab": {
+        "L": 16.99,
+        "a": 3.71,
+        "b": 1.37,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #302828 (PaintRef hex, OEM=Kia, code=MSL (models=K900; year=2019)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:k900:MSL"
+      }
+    },
+    {
+      "code": "E6S",
+      "marketingName": "Mineral Silver",
+      "finish": "solid",
+      "lab": {
+        "L": 51,
+        "a": 1.23,
+        "b": -3.27,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #79797F (PaintRef hex, OEM=Kia, code=E6S (models=K900, Sportage; years=2011-2019)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:k900:E6S"
+      }
+    },
+    {
+      "code": "P2M",
+      "marketingName": "Panthera",
+      "finish": "solid",
+      "lab": {
+        "L": 24.21,
+        "a": -0.34,
+        "b": -5.04,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #353A41 (PaintRef hex, OEM=Kia, code=P2M (models=Stinger; year=2019)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:stinger:P2M"
+      }
+    },
+    {
+      "code": "C3U",
+      "marketingName": "Deep Cerulean Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 35.88,
+        "a": -3.38,
+        "b": -13.69,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #40576A (PaintRef hex, OEM=Kia, code=C3U (models=Niro; year=2017)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:niro:C3U"
+      }
+    },
+    {
+      "code": "C3U",
+      "marketingName": "Ocean Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 35.88,
+        "a": -3.38,
+        "b": -13.69,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #40576A (PaintRef hex, OEM=Kia, code=C3U (models=Niro; year=2018)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:niro:C3U"
+      }
+    },
+    {
+      "code": "C3U",
+      "marketingName": "Deep Cerulean",
+      "finish": "solid",
+      "lab": {
+        "L": 35.88,
+        "a": -3.38,
+        "b": -13.69,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #40576A (PaintRef hex, OEM=Kia, code=C3U (models=Niro; years=2019-2022)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:niro:C3U"
+      }
+    },
+    {
+      "code": "BBL",
+      "marketingName": "Horizon Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 29.15,
+        "a": 3.35,
+        "b": -13.87,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #3E445A (PaintRef hex, OEM=Kia, code=BBL (models=Niro, Seltos; years=2020-2022)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:niro:BBL"
+      }
+    },
+    {
+      "code": "M5U",
+      "marketingName": "Horizon Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 17.95,
+        "a": 9.84,
+        "b": -24.26,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #23294F (PaintRef hex, OEM=Kia, code=M5U (models=Niro, Optima; years=2016-2021)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:niro:M5U"
+      }
+    },
+    {
+      "code": "M4B",
+      "marketingName": "Mineral Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 49.38,
+        "a": -2.88,
+        "b": -26.55,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #4E79A2 (PaintRef hex, OEM=Kia, code=M4B (models=Niro; years=2023-2025)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:niro:M4B"
+      }
+    },
+    {
+      "code": "DN9",
+      "marketingName": "Espresso",
+      "finish": "solid",
+      "lab": {
+        "L": 28.39,
+        "a": 9.6,
+        "b": 14.56,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #583D2D (PaintRef hex, OEM=Kia, code=DN9 (models=Niro; year=2018)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:niro:DN9"
+      }
+    },
+    {
+      "code": "CGE",
+      "marketingName": "Cityscape Green",
+      "finish": "solid",
+      "lab": {
+        "L": 43.73,
+        "a": -8.28,
+        "b": 7.33,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #5E6B5B (PaintRef hex, OEM=Kia, code=CGE (models=Niro, Sorento; years=2023-2025)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:niro:CGE"
+      }
+    },
+    {
+      "code": "EB",
+      "marketingName": "Black",
+      "finish": "solid",
+      "lab": {
+        "L": 0,
+        "a": 0,
+        "b": 0,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #000000 (PaintRef hex, OEM=Kia, code=EB (models=Sportage; year=2002)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:sportage:EB"
+      }
+    },
+    {
+      "code": "3B",
+      "marketingName": "Steel Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 44.17,
+        "a": 2.2,
+        "b": -10.67,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #63687A (PaintRef hex, OEM=Kia, code=3B (models=Optima, Spectra; years=2001-2002)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:optima:3B"
+      }
+    },
+    {
+      "code": "1C",
+      "marketingName": "Imperial Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 21.82,
+        "a": 0.78,
+        "b": -15.47,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #26354B (PaintRef hex, OEM=Kia, code=1C (models=Optima, Sedona, Spectra; years=2003-2006)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:optima:1C"
+      }
+    },
+    {
+      "code": "6K",
+      "marketingName": "Deep Ocean Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 13.89,
+        "a": 3,
+        "b": -14.12,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #1B2337 (PaintRef hex, OEM=Kia, code=6K (models=Optima, Spectra; years=2006-2009)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:optima:6K"
+      }
+    },
+    {
+      "code": "M5U",
+      "marketingName": "Lightning Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 17.95,
+        "a": 9.84,
+        "b": -24.26,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #23294F (PaintRef hex, OEM=Kia, code=M5U (models=Optima; year=2018)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:optima:M5U"
+      }
+    },
+    {
+      "code": "7Y",
+      "marketingName": "Gold Beige",
+      "finish": "solid",
+      "lab": {
+        "L": 59.79,
+        "a": 3.53,
+        "b": 16.11,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #A18D74 (PaintRef hex, OEM=Kia, code=7Y (models=Optima, Sorento; years=2001-2004)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:optima:7Y"
+      }
+    },
+    {
+      "code": "7Y",
+      "marketingName": "Beige",
+      "finish": "solid",
+      "lab": {
+        "L": 59.79,
+        "a": 3.53,
+        "b": 16.11,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #A18D74 (PaintRef hex, OEM=Kia, code=7Y (models=Optima; year=2002)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:optima:7Y"
+      }
+    },
+    {
+      "code": "C4",
+      "marketingName": "Crystal Silver",
+      "finish": "solid",
+      "lab": {
+        "L": 79.19,
+        "a": 0.4,
+        "b": -2.12,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #C3C4C8 (PaintRef hex, OEM=Kia, code=C4 (models=Optima, Spectra; years=2001-2002)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:optima:C4"
+      }
+    },
+    {
+      "code": "V5",
+      "marketingName": "Iron Gray",
+      "finish": "solid",
+      "lab": {
+        "L": 41.87,
+        "a": 3.18,
+        "b": 1.15,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #696161 (PaintRef hex, OEM=Kia, code=V5 (models=Optima, Spectra; years=2001-2002)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:optima:V5"
+      }
+    },
+    {
+      "code": "C5",
+      "marketingName": "Diamond Silver",
+      "finish": "solid",
+      "lab": {
+        "L": 76.4,
+        "a": -1.27,
+        "b": 2.4,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #BCBDB8 (PaintRef hex, OEM=Kia, code=C5 (models=Sephia, Spectra, Sportage; years=2001-2003)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:sephia:C5"
+      }
+    },
+    {
+      "code": "C3S",
+      "marketingName": "Aluminum Silver",
+      "finish": "solid",
+      "lab": {
+        "L": 68.07,
+        "a": 0.06,
+        "b": -2.31,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #A4A6AA (PaintRef hex, OEM=Kia, code=C3S (models=Optima; years=2015-2020)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:optima:C3S"
+      }
+    },
+    {
+      "code": "KCS",
+      "marketingName": "Sparkling Silver",
+      "finish": "solid",
+      "lab": {
+        "L": 77.51,
+        "a": -2.6,
+        "b": -0.34,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #BAC1C0 (PaintRef hex, OEM=Kia, code=KCS (models=Optima, Sorento, Soul, Sportage; years=2015-2022)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:optima:KCS"
+      }
+    },
+    {
+      "code": "KC",
+      "marketingName": "Sparkling Silver",
+      "finish": "solid",
+      "lab": {
+        "L": 77.51,
+        "a": -2.6,
+        "b": -0.34,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #BAC1C0 (PaintRef hex, OEM=Kia, code=KC (models=Optima, Sportage; years=2017-2018)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:optima:KC"
+      }
+    },
+    {
+      "code": "IM",
+      "marketingName": "Titanium",
+      "finish": "solid",
+      "lab": {
+        "L": 57.1,
+        "a": 3.04,
+        "b": 4.71,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #928781 (PaintRef hex, OEM=Kia, code=IM (models=Optima, Sorento, Soul; years=2018-2019)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:optima:IM"
+      }
+    },
+    {
+      "code": "7R",
+      "marketingName": "Magenta Red",
+      "finish": "solid",
+      "lab": {
+        "L": 25.71,
+        "a": 41.46,
+        "b": 12.55,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #76172C (PaintRef hex, OEM=Kia, code=7R (models=Optima; years=2001-2002)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:optima:7R"
+      }
+    },
+    {
+      "code": "R9",
+      "marketingName": "Ruby Red",
+      "finish": "solid",
+      "lab": {
+        "L": 21.28,
+        "a": 38.99,
+        "b": 12.3,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #670E23 (PaintRef hex, OEM=Kia, code=R9 (models=Optima, Sedona, Sorento; years=2002-2005)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:optima:R9"
+      }
+    },
+    {
+      "code": "P6",
+      "marketingName": "Ruby Red",
+      "finish": "solid",
+      "lab": {
+        "L": 26.13,
+        "a": 43.01,
+        "b": 24.61,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #7B141B (PaintRef hex, OEM=Kia, code=P6 (models=Optima; years=2007-2009)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:optima:P6"
+      }
+    },
+    {
+      "code": "TR3",
+      "marketingName": "Remington Red",
+      "finish": "solid",
+      "lab": {
+        "L": 30.37,
+        "a": 45.13,
+        "b": 27.09,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #8A1D20 (PaintRef hex, OEM=Kia, code=TR3 (models=Optima, Sorento; years=2013-2017)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:optima:TR3"
+      }
+    },
+    {
+      "code": "M2R",
+      "marketingName": "Merlot",
+      "finish": "solid",
+      "lab": {
+        "L": 20.76,
+        "a": 23.91,
+        "b": 7.47,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #542228 (PaintRef hex, OEM=Kia, code=M2R (models=Sorento; year=2017)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:sorento:M2R"
+      }
+    },
+    {
+      "code": "TR3",
+      "marketingName": "Regency Red",
+      "finish": "solid",
+      "lab": {
+        "L": 30.37,
+        "a": 45.13,
+        "b": 27.09,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #8A1D20 (PaintRef hex, OEM=Kia, code=TR3 (models=Optima; year=2018)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:optima:TR3"
+      }
+    },
+    {
+      "code": "M2R",
+      "marketingName": "Sangria",
+      "finish": "solid",
+      "lab": {
+        "L": 20.76,
+        "a": 23.91,
+        "b": 7.47,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #542228 (PaintRef hex, OEM=Kia, code=M2R (models=Optima, Sorento, Telluride; years=2019-2022)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:optima:M2R"
+      }
+    },
+    {
+      "code": "U2",
+      "marketingName": "White Pearl",
+      "finish": "solid",
+      "lab": {
+        "L": 80.56,
+        "a": -0.74,
+        "b": 4.24,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #CAC8C0 (PaintRef hex, OEM=Kia, code=U2 (models=Optima; year=2000)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:optima:U2"
+      }
+    },
+    {
+      "code": "U2",
+      "marketingName": "Pearl White",
+      "finish": "solid",
+      "lab": {
+        "L": 80.56,
+        "a": -0.74,
+        "b": 4.24,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #CAC8C0 (PaintRef hex, OEM=Kia, code=U2 (models=Optima; years=2001-2002)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:optima:U2"
+      }
+    },
+    {
+      "code": "UD",
+      "marketingName": "White",
+      "finish": "solid",
+      "lab": {
+        "L": 91.44,
+        "a": -1.22,
+        "b": 2.31,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #E6E7E2 (PaintRef hex, OEM=Kia, code=UD (models=Optima, Sorento, Spectra, Sportage; years=2001-2003)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:optima:UD"
+      }
+    },
+    {
+      "code": "U3",
+      "marketingName": "Pearl White",
+      "finish": "solid",
+      "lab": {
+        "L": 85.63,
+        "a": -2.29,
+        "b": 5.3,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #D6D7CC (PaintRef hex, OEM=Kia, code=U3 (models=Optima; year=2003)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:optima:U3"
+      }
+    },
+    {
+      "code": "9B",
+      "marketingName": "Midnight Black Pearl",
+      "finish": "solid",
+      "lab": {
+        "L": 0,
+        "a": 0,
+        "b": 0,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #000000 (PaintRef hex, OEM=Kia, code=9B (models=Rio; year=2009)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:rio:9B"
+      }
+    },
+    {
+      "code": "MZH",
+      "marketingName": "Phantom Black",
+      "finish": "solid",
+      "lab": {
+        "L": 0,
+        "a": 0,
+        "b": 0,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #000000 (PaintRef hex, OEM=Kia, code=MZH (models=Rio; year=2019)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:rio:MZH"
+      }
+    },
+    {
+      "code": "B2",
+      "marketingName": "Atlantic Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 37.33,
+        "a": 0.49,
+        "b": -18.87,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #455976 (PaintRef hex, OEM=Kia, code=B2 (models=Rio; years=2001-2002)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:rio:B2"
+      }
+    },
+    {
+      "code": "B1",
+      "marketingName": "Steel Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 52.69,
+        "a": 1.64,
+        "b": -15.43,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #727E98 (PaintRef hex, OEM=Kia, code=B1 (models=Rio; years=2001-2002)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:rio:B1"
+      }
+    },
+    {
+      "code": "4T",
+      "marketingName": "Blueberry",
+      "finish": "solid",
+      "lab": {
+        "L": 41.72,
+        "a": 10.42,
+        "b": -27.75,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #595F90 (PaintRef hex, OEM=Kia, code=4T (models=Rio; years=2003-2005)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:rio:4T"
+      }
+    },
+    {
+      "code": "B7",
+      "marketingName": "Rally Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 36.17,
+        "a": -0.47,
+        "b": -31.85,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #225888 (PaintRef hex, OEM=Kia, code=B7 (models=Rio; years=2003-2005)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:rio:B7"
+      }
+    },
+    {
+      "code": "3W",
+      "marketingName": "Willow Green",
+      "finish": "solid",
+      "lab": {
+        "L": 33.9,
+        "a": -8.37,
+        "b": -6.06,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #3A5459 (PaintRef hex, OEM=Kia, code=3W (models=Rio; years=2003-2005)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:rio:3W"
+      }
+    },
+    {
+      "code": "T5",
+      "marketingName": "Sapphire",
+      "finish": "solid",
+      "lab": {
+        "L": 39.1,
+        "a": 3.76,
+        "b": -33.23,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #375D92 (PaintRef hex, OEM=Kia, code=T5 (models=Rio; years=2006-2011)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:rio:T5"
+      }
+    },
+    {
+      "code": "T5",
+      "marketingName": "Sapphire Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 39.1,
+        "a": 3.76,
+        "b": -33.23,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #375D92 (PaintRef hex, OEM=Kia, code=T5 (models=Rio; year=2008)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:rio:T5"
+      }
+    },
+    {
+      "code": "FBD",
+      "marketingName": "Electronic Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 33.57,
+        "a": 12.47,
+        "b": -32.18,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #424B82 (PaintRef hex, OEM=Kia, code=FBD (models=Rio; years=2012-2016)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:rio:FBD"
+      }
+    },
+    {
+      "code": "BLA",
+      "marketingName": "Midnight Sapphire",
+      "finish": "solid",
+      "lab": {
+        "L": 19.44,
+        "a": -0.74,
+        "b": -8.97,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #26303C (PaintRef hex, OEM=Kia, code=BLA (models=Rio; years=2013-2014)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:rio:BLA"
+      }
+    },
+    {
+      "code": "EU2",
+      "marketingName": "Urban Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 43.74,
+        "a": 0.75,
+        "b": -14.4,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #5B687F (PaintRef hex, OEM=Kia, code=EU2 (models=Rio; years=2015-2017)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:rio:EU2"
+      }
+    },
+    {
+      "code": "BLA",
+      "marketingName": "Formal Deep Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 19.44,
+        "a": -0.74,
+        "b": -8.97,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #26303C (PaintRef hex, OEM=Kia, code=BLA (models=Sedona; year=2017)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:sedona:BLA"
+      }
+    },
+    {
+      "code": "EU3",
+      "marketingName": "Ice Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 69.67,
+        "a": -2.18,
+        "b": -8.31,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #9EACB9 (PaintRef hex, OEM=Kia, code=EU3 (models=Rio; years=2018-2020)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:rio:EU3"
+      }
+    },
+    {
+      "code": "6Y",
+      "marketingName": "Light Gold",
+      "finish": "solid",
+      "lab": {
+        "L": 63.23,
+        "a": 6.53,
+        "b": 19.4,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #B19477 (PaintRef hex, OEM=Kia, code=6Y (models=Rio; years=2001-2005)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:rio:6Y"
+      }
+    },
+    {
+      "code": "2Y",
+      "marketingName": "Sunburst Gold",
+      "finish": "solid",
+      "lab": {
+        "L": 63.82,
+        "a": 3.69,
+        "b": 50.89,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #BA963C (PaintRef hex, OEM=Kia, code=2Y (models=Rio; years=2001-2002)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:rio:2Y"
+      }
+    },
+    {
+      "code": "J4",
+      "marketingName": "Cashmere Beige",
+      "finish": "solid",
+      "lab": {
+        "L": 72.26,
+        "a": 4.99,
+        "b": 18.39,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #C7AD90 (PaintRef hex, OEM=Kia, code=J4 (models=Rio, Sedona; years=2006-2012)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:rio:J4"
+      }
+    },
+    {
+      "code": "4Y",
+      "marketingName": "Sand Beige",
+      "finish": "solid",
+      "lab": {
+        "L": 67.83,
+        "a": 6.62,
+        "b": 4.75,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #B5A19D (PaintRef hex, OEM=Kia, code=4Y (models=Rio, Sorento, Spectra; years=2005-2009)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:rio:4Y"
+      }
+    },
+    {
+      "code": "F2G",
+      "marketingName": "Caramel Yellow",
+      "finish": "solid",
+      "lab": {
+        "L": 46.41,
+        "a": 24.07,
+        "b": 28.07,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #9F5D40 (PaintRef hex, OEM=Kia, code=F2G (models=Rio; years=2012-2014)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:rio:F2G"
+      }
+    },
+    {
+      "code": "DBS",
+      "marketingName": "Chestnut",
+      "finish": "solid",
+      "lab": {
+        "L": 31.57,
+        "a": 7.68,
+        "b": 2.91,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #584646 (PaintRef hex, OEM=Kia, code=DBS (models=Rio; years=2012-2015)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:rio:DBS"
+      }
+    },
+    {
+      "code": "FDP",
+      "marketingName": "Silvertone Beige",
+      "finish": "solid",
+      "lab": {
+        "L": 66.55,
+        "a": 0.9,
+        "b": 4.41,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #A7A19A (PaintRef hex, OEM=Kia, code=FDP (models=Rio, Sedona; years=2012-2016)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:rio:FDP"
+      }
+    },
+    {
+      "code": "DBS",
+      "marketingName": "Wendy Brown",
+      "finish": "solid",
+      "lab": {
+        "L": 31.57,
+        "a": 7.68,
+        "b": 2.91,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #584646 (PaintRef hex, OEM=Kia, code=DBS (models=Rio; years=2016-2017)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:rio:DBS"
+      }
+    },
+    {
+      "code": "C1",
+      "marketingName": "Light Silver",
+      "finish": "solid",
+      "lab": {
+        "L": 78.65,
+        "a": 2.44,
+        "b": 2,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #C9C1BF (PaintRef hex, OEM=Kia, code=C1 (models=Rio; years=2001-2002)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:rio:C1"
+      }
+    },
+    {
+      "code": "V9",
+      "marketingName": "Pewter Gray",
+      "finish": "solid",
+      "lab": {
+        "L": 36.8,
+        "a": 6.93,
+        "b": -2.68,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #60535B (PaintRef hex, OEM=Kia, code=V9 (models=Rio, Sephia, Sorento, Spectra, Sportage; years=2001-2005)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:rio:V9"
+      }
+    },
+    {
+      "code": "7V",
+      "marketingName": "Olive Gray",
+      "finish": "solid",
+      "lab": {
+        "L": 46.67,
+        "a": 1.18,
+        "b": -0.84,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #706E70 (PaintRef hex, OEM=Kia, code=7V (models=Rio, Sedona; years=2006-2010)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:rio:7V"
+      }
+    },
+    {
+      "code": "J1",
+      "marketingName": "Polar Silver",
+      "finish": "solid",
+      "lab": {
+        "L": 81.44,
+        "a": -4.09,
+        "b": -4.22,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #BECDD2 (PaintRef hex, OEM=Kia, code=J1 (models=Rio; years=2006-2009)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:rio:J1"
+      }
+    },
+    {
+      "code": "R4",
+      "marketingName": "Cinnamon Red",
+      "finish": "solid",
+      "lab": {
+        "L": 39.67,
+        "a": 45.84,
+        "b": 30.72,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #A7362E (PaintRef hex, OEM=Kia, code=R4 (models=Rio; years=2002-2003)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:rio:R4"
+      }
+    },
+    {
+      "code": "R4",
+      "marketingName": "Cinnamon",
+      "finish": "solid",
+      "lab": {
+        "L": 39.67,
+        "a": 45.84,
+        "b": 30.72,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #A7362E (PaintRef hex, OEM=Kia, code=R4 (models=Rio; years=2004-2005)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:rio:R4"
+      }
+    },
+    {
+      "code": "O6",
+      "marketingName": "Sunset Orange",
+      "finish": "solid",
+      "lab": {
+        "L": 44.2,
+        "a": 50.06,
+        "b": 38.46,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #BB3C2B (PaintRef hex, OEM=Kia, code=O6 (models=Rio; years=2006-2011)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:rio:O6"
+      }
+    },
+    {
+      "code": "VR",
+      "marketingName": "Classic Red",
+      "finish": "solid",
+      "lab": {
+        "L": 34.26,
+        "a": 51.7,
+        "b": 35.4,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #9E1B1B (PaintRef hex, OEM=Kia, code=VR (models=Rio, Sephia, Sportage; years=2001-2005)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:rio:VR"
+      }
+    },
+    {
+      "code": "O8",
+      "marketingName": "Tropical Red",
+      "finish": "solid",
+      "lab": {
+        "L": 39.27,
+        "a": 56.04,
+        "b": 41.1,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #B3221C (PaintRef hex, OEM=Kia, code=O8 (models=Rio; years=2006-2011)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:rio:O8"
+      }
+    },
+    {
+      "code": "BEG",
+      "marketingName": "Signal Red",
+      "finish": "solid",
+      "lab": {
+        "L": 38.73,
+        "a": 57.57,
+        "b": 40.61,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #B31C1C (PaintRef hex, OEM=Kia, code=BEG (models=Rio, Sportage; years=2011-2017)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:rio:BEG"
+      }
+    },
+    {
+      "code": "PH",
+      "marketingName": "Polar White",
+      "finish": "solid",
+      "lab": {
+        "L": 98.81,
+        "a": -3.95,
+        "b": -0.3,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #F3FEFC (PaintRef hex, OEM=Kia, code=PH (models=Rio; years=2001-2005)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:rio:PH"
+      }
+    },
+    {
+      "code": "DYS",
+      "marketingName": "Digital Yellow",
+      "finish": "solid",
+      "lab": {
+        "L": 84.9,
+        "a": -3.34,
+        "b": 32.23,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #E4D497 (PaintRef hex, OEM=Kia, code=DYS (models=Rio; years=2015-2016)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:rio:DYS"
+      }
+    },
+    {
+      "code": "K5",
+      "marketingName": "Velvet Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 26.26,
+        "a": 1.53,
+        "b": -9.19,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #393E4C (PaintRef hex, OEM=Kia, code=K5 (models=Rondo, Sedona; years=2006-2010)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:rondo:K5"
+      }
+    },
+    {
+      "code": "I2",
+      "marketingName": "Moonlight Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 40.87,
+        "a": -0.41,
+        "b": -6.59,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #5A616B (PaintRef hex, OEM=Kia, code=I2 (models=Rondo, Soul; years=2009-2013)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:rondo:I2"
+      }
+    },
+    {
+      "code": "KU9",
+      "marketingName": "Fathom Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 33.31,
+        "a": 3.64,
+        "b": -8.05,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #4E4D5B (PaintRef hex, OEM=Kia, code=KU9 (models=Rondo, Soul; years=2014-2015)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:rondo:KU9"
+      }
+    },
+    {
+      "code": "H5",
+      "marketingName": "Java Brown",
+      "finish": "solid",
+      "lab": {
+        "L": 26.96,
+        "a": 5.02,
+        "b": 2.55,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #493D3C (PaintRef hex, OEM=Kia, code=H5 (models=Rondo, Sorento, Soul; years=2009-2012)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:rondo:H5"
+      }
+    },
+    {
+      "code": "A1",
+      "marketingName": "Vanilla Shake",
+      "finish": "solid",
+      "lab": {
+        "L": 78.74,
+        "a": 2.04,
+        "b": 9.19,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #CEC1B2 (PaintRef hex, OEM=Kia, code=A1 (models=Rondo, Soul; years=2010-2014)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:rondo:A1"
+      }
+    },
+    {
+      "code": "K7N",
+      "marketingName": "Galaxy Brown",
+      "finish": "solid",
+      "lab": {
+        "L": 30.26,
+        "a": 7.31,
+        "b": 6.15,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #56433E (PaintRef hex, OEM=Kia, code=K7N (models=Rondo; years=2014-2016)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:rondo:K7N"
+      }
+    },
+    {
+      "code": "7S",
+      "marketingName": "Silver",
+      "finish": "solid",
+      "lab": {
+        "L": 79.07,
+        "a": 0.15,
+        "b": -4.48,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #C0C4CC (PaintRef hex, OEM=Kia, code=7S (models=Rondo; year=2007)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:rondo:7S"
+      }
+    },
+    {
+      "code": "1U",
+      "marketingName": "Urban Gray",
+      "finish": "solid",
+      "lab": {
+        "L": 29.95,
+        "a": 1.31,
+        "b": -2.25,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #47464A (PaintRef hex, OEM=Kia, code=1U (models=Rondo; years=2007-2008)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:rondo:1U"
+      }
+    },
+    {
+      "code": "7S",
+      "marketingName": "Fine Silver",
+      "finish": "solid",
+      "lab": {
+        "L": 79.07,
+        "a": 0.15,
+        "b": -4.48,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #C0C4CC (PaintRef hex, OEM=Kia, code=7S (models=Rondo; year=2008)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:rondo:7S"
+      }
+    },
+    {
+      "code": "3H",
+      "marketingName": "Volcanic Red",
+      "finish": "solid",
+      "lab": {
+        "L": 31.92,
+        "a": 45.88,
+        "b": 31.53,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #90201C (PaintRef hex, OEM=Kia, code=3H (models=Rondo, Sportage; years=2007-2010)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:rondo:3H"
+      }
+    },
+    {
+      "code": "9H",
+      "marketingName": "Black Cherry",
+      "finish": "solid",
+      "lab": {
+        "L": 13.82,
+        "a": 11.64,
+        "b": 1.12,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #331D22 (PaintRef hex, OEM=Kia, code=9H (models=Rondo, Sorento, Soul, Sportage; years=2007-2022)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:rondo:9H"
+      }
+    },
+    {
+      "code": "9H",
+      "marketingName": "Black Cherry Pearl",
+      "finish": "solid",
+      "lab": {
+        "L": 13.82,
+        "a": 11.64,
+        "b": 1.12,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #331D22 (PaintRef hex, OEM=Kia, code=9H (models=Sportage; year=2009)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:sportage:9H"
+      }
+    },
+    {
+      "code": "1E",
+      "marketingName": "Molten",
+      "finish": "solid",
+      "lab": {
+        "L": 42.53,
+        "a": 63.33,
+        "b": 43.94,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #C61A1F (PaintRef hex, OEM=Kia, code=1E (models=Rondo, Soul; years=2009-2013)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:rondo:1E"
+      }
+    },
+    {
+      "code": "AJR",
+      "marketingName": "Inferno Red",
+      "finish": "solid",
+      "lab": {
+        "L": 46.13,
+        "a": 68.17,
+        "b": 51.74,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #D81918 (PaintRef hex, OEM=Kia, code=AJR (models=Rondo, Soul; years=2014-2025)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:rondo:AJR"
+      }
+    },
+    {
+      "code": "P1",
+      "marketingName": "Blue Sapphire",
+      "finish": "solid",
+      "lab": {
+        "L": 30.37,
+        "a": 5.39,
+        "b": -17.1,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #414662 (PaintRef hex, OEM=Kia, code=P1 (models=Sedona; years=2002-2003)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:sedona:P1"
+      }
+    },
+    {
+      "code": "P7",
+      "marketingName": "Misty Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 45.42,
+        "a": 4.32,
+        "b": -11.75,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #696A7F (PaintRef hex, OEM=Kia, code=P7 (models=Sedona; year=2002)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:sedona:P7"
+      }
+    },
+    {
+      "code": "K9",
+      "marketingName": "Glacier Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 57.71,
+        "a": 1.29,
+        "b": -14.67,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #7F8BA4 (PaintRef hex, OEM=Kia, code=K9 (models=Sedona; years=2006-2016)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:sedona:K9"
+      }
+    },
+    {
+      "code": "D9B",
+      "marketingName": "Mineral Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 28.39,
+        "a": 10.17,
+        "b": -27.9,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #37406E (PaintRef hex, OEM=Kia, code=D9B (models=Sedona; year=2018)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:sedona:D9B"
+      }
+    },
+    {
+      "code": "D9B",
+      "marketingName": "Celestial Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 28.39,
+        "a": 10.17,
+        "b": -27.9,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #37406E (PaintRef hex, OEM=Kia, code=D9B (models=Sedona; year=2020)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:sedona:D9B"
+      }
+    },
+    {
+      "code": "D3",
+      "marketingName": "Silky Beige",
+      "finish": "solid",
+      "lab": {
+        "L": 76.51,
+        "a": 2.15,
+        "b": 6.45,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #C6BBB1 (PaintRef hex, OEM=Kia, code=D3 (models=Sedona; years=2002-2005)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:sedona:D3"
+      }
+    },
+    {
+      "code": "J9",
+      "marketingName": "Sunset Gold",
+      "finish": "solid",
+      "lab": {
+        "L": 70.05,
+        "a": 5.78,
+        "b": 11.34,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #BEA797 (PaintRef hex, OEM=Kia, code=J9 (models=Sedona; years=2006-2010)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:sedona:J9"
+      }
+    },
+    {
+      "code": "C7",
+      "marketingName": "Bright Platinum",
+      "finish": "solid",
+      "lab": {
+        "L": 61.76,
+        "a": 0.17,
+        "b": 0.66,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #969594 (PaintRef hex, OEM=Kia, code=C7 (models=Sedona, Sportage; years=2001-2003)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:sedona:C7"
+      }
+    },
+    {
+      "code": "C9",
+      "marketingName": "Silver",
+      "finish": "solid",
+      "lab": {
+        "L": 82.76,
+        "a": -3.2,
+        "b": -1.67,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #C6D0D1 (PaintRef hex, OEM=Kia, code=C9 (models=Sedona; year=2002)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:sedona:C9"
+      }
+    },
+    {
+      "code": "G6",
+      "marketingName": "Emerald Green",
+      "finish": "solid",
+      "lab": {
+        "L": 26.78,
+        "a": -7.43,
+        "b": -5.88,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #2C4348 (PaintRef hex, OEM=Kia, code=G6 (models=Sedona; year=2002)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:sedona:G6"
+      }
+    },
+    {
+      "code": "G6",
+      "marketingName": "Dark Emerald Green",
+      "finish": "solid",
+      "lab": {
+        "L": 26.78,
+        "a": -7.43,
+        "b": -5.88,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #2C4348 (PaintRef hex, OEM=Kia, code=G6 (models=Sedona; years=2003-2005)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:sedona:G6"
+      }
+    },
+    {
+      "code": "G8",
+      "marketingName": "Sage Green",
+      "finish": "solid",
+      "lab": {
+        "L": 45.66,
+        "a": -6.66,
+        "b": 7.76,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #666F5F (PaintRef hex, OEM=Kia, code=G8 (models=Sedona; years=2003-2005)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:sedona:G8"
+      }
+    },
+    {
+      "code": "7P",
+      "marketingName": "Claret Red",
+      "finish": "solid",
+      "lab": {
+        "L": 29.26,
+        "a": 43.27,
+        "b": 29.24,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #851D1A (PaintRef hex, OEM=Kia, code=7P (models=Sedona; years=2006-2014)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:sedona:7P"
+      }
+    },
+    {
+      "code": "BGD",
+      "marketingName": "Black Cherry",
+      "finish": "solid",
+      "lab": {
+        "L": 19.05,
+        "a": 22.03,
+        "b": 5.59,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #4D2027 (PaintRef hex, OEM=Kia, code=BGD (models=Sedona; year=2016)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:sedona:BGD"
+      }
+    },
+    {
+      "code": "BGD",
+      "marketingName": "Merlot",
+      "finish": "solid",
+      "lab": {
+        "L": 19.05,
+        "a": 22.03,
+        "b": 5.59,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #4D2027 (PaintRef hex, OEM=Kia, code=BGD (models=Sedona; year=2018)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:sedona:BGD"
+      }
+    },
+    {
+      "code": "BGD",
+      "marketingName": "Venetian Red",
+      "finish": "solid",
+      "lab": {
+        "L": 19.05,
+        "a": 22.03,
+        "b": 5.59,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #4D2027 (PaintRef hex, OEM=Kia, code=BGD (models=Sedona; years=2019-2020)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:sedona:BGD"
+      }
+    },
+    {
+      "code": "FSB",
+      "marketingName": "Fusion Black",
+      "finish": "solid",
+      "lab": {
+        "L": 0,
+        "a": 0,
+        "b": 0,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #000000 (PaintRef hex, OEM=Kia, code=FSB (models=Seltos, Soul, Sportage; years=2023-2025)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:seltos:FSB"
+      }
+    },
+    {
+      "code": "BU3",
+      "marketingName": "Dark Ocean Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 25.71,
+        "a": 12.51,
+        "b": -37.98,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #1F3A77 (PaintRef hex, OEM=Kia, code=BU3 (models=Seltos; years=2021-2025)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:seltos:BU3"
+      }
+    },
+    {
+      "code": "BNB",
+      "marketingName": "Intelligence Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 28.2,
+        "a": -21.19,
+        "b": 1.28,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #124B40 (PaintRef hex, OEM=Kia, code=BNB (models=Seltos; year=2021)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:seltos:BNB"
+      }
+    },
+    {
+      "code": "B3A",
+      "marketingName": "Neptune Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 46.67,
+        "a": -1.79,
+        "b": -39.06,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #2473B0 (PaintRef hex, OEM=Kia, code=B3A (models=Seltos, Soul; years=2020-2025)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:seltos:B3A"
+      }
+    },
+    {
+      "code": "PLU",
+      "marketingName": "Pluton Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 55.52,
+        "a": -6.38,
+        "b": -9.45,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #6F8995 (PaintRef hex, OEM=Kia, code=PLU (models=Seltos; years=2024-2025)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:seltos:PLU"
+      }
+    },
+    {
+      "code": "B4E",
+      "marketingName": "Valais Green",
+      "finish": "solid",
+      "lab": {
+        "L": 48.75,
+        "a": -7.43,
+        "b": 33.78,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #7A7639 (PaintRef hex, OEM=Kia, code=B4E (models=Seltos; year=2024)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:seltos:B4E"
+      }
+    },
+    {
+      "code": "M3R",
+      "marketingName": "Mars Orange",
+      "finish": "solid",
+      "lab": {
+        "L": 50.25,
+        "a": 51,
+        "b": 45.32,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #D04B2C (PaintRef hex, OEM=Kia, code=M3R (models=Seltos, Soul; years=2020-2025)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:seltos:M3R"
+      }
+    },
+    {
+      "code": "B4Y",
+      "marketingName": "Starbright Yellow",
+      "finish": "solid",
+      "lab": {
+        "L": 72.06,
+        "a": -5.42,
+        "b": 56,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #C5B145 (PaintRef hex, OEM=Kia, code=B4Y (models=Seltos; years=2021-2023)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:seltos:B4Y"
+      }
+    },
+    {
+      "code": "6B",
+      "marketingName": "Purplish Slate Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 31.77,
+        "a": 1.52,
+        "b": -14.31,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #404B61 (PaintRef hex, OEM=Kia, code=6B (models=Sportage; year=2001)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:sportage:6B"
+      }
+    },
+    {
+      "code": "6B",
+      "marketingName": "Slate Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 31.77,
+        "a": 1.52,
+        "b": -14.31,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #404B61 (PaintRef hex, OEM=Kia, code=6B (models=Sportage; year=2002)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:sportage:6B"
+      }
+    },
+    {
+      "code": "8Y",
+      "marketingName": "Stone Beige",
+      "finish": "solid",
+      "lab": {
+        "L": 62.98,
+        "a": 3.86,
+        "b": 1.98,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #A19695 (PaintRef hex, OEM=Kia, code=8Y (models=Sephia, Sorento, Spectra, Sportage; years=2001-2004)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:sephia:8Y"
+      }
+    },
+    {
+      "code": "R5",
+      "marketingName": "Pepper Red",
+      "finish": "solid",
+      "lab": {
+        "L": 22.07,
+        "a": 39.33,
+        "b": 21.01,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #6B0F18 (PaintRef hex, OEM=Kia, code=R5 (models=Sephia, Sportage; years=2001-2002)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:sephia:R5"
+      }
+    },
+    {
+      "code": "XMK",
+      "marketingName": "Khaki",
+      "finish": "solid",
+      "lab": {
+        "L": 30.36,
+        "a": -0.32,
+        "b": 11.92,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #4E4735 (PaintRef hex, OEM=Kia, code=XMK (models=Sorento; year=2011)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:sorento:XMK"
+      }
+    },
+    {
+      "code": "MBA",
+      "marketingName": "White Sand Beige",
+      "finish": "solid",
+      "lab": {
+        "L": 77.33,
+        "a": 5.64,
+        "b": 8.28,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #D0BBB0 (PaintRef hex, OEM=Kia, code=MBA (models=Sorento; years=2011-2012)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:sorento:MBA"
+      }
+    },
+    {
+      "code": "XMK",
+      "marketingName": "Tuscan Olive",
+      "finish": "solid",
+      "lab": {
+        "L": 30.36,
+        "a": -0.32,
+        "b": 11.92,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #4E4735 (PaintRef hex, OEM=Kia, code=XMK (models=Sorento; years=2012-2013)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:sorento:XMK"
+      }
+    },
+    {
+      "code": "NBM",
+      "marketingName": "Mahogany Brown",
+      "finish": "solid",
+      "lab": {
+        "L": 14.59,
+        "a": 7.19,
+        "b": 5.08,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #31211E (PaintRef hex, OEM=Kia, code=NBM (models=Sorento; year=2014)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:sorento:NBM"
+      }
+    },
+    {
+      "code": "MY3",
+      "marketingName": "Imperial Bronze",
+      "finish": "solid",
+      "lab": {
+        "L": 46.87,
+        "a": 9.78,
+        "b": 28.71,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #8D683F (PaintRef hex, OEM=Kia, code=MY3 (models=Sorento; years=2015-2016)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:sorento:MY3"
+      }
+    },
+    {
+      "code": "MN7",
+      "marketingName": "Polished Walnut",
+      "finish": "solid",
+      "lab": {
+        "L": 40.64,
+        "a": 12.3,
+        "b": 12.49,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #7A584C (PaintRef hex, OEM=Kia, code=MN7 (models=Sorento; years=2016-2018)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:sorento:MN7"
+      }
+    },
+    {
+      "code": "DRB",
+      "marketingName": "Dragon Brown",
+      "finish": "solid",
+      "lab": {
+        "L": 49.28,
+        "a": 4.57,
+        "b": 9.09,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #837266 (PaintRef hex, OEM=Kia, code=DRB (models=Sorento; years=2019-2020)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:sorento:DRB"
+      }
+    },
+    {
+      "code": "M2Y",
+      "marketingName": "Road Rider Brown",
+      "finish": "solid",
+      "lab": {
+        "L": 76.46,
+        "a": 1.07,
+        "b": -0.76,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #BEBCBE (PaintRef hex, OEM=Kia, code=M2Y (models=Sorento; year=2025)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:sorento:M2Y"
+      }
+    },
+    {
+      "code": "G7",
+      "marketingName": "Alpine Gray",
+      "finish": "solid",
+      "lab": {
+        "L": 57.68,
+        "a": 1.4,
+        "b": -3.73,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #8A8A91 (PaintRef hex, OEM=Kia, code=G7 (models=Sorento; years=2003-2009)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:sorento:G7"
+      }
+    },
+    {
+      "code": "G7",
+      "marketingName": "Grayish Purple",
+      "finish": "solid",
+      "lab": {
+        "L": 57.68,
+        "a": 1.4,
+        "b": -3.73,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #8A8A91 (PaintRef hex, OEM=Kia, code=G7 (models=Sorento; years=2004-2005)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:sorento:G7"
+      }
+    },
+    {
+      "code": "A2S",
+      "marketingName": "Dark Pegasous Silver",
+      "finish": "solid",
+      "lab": {
+        "L": 55.21,
+        "a": -0.21,
+        "b": 4.17,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #87847D (PaintRef hex, OEM=Kia, code=A2S (models=Sportage; year=2014)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:sportage:A2S"
+      }
+    },
+    {
+      "code": "ASG",
+      "marketingName": "Aruba Green",
+      "finish": "solid",
+      "lab": {
+        "L": 58.55,
+        "a": -6.93,
+        "b": 7.8,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #86907F (PaintRef hex, OEM=Kia, code=ASG (models=Sorento; years=2021-2023)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:sorento:ASG"
+      }
+    },
+    {
+      "code": "PML",
+      "marketingName": "Panthera Metal",
+      "finish": "solid",
+      "lab": {
+        "L": 24.21,
+        "a": -0.34,
+        "b": -5.04,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #353A41 (PaintRef hex, OEM=Kia, code=PML (models=Telluride; year=2025)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:telluride:PML"
+      }
+    },
+    {
+      "code": "BN4",
+      "marketingName": "Volcanic Sand",
+      "finish": "solid",
+      "lab": {
+        "L": 76.88,
+        "a": 2.63,
+        "b": 2.64,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #C5BCB9 (PaintRef hex, OEM=Kia, code=BN4 (models=Sorento; year=2025)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:sorento:BN4"
+      }
+    },
+    {
+      "code": "3N",
+      "marketingName": "Ivy Green",
+      "finish": "solid",
+      "lab": {
+        "L": 39.33,
+        "a": -3.43,
+        "b": 5.91,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #5B5E53 (PaintRef hex, OEM=Kia, code=3N (models=Sorento; years=2003-2007)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:sorento:3N"
+      }
+    },
+    {
+      "code": "EAB",
+      "marketingName": "Sage Green",
+      "finish": "solid",
+      "lab": {
+        "L": 38.87,
+        "a": 1.93,
+        "b": -7.12,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #595B67 (PaintRef hex, OEM=Kia, code=EAB (models=Sorento, Sportage; years=2014-2016)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:sorento:EAB"
+      }
+    },
+    {
+      "code": "JUG",
+      "marketingName": "Jungle Green",
+      "finish": "solid",
+      "lab": {
+        "L": 46.41,
+        "a": -6.84,
+        "b": 7.06,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #677162 (PaintRef hex, OEM=Kia, code=JUG (models=Sportage, Telluride; years=2023-2025)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:sportage:JUG"
+      }
+    },
+    {
+      "code": "MR5",
+      "marketingName": "Sunset Red",
+      "finish": "solid",
+      "lab": {
+        "L": 34.31,
+        "a": 28.19,
+        "b": 15.18,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #7F3D3A (PaintRef hex, OEM=Kia, code=MR5 (models=Sorento; years=2015-2016)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:sorento:MR5"
+      }
+    },
+    {
+      "code": "M2R",
+      "marketingName": "Dark Cherry",
+      "finish": "solid",
+      "lab": {
+        "L": 20.76,
+        "a": 23.91,
+        "b": 7.47,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #542228 (PaintRef hex, OEM=Kia, code=M2R (models=Sorento; year=2018)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:sorento:M2R"
+      }
+    },
+    {
+      "code": "DWR",
+      "marketingName": "Dawning Red",
+      "finish": "solid",
+      "lab": {
+        "L": 21.2,
+        "a": 34.82,
+        "b": 22.24,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #641514 (PaintRef hex, OEM=Kia, code=DWR (models=Sportage, Telluride; years=2023-2025)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:sportage:DWR"
+      }
+    },
+    {
+      "code": "SWA",
+      "marketingName": "Snow White",
+      "finish": "solid",
+      "lab": {
+        "L": 96.44,
+        "a": -2.19,
+        "b": 0.86,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #F1F6F3 (PaintRef hex, OEM=Kia, code=SWA (models=Sorento; year=2012)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:sorento:SWA"
+      }
+    },
+    {
+      "code": "9H",
+      "marketingName": "Cherry Black",
+      "finish": "solid",
+      "lab": {
+        "L": 13.82,
+        "a": 11.64,
+        "b": 1.12,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #331D22 (PaintRef hex, OEM=Kia, code=9H (models=Soul, Sportage; years=2020-2021)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:soul:9H"
+      }
+    },
+    {
+      "code": "1H",
+      "marketingName": "Blue Stone",
+      "finish": "solid",
+      "lab": {
+        "L": 67.73,
+        "a": -5.25,
+        "b": -1.8,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #99A8A8 (PaintRef hex, OEM=Kia, code=1H (models=Soul; years=2010-2011)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:soul:1H"
+      }
+    },
+    {
+      "code": "AUB",
+      "marketingName": "Caribbean Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 39.71,
+        "a": 2.81,
+        "b": -33.47,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #355F94 (PaintRef hex, OEM=Kia, code=AUB (models=Soul; years=2015-2019)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:soul:AUB"
+      }
+    },
+    {
+      "code": "KU9",
+      "marketingName": "Newport Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 33.31,
+        "a": 3.64,
+        "b": -8.05,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #4E4D5B (PaintRef hex, OEM=Kia, code=KU9 (models=Soul; year=2016)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:soul:KU9"
+      }
+    },
+    {
+      "code": "ACH",
+      "marketingName": "Electronic Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 77.12,
+        "a": -14.39,
+        "b": -9.28,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #95C7CF (PaintRef hex, OEM=Kia, code=ACH (models=Soul; years=2017-2018)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:soul:ACH"
+      }
+    },
+    {
+      "code": "AAP",
+      "marketingName": "Mysterious Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 17.41,
+        "a": -8.8,
+        "b": -10.84,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #082F3A (PaintRef hex, OEM=Kia, code=AAP (models=Soul; years=2017-2019)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:soul:AAP"
+      }
+    },
+    {
+      "code": "SRB",
+      "marketingName": "Surf Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 47.89,
+        "a": -7.67,
+        "b": -30.72,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #2D78A5 (PaintRef hex, OEM=Kia, code=SRB (models=Soul; years=2023-2025)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:soul:SRB"
+      }
+    },
+    {
+      "code": "BD5",
+      "marketingName": "Moss",
+      "finish": "solid",
+      "lab": {
+        "L": 35.76,
+        "a": 3.4,
+        "b": 5.18,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #5D524C (PaintRef hex, OEM=Kia, code=BD5 (models=Soul; years=2012-2013)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:soul:BD5"
+      }
+    },
+    {
+      "code": "DT9",
+      "marketingName": "Saddle Brown",
+      "finish": "solid",
+      "lab": {
+        "L": 29.68,
+        "a": 21.24,
+        "b": 14.81,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #6A3830 (PaintRef hex, OEM=Kia, code=DT9 (models=Soul; year=2012)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:soul:DT9"
+      }
+    },
+    {
+      "code": "A1",
+      "marketingName": "Dune",
+      "finish": "solid",
+      "lab": {
+        "L": 78.74,
+        "a": 2.04,
+        "b": 9.19,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #CEC1B2 (PaintRef hex, OEM=Kia, code=A1 (models=Soul; year=2013)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:soul:A1"
+      }
+    },
+    {
+      "code": "ANB",
+      "marketingName": "Toffee",
+      "finish": "solid",
+      "lab": {
+        "L": 38.03,
+        "a": 6.02,
+        "b": 4.18,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #665653 (PaintRef hex, OEM=Kia, code=ANB (models=Soul; year=2014)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:soul:ANB"
+      }
+    },
+    {
+      "code": "ANB",
+      "marketingName": "Latte Brown",
+      "finish": "solid",
+      "lab": {
+        "L": 38.03,
+        "a": 6.02,
+        "b": 4.18,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #665653 (PaintRef hex, OEM=Kia, code=ANB (models=Soul; years=2015-2016)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:soul:ANB"
+      }
+    },
+    {
+      "code": "AH7",
+      "marketingName": "Russet Brown",
+      "finish": "solid",
+      "lab": {
+        "L": 45.98,
+        "a": 24.78,
+        "b": 38.07,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #A15B2D (PaintRef hex, OEM=Kia, code=AH7 (models=Soul; year=2017)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:soul:AH7"
+      }
+    },
+    {
+      "code": "AAW",
+      "marketingName": "Caffeine Brown",
+      "finish": "solid",
+      "lab": {
+        "L": 42.73,
+        "a": 11.98,
+        "b": 17.28,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #815D49 (PaintRef hex, OEM=Kia, code=AAW (models=Soul; year=2018)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:soul:AAW"
+      }
+    },
+    {
+      "code": "AAW",
+      "marketingName": "Russet Brown",
+      "finish": "solid",
+      "lab": {
+        "L": 42.73,
+        "a": 11.98,
+        "b": 17.28,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #815D49 (PaintRef hex, OEM=Kia, code=AAW (models=Soul; year=2019)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:soul:AAW"
+      }
+    },
+    {
+      "code": "G3Y",
+      "marketingName": "Platinum Gold",
+      "finish": "solid",
+      "lab": {
+        "L": 77.21,
+        "a": -0.57,
+        "b": 15.04,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #C9BEA3 (PaintRef hex, OEM=Kia, code=G3Y (models=Soul; year=2020)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:soul:G3Y"
+      }
+    },
+    {
+      "code": "AAL",
+      "marketingName": "Satin Metal",
+      "finish": "solid",
+      "lab": {
+        "L": 44.83,
+        "a": 2.19,
+        "b": -2.38,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #6C696E (PaintRef hex, OEM=Kia, code=AAL (models=Soul; year=2017)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:soul:AAL"
+      }
+    },
+    {
+      "code": "A3D",
+      "marketingName": "Bright Silver",
+      "finish": "solid",
+      "lab": {
+        "L": 80.82,
+        "a": -0.47,
+        "b": -1.85,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #C6C9CC (PaintRef hex, OEM=Kia, code=A3D (models=Soul, Sportage; years=2011-2019)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:soul:A3D"
+      }
+    },
+    {
+      "code": "KLT",
+      "marketingName": "Sparkling Silver",
+      "finish": "solid",
+      "lab": {
+        "L": 59.82,
+        "a": -1.65,
+        "b": 0.02,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #8D9190 (PaintRef hex, OEM=Kia, code=KLT (models=Soul; year=2023)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:soul:KLT"
+      }
+    },
+    {
+      "code": "KLT",
+      "marketingName": "Steel Gray",
+      "finish": "solid",
+      "lab": {
+        "L": 59.82,
+        "a": -1.65,
+        "b": 0.02,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #8D9190 (PaintRef hex, OEM=Kia, code=KLT (models=Soul; year=2025)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:soul:KLT"
+      }
+    },
+    {
+      "code": "I7",
+      "marketingName": "Green Tea Latte",
+      "finish": "solid",
+      "lab": {
+        "L": 70.02,
+        "a": -2.52,
+        "b": 25.94,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #B8AB7C (PaintRef hex, OEM=Kia, code=I7 (models=Soul; years=2010-2012)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:soul:I7"
+      }
+    },
+    {
+      "code": "ASE",
+      "marketingName": "Misty Green",
+      "finish": "solid",
+      "lab": {
+        "L": 42.7,
+        "a": -2.03,
+        "b": -2.62,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #5F6669 (PaintRef hex, OEM=Kia, code=ASE (models=Soul; year=2012)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:soul:ASE"
+      }
+    },
+    {
+      "code": "I7",
+      "marketingName": "Alien",
+      "finish": "solid",
+      "lab": {
+        "L": 70.02,
+        "a": -2.52,
+        "b": 25.94,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #B8AB7C (PaintRef hex, OEM=Kia, code=I7 (models=Soul; year=2013)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:soul:I7"
+      }
+    },
+    {
+      "code": "AE2",
+      "marketingName": "Alien",
+      "finish": "solid",
+      "lab": {
+        "L": 75.58,
+        "a": -17.06,
+        "b": 49.71,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #B9C15B (PaintRef hex, OEM=Kia, code=AE2 (models=Soul; years=2014-2015)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:soul:AE2"
+      }
+    },
+    {
+      "code": "AEB",
+      "marketingName": "Kale Green",
+      "finish": "solid",
+      "lab": {
+        "L": 36.75,
+        "a": -5.42,
+        "b": 1.43,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #4E5954 (PaintRef hex, OEM=Kia, code=AEB (models=Soul; years=2014-2015)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:soul:AEB"
+      }
+    },
+    {
+      "code": "AE3",
+      "marketingName": "Acid Green",
+      "finish": "solid",
+      "lab": {
+        "L": 75.58,
+        "a": -17.06,
+        "b": 49.71,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #B9C15B (PaintRef hex, OEM=Kia, code=AE3 (models=Soul; year=2016)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:soul:AE3"
+      }
+    },
+    {
+      "code": "AE3",
+      "marketingName": "Alien II Pearl",
+      "finish": "solid",
+      "lab": {
+        "L": 75.58,
+        "a": -17.06,
+        "b": 49.71,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #B9C15B (PaintRef hex, OEM=Kia, code=AE3 (models=Soul; years=2017-2019)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:soul:AE3"
+      }
+    },
+    {
+      "code": "AE2",
+      "marketingName": "Alien II Pearl",
+      "finish": "solid",
+      "lab": {
+        "L": 75.58,
+        "a": -17.06,
+        "b": 49.71,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #B9C15B (PaintRef hex, OEM=Kia, code=AE2 (models=Soul; year=2018)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:soul:AE2"
+      }
+    },
+    {
+      "code": "CEJ",
+      "marketingName": "Space Cadet Green",
+      "finish": "solid",
+      "lab": {
+        "L": 71.64,
+        "a": -23.03,
+        "b": 54.78,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #A5B945 (PaintRef hex, OEM=Kia, code=CEJ (models=Soul; years=2020-2021)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:soul:CEJ"
+      }
+    },
+    {
+      "code": "GEA",
+      "marketingName": "Undercover Green",
+      "finish": "solid",
+      "lab": {
+        "L": 42.56,
+        "a": -16.6,
+        "b": 26.71,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #586B37 (PaintRef hex, OEM=Kia, code=GEA (models=Soul; years=2020-2022)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:soul:GEA"
+      }
+    },
+    {
+      "code": "Y1",
+      "marketingName": "Cocktail Orange",
+      "finish": "solid",
+      "lab": {
+        "L": 46.29,
+        "a": 38.92,
+        "b": 39.25,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #B44F2D (PaintRef hex, OEM=Kia, code=Y1 (models=Soul; years=2010-2011)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:soul:Y1"
+      }
+    },
+    {
+      "code": "AAQ",
+      "marketingName": "Wild Orange Pearl",
+      "finish": "solid",
+      "lab": {
+        "L": 48.07,
+        "a": 42.74,
+        "b": 52.76,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #C04F14 (PaintRef hex, OEM=Kia, code=AAQ (models=Soul; year=2017)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:soul:AAQ"
+      }
+    },
+    {
+      "code": "AAQ",
+      "marketingName": "Wild Orange",
+      "finish": "solid",
+      "lab": {
+        "L": 48.07,
+        "a": 42.74,
+        "b": 52.76,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #C04F14 (PaintRef hex, OEM=Kia, code=AAQ (models=Soul; years=2018-2019)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:soul:AAQ"
+      }
+    },
+    {
+      "code": "9H",
+      "marketingName": "Shadow Pearl",
+      "finish": "solid",
+      "lab": {
+        "L": 13.82,
+        "a": 11.64,
+        "b": 1.12,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #331D22 (PaintRef hex, OEM=Kia, code=9H (models=Sportage; year=2013)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:sportage:9H"
+      }
+    },
+    {
+      "code": "9P",
+      "marketingName": "Black Cherry",
+      "finish": "solid",
+      "lab": {
+        "L": 13.82,
+        "a": 11.64,
+        "b": 1.12,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #331D22 (PaintRef hex, OEM=Kia, code=9P (models=Sportage; years=2005-2016)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:sportage:9P"
+      }
+    },
+    {
+      "code": "AYB",
+      "marketingName": "New Vanilla Shake",
+      "finish": "solid",
+      "lab": {
+        "L": 86.94,
+        "a": 0.34,
+        "b": 6.76,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #E0D9CD (PaintRef hex, OEM=Kia, code=AYB (models=Soul; years=2014-2017)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:soul:AYB"
+      }
+    },
+    {
+      "code": "AYB",
+      "marketingName": "Cloud White",
+      "finish": "solid",
+      "lab": {
+        "L": 86.94,
+        "a": 0.34,
+        "b": 6.76,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #E0D9CD (PaintRef hex, OEM=Kia, code=AYB (models=Soul; years=2018-2019)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:soul:AYB"
+      }
+    },
+    {
+      "code": "1D",
+      "marketingName": "Polar White",
+      "finish": "solid",
+      "lab": {
+        "L": 93.18,
+        "a": -1,
+        "b": -0.35,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #E9ECEC (PaintRef hex, OEM=Kia, code=1D (models=Soul; year=2018)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:soul:1D"
+      }
+    },
+    {
+      "code": "AYE",
+      "marketingName": "Solar Yellow",
+      "finish": "solid",
+      "lab": {
+        "L": 63.79,
+        "a": 2.19,
+        "b": 45.13,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #B69748 (PaintRef hex, OEM=Kia, code=AYE (models=Soul; years=2014-2016)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:soul:AYE"
+      }
+    },
+    {
+      "code": "ASY",
+      "marketingName": "Solar Yellow",
+      "finish": "solid",
+      "lab": {
+        "L": 81.19,
+        "a": -3.96,
+        "b": 58.37,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #E3C958 (PaintRef hex, OEM=Kia, code=ASY (models=Soul; year=2020)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:soul:ASY"
+      }
+    },
+    {
+      "code": "K2",
+      "marketingName": "Indigo Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 37.2,
+        "a": 2.78,
+        "b": -12.8,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #51576C (PaintRef hex, OEM=Kia, code=K2 (models=Spectra; year=2003)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:spectra:K2"
+      }
+    },
+    {
+      "code": "6B",
+      "marketingName": "Indigo Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 31.77,
+        "a": 1.52,
+        "b": -14.31,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #404B61 (PaintRef hex, OEM=Kia, code=6B (models=Spectra; year=2004)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:spectra:6B"
+      }
+    },
+    {
+      "code": "L1",
+      "marketingName": "Ice Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 70.18,
+        "a": -5.43,
+        "b": -5.92,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #9BAFB6 (PaintRef hex, OEM=Kia, code=L1 (models=Spectra; years=2005-2008)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:spectra:L1"
+      }
+    },
+    {
+      "code": "1S",
+      "marketingName": "Spark Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 44.49,
+        "a": -2.45,
+        "b": -30.72,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #386D9C (PaintRef hex, OEM=Kia, code=1S (models=Spectra; years=2005-2008)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:spectra:1S"
+      }
+    },
+    {
+      "code": "S5",
+      "marketingName": "Brownish Dark Gray",
+      "finish": "solid",
+      "lab": {
+        "L": 34.25,
+        "a": 1.28,
+        "b": -2.2,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #515054 (PaintRef hex, OEM=Kia, code=S5 (models=Spectra; years=2005-2006)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:spectra:S5"
+      }
+    },
+    {
+      "code": "O9",
+      "marketingName": "Electric Orange",
+      "finish": "solid",
+      "lab": {
+        "L": 41.03,
+        "a": 45.82,
+        "b": 25.28,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #AA3A3A (PaintRef hex, OEM=Kia, code=O9 (models=Spectra; year=2008)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:spectra:O9"
+      }
+    },
+    {
+      "code": "1K",
+      "marketingName": "Black Pearl",
+      "finish": "solid",
+      "lab": {
+        "L": 0,
+        "a": 0,
+        "b": 0,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #000000 (PaintRef hex, OEM=Kia, code=1K (models=Sportage; years=2014-2015)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:sportage:1K"
+      }
+    },
+    {
+      "code": "5B",
+      "marketingName": "Byte Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 52.52,
+        "a": 1.23,
+        "b": -37.83,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #4A80BE (PaintRef hex, OEM=Kia, code=5B (models=Sportage; year=2014)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:sportage:5B"
+      }
+    },
+    {
+      "code": "K6",
+      "marketingName": "Smart Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 28.03,
+        "a": 5.96,
+        "b": -23.37,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #344166 (PaintRef hex, OEM=Kia, code=K6 (models=Sportage; years=2005-2010)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:sportage:K6"
+      }
+    },
+    {
+      "code": "BAH",
+      "marketingName": "Vintage Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 35.72,
+        "a": 1.24,
+        "b": -9.47,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #4E5463 (PaintRef hex, OEM=Kia, code=BAH (models=Sportage; years=2011-2016)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:sportage:BAH"
+      }
+    },
+    {
+      "code": "BAH",
+      "marketingName": "Twilight Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 35.72,
+        "a": 1.24,
+        "b": -9.47,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #4E5463 (PaintRef hex, OEM=Kia, code=BAH (models=Sportage; years=2012-2014)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:sportage:BAH"
+      }
+    },
+    {
+      "code": "BU2",
+      "marketingName": "Pacific Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 25.23,
+        "a": 0.56,
+        "b": -19.42,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #273D59 (PaintRef hex, OEM=Kia, code=BU2 (models=Sportage; years=2016-2022)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:sportage:BU2"
+      }
+    },
+    {
+      "code": "BU2",
+      "marketingName": "Storm Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 25.23,
+        "a": 0.56,
+        "b": -19.42,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #273D59 (PaintRef hex, OEM=Kia, code=BU2 (models=Sportage; year=2018)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:sportage:BU2"
+      }
+    },
+    {
+      "code": "BB2",
+      "marketingName": "Vesta Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 30.42,
+        "a": -9.27,
+        "b": -17.2,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #1A4D62 (PaintRef hex, OEM=Kia, code=BB2 (models=Sportage; years=2023-2025)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:sportage:BB2"
+      }
+    },
+    {
+      "code": "Y3",
+      "marketingName": "Champagne",
+      "finish": "solid",
+      "lab": {
+        "L": 73.1,
+        "a": -0.29,
+        "b": 9.06,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #BAB3A3 (PaintRef hex, OEM=Kia, code=Y3 (models=Sportage; years=2005-2007)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:sportage:Y3"
+      }
+    },
+    {
+      "code": "6D",
+      "marketingName": "Smokey Brown",
+      "finish": "solid",
+      "lab": {
+        "L": 29.5,
+        "a": 8.04,
+        "b": 3.75,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #544140 (PaintRef hex, OEM=Kia, code=6D (models=Sportage; years=2005-2010)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:sportage:6D"
+      }
+    },
+    {
+      "code": "OK",
+      "marketingName": "Beige",
+      "finish": "solid",
+      "lab": {
+        "L": 73.41,
+        "a": 1.6,
+        "b": 4.58,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #BBB3AC (PaintRef hex, OEM=Kia, code=OK (models=Sportage; year=2008)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:sportage:OK"
+      }
+    },
+    {
+      "code": "Y3",
+      "marketingName": "Champagne Pearl",
+      "finish": "solid",
+      "lab": {
+        "L": 73.1,
+        "a": -0.29,
+        "b": 9.06,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #BAB3A3 (PaintRef hex, OEM=Kia, code=Y3 (models=Sportage; year=2008)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:sportage:Y3"
+      }
+    },
+    {
+      "code": "OK",
+      "marketingName": "Gold Leaf",
+      "finish": "solid",
+      "lab": {
+        "L": 73.41,
+        "a": 1.6,
+        "b": 4.58,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #BBB3AC (PaintRef hex, OEM=Kia, code=OK (models=Sportage; year=2009)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:sportage:OK"
+      }
+    },
+    {
+      "code": "OK",
+      "marketingName": "Shiny Gold",
+      "finish": "solid",
+      "lab": {
+        "L": 73.41,
+        "a": 1.6,
+        "b": 4.58,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #BBB3AC (PaintRef hex, OEM=Kia, code=OK (models=Sportage; year=2010)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:sportage:OK"
+      }
+    },
+    {
+      "code": "D5U",
+      "marketingName": "Sand Track",
+      "finish": "solid",
+      "lab": {
+        "L": 34.95,
+        "a": 7.35,
+        "b": 3.42,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #604E4D (PaintRef hex, OEM=Kia, code=D5U (models=Sportage; years=2011-2016)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:sportage:D5U"
+      }
+    },
+    {
+      "code": "BY2",
+      "marketingName": "Burnished Copper",
+      "finish": "solid",
+      "lab": {
+        "L": 40.27,
+        "a": 23.47,
+        "b": 45.13,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #904E0F (PaintRef hex, OEM=Kia, code=BY2 (models=Sportage; years=2016-2021)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:sportage:BY2"
+      }
+    },
+    {
+      "code": "BY2",
+      "marketingName": "Modern Bronze",
+      "finish": "solid",
+      "lab": {
+        "L": 40.27,
+        "a": 23.47,
+        "b": 45.13,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #904E0F (PaintRef hex, OEM=Kia, code=BY2 (models=Sportage; year=2018)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:sportage:BY2"
+      }
+    },
+    {
+      "code": "S6",
+      "marketingName": "Satin Silver",
+      "finish": "solid",
+      "lab": {
+        "L": 77.16,
+        "a": -0.66,
+        "b": -1.37,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #BCBFC1 (PaintRef hex, OEM=Kia, code=S6 (models=Sportage; years=2005-2010)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:sportage:S6"
+      }
+    },
+    {
+      "code": "S4",
+      "marketingName": "Steel Silver",
+      "finish": "solid",
+      "lab": {
+        "L": 65.41,
+        "a": 0.44,
+        "b": -6.32,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #9A9FAA (PaintRef hex, OEM=Kia, code=S4 (models=Sportage; years=2005-2010)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:sportage:S4"
+      }
+    },
+    {
+      "code": "BE",
+      "marketingName": "Dark Gun Metal",
+      "finish": "solid",
+      "lab": {
+        "L": 45.13,
+        "a": 2.54,
+        "b": -8.6,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #686A79 (PaintRef hex, OEM=Kia, code=BE (models=Sportage; years=2014-2015)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:sportage:BE"
+      }
+    },
+    {
+      "code": "9S",
+      "marketingName": "Machine Grey",
+      "finish": "solid",
+      "lab": {
+        "L": 71.1,
+        "a": 0,
+        "b": 0,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #AEAEAE (PaintRef hex, OEM=Kia, code=9S (models=Sportage; years=2014-2015)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:sportage:9S"
+      }
+    },
+    {
+      "code": "A3",
+      "marketingName": "Sirius Silver",
+      "finish": "solid",
+      "lab": {
+        "L": 50.84,
+        "a": -2.33,
+        "b": 4.12,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #787A72 (PaintRef hex, OEM=Kia, code=A3 (models=Sportage; years=2014-2015)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:sportage:A3"
+      }
+    },
+    {
+      "code": "AA3",
+      "marketingName": "Sirius Silver",
+      "finish": "solid",
+      "lab": {
+        "L": 50.84,
+        "a": -2.33,
+        "b": 4.12,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #787A72 (PaintRef hex, OEM=Kia, code=AA3 (models=Sportage; year=2016)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:sportage:AA3"
+      }
+    },
+    {
+      "code": "MGG",
+      "marketingName": "Shadow Matte Gray",
+      "finish": "solid",
+      "lab": {
+        "L": 59.68,
+        "a": -0.56,
+        "b": 0.4,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #8F908F (PaintRef hex, OEM=Kia, code=MGG (models=Sportage; years=2023-2025)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:sportage:MGG"
+      }
+    },
+    {
+      "code": "3G",
+      "marketingName": "Jade Green",
+      "finish": "solid",
+      "lab": {
+        "L": 48.49,
+        "a": -10.79,
+        "b": -7.27,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #56797F (PaintRef hex, OEM=Kia, code=3G (models=Sportage; years=2001-2002)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:sportage:3G"
+      }
+    },
+    {
+      "code": "9L",
+      "marketingName": "Natural Olive",
+      "finish": "solid",
+      "lab": {
+        "L": 36.84,
+        "a": -3.61,
+        "b": 7.86,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #56584A (PaintRef hex, OEM=Kia, code=9L (models=Sportage; years=2005-2008)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:sportage:9L"
+      }
+    },
+    {
+      "code": "1L",
+      "marketingName": "Royal Jade Green",
+      "finish": "solid",
+      "lab": {
+        "L": 48.91,
+        "a": -7.08,
+        "b": -3,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #647879 (PaintRef hex, OEM=Kia, code=1L (models=Sportage; years=2005-2008)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:sportage:1L"
+      }
+    },
+    {
+      "code": "OL",
+      "marketingName": "Green",
+      "finish": "solid",
+      "lab": {
+        "L": 35.64,
+        "a": -4.31,
+        "b": -1.46,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #4B5656 (PaintRef hex, OEM=Kia, code=OL (models=Sportage; year=2008)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:sportage:OL"
+      }
+    },
+    {
+      "code": "OL",
+      "marketingName": "Verdant Green",
+      "finish": "solid",
+      "lab": {
+        "L": 35.64,
+        "a": -4.31,
+        "b": -1.46,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #4B5656 (PaintRef hex, OEM=Kia, code=OL (models=Sportage; years=2009-2010)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:sportage:OL"
+      }
+    },
+    {
+      "code": "3P",
+      "marketingName": "Volcanic Red",
+      "finish": "solid",
+      "lab": {
+        "L": 31.92,
+        "a": 45.88,
+        "b": 31.53,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #90201C (PaintRef hex, OEM=Kia, code=3P (models=Sportage; years=2005-2006)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:sportage:3P"
+      }
+    },
+    {
+      "code": "D2A",
+      "marketingName": "Techno Orange",
+      "finish": "solid",
+      "lab": {
+        "L": 41.84,
+        "a": 47.58,
+        "b": 39.76,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #B13923 (PaintRef hex, OEM=Kia, code=D2A (models=Sportage; years=2011-2013)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:sportage:D2A"
+      }
+    },
+    {
+      "code": "A3R",
+      "marketingName": "Fiery Red",
+      "finish": "solid",
+      "lab": {
+        "L": 33.07,
+        "a": 52.19,
+        "b": 36.26,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #9B1517 (PaintRef hex, OEM=Kia, code=A3R (models=Sportage; years=2016-2017)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:sportage:A3R"
+      }
+    },
+    {
+      "code": "A3R",
+      "marketingName": "Scarlet Red",
+      "finish": "solid",
+      "lab": {
+        "L": 33.07,
+        "a": 52.19,
+        "b": 36.26,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #9B1517 (PaintRef hex, OEM=Kia, code=A3R (models=Sportage; year=2018)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:sportage:A3R"
+      }
+    },
+    {
+      "code": "A3R",
+      "marketingName": "Hyper Red",
+      "finish": "solid",
+      "lab": {
+        "L": 33.07,
+        "a": 52.19,
+        "b": 36.26,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #9B1517 (PaintRef hex, OEM=Kia, code=A3R (models=Sportage; years=2019-2022)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:sportage:A3R"
+      }
+    },
+    {
+      "code": "WD",
+      "marketingName": "Cassa White",
+      "finish": "solid",
+      "lab": {
+        "L": 92.1,
+        "a": -1.57,
+        "b": 3.28,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #E8E9E2 (PaintRef hex, OEM=Kia, code=WD (models=Sportage; years=2014-2015)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:sportage:WD"
+      }
+    },
+    {
+      "code": "HW",
+      "marketingName": "Deluxe White",
+      "finish": "solid",
+      "lab": {
+        "L": 94.45,
+        "a": 0,
+        "b": 0,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #EFEFEF (PaintRef hex, OEM=Kia, code=HW (models=Sportage; years=2014-2015)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:sportage:HW"
+      }
+    },
+    {
+      "code": "D2B",
+      "marketingName": "Electronic Yellow",
+      "finish": "solid",
+      "lab": {
+        "L": 71.18,
+        "a": 0.75,
+        "b": 58.68,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #CDAB3D (PaintRef hex, OEM=Kia, code=D2B (models=Sportage; years=2011-2012)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:sportage:D2B"
+      }
+    },
+    {
+      "code": "M6B",
+      "marketingName": "Micro Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 43.18,
+        "a": 5.1,
+        "b": -48.15,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #0068B6 (PaintRef hex, OEM=Kia, code=M6B (models=Stinger; years=2018-2023)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:stinger:M6B"
+      }
+    },
+    {
+      "code": "ACG",
+      "marketingName": "Ascot Green",
+      "finish": "solid",
+      "lab": {
+        "L": 29.48,
+        "a": -12.1,
+        "b": 17.31,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #3C4A2A (PaintRef hex, OEM=Kia, code=ACG (models=Stinger; years=2022-2023)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:stinger:ACG"
+      }
+    },
+    {
+      "code": "H4R",
+      "marketingName": "High Chroma Red",
+      "finish": "solid",
+      "lab": {
+        "L": 36.87,
+        "a": 61.16,
+        "b": 51.26,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #B20000 (PaintRef hex, OEM=Kia, code=H4R (models=Stinger; years=2018-2019)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:stinger:H4R"
+      }
+    },
+    {
+      "code": "H4R",
+      "marketingName": "Highchroma Red",
+      "finish": "solid",
+      "lab": {
+        "L": 36.87,
+        "a": 61.16,
+        "b": 51.26,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #B20000 (PaintRef hex, OEM=Kia, code=H4R (models=Stinger; year=2020)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:stinger:H4R"
+      }
+    },
+    {
+      "code": "H4R",
+      "marketingName": "Hichroma Red",
+      "finish": "solid",
+      "lab": {
+        "L": 36.87,
+        "a": 61.16,
+        "b": 51.26,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #B20000 (PaintRef hex, OEM=Kia, code=H4R (models=Stinger; years=2021-2023)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:stinger:H4R"
+      }
+    },
+    {
+      "code": "S7Y",
+      "marketingName": "Sunset Yellow",
+      "finish": "solid",
+      "lab": {
+        "L": 81.76,
+        "a": 8.83,
+        "b": 83.53,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #FFC200 (PaintRef hex, OEM=Kia, code=S7Y (models=Stinger; year=2018)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:stinger:S7Y"
+      }
+    },
+    {
+      "code": "BCP",
+      "marketingName": "Black Copper",
+      "finish": "solid",
+      "lab": {
+        "L": 3.92,
+        "a": 1.2,
+        "b": 0.91,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #110D0C (PaintRef hex, OEM=Kia, code=BCP (models=Telluride; years=2020-2022)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:telluride:BCP"
+      }
+    },
+    {
+      "code": "MLB",
+      "marketingName": "Midnight Lake Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 25.21,
+        "a": 1.87,
+        "b": -25.98,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #1C3D63 (PaintRef hex, OEM=Kia, code=MLB (models=Telluride; years=2023-2025)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:telluride:MLB"
+      }
+    },
+    {
+      "code": "GMS",
+      "marketingName": "Dark Moss",
+      "finish": "solid",
+      "lab": {
+        "L": 36.16,
+        "a": -0.57,
+        "b": 5.69,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #58554C (PaintRef hex, OEM=Kia, code=GMS (models=Telluride; years=2020-2025)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Kia:telluride:GMS"
+      }
+    }
+  ]
+}

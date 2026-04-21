@@ -1,0 +1,3662 @@
+{
+  "$schema": "../../../schemas/exterior-paints-v1.schema.json",
+  "scopeId": "lexus-paintref-v1",
+  "version": "1.0.0",
+  "paints": [
+    {
+      "code": "212",
+      "marketingName": "Obsidian",
+      "finish": "solid",
+      "lab": {
+        "L": 0,
+        "a": 0,
+        "b": 0,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #000000 (PaintRef hex, OEM=Lexus, code=212 (models=CT, ES, GS, HS, IS, LC, LS, RC, RX, SC, UX; years=2007-2025)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lexus:ct:212"
+      }
+    },
+    {
+      "code": "223",
+      "marketingName": "Caviar",
+      "finish": "solid",
+      "lab": {
+        "L": 15.55,
+        "a": -0.13,
+        "b": -2.28,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #25272A (PaintRef hex, OEM=Lexus, code=223 (models=ES, GS, GX, IS, LC, LS, LX, RC, RX, RZ, TX, UX; years=2016-2025)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lexus:es:223"
+      }
+    },
+    {
+      "code": "8U1",
+      "marketingName": "Ultrasonic Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 30.74,
+        "a": 9.92,
+        "b": -32.38,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #34467B (PaintRef hex, OEM=Lexus, code=8U1 (models=CT, IS, NX; years=2008-2016)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lexus:ct:8U1"
+      }
+    },
+    {
+      "code": "8X9",
+      "marketingName": "Blue Vortex",
+      "finish": "solid",
+      "lab": {
+        "L": 32.22,
+        "a": 6.63,
+        "b": -38.77,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #194C89 (PaintRef hex, OEM=Lexus, code=8X9 (models=NX; years=2016-2020)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lexus:nx:8X9"
+      }
+    },
+    {
+      "code": "4V3",
+      "marketingName": "Brown Spice",
+      "finish": "solid",
+      "lab": {
+        "L": 31.32,
+        "a": 6.63,
+        "b": 3.16,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #564645 (PaintRef hex, OEM=Lexus, code=4V3 (models=CT; year=2011)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lexus:ct:4V3"
+      }
+    },
+    {
+      "code": "4V3",
+      "marketingName": "Fire Agate",
+      "finish": "solid",
+      "lab": {
+        "L": 31.32,
+        "a": 6.63,
+        "b": 3.16,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #564645 (PaintRef hex, OEM=Lexus, code=4V3 (models=CT, ES, GS, GX, IS, LS, NX, RX; years=2012-2020)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lexus:ct:4V3"
+      }
+    },
+    {
+      "code": "4X2",
+      "marketingName": "Autumn Shimmer",
+      "finish": "solid",
+      "lab": {
+        "L": 9.87,
+        "a": 11.07,
+        "b": 8,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #2C1510 (PaintRef hex, OEM=Lexus, code=4X2 (models=ES, GS, LC, LS, NX, RX, UX; years=2016-2020)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lexus:es:4X2"
+      }
+    },
+    {
+      "code": "1G1",
+      "marketingName": "Tungsten",
+      "finish": "solid",
+      "lab": {
+        "L": 78.25,
+        "a": -0.66,
+        "b": -1.37,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #BFC2C4 (PaintRef hex, OEM=Lexus, code=1G1 (models=CT, ES, GX, HS, IS, RX; years=2006-2014)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lexus:ct:1G1"
+      }
+    },
+    {
+      "code": "1H9",
+      "marketingName": "Mercury Gray",
+      "finish": "solid",
+      "lab": {
+        "L": 43.59,
+        "a": 3.96,
+        "b": -2.38,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #6C656B (PaintRef hex, OEM=Lexus, code=1H9 (models=LX; year=2012)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lexus:lx:1H9"
+      }
+    },
+    {
+      "code": "1H9",
+      "marketingName": "Nebula Gray",
+      "finish": "solid",
+      "lab": {
+        "L": 43.59,
+        "a": 3.96,
+        "b": -2.38,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #6C656B (PaintRef hex, OEM=Lexus, code=1H9 (models=CT, ES, GS, GX, IS, LS, LX, NX, RC, RX, UX; years=2013-2025)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lexus:ct:1H9"
+      }
+    },
+    {
+      "code": "1J4",
+      "marketingName": "Silver Lining",
+      "finish": "solid",
+      "lab": {
+        "L": 78.6,
+        "a": 1.35,
+        "b": -4.62,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #C1C2CB (PaintRef hex, OEM=Lexus, code=1J4 (models=CT, ES, GX, IS, LX, NX, RC, RX, UX; years=2013-2021)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lexus:ct:1J4"
+      }
+    },
+    {
+      "code": "1J7",
+      "marketingName": "Atomic Silver",
+      "finish": "solid",
+      "lab": {
+        "L": 59.89,
+        "a": 4.52,
+        "b": -4.36,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #958E98 (PaintRef hex, OEM=Lexus, code=1J7 (models=ES, GS, GX, IS, LC, LS, LX, NX, RC, RX, UX; years=2014-2025)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lexus:es:1J7"
+      }
+    },
+    {
+      "code": "3R1",
+      "marketingName": "Matador Red",
+      "finish": "solid",
+      "lab": {
+        "L": 31.71,
+        "a": 39.76,
+        "b": 17.08,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #862A32 (PaintRef hex, OEM=Lexus, code=3R1 (models=CT, ES, GS, HS, IS, LS, NX, RX, SC; years=2006-2025)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lexus:ct:3R1"
+      }
+    },
+    {
+      "code": "3T2",
+      "marketingName": "Redline",
+      "finish": "solid",
+      "lab": {
+        "L": 41.88,
+        "a": 62.81,
+        "b": 40.98,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #C31923 (PaintRef hex, OEM=Lexus, code=3T2 (models=CT, IS, NX, UX; years=2014-2025)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lexus:ct:3T2"
+      }
+    },
+    {
+      "code": "077",
+      "marketingName": "Starfire",
+      "finish": "solid",
+      "lab": {
+        "L": 98.5,
+        "a": 1.19,
+        "b": -1.2,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #FCFAFD (PaintRef hex, OEM=Lexus, code=077 (models=CT, ES, GS, GX, HS, IS, LS, LX, RC, RX, SC; years=2007-2022)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lexus:ct:077"
+      }
+    },
+    {
+      "code": "083",
+      "marketingName": "Ultra White",
+      "finish": "solid",
+      "lab": {
+        "L": 99.46,
+        "a": -1.01,
+        "b": 0.72,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #FCFEFC (PaintRef hex, OEM=Lexus, code=083 (models=CT, ES, GS, IS, LC, LS, LX, NX, RC, RX, UX; years=2013-2025)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lexus:ct:083"
+      }
+    },
+    {
+      "code": "085",
+      "marketingName": "Sonic Quartz",
+      "finish": "solid",
+      "lab": {
+        "L": 87.34,
+        "a": 0.09,
+        "b": -3.29,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #D8DBE1 (PaintRef hex, OEM=Lexus, code=085 (models=NX; year=2015)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lexus:nx:085"
+      }
+    },
+    {
+      "code": "085",
+      "marketingName": "Eminent White",
+      "finish": "solid",
+      "lab": {
+        "L": 87.34,
+        "a": 0.09,
+        "b": -3.29,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #D8DBE1 (PaintRef hex, OEM=Lexus, code=085 (models=CT, ES, GS, GX, IS, LS, LX, NX, RC, RX, RZ, UX; years=2016-2025)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lexus:ct:085"
+      }
+    },
+    {
+      "code": "211",
+      "marketingName": "Black Mica",
+      "finish": "solid",
+      "lab": {
+        "L": 0,
+        "a": 0,
+        "b": 0,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #000000 (PaintRef hex, OEM=Lexus, code=211 (models=ES; year=2006)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lexus:es:211"
+      }
+    },
+    {
+      "code": "8P8",
+      "marketingName": "Dark Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 5.85,
+        "a": 6.11,
+        "b": -15.9,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #0E1128 (PaintRef hex, OEM=Lexus, code=8P8 (models=LS; year=2006)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lexus:ls:8P8"
+      }
+    },
+    {
+      "code": "202",
+      "marketingName": "Black",
+      "finish": "solid",
+      "lab": {
+        "L": 0,
+        "a": 0,
+        "b": 0,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #000000 (PaintRef hex, OEM=Lexus, code=202 (models=GX, LX, RX; years=2007-2015)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lexus:gx:202"
+      }
+    },
+    {
+      "code": "8P8",
+      "marketingName": "Blue Onyx",
+      "finish": "solid",
+      "lab": {
+        "L": 5.85,
+        "a": 6.11,
+        "b": -15.9,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #0E1128 (PaintRef hex, OEM=Lexus, code=8P8 (models=ES; year=2007)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lexus:es:8P8"
+      }
+    },
+    {
+      "code": "217",
+      "marketingName": "Starlight Black",
+      "finish": "solid",
+      "lab": {
+        "L": 0,
+        "a": 0,
+        "b": 0,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #000000 (PaintRef hex, OEM=Lexus, code=217 (models=GX, LX, RX; years=2011-2019)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lexus:gx:217"
+      }
+    },
+    {
+      "code": "778",
+      "marketingName": "Aquamarine Mica",
+      "finish": "solid",
+      "lab": {
+        "L": 30.48,
+        "a": -0.76,
+        "b": -24.04,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #274A6D (PaintRef hex, OEM=Lexus, code=778 (models=ES; year=2007)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lexus:es:778"
+      }
+    },
+    {
+      "code": "8U0",
+      "marketingName": "Black Sapphire",
+      "finish": "solid",
+      "lab": {
+        "L": 11.93,
+        "a": 6.82,
+        "b": -22.22,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #111E3E (PaintRef hex, OEM=Lexus, code=8U0 (models=ES, GS, HS, IS, LS, RX, SC; years=2007-2010)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lexus:es:8U0"
+      }
+    },
+    {
+      "code": "778",
+      "marketingName": "Aquamarine",
+      "finish": "solid",
+      "lab": {
+        "L": 30.48,
+        "a": -0.76,
+        "b": -24.04,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #274A6D (PaintRef hex, OEM=Lexus, code=778 (models=ES; year=2008)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lexus:es:778"
+      }
+    },
+    {
+      "code": "778",
+      "marketingName": "Aquamarine Pearl",
+      "finish": "solid",
+      "lab": {
+        "L": 30.48,
+        "a": -0.76,
+        "b": -24.04,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #274A6D (PaintRef hex, OEM=Lexus, code=778 (models=ES; year=2009)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lexus:es:778"
+      }
+    },
+    {
+      "code": "8U0",
+      "marketingName": "Black Sapphire Pearl",
+      "finish": "solid",
+      "lab": {
+        "L": 11.93,
+        "a": 6.82,
+        "b": -22.22,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #111E3E (PaintRef hex, OEM=Lexus, code=8U0 (models=SC; year=2009)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lexus:sc:8U0"
+      }
+    },
+    {
+      "code": "8U9",
+      "marketingName": "Cerulean Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 81.83,
+        "a": -5.52,
+        "b": -5.26,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #BBCFD5 (PaintRef hex, OEM=Lexus, code=8U9 (models=ES, IS, RX; years=2010-2014)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lexus:es:8U9"
+      }
+    },
+    {
+      "code": "8V3",
+      "marketingName": "Deep Sea",
+      "finish": "solid",
+      "lab": {
+        "L": 17.8,
+        "a": 6.14,
+        "b": -18.38,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #242A46 (PaintRef hex, OEM=Lexus, code=8V3 (models=ES, GS, HS, IS, LS, RX; years=2011-2015)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lexus:es:8V3"
+      }
+    },
+    {
+      "code": "8X5",
+      "marketingName": "Nightfall",
+      "finish": "solid",
+      "lab": {
+        "L": 4.99,
+        "a": 4.7,
+        "b": -20.32,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #00102C (PaintRef hex, OEM=Lexus, code=8X5 (models=ES, GS, GX, IS, LC, LS, LX, RX, TX; years=2016-2025)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lexus:es:8X5"
+      }
+    },
+    {
+      "code": "8X1",
+      "marketingName": "Ultrasonic Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 18.88,
+        "a": 25.22,
+        "b": -49.13,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #0A2577 (PaintRef hex, OEM=Lexus, code=8X1 (models=ES, GS, IS, LC, NX, RC; years=2015-2025)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lexus:es:8X1"
+      }
+    },
+    {
+      "code": "4R3",
+      "marketingName": "Sonora Gold",
+      "finish": "solid",
+      "lab": {
+        "L": 73.67,
+        "a": 5.46,
+        "b": 10.56,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #C7B1A2 (PaintRef hex, OEM=Lexus, code=4R3 (models=ES; year=2006)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lexus:es:4R3"
+      }
+    },
+    {
+      "code": "4T0",
+      "marketingName": "Amber",
+      "finish": "solid",
+      "lab": {
+        "L": 46.52,
+        "a": 5.55,
+        "b": 20.59,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #836A4C (PaintRef hex, OEM=Lexus, code=4T0 (models=ES, IS; years=2007-2010)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lexus:es:4T0"
+      }
+    },
+    {
+      "code": "4T1",
+      "marketingName": "Golden Almond Mica",
+      "finish": "solid",
+      "lab": {
+        "L": 78.23,
+        "a": 6.11,
+        "b": 10.7,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #D5BDAE (PaintRef hex, OEM=Lexus, code=4T1 (models=LS; year=2007)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lexus:ls:4T1"
+      }
+    },
+    {
+      "code": "4T1",
+      "marketingName": "Golden Almond",
+      "finish": "solid",
+      "lab": {
+        "L": 78.23,
+        "a": 6.11,
+        "b": 10.7,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #D5BDAE (PaintRef hex, OEM=Lexus, code=4T1 (models=HS, LX, RX, SC; years=2008-2011)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lexus:hs:4T1"
+      }
+    },
+    {
+      "code": "4T0",
+      "marketingName": "Amber Pearl",
+      "finish": "solid",
+      "lab": {
+        "L": 46.52,
+        "a": 5.55,
+        "b": 20.59,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #836A4C (PaintRef hex, OEM=Lexus, code=4T0 (models=IS; year=2009)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lexus:is:4T0"
+      }
+    },
+    {
+      "code": "4T1",
+      "marketingName": "Golden Almond Pearl",
+      "finish": "solid",
+      "lab": {
+        "L": 78.23,
+        "a": 6.11,
+        "b": 10.7,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #D5BDAE (PaintRef hex, OEM=Lexus, code=4T1 (models=SC; year=2009)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lexus:sc:4T1"
+      }
+    },
+    {
+      "code": "6V6",
+      "marketingName": "Deep Peridot",
+      "finish": "solid",
+      "lab": {
+        "L": 26.33,
+        "a": 1.91,
+        "b": 6.2,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #453D35 (PaintRef hex, OEM=Lexus, code=6V6 (models=ES, GX, LS; years=2010-2012)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lexus:es:6V6"
+      }
+    },
+    {
+      "code": "4U7",
+      "marketingName": "Sleek Ecru",
+      "finish": "solid",
+      "lab": {
+        "L": 81.21,
+        "a": 5.32,
+        "b": 6.42,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #D9C6BE (PaintRef hex, OEM=Lexus, code=4U7 (models=LS; year=2010)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lexus:ls:4U7"
+      }
+    },
+    {
+      "code": "4T5",
+      "marketingName": "Truffle",
+      "finish": "solid",
+      "lab": {
+        "L": 29.87,
+        "a": 6.75,
+        "b": -2.92,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #4F434B (PaintRef hex, OEM=Lexus, code=4T5 (models=ES, IS, LS, RX, SC; years=2009-2012)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lexus:es:4T5"
+      }
+    },
+    {
+      "code": "4U7",
+      "marketingName": "Satin Cashmere",
+      "finish": "solid",
+      "lab": {
+        "L": 81.21,
+        "a": 5.32,
+        "b": 6.42,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #D9C6BE (PaintRef hex, OEM=Lexus, code=4U7 (models=ES, GS, GX, HS, LS, LX, RX; years=2011-2020)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lexus:es:4U7"
+      }
+    },
+    {
+      "code": "4X8",
+      "marketingName": "Moonbeam Beige",
+      "finish": "solid",
+      "lab": {
+        "L": 70.03,
+        "a": 1.27,
+        "b": 5.66,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #B2AAA1 (PaintRef hex, OEM=Lexus, code=4X8 (models=ES, RX; years=2019-2025)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lexus:es:4X8"
+      }
+    },
+    {
+      "code": "1F5",
+      "marketingName": "Blue Shale",
+      "finish": "solid",
+      "lab": {
+        "L": 53.69,
+        "a": 1.51,
+        "b": -19.73,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #6F81A2 (PaintRef hex, OEM=Lexus, code=1F5 (models=ES; year=2006)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lexus:es:1F5"
+      }
+    },
+    {
+      "code": "1F7",
+      "marketingName": "Classic Silver",
+      "finish": "solid",
+      "lab": {
+        "L": 76.8,
+        "a": -0.43,
+        "b": -3,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #BABEC3 (PaintRef hex, OEM=Lexus, code=1F7 (models=LX, RX; years=2006-2009)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lexus:lx:1F7"
+      }
+    },
+    {
+      "code": "3Q4",
+      "marketingName": "Shell",
+      "finish": "solid",
+      "lab": {
+        "L": 65.14,
+        "a": -0.02,
+        "b": 1.17,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #9F9E9C (PaintRef hex, OEM=Lexus, code=3Q4 (models=ES; year=2006)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lexus:es:3Q4"
+      }
+    },
+    {
+      "code": "3R4",
+      "marketingName": "Moon Shell Mica",
+      "finish": "solid",
+      "lab": {
+        "L": 75.68,
+        "a": 5.84,
+        "b": -0.74,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #C5B7BC (PaintRef hex, OEM=Lexus, code=3R4 (models=ES; year=2007)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lexus:es:3R4"
+      }
+    },
+    {
+      "code": "1G0",
+      "marketingName": "Smokey Granite Mica",
+      "finish": "solid",
+      "lab": {
+        "L": 14.84,
+        "a": -1.27,
+        "b": -1.94,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #222628 (PaintRef hex, OEM=Lexus, code=1G0 (models=SC; year=2007)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lexus:sc:1G0"
+      }
+    },
+    {
+      "code": "3R4",
+      "marketingName": "Moon Shell Pearl",
+      "finish": "solid",
+      "lab": {
+        "L": 75.68,
+        "a": 5.84,
+        "b": -0.74,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #C5B7BC (PaintRef hex, OEM=Lexus, code=3R4 (models=ES; year=2008)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lexus:es:3R4"
+      }
+    },
+    {
+      "code": "1G0",
+      "marketingName": "Smokey Granite",
+      "finish": "solid",
+      "lab": {
+        "L": 14.84,
+        "a": -1.27,
+        "b": -1.94,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #222628 (PaintRef hex, OEM=Lexus, code=1G0 (models=ES, GS, HS, IS, LS, RX, SC; years=2006-2012)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lexus:es:1G0"
+      }
+    },
+    {
+      "code": "3R4",
+      "marketingName": "Moon Shell",
+      "finish": "solid",
+      "lab": {
+        "L": 75.68,
+        "a": 5.84,
+        "b": -0.74,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #C5B7BC (PaintRef hex, OEM=Lexus, code=3R4 (models=ES; year=2009)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lexus:es:3R4"
+      }
+    },
+    {
+      "code": "1G0",
+      "marketingName": "Smokey Granite Pearl",
+      "finish": "solid",
+      "lab": {
+        "L": 14.84,
+        "a": -1.27,
+        "b": -1.94,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #222628 (PaintRef hex, OEM=Lexus, code=1G0 (models=SC; year=2009)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lexus:sc:1G0"
+      }
+    },
+    {
+      "code": "1G1",
+      "marketingName": "Tungsten Metallic",
+      "finish": "solid",
+      "lab": {
+        "L": 78.25,
+        "a": -0.66,
+        "b": -1.37,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #BFC2C4 (PaintRef hex, OEM=Lexus, code=1G1 (models=IS; year=2009)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lexus:is:1G1"
+      }
+    },
+    {
+      "code": "1J7",
+      "marketingName": "Sonic Titanium",
+      "finish": "solid",
+      "lab": {
+        "L": 59.89,
+        "a": 4.52,
+        "b": -4.36,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #958E98 (PaintRef hex, OEM=Lexus, code=1J7 (models=RC; year=2015)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lexus:rc:1J7"
+      }
+    },
+    {
+      "code": "1L1",
+      "marketingName": "Cloudburst Gray",
+      "finish": "solid",
+      "lab": {
+        "L": 41.94,
+        "a": 0.03,
+        "b": -1.27,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #626365 (PaintRef hex, OEM=Lexus, code=1L1 (models=ES, IS, LC, NX, RC, RX, RZ, TX, UX; years=2021-2025)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lexus:es:1L1"
+      }
+    },
+    {
+      "code": "1L2",
+      "marketingName": "Iridium",
+      "finish": "solid",
+      "lab": {
+        "L": 54.83,
+        "a": -1.23,
+        "b": -2.26,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #7F8487 (PaintRef hex, OEM=Lexus, code=1L2 (models=ES, IS, LC, LS, RX, RZ, UX; years=2021-2025)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lexus:es:1L2"
+      }
+    },
+    {
+      "code": "6T5",
+      "marketingName": "Oasis Mica",
+      "finish": "solid",
+      "lab": {
+        "L": 39.12,
+        "a": -6.68,
+        "b": -9.36,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #46606B (PaintRef hex, OEM=Lexus, code=6T5 (models=ES; year=2006)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lexus:es:6T5"
+      }
+    },
+    {
+      "code": "6X0",
+      "marketingName": "Sunlit Green",
+      "finish": "solid",
+      "lab": {
+        "L": 38.87,
+        "a": -6.03,
+        "b": 8.26,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #575E4E (PaintRef hex, OEM=Lexus, code=6X0 (models=ES; years=2019-2025)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lexus:es:6X0"
+      }
+    },
+    {
+      "code": "3Q2",
+      "marketingName": "Dark Red",
+      "finish": "solid",
+      "lab": {
+        "L": 7.46,
+        "a": 21.56,
+        "b": -5.43,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #2D081E (PaintRef hex, OEM=Lexus, code=3Q2 (models=ES; year=2006)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lexus:es:3Q2"
+      }
+    },
+    {
+      "code": "3R5",
+      "marketingName": "Royal Ruby",
+      "finish": "solid",
+      "lab": {
+        "L": 12.62,
+        "a": 18.65,
+        "b": 6.92,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #3A1518 (PaintRef hex, OEM=Lexus, code=3R5 (models=ES; year=2007)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lexus:es:3R5"
+      }
+    },
+    {
+      "code": "3R5",
+      "marketingName": "Royal Ruby Pearl",
+      "finish": "solid",
+      "lab": {
+        "L": 12.62,
+        "a": 18.65,
+        "b": 6.92,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #3A1518 (PaintRef hex, OEM=Lexus, code=3R5 (models=ES; year=2008)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lexus:es:3R5"
+      }
+    },
+    {
+      "code": "3R1",
+      "marketingName": "Matador Red Pearl",
+      "finish": "solid",
+      "lab": {
+        "L": 31.71,
+        "a": 39.76,
+        "b": 17.08,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #862A32 (PaintRef hex, OEM=Lexus, code=3R1 (models=GS, IS, SC; years=2008-2009)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lexus:gs:3R1"
+      }
+    },
+    {
+      "code": "062",
+      "marketingName": "White Pearl",
+      "finish": "solid",
+      "lab": {
+        "L": 94.08,
+        "a": 0.99,
+        "b": 4.7,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #F4EDE5 (PaintRef hex, OEM=Lexus, code=062 (models=ES, LX, RX; years=2006-2008)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lexus:es:062"
+      }
+    },
+    {
+      "code": "077",
+      "marketingName": "Starfire Pearl",
+      "finish": "solid",
+      "lab": {
+        "L": 98.5,
+        "a": 1.19,
+        "b": -1.2,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #FCFAFD (PaintRef hex, OEM=Lexus, code=077 (models=SC; year=2009)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lexus:sc:077"
+      }
+    },
+    {
+      "code": "214",
+      "marketingName": "Black Opal",
+      "finish": "solid",
+      "lab": {
+        "L": 0,
+        "a": 0,
+        "b": 0,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #000000 (PaintRef hex, OEM=Lexus, code=214 (models=GS, HS, LS, RX; years=2008-2012)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lexus:gs:214"
+      }
+    },
+    {
+      "code": "214",
+      "marketingName": "Black Opal Pearl",
+      "finish": "solid",
+      "lab": {
+        "L": 0,
+        "a": 0,
+        "b": 0,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #000000 (PaintRef hex, OEM=Lexus, code=214 (models=LS; year=2009)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lexus:ls:214"
+      }
+    },
+    {
+      "code": "8V3",
+      "marketingName": "Lapis Lazuli",
+      "finish": "solid",
+      "lab": {
+        "L": 17.8,
+        "a": 6.14,
+        "b": -18.38,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #242A46 (PaintRef hex, OEM=Lexus, code=8V3 (models=LS; year=2010)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lexus:ls:8V3"
+      }
+    },
+    {
+      "code": "8W3",
+      "marketingName": "Meteor Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 26.48,
+        "a": 1.15,
+        "b": -13.5,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #343F53 (PaintRef hex, OEM=Lexus, code=8W3 (models=GS, NX; years=2013-2016)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lexus:gs:8W3"
+      }
+    },
+    {
+      "code": "4S7",
+      "marketingName": "Beige",
+      "finish": "solid",
+      "lab": {
+        "L": 71.82,
+        "a": 0.01,
+        "b": 14.9,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #BBAF95 (PaintRef hex, OEM=Lexus, code=4S7 (models=SC; year=2006)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lexus:sc:4S7"
+      }
+    },
+    {
+      "code": "4S7",
+      "marketingName": "Chardonnay Pearl",
+      "finish": "solid",
+      "lab": {
+        "L": 71.82,
+        "a": 0.01,
+        "b": 14.9,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #BBAF95 (PaintRef hex, OEM=Lexus, code=4S7 (models=SC; year=2007)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lexus:sc:4S7"
+      }
+    },
+    {
+      "code": "1E0",
+      "marketingName": "Dark Gray",
+      "finish": "solid",
+      "lab": {
+        "L": 11.2,
+        "a": -0.21,
+        "b": -0.85,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #1D1E1F (PaintRef hex, OEM=Lexus, code=1E0 (models=RX; year=2006)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lexus:rx:1E0"
+      }
+    },
+    {
+      "code": "9AB",
+      "marketingName": "Dark Purple",
+      "finish": "solid",
+      "lab": {
+        "L": 23.45,
+        "a": 2.35,
+        "b": -4.81,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #38373F (PaintRef hex, OEM=Lexus, code=9AB (models=GS; year=2006)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lexus:gs:9AB"
+      }
+    },
+    {
+      "code": "074",
+      "marketingName": "Glacier Frost",
+      "finish": "solid",
+      "lab": {
+        "L": 74.79,
+        "a": -2.35,
+        "b": 5.46,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #B8B9AE (PaintRef hex, OEM=Lexus, code=074 (models=GS, IS; years=2006-2011)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lexus:gs:074"
+      }
+    },
+    {
+      "code": "1F2",
+      "marketingName": "Mercury",
+      "finish": "solid",
+      "lab": {
+        "L": 70.11,
+        "a": -0.53,
+        "b": -4.83,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #A6ACB4 (PaintRef hex, OEM=Lexus, code=1F2 (models=GS, IS, LS, LX, SC; years=2006-2013)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lexus:gs:1F2"
+      }
+    },
+    {
+      "code": "9AB",
+      "marketingName": "Quarz Shadow",
+      "finish": "solid",
+      "lab": {
+        "L": 23.45,
+        "a": 2.35,
+        "b": -4.81,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #38373F (PaintRef hex, OEM=Lexus, code=9AB (models=GS; year=2007)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lexus:gs:9AB"
+      }
+    },
+    {
+      "code": "6V0",
+      "marketingName": "Verdigris Mica",
+      "finish": "solid",
+      "lab": {
+        "L": 37.32,
+        "a": -3.68,
+        "b": -5.83,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #4C5A61 (PaintRef hex, OEM=Lexus, code=6V0 (models=LS; year=2007)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lexus:ls:6V0"
+      }
+    },
+    {
+      "code": "1G5",
+      "marketingName": "Opaline",
+      "finish": "solid",
+      "lab": {
+        "L": 87.63,
+        "a": 1.94,
+        "b": -7.07,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #D9DBE9 (PaintRef hex, OEM=Lexus, code=1G5 (models=GS, LS; years=2008-2010)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lexus:gs:1G5"
+      }
+    },
+    {
+      "code": "6V0",
+      "marketingName": "Verdigris Pearl",
+      "finish": "solid",
+      "lab": {
+        "L": 37.32,
+        "a": -3.68,
+        "b": -5.83,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #4C5A61 (PaintRef hex, OEM=Lexus, code=6V0 (models=LS; year=2008)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lexus:ls:6V0"
+      }
+    },
+    {
+      "code": "1G5",
+      "marketingName": "Opaline Pearl",
+      "finish": "solid",
+      "lab": {
+        "L": 87.63,
+        "a": 1.94,
+        "b": -7.07,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #D9DBE9 (PaintRef hex, OEM=Lexus, code=1G5 (models=SC; year=2009)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lexus:sc:1G5"
+      }
+    },
+    {
+      "code": "6V0",
+      "marketingName": "Verdigris",
+      "finish": "solid",
+      "lab": {
+        "L": 37.32,
+        "a": -3.68,
+        "b": -5.83,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #4C5A61 (PaintRef hex, OEM=Lexus, code=6V0 (models=LS; year=2009)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lexus:ls:6V0"
+      }
+    },
+    {
+      "code": "1J2",
+      "marketingName": "Liquid Platinum",
+      "finish": "solid",
+      "lab": {
+        "L": 77.35,
+        "a": -1.54,
+        "b": -1.11,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #BBC0C1 (PaintRef hex, OEM=Lexus, code=1J2 (models=GS, IS, LC, LS, RC; years=2013-2021)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lexus:gs:1J2"
+      }
+    },
+    {
+      "code": "1H3",
+      "marketingName": "Knights Armor",
+      "finish": "solid",
+      "lab": {
+        "L": 43.18,
+        "a": 3.75,
+        "b": -0.55,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #6C6467 (PaintRef hex, OEM=Lexus, code=1H3 (models=GS, GX; years=2011-2014)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lexus:gs:1H3"
+      }
+    },
+    {
+      "code": "1J2",
+      "marketingName": "Sonic Silver",
+      "finish": "solid",
+      "lab": {
+        "L": 77.35,
+        "a": -1.54,
+        "b": -1.11,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #BBC0C1 (PaintRef hex, OEM=Lexus, code=1J2 (models=RC; year=2015)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lexus:rc:1J2"
+      }
+    },
+    {
+      "code": "1G0",
+      "marketingName": "Smoky Granite",
+      "finish": "solid",
+      "lab": {
+        "L": 14.84,
+        "a": -1.27,
+        "b": -1.94,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #222628 (PaintRef hex, OEM=Lexus, code=1G0 (models=GS, LC; years=2017-2022)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lexus:gs:1G0"
+      }
+    },
+    {
+      "code": "6T7",
+      "marketingName": "Cypress",
+      "finish": "solid",
+      "lab": {
+        "L": 56.59,
+        "a": -4.92,
+        "b": 5.54,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #838A7E (PaintRef hex, OEM=Lexus, code=6T7 (models=GX, LX; years=2006-2007)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lexus:gx:6T7"
+      }
+    },
+    {
+      "code": "3S8",
+      "marketingName": "Riviera Red",
+      "finish": "solid",
+      "lab": {
+        "L": 30.78,
+        "a": 46.75,
+        "b": 27.1,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #8D1B21 (PaintRef hex, OEM=Lexus, code=3S8 (models=GS; years=2013-2014)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lexus:gs:3S8"
+      }
+    },
+    {
+      "code": "3S8",
+      "marketingName": "Crimson",
+      "finish": "solid",
+      "lab": {
+        "L": 30.78,
+        "a": 46.75,
+        "b": 27.1,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #8D1B21 (PaintRef hex, OEM=Lexus, code=3S8 (models=GS; year=2015)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lexus:gs:3S8"
+      }
+    },
+    {
+      "code": "202",
+      "marketingName": "Black Onyx",
+      "finish": "solid",
+      "lab": {
+        "L": 0,
+        "a": 0,
+        "b": 0,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #000000 (PaintRef hex, OEM=Lexus, code=202 (models=GX, LX, RZ; years=2016-2024)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lexus:gx:202"
+      }
+    },
+    {
+      "code": "GB0",
+      "marketingName": "Ebony Twilight",
+      "finish": "solid",
+      "lab": {
+        "L": 4.68,
+        "a": 0,
+        "b": 0,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #101010 (PaintRef hex, OEM=Lexus, code=GB0 (models=GX; years=2020-2026)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lexus:gx:GB0"
+      }
+    },
+    {
+      "code": "8S6",
+      "marketingName": "Dark Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 14.99,
+        "a": 10.19,
+        "b": -27.02,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #17234C (PaintRef hex, OEM=Lexus, code=8S6 (models=GX; year=2006)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lexus:gx:8S6"
+      }
+    },
+    {
+      "code": "1E8",
+      "marketingName": "Gray",
+      "finish": "solid",
+      "lab": {
+        "L": 55.15,
+        "a": 8.12,
+        "b": -20.27,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #8081A7 (PaintRef hex, OEM=Lexus, code=1E8 (models=GX; year=2006)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lexus:gx:1E8"
+      }
+    },
+    {
+      "code": "1E8",
+      "marketingName": "Ash Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 55.15,
+        "a": 8.12,
+        "b": -20.27,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #8081A7 (PaintRef hex, OEM=Lexus, code=1E8 (models=GX; year=2007)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lexus:gx:1E8"
+      }
+    },
+    {
+      "code": "8S6",
+      "marketingName": "Nautical Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 14.99,
+        "a": 10.19,
+        "b": -27.02,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #17234C (PaintRef hex, OEM=Lexus, code=8S6 (models=GX; years=2007-2008)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lexus:gx:8S6"
+      }
+    },
+    {
+      "code": "8S6",
+      "marketingName": "Nautical Blue Pearl",
+      "finish": "solid",
+      "lab": {
+        "L": 14.99,
+        "a": 10.19,
+        "b": -27.02,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #17234C (PaintRef hex, OEM=Lexus, code=8S6 (models=GX; year=2009)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lexus:gx:8S6"
+      }
+    },
+    {
+      "code": "G5J",
+      "marketingName": "Dark Moon Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 30.98,
+        "a": 2.75,
+        "b": -19.38,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #3A4967 (PaintRef hex, OEM=Lexus, code=G5J (models=GX; year=2020)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lexus:gx:G5J"
+      }
+    },
+    {
+      "code": "GUM",
+      "marketingName": "Deep Azure",
+      "finish": "solid",
+      "lab": {
+        "L": 28.74,
+        "a": -4.73,
+        "b": -26.22,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #03486C (PaintRef hex, OEM=Lexus, code=GUM (models=GX; years=2020-2021)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lexus:gx:GUM"
+      }
+    },
+    {
+      "code": "GLU",
+      "marketingName": "Dark Moon Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 14.81,
+        "a": 6.4,
+        "b": -21.79,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #182444 (PaintRef hex, OEM=Lexus, code=GLU (models=GX; year=2021)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lexus:gx:GLU"
+      }
+    },
+    {
+      "code": "GGK",
+      "marketingName": "Sapphire",
+      "finish": "solid",
+      "lab": {
+        "L": 18.77,
+        "a": 12.44,
+        "b": -37,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #072B64 (PaintRef hex, OEM=Lexus, code=GGK (models=GX; years=2022-2023)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lexus:gx:GGK"
+      }
+    },
+    {
+      "code": "GK9",
+      "marketingName": "Ocean Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 20.43,
+        "a": 9.53,
+        "b": -29.01,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #1F2F5C (PaintRef hex, OEM=Lexus, code=GK9 (models=GX; years=2024-2026)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lexus:gx:GK9"
+      }
+    },
+    {
+      "code": "GKN",
+      "marketingName": "Aquamarine Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 56.45,
+        "a": -11.11,
+        "b": -35.16,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #2790C4 (PaintRef hex, OEM=Lexus, code=GKN (models=GX; year=2026)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lexus:gx:GKN"
+      }
+    },
+    {
+      "code": "4R4",
+      "marketingName": "Savannah",
+      "finish": "solid",
+      "lab": {
+        "L": 83.18,
+        "a": 0.92,
+        "b": 8.69,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #D8CEBF (PaintRef hex, OEM=Lexus, code=4R4 (models=GX, RX; years=2006-2009)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lexus:gx:4R4"
+      }
+    },
+    {
+      "code": "G8I",
+      "marketingName": "Burnished Bronze",
+      "finish": "solid",
+      "lab": {
+        "L": 43.32,
+        "a": 32.04,
+        "b": 22.39,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #9F4F43 (PaintRef hex, OEM=Lexus, code=G8I (models=GX; years=2020-2021)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lexus:gx:G8I"
+      }
+    },
+    {
+      "code": "GHL",
+      "marketingName": "Rosewood",
+      "finish": "solid",
+      "lab": {
+        "L": 24.95,
+        "a": 31.48,
+        "b": 23.65,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #6B2319 (PaintRef hex, OEM=Lexus, code=GHL (models=GX; years=2022-2023)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lexus:gx:GHL"
+      }
+    },
+    {
+      "code": "G98",
+      "marketingName": "Copper Ice",
+      "finish": "solid",
+      "lab": {
+        "L": 67.47,
+        "a": 19.04,
+        "b": 38.2,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #D89660 (PaintRef hex, OEM=Lexus, code=G98 (models=GX; years=2024-2026)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lexus:gx:G98"
+      }
+    },
+    {
+      "code": "4Z1",
+      "marketingName": "Earth",
+      "finish": "solid",
+      "lab": {
+        "L": 61.81,
+        "a": 4.02,
+        "b": 15.62,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #A7927A (PaintRef hex, OEM=Lexus, code=4Z1 (models=GX; years=2024-2025)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lexus:gx:4Z1"
+      }
+    },
+    {
+      "code": "G42",
+      "marketingName": "Ceramic",
+      "finish": "solid",
+      "lab": {
+        "L": 65.07,
+        "a": -0.92,
+        "b": 6.13,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #A19E93 (PaintRef hex, OEM=Lexus, code=G42 (models=GX; year=2026)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lexus:gx:G42"
+      }
+    },
+    {
+      "code": "1D4",
+      "marketingName": "Silver",
+      "finish": "solid",
+      "lab": {
+        "L": 70.61,
+        "a": -1.09,
+        "b": -9.08,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #A2AEBD (PaintRef hex, OEM=Lexus, code=1D4 (models=GX; year=2006)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lexus:gx:1D4"
+      }
+    },
+    {
+      "code": "1D4",
+      "marketingName": "Titanium",
+      "finish": "solid",
+      "lab": {
+        "L": 70.61,
+        "a": -1.09,
+        "b": -9.08,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #A2AEBD (PaintRef hex, OEM=Lexus, code=1D4 (models=GX; years=2007-2009)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lexus:gx:1D4"
+      }
+    },
+    {
+      "code": "1H3",
+      "marketingName": "Sparkle Gray",
+      "finish": "solid",
+      "lab": {
+        "L": 43.18,
+        "a": 3.75,
+        "b": -0.55,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #6C6467 (PaintRef hex, OEM=Lexus, code=1H3 (models=GX; year=2010)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lexus:gx:1H3"
+      }
+    },
+    {
+      "code": "GYM",
+      "marketingName": "Satin Steel",
+      "finish": "solid",
+      "lab": {
+        "L": 47.56,
+        "a": -1.14,
+        "b": -8.54,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #67727F (PaintRef hex, OEM=Lexus, code=GYM (models=GX; years=2020-2022)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lexus:gx:GYM"
+      }
+    },
+    {
+      "code": "GF6",
+      "marketingName": "Satin Steel",
+      "finish": "solid",
+      "lab": {
+        "L": 40.7,
+        "a": 0.03,
+        "b": -1.28,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #5F6062 (PaintRef hex, OEM=Lexus, code=GF6 (models=GX; year=2021)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lexus:gx:GF6"
+      }
+    },
+    {
+      "code": "GZB",
+      "marketingName": "Moonstone Gray",
+      "finish": "solid",
+      "lab": {
+        "L": 63.51,
+        "a": -2.15,
+        "b": -0.75,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #959B9B (PaintRef hex, OEM=Lexus, code=GZB (models=GX; years=2023-2026)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lexus:gx:GZB"
+      }
+    },
+    {
+      "code": "1L8",
+      "marketingName": "Incognito",
+      "finish": "solid",
+      "lab": {
+        "L": 57.01,
+        "a": -0.37,
+        "b": -0.13,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #888989 (PaintRef hex, OEM=Lexus, code=1L8 (models=GX, IS, RC, RX, TX; years=2024-2025)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lexus:gx:1L8"
+      }
+    },
+    {
+      "code": "6U3",
+      "marketingName": "Desert Sage",
+      "finish": "solid",
+      "lab": {
+        "L": 59.17,
+        "a": -12.39,
+        "b": 14.29,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #829475 (PaintRef hex, OEM=Lexus, code=6U3 (models=GX, IS, RX; years=2006-2009)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lexus:gx:6U3"
+      }
+    },
+    {
+      "code": "6X4",
+      "marketingName": "Nori Green",
+      "finish": "solid",
+      "lab": {
+        "L": 28.1,
+        "a": -12.6,
+        "b": 17.31,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #384727 (PaintRef hex, OEM=Lexus, code=6X4 (models=GX, LC, LX, NX, RX, UX; years=2019-2025)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lexus:gx:6X4"
+      }
+    },
+    {
+      "code": "GHD",
+      "marketingName": "Sunset Glow",
+      "finish": "solid",
+      "lab": {
+        "L": 52.26,
+        "a": 45.09,
+        "b": 61.86,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #D15700 (PaintRef hex, OEM=Lexus, code=GHD (models=GX; years=2022-2023)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lexus:gx:GHD"
+      }
+    },
+    {
+      "code": "3Q3",
+      "marketingName": "Salsa Red",
+      "finish": "solid",
+      "lab": {
+        "L": 15.15,
+        "a": 35.8,
+        "b": 18.14,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #54010D (PaintRef hex, OEM=Lexus, code=3Q3 (models=GX; year=2008)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lexus:gx:3Q3"
+      }
+    },
+    {
+      "code": "3Q3",
+      "marketingName": "Salsa Red Pearl",
+      "finish": "solid",
+      "lab": {
+        "L": 15.15,
+        "a": 35.8,
+        "b": 18.14,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #54010D (PaintRef hex, OEM=Lexus, code=3Q3 (models=GX; year=2009)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lexus:gx:3Q3"
+      }
+    },
+    {
+      "code": "3S0",
+      "marketingName": "Garnet Red",
+      "finish": "solid",
+      "lab": {
+        "L": 23.07,
+        "a": 23.87,
+        "b": 11.51,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #5B2727 (PaintRef hex, OEM=Lexus, code=3S0 (models=GX; year=2010)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lexus:gx:3S0"
+      }
+    },
+    {
+      "code": "3S0",
+      "marketingName": "Claret",
+      "finish": "solid",
+      "lab": {
+        "L": 23.07,
+        "a": 23.87,
+        "b": 11.51,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #5B2727 (PaintRef hex, OEM=Lexus, code=3S0 (models=GX, LX, RX; years=2011-2022)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lexus:gx:3S0"
+      }
+    },
+    {
+      "code": "G5O",
+      "marketingName": "Black Currant",
+      "finish": "solid",
+      "lab": {
+        "L": 17.78,
+        "a": 10.27,
+        "b": 2.7,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #3B2628 (PaintRef hex, OEM=Lexus, code=G5O (models=GX; years=2020-2021)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lexus:gx:G5O"
+      }
+    },
+    {
+      "code": "GIL",
+      "marketingName": "Chilli Red",
+      "finish": "solid",
+      "lab": {
+        "L": 28.62,
+        "a": 37.05,
+        "b": 11.88,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #792633 (PaintRef hex, OEM=Lexus, code=GIL (models=GX; year=2020)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lexus:gx:GIL"
+      }
+    },
+    {
+      "code": "G8B",
+      "marketingName": "Chili Red",
+      "finish": "solid",
+      "lab": {
+        "L": 17.73,
+        "a": 32.35,
+        "b": 15.45,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #571017 (PaintRef hex, OEM=Lexus, code=G8B (models=GX; year=2021)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lexus:gx:G8B"
+      }
+    },
+    {
+      "code": "GFM",
+      "marketingName": "Cinnabar",
+      "finish": "solid",
+      "lab": {
+        "L": 25.82,
+        "a": 38.76,
+        "b": 28.28,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #761B14 (PaintRef hex, OEM=Lexus, code=GFM (models=GX; years=2022-2025)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lexus:gx:GFM"
+      }
+    },
+    {
+      "code": "GMF",
+      "marketingName": "Sunrise Red",
+      "finish": "solid",
+      "lab": {
+        "L": 47.59,
+        "a": 59.07,
+        "b": 42.7,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #D1372C (PaintRef hex, OEM=Lexus, code=GMF (models=GX; year=2024)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lexus:gx:GMF"
+      }
+    },
+    {
+      "code": "GAS",
+      "marketingName": "Brilliant Red",
+      "finish": "solid",
+      "lab": {
+        "L": 20.79,
+        "a": 42.55,
+        "b": 31.69,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #6C0000 (PaintRef hex, OEM=Lexus, code=GAS (models=GX; year=2026)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lexus:gx:GAS"
+      }
+    },
+    {
+      "code": "070",
+      "marketingName": "White Pearl",
+      "finish": "solid",
+      "lab": {
+        "L": 93.03,
+        "a": -2.06,
+        "b": 2.55,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #E9ECE6 (PaintRef hex, OEM=Lexus, code=070 (models=GX; year=2006)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lexus:gx:070"
+      }
+    },
+    {
+      "code": "070",
+      "marketingName": "Blizzard Mica",
+      "finish": "solid",
+      "lab": {
+        "L": 93.03,
+        "a": -2.06,
+        "b": 2.55,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #E9ECE6 (PaintRef hex, OEM=Lexus, code=070 (models=GX; year=2007)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lexus:gx:070"
+      }
+    },
+    {
+      "code": "070",
+      "marketingName": "Blizzard Pearl",
+      "finish": "solid",
+      "lab": {
+        "L": 93.03,
+        "a": -2.06,
+        "b": 2.55,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #E9ECE6 (PaintRef hex, OEM=Lexus, code=070 (models=GX; year=2008)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lexus:gx:070"
+      }
+    },
+    {
+      "code": "070",
+      "marketingName": "Blizzard",
+      "finish": "solid",
+      "lab": {
+        "L": 93.03,
+        "a": -2.06,
+        "b": 2.55,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #E9ECE6 (PaintRef hex, OEM=Lexus, code=070 (models=GX; year=2009)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lexus:gx:070"
+      }
+    },
+    {
+      "code": "GAZ",
+      "marketingName": "Summit White",
+      "finish": "solid",
+      "lab": {
+        "L": 95.42,
+        "a": -0.71,
+        "b": 3.01,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #F3F2EC (PaintRef hex, OEM=Lexus, code=GAZ (models=GX; years=2020-2026)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lexus:gx:GAZ"
+      }
+    },
+    {
+      "code": "GP5",
+      "marketingName": "White Frost",
+      "finish": "solid",
+      "lab": {
+        "L": 82.78,
+        "a": -1.29,
+        "b": -2.69,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #C9CFD3 (PaintRef hex, OEM=Lexus, code=GP5 (models=GX; years=2020-2026)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lexus:gx:GP5"
+      }
+    },
+    {
+      "code": "1H0",
+      "marketingName": "Moonlight Opal",
+      "finish": "solid",
+      "lab": {
+        "L": 60.46,
+        "a": 2,
+        "b": -5.27,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #91919B (PaintRef hex, OEM=Lexus, code=1H0 (models=HS; year=2010)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lexus:hs:1H0"
+      }
+    },
+    {
+      "code": "1H0",
+      "marketingName": "Silver Opal",
+      "finish": "solid",
+      "lab": {
+        "L": 60.46,
+        "a": 2,
+        "b": -5.27,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #91919B (PaintRef hex, OEM=Lexus, code=1H0 (models=HS; years=2011-2012)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lexus:hs:1H0"
+      }
+    },
+    {
+      "code": "078",
+      "marketingName": "Aurora White",
+      "finish": "solid",
+      "lab": {
+        "L": 99.83,
+        "a": -0.83,
+        "b": 0.25,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #FDFFFE (PaintRef hex, OEM=Lexus, code=078 (models=RX; year=2010)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lexus:rx:078"
+      }
+    },
+    {
+      "code": "8R6",
+      "marketingName": "Breakwater Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 48.49,
+        "a": 1.25,
+        "b": -30.26,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #5075A6 (PaintRef hex, OEM=Lexus, code=8R6 (models=IS, RX; years=2006-2010)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lexus:is:8R6"
+      }
+    },
+    {
+      "code": "8U1",
+      "marketingName": "Ultrasonic Blue Pearl",
+      "finish": "solid",
+      "lab": {
+        "L": 30.74,
+        "a": 9.92,
+        "b": -32.38,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #34467B (PaintRef hex, OEM=Lexus, code=8U1 (models=IS; year=2009)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lexus:is:8U1"
+      }
+    },
+    {
+      "code": "8Y6",
+      "marketingName": "Grecian Water",
+      "finish": "solid",
+      "lab": {
+        "L": 41.29,
+        "a": 21.98,
+        "b": -63.97,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #055CCC (PaintRef hex, OEM=Lexus, code=8Y6 (models=IS, NX, RC, RX; years=2021-2025)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lexus:is:8Y6"
+      }
+    },
+    {
+      "code": "4P7",
+      "marketingName": "Mystic Gold",
+      "finish": "solid",
+      "lab": {
+        "L": 52.47,
+        "a": -3.21,
+        "b": 15.28,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #827E63 (PaintRef hex, OEM=Lexus, code=4P7 (models=LS; year=2006)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lexus:ls:4P7"
+      }
+    },
+    {
+      "code": "3T5",
+      "marketingName": "Infrared",
+      "finish": "solid",
+      "lab": {
+        "L": 45.91,
+        "a": 63.85,
+        "b": 40.43,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #D1272D (PaintRef hex, OEM=Lexus, code=3T5 (models=IS, LC, RC; years=2015-2025)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lexus:is:3T5"
+      }
+    },
+    {
+      "code": "5C1",
+      "marketingName": "Flare Yellow",
+      "finish": "solid",
+      "lab": {
+        "L": 80.78,
+        "a": 12.91,
+        "b": 67.16,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #FFBD44 (PaintRef hex, OEM=Lexus, code=5C1 (models=LC, RC; years=2018-2025)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lexus:lc:5C1"
+      }
+    },
+    {
+      "code": "8Y0",
+      "marketingName": "Structural Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 14.2,
+        "a": 13.27,
+        "b": -29.65,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #17204E (PaintRef hex, OEM=Lexus, code=8Y0 (models=LC; year=2021)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lexus:lc:8Y0"
+      }
+    },
+    {
+      "code": "4Y5",
+      "marketingName": "Copper Crest",
+      "finish": "solid",
+      "lab": {
+        "L": 37.72,
+        "a": 26.95,
+        "b": 19.31,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #88463B (PaintRef hex, OEM=Lexus, code=4Y5 (models=LC, NX, RX, RZ, UX; years=2023-2025)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lexus:lc:4Y5"
+      }
+    },
+    {
+      "code": "094",
+      "marketingName": "Polar Surge Satin",
+      "finish": "solid",
+      "lab": {
+        "L": 93.65,
+        "a": -0.51,
+        "b": 0.37,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #ECEDEC (PaintRef hex, OEM=Lexus, code=094 (models=LC; year=2024)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lexus:lc:094"
+      }
+    },
+    {
+      "code": "4Y1",
+      "marketingName": "Cadmium Orange",
+      "finish": "solid",
+      "lab": {
+        "L": 47.33,
+        "a": 65.08,
+        "b": 60.26,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #D92800 (PaintRef hex, OEM=Lexus, code=4Y1 (models=LC, NX, UX; years=2019-2024)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lexus:lc:4Y1"
+      }
+    },
+    {
+      "code": "UA",
+      "marketingName": "Black",
+      "finish": "solid",
+      "lab": {
+        "L": 0,
+        "a": 0,
+        "b": 0,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #000000 (PaintRef hex, OEM=Lexus, code=UA (models=LS; years=2005-2006)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lexus:ls:UA"
+      }
+    },
+    {
+      "code": "KR",
+      "marketingName": "Norsea Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 36.92,
+        "a": -7.03,
+        "b": -11.51,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #3D5B69 (PaintRef hex, OEM=Lexus, code=KR (models=LS; year=2005)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lexus:ls:KR"
+      }
+    },
+    {
+      "code": "8V4",
+      "marketingName": "Blue Pearl",
+      "finish": "solid",
+      "lab": {
+        "L": 43.77,
+        "a": -1.3,
+        "b": -12.55,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #59697C (PaintRef hex, OEM=Lexus, code=8V4 (models=LS; year=2010)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lexus:ls:8V4"
+      }
+    },
+    {
+      "code": "8V4",
+      "marketingName": "Blue Harbor",
+      "finish": "solid",
+      "lab": {
+        "L": 43.77,
+        "a": -1.3,
+        "b": -12.55,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #59697C (PaintRef hex, OEM=Lexus, code=8V4 (models=LS; years=2011-2012)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lexus:ls:8V4"
+      }
+    },
+    {
+      "code": "T2",
+      "marketingName": "Bronze",
+      "finish": "solid",
+      "lab": {
+        "L": 32.38,
+        "a": 9.84,
+        "b": 13.77,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #624637 (PaintRef hex, OEM=Lexus, code=T2 (models=LS; year=2005)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lexus:ls:T2"
+      }
+    },
+    {
+      "code": "G4",
+      "marketingName": "Cashmere",
+      "finish": "solid",
+      "lab": {
+        "L": 69.36,
+        "a": 1.8,
+        "b": 4.12,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #B0A8A2 (PaintRef hex, OEM=Lexus, code=G4 (models=LS; years=2005-2006)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lexus:ls:G4"
+      }
+    },
+    {
+      "code": "T7",
+      "marketingName": "Charcoal Beige",
+      "finish": "solid",
+      "lab": {
+        "L": 29.64,
+        "a": -0.14,
+        "b": -2.09,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #444649 (PaintRef hex, OEM=Lexus, code=T7 (models=LS; years=2005-2006)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lexus:ls:T7"
+      }
+    },
+    {
+      "code": "G3",
+      "marketingName": "Pueblo Gold",
+      "finish": "solid",
+      "lab": {
+        "L": 79.63,
+        "a": -1.47,
+        "b": 17.97,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #D0C5A4 (PaintRef hex, OEM=Lexus, code=G3 (models=LS; years=2005-2006)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lexus:ls:G3"
+      }
+    },
+    {
+      "code": "4S1",
+      "marketingName": "Briarwood",
+      "finish": "solid",
+      "lab": {
+        "L": 58.78,
+        "a": 3.76,
+        "b": 3.75,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #978B87 (PaintRef hex, OEM=Lexus, code=4S1 (models=LS; year=2006)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lexus:ls:4S1"
+      }
+    },
+    {
+      "code": "4T5",
+      "marketingName": "Truffle Mica",
+      "finish": "solid",
+      "lab": {
+        "L": 29.87,
+        "a": 6.75,
+        "b": -2.92,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #4F434B (PaintRef hex, OEM=Lexus, code=4T5 (models=LS; year=2007)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lexus:ls:4T5"
+      }
+    },
+    {
+      "code": "4T5",
+      "marketingName": "Truffle Pearl",
+      "finish": "solid",
+      "lab": {
+        "L": 29.87,
+        "a": 6.75,
+        "b": -2.92,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #4F434B (PaintRef hex, OEM=Lexus, code=4T5 (models=LS; year=2008)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lexus:ls:4T5"
+      }
+    },
+    {
+      "code": "DV",
+      "marketingName": "Light Tundra",
+      "finish": "solid",
+      "lab": {
+        "L": 56.17,
+        "a": -3.77,
+        "b": -4.93,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #7B898F (PaintRef hex, OEM=Lexus, code=DV (models=LS; years=2005-2006)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lexus:ls:DV"
+      }
+    },
+    {
+      "code": "JP",
+      "marketingName": "Silver Birch",
+      "finish": "solid",
+      "lab": {
+        "L": 74.34,
+        "a": -1.6,
+        "b": -4,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #B0B8BE (PaintRef hex, OEM=Lexus, code=JP (models=LS; years=2005-2006)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lexus:ls:JP"
+      }
+    },
+    {
+      "code": "072",
+      "marketingName": "Moonlight",
+      "finish": "solid",
+      "lab": {
+        "L": 80.18,
+        "a": 3.57,
+        "b": -4.37,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #CAC5CF (PaintRef hex, OEM=Lexus, code=072 (models=LS; year=2006)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lexus:ls:072"
+      }
+    },
+    {
+      "code": "HJ",
+      "marketingName": "Pewter",
+      "finish": "solid",
+      "lab": {
+        "L": 51.35,
+        "a": 1.07,
+        "b": -3.94,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #797A81 (PaintRef hex, OEM=Lexus, code=HJ (models=LS; year=2006)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lexus:ls:HJ"
+      }
+    },
+    {
+      "code": "1K2",
+      "marketingName": "Manganese Luster",
+      "finish": "solid",
+      "lab": {
+        "L": 62.87,
+        "a": 0.42,
+        "b": -2.22,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #97989C (PaintRef hex, OEM=Lexus, code=1K2 (models=LS, LX; years=2018-2025)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lexus:ls:1K2"
+      }
+    },
+    {
+      "code": "1L3",
+      "marketingName": "Silver Illusion",
+      "finish": "solid",
+      "lab": {
+        "L": 81.35,
+        "a": -0.02,
+        "b": 1.12,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #CBCAC8 (PaintRef hex, OEM=Lexus, code=1L3 (models=LS; years=2024-2025)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lexus:ls:1L3"
+      }
+    },
+    {
+      "code": "G2",
+      "marketingName": "Redfire",
+      "finish": "solid",
+      "lab": {
+        "L": 31.1,
+        "a": 44.59,
+        "b": 30.42,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #8C201C (PaintRef hex, OEM=Lexus, code=G2 (models=LS; years=2005-2006)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lexus:ls:G2"
+      }
+    },
+    {
+      "code": "3P2",
+      "marketingName": "Bordeaux",
+      "finish": "solid",
+      "lab": {
+        "L": 16.37,
+        "a": 9.19,
+        "b": -2.29,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #34242C (PaintRef hex, OEM=Lexus, code=3P2 (models=LS; year=2006)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lexus:ls:3P2"
+      }
+    },
+    {
+      "code": "HH",
+      "marketingName": "Dark Cherry",
+      "finish": "solid",
+      "lab": {
+        "L": 24.08,
+        "a": 7.98,
+        "b": 1.67,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #463537 (PaintRef hex, OEM=Lexus, code=HH (models=LS; year=2006)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lexus:ls:HH"
+      }
+    },
+    {
+      "code": "3R7",
+      "marketingName": "Noble Spinel",
+      "finish": "solid",
+      "lab": {
+        "L": 15.7,
+        "a": 37.57,
+        "b": 5.46,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #550021 (PaintRef hex, OEM=Lexus, code=3R7 (models=LS, LX; years=2007-2013)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lexus:ls:3R7"
+      }
+    },
+    {
+      "code": "3R7",
+      "marketingName": "Noble Spinel Pearl",
+      "finish": "solid",
+      "lab": {
+        "L": 15.7,
+        "a": 37.57,
+        "b": 5.46,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #550021 (PaintRef hex, OEM=Lexus, code=3R7 (models=LX; year=2009)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lexus:lx:3R7"
+      }
+    },
+    {
+      "code": "3U3",
+      "marketingName": "Sonic Agate",
+      "finish": "solid",
+      "lab": {
+        "L": 27.46,
+        "a": 37.32,
+        "b": 20.87,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #782223 (PaintRef hex, OEM=Lexus, code=3U3 (models=LS; year=2018)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lexus:ls:3U3"
+      }
+    },
+    {
+      "code": "F6",
+      "marketingName": "Ceramic White",
+      "finish": "solid",
+      "lab": {
+        "L": 84.23,
+        "a": 1.71,
+        "b": 0.61,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #D6D1D1 (PaintRef hex, OEM=Lexus, code=F6 (models=LS; years=2005-2006)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lexus:ls:F6"
+      }
+    },
+    {
+      "code": "WT",
+      "marketingName": "Performance White",
+      "finish": "solid",
+      "lab": {
+        "L": 99.95,
+        "a": -0.35,
+        "b": 0.95,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #FFFFFD (PaintRef hex, OEM=Lexus, code=WT (models=LS; year=2006)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lexus:ls:WT"
+      }
+    },
+    {
+      "code": "076",
+      "marketingName": "Premium White Pearl",
+      "finish": "solid",
+      "lab": {
+        "L": 84.93,
+        "a": 0.66,
+        "b": -4.78,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #D1D4DD (PaintRef hex, OEM=Lexus, code=076 (models=LS; year=2007)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lexus:ls:076"
+      }
+    },
+    {
+      "code": "8U4",
+      "marketingName": "Costa Azul",
+      "finish": "solid",
+      "lab": {
+        "L": 44.28,
+        "a": -0.61,
+        "b": -34.6,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #336CA2 (PaintRef hex, OEM=Lexus, code=8U4 (models=LX, SC; years=2008-2010)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lexus:lx:8U4"
+      }
+    },
+    {
+      "code": "8U4",
+      "marketingName": "Costa Azul Pearl",
+      "finish": "solid",
+      "lab": {
+        "L": 44.28,
+        "a": -0.61,
+        "b": -34.6,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #336CA2 (PaintRef hex, OEM=Lexus, code=8U4 (models=LX; year=2009)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lexus:lx:8U4"
+      }
+    },
+    {
+      "code": "4R2",
+      "marketingName": "Beige Pearl Crystal Shine",
+      "finish": "solid",
+      "lab": {
+        "L": 87.89,
+        "a": 4.06,
+        "b": 12.48,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #EED9C5 (PaintRef hex, OEM=Lexus, code=4R2 (models=LX; year=2006)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lexus:lx:4R2"
+      }
+    },
+    {
+      "code": "4R2",
+      "marketingName": "Sand Dollar Pearl",
+      "finish": "solid",
+      "lab": {
+        "L": 87.89,
+        "a": 4.06,
+        "b": 12.48,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #EED9C5 (PaintRef hex, OEM=Lexus, code=4R2 (models=LX; year=2007)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lexus:lx:4R2"
+      }
+    },
+    {
+      "code": "1E9",
+      "marketingName": "Dark Gray",
+      "finish": "solid",
+      "lab": {
+        "L": 24.83,
+        "a": 2.57,
+        "b": -5.38,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #3B3A43 (PaintRef hex, OEM=Lexus, code=1E9 (models=LX; year=2006)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lexus:lx:1E9"
+      }
+    },
+    {
+      "code": "1E9",
+      "marketingName": "Galactic Gray Mica",
+      "finish": "solid",
+      "lab": {
+        "L": 24.83,
+        "a": 2.57,
+        "b": -5.38,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #3B3A43 (PaintRef hex, OEM=Lexus, code=1E9 (models=LX; year=2007)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lexus:lx:1E9"
+      }
+    },
+    {
+      "code": "1G8",
+      "marketingName": "Twilight Gray",
+      "finish": "solid",
+      "lab": {
+        "L": 41.99,
+        "a": 4.02,
+        "b": -14.63,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #5D627B (PaintRef hex, OEM=Lexus, code=1G8 (models=LX; years=2008-2011)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lexus:lx:1G8"
+      }
+    },
+    {
+      "code": "1G8",
+      "marketingName": "Twilight Gray Metallic",
+      "finish": "solid",
+      "lab": {
+        "L": 41.99,
+        "a": 4.02,
+        "b": -14.63,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #5D627B (PaintRef hex, OEM=Lexus, code=1G8 (models=LX; year=2009)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lexus:lx:1G8"
+      }
+    },
+    {
+      "code": "BG6",
+      "marketingName": "Winter Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 70.09,
+        "a": -2.15,
+        "b": -6.55,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #A1ADB7 (PaintRef hex, OEM=Lexus, code=BG6 (models=NX; year=1991)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lexus:nx:BG6"
+      }
+    },
+    {
+      "code": "TJ4",
+      "marketingName": "Electric Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 42.67,
+        "a": 12.23,
+        "b": -42.4,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #4562AB (PaintRef hex, OEM=Lexus, code=TJ4 (models=NX; year=1993)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lexus:nx:TJ4"
+      }
+    },
+    {
+      "code": "TK3",
+      "marketingName": "Sapphire Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 33.82,
+        "a": 8.14,
+        "b": -22.43,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #484D73 (PaintRef hex, OEM=Lexus, code=TK3 (models=NX; year=1993)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lexus:nx:TK3"
+      }
+    },
+    {
+      "code": "LJ0",
+      "marketingName": "Satin Silver",
+      "finish": "solid",
+      "lab": {
+        "L": 67.11,
+        "a": 3.39,
+        "b": -8.76,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #A2A2B3 (PaintRef hex, OEM=Lexus, code=LJ0 (models=NX; year=1991)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lexus:nx:LJ0"
+      }
+    },
+    {
+      "code": "KJ5",
+      "marketingName": "Slate Gray",
+      "finish": "solid",
+      "lab": {
+        "L": 29.8,
+        "a": 2.82,
+        "b": -3.75,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #48454C (PaintRef hex, OEM=Lexus, code=KJ5 (models=NX; years=1991-1993)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lexus:nx:KJ5"
+      }
+    },
+    {
+      "code": "WK2",
+      "marketingName": "Greenish Silver",
+      "finish": "solid",
+      "lab": {
+        "L": 74.32,
+        "a": -2.31,
+        "b": 0.91,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #B3B8B5 (PaintRef hex, OEM=Lexus, code=WK2 (models=NX; year=1993)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lexus:nx:WK2"
+      }
+    },
+    {
+      "code": "4W7",
+      "marketingName": "Molten",
+      "finish": "solid",
+      "lab": {
+        "L": 58.55,
+        "a": 46.08,
+        "b": 45.85,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #E4673E (PaintRef hex, OEM=Lexus, code=4W7 (models=NX, RC, RX; years=2015-2018)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lexus:nx:4W7"
+      }
+    },
+    {
+      "code": "AG2",
+      "marketingName": "Aztec Red",
+      "finish": "solid",
+      "lab": {
+        "L": 35.21,
+        "a": 59.4,
+        "b": 40.45,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #AA0015 (PaintRef hex, OEM=Lexus, code=AG2 (models=NX; years=1991-1993)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lexus:nx:AG2"
+      }
+    },
+    {
+      "code": "AH3",
+      "marketingName": "Cherry Red",
+      "finish": "solid",
+      "lab": {
+        "L": 28.27,
+        "a": 51.48,
+        "b": 29.83,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #8B0018 (PaintRef hex, OEM=Lexus, code=AH3 (models=NX; years=1991-1992)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lexus:nx:AH3"
+      }
+    },
+    {
+      "code": "AL0",
+      "marketingName": "Ruby Pearl",
+      "finish": "solid",
+      "lab": {
+        "L": 20.42,
+        "a": 35.44,
+        "b": 18.59,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #621218 (PaintRef hex, OEM=Lexus, code=AL0 (models=NX; year=1993)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lexus:nx:AL0"
+      }
+    },
+    {
+      "code": "531",
+      "marketingName": "Vail White",
+      "finish": "solid",
+      "lab": {
+        "L": 89.57,
+        "a": -3.98,
+        "b": 6.85,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #DFE3D4 (PaintRef hex, OEM=Lexus, code=531 (models=NX; years=1991-1993)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lexus:nx:531"
+      }
+    },
+    {
+      "code": "EH7",
+      "marketingName": "Yellow",
+      "finish": "solid",
+      "lab": {
+        "L": 79.43,
+        "a": -4.63,
+        "b": 45.27,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #D8C56F (PaintRef hex, OEM=Lexus, code=EH7 (models=NX; years=1991-1993)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lexus:nx:EH7"
+      }
+    },
+    {
+      "code": "WCH",
+      "marketingName": "Electric Surge",
+      "finish": "solid",
+      "lab": {
+        "L": 18.65,
+        "a": 22.43,
+        "b": -46.3,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #0A2672 (PaintRef hex, OEM=Lexus, code=WCH (models=RC; year=2022)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lexus:rc:WCH"
+      }
+    },
+    {
+      "code": "217",
+      "marketingName": "Stargazer Black",
+      "finish": "solid",
+      "lab": {
+        "L": 0,
+        "a": 0,
+        "b": 0,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #000000 (PaintRef hex, OEM=Lexus, code=217 (models=RX; year=2014)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lexus:rx:217"
+      }
+    },
+    {
+      "code": "8R7",
+      "marketingName": "Neptune Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 21.59,
+        "a": 0.15,
+        "b": -17.87,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #20354E (PaintRef hex, OEM=Lexus, code=8R7 (models=RX; years=2006-2007)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lexus:rx:8R7"
+      }
+    },
+    {
+      "code": "4S6",
+      "marketingName": "Brandywine",
+      "finish": "solid",
+      "lab": {
+        "L": 28.8,
+        "a": 24.52,
+        "b": 3.75,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #68343F (PaintRef hex, OEM=Lexus, code=4S6 (models=RX; year=2008)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lexus:rx:4S6"
+      }
+    },
+    {
+      "code": "4S6",
+      "marketingName": "Brandywine Pearl",
+      "finish": "solid",
+      "lab": {
+        "L": 28.8,
+        "a": 24.52,
+        "b": 3.75,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #68343F (PaintRef hex, OEM=Lexus, code=4S6 (models=RX; year=2009)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lexus:rx:4S6"
+      }
+    },
+    {
+      "code": "6T3",
+      "marketingName": "Black Forest",
+      "finish": "solid",
+      "lab": {
+        "L": 27.06,
+        "a": 1.14,
+        "b": -9.28,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #3A404E (PaintRef hex, OEM=Lexus, code=6T3 (models=RX; years=2006-2007)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lexus:rx:6T3"
+      }
+    },
+    {
+      "code": "6T1",
+      "marketingName": "Light Olive",
+      "finish": "solid",
+      "lab": {
+        "L": 80.75,
+        "a": -4.22,
+        "b": -2.02,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #BECBCC (PaintRef hex, OEM=Lexus, code=6T1 (models=RX; year=2006)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lexus:rx:6T1"
+      }
+    },
+    {
+      "code": "1C0",
+      "marketingName": "Millenium Silver",
+      "finish": "solid",
+      "lab": {
+        "L": 70.58,
+        "a": -3.98,
+        "b": -1.95,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #A3AFB0 (PaintRef hex, OEM=Lexus, code=1C0 (models=RX; years=2006-2008)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lexus:rx:1C0"
+      }
+    },
+    {
+      "code": "6T1",
+      "marketingName": "Bamboo Mica",
+      "finish": "solid",
+      "lab": {
+        "L": 80.75,
+        "a": -4.22,
+        "b": -2.02,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #BECBCC (PaintRef hex, OEM=Lexus, code=6T1 (models=RX; year=2007)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lexus:rx:6T1"
+      }
+    },
+    {
+      "code": "1E0",
+      "marketingName": "Flint Mica",
+      "finish": "solid",
+      "lab": {
+        "L": 11.2,
+        "a": -0.21,
+        "b": -0.85,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #1D1E1F (PaintRef hex, OEM=Lexus, code=1E0 (models=RX; year=2007)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lexus:rx:1E0"
+      }
+    },
+    {
+      "code": "6T1",
+      "marketingName": "Bamboo",
+      "finish": "solid",
+      "lab": {
+        "L": 80.75,
+        "a": -4.22,
+        "b": -2.02,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #BECBCC (PaintRef hex, OEM=Lexus, code=6T1 (models=RX; year=2008)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lexus:rx:6T1"
+      }
+    },
+    {
+      "code": "1E0",
+      "marketingName": "Flint",
+      "finish": "solid",
+      "lab": {
+        "L": 11.2,
+        "a": -0.21,
+        "b": -0.85,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #1D1E1F (PaintRef hex, OEM=Lexus, code=1E0 (models=RX; year=2008)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lexus:rx:1E0"
+      }
+    },
+    {
+      "code": "6T1",
+      "marketingName": "Bamboo Pearl",
+      "finish": "solid",
+      "lab": {
+        "L": 80.75,
+        "a": -4.22,
+        "b": -2.02,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #BECBCC (PaintRef hex, OEM=Lexus, code=6T1 (models=RX; year=2009)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lexus:rx:6T1"
+      }
+    },
+    {
+      "code": "062",
+      "marketingName": "White",
+      "finish": "solid",
+      "lab": {
+        "L": 94.08,
+        "a": 0.99,
+        "b": 4.7,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #F4EDE5 (PaintRef hex, OEM=Lexus, code=062 (models=RX; year=2009)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lexus:rx:062"
+      }
+    },
+    {
+      "code": "8Z2",
+      "marketingName": "Either",
+      "finish": "solid",
+      "lab": {
+        "L": 29.76,
+        "a": -1.49,
+        "b": -3.23,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #41474B (PaintRef hex, OEM=Lexus, code=8Z2 (models=RZ; years=2023-2025)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lexus:rz:8Z2"
+      }
+    },
+    {
+      "code": "3P6",
+      "marketingName": "Blackish Red",
+      "finish": "solid",
+      "lab": {
+        "L": 9.42,
+        "a": 10.85,
+        "b": -4.11,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #261520 (PaintRef hex, OEM=Lexus, code=3P6 (models=SC; year=2006)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lexus:sc:3P6"
+      }
+    },
+    {
+      "code": "3P6",
+      "marketingName": "Twilight Amethyst",
+      "finish": "solid",
+      "lab": {
+        "L": 9.42,
+        "a": 10.85,
+        "b": -4.11,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #261520 (PaintRef hex, OEM=Lexus, code=3P6 (models=SC; years=2007-2009)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lexus:sc:3P6"
+      }
+    },
+    {
+      "code": "8P4",
+      "marketingName": "Dark Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 16.24,
+        "a": 5.72,
+        "b": -18.8,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #1F2743 (PaintRef hex, OEM=Lexus, code=8P4 (models=SC; year=2006)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lexus:sc:8P4"
+      }
+    },
+    {
+      "code": "4T2",
+      "marketingName": "Premium Brown",
+      "finish": "solid",
+      "lab": {
+        "L": 35.13,
+        "a": 12.82,
+        "b": 26.74,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #714A28 (PaintRef hex, OEM=Lexus, code=4T2 (models=SC; year=2006)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lexus:sc:4T2"
+      }
+    },
+    {
+      "code": "4T2",
+      "marketingName": "Tigereye",
+      "finish": "solid",
+      "lab": {
+        "L": 35.13,
+        "a": 12.82,
+        "b": 26.74,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #714A28 (PaintRef hex, OEM=Lexus, code=4T2 (models=SC; years=2007-2010)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lexus:sc:4T2"
+      }
+    },
+    {
+      "code": "4T2",
+      "marketingName": "Tigereye Pearl",
+      "finish": "solid",
+      "lab": {
+        "L": 35.13,
+        "a": 12.82,
+        "b": 26.74,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #714A28 (PaintRef hex, OEM=Lexus, code=4T2 (models=SC; year=2009)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lexus:sc:4T2"
+      }
+    },
+    {
+      "code": "065",
+      "marketingName": "White Gold Crystal",
+      "finish": "solid",
+      "lab": {
+        "L": 95.28,
+        "a": -3.25,
+        "b": 4.83,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #EFF3E8 (PaintRef hex, OEM=Lexus, code=065 (models=SC; year=2006)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lexus:sc:065"
+      }
+    },
+    {
+      "code": "1J9",
+      "marketingName": "Celestial Silver",
+      "finish": "solid",
+      "lab": {
+        "L": 65.29,
+        "a": -2.11,
+        "b": -4.85,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #96A0A7 (PaintRef hex, OEM=Lexus, code=1J9 (models=TX; years=2024-2025)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lexus:tx:1J9"
+      }
+    },
+    {
+      "code": "089",
+      "marketingName": "Wind Chill",
+      "finish": "solid",
+      "lab": {
+        "L": 86.38,
+        "a": -3.03,
+        "b": -1.05,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #D1DADA (PaintRef hex, OEM=Lexus, code=089 (models=TX; years=2024-2025)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lexus:tx:089"
+      }
+    }
+  ]
+}
