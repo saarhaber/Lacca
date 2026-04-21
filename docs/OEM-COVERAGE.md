@@ -1,6 +1,6 @@
 # OEM Paint Coverage
 
-Last updated: 2026-04-19
+Last updated: 2026-04-21
 
 This is the single source of truth for which manufacturers have real paint data in `data/oem/` vs model-only stubs. After adding data, update the counts in the table below.
 
@@ -21,24 +21,30 @@ This is the single source of truth for which manufacturers have real paint data 
 
 | OEM | Total | Sources |
 |-----|-------|---------|
-| Honda | 865 | paintref (685) + ACL (180) |
-| Hyundai | 629 | paintref (626) + ACL (3) |
-| Dodge | 507 | paintref (507) |
-| BMW | 391 | paintref (372) + curated BMW-X (14) + ACL (5) |
-| GMC | 381 | paintref (381) |
-| Acura | 326 | paintref (326) |
-| Buick | 243 | paintref (243) |
-| Audi | 241 | paintref (241) |
-| Cadillac | 220 | paintref (220) |
-| Chrysler | 179 | paintref (179) |
-| Aston Martin | 139 | paintref (139) |
-| Jeep | 122 | paintref (121) + curated (1) |
+| Honda | 786 | ACL (179) + paintref (607) |
+| Nissan | 756 | ACL (73) + paintref (683) |
+| Hyundai | 511 | ACL (3) + paintref (508) |
+| Dodge | 378 | paintref (378) |
+| BMW | 336 | ACL (5) + paintref (317) + curated (14) |
+| Kia | 331 | ACL (2) + curated (6) + paintref (323) |
+| Acura | 298 | paintref (298) |
+| Lincoln | 294 | curated (5) + paintref (289) |
+| GMC | 268 | paintref (268) |
+| Lexus | 219 | ACL (4) + paintref (215) |
+| Audi | 212 | paintref (212) |
+| Genesis | 206 | curated (6) + paintref (200) |
+| Buick | 190 | paintref (190) |
+| Chrysler | 172 | paintref (172) |
+| Pontiac | 165 | ACL (3) + paintref (162) |
+| Cadillac | 151 | paintref (151) |
+| Jeep | 104 | curated (1) + paintref (103) |
 | Mercedes-Benz | 104 | ACL (104) |
-| Chevrolet | 83 | paintref (83) |
-| Alfa Romeo | 81 | paintref (81) |
-| Bentley | 77 | paintref (77) |
-| Nissan | 73 | ACL (73) |
+| Aston Martin | 81 | paintref (81) |
+| Alfa Romeo | 79 | paintref (79) |
+| Bentley | 68 | paintref (68) |
+| Chevrolet | 60 | paintref (60) |
 | Mitsubishi | 57 | ACL (57) |
+| Maserati | 54 | ACL (3) + paintref (51) |
 | Vauxhall | 49 | ACL (49) |
 | RAL Classic | 40 | curated (reference standard) |
 | Toyota | 35 | curated (20) + ACL (15) |
@@ -51,15 +57,27 @@ This is the single source of truth for which manufacturers have real paint data 
 |-----|-------|---------|-----------|
 | Porsche | 19 | curated | Add more model-year variants |
 | Volkswagen | 18 | ACL | Low-quality vintage ACL; needs PaintRef |
-| Infiniti | 17 | ACL + curated | Add modern Majestic White; expand |
-| Tesla | 15 | curated (Model 3/Y) | Add S/X/Cybertruck colors |
-| Volvo | 14 | ACL + curated | ACL codes are model names, not paint codes; needs real data |
+| Infiniti | 17 | ACL | Add modern Majestic White; expand |
+| Volvo | 14 | ACL | ACL codes are model names, not paint codes; needs real data |
 | Smart | 12 | ACL | Niche; lower priority |
+| Tesla | 12 | curated | Add S/X/Cybertruck colors |
 | Ford | 11 | paintref | PaintRef CGI down; add more curated |
-| Land Rover | 10 | ACL + curated | Add modern Defender/Discovery colors |
-| Subaru | 8 | ACL + curated | Add more WRB/WRX variants |
+| Land Rover | 10 | ACL | Add modern Defender/Discovery colors |
+| Ram | 8 | curated (6) + paintref (2) | PaintRef CGI down; expand curated |
+| Subaru | 8 | ACL | Add more WRB/WRX variants |
+| Ferrari | 7 | paintref | Add Giallo Modena, Blu Tour de France, Nero Daytona |
+| Lamborghini | 7 | paintref | Add Nero Nemesis, Verde Scandal, Blu Cepheus |
+| Lucid | 6 | curated | Add Eureka Gold, Infinite Black |
+| McLaren | 6 | paintref | Add Vision Blue, Storm Grey, Volcano Orange |
+| Mini | 6 | curated | Add Chili Red, Midnight Black, Pepper White |
+| Polestar | 6 | curated | Add Snow, Space, Midnight |
+| Rivian | 6 | curated | Add Launch Green, Forest Green, Limestone |
+| Rolls-Royce | 6 | curated | Add Midnight Sapphire, Arctic White, Black Badge colors |
 | Suzuki | 6 | ACL | Mostly vintage; low priority |
-| Mazda | 5 | ACL + curated | Add more Soul Red Crystal variants |
+| Desoto | 5 | ACL | 1950s vintage; low priority |
+| Lotus | 5 | curated | Add Vivid Green, Hethel Yellow, Carbon Black |
+| Mazda | 5 | ACL | Add more Soul Red Crystal variants |
+| Saab | 5 | curated | Add Montana Black, Cosmic Blue |
 
 ---
 
@@ -69,46 +87,29 @@ This is the single source of truth for which manufacturers have real paint data 
 
 | OEM | Total | Notes |
 |-----|-------|-------|
-| Lexus | 4 | Add signature colors: Infrared, Nori Green, Ultra White |
 | Jaguar | 3 | Add Caldera Red, Santorini Black, British Racing Green variants |
-| Maserati | 3 | Add Blu Nettuno, Rosso Vincente, Grigio Cangiante |
-| Kia | 2 | Add Aurora Black, Runway Red |
 | Renault | 3 | Add Flamme Rouge, Zanzibar Orange |
-| Lincoln | 1 | Add Pristine White, Infinite Black |
-| Ram | 1 | Add Flame Red, Granite Crystal |
-| Genesis | 1 | Add Uyuni White, Verbena Blue |
-| Ferrari | 1 | Add Giallo Modena, Blu Tour de France, Nero Daytona |
-| Lamborghini | 1 | Add Nero Nemesis, Verde Scandal, Blu Cepheus |
-| McLaren | 1 | Add Vision Blue, Storm Grey, Volcano Orange |
-| Mini | 1 | Add Chili Red, Midnight Black, Pepper White |
-| Rolls-Royce | 1 | Add Midnight Sapphire, Arctic White, Black Badge colors |
-| Lotus | 1 | Add Vivid Green, Hethel Yellow, Carbon Black |
-| Rivian | 1 | Add Launch Green, Forest Green, Limestone |
-| Polestar | 1 | Add Snow, Space, Midnight |
-| Lucid | 1 | Add Eureka Gold, Infinite Black |
-| Saab | 1 | Add Montana Black, Cosmic Blue |
-| Maybach | 1 | Add Designo Manufaktur colors |
-| Peugeot | 1 | Add Elixir Red, Selenium Grey |
-| Lancia | 1 | Mostly historical; low priority |
-| Seat / Cupra | 1 | Add Magnetic Tech, Graphene Grey |
+| Mercury | 3 | Defunct; lower priority |
+| Plymouth | 2 | Defunct; lower priority |
+| Hudson | 4 | Vintage ACL |
+| Alpine | 1 | Add Blanc Solaire, Gris Tonnerre |
 | Bugatti | 1 | Add EB110 Blue, Nocturne Black |
 | Koenigsegg | 1 | Bespoke only; low priority |
-| Alpine | 1 | Add Blanc Solaire, Gris Tonnerre |
-| Pontiac | 3 | Vintage/defunct; lower priority |
-| Mercury | 3 | Defunct; lower priority |
+| Lancia | 1 | Mostly historical; low priority |
+| Maybach | 1 | Add Designo Manufaktur colors |
+| Mini | 1 | *(see Decent tier above)* |
+| Peugeot | 1 | Add Elixir Red, Selenium Grey |
+| Seat / Cupra | 1 | Add Magnetic Tech, Graphene Grey |
 
 ### Vintage / defunct brands (low priority)
 
 | OEM | Total | Notes |
 |-----|-------|-------|
-| Desoto | 5 | 1950s vintage ACL |
-| Hudson | 4 | Vintage ACL |
 | Datsun | 1 | Defunct (→ Nissan) |
 | Fiat | 1 | Very limited US presence; ACL data is vintage |
 | Saturn | 1 | Defunct |
 | Oldsmobile | 1 | Defunct |
 | American Motors | 1 | Defunct |
-| Plymouth | 2 | Defunct |
 | Opel | 1 | Not sold in US |
 | Citroen | 1 | Not sold in US |
 
@@ -117,10 +118,6 @@ This is the single source of truth for which manufacturers have real paint data 
 ## Stub only — model list, no paints (expand if traffic warrants)
 
 These have vPIC model catalogs so they appear in the make/model picker but fall back to generic colors for matching.
-
-- Acura *(has paintref — vpic stub is supplementary)*
-- Alfa Romeo *(has paintref — vpic stub supplementary)*
-- All other major OEMs above also have vpic stubs coexisting with paint scopes
 
 **Stubs with no paint scope at all:**
 - Most of the above OEMs' vpic stubs coexist with real paint scopes — check `data/oem/` for `<slug>-vpic-v1` vs `<slug>-paintref-v1` / `<slug>-curated-v1`.

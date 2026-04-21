@@ -1,0 +1,874 @@
+{
+  "$schema": "../../../schemas/exterior-paints-v1.schema.json",
+  "scopeId": "maserati-paintref-v1",
+  "version": "1.0.0",
+  "paints": [
+    {
+      "code": "X94",
+      "marketingName": "Sable Black",
+      "finish": "solid",
+      "lab": {
+        "L": 0,
+        "a": 0,
+        "b": 0,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #000000 (PaintRef hex, OEM=Maserati, code=X94 (models=Spyder; years=1995-1996)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Maserati:spyder:X94"
+      }
+    },
+    {
+      "code": "X08",
+      "marketingName": "Solano Black",
+      "finish": "solid",
+      "lab": {
+        "L": 0,
+        "a": 0,
+        "b": 0,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #000000 (PaintRef hex, OEM=Maserati, code=X08 (models=Spyder; year=1996)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Maserati:spyder:X08"
+      }
+    },
+    {
+      "code": "X13",
+      "marketingName": "Kalapana Black",
+      "finish": "solid",
+      "lab": {
+        "L": 0,
+        "a": 0,
+        "b": 0,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #000000 (PaintRef hex, OEM=Maserati, code=X13 (models=Spyder; years=1997-2012)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Maserati:spyder:X13"
+      }
+    },
+    {
+      "code": "041",
+      "marketingName": "Black",
+      "finish": "solid",
+      "lab": {
+        "L": 0,
+        "a": 0,
+        "b": 0,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #000000 (PaintRef hex, OEM=Maserati, code=041 (models=Spyder; years=2020-2025)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Maserati:spyder:041"
+      }
+    },
+    {
+      "code": "C9X",
+      "marketingName": "Jet Black",
+      "finish": "solid",
+      "lab": {
+        "L": 0,
+        "a": 0,
+        "b": 0,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #000000 (PaintRef hex, OEM=Maserati, code=C9X (models=Spyder; year=2020)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Maserati:spyder:C9X"
+      }
+    },
+    {
+      "code": "S13",
+      "marketingName": "Platinum",
+      "finish": "solid",
+      "lab": {
+        "L": 62.15,
+        "a": 6.31,
+        "b": 7.64,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #A79289 (PaintRef hex, OEM=Maserati, code=S13 (models=Spyder; year=2005)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Maserati:spyder:S13"
+      }
+    },
+    {
+      "code": "A87",
+      "marketingName": "Magenta Gray",
+      "finish": "solid",
+      "lab": {
+        "L": 33.44,
+        "a": 3.56,
+        "b": -3.38,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #524D54 (PaintRef hex, OEM=Maserati, code=A87 (models=Spyder; years=1997-1998)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Maserati:spyder:A87"
+      }
+    },
+    {
+      "code": "A52",
+      "marketingName": "Minden Silver",
+      "finish": "solid",
+      "lab": {
+        "L": 77.11,
+        "a": 3.38,
+        "b": 5.18,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #C9BCB5 (PaintRef hex, OEM=Maserati, code=A52 (models=Spyder; years=1997-1999)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Maserati:spyder:A52"
+      }
+    },
+    {
+      "code": "A68",
+      "marketingName": "Sterling Silver",
+      "finish": "solid",
+      "lab": {
+        "L": 80.31,
+        "a": -0.91,
+        "b": -3.7,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #C2C8CE (PaintRef hex, OEM=Maserati, code=A68 (models=Spyder; years=2003-2004)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Maserati:spyder:A68"
+      }
+    },
+    {
+      "code": "H32",
+      "marketingName": "Titanium Dark Gray",
+      "finish": "solid",
+      "lab": {
+        "L": 47.82,
+        "a": 5.14,
+        "b": -5.65,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #766F7B (PaintRef hex, OEM=Maserati, code=H32 (models=Spyder; year=2003)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Maserati:spyder:H32"
+      }
+    },
+    {
+      "code": "H32",
+      "marketingName": "Dark Gray",
+      "finish": "solid",
+      "lab": {
+        "L": 47.82,
+        "a": 5.14,
+        "b": -5.65,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #766F7B (PaintRef hex, OEM=Maserati, code=H32 (models=Spyder; years=2004-2005)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Maserati:spyder:H32"
+      }
+    },
+    {
+      "code": "A33",
+      "marketingName": "Liquid Silver",
+      "finish": "solid",
+      "lab": {
+        "L": 82.66,
+        "a": -0.31,
+        "b": -1.23,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #CCCED0 (PaintRef hex, OEM=Maserati, code=A33 (models=Spyder; years=2005-2008)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Maserati:spyder:A33"
+      }
+    },
+    {
+      "code": "T54",
+      "marketingName": "Cool White",
+      "finish": "solid",
+      "lab": {
+        "L": 76.25,
+        "a": 2.2,
+        "b": -3.78,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #BDBBC3 (PaintRef hex, OEM=Maserati, code=T54 (models=Spyder; year=2006)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Maserati:spyder:T54"
+      }
+    },
+    {
+      "code": "T54",
+      "marketingName": "Frost White",
+      "finish": "solid",
+      "lab": {
+        "L": 76.25,
+        "a": 2.2,
+        "b": -3.78,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #BDBBC3 (PaintRef hex, OEM=Maserati, code=T54 (models=Spyder; year=2007)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Maserati:spyder:T54"
+      }
+    },
+    {
+      "code": "A88",
+      "marketingName": "Satin Meisai",
+      "finish": "solid",
+      "lab": {
+        "L": 48.66,
+        "a": -2.63,
+        "b": -0.91,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #6E7575 (PaintRef hex, OEM=Maserati, code=A88 (models=Spyder; years=2007-2011)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Maserati:spyder:A88"
+      }
+    },
+    {
+      "code": "U04",
+      "marketingName": "Quick Silver",
+      "finish": "solid",
+      "lab": {
+        "L": 80.87,
+        "a": -1.08,
+        "b": 5.24,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #CBC9BF (PaintRef hex, OEM=Maserati, code=U04 (models=Spyder; years=2008-2012)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Maserati:spyder:U04"
+      }
+    },
+    {
+      "code": "A88",
+      "marketingName": "Satin Meisai Gray",
+      "finish": "solid",
+      "lab": {
+        "L": 48.66,
+        "a": -2.63,
+        "b": -0.91,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #6E7575 (PaintRef hex, OEM=Maserati, code=A88 (models=Spyder; year=2009)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Maserati:spyder:A88"
+      }
+    },
+    {
+      "code": "U09",
+      "marketingName": "Carbon",
+      "finish": "solid",
+      "lab": {
+        "L": 34.19,
+        "a": 2.14,
+        "b": 4.74,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #574F49 (PaintRef hex, OEM=Maserati, code=U09 (models=Spyder; years=2010-2012)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Maserati:spyder:U09"
+      }
+    },
+    {
+      "code": "M9A",
+      "marketingName": "Crayon",
+      "finish": "solid",
+      "lab": {
+        "L": 62.87,
+        "a": -0.02,
+        "b": 1.18,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #999896 (PaintRef hex, OEM=Maserati, code=M9A (models=Spyder; year=2020)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Maserati:spyder:M9A"
+      }
+    },
+    {
+      "code": "M7Z",
+      "marketingName": "GT Silver",
+      "finish": "solid",
+      "lab": {
+        "L": 65.77,
+        "a": -2.14,
+        "b": -0.74,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #9BA1A1 (PaintRef hex, OEM=Maserati, code=M7Z (models=Spyder; years=2020-2025)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Maserati:spyder:M7Z"
+      }
+    },
+    {
+      "code": "M9A",
+      "marketingName": "Chalk",
+      "finish": "solid",
+      "lab": {
+        "L": 62.87,
+        "a": -0.02,
+        "b": 1.18,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #999896 (PaintRef hex, OEM=Maserati, code=M9A (models=Spyder; years=2021-2023)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Maserati:spyder:M9A"
+      }
+    },
+    {
+      "code": "M7K",
+      "marketingName": "Arctic Grey",
+      "finish": "solid",
+      "lab": {
+        "L": 48.34,
+        "a": -0.08,
+        "b": -3.15,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #707378 (PaintRef hex, OEM=Maserati, code=M7K (models=Spyder; years=2023-2025)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Maserati:spyder:M7K"
+      }
+    },
+    {
+      "code": "M7B",
+      "marketingName": "Vanadium Grey",
+      "finish": "solid",
+      "lab": {
+        "L": 44.09,
+        "a": -0.98,
+        "b": -4.15,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #63696F (PaintRef hex, OEM=Maserati, code=M7B (models=Spyder; years=2024-2025)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Maserati:spyder:M7B"
+      }
+    },
+    {
+      "code": "G56",
+      "marketingName": "Monarch Green",
+      "finish": "solid",
+      "lab": {
+        "L": 31.05,
+        "a": -11.49,
+        "b": -12.4,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #204F5C (PaintRef hex, OEM=Maserati, code=G56 (models=Spyder; years=1997-1999)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Maserati:spyder:G56"
+      }
+    },
+    {
+      "code": "G67",
+      "marketingName": "Alloy Green",
+      "finish": "solid",
+      "lab": {
+        "L": 68.87,
+        "a": -13.46,
+        "b": 3.66,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #90AFA1 (PaintRef hex, OEM=Maserati, code=G67 (models=Spyder; year=2003)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Maserati:spyder:G67"
+      }
+    },
+    {
+      "code": "G69",
+      "marketingName": "Machine Green",
+      "finish": "solid",
+      "lab": {
+        "L": 44.48,
+        "a": -10.36,
+        "b": -10.98,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #486F7B (PaintRef hex, OEM=Maserati, code=G69 (models=Spyder; years=2004-2005)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Maserati:spyder:G69"
+      }
+    },
+    {
+      "code": "F09",
+      "marketingName": "Stellar Green",
+      "finish": "solid",
+      "lab": {
+        "L": 49.1,
+        "a": -8.11,
+        "b": -3.33,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #62797A (PaintRef hex, OEM=Maserati, code=F09 (models=Spyder; year=2006)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Maserati:spyder:F09"
+      }
+    },
+    {
+      "code": "F17",
+      "marketingName": "Optimist Green",
+      "finish": "solid",
+      "lab": {
+        "L": 60.88,
+        "a": -4.47,
+        "b": 4.4,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #8E958B (PaintRef hex, OEM=Maserati, code=F17 (models=Spyder; year=2008)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Maserati:spyder:F17"
+      }
+    },
+    {
+      "code": "M6C",
+      "marketingName": "Python Green",
+      "finish": "solid",
+      "lab": {
+        "L": 57.87,
+        "a": -41.64,
+        "b": 36.33,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #4D9C48 (PaintRef hex, OEM=Maserati, code=M6C (models=Spyder; years=2021-2023)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Maserati:spyder:M6C"
+      }
+    },
+    {
+      "code": "M03",
+      "marketingName": "Bizen Orange",
+      "finish": "solid",
+      "lab": {
+        "L": 42.67,
+        "a": 45.55,
+        "b": 39.01,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #B13E26 (PaintRef hex, OEM=Maserati, code=M03 (models=Spyder; year=2006)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Maserati:spyder:M03"
+      }
+    },
+    {
+      "code": "M03",
+      "marketingName": "Sunset",
+      "finish": "solid",
+      "lab": {
+        "L": 42.67,
+        "a": 45.55,
+        "b": 39.01,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #B13E26 (PaintRef hex, OEM=Maserati, code=M03 (models=Spyder; years=2007-2012)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Maserati:spyder:M03"
+      }
+    },
+    {
+      "code": "P51",
+      "marketingName": "Sundance Plum",
+      "finish": "solid",
+      "lab": {
+        "L": 16.84,
+        "a": 17.66,
+        "b": -9.25,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #3C2037 (PaintRef hex, OEM=Maserati, code=P51 (models=Spyder; year=1999)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Maserati:spyder:P51"
+      }
+    },
+    {
+      "code": "M4B",
+      "marketingName": "Ruby Star Neo",
+      "finish": "solid",
+      "lab": {
+        "L": 40.4,
+        "a": 52.57,
+        "b": 5.15,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #AB3059 (PaintRef hex, OEM=Maserati, code=M4B (models=Spyder; years=2024-2025)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Maserati:spyder:M4B"
+      }
+    },
+    {
+      "code": "R71",
+      "marketingName": "Caracas Red",
+      "finish": "solid",
+      "lab": {
+        "L": 41.74,
+        "a": 65.04,
+        "b": 50.63,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #C60D0F (PaintRef hex, OEM=Maserati, code=R71 (models=Spyder; years=1995-1996)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Maserati:spyder:R71"
+      }
+    },
+    {
+      "code": "P75",
+      "marketingName": "Barcelona Red",
+      "finish": "solid",
+      "lab": {
+        "L": 16.21,
+        "a": 21.31,
+        "b": 12.84,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #471A17 (PaintRef hex, OEM=Maserati, code=P75 (models=Spyder; years=1997-1999)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Maserati:spyder:P75"
+      }
+    },
+    {
+      "code": "P88",
+      "marketingName": "Cayenne Red",
+      "finish": "solid",
+      "lab": {
+        "L": 25.16,
+        "a": 40.43,
+        "b": 29.38,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #761611 (PaintRef hex, OEM=Maserati, code=P88 (models=Spyder; years=1997-1999)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Maserati:spyder:P88"
+      }
+    },
+    {
+      "code": "R87",
+      "marketingName": "Saronno Red",
+      "finish": "solid",
+      "lab": {
+        "L": 42.7,
+        "a": 59.42,
+        "b": 43.79,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #C2261F (PaintRef hex, OEM=Maserati, code=R87 (models=Spyder; years=1997-2003)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Maserati:spyder:R87"
+      }
+    },
+    {
+      "code": "P06",
+      "marketingName": "Deep Red",
+      "finish": "solid",
+      "lab": {
+        "L": 24.11,
+        "a": 36.68,
+        "b": 21.57,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #6E1A1B (PaintRef hex, OEM=Maserati, code=P06 (models=Spyder; year=2003)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Maserati:spyder:P06"
+      }
+    },
+    {
+      "code": "P06",
+      "marketingName": "Dark Red Pearl",
+      "finish": "solid",
+      "lab": {
+        "L": 24.11,
+        "a": 36.68,
+        "b": 21.57,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #6E1A1B (PaintRef hex, OEM=Maserati, code=P06 (models=Spyder; year=2004)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Maserati:spyder:P06"
+      }
+    },
+    {
+      "code": "P06",
+      "marketingName": "Dark Red",
+      "finish": "solid",
+      "lab": {
+        "L": 24.11,
+        "a": 36.68,
+        "b": 21.57,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #6E1A1B (PaintRef hex, OEM=Maserati, code=P06 (models=Spyder; years=2005-2007)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Maserati:spyder:P06"
+      }
+    },
+    {
+      "code": "P36",
+      "marketingName": "Rave Red",
+      "finish": "solid",
+      "lab": {
+        "L": 29.67,
+        "a": 39.13,
+        "b": 25.18,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #812521 (PaintRef hex, OEM=Maserati, code=P36 (models=Spyder; years=2008-2012)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Maserati:spyder:P36"
+      }
+    },
+    {
+      "code": "84A",
+      "marketingName": "Guards Red",
+      "finish": "solid",
+      "lab": {
+        "L": 35.18,
+        "a": 59.31,
+        "b": 42.88,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #AA0010 (PaintRef hex, OEM=Maserati, code=84A (models=Spyder; years=2020-2025)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Maserati:spyder:84A"
+      }
+    },
+    {
+      "code": "W75",
+      "marketingName": "White Pearl",
+      "finish": "solid",
+      "lab": {
+        "L": 90.92,
+        "a": -2.07,
+        "b": 2.56,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #E3E6E0 (PaintRef hex, OEM=Maserati, code=W75 (models=Spyder; year=1995)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Maserati:spyder:W75"
+      }
+    },
+    {
+      "code": "W75",
+      "marketingName": "Glacier White",
+      "finish": "solid",
+      "lab": {
+        "L": 90.92,
+        "a": -2.07,
+        "b": 2.56,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #E3E6E0 (PaintRef hex, OEM=Maserati, code=W75 (models=Spyder; year=1996)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Maserati:spyder:W75"
+      }
+    },
+    {
+      "code": "W12",
+      "marketingName": "Northstar White",
+      "finish": "solid",
+      "lab": {
+        "L": 99.65,
+        "a": 0,
+        "b": 0,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #FEFEFE (PaintRef hex, OEM=Maserati, code=W12 (models=Spyder; years=1997-2012)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Maserati:spyder:W12"
+      }
+    },
+    {
+      "code": "W69",
+      "marketingName": "Dover White",
+      "finish": "solid",
+      "lab": {
+        "L": 83.39,
+        "a": 0.51,
+        "b": 6.32,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #D6CFC4 (PaintRef hex, OEM=Maserati, code=W69 (models=Spyder; years=2003-2005)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Maserati:spyder:W69"
+      }
+    },
+    {
+      "code": "S9R",
+      "marketingName": "Carrara White",
+      "finish": "solid",
+      "lab": {
+        "L": 90.51,
+        "a": -1.55,
+        "b": -3.84,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #DDE5EB (PaintRef hex, OEM=Maserati, code=S9R (models=Spyder; years=2020-2023)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Maserati:spyder:S9R"
+      }
+    },
+    {
+      "code": "C9A",
+      "marketingName": "White",
+      "finish": "solid",
+      "lab": {
+        "L": 98.99,
+        "a": 0.18,
+        "b": -0.48,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #FCFCFD (PaintRef hex, OEM=Maserati, code=C9A (models=Spyder; years=2020-2025)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Maserati:spyder:C9A"
+      }
+    },
+    {
+      "code": "Y99",
+      "marketingName": "Martinique Yellow",
+      "finish": "solid",
+      "lab": {
+        "L": 84.92,
+        "a": -5.4,
+        "b": 37.35,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #E3D58D (PaintRef hex, OEM=Maserati, code=Y99 (models=Spyder; year=1995)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Maserati:spyder:Y99"
+      }
+    },
+    {
+      "code": "Y19",
+      "marketingName": "Solar",
+      "finish": "solid",
+      "lab": {
+        "L": 72.06,
+        "a": 7.51,
+        "b": 67.31,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #DCA929 (PaintRef hex, OEM=Maserati, code=Y19 (models=Spyder; years=2009-2010)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Maserati:spyder:Y19"
+      }
+    },
+    {
+      "code": "1S1",
+      "marketingName": "Racing Yellow",
+      "finish": "solid",
+      "lab": {
+        "L": 86.2,
+        "a": -6.99,
+        "b": 84.92,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #F4D80E (PaintRef hex, OEM=Maserati, code=1S1 (models=Spyder; years=2020-2025)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Maserati:spyder:1S1"
+      }
+    }
+  ]
+}

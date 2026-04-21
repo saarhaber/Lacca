@@ -1,0 +1,41 @@
+{
+  "$schema": "../../../schemas/exterior-paints-v1.schema.json",
+  "scopeId": "ram-paintref-v1",
+  "version": "1.0.0",
+  "paints": [
+    {
+      "code": "1G3",
+      "marketingName": "Magnetic Gray",
+      "finish": "solid",
+      "lab": {
+        "L": 39.13,
+        "a": 5.11,
+        "b": -8.55,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #5E5A6A (PaintRef hex, OEM=Ram, code=1G3 (models=Urban; year=2015)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Ram:urban:1G3"
+      }
+    },
+    {
+      "code": "070",
+      "marketingName": "Blizzard",
+      "finish": "solid",
+      "lab": {
+        "L": 93.03,
+        "a": -2.06,
+        "b": 2.55,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #E9ECE6 (PaintRef hex, OEM=Ram, code=070 (models=Urban; year=2015)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Ram:urban:070"
+      }
+    }
+  ]
+}

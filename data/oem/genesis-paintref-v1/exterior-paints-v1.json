@@ -1,0 +1,3407 @@
+{
+  "$schema": "../../../schemas/exterior-paints-v1.schema.json",
+  "scopeId": "genesis-paintref-v1",
+  "version": "1.0.0",
+  "paints": [
+    {
+      "code": "V3E",
+      "marketingName": "Black Forest Green",
+      "finish": "solid",
+      "lab": {
+        "L": 21.76,
+        "a": -4.86,
+        "b": 5.44,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #30362C (PaintRef hex, OEM=Genesis, code=V3E (models=Genesis; year=2019)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Genesis:genesis:V3E"
+      }
+    },
+    {
+      "code": "T5K",
+      "marketingName": "Victoria Black",
+      "finish": "solid",
+      "lab": {
+        "L": 0,
+        "a": 0,
+        "b": 0,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #000000 (PaintRef hex, OEM=Genesis, code=T5K (models=G90, Genesis; years=2018-2019)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Genesis:g90:T5K"
+      }
+    },
+    {
+      "code": "PH3",
+      "marketingName": "Vik Black",
+      "finish": "solid",
+      "lab": {
+        "L": 1.29,
+        "a": -0.4,
+        "b": 0.29,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #040504 (PaintRef hex, OEM=Genesis, code=PH3 (models=G70, G90, GV60, GV70, GV80, Genesis; years=2020-2025)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Genesis:g70:PH3"
+      }
+    },
+    {
+      "code": "RY5",
+      "marketingName": "Adriatic Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 10.22,
+        "a": 1.07,
+        "b": -20.03,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #001D37 (PaintRef hex, OEM=Genesis, code=RY5 (models=G70, G80, G90, GV70, GV80, Genesis; years=2018-2023)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Genesis:g70:RY5"
+      }
+    },
+    {
+      "code": "PS5",
+      "marketingName": "Mallorca Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 26.78,
+        "a": 2.4,
+        "b": -32.49,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #074171 (PaintRef hex, OEM=Genesis, code=PS5 (models=G70, G80, Genesis; years=2019-2023)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Genesis:g70:PS5"
+      }
+    },
+    {
+      "code": "RY6",
+      "marketingName": "Adriatic Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 10.22,
+        "a": 1.07,
+        "b": -20.03,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #001D37 (PaintRef hex, OEM=Genesis, code=RY6 (models=Genesis; year=2020)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Genesis:genesis:RY6"
+      }
+    },
+    {
+      "code": "URA",
+      "marketingName": "Tasman Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 16.93,
+        "a": 0.51,
+        "b": -7.96,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #242A35 (PaintRef hex, OEM=Genesis, code=URA (models=G70, G80, Genesis; years=2021-2025)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Genesis:g70:URA"
+      }
+    },
+    {
+      "code": "NRB",
+      "marketingName": "Capri Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 22.09,
+        "a": 3.76,
+        "b": -13.66,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #2F3449 (PaintRef hex, OEM=Genesis, code=NRB (models=G80, G90, GV60, GV70, GV80, Genesis; years=2022-2025)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Genesis:g80:NRB"
+      }
+    },
+    {
+      "code": "BLE",
+      "marketingName": "Kawah Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 40.06,
+        "a": 46.07,
+        "b": -85.38,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #0D4BEE (PaintRef hex, OEM=Genesis, code=BLE (models=G70, Genesis; years=2023-2025)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Genesis:g70:BLE"
+      }
+    },
+    {
+      "code": "MBM",
+      "marketingName": "Burleigh Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 41.42,
+        "a": 12.74,
+        "b": -37.26,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #4E5E9F (PaintRef hex, OEM=Genesis, code=MBM (models=Genesis; year=2025)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Genesis:genesis:MBM"
+      }
+    },
+    {
+      "code": "N5M",
+      "marketingName": "Himalayan Gray",
+      "finish": "solid",
+      "lab": {
+        "L": 35.01,
+        "a": 2.91,
+        "b": -2.92,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #555157 (PaintRef hex, OEM=Genesis, code=N5M (models=G70, G80, G90, GV60, GV70, GV80, Genesis; years=2017-2023)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Genesis:g70:N5M"
+      }
+    },
+    {
+      "code": "Y6S",
+      "marketingName": "Santiago Silver",
+      "finish": "solid",
+      "lab": {
+        "L": 86.35,
+        "a": -1.5,
+        "b": -1.08,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #D4D9DA (PaintRef hex, OEM=Genesis, code=Y6S (models=G80, G90, Genesis; years=2014-2019)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Genesis:g80:Y6S"
+      }
+    },
+    {
+      "code": "RGY",
+      "marketingName": "Siberian Ice",
+      "finish": "solid",
+      "lab": {
+        "L": 79.52,
+        "a": 0,
+        "b": 0,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #C5C5C5 (PaintRef hex, OEM=Genesis, code=RGY (models=G70, G80, Genesis; years=2018-2023)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Genesis:g70:RGY"
+      }
+    },
+    {
+      "code": "NA2",
+      "marketingName": "Gold Coast Silver",
+      "finish": "solid",
+      "lab": {
+        "L": 56.18,
+        "a": -1.15,
+        "b": 4.43,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #88877F (PaintRef hex, OEM=Genesis, code=NA2 (models=G80, G90, GV80, Genesis; years=2020-2022)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Genesis:g80:NA2"
+      }
+    },
+    {
+      "code": "SSS",
+      "marketingName": "Savile Silver",
+      "finish": "solid",
+      "lab": {
+        "L": 62.06,
+        "a": 0.27,
+        "b": -2.88,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #94969B (PaintRef hex, OEM=Genesis, code=SSS (models=G70, G80, G90, GV60, GV70, GV80, Genesis; years=2020-2025)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Genesis:g70:SSS"
+      }
+    },
+    {
+      "code": "NCM",
+      "marketingName": "Makalu Gray",
+      "finish": "solid",
+      "lab": {
+        "L": 59.68,
+        "a": -0.56,
+        "b": 0.4,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #8F908F (PaintRef hex, OEM=Genesis, code=NCM (models=G70, G80, G90, GV60, GV70, GV80, Genesis; years=2022-2025)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Genesis:g70:NCM"
+      }
+    },
+    {
+      "code": "ST7",
+      "marketingName": "Melbourne Gray",
+      "finish": "solid",
+      "lab": {
+        "L": 43.51,
+        "a": -0.39,
+        "b": -0.14,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #666767 (PaintRef hex, OEM=Genesis, code=ST7 (models=GV70, Genesis; years=2022-2023)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Genesis:gv70:ST7"
+      }
+    },
+    {
+      "code": "SMT",
+      "marketingName": "Bond Silver",
+      "finish": "solid",
+      "lab": {
+        "L": 67.51,
+        "a": -1.28,
+        "b": 1.3,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #A3A5A2 (PaintRef hex, OEM=Genesis, code=SMT (models=Genesis; year=2023)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Genesis:genesis:SMT"
+      }
+    },
+    {
+      "code": "GRY",
+      "marketingName": "Vatna Gray",
+      "finish": "solid",
+      "lab": {
+        "L": 59.68,
+        "a": -0.56,
+        "b": 0.4,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #8F908F (PaintRef hex, OEM=Genesis, code=GRY (models=G70, Genesis; years=2024-2025)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Genesis:g70:GRY"
+      }
+    },
+    {
+      "code": "E5E",
+      "marketingName": "Black Forest Green",
+      "finish": "solid",
+      "lab": {
+        "L": 18.47,
+        "a": -10.62,
+        "b": 6.75,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #203123 (PaintRef hex, OEM=Genesis, code=E5E (models=G70, G80, Genesis; years=2020-2022)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Genesis:g70:E5E"
+      }
+    },
+    {
+      "code": "MDY",
+      "marketingName": "Hallasan Green",
+      "finish": "solid",
+      "lab": {
+        "L": 36.37,
+        "a": -4.91,
+        "b": -1.01,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #4C5857 (PaintRef hex, OEM=Genesis, code=MDY (models=G80, G90, Genesis; years=2022-2025)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Genesis:g80:MDY"
+      }
+    },
+    {
+      "code": "Z5E",
+      "marketingName": "Havana Red",
+      "finish": "solid",
+      "lab": {
+        "L": 35.77,
+        "a": 59.88,
+        "b": 50.11,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #AD0000 (PaintRef hex, OEM=Genesis, code=Z5E (models=G70, G80, Genesis; years=2018-2023)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Genesis:g70:Z5E"
+      }
+    },
+    {
+      "code": "RLA",
+      "marketingName": "Cavendish Red",
+      "finish": "solid",
+      "lab": {
+        "L": 27.52,
+        "a": 32.08,
+        "b": 14.78,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #71292C (PaintRef hex, OEM=Genesis, code=RLA (models=G70, G80, Genesis; years=2022-2025)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Genesis:g70:RLA"
+      }
+    },
+    {
+      "code": "YW6",
+      "marketingName": "Casablanca White",
+      "finish": "solid",
+      "lab": {
+        "L": 84.31,
+        "a": -0.76,
+        "b": -3.06,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #CED3D8 (PaintRef hex, OEM=Genesis, code=YW6 (models=G80, G90, Genesis; years=2014-2019)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Genesis:g80:YW6"
+      }
+    },
+    {
+      "code": "UTU",
+      "marketingName": "Uyuni White",
+      "finish": "solid",
+      "lab": {
+        "L": 94.93,
+        "a": -0.79,
+        "b": -1.91,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #EDF1F4 (PaintRef hex, OEM=Genesis, code=UTU (models=G70; year=2020)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Genesis:g70:UTU"
+      }
+    },
+    {
+      "code": "UYH",
+      "marketingName": "Uyuni White",
+      "finish": "solid",
+      "lab": {
+        "L": 94.93,
+        "a": -0.79,
+        "b": -1.91,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #EDF1F4 (PaintRef hex, OEM=Genesis, code=UYH (models=G70, G80, G90, GV60, GV70, GV80, Genesis; years=2020-2025)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Genesis:g70:UYH"
+      }
+    },
+    {
+      "code": "WHT",
+      "marketingName": "Alta White",
+      "finish": "solid",
+      "lab": {
+        "L": 91.62,
+        "a": -3.09,
+        "b": -2.72,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #DEE9EC (PaintRef hex, OEM=Genesis, code=WHT (models=G70, G80, GV60, GV70, GV80, Genesis; years=2021-2025)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Genesis:g70:WHT"
+      }
+    },
+    {
+      "code": "NA3",
+      "marketingName": "Verbier White",
+      "finish": "solid",
+      "lab": {
+        "L": 86.95,
+        "a": -0.52,
+        "b": 0.37,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #D9DAD9 (PaintRef hex, OEM=Genesis, code=NA3 (models=G70, G80, G90, Genesis; years=2022-2025)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Genesis:g70:NA3"
+      }
+    },
+    {
+      "code": "WU6",
+      "marketingName": "Ibiza Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 29.39,
+        "a": 1.8,
+        "b": -21.26,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #314666 (PaintRef hex, OEM=Genesis, code=WU6 (models=Genesis; years=2014-2018)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Genesis:genesis:WU6"
+      }
+    },
+    {
+      "code": "YG6",
+      "marketingName": "Patagonia Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 38.66,
+        "a": 4.58,
+        "b": -6.15,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #5E5965 (PaintRef hex, OEM=Genesis, code=YG6 (models=G80, Genesis; years=2017-2018)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Genesis:g80:YG6"
+      }
+    },
+    {
+      "code": "P5C",
+      "marketingName": "Polar Ice",
+      "finish": "solid",
+      "lab": {
+        "L": 50.86,
+        "a": -10.55,
+        "b": -8.41,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #5B7F87 (PaintRef hex, OEM=Genesis, code=P5C (models=G80, Genesis; years=2018-2019)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Genesis:g80:P5C"
+      }
+    },
+    {
+      "code": "NEB",
+      "marketingName": "Matria Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 46.66,
+        "a": -8.2,
+        "b": -29.13,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #2C759F (PaintRef hex, OEM=Genesis, code=NEB (models=Genesis; year=2023)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Genesis:genesis:NEB"
+      }
+    },
+    {
+      "code": "YN6",
+      "marketingName": "Manhattan Brown",
+      "finish": "solid",
+      "lab": {
+        "L": 14.94,
+        "a": 2.19,
+        "b": 11.8,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #2E2415 (PaintRef hex, OEM=Genesis, code=YN6 (models=G80, Genesis; years=2015-2018)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Genesis:g80:YN6"
+      }
+    },
+    {
+      "code": "U5B",
+      "marketingName": "Serengeti Brown",
+      "finish": "solid",
+      "lab": {
+        "L": 20.74,
+        "a": 5.13,
+        "b": 6.92,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #3D2F28 (PaintRef hex, OEM=Genesis, code=U5B (models=G80, G90, Genesis; years=2018-2019)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Genesis:g80:U5B"
+      }
+    },
+    {
+      "code": "GLD",
+      "marketingName": "Valencia Gold",
+      "finish": "solid",
+      "lab": {
+        "L": 46.98,
+        "a": -0.13,
+        "b": 6.82,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #746F64 (PaintRef hex, OEM=Genesis, code=GLD (models=G80, Genesis; years=2022-2023)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Genesis:g80:GLD"
+      }
+    },
+    {
+      "code": "U6G",
+      "marketingName": "Empire State Gray",
+      "finish": "solid",
+      "lab": {
+        "L": 51.46,
+        "a": -3.09,
+        "b": 3.84,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #787C74 (PaintRef hex, OEM=Genesis, code=U6G (models=Genesis; years=2014-2017)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Genesis:genesis:U6G"
+      }
+    },
+    {
+      "code": "V6S",
+      "marketingName": "Parisian Gray",
+      "finish": "solid",
+      "lab": {
+        "L": 57.13,
+        "a": -0.8,
+        "b": -6.33,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #828A94 (PaintRef hex, OEM=Genesis, code=V6S (models=G80, Genesis; years=2014-2018)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Genesis:g80:V6S"
+      }
+    },
+    {
+      "code": "MPE",
+      "marketingName": "Makalu Gray Matte",
+      "finish": "solid",
+      "lab": {
+        "L": 59.68,
+        "a": -0.56,
+        "b": 0.4,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #8F908F (PaintRef hex, OEM=Genesis, code=MPE (models=G80, G90, GV70, GV80, Genesis; years=2022-2025)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Genesis:g80:MPE"
+      }
+    },
+    {
+      "code": "HT7",
+      "marketingName": "Cardiff Green",
+      "finish": "solid",
+      "lab": {
+        "L": 21.66,
+        "a": -7.21,
+        "b": 0.49,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #283733 (PaintRef hex, OEM=Genesis, code=HT7 (models=GV70, GV80, Genesis; years=2021-2024)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Genesis:gv70:HT7"
+      }
+    },
+    {
+      "code": "YR6",
+      "marketingName": "Pamplona Red",
+      "finish": "solid",
+      "lab": {
+        "L": 19.73,
+        "a": 13.6,
+        "b": 3.56,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #44282B (PaintRef hex, OEM=Genesis, code=YR6 (models=Genesis; years=2015-2017)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Genesis:genesis:YR6"
+      }
+    },
+    {
+      "code": "TR5",
+      "marketingName": "Sevilla Red",
+      "finish": "solid",
+      "lab": {
+        "L": 27.6,
+        "a": 47.29,
+        "b": 25.52,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #840E1D (PaintRef hex, OEM=Genesis, code=TR5 (models=G80, Genesis; years=2017-2018)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Genesis:g80:TR5"
+      }
+    },
+    {
+      "code": "NA1",
+      "marketingName": "Porto Red",
+      "finish": "solid",
+      "lab": {
+        "L": 18.32,
+        "a": 20.21,
+        "b": 5.17,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #492026 (PaintRef hex, OEM=Genesis, code=NA1 (models=G90, Genesis; years=2020-2021)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Genesis:g90:NA1"
+      }
+    },
+    {
+      "code": "YB6",
+      "marketingName": "Caspian Black",
+      "finish": "solid",
+      "lab": {
+        "L": 0,
+        "a": 0,
+        "b": 0,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #000000 (PaintRef hex, OEM=Genesis, code=YB6 (models=Genesis; years=2014-2018)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Genesis:genesis:YB6"
+      }
+    },
+    {
+      "code": "HBK",
+      "marketingName": "Maui Black",
+      "finish": "solid",
+      "lab": {
+        "L": 4.68,
+        "a": 0,
+        "b": 0,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #101010 (PaintRef hex, OEM=Genesis, code=HBK (models=G90, Genesis; years=2023-2025)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Genesis:g90:HBK"
+      }
+    },
+    {
+      "code": "SY6",
+      "marketingName": "San Simeon Gray",
+      "finish": "solid",
+      "lab": {
+        "L": 60.89,
+        "a": 2.64,
+        "b": 5.71,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #9C9189 (PaintRef hex, OEM=Genesis, code=SY6 (models=G90, Genesis; years=2018-2019)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Genesis:g90:SY6"
+      }
+    },
+    {
+      "code": "TG6",
+      "marketingName": "London Gray",
+      "finish": "solid",
+      "lab": {
+        "L": 31.89,
+        "a": 4.19,
+        "b": -2.51,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #50494F (PaintRef hex, OEM=Genesis, code=TG6 (models=Genesis; years=2017-2018)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Genesis:genesis:TG6"
+      }
+    },
+    {
+      "code": "CPR",
+      "marketingName": "Atacma Copper",
+      "finish": "solid",
+      "lab": {
+        "L": 73.73,
+        "a": 9.19,
+        "b": 7.98,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #CCAFA7 (PaintRef hex, OEM=Genesis, code=CPR (models=GV60, Genesis; years=2023-2024)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Genesis:gv60:CPR"
+      }
+    },
+    {
+      "code": "EMT",
+      "marketingName": "Hanauma Mint",
+      "finish": "solid",
+      "lab": {
+        "L": 82.53,
+        "a": -14.24,
+        "b": 4.76,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #B4D5C4 (PaintRef hex, OEM=Genesis, code=EMT (models=GV60, Genesis; years=2023-2025)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Genesis:gv60:EMT"
+      }
+    },
+    {
+      "code": "ELM",
+      "marketingName": "Sao Paulo Lime",
+      "finish": "solid",
+      "lab": {
+        "L": 91.61,
+        "a": -20.69,
+        "b": 47.29,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #DFF08A (PaintRef hex, OEM=Genesis, code=ELM (models=Genesis; year=2023)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Genesis:genesis:ELM"
+      }
+    },
+    {
+      "code": "RJK",
+      "marketingName": "Mauna Red",
+      "finish": "solid",
+      "lab": {
+        "L": 31.09,
+        "a": 54.51,
+        "b": 42.85,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #980005 (PaintRef hex, OEM=Genesis, code=RJK (models=GV60, GV70, GV80, Genesis; years=2022-2025)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Genesis:gv60:RJK"
+      }
+    },
+    {
+      "code": "BJK",
+      "marketingName": "Barossa Burgundy",
+      "finish": "solid",
+      "lab": {
+        "L": 42.09,
+        "a": 12.95,
+        "b": -2.03,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #775C67 (PaintRef hex, OEM=Genesis, code=BJK (models=GV70, Genesis; years=2022-2024)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Genesis:gv70:BJK"
+      }
+    },
+    {
+      "code": "FT7",
+      "marketingName": "Matterhorn White Matte",
+      "finish": "solid",
+      "lab": {
+        "L": 85.93,
+        "a": -0.16,
+        "b": -0.61,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #D6D7D8 (PaintRef hex, OEM=Genesis, code=FT7 (models=GV70, GV80, Genesis; years=2022-2024)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Genesis:gv70:FT7"
+      }
+    },
+    {
+      "code": "FT7",
+      "marketingName": "Matterhorn White",
+      "finish": "solid",
+      "lab": {
+        "L": 85.93,
+        "a": -0.16,
+        "b": -0.61,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #D6D7D8 (PaintRef hex, OEM=Genesis, code=FT7 (models=Genesis; year=2025)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Genesis:genesis:FT7"
+      }
+    },
+    {
+      "code": "MKG",
+      "marketingName": "Storr Green",
+      "finish": "solid",
+      "lab": {
+        "L": 48.82,
+        "a": -2.76,
+        "b": -8.43,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #677682 (PaintRef hex, OEM=Genesis, code=MKG (models=Genesis; year=2025)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Genesis:genesis:MKG"
+      }
+    },
+    {
+      "code": "PN7",
+      "marketingName": "Brunswick Green Matte",
+      "finish": "solid",
+      "lab": {
+        "L": 36.28,
+        "a": -12.86,
+        "b": 4.37,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #415B4E (PaintRef hex, OEM=Genesis, code=PN7 (models=GV70, Genesis; years=2022-2024)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Genesis:gv70:PN7"
+      }
+    },
+    {
+      "code": "BJM",
+      "marketingName": "Barossa Burgundy Matte",
+      "finish": "solid",
+      "lab": {
+        "L": 42.09,
+        "a": 12.95,
+        "b": -2.03,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #775C67 (PaintRef hex, OEM=Genesis, code=BJM (models=GV70, Genesis; years=2022-2023)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Genesis:gv70:BJM"
+      }
+    },
+    {
+      "code": "GBE",
+      "marketingName": "Bering Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 85.32,
+        "a": -1.35,
+        "b": -13.3,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #C5D7EE (PaintRef hex, OEM=Genesis, code=GBE (models=Genesis; year=2025)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Genesis:genesis:GBE"
+      }
+    },
+    {
+      "code": "FR7",
+      "marketingName": "Lima Red",
+      "finish": "solid",
+      "lab": {
+        "L": 17.47,
+        "a": 17.7,
+        "b": 8.12,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #452020 (PaintRef hex, OEM=Genesis, code=FR7 (models=Genesis; year=2021)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Genesis:genesis:FR7"
+      }
+    },
+    {
+      "code": "AF",
+      "marketingName": "Phantom Black",
+      "finish": "solid",
+      "lab": {
+        "L": 0,
+        "a": 0,
+        "b": 0,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #000000 (PaintRef hex, OEM=Genesis, code=AF (models=Genesis; years=2009-2012)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Genesis:genesis:AF"
+      }
+    },
+    {
+      "code": "NBA",
+      "marketingName": "Space Black",
+      "finish": "solid",
+      "lab": {
+        "L": 0,
+        "a": 0,
+        "b": 0,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #000000 (PaintRef hex, OEM=Genesis, code=NBA (models=Genesis; years=2010-2012)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Genesis:genesis:NBA"
+      }
+    },
+    {
+      "code": "RB5",
+      "marketingName": "Becketts Black",
+      "finish": "solid",
+      "lab": {
+        "L": 0,
+        "a": 0,
+        "b": 0,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #000000 (PaintRef hex, OEM=Genesis, code=RB5 (models=Genesis; year=2013)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Genesis:genesis:RB5"
+      }
+    },
+    {
+      "code": "AF",
+      "marketingName": "Black Noir",
+      "finish": "solid",
+      "lab": {
+        "L": 0,
+        "a": 0,
+        "b": 0,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #000000 (PaintRef hex, OEM=Genesis, code=AF (models=Genesis; year=2013)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Genesis:genesis:AF"
+      }
+    },
+    {
+      "code": "XK",
+      "marketingName": "Matt Black",
+      "finish": "solid",
+      "lab": {
+        "L": 28.15,
+        "a": 3.25,
+        "b": -3.63,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #454148 (PaintRef hex, OEM=Genesis, code=XK (models=Genesis; year=2017)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Genesis:genesis:XK"
+      }
+    },
+    {
+      "code": "TB",
+      "marketingName": "Sapphire Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 10.27,
+        "a": 1.84,
+        "b": -11.9,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #141C2C (PaintRef hex, OEM=Genesis, code=TB (models=Genesis; years=2009-2011)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Genesis:genesis:TB"
+      }
+    },
+    {
+      "code": "PM",
+      "marketingName": "Sterling Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 53.06,
+        "a": -4.75,
+        "b": -11.44,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #6A8292 (PaintRef hex, OEM=Genesis, code=PM (models=Genesis; years=2009-2011)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Genesis:genesis:PM"
+      }
+    },
+    {
+      "code": "NEA",
+      "marketingName": "Blue Diamond",
+      "finish": "solid",
+      "lab": {
+        "L": 67.23,
+        "a": -4.37,
+        "b": -12.63,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #8EA7BA (PaintRef hex, OEM=Genesis, code=NEA (models=Genesis; years=2010-2012)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Genesis:genesis:NEA"
+      }
+    },
+    {
+      "code": "NHA",
+      "marketingName": "Blue Sapphire",
+      "finish": "solid",
+      "lab": {
+        "L": 31.57,
+        "a": 12.07,
+        "b": -42.24,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #22488D (PaintRef hex, OEM=Genesis, code=NHA (models=Genesis; years=2010-2012)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Genesis:genesis:NHA"
+      }
+    },
+    {
+      "code": "PUE",
+      "marketingName": "Twilight Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 15.27,
+        "a": 8.83,
+        "b": -15.4,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #27233C (PaintRef hex, OEM=Genesis, code=PUE (models=Genesis; years=2012-2013)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Genesis:genesis:PUE"
+      }
+    },
+    {
+      "code": "YU5",
+      "marketingName": "Parabolica Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 34.64,
+        "a": -0.13,
+        "b": -7.35,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #4B525D (PaintRef hex, OEM=Genesis, code=YU5 (models=Genesis; year=2013)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Genesis:genesis:YU5"
+      }
+    },
+    {
+      "code": "WU8",
+      "marketingName": "Shoreline Drive Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 26.47,
+        "a": 13.44,
+        "b": -43.71,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #0A3C82 (PaintRef hex, OEM=Genesis, code=WU8 (models=Genesis; year=2013)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Genesis:genesis:WU8"
+      }
+    },
+    {
+      "code": "XU6",
+      "marketingName": "Montecito Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 32.01,
+        "a": -0.62,
+        "b": -6.27,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #454C55 (PaintRef hex, OEM=Genesis, code=XU6 (models=Genesis; years=2014-2016)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Genesis:genesis:XU6"
+      }
+    },
+    {
+      "code": "ZT",
+      "marketingName": "Champagne Beige",
+      "finish": "solid",
+      "lab": {
+        "L": 71.93,
+        "a": 4.75,
+        "b": 6.32,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #BEADA5 (PaintRef hex, OEM=Genesis, code=ZT (models=Genesis; years=2009-2012)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Genesis:genesis:ZT"
+      }
+    },
+    {
+      "code": "TN5",
+      "marketingName": "Catalunya Copper",
+      "finish": "solid",
+      "lab": {
+        "L": 36.07,
+        "a": 29.37,
+        "b": 17.71,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #86403A (PaintRef hex, OEM=Genesis, code=TN5 (models=Genesis; year=2013)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Genesis:genesis:TN5"
+      }
+    },
+    {
+      "code": "P6Y",
+      "marketingName": "Sand Opel",
+      "finish": "solid",
+      "lab": {
+        "L": 71.53,
+        "a": 0.99,
+        "b": 8.98,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #B8AE9F (PaintRef hex, OEM=Genesis, code=P6Y (models=Genesis; year=2015)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Genesis:genesis:P6Y"
+      }
+    },
+    {
+      "code": "AU",
+      "marketingName": "Platinum",
+      "finish": "solid",
+      "lab": {
+        "L": 83.48,
+        "a": 0,
+        "b": 0,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #D0D0D0 (PaintRef hex, OEM=Genesis, code=AU (models=Genesis; years=2009-2013)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Genesis:genesis:AU"
+      }
+    },
+    {
+      "code": "NY",
+      "marketingName": "Titanium Gray",
+      "finish": "solid",
+      "lab": {
+        "L": 66.55,
+        "a": 3.49,
+        "b": -2.86,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #A6A0A7 (PaintRef hex, OEM=Genesis, code=NY (models=Genesis; years=2009-2013)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Genesis:genesis:NY"
+      }
+    },
+    {
+      "code": "NDA",
+      "marketingName": "Gray Titanium",
+      "finish": "solid",
+      "lab": {
+        "L": 42.45,
+        "a": 2.92,
+        "b": -5.35,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #65636D (PaintRef hex, OEM=Genesis, code=NDA (models=Genesis; years=2010-2012)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Genesis:genesis:NDA"
+      }
+    },
+    {
+      "code": "NCA",
+      "marketingName": "Sleek Silver",
+      "finish": "solid",
+      "lab": {
+        "L": 82.72,
+        "a": 0.06,
+        "b": -2.22,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #CCCED2 (PaintRef hex, OEM=Genesis, code=NCA (models=Genesis; years=2010-2012)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Genesis:genesis:NCA"
+      }
+    },
+    {
+      "code": "M8S",
+      "marketingName": "Circuit Silver",
+      "finish": "solid",
+      "lab": {
+        "L": 74.1,
+        "a": 0.6,
+        "b": -2.66,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #B5B6BB (PaintRef hex, OEM=Genesis, code=M8S (models=Genesis; year=2013)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Genesis:genesis:M8S"
+      }
+    },
+    {
+      "code": "YG3",
+      "marketingName": "Gran Premio Gray",
+      "finish": "solid",
+      "lab": {
+        "L": 42.75,
+        "a": 7.34,
+        "b": -1.75,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #706168 (PaintRef hex, OEM=Genesis, code=YG3 (models=Genesis; year=2013)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Genesis:genesis:YG3"
+      }
+    },
+    {
+      "code": "VB2",
+      "marketingName": "Night Shadow",
+      "finish": "solid",
+      "lab": {
+        "L": 14.19,
+        "a": 3.88,
+        "b": 2.95,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #2B2220 (PaintRef hex, OEM=Genesis, code=VB2 (models=Genesis; year=2014)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Genesis:genesis:VB2"
+      }
+    },
+    {
+      "code": "PK",
+      "marketingName": "Cool Silver",
+      "finish": "solid",
+      "lab": {
+        "L": 87.15,
+        "a": 0.73,
+        "b": -1.96,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #DADADE (PaintRef hex, OEM=Genesis, code=PK (models=Genesis; year=2017)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Genesis:genesis:PK"
+      }
+    },
+    {
+      "code": "NJA",
+      "marketingName": "Lime Rock Green",
+      "finish": "solid",
+      "lab": {
+        "L": 70.27,
+        "a": -11.77,
+        "b": 43.78,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #B1B05A (PaintRef hex, OEM=Genesis, code=NJA (models=Genesis; years=2010-2012)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Genesis:genesis:NJA"
+      }
+    },
+    {
+      "code": "TZ",
+      "marketingName": "Cabernet Red",
+      "finish": "solid",
+      "lab": {
+        "L": 17.47,
+        "a": 31.39,
+        "b": 13.63,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #551119 (PaintRef hex, OEM=Genesis, code=TZ (models=Genesis; years=2009-2013)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Genesis:genesis:TZ"
+      }
+    },
+    {
+      "code": "NGA",
+      "marketingName": "Super Red",
+      "finish": "solid",
+      "lab": {
+        "L": 46.78,
+        "a": 67.98,
+        "b": 52.82,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #DA1D17 (PaintRef hex, OEM=Genesis, code=NGA (models=Genesis; years=2010-2012)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Genesis:genesis:NGA"
+      }
+    },
+    {
+      "code": "NGA",
+      "marketingName": "Tsukuba Red",
+      "finish": "solid",
+      "lab": {
+        "L": 46.78,
+        "a": 67.98,
+        "b": 52.82,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #DA1D17 (PaintRef hex, OEM=Genesis, code=NGA (models=Genesis; years=2013-2016)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Genesis:genesis:NGA"
+      }
+    },
+    {
+      "code": "AT",
+      "marketingName": "White Satin Pearl",
+      "finish": "solid",
+      "lab": {
+        "L": 94.45,
+        "a": 0,
+        "b": 0,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #EFEFEF (PaintRef hex, OEM=Genesis, code=AT (models=Genesis; year=2009)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Genesis:genesis:AT"
+      }
+    },
+    {
+      "code": "NAA",
+      "marketingName": "Ceramic White",
+      "finish": "solid",
+      "lab": {
+        "L": 91.2,
+        "a": -2,
+        "b": -0.7,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #E1E7E7 (PaintRef hex, OEM=Genesis, code=NAA (models=Genesis; years=2010-2012)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Genesis:genesis:NAA"
+      }
+    },
+    {
+      "code": "AT",
+      "marketingName": "White Satin",
+      "finish": "solid",
+      "lab": {
+        "L": 94.45,
+        "a": 0,
+        "b": 0,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #EFEFEF (PaintRef hex, OEM=Genesis, code=AT (models=Genesis; years=2010-2013)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Genesis:genesis:AT"
+      }
+    },
+    {
+      "code": "YAC",
+      "marketingName": "Monaco White",
+      "finish": "solid",
+      "lab": {
+        "L": 90.59,
+        "a": 0,
+        "b": 0,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #E4E4E4 (PaintRef hex, OEM=Genesis, code=YAC (models=Genesis; year=2013)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Genesis:genesis:YAC"
+      }
+    },
+    {
+      "code": "NFA",
+      "marketingName": "Dynamic Yellow",
+      "finish": "solid",
+      "lab": {
+        "L": 75.51,
+        "a": 15.23,
+        "b": 71.82,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #F3AD27 (PaintRef hex, OEM=Genesis, code=NFA (models=Genesis; years=2010-2012)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Genesis:genesis:NFA"
+      }
+    },
+    {
+      "code": "41",
+      "marketingName": "Black",
+      "finish": "solid",
+      "lab": {
+        "L": 0,
+        "a": 0,
+        "b": 0,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #000000 (PaintRef hex, OEM=Genesis, code=41 (models=Tahoe; years=1996-2014)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Genesis:tahoe:41"
+      }
+    },
+    {
+      "code": "58",
+      "marketingName": "Black Granite",
+      "finish": "solid",
+      "lab": {
+        "L": 21.25,
+        "a": 0,
+        "b": 0,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #333333 (PaintRef hex, OEM=Genesis, code=58 (models=Tahoe; year=2011)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Genesis:tahoe:58"
+      }
+    },
+    {
+      "code": "GAR",
+      "marketingName": "Black Granite",
+      "finish": "solid",
+      "lab": {
+        "L": 21.25,
+        "a": 0,
+        "b": 0,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #333333 (PaintRef hex, OEM=Genesis, code=GAR (models=Tahoe; year=2012)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Genesis:tahoe:GAR"
+      }
+    },
+    {
+      "code": "57",
+      "marketingName": "Black Granite",
+      "finish": "solid",
+      "lab": {
+        "L": 21.25,
+        "a": 0,
+        "b": 0,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #333333 (PaintRef hex, OEM=Genesis, code=57 (models=Tahoe; year=2013)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Genesis:tahoe:57"
+      }
+    },
+    {
+      "code": "GBA",
+      "marketingName": "Black",
+      "finish": "solid",
+      "lab": {
+        "L": 0,
+        "a": 0,
+        "b": 0,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #000000 (PaintRef hex, OEM=Genesis, code=GBA (models=Tahoe; years=2015-2026)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Genesis:tahoe:GBA"
+      }
+    },
+    {
+      "code": "30",
+      "marketingName": "Atlantic Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 42.41,
+        "a": 1.12,
+        "b": -19.5,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #526584 (PaintRef hex, OEM=Genesis, code=30 (models=Tahoe; years=1995-1996)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Genesis:tahoe:30"
+      }
+    },
+    {
+      "code": "39",
+      "marketingName": "Indigo",
+      "finish": "solid",
+      "lab": {
+        "L": 10.27,
+        "a": 14.82,
+        "b": -34.04,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #00184B (PaintRef hex, OEM=Genesis, code=39 (models=Tahoe; years=1995-2001)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Genesis:tahoe:39"
+      }
+    },
+    {
+      "code": "36",
+      "marketingName": "Medium Dark Teal",
+      "finish": "solid",
+      "lab": {
+        "L": 34.41,
+        "a": -2.99,
+        "b": -21.63,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #305473 (PaintRef hex, OEM=Genesis, code=36 (models=Tahoe; year=1995)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Genesis:tahoe:36"
+      }
+    },
+    {
+      "code": "24",
+      "marketingName": "Opal Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 33.11,
+        "a": 2.94,
+        "b": -21.1,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #3D4E6F (PaintRef hex, OEM=Genesis, code=24 (models=Tahoe; year=1997)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Genesis:tahoe:24"
+      }
+    },
+    {
+      "code": "39",
+      "marketingName": "Indigo Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 10.27,
+        "a": 14.82,
+        "b": -34.04,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #00184B (PaintRef hex, OEM=Genesis, code=39 (models=Tahoe; years=2000-2005)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Genesis:tahoe:39"
+      }
+    },
+    {
+      "code": "25",
+      "marketingName": "Dark Ming Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 15.3,
+        "a": -2.14,
+        "b": -11.96,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #162837 (PaintRef hex, OEM=Genesis, code=25 (models=Tahoe; years=2004-2010)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Genesis:tahoe:25"
+      }
+    },
+    {
+      "code": "26",
+      "marketingName": "Bermuda Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 32.93,
+        "a": -14,
+        "b": -5.71,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #2A5456 (PaintRef hex, OEM=Genesis, code=26 (models=Tahoe; years=2006-2007)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Genesis:tahoe:26"
+      }
+    },
+    {
+      "code": "46",
+      "marketingName": "Stealth Gray",
+      "finish": "solid",
+      "lab": {
+        "L": 56.94,
+        "a": -7.17,
+        "b": -8.46,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #728D97 (PaintRef hex, OEM=Genesis, code=46 (models=Tahoe; years=2008-2010)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Genesis:tahoe:46"
+      }
+    },
+    {
+      "code": "G7Z",
+      "marketingName": "Laser Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 27.28,
+        "a": 6.73,
+        "b": -32.92,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #1F4073 (PaintRef hex, OEM=Genesis, code=G7Z (models=Tahoe; year=2010)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Genesis:tahoe:G7Z"
+      }
+    },
+    {
+      "code": "24",
+      "marketingName": "Ice Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 72.73,
+        "a": -8.9,
+        "b": -8.75,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #97B8C2 (PaintRef hex, OEM=Genesis, code=24 (models=Tahoe; year=2011)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Genesis:tahoe:24"
+      }
+    },
+    {
+      "code": "33",
+      "marketingName": "Steel Green",
+      "finish": "solid",
+      "lab": {
+        "L": 37.65,
+        "a": -1.23,
+        "b": 3.47,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #595953 (PaintRef hex, OEM=Genesis, code=33 (models=Tahoe; year=2011)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Genesis:tahoe:33"
+      }
+    },
+    {
+      "code": "19",
+      "marketingName": "Blue Topaz",
+      "finish": "solid",
+      "lab": {
+        "L": 10.32,
+        "a": 29.83,
+        "b": -47.58,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #000F5F (PaintRef hex, OEM=Genesis, code=19 (models=Tahoe; year=2012)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Genesis:tahoe:19"
+      }
+    },
+    {
+      "code": "GXH",
+      "marketingName": "Blue Ray",
+      "finish": "solid",
+      "lab": {
+        "L": 20.72,
+        "a": 13.66,
+        "b": -27.16,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #2D2D5A (PaintRef hex, OEM=Genesis, code=GXH (models=Tahoe; year=2013)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Genesis:tahoe:GXH"
+      }
+    },
+    {
+      "code": "GWU",
+      "marketingName": "Concord",
+      "finish": "solid",
+      "lab": {
+        "L": 9.83,
+        "a": 23.89,
+        "b": -37.49,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #13114F (PaintRef hex, OEM=Genesis, code=GWU (models=Tahoe; years=2013-2014)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Genesis:tahoe:GWU"
+      }
+    },
+    {
+      "code": "G1C",
+      "marketingName": "Slate Gray",
+      "finish": "solid",
+      "lab": {
+        "L": 48.88,
+        "a": 0.5,
+        "b": -15.44,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #66758E (PaintRef hex, OEM=Genesis, code=G1C (models=Tahoe; year=2016)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Genesis:tahoe:G1C"
+      }
+    },
+    {
+      "code": "G1M",
+      "marketingName": "Blue Velvet",
+      "finish": "solid",
+      "lab": {
+        "L": 18.36,
+        "a": 3.14,
+        "b": -10.6,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #292C3C (PaintRef hex, OEM=Genesis, code=G1M (models=Tahoe; years=2017-2020)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Genesis:tahoe:G1M"
+      }
+    },
+    {
+      "code": "GLU",
+      "marketingName": "Midnight Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 14.81,
+        "a": 6.4,
+        "b": -21.79,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #182444 (PaintRef hex, OEM=Genesis, code=GLU (models=Tahoe; years=2021-2024)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Genesis:tahoe:GLU"
+      }
+    },
+    {
+      "code": "9V7",
+      "marketingName": "Dark Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 15.3,
+        "a": -2.14,
+        "b": -11.96,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #162837 (PaintRef hex, OEM=Genesis, code=9V7 (models=Tahoe; year=2024)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Genesis:tahoe:9V7"
+      }
+    },
+    {
+      "code": "9V2",
+      "marketingName": "MSP Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 16.68,
+        "a": 0.19,
+        "b": -23.68,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #002B4B (PaintRef hex, OEM=Genesis, code=9V2 (models=Tahoe; year=2024)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Genesis:tahoe:9V2"
+      }
+    },
+    {
+      "code": "GXP",
+      "marketingName": "Lakeshore Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 29.55,
+        "a": -2.29,
+        "b": -17.84,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #2D4861 (PaintRef hex, OEM=Genesis, code=GXP (models=Tahoe; years=2025-2026)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Genesis:tahoe:GXP"
+      }
+    },
+    {
+      "code": "56",
+      "marketingName": "Dark Autumnwood",
+      "finish": "solid",
+      "lab": {
+        "L": 32.57,
+        "a": 12.35,
+        "b": 11.56,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #65453B (PaintRef hex, OEM=Genesis, code=56 (models=Tahoe; year=1995)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Genesis:tahoe:56"
+      }
+    },
+    {
+      "code": "55",
+      "marketingName": "Light Autumnwood",
+      "finish": "solid",
+      "lab": {
+        "L": 56.6,
+        "a": 5.43,
+        "b": 9.82,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #988477 (PaintRef hex, OEM=Genesis, code=55 (models=Tahoe; years=1995-1996)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Genesis:tahoe:55"
+      }
+    },
+    {
+      "code": "61",
+      "marketingName": "Tan",
+      "finish": "solid",
+      "lab": {
+        "L": 74.47,
+        "a": 8.04,
+        "b": 19.44,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #D3B194 (PaintRef hex, OEM=Genesis, code=61 (models=Tahoe; years=1995-2005)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Genesis:tahoe:61"
+      }
+    },
+    {
+      "code": "69",
+      "marketingName": "Copper",
+      "finish": "solid",
+      "lab": {
+        "L": 19.72,
+        "a": 20.12,
+        "b": 7.23,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #4D2326 (PaintRef hex, OEM=Genesis, code=69 (models=Tahoe; years=1998-2000)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Genesis:tahoe:69"
+      }
+    },
+    {
+      "code": "60",
+      "marketingName": "Gold",
+      "finish": "solid",
+      "lab": {
+        "L": 51.44,
+        "a": 3.3,
+        "b": 11.61,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #887867 (PaintRef hex, OEM=Genesis, code=60 (models=Tahoe; years=1999-2001)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Genesis:tahoe:60"
+      }
+    },
+    {
+      "code": "58",
+      "marketingName": "Sandalwood",
+      "finish": "solid",
+      "lab": {
+        "L": 60.11,
+        "a": 4.74,
+        "b": 18.3,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #A58D71 (PaintRef hex, OEM=Genesis, code=58 (models=Tahoe; years=2003-2005)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Genesis:tahoe:58"
+      }
+    },
+    {
+      "code": "15",
+      "marketingName": "Cashmere",
+      "finish": "solid",
+      "lab": {
+        "L": 78.91,
+        "a": 4.28,
+        "b": 28.32,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #DEBF8F (PaintRef hex, OEM=Genesis, code=15 (models=Tahoe; year=2006)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Genesis:tahoe:15"
+      }
+    },
+    {
+      "code": "68U",
+      "marketingName": "Melange Beige",
+      "finish": "solid",
+      "lab": {
+        "L": 66.03,
+        "a": 4.16,
+        "b": 16.07,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #B39D84 (PaintRef hex, OEM=Genesis, code=68U (models=Tahoe; year=2006)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Genesis:tahoe:68U"
+      }
+    },
+    {
+      "code": "53",
+      "marketingName": "Antique Bronze",
+      "finish": "solid",
+      "lab": {
+        "L": 57,
+        "a": 2.91,
+        "b": 18.97,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #9A8668 (PaintRef hex, OEM=Genesis, code=53 (models=Tahoe; year=2007)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Genesis:tahoe:53"
+      }
+    },
+    {
+      "code": "51",
+      "marketingName": "Gold Mist",
+      "finish": "solid",
+      "lab": {
+        "L": 77.47,
+        "a": -1.31,
+        "b": 17.56,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #CABF9F (PaintRef hex, OEM=Genesis, code=51 (models=Tahoe; years=2007-2012)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Genesis:tahoe:51"
+      }
+    },
+    {
+      "code": "GHA",
+      "marketingName": "Mocha Steel",
+      "finish": "solid",
+      "lab": {
+        "L": 54.95,
+        "a": 2.11,
+        "b": 5.01,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #8B827B (PaintRef hex, OEM=Genesis, code=GHA (models=Tahoe; years=2011-2014)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Genesis:tahoe:GHA"
+      }
+    },
+    {
+      "code": "GWX",
+      "marketingName": "Brownstone",
+      "finish": "solid",
+      "lab": {
+        "L": 63.84,
+        "a": -0.05,
+        "b": 9.98,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #A29A89 (PaintRef hex, OEM=Genesis, code=GWX (models=Tahoe; years=2015-2016)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Genesis:tahoe:GWX"
+      }
+    },
+    {
+      "code": "G2X",
+      "marketingName": "Havana",
+      "finish": "solid",
+      "lab": {
+        "L": 24.54,
+        "a": 7.48,
+        "b": 7.06,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #493630 (PaintRef hex, OEM=Genesis, code=G2X (models=Tahoe; year=2018)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Genesis:tahoe:G2X"
+      }
+    },
+    {
+      "code": "GJW",
+      "marketingName": "Empire Beige",
+      "finish": "solid",
+      "lab": {
+        "L": 81.59,
+        "a": -1.24,
+        "b": 6.85,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #CECBBE (PaintRef hex, OEM=Genesis, code=GJW (models=Tahoe; years=2021-2024)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Genesis:tahoe:GJW"
+      }
+    },
+    {
+      "code": "G48",
+      "marketingName": "Auburn",
+      "finish": "solid",
+      "lab": {
+        "L": 13.1,
+        "a": 19.58,
+        "b": 10.51,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #3D1514 (PaintRef hex, OEM=Genesis, code=G48 (models=Tahoe; years=2022-2023)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Genesis:tahoe:G48"
+      }
+    },
+    {
+      "code": "96",
+      "marketingName": "Ultra Silver",
+      "finish": "solid",
+      "lab": {
+        "L": 82.62,
+        "a": -3,
+        "b": 5.1,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #CCCFC4 (PaintRef hex, OEM=Genesis, code=96 (models=Tahoe; years=1995-1997)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Genesis:tahoe:96"
+      }
+    },
+    {
+      "code": "65",
+      "marketingName": "Smokey Caramel",
+      "finish": "solid",
+      "lab": {
+        "L": 35.74,
+        "a": 3.53,
+        "b": 3.26,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #5C524F (PaintRef hex, OEM=Genesis, code=65 (models=Tahoe; years=1997-1998)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Genesis:tahoe:65"
+      }
+    },
+    {
+      "code": "11",
+      "marketingName": "Light Pewter",
+      "finish": "solid",
+      "lab": {
+        "L": 74.81,
+        "a": 1.76,
+        "b": 0.62,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #BCB7B7 (PaintRef hex, OEM=Genesis, code=11 (models=Tahoe; year=1998)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Genesis:tahoe:11"
+      }
+    },
+    {
+      "code": "91",
+      "marketingName": "Dark Argent",
+      "finish": "solid",
+      "lab": {
+        "L": 19.23,
+        "a": 2.01,
+        "b": -5.1,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #2E2E36 (PaintRef hex, OEM=Genesis, code=91 (models=Tahoe; year=1999)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Genesis:tahoe:91"
+      }
+    },
+    {
+      "code": "11",
+      "marketingName": "Pewter",
+      "finish": "solid",
+      "lab": {
+        "L": 74.81,
+        "a": 1.76,
+        "b": 0.62,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #BCB7B7 (PaintRef hex, OEM=Genesis, code=11 (models=Tahoe; years=1999-2005)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Genesis:tahoe:11"
+      }
+    },
+    {
+      "code": "17",
+      "marketingName": "Silver Mist",
+      "finish": "solid",
+      "lab": {
+        "L": 62.74,
+        "a": -0.09,
+        "b": -3,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #95989D (PaintRef hex, OEM=Genesis, code=17 (models=Tahoe; year=1999)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Genesis:tahoe:17"
+      }
+    },
+    {
+      "code": "14",
+      "marketingName": "Storm Gray",
+      "finish": "solid",
+      "lab": {
+        "L": 37.77,
+        "a": -1.83,
+        "b": -3.24,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #535A5E (PaintRef hex, OEM=Genesis, code=14 (models=Tahoe; years=1999-2002)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Genesis:tahoe:14"
+      }
+    },
+    {
+      "code": "76",
+      "marketingName": "Dark Bronzemist",
+      "finish": "solid",
+      "lab": {
+        "L": 37.1,
+        "a": -0.64,
+        "b": -6.12,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #515861 (PaintRef hex, OEM=Genesis, code=76 (models=Tahoe; year=2001)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Genesis:tahoe:76"
+      }
+    },
+    {
+      "code": "59",
+      "marketingName": "Silver Birch",
+      "finish": "solid",
+      "lab": {
+        "L": 84.01,
+        "a": -1.9,
+        "b": 8.79,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #D5D2C1 (PaintRef hex, OEM=Genesis, code=59 (models=Tahoe; years=2004-2009)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Genesis:tahoe:59"
+      }
+    },
+    {
+      "code": "62",
+      "marketingName": "Dark Spiral Gray",
+      "finish": "solid",
+      "lab": {
+        "L": 10.34,
+        "a": -0.74,
+        "b": -8.86,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #131D28 (PaintRef hex, OEM=Genesis, code=62 (models=Tahoe; year=2006)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Genesis:tahoe:62"
+      }
+    },
+    {
+      "code": "16",
+      "marketingName": "Graystone",
+      "finish": "solid",
+      "lab": {
+        "L": 61.81,
+        "a": 0.16,
+        "b": 3.02,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #989590 (PaintRef hex, OEM=Genesis, code=16 (models=Tahoe; years=2007-2012)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Genesis:tahoe:16"
+      }
+    },
+    {
+      "code": "12",
+      "marketingName": "Dark Brahma Jewel",
+      "finish": "solid",
+      "lab": {
+        "L": 9.74,
+        "a": 13.55,
+        "b": -5.83,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #291423 (PaintRef hex, OEM=Genesis, code=12 (models=Tahoe; year=2009)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Genesis:tahoe:12"
+      }
+    },
+    {
+      "code": "18",
+      "marketingName": "Sheer Silver",
+      "finish": "solid",
+      "lab": {
+        "L": 92.3,
+        "a": -0.16,
+        "b": -0.6,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #E8E9EA (PaintRef hex, OEM=Genesis, code=18 (models=Tahoe; years=2010-2011)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Genesis:tahoe:18"
+      }
+    },
+    {
+      "code": "62",
+      "marketingName": "Taupe Gray",
+      "finish": "solid",
+      "lab": {
+        "L": 19.34,
+        "a": 2.04,
+        "b": -1.44,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #312E31 (PaintRef hex, OEM=Genesis, code=62 (models=Tahoe; years=2011-2012)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Genesis:tahoe:62"
+      }
+    },
+    {
+      "code": "17",
+      "marketingName": "Silver Ice",
+      "finish": "solid",
+      "lab": {
+        "L": 86.73,
+        "a": 3.47,
+        "b": -12.67,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #D4D8F1 (PaintRef hex, OEM=Genesis, code=17 (models=Tahoe; year=2012)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Genesis:tahoe:17"
+      }
+    },
+    {
+      "code": "GWT",
+      "marketingName": "Champagne Silver",
+      "finish": "solid",
+      "lab": {
+        "L": 83.2,
+        "a": -0.67,
+        "b": 8.68,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #D5CFBF (PaintRef hex, OEM=Genesis, code=GWT (models=Tahoe; years=2013-2017)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Genesis:tahoe:GWT"
+      }
+    },
+    {
+      "code": "GAN",
+      "marketingName": "Silver Ice",
+      "finish": "solid",
+      "lab": {
+        "L": 86.73,
+        "a": 3.47,
+        "b": -12.67,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #D4D8F1 (PaintRef hex, OEM=Genesis, code=GAN (models=Tahoe; years=2013-2020)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Genesis:tahoe:GAN"
+      }
+    },
+    {
+      "code": "17",
+      "marketingName": "Quicksilver",
+      "finish": "solid",
+      "lab": {
+        "L": 86.73,
+        "a": 3.47,
+        "b": -12.67,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #D4D8F1 (PaintRef hex, OEM=Genesis, code=17 (models=Tahoe; year=2014)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Genesis:tahoe:17"
+      }
+    },
+    {
+      "code": "GXG",
+      "marketingName": "Tungsten",
+      "finish": "solid",
+      "lab": {
+        "L": 22.06,
+        "a": 4,
+        "b": -2.81,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #393339 (PaintRef hex, OEM=Genesis, code=GXG (models=Tahoe; years=2015-2018)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Genesis:tahoe:GXG"
+      }
+    },
+    {
+      "code": "GMU",
+      "marketingName": "Pepperdust",
+      "finish": "solid",
+      "lab": {
+        "L": 38.24,
+        "a": -0.22,
+        "b": 1.87,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #5B5A57 (PaintRef hex, OEM=Genesis, code=GMU (models=Tahoe; years=2017-2019)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Genesis:tahoe:GMU"
+      }
+    },
+    {
+      "code": "G9K",
+      "marketingName": "Satin Steel",
+      "finish": "solid",
+      "lab": {
+        "L": 60.56,
+        "a": 0,
+        "b": 0,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #929292 (PaintRef hex, OEM=Genesis, code=G9K (models=Tahoe; years=2018-2022)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Genesis:tahoe:G9K"
+      }
+    },
+    {
+      "code": "GMW",
+      "marketingName": "Deepwood Green",
+      "finish": "solid",
+      "lab": {
+        "L": 43.94,
+        "a": -2.97,
+        "b": 5.92,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #67695E (PaintRef hex, OEM=Genesis, code=GMW (models=Tahoe; year=2019)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Genesis:tahoe:GMW"
+      }
+    },
+    {
+      "code": "GJI",
+      "marketingName": "Shadow Gray",
+      "finish": "solid",
+      "lab": {
+        "L": 32.82,
+        "a": 0.72,
+        "b": -3.09,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #4C4D52 (PaintRef hex, OEM=Genesis, code=GJI (models=Tahoe; years=2019-2021)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Genesis:tahoe:GJI"
+      }
+    },
+    {
+      "code": "GS6",
+      "marketingName": "Graywood",
+      "finish": "solid",
+      "lab": {
+        "L": 39.31,
+        "a": 1.21,
+        "b": -0.86,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #5E5C5E (PaintRef hex, OEM=Genesis, code=GS6 (models=Tahoe; year=2021)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Genesis:tahoe:GS6"
+      }
+    },
+    {
+      "code": "G6M",
+      "marketingName": "Dark Ash",
+      "finish": "solid",
+      "lab": {
+        "L": 25.2,
+        "a": 2.07,
+        "b": -4.15,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #3C3B42 (PaintRef hex, OEM=Genesis, code=G6M (models=Tahoe; years=2022-2026)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Genesis:tahoe:G6M"
+      }
+    },
+    {
+      "code": "GED",
+      "marketingName": "Evergreen",
+      "finish": "solid",
+      "lab": {
+        "L": 31.77,
+        "a": -9.19,
+        "b": -0.98,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #394F4C (PaintRef hex, OEM=Genesis, code=GED (models=Tahoe; year=2022)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Genesis:tahoe:GED"
+      }
+    },
+    {
+      "code": "GXD",
+      "marketingName": "Sterling Gray",
+      "finish": "solid",
+      "lab": {
+        "L": 64.87,
+        "a": -2.85,
+        "b": -0.99,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #979F9F (PaintRef hex, OEM=Genesis, code=GXD (models=Tahoe; years=2023-2026)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Genesis:tahoe:GXD"
+      }
+    },
+    {
+      "code": "9W5",
+      "marketingName": "Silver Ice",
+      "finish": "solid",
+      "lab": {
+        "L": 86.73,
+        "a": 3.47,
+        "b": -12.67,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #D4D8F1 (PaintRef hex, OEM=Genesis, code=9W5 (models=Tahoe; year=2024)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Genesis:tahoe:9W5"
+      }
+    },
+    {
+      "code": "GBD",
+      "marketingName": "Cypress Gray",
+      "finish": "solid",
+      "lab": {
+        "L": 33.73,
+        "a": -4.77,
+        "b": -6.27,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #415259 (PaintRef hex, OEM=Genesis, code=GBD (models=Tahoe; year=2026)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Genesis:tahoe:GBD"
+      }
+    },
+    {
+      "code": "46",
+      "marketingName": "Dark Green",
+      "finish": "solid",
+      "lab": {
+        "L": 28.88,
+        "a": -23.56,
+        "b": 10.61,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #1C4D33 (PaintRef hex, OEM=Genesis, code=46 (models=Tahoe; year=1995)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Genesis:tahoe:46"
+      }
+    },
+    {
+      "code": "43",
+      "marketingName": "Emerald Green",
+      "finish": "solid",
+      "lab": {
+        "L": 28.73,
+        "a": -19.5,
+        "b": -4.41,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #0B4C4A (PaintRef hex, OEM=Genesis, code=43 (models=Tahoe; years=1995-1998)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Genesis:tahoe:43"
+      }
+    },
+    {
+      "code": "18",
+      "marketingName": "Dark Gray Green",
+      "finish": "solid",
+      "lab": {
+        "L": 28.07,
+        "a": -4.37,
+        "b": -11.08,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #2F4553 (PaintRef hex, OEM=Genesis, code=18 (models=Tahoe; year=1999)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Genesis:tahoe:18"
+      }
+    },
+    {
+      "code": "68",
+      "marketingName": "Meadow Green",
+      "finish": "solid",
+      "lab": {
+        "L": 26.94,
+        "a": -25.52,
+        "b": 11.05,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #10492E (PaintRef hex, OEM=Genesis, code=68 (models=Tahoe; years=1999-2000)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Genesis:tahoe:68"
+      }
+    },
+    {
+      "code": "47",
+      "marketingName": "Medium Green",
+      "finish": "solid",
+      "lab": {
+        "L": 27.03,
+        "a": -9.77,
+        "b": 3.02,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #31443B (PaintRef hex, OEM=Genesis, code=47 (models=Tahoe; years=2001-2005)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Genesis:tahoe:47"
+      }
+    },
+    {
+      "code": "45",
+      "marketingName": "Woodland Green",
+      "finish": "solid",
+      "lab": {
+        "L": 24.61,
+        "a": -20.6,
+        "b": 11.13,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #1B4229 (PaintRef hex, OEM=Genesis, code=45 (models=Tahoe; year=2003)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Genesis:tahoe:45"
+      }
+    },
+    {
+      "code": "46",
+      "marketingName": "Woodland Green",
+      "finish": "solid",
+      "lab": {
+        "L": 24.61,
+        "a": -20.6,
+        "b": 11.13,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #1B4229 (PaintRef hex, OEM=Genesis, code=46 (models=Tahoe; year=2005)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Genesis:tahoe:46"
+      }
+    },
+    {
+      "code": "GC8",
+      "marketingName": "Green Envy",
+      "finish": "solid",
+      "lab": {
+        "L": 21.21,
+        "a": -7.22,
+        "b": 0.5,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #273632 (PaintRef hex, OEM=Genesis, code=GC8 (models=Tahoe; year=2016)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Genesis:tahoe:GC8"
+      }
+    },
+    {
+      "code": "G6N",
+      "marketingName": "Silver Sage",
+      "finish": "solid",
+      "lab": {
+        "L": 59.68,
+        "a": -6.49,
+        "b": 3.16,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #86938A (PaintRef hex, OEM=Genesis, code=G6N (models=Tahoe; years=2023-2024)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Genesis:tahoe:G6N"
+      }
+    },
+    {
+      "code": "9V5",
+      "marketingName": "Woodland Green",
+      "finish": "solid",
+      "lab": {
+        "L": 24.61,
+        "a": -20.6,
+        "b": 11.13,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #1B4229 (PaintRef hex, OEM=Genesis, code=9V5 (models=Tahoe; year=2024)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Genesis:tahoe:9V5"
+      }
+    },
+    {
+      "code": "88",
+      "marketingName": "Tangier Orange",
+      "finish": "solid",
+      "lab": {
+        "L": 63.69,
+        "a": 51.41,
+        "b": 72.08,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #FF6E00 (PaintRef hex, OEM=Genesis, code=88 (models=Tahoe; years=1995-2003)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Genesis:tahoe:88"
+      }
+    },
+    {
+      "code": "71",
+      "marketingName": "Sunset Orange",
+      "finish": "solid",
+      "lab": {
+        "L": 34.78,
+        "a": 35.87,
+        "b": 25.56,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #8C362B (PaintRef hex, OEM=Genesis, code=71 (models=Tahoe; year=2001)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Genesis:tahoe:71"
+      }
+    },
+    {
+      "code": "9W4",
+      "marketingName": "Tangier Orange",
+      "finish": "solid",
+      "lab": {
+        "L": 63.69,
+        "a": 51.41,
+        "b": 72.08,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #FF6E00 (PaintRef hex, OEM=Genesis, code=9W4 (models=Tahoe; year=2005)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Genesis:tahoe:9W4"
+      }
+    },
+    {
+      "code": "9W3",
+      "marketingName": "Wheatland Yellow",
+      "finish": "solid",
+      "lab": {
+        "L": 73.14,
+        "a": 28.09,
+        "b": 77.79,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #FF9D00 (PaintRef hex, OEM=Genesis, code=9W3 (models=Tahoe; year=2024)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Genesis:tahoe:9W3"
+      }
+    },
+    {
+      "code": "G7U",
+      "marketingName": "Sable",
+      "finish": "solid",
+      "lab": {
+        "L": 26.04,
+        "a": 9.26,
+        "b": -4.09,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #493944 (PaintRef hex, OEM=Genesis, code=G7U (models=Tahoe; years=2015-2016)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Genesis:tahoe:G7U"
+      }
+    },
+    {
+      "code": "76",
+      "marketingName": "Dark Garnet Red",
+      "finish": "solid",
+      "lab": {
+        "L": 13.13,
+        "a": 12.73,
+        "b": -0.63,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #321B23 (PaintRef hex, OEM=Genesis, code=76 (models=Tahoe; year=1995)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Genesis:tahoe:76"
+      }
+    },
+    {
+      "code": "77",
+      "marketingName": "Dark Cherry",
+      "finish": "solid",
+      "lab": {
+        "L": 16.66,
+        "a": 22.06,
+        "b": 2.03,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #461B27 (PaintRef hex, OEM=Genesis, code=77 (models=Tahoe; years=1996-1997)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Genesis:tahoe:77"
+      }
+    },
+    {
+      "code": "59",
+      "marketingName": "Red Maple",
+      "finish": "solid",
+      "lab": {
+        "L": 26.26,
+        "a": 14.49,
+        "b": -0.3,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #53363F (PaintRef hex, OEM=Genesis, code=59 (models=Tahoe; years=1996-1997)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Genesis:tahoe:59"
+      }
+    },
+    {
+      "code": "51",
+      "marketingName": "Dark Toreador",
+      "finish": "solid",
+      "lab": {
+        "L": 10.93,
+        "a": 14.41,
+        "b": 5.07,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #311517 (PaintRef hex, OEM=Genesis, code=51 (models=Tahoe; years=1998-2001)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Genesis:tahoe:51"
+      }
+    },
+    {
+      "code": "74",
+      "marketingName": "Victory Red",
+      "finish": "solid",
+      "lab": {
+        "L": 37.37,
+        "a": 61.82,
+        "b": 46.31,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #B4000E (PaintRef hex, OEM=Genesis, code=74 (models=Tahoe; years=1999-2002)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Genesis:tahoe:74"
+      }
+    },
+    {
+      "code": "72",
+      "marketingName": "Redfire",
+      "finish": "solid",
+      "lab": {
+        "L": 18.26,
+        "a": 26,
+        "b": 11.67,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #511A1D (PaintRef hex, OEM=Genesis, code=72 (models=Tahoe; years=2000-2005)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Genesis:tahoe:72"
+      }
+    },
+    {
+      "code": "63",
+      "marketingName": "Sport Red",
+      "finish": "solid",
+      "lab": {
+        "L": 27.45,
+        "a": 45.11,
+        "b": 32.45,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #821311 (PaintRef hex, OEM=Genesis, code=63 (models=Tahoe; years=2004-2007)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Genesis:tahoe:63"
+      }
+    },
+    {
+      "code": "66",
+      "marketingName": "Sonoma Jewel",
+      "finish": "solid",
+      "lab": {
+        "L": 22.67,
+        "a": 38.93,
+        "b": 19.1,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #6C121C (PaintRef hex, OEM=Genesis, code=66 (models=Tahoe; years=2008-2009)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Genesis:tahoe:66"
+      }
+    },
+    {
+      "code": "80",
+      "marketingName": "Red Jewel",
+      "finish": "solid",
+      "lab": {
+        "L": 29.65,
+        "a": 42.05,
+        "b": 18.22,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #83212C (PaintRef hex, OEM=Genesis, code=80 (models=Tahoe; years=2009-2011)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Genesis:tahoe:80"
+      }
+    },
+    {
+      "code": "89",
+      "marketingName": "Crystal Red",
+      "finish": "solid",
+      "lab": {
+        "L": 25.79,
+        "a": 36.42,
+        "b": 19.2,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #721F22 (PaintRef hex, OEM=Genesis, code=89 (models=Tahoe; years=2012-2014)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Genesis:tahoe:89"
+      }
+    },
+    {
+      "code": "GBE",
+      "marketingName": "Crystal Red",
+      "finish": "solid",
+      "lab": {
+        "L": 25.79,
+        "a": 36.42,
+        "b": 19.2,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #721F22 (PaintRef hex, OEM=Genesis, code=GBE (models=Tahoe; year=2015)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Genesis:tahoe:GBE"
+      }
+    },
+    {
+      "code": "G1E",
+      "marketingName": "Siren Red",
+      "finish": "solid",
+      "lab": {
+        "L": 17.23,
+        "a": 33.76,
+        "b": 14.83,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #570C17 (PaintRef hex, OEM=Genesis, code=G1E (models=Tahoe; years=2016-2020)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Genesis:tahoe:G1E"
+      }
+    },
+    {
+      "code": "GGA",
+      "marketingName": "Black Rose",
+      "finish": "solid",
+      "lab": {
+        "L": 17.78,
+        "a": 10.27,
+        "b": 2.7,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #3B2628 (PaintRef hex, OEM=Genesis, code=GGA (models=Tahoe; year=2017)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Genesis:tahoe:GGA"
+      }
+    },
+    {
+      "code": "GLR",
+      "marketingName": "Black Cherry",
+      "finish": "solid",
+      "lab": {
+        "L": 15.79,
+        "a": 16.96,
+        "b": 7.8,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #401D1D (PaintRef hex, OEM=Genesis, code=GLR (models=Tahoe; year=2020)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Genesis:tahoe:GLR"
+      }
+    },
+    {
+      "code": "GSK",
+      "marketingName": "Cherry Red",
+      "finish": "solid",
+      "lab": {
+        "L": 41.79,
+        "a": 53.81,
+        "b": 38.52,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #B82F26 (PaintRef hex, OEM=Genesis, code=GSK (models=Tahoe; years=2021-2022)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Genesis:tahoe:GSK"
+      }
+    },
+    {
+      "code": "GNT",
+      "marketingName": "Radiant Red",
+      "finish": "solid",
+      "lab": {
+        "L": 32.29,
+        "a": 44.79,
+        "b": 32.48,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #90231B (PaintRef hex, OEM=Genesis, code=GNT (models=Tahoe; years=2023-2026)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Genesis:tahoe:GNT"
+      }
+    },
+    {
+      "code": "5T4",
+      "marketingName": "Victory Red",
+      "finish": "solid",
+      "lab": {
+        "L": 37.37,
+        "a": 61.82,
+        "b": 46.31,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #B4000E (PaintRef hex, OEM=Genesis, code=5T4 (models=Tahoe; year=2024)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Genesis:tahoe:5T4"
+      }
+    },
+    {
+      "code": "50",
+      "marketingName": "Olympic White",
+      "finish": "solid",
+      "lab": {
+        "L": 95.42,
+        "a": -0.71,
+        "b": 3.01,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #F3F2EC (PaintRef hex, OEM=Genesis, code=50 (models=Tahoe; years=1995-2010)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Genesis:tahoe:50"
+      }
+    },
+    {
+      "code": "40",
+      "marketingName": "White",
+      "finish": "solid",
+      "lab": {
+        "L": 96.72,
+        "a": -1.71,
+        "b": 8.05,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #F9F6E6 (PaintRef hex, OEM=Genesis, code=40 (models=Tahoe; year=2001)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Genesis:tahoe:40"
+      }
+    },
+    {
+      "code": "50",
+      "marketingName": "Summit White",
+      "finish": "solid",
+      "lab": {
+        "L": 95.42,
+        "a": -0.71,
+        "b": 3.01,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #F3F2EC (PaintRef hex, OEM=Genesis, code=50 (models=Tahoe; years=2006-2014)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Genesis:tahoe:50"
+      }
+    },
+    {
+      "code": "98",
+      "marketingName": "White Diamond",
+      "finish": "solid",
+      "lab": {
+        "L": 99.18,
+        "a": -3.37,
+        "b": 9.57,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #FEFEEA (PaintRef hex, OEM=Genesis, code=98 (models=Tahoe; years=2008-2014)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Genesis:tahoe:98"
+      }
+    },
+    {
+      "code": "GAZ",
+      "marketingName": "Summit White",
+      "finish": "solid",
+      "lab": {
+        "L": 95.42,
+        "a": -0.71,
+        "b": 3.01,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #F3F2EC (PaintRef hex, OEM=Genesis, code=GAZ (models=Tahoe; years=2011-2026)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Genesis:tahoe:GAZ"
+      }
+    },
+    {
+      "code": "GBN",
+      "marketingName": "White Diamond",
+      "finish": "solid",
+      "lab": {
+        "L": 99.18,
+        "a": -3.37,
+        "b": 9.57,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #FEFEEA (PaintRef hex, OEM=Genesis, code=GBN (models=Tahoe; year=2015)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Genesis:tahoe:GBN"
+      }
+    },
+    {
+      "code": "G1W",
+      "marketingName": "Iridescent Pearl",
+      "finish": "solid",
+      "lab": {
+        "L": 82.78,
+        "a": -1.29,
+        "b": -2.69,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #C9CFD3 (PaintRef hex, OEM=Genesis, code=G1W (models=Tahoe; years=2016-2024)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Genesis:tahoe:G1W"
+      }
+    },
+    {
+      "code": "G4J",
+      "marketingName": "Polar White",
+      "finish": "solid",
+      "lab": {
+        "L": 94.45,
+        "a": 0,
+        "b": 0,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #EFEFEF (PaintRef hex, OEM=Genesis, code=G4J (models=Tahoe; year=2026)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Genesis:tahoe:G4J"
+      }
+    }
+  ]
+}

@@ -1,0 +1,4920 @@
+{
+  "$schema": "../../../schemas/exterior-paints-v1.schema.json",
+  "scopeId": "lincoln-paintref-v1",
+  "version": "1.0.0",
+  "paints": [
+    {
+      "code": "UA",
+      "marketingName": "Black",
+      "finish": "solid",
+      "lab": {
+        "L": 1.16,
+        "a": 0.26,
+        "b": 0.09,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #050404 (PaintRef hex, OEM=Lincoln, code=UA (models=Aviator, Continental, LS, MKS, MKT, MKX, MKZ, Navigator, Town Car, Zephyr; years=1996-2014)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:aviator:UA"
+      }
+    },
+    {
+      "code": "UM",
+      "marketingName": "Infinite Black",
+      "finish": "solid",
+      "lab": {
+        "L": 0,
+        "a": 0,
+        "b": 0,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #000000 (PaintRef hex, OEM=Lincoln, code=UM (models=Aviator, Continental, Corsair, MKC, MKT, MKZ, Nautilus, Navigator; years=2019-2025)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:aviator:UM"
+      }
+    },
+    {
+      "code": "LL",
+      "marketingName": "Deep Wedgewood Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 21.32,
+        "a": 6.29,
+        "b": -13.48,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #323147 (PaintRef hex, OEM=Lincoln, code=LL (models=Aviator, Continental, Town Car; years=1999-2002)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:aviator:LL"
+      }
+    },
+    {
+      "code": "LD",
+      "marketingName": "Medium Wedgewood",
+      "finish": "solid",
+      "lab": {
+        "L": 34.1,
+        "a": 3.62,
+        "b": -10.03,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #4E4F60 (PaintRef hex, OEM=Lincoln, code=LD (models=Aviator, Continental, Navigator, Town Car; years=1996-2004)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:aviator:LD"
+      }
+    },
+    {
+      "code": "DX",
+      "marketingName": "Dark Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 19.96,
+        "a": 4.88,
+        "b": -15.64,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #2A2F47 (PaintRef hex, OEM=Lincoln, code=DX (models=Aviator, MKZ, Navigator, Town Car, Zephyr; years=2004-2009)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:aviator:DX"
+      }
+    },
+    {
+      "code": "FT",
+      "marketingName": "Blue Diamond",
+      "finish": "solid",
+      "lab": {
+        "L": 42.72,
+        "a": 1.42,
+        "b": -33.5,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #39679C (PaintRef hex, OEM=Lincoln, code=FT (models=Continental, MKC, MKT, MKX, MKZ, Nautilus, Navigator; years=2018-2020)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:continental:FT"
+      }
+    },
+    {
+      "code": "C8",
+      "marketingName": "Flight Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 27.18,
+        "a": -4.34,
+        "b": -11.81,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #2C4352 (PaintRef hex, OEM=Lincoln, code=C8 (models=Aviator, Corsair, Nautilus, Navigator; years=2020-2025)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:aviator:C8"
+      }
+    },
+    {
+      "code": "AB",
+      "marketingName": "Ocean Drive Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 46.4,
+        "a": -7.44,
+        "b": -5,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #5B7276 (PaintRef hex, OEM=Lincoln, code=AB (models=Aviator, Navigator; years=2021-2023)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:aviator:AB"
+      }
+    },
+    {
+      "code": "CF",
+      "marketingName": "Cenote Green",
+      "finish": "solid",
+      "lab": {
+        "L": 19.34,
+        "a": -4.28,
+        "b": -4.33,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #243135 (PaintRef hex, OEM=Lincoln, code=CF (models=Aviator; year=2025)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:aviator:CF"
+      }
+    },
+    {
+      "code": "K1",
+      "marketingName": "Whisper Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 59.21,
+        "a": -3.89,
+        "b": -18.17,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #7392AE (PaintRef hex, OEM=Lincoln, code=K1 (models=Corsair, Nautilus; years=2023-2025)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:corsair:K1"
+      }
+    },
+    {
+      "code": "G3",
+      "marketingName": "Pueblo Gold",
+      "finish": "solid",
+      "lab": {
+        "L": 79.63,
+        "a": -1.47,
+        "b": 17.97,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #D0C5A4 (PaintRef hex, OEM=Lincoln, code=G3 (models=Aviator, LS, Navigator, Town Car; years=2004-2011)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:aviator:G3"
+      }
+    },
+    {
+      "code": "T7",
+      "marketingName": "Charcoal Beige",
+      "finish": "solid",
+      "lab": {
+        "L": 29.64,
+        "a": -0.14,
+        "b": -2.09,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #444649 (PaintRef hex, OEM=Lincoln, code=T7 (models=Aviator, LS, Navigator, Town Car, Zephyr; years=2005-2007)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:aviator:T7"
+      }
+    },
+    {
+      "code": "G4",
+      "marketingName": "Cashmere",
+      "finish": "solid",
+      "lab": {
+        "L": 69.36,
+        "a": 1.8,
+        "b": 4.12,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #B0A8A2 (PaintRef hex, OEM=Lincoln, code=G4 (models=LS, Navigator, Town Car; years=2004-2007)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:ls:G4"
+      }
+    },
+    {
+      "code": "ND",
+      "marketingName": "Dune",
+      "finish": "solid",
+      "lab": {
+        "L": 71.17,
+        "a": 2.94,
+        "b": 6.82,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #B9ACA2 (PaintRef hex, OEM=Lincoln, code=ND (models=MKX, MKZ, Zephyr; years=2006-2008)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:mkx:ND"
+      }
+    },
+    {
+      "code": "NH",
+      "marketingName": "Light Sage",
+      "finish": "solid",
+      "lab": {
+        "L": 77.81,
+        "a": -1.43,
+        "b": 1.77,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #BFC1BD (PaintRef hex, OEM=Lincoln, code=NH (models=MKZ, Zephyr; years=2006-2008)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:mkz:NH"
+      }
+    },
+    {
+      "code": "XF",
+      "marketingName": "Chroma Caviar Dark Gray",
+      "finish": "solid",
+      "lab": {
+        "L": 49.55,
+        "a": 2.9,
+        "b": 2.9,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #7D7471 (PaintRef hex, OEM=Lincoln, code=XF (models=Aviator, Continental, MKZ; years=2018-2021)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:aviator:XF"
+      }
+    },
+    {
+      "code": "B6",
+      "marketingName": "Crystal Copper",
+      "finish": "solid",
+      "lab": {
+        "L": 24.76,
+        "a": 17.09,
+        "b": -1.85,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #52313E (PaintRef hex, OEM=Lincoln, code=B6 (models=Aviator, MKZ; years=2019-2020)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:aviator:B6"
+      }
+    },
+    {
+      "code": "AR",
+      "marketingName": "Iced Mocha",
+      "finish": "solid",
+      "lab": {
+        "L": 52.41,
+        "a": 1.04,
+        "b": 7.1,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #847C71 (PaintRef hex, OEM=Lincoln, code=AR (models=Aviator, Continental, Corsair, MKC, MKT, MKX, MKZ, Nautilus, Navigator; years=2018-2021)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:aviator:AR"
+      }
+    },
+    {
+      "code": "EF",
+      "marketingName": "Bronze Smoke",
+      "finish": "solid",
+      "lab": {
+        "L": 42.46,
+        "a": 6.32,
+        "b": 12.49,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #766050 (PaintRef hex, OEM=Lincoln, code=EF (models=Nautilus; year=2022)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:nautilus:EF"
+      }
+    },
+    {
+      "code": "XF",
+      "marketingName": "Chroma Caviar",
+      "finish": "solid",
+      "lab": {
+        "L": 49.55,
+        "a": 2.9,
+        "b": 2.9,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #7D7471 (PaintRef hex, OEM=Lincoln, code=XF (models=Aviator, Continental, MKS, MKZ; years=2017-2023)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:aviator:XF"
+      }
+    },
+    {
+      "code": "AG",
+      "marketingName": "Jewel Sandstone",
+      "finish": "solid",
+      "lab": {
+        "L": 58.75,
+        "a": 9.05,
+        "b": 15.91,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #A78772 (PaintRef hex, OEM=Lincoln, code=AG (models=Nautilus; year=2023)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:nautilus:AG"
+      }
+    },
+    {
+      "code": "TK",
+      "marketingName": "Mineral Gray",
+      "finish": "solid",
+      "lab": {
+        "L": 36.59,
+        "a": 4.86,
+        "b": 8.32,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #635349 (PaintRef hex, OEM=Lincoln, code=TK (models=Aviator, MKT, MKX, Navigator; years=2001-2012)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:aviator:TK"
+      }
+    },
+    {
+      "code": "JP",
+      "marketingName": "Silver Birch",
+      "finish": "solid",
+      "lab": {
+        "L": 74.34,
+        "a": -1.6,
+        "b": -4,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #B0B8BE (PaintRef hex, OEM=Lincoln, code=JP (models=Aviator, Continental, LS, MKZ, Navigator, Town Car, Zephyr; years=2002-2011)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:aviator:JP"
+      }
+    },
+    {
+      "code": "TC",
+      "marketingName": "Charcoal Gray",
+      "finish": "solid",
+      "lab": {
+        "L": 35.24,
+        "a": -0.42,
+        "b": 1.17,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #535351 (PaintRef hex, OEM=Lincoln, code=TC (models=Town Car; years=2002-2004)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:town-car:TC"
+      }
+    },
+    {
+      "code": "G5",
+      "marketingName": "Alloy",
+      "finish": "solid",
+      "lab": {
+        "L": 30.11,
+        "a": 0.1,
+        "b": -2.68,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #45474B (PaintRef hex, OEM=Lincoln, code=G5 (models=Aviator, MKX, MKZ, Navigator, Zephyr; years=2004-2007)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:aviator:G5"
+      }
+    },
+    {
+      "code": "DV",
+      "marketingName": "Light Tundra",
+      "finish": "solid",
+      "lab": {
+        "L": 56.17,
+        "a": -3.77,
+        "b": -4.93,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #7B898F (PaintRef hex, OEM=Lincoln, code=DV (models=LS, Navigator, Town Car; years=2004-2006)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:ls:DV"
+      }
+    },
+    {
+      "code": "HJ",
+      "marketingName": "Pewter",
+      "finish": "solid",
+      "lab": {
+        "L": 51.35,
+        "a": 1.07,
+        "b": -3.94,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #797A81 (PaintRef hex, OEM=Lincoln, code=HJ (models=LS, MKX, Navigator, Town Car; years=2006-2007)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:ls:HJ"
+      }
+    },
+    {
+      "code": "GS",
+      "marketingName": "Ceramic",
+      "finish": "solid",
+      "lab": {
+        "L": 90.22,
+        "a": -1.88,
+        "b": 0.99,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #E0E4E1 (PaintRef hex, OEM=Lincoln, code=GS (models=Continental, MKC, MKT, Nautilus, Navigator; years=2019-2020)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:continental:GS"
+      }
+    },
+    {
+      "code": "J7",
+      "marketingName": "Magnetic Gray",
+      "finish": "solid",
+      "lab": {
+        "L": 41.6,
+        "a": -2.85,
+        "b": 9.83,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #646352 (PaintRef hex, OEM=Lincoln, code=J7 (models=Continental, MKC, MKS, MKX, MKZ, Nautilus, Navigator; years=2017-2021)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:continental:J7"
+      }
+    },
+    {
+      "code": "JS",
+      "marketingName": "Silver Radiance",
+      "finish": "solid",
+      "lab": {
+        "L": 76.91,
+        "a": -1.88,
+        "b": -1.23,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #B9BFC0 (PaintRef hex, OEM=Lincoln, code=JS (models=Aviator, Corsair, Nautilus, Navigator; years=2020-2025)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:aviator:JS"
+      }
+    },
+    {
+      "code": "M7",
+      "marketingName": "Asher Gray",
+      "finish": "solid",
+      "lab": {
+        "L": 37.78,
+        "a": -2.19,
+        "b": -0.11,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #555A59 (PaintRef hex, OEM=Lincoln, code=M7 (models=Aviator, Corsair, Nautilus, Navigator; years=2021-2025)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:aviator:M7"
+      }
+    },
+    {
+      "code": "GS",
+      "marketingName": "Ceramic Pearl",
+      "finish": "solid",
+      "lab": {
+        "L": 90.22,
+        "a": -1.88,
+        "b": 0.99,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #E0E4E1 (PaintRef hex, OEM=Lincoln, code=GS (models=Aviator, Corsair, Nautilus, Navigator; years=2021-2025)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:aviator:GS"
+      }
+    },
+    {
+      "code": "A3",
+      "marketingName": "Crystal White",
+      "finish": "solid",
+      "lab": {
+        "L": 74.91,
+        "a": -2.77,
+        "b": -0.96,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #B2BABA (PaintRef hex, OEM=Lincoln, code=A3 (models=Navigator; year=2025)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:navigator:A3"
+      }
+    },
+    {
+      "code": "T9",
+      "marketingName": "Harbor Gray",
+      "finish": "solid",
+      "lab": {
+        "L": 35.33,
+        "a": 1.51,
+        "b": 5.14,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #59524B (PaintRef hex, OEM=Lincoln, code=T9 (models=Aviator; year=2025)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:aviator:T9"
+      }
+    },
+    {
+      "code": "L9",
+      "marketingName": "Gilded Green",
+      "finish": "solid",
+      "lab": {
+        "L": 24.63,
+        "a": -6.05,
+        "b": 3.55,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #333D35 (PaintRef hex, OEM=Lincoln, code=L9 (models=Aviator, Nautilus; years=2022-2023)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:aviator:L9"
+      }
+    },
+    {
+      "code": "PG",
+      "marketingName": "Dark Amethyst",
+      "finish": "solid",
+      "lab": {
+        "L": 13.77,
+        "a": 2.89,
+        "b": -3.49,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #252228 (PaintRef hex, OEM=Lincoln, code=PG (models=Zephyr; year=2007)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:zephyr:PG"
+      }
+    },
+    {
+      "code": "GT",
+      "marketingName": "Autumn Red",
+      "finish": "solid",
+      "lab": {
+        "L": 17.82,
+        "a": 27.61,
+        "b": 13.93,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #521719 (PaintRef hex, OEM=Lincoln, code=GT (models=Continental, Navigator, Town Car; years=2000-2012)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:continental:GT"
+      }
+    },
+    {
+      "code": "G2",
+      "marketingName": "Redfire",
+      "finish": "solid",
+      "lab": {
+        "L": 31.1,
+        "a": 44.59,
+        "b": 30.42,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #8C201C (PaintRef hex, OEM=Lincoln, code=G2 (models=Aviator, LS, MKX, MKZ, Navigator, Town Car, Zephyr; years=2003-2009)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:aviator:G2"
+      }
+    },
+    {
+      "code": "R3",
+      "marketingName": "Burgundy Velvet",
+      "finish": "solid",
+      "lab": {
+        "L": 14.02,
+        "a": 27.98,
+        "b": 16.18,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #490D0D (PaintRef hex, OEM=Lincoln, code=R3 (models=Aviator, Continental, Corsair, MKC, MKS, MKT, MKX, MKZ, Nautilus, Navigator; years=2016-2023)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:aviator:R3"
+      }
+    },
+    {
+      "code": "D4",
+      "marketingName": "Red Carpet",
+      "finish": "solid",
+      "lab": {
+        "L": 30.43,
+        "a": 53.26,
+        "b": 34.96,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #940314 (PaintRef hex, OEM=Lincoln, code=D4 (models=Aviator, Corsair, Nautilus, Navigator; years=2020-2025)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:aviator:D4"
+      }
+    },
+    {
+      "code": "C9",
+      "marketingName": "Diamond Red",
+      "finish": "solid",
+      "lab": {
+        "L": 26.52,
+        "a": 27.23,
+        "b": 8.48,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #672C33 (PaintRef hex, OEM=Lincoln, code=C9 (models=Aviator, Nautilus, Navigator; years=2023-2025)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:aviator:C9"
+      }
+    },
+    {
+      "code": "F6",
+      "marketingName": "Ceramic White",
+      "finish": "solid",
+      "lab": {
+        "L": 84.23,
+        "a": 1.71,
+        "b": 0.61,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #D6D1D1 (PaintRef hex, OEM=Lincoln, code=F6 (models=Aviator, LS, Town Car; years=2002-2006)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:aviator:F6"
+      }
+    },
+    {
+      "code": "YZ",
+      "marketingName": "White",
+      "finish": "solid",
+      "lab": {
+        "L": 95.17,
+        "a": -0.02,
+        "b": 1.08,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #F2F1EF (PaintRef hex, OEM=Lincoln, code=YZ (models=Aviator, Navigator, Zephyr; years=1998-2006)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:aviator:YZ"
+      }
+    },
+    {
+      "code": "HC",
+      "marketingName": "Ivory Parchment",
+      "finish": "solid",
+      "lab": {
+        "L": 71.92,
+        "a": 0.88,
+        "b": 10.64,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #BAAF9D (PaintRef hex, OEM=Lincoln, code=HC (models=Aviator, Continental, Town Car; years=1999-2005)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:aviator:HC"
+      }
+    },
+    {
+      "code": "AZ",
+      "marketingName": "Pristine White",
+      "finish": "solid",
+      "lab": {
+        "L": 93.68,
+        "a": -2.41,
+        "b": 3.52,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #EBEEE6 (PaintRef hex, OEM=Lincoln, code=AZ (models=Aviator, Corsair, Nautilus, Navigator; years=2020-2025)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:aviator:AZ"
+      }
+    },
+    {
+      "code": "PH",
+      "marketingName": "Creme Brulee",
+      "finish": "solid",
+      "lab": {
+        "L": 94.28,
+        "a": -2.15,
+        "b": 11.73,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #F4EFD8 (PaintRef hex, OEM=Lincoln, code=PH (models=MKX; years=2007-2009)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:mkx:PH"
+      }
+    },
+    {
+      "code": "L2",
+      "marketingName": "True Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 11,
+        "a": -3.86,
+        "b": -14.46,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #012031 (PaintRef hex, OEM=Lincoln, code=L2 (models=Continental, Navigator, Town Car; years=2001-2004)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:continental:L2"
+      }
+    },
+    {
+      "code": "AQ",
+      "marketingName": "Arizona Beige",
+      "finish": "solid",
+      "lab": {
+        "L": 56.23,
+        "a": -0.58,
+        "b": 1.61,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #878784 (PaintRef hex, OEM=Lincoln, code=AQ (models=Blackwood; year=2002)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:blackwood:AQ"
+      }
+    },
+    {
+      "code": "CX",
+      "marketingName": "Dark Shadow Gray",
+      "finish": "solid",
+      "lab": {
+        "L": 41.5,
+        "a": -0.62,
+        "b": 2.98,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #63625D (PaintRef hex, OEM=Lincoln, code=CX (models=Blackwood; year=2002)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:blackwood:CX"
+      }
+    },
+    {
+      "code": "YN",
+      "marketingName": "Silver",
+      "finish": "solid",
+      "lab": {
+        "L": 77.65,
+        "a": -1.06,
+        "b": -7.19,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #B7C1CD (PaintRef hex, OEM=Lincoln, code=YN (models=Blackwood, Navigator; years=1998-2002)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:blackwood:YN"
+      }
+    },
+    {
+      "code": "ST",
+      "marketingName": "Estate Green",
+      "finish": "solid",
+      "lab": {
+        "L": 16.07,
+        "a": -2.77,
+        "b": 2.01,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #252925 (PaintRef hex, OEM=Lincoln, code=ST (models=Blackwood, Navigator; years=2001-2002)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:blackwood:ST"
+      }
+    },
+    {
+      "code": "PX",
+      "marketingName": "Highland Green",
+      "finish": "solid",
+      "lab": {
+        "L": 19.92,
+        "a": -22.43,
+        "b": 6.53,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #003826 (PaintRef hex, OEM=Lincoln, code=PX (models=Blackwood; year=2002)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:blackwood:PX"
+      }
+    },
+    {
+      "code": "FL",
+      "marketingName": "Toreador Red",
+      "finish": "solid",
+      "lab": {
+        "L": 30.04,
+        "a": 48.67,
+        "b": 36.75,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #8E130F (PaintRef hex, OEM=Lincoln, code=FL (models=Blackwood, Continental, MKS, MKT, MKX, MKZ, Town Car; years=1999-2011)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:blackwood:FL"
+      }
+    },
+    {
+      "code": "E4",
+      "marketingName": "Vermillion Red",
+      "finish": "solid",
+      "lab": {
+        "L": 33.3,
+        "a": 51.42,
+        "b": 37.54,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #9B1815 (PaintRef hex, OEM=Lincoln, code=E4 (models=Blackwood; year=2002)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:blackwood:E4"
+      }
+    },
+    {
+      "code": "UA",
+      "marketingName": "Ebony Black",
+      "finish": "solid",
+      "lab": {
+        "L": 0,
+        "a": 0,
+        "b": 0,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #000000 (PaintRef hex, OEM=Lincoln, code=UA (models=Continental; year=1995)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:continental:UA"
+      }
+    },
+    {
+      "code": "UA",
+      "marketingName": "Ebony",
+      "finish": "solid",
+      "lab": {
+        "L": 0,
+        "a": 0,
+        "b": 0,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #000000 (PaintRef hex, OEM=Lincoln, code=UA (models=Navigator; year=1999)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:navigator:UA"
+      }
+    },
+    {
+      "code": "G1",
+      "marketingName": "Black Velvet",
+      "finish": "solid",
+      "lab": {
+        "L": 0,
+        "a": 0,
+        "b": 0,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #000000 (PaintRef hex, OEM=Lincoln, code=G1 (models=Continental, MKC, MKS, MKT, MKX, MKZ, Navigator; years=2016-2020)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:continental:G1"
+      }
+    },
+    {
+      "code": "W9",
+      "marketingName": "Diamond Black",
+      "finish": "solid",
+      "lab": {
+        "L": 0,
+        "a": 0,
+        "b": 0,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #000000 (PaintRef hex, OEM=Lincoln, code=W9 (models=MKZ; year=2017)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:mkz:W9"
+      }
+    },
+    {
+      "code": "XB",
+      "marketingName": "Dark Portofino Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 19.92,
+        "a": 8.36,
+        "b": -24.49,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #242E54 (PaintRef hex, OEM=Lincoln, code=XB (models=Town Car; year=1995)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:town-car:XB"
+      }
+    },
+    {
+      "code": "XC",
+      "marketingName": "Portofino Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 54.83,
+        "a": 3.03,
+        "b": -19.11,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #7683A4 (PaintRef hex, OEM=Lincoln, code=XC (models=Town Car; year=1995)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:town-car:XC"
+      }
+    },
+    {
+      "code": "TA",
+      "marketingName": "Venetian Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 28.9,
+        "a": 2.08,
+        "b": -12.97,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #3C4458 (PaintRef hex, OEM=Lincoln, code=TA (models=Town Car; year=1995)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:town-car:TA"
+      }
+    },
+    {
+      "code": "JT",
+      "marketingName": "Dark Baltic",
+      "finish": "solid",
+      "lab": {
+        "L": 9.96,
+        "a": 1.35,
+        "b": -3.44,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #1B1B20 (PaintRef hex, OEM=Lincoln, code=JT (models=Town Car; year=1996)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:town-car:JT"
+      }
+    },
+    {
+      "code": "K5",
+      "marketingName": "Arctic Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 75.4,
+        "a": -3.74,
+        "b": -2.44,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #B0BCBE (PaintRef hex, OEM=Lincoln, code=K5 (models=Town Car; year=1997)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:town-car:K5"
+      }
+    },
+    {
+      "code": "K4",
+      "marketingName": "Deep Navy Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 2.32,
+        "a": 16.31,
+        "b": -31.29,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #000035 (PaintRef hex, OEM=Lincoln, code=K4 (models=Navigator, Town Car; years=1997-1998)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:navigator:K4"
+      }
+    },
+    {
+      "code": "KW",
+      "marketingName": "Charcoal Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 20.25,
+        "a": 1.5,
+        "b": -12.49,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #283143 (PaintRef hex, OEM=Lincoln, code=KW (models=Navigator, Town Car; years=1998-2001)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:navigator:KW"
+      }
+    },
+    {
+      "code": "M7",
+      "marketingName": "Light Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 69.58,
+        "a": -4.9,
+        "b": -17.39,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #8DAEC9 (PaintRef hex, OEM=Lincoln, code=M7 (models=Town Car; year=1998)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:town-car:M7"
+      }
+    },
+    {
+      "code": "KX",
+      "marketingName": "Graphite Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 47.2,
+        "a": 1.13,
+        "b": -21.63,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #5B7194 (PaintRef hex, OEM=Lincoln, code=KX (models=Continental, Town Car; years=1999-2000)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:continental:KX"
+      }
+    },
+    {
+      "code": "L3",
+      "marketingName": "Pacific Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 36.58,
+        "a": -8.76,
+        "b": -12.05,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #375B69 (PaintRef hex, OEM=Lincoln, code=L3 (models=Town Car; years=2001-2002)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:town-car:L3"
+      }
+    },
+    {
+      "code": "N1",
+      "marketingName": "Midnight Sapphire Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 26.39,
+        "a": 0.54,
+        "b": -12.32,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #343F51 (PaintRef hex, OEM=Lincoln, code=N1 (models=Navigator; year=2017)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:navigator:N1"
+      }
+    },
+    {
+      "code": "N5",
+      "marketingName": "Rhapsody Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 20.89,
+        "a": -5.22,
+        "b": -20.38,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #003650 (PaintRef hex, OEM=Lincoln, code=N5 (models=Continental, MKC, MKS, MKX, MKZ, Nautilus, Navigator; years=2017-2021)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:continental:N5"
+      }
+    },
+    {
+      "code": "DK",
+      "marketingName": "Pumice",
+      "finish": "solid",
+      "lab": {
+        "L": 61.05,
+        "a": 0.78,
+        "b": -2.11,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #939397 (PaintRef hex, OEM=Lincoln, code=DK (models=Continental, Town Car; years=1995-1996)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:continental:DK"
+      }
+    },
+    {
+      "code": "FZ",
+      "marketingName": "Cordovan",
+      "finish": "solid",
+      "lab": {
+        "L": 20.35,
+        "a": 34.79,
+        "b": 17.77,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #611319 (PaintRef hex, OEM=Lincoln, code=FZ (models=Continental, Town Car; years=1996-1997)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:continental:FZ"
+      }
+    },
+    {
+      "code": "BF",
+      "marketingName": "Cypress Gold Frost",
+      "finish": "solid",
+      "lab": {
+        "L": 55.54,
+        "a": 1.85,
+        "b": 16.3,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #938369 (PaintRef hex, OEM=Lincoln, code=BF (models=Navigator, Town Car; years=1996-1999)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:navigator:BF"
+      }
+    },
+    {
+      "code": "DZ",
+      "marketingName": "Light Saddle",
+      "finish": "solid",
+      "lab": {
+        "L": 81.59,
+        "a": 3.59,
+        "b": 8.01,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #D8C8BC (PaintRef hex, OEM=Lincoln, code=DZ (models=Town Car; year=1996)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:town-car:DZ"
+      }
+    },
+    {
+      "code": "BA",
+      "marketingName": "Light Prairie Tan",
+      "finish": "solid",
+      "lab": {
+        "L": 60.35,
+        "a": 1.75,
+        "b": 7.18,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #9A9085 (PaintRef hex, OEM=Lincoln, code=BA (models=Continental, Town Car; years=1997-1998)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:continental:BA"
+      }
+    },
+    {
+      "code": "BH",
+      "marketingName": "Medium Gold",
+      "finish": "solid",
+      "lab": {
+        "L": 51.06,
+        "a": 4.12,
+        "b": 23.32,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #8E7652 (PaintRef hex, OEM=Lincoln, code=BH (models=Continental, Town Car; years=1998-1999)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:continental:BH"
+      }
+    },
+    {
+      "code": "BQ",
+      "marketingName": "Light Parchment Gold",
+      "finish": "solid",
+      "lab": {
+        "L": 58.02,
+        "a": 2.06,
+        "b": 3.74,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #928A85 (PaintRef hex, OEM=Lincoln, code=BQ (models=Continental, Navigator, Town Car; years=1999-2003)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:continental:BQ"
+      }
+    },
+    {
+      "code": "BQ",
+      "marketingName": "Parchment Gold",
+      "finish": "solid",
+      "lab": {
+        "L": 58.02,
+        "a": 2.06,
+        "b": 3.74,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #928A85 (PaintRef hex, OEM=Lincoln, code=BQ (models=Town Car; year=2002)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:town-car:BQ"
+      }
+    },
+    {
+      "code": "A2",
+      "marketingName": "Chrome Elite",
+      "finish": "solid",
+      "lab": {
+        "L": 32.08,
+        "a": 16.25,
+        "b": 17.98,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #6B4130 (PaintRef hex, OEM=Lincoln, code=A2 (models=MKT, MKX; years=2016-2017)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:mkt:A2"
+      }
+    },
+    {
+      "code": "A2",
+      "marketingName": "Chrome Elite Copper",
+      "finish": "solid",
+      "lab": {
+        "L": 32.08,
+        "a": 16.25,
+        "b": 17.98,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #6B4130 (PaintRef hex, OEM=Lincoln, code=A2 (models=MKZ, Nautilus; years=2018-2021)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:mkz:A2"
+      }
+    },
+    {
+      "code": "TR",
+      "marketingName": "Medium Graphite",
+      "finish": "solid",
+      "lab": {
+        "L": 43.88,
+        "a": 4.25,
+        "b": -8.66,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #686676 (PaintRef hex, OEM=Lincoln, code=TR (models=Town Car; year=1995)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:town-car:TR"
+      }
+    },
+    {
+      "code": "TS",
+      "marketingName": "Silver Frost",
+      "finish": "solid",
+      "lab": {
+        "L": 74.77,
+        "a": -2.59,
+        "b": -7.2,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #ACBAC5 (PaintRef hex, OEM=Lincoln, code=TS (models=Continental, Town Car, Zephyr; years=1995-2006)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:continental:TS"
+      }
+    },
+    {
+      "code": "SD",
+      "marketingName": "Willow Frost",
+      "finish": "solid",
+      "lab": {
+        "L": 48.11,
+        "a": -5.49,
+        "b": 0,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #687572 (PaintRef hex, OEM=Lincoln, code=SD (models=Town Car; year=1996)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:town-car:SD"
+      }
+    },
+    {
+      "code": "TT",
+      "marketingName": "Medium Pewter",
+      "finish": "solid",
+      "lab": {
+        "L": 32.35,
+        "a": -5.58,
+        "b": -4.55,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #3E4F53 (PaintRef hex, OEM=Lincoln, code=TT (models=Town Car; year=1997)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:town-car:TT"
+      }
+    },
+    {
+      "code": "TV",
+      "marketingName": "Midnight Gray",
+      "finish": "solid",
+      "lab": {
+        "L": 28.85,
+        "a": 0,
+        "b": 0,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #444444 (PaintRef hex, OEM=Lincoln, code=TV (models=Continental, Town Car; years=1998-2002)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:continental:TV"
+      }
+    },
+    {
+      "code": "UX",
+      "marketingName": "Ingot Silver",
+      "finish": "solid",
+      "lab": {
+        "L": 86.37,
+        "a": -0.21,
+        "b": 2.7,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #DAD8D3 (PaintRef hex, OEM=Lincoln, code=UX (models=Continental, Corsair, MKC, MKS, MKT, MKX, MKZ, Nautilus, Navigator; years=2010-2020)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:continental:UX"
+      }
+    },
+    {
+      "code": "J7",
+      "marketingName": "Magnetic",
+      "finish": "solid",
+      "lab": {
+        "L": 41.6,
+        "a": -2.85,
+        "b": 9.83,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #646352 (PaintRef hex, OEM=Lincoln, code=J7 (models=MKS, MKZ, Navigator; years=2015-2018)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:mks:J7"
+      }
+    },
+    {
+      "code": "PA",
+      "marketingName": "Deep Jewel Green",
+      "finish": "solid",
+      "lab": {
+        "L": 10.57,
+        "a": -20.95,
+        "b": 15.36,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #002300 (PaintRef hex, OEM=Lincoln, code=PA (models=Continental; year=1995)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:continental:PA"
+      }
+    },
+    {
+      "code": "FE",
+      "marketingName": "Evergreen Frost",
+      "finish": "solid",
+      "lab": {
+        "L": 43.86,
+        "a": -3.53,
+        "b": 7.62,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #67695B (PaintRef hex, OEM=Lincoln, code=FE (models=Town Car; year=1995)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:town-car:FE"
+      }
+    },
+    {
+      "code": "SH",
+      "marketingName": "Medium Willow",
+      "finish": "solid",
+      "lab": {
+        "L": 30.33,
+        "a": -6.29,
+        "b": -10.21,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #314B57 (PaintRef hex, OEM=Lincoln, code=SH (models=Town Car; year=1996)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:town-car:SH"
+      }
+    },
+    {
+      "code": "F8",
+      "marketingName": "Deep Evergreen",
+      "finish": "solid",
+      "lab": {
+        "L": 16.11,
+        "a": -26.21,
+        "b": 21.49,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #003003 (PaintRef hex, OEM=Lincoln, code=F8 (models=Navigator, Town Car; years=1997-1998)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:navigator:F8"
+      }
+    },
+    {
+      "code": "BD",
+      "marketingName": "Light Cypress",
+      "finish": "solid",
+      "lab": {
+        "L": 84.48,
+        "a": -3.67,
+        "b": 14.24,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #D7D4B8 (PaintRef hex, OEM=Lincoln, code=BD (models=Town Car; year=1997)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:town-car:BD"
+      }
+    },
+    {
+      "code": "FT",
+      "marketingName": "Charcoal Green",
+      "finish": "solid",
+      "lab": {
+        "L": 15.23,
+        "a": -7.8,
+        "b": 6.36,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #1E291D (PaintRef hex, OEM=Lincoln, code=FT (models=Continental, Navigator, Town Car; years=1998-2001)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:continental:FT"
+      }
+    },
+    {
+      "code": "FS",
+      "marketingName": "Spruce Green",
+      "finish": "solid",
+      "lab": {
+        "L": 53.17,
+        "a": -2.5,
+        "b": 4.62,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #7E8077 (PaintRef hex, OEM=Lincoln, code=FS (models=Continental, Navigator; years=1999-2000)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:continental:FS"
+      }
+    },
+    {
+      "code": "F3",
+      "marketingName": "Medium Cypress Green",
+      "finish": "solid",
+      "lab": {
+        "L": 40.27,
+        "a": -1.24,
+        "b": 9.17,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #635F50 (PaintRef hex, OEM=Lincoln, code=F3 (models=Town Car; year=2001)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:town-car:F3"
+      }
+    },
+    {
+      "code": "P5",
+      "marketingName": "Aspen Green",
+      "finish": "solid",
+      "lab": {
+        "L": 28.26,
+        "a": -2.63,
+        "b": -1.59,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #3D4445 (PaintRef hex, OEM=Lincoln, code=P5 (models=Navigator, Town Car; years=2002-2003)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:navigator:P5"
+      }
+    },
+    {
+      "code": "HW",
+      "marketingName": "Jade Green",
+      "finish": "solid",
+      "lab": {
+        "L": 34.72,
+        "a": -3.49,
+        "b": 6.04,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #505348 (PaintRef hex, OEM=Lincoln, code=HW (models=MKZ; year=2017)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:mkz:HW"
+      }
+    },
+    {
+      "code": "JC",
+      "marketingName": "Desert Violet",
+      "finish": "solid",
+      "lab": {
+        "L": 22.39,
+        "a": 13.18,
+        "b": 4.04,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #4A2E30 (PaintRef hex, OEM=Lincoln, code=JC (models=Town Car; year=1996)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:town-car:JC"
+      }
+    },
+    {
+      "code": "FJ",
+      "marketingName": "Berry",
+      "finish": "solid",
+      "lab": {
+        "L": 34.99,
+        "a": 34.48,
+        "b": 25.77,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #8B382B (PaintRef hex, OEM=Lincoln, code=FJ (models=Town Car; year=1995)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:town-car:FJ"
+      }
+    },
+    {
+      "code": "GF",
+      "marketingName": "Electric Current Red",
+      "finish": "solid",
+      "lab": {
+        "L": 31.02,
+        "a": 48.04,
+        "b": 26.23,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #8F1923 (PaintRef hex, OEM=Lincoln, code=GF (models=Town Car; year=1995)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:town-car:GF"
+      }
+    },
+    {
+      "code": "JB",
+      "marketingName": "Toreador Red",
+      "finish": "solid",
+      "lab": {
+        "L": 32.92,
+        "a": 51.62,
+        "b": 37.12,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #9A1615 (PaintRef hex, OEM=Lincoln, code=JB (models=Continental; years=1996-1998)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:continental:JB"
+      }
+    },
+    {
+      "code": "E9",
+      "marketingName": "Laser Red",
+      "finish": "solid",
+      "lab": {
+        "L": 27.53,
+        "a": 39.7,
+        "b": 16.45,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #7A1F2A (PaintRef hex, OEM=Lincoln, code=E9 (models=Navigator, Town Car; years=1997-2002)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:navigator:E9"
+      }
+    },
+    {
+      "code": "RR",
+      "marketingName": "Ruby Red",
+      "finish": "solid",
+      "lab": {
+        "L": 34.31,
+        "a": 58.36,
+        "b": 39.87,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #A60014 (PaintRef hex, OEM=Lincoln, code=RR (models=Continental, MKC, MKS, MKT, MKX, MKZ, Nautilus, Navigator; years=2013-2020)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:continental:RR"
+      }
+    },
+    {
+      "code": "GN",
+      "marketingName": "Palladium White Gold",
+      "finish": "solid",
+      "lab": {
+        "L": 73.13,
+        "a": -0.13,
+        "b": 8.54,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #BAB3A4 (PaintRef hex, OEM=Lincoln, code=GN (models=Navigator; year=2017)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:navigator:GN"
+      }
+    },
+    {
+      "code": "HA",
+      "marketingName": "Ivory",
+      "finish": "solid",
+      "lab": {
+        "L": 94.61,
+        "a": -0.02,
+        "b": 6.51,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #F5EFE3 (PaintRef hex, OEM=Lincoln, code=HA (models=Continental, Town Car; years=1995-1998)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:continental:HA"
+      }
+    },
+    {
+      "code": "WK",
+      "marketingName": "Opal",
+      "finish": "solid",
+      "lab": {
+        "L": 93.42,
+        "a": 0.18,
+        "b": -0.48,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #ECECED (PaintRef hex, OEM=Lincoln, code=WK (models=Continental, Town Car; years=1995-1997)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:continental:WK"
+      }
+    },
+    {
+      "code": "WT",
+      "marketingName": "Performance White",
+      "finish": "solid",
+      "lab": {
+        "L": 99.95,
+        "a": -0.35,
+        "b": 0.95,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #FFFFFD (PaintRef hex, OEM=Lincoln, code=WT (models=Continental, LS, Town Car; years=1995-2011)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:continental:WT"
+      }
+    },
+    {
+      "code": "WF",
+      "marketingName": "White",
+      "finish": "solid",
+      "lab": {
+        "L": 96.05,
+        "a": -3.08,
+        "b": 6.5,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #F3F5E7 (PaintRef hex, OEM=Lincoln, code=WF (models=Continental, Town Car; years=1998-2001)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:continental:WF"
+      }
+    },
+    {
+      "code": "WF",
+      "marketingName": "White Pearl",
+      "finish": "solid",
+      "lab": {
+        "L": 96.05,
+        "a": -3.08,
+        "b": 6.5,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #F3F5E7 (PaintRef hex, OEM=Lincoln, code=WF (models=Town Car; year=2002)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:town-car:WF"
+      }
+    },
+    {
+      "code": "UG",
+      "marketingName": "White Platinum",
+      "finish": "solid",
+      "lab": {
+        "L": 89.73,
+        "a": -4.83,
+        "b": 6.01,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #DDE4D6 (PaintRef hex, OEM=Lincoln, code=UG (models=Continental, MKC, MKS, MKT, MKX, MKZ, Nautilus, Navigator; years=2009-2025)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:continental:UG"
+      }
+    },
+    {
+      "code": "HA",
+      "marketingName": "Ivory Pearl",
+      "finish": "solid",
+      "lab": {
+        "L": 81.57,
+        "a": -3.01,
+        "b": 6.23,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #CACCBF (PaintRef hex, OEM=Lincoln, code=HA (models=Navigator; year=2018)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:navigator:HA"
+      }
+    },
+    {
+      "code": "FLN1110",
+      "marketingName": "Geel",
+      "finish": "solid",
+      "lab": {
+        "L": 72.7,
+        "a": 29.13,
+        "b": 77.5,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #FF9B00 (PaintRef hex, OEM=Lincoln, code=FLN1110 (models=Continental; year=1992)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:continental:FLN1110"
+      }
+    },
+    {
+      "code": "B3",
+      "marketingName": "Artisan Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 22.76,
+        "a": 4.84,
+        "b": -33.17,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #003768 (PaintRef hex, OEM=Lincoln, code=B3 (models=Corsair, Nautilus; years=2020-2021)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:corsair:B3"
+      }
+    },
+    {
+      "code": "NK",
+      "marketingName": "Sage Green",
+      "finish": "solid",
+      "lab": {
+        "L": 65.48,
+        "a": -4.04,
+        "b": 3.3,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #9AA199 (PaintRef hex, OEM=Lincoln, code=NK (models=Corsair; year=2024)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:corsair:NK"
+      }
+    },
+    {
+      "code": "L8",
+      "marketingName": "Crystal Red",
+      "finish": "solid",
+      "lab": {
+        "L": 21.3,
+        "a": 10.64,
+        "b": 8.56,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #462D27 (PaintRef hex, OEM=Lincoln, code=L8 (models=Corsair; year=2023)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:corsair:L8"
+      }
+    },
+    {
+      "code": "8P8",
+      "marketingName": "Dark Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 5.85,
+        "a": 6.11,
+        "b": -15.9,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #0E1128 (PaintRef hex, OEM=Lincoln, code=8P8 (models=LS; year=2006)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:ls:8P8"
+      }
+    },
+    {
+      "code": "212",
+      "marketingName": "Obsidian",
+      "finish": "solid",
+      "lab": {
+        "L": 0,
+        "a": 0,
+        "b": 0,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #000000 (PaintRef hex, OEM=Lincoln, code=212 (models=LS; years=2007-2025)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:ls:212"
+      }
+    },
+    {
+      "code": "214",
+      "marketingName": "Black Opal",
+      "finish": "solid",
+      "lab": {
+        "L": 0,
+        "a": 0,
+        "b": 0,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #000000 (PaintRef hex, OEM=Lincoln, code=214 (models=LS; years=2008-2012)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:ls:214"
+      }
+    },
+    {
+      "code": "214",
+      "marketingName": "Black Opal Pearl",
+      "finish": "solid",
+      "lab": {
+        "L": 0,
+        "a": 0,
+        "b": 0,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #000000 (PaintRef hex, OEM=Lincoln, code=214 (models=LS; year=2009)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:ls:214"
+      }
+    },
+    {
+      "code": "217",
+      "marketingName": "Starlight Black",
+      "finish": "solid",
+      "lab": {
+        "L": 0,
+        "a": 0,
+        "b": 0,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #000000 (PaintRef hex, OEM=Lincoln, code=217 (models=LS; year=2015)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:ls:217"
+      }
+    },
+    {
+      "code": "223",
+      "marketingName": "Caviar",
+      "finish": "solid",
+      "lab": {
+        "L": 15.55,
+        "a": -0.13,
+        "b": -2.28,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #25272A (PaintRef hex, OEM=Lincoln, code=223 (models=LS; years=2018-2025)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:ls:223"
+      }
+    },
+    {
+      "code": "KR",
+      "marketingName": "Norsea Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 36.92,
+        "a": -7.03,
+        "b": -11.51,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #3D5B69 (PaintRef hex, OEM=Lincoln, code=KR (models=Town Car; year=2005)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:town-car:KR"
+      }
+    },
+    {
+      "code": "8U0",
+      "marketingName": "Black Sapphire",
+      "finish": "solid",
+      "lab": {
+        "L": 11.93,
+        "a": 6.82,
+        "b": -22.22,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #111E3E (PaintRef hex, OEM=Lincoln, code=8U0 (models=LS; years=2007-2008)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:ls:8U0"
+      }
+    },
+    {
+      "code": "8U0",
+      "marketingName": "Black Sapphire Pearl",
+      "finish": "solid",
+      "lab": {
+        "L": 11.93,
+        "a": 6.82,
+        "b": -22.22,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #111E3E (PaintRef hex, OEM=Lincoln, code=8U0 (models=LS; year=2009)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:ls:8U0"
+      }
+    },
+    {
+      "code": "8V4",
+      "marketingName": "Blue Pearl",
+      "finish": "solid",
+      "lab": {
+        "L": 43.77,
+        "a": -1.3,
+        "b": -12.55,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #59697C (PaintRef hex, OEM=Lincoln, code=8V4 (models=LS; year=2010)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:ls:8V4"
+      }
+    },
+    {
+      "code": "8V3",
+      "marketingName": "Lapis Lazuli",
+      "finish": "solid",
+      "lab": {
+        "L": 17.8,
+        "a": 6.14,
+        "b": -18.38,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #242A46 (PaintRef hex, OEM=Lincoln, code=8V3 (models=LS; year=2010)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:ls:8V3"
+      }
+    },
+    {
+      "code": "8V4",
+      "marketingName": "Blue Harbor",
+      "finish": "solid",
+      "lab": {
+        "L": 43.77,
+        "a": -1.3,
+        "b": -12.55,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #59697C (PaintRef hex, OEM=Lincoln, code=8V4 (models=LS; years=2011-2012)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:ls:8V4"
+      }
+    },
+    {
+      "code": "8V3",
+      "marketingName": "Deep Sea",
+      "finish": "solid",
+      "lab": {
+        "L": 17.8,
+        "a": 6.14,
+        "b": -18.38,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #242A46 (PaintRef hex, OEM=Lincoln, code=8V3 (models=LS; years=2011-2013)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:ls:8V3"
+      }
+    },
+    {
+      "code": "8X5",
+      "marketingName": "Nightfall",
+      "finish": "solid",
+      "lab": {
+        "L": 4.99,
+        "a": 4.7,
+        "b": -20.32,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #00102C (PaintRef hex, OEM=Lincoln, code=8X5 (models=LS; years=2021-2025)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:ls:8X5"
+      }
+    },
+    {
+      "code": "T2",
+      "marketingName": "Bronze",
+      "finish": "solid",
+      "lab": {
+        "L": 32.38,
+        "a": 9.84,
+        "b": 13.77,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #624637 (PaintRef hex, OEM=Lincoln, code=T2 (models=LS; year=2005)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:ls:T2"
+      }
+    },
+    {
+      "code": "4S1",
+      "marketingName": "Briarwood",
+      "finish": "solid",
+      "lab": {
+        "L": 58.78,
+        "a": 3.76,
+        "b": 3.75,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #978B87 (PaintRef hex, OEM=Lincoln, code=4S1 (models=LS; year=2006)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:ls:4S1"
+      }
+    },
+    {
+      "code": "4P7",
+      "marketingName": "Mystic Gold",
+      "finish": "solid",
+      "lab": {
+        "L": 52.47,
+        "a": -3.21,
+        "b": 15.28,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #827E63 (PaintRef hex, OEM=Lincoln, code=4P7 (models=LS; year=2006)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:ls:4P7"
+      }
+    },
+    {
+      "code": "4T1",
+      "marketingName": "Golden Almond Mica",
+      "finish": "solid",
+      "lab": {
+        "L": 78.23,
+        "a": 6.11,
+        "b": 10.7,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #D5BDAE (PaintRef hex, OEM=Lincoln, code=4T1 (models=LS; year=2007)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:ls:4T1"
+      }
+    },
+    {
+      "code": "4T5",
+      "marketingName": "Truffle Mica",
+      "finish": "solid",
+      "lab": {
+        "L": 29.87,
+        "a": 6.75,
+        "b": -2.92,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #4F434B (PaintRef hex, OEM=Lincoln, code=4T5 (models=LS; year=2007)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:ls:4T5"
+      }
+    },
+    {
+      "code": "4T1",
+      "marketingName": "Golden Almond",
+      "finish": "solid",
+      "lab": {
+        "L": 78.23,
+        "a": 6.11,
+        "b": 10.7,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #D5BDAE (PaintRef hex, OEM=Lincoln, code=4T1 (models=LS; year=2008)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:ls:4T1"
+      }
+    },
+    {
+      "code": "4T5",
+      "marketingName": "Truffle Pearl",
+      "finish": "solid",
+      "lab": {
+        "L": 29.87,
+        "a": 6.75,
+        "b": -2.92,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #4F434B (PaintRef hex, OEM=Lincoln, code=4T5 (models=LS; year=2008)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:ls:4T5"
+      }
+    },
+    {
+      "code": "4T1",
+      "marketingName": "Golden Almond Pearl",
+      "finish": "solid",
+      "lab": {
+        "L": 78.23,
+        "a": 6.11,
+        "b": 10.7,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #D5BDAE (PaintRef hex, OEM=Lincoln, code=4T1 (models=LS; year=2009)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:ls:4T1"
+      }
+    },
+    {
+      "code": "4T5",
+      "marketingName": "Truffle",
+      "finish": "solid",
+      "lab": {
+        "L": 29.87,
+        "a": 6.75,
+        "b": -2.92,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #4F434B (PaintRef hex, OEM=Lincoln, code=4T5 (models=LS; years=2009-2010)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:ls:4T5"
+      }
+    },
+    {
+      "code": "6V6",
+      "marketingName": "Deep Peridot",
+      "finish": "solid",
+      "lab": {
+        "L": 26.33,
+        "a": 1.91,
+        "b": 6.2,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #453D35 (PaintRef hex, OEM=Lincoln, code=6V6 (models=LS; years=2010-2012)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:ls:6V6"
+      }
+    },
+    {
+      "code": "4U7",
+      "marketingName": "Sleek Ecru",
+      "finish": "solid",
+      "lab": {
+        "L": 81.21,
+        "a": 5.32,
+        "b": 6.42,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #D9C6BE (PaintRef hex, OEM=Lincoln, code=4U7 (models=LS; year=2010)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:ls:4U7"
+      }
+    },
+    {
+      "code": "4U7",
+      "marketingName": "Satin Cashmere",
+      "finish": "solid",
+      "lab": {
+        "L": 81.21,
+        "a": 5.32,
+        "b": 6.42,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #D9C6BE (PaintRef hex, OEM=Lincoln, code=4U7 (models=LS; years=2011-2018)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:ls:4U7"
+      }
+    },
+    {
+      "code": "4V3",
+      "marketingName": "Fire Agate",
+      "finish": "solid",
+      "lab": {
+        "L": 31.32,
+        "a": 6.63,
+        "b": 3.16,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #564645 (PaintRef hex, OEM=Lincoln, code=4V3 (models=LS; years=2013-2016)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:ls:4V3"
+      }
+    },
+    {
+      "code": "4X2",
+      "marketingName": "Autumn Shimmer",
+      "finish": "solid",
+      "lab": {
+        "L": 9.87,
+        "a": 11.07,
+        "b": 8,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #2C1510 (PaintRef hex, OEM=Lincoln, code=4X2 (models=LS; years=2018-2020)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:ls:4X2"
+      }
+    },
+    {
+      "code": "1E0",
+      "marketingName": "Dark Gray",
+      "finish": "solid",
+      "lab": {
+        "L": 11.2,
+        "a": -0.21,
+        "b": -0.85,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #1D1E1F (PaintRef hex, OEM=Lincoln, code=1E0 (models=LS; year=2006)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:ls:1E0"
+      }
+    },
+    {
+      "code": "1F2",
+      "marketingName": "Mercury",
+      "finish": "solid",
+      "lab": {
+        "L": 70.11,
+        "a": -0.53,
+        "b": -4.83,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #A6ACB4 (PaintRef hex, OEM=Lincoln, code=1F2 (models=LS; years=2006-2013)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:ls:1F2"
+      }
+    },
+    {
+      "code": "072",
+      "marketingName": "Moonlight",
+      "finish": "solid",
+      "lab": {
+        "L": 80.18,
+        "a": 3.57,
+        "b": -4.37,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #CAC5CF (PaintRef hex, OEM=Lincoln, code=072 (models=LS; year=2006)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:ls:072"
+      }
+    },
+    {
+      "code": "1G0",
+      "marketingName": "Smokey Granite Mica",
+      "finish": "solid",
+      "lab": {
+        "L": 14.84,
+        "a": -1.27,
+        "b": -1.94,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #222628 (PaintRef hex, OEM=Lincoln, code=1G0 (models=LS; year=2007)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:ls:1G0"
+      }
+    },
+    {
+      "code": "6V0",
+      "marketingName": "Verdigris Mica",
+      "finish": "solid",
+      "lab": {
+        "L": 37.32,
+        "a": -3.68,
+        "b": -5.83,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #4C5A61 (PaintRef hex, OEM=Lincoln, code=6V0 (models=LS; year=2007)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:ls:6V0"
+      }
+    },
+    {
+      "code": "1G5",
+      "marketingName": "Opaline",
+      "finish": "solid",
+      "lab": {
+        "L": 87.63,
+        "a": 1.94,
+        "b": -7.07,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #D9DBE9 (PaintRef hex, OEM=Lincoln, code=1G5 (models=LS; year=2008)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:ls:1G5"
+      }
+    },
+    {
+      "code": "1G0",
+      "marketingName": "Smokey Granite",
+      "finish": "solid",
+      "lab": {
+        "L": 14.84,
+        "a": -1.27,
+        "b": -1.94,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #222628 (PaintRef hex, OEM=Lincoln, code=1G0 (models=LS; years=2008-2011)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:ls:1G0"
+      }
+    },
+    {
+      "code": "6V0",
+      "marketingName": "Verdigris Pearl",
+      "finish": "solid",
+      "lab": {
+        "L": 37.32,
+        "a": -3.68,
+        "b": -5.83,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #4C5A61 (PaintRef hex, OEM=Lincoln, code=6V0 (models=LS; year=2008)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:ls:6V0"
+      }
+    },
+    {
+      "code": "1G5",
+      "marketingName": "Opaline Pearl",
+      "finish": "solid",
+      "lab": {
+        "L": 87.63,
+        "a": 1.94,
+        "b": -7.07,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #D9DBE9 (PaintRef hex, OEM=Lincoln, code=1G5 (models=LS; year=2009)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:ls:1G5"
+      }
+    },
+    {
+      "code": "1G0",
+      "marketingName": "Smokey Granite Pearl",
+      "finish": "solid",
+      "lab": {
+        "L": 14.84,
+        "a": -1.27,
+        "b": -1.94,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #222628 (PaintRef hex, OEM=Lincoln, code=1G0 (models=LS; year=2009)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:ls:1G0"
+      }
+    },
+    {
+      "code": "6V0",
+      "marketingName": "Verdigris",
+      "finish": "solid",
+      "lab": {
+        "L": 37.32,
+        "a": -3.68,
+        "b": -5.83,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #4C5A61 (PaintRef hex, OEM=Lincoln, code=6V0 (models=LS; year=2009)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:ls:6V0"
+      }
+    },
+    {
+      "code": "1H9",
+      "marketingName": "Mercury Gray",
+      "finish": "solid",
+      "lab": {
+        "L": 43.59,
+        "a": 3.96,
+        "b": -2.38,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #6C656B (PaintRef hex, OEM=Lincoln, code=1H9 (models=LS; year=2012)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:ls:1H9"
+      }
+    },
+    {
+      "code": "1J2",
+      "marketingName": "Liquid Platinum",
+      "finish": "solid",
+      "lab": {
+        "L": 77.35,
+        "a": -1.54,
+        "b": -1.11,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #BBC0C1 (PaintRef hex, OEM=Lincoln, code=1J2 (models=LS; years=2013-2018)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:ls:1J2"
+      }
+    },
+    {
+      "code": "1H9",
+      "marketingName": "Nebula Gray",
+      "finish": "solid",
+      "lab": {
+        "L": 43.59,
+        "a": 3.96,
+        "b": -2.38,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #6C656B (PaintRef hex, OEM=Lincoln, code=1H9 (models=LS; years=2013-2017)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:ls:1H9"
+      }
+    },
+    {
+      "code": "1J2",
+      "marketingName": "Sonic Silver",
+      "finish": "solid",
+      "lab": {
+        "L": 77.35,
+        "a": -1.54,
+        "b": -1.11,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #BBC0C1 (PaintRef hex, OEM=Lincoln, code=1J2 (models=LS; year=2015)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:ls:1J2"
+      }
+    },
+    {
+      "code": "1J7",
+      "marketingName": "Sonic Titanium",
+      "finish": "solid",
+      "lab": {
+        "L": 59.89,
+        "a": 4.52,
+        "b": -4.36,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #958E98 (PaintRef hex, OEM=Lincoln, code=1J7 (models=LS; year=2015)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:ls:1J7"
+      }
+    },
+    {
+      "code": "1J7",
+      "marketingName": "Atomic Silver",
+      "finish": "solid",
+      "lab": {
+        "L": 59.89,
+        "a": 4.52,
+        "b": -4.36,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #958E98 (PaintRef hex, OEM=Lincoln, code=1J7 (models=LS; years=2016-2025)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:ls:1J7"
+      }
+    },
+    {
+      "code": "1K2",
+      "marketingName": "Manganese Luster",
+      "finish": "solid",
+      "lab": {
+        "L": 62.87,
+        "a": 0.42,
+        "b": -2.22,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #97989C (PaintRef hex, OEM=Lincoln, code=1K2 (models=LS; years=2018-2025)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:ls:1K2"
+      }
+    },
+    {
+      "code": "1L2",
+      "marketingName": "Iridium",
+      "finish": "solid",
+      "lab": {
+        "L": 54.83,
+        "a": -1.23,
+        "b": -2.26,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #7F8487 (PaintRef hex, OEM=Lincoln, code=1L2 (models=LS; years=2021-2024)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:ls:1L2"
+      }
+    },
+    {
+      "code": "1L3",
+      "marketingName": "Silver Illusion",
+      "finish": "solid",
+      "lab": {
+        "L": 81.35,
+        "a": -0.02,
+        "b": 1.12,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #CBCAC8 (PaintRef hex, OEM=Lincoln, code=1L3 (models=LS; years=2024-2025)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:ls:1L3"
+      }
+    },
+    {
+      "code": "1L2",
+      "marketingName": "Sonic Iridium",
+      "finish": "solid",
+      "lab": {
+        "L": 54.83,
+        "a": -1.23,
+        "b": -2.26,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #7F8487 (PaintRef hex, OEM=Lincoln, code=1L2 (models=LS; year=2025)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:ls:1L2"
+      }
+    },
+    {
+      "code": "6T7",
+      "marketingName": "Cypress",
+      "finish": "solid",
+      "lab": {
+        "L": 56.59,
+        "a": -4.92,
+        "b": 5.54,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #838A7E (PaintRef hex, OEM=Lincoln, code=6T7 (models=LS; year=2006)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:ls:6T7"
+      }
+    },
+    {
+      "code": "3P2",
+      "marketingName": "Bordeaux",
+      "finish": "solid",
+      "lab": {
+        "L": 16.37,
+        "a": 9.19,
+        "b": -2.29,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #34242C (PaintRef hex, OEM=Lincoln, code=3P2 (models=LS; year=2006)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:ls:3P2"
+      }
+    },
+    {
+      "code": "HH",
+      "marketingName": "Dark Cherry",
+      "finish": "solid",
+      "lab": {
+        "L": 24.08,
+        "a": 7.98,
+        "b": 1.67,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #463537 (PaintRef hex, OEM=Lincoln, code=HH (models=Town Car; years=2006-2011)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:town-car:HH"
+      }
+    },
+    {
+      "code": "3R7",
+      "marketingName": "Noble Spinel",
+      "finish": "solid",
+      "lab": {
+        "L": 15.7,
+        "a": 37.57,
+        "b": 5.46,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #550021 (PaintRef hex, OEM=Lincoln, code=3R7 (models=LS; years=2007-2008)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:ls:3R7"
+      }
+    },
+    {
+      "code": "3R1",
+      "marketingName": "Matador Red Pearl",
+      "finish": "solid",
+      "lab": {
+        "L": 31.71,
+        "a": 39.76,
+        "b": 17.08,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #862A32 (PaintRef hex, OEM=Lincoln, code=3R1 (models=LS; year=2009)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:ls:3R1"
+      }
+    },
+    {
+      "code": "3R7",
+      "marketingName": "Noble Spinel Pearl",
+      "finish": "solid",
+      "lab": {
+        "L": 15.7,
+        "a": 37.57,
+        "b": 5.46,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #550021 (PaintRef hex, OEM=Lincoln, code=3R7 (models=LS; year=2009)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:ls:3R7"
+      }
+    },
+    {
+      "code": "3R1",
+      "marketingName": "Matador Red",
+      "finish": "solid",
+      "lab": {
+        "L": 31.71,
+        "a": 39.76,
+        "b": 17.08,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #862A32 (PaintRef hex, OEM=Lincoln, code=3R1 (models=LS; years=2010-2025)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:ls:3R1"
+      }
+    },
+    {
+      "code": "3U3",
+      "marketingName": "Sonic Agate",
+      "finish": "solid",
+      "lab": {
+        "L": 27.46,
+        "a": 37.32,
+        "b": 20.87,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #782223 (PaintRef hex, OEM=Lincoln, code=3U3 (models=LS; year=2018)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:ls:3U3"
+      }
+    },
+    {
+      "code": "062",
+      "marketingName": "White Pearl",
+      "finish": "solid",
+      "lab": {
+        "L": 94.08,
+        "a": 0.99,
+        "b": 4.7,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #F4EDE5 (PaintRef hex, OEM=Lincoln, code=062 (models=LS; year=2006)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:ls:062"
+      }
+    },
+    {
+      "code": "076",
+      "marketingName": "Premium White Pearl",
+      "finish": "solid",
+      "lab": {
+        "L": 84.93,
+        "a": 0.66,
+        "b": -4.78,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #D1D4DD (PaintRef hex, OEM=Lincoln, code=076 (models=LS; year=2007)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:ls:076"
+      }
+    },
+    {
+      "code": "077",
+      "marketingName": "Starfire",
+      "finish": "solid",
+      "lab": {
+        "L": 98.5,
+        "a": 1.19,
+        "b": -1.2,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #FCFAFD (PaintRef hex, OEM=Lincoln, code=077 (models=LS; years=2007-2015)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:ls:077"
+      }
+    },
+    {
+      "code": "077",
+      "marketingName": "Starfire Pearl",
+      "finish": "solid",
+      "lab": {
+        "L": 98.5,
+        "a": 1.19,
+        "b": -1.2,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #FCFAFD (PaintRef hex, OEM=Lincoln, code=077 (models=LS; year=2009)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:ls:077"
+      }
+    },
+    {
+      "code": "083",
+      "marketingName": "Ultra White",
+      "finish": "solid",
+      "lab": {
+        "L": 99.46,
+        "a": -1.01,
+        "b": 0.72,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #FCFEFC (PaintRef hex, OEM=Lincoln, code=083 (models=LS; years=2013-2025)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:ls:083"
+      }
+    },
+    {
+      "code": "085",
+      "marketingName": "Eminent White",
+      "finish": "solid",
+      "lab": {
+        "L": 87.34,
+        "a": 0.09,
+        "b": -3.29,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #D8DBE1 (PaintRef hex, OEM=Lincoln, code=085 (models=LS; years=2016-2025)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:ls:085"
+      }
+    },
+    {
+      "code": "XE",
+      "marketingName": "Black Tie",
+      "finish": "solid",
+      "lab": {
+        "L": 0,
+        "a": 0,
+        "b": 0,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #000000 (PaintRef hex, OEM=Lincoln, code=XE (models=MKC, MKX, MKZ; years=2014-2016)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:mkc:XE"
+      }
+    },
+    {
+      "code": "UH",
+      "marketingName": "Tuxedo Black",
+      "finish": "solid",
+      "lab": {
+        "L": 0,
+        "a": 0,
+        "b": 0,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #000000 (PaintRef hex, OEM=Lincoln, code=UH (models=MKC, MKS, MKT, MKX, MKZ, Navigator; years=2012-2015)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:mkc:UH"
+      }
+    },
+    {
+      "code": "W8",
+      "marketingName": "Notorious",
+      "finish": "solid",
+      "lab": {
+        "L": 32.94,
+        "a": 10.75,
+        "b": -35.7,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #354B86 (PaintRef hex, OEM=Lincoln, code=W8 (models=MKC, MKZ; years=2014-2016)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:mkc:W8"
+      }
+    },
+    {
+      "code": "N1",
+      "marketingName": "Midnight Sapphire",
+      "finish": "solid",
+      "lab": {
+        "L": 26.39,
+        "a": 0.54,
+        "b": -12.32,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #343F51 (PaintRef hex, OEM=Lincoln, code=N1 (models=MKC, Navigator; years=2015-2016)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:mkc:N1"
+      }
+    },
+    {
+      "code": "ZX",
+      "marketingName": "Chroma Courture",
+      "finish": "solid",
+      "lab": {
+        "L": 23.68,
+        "a": 4.29,
+        "b": 3.7,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #413633 (PaintRef hex, OEM=Lincoln, code=ZX (models=MKC; year=2014)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:mkc:ZX"
+      }
+    },
+    {
+      "code": "BR",
+      "marketingName": "Karat Gold",
+      "finish": "solid",
+      "lab": {
+        "L": 63.17,
+        "a": 9.2,
+        "b": 23.31,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #B79270 (PaintRef hex, OEM=Lincoln, code=BR (models=MKC; years=2014-2015)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:mkc:BR"
+      }
+    },
+    {
+      "code": "SK",
+      "marketingName": "SIlver Sand",
+      "finish": "solid",
+      "lab": {
+        "L": 68.11,
+        "a": 1.11,
+        "b": 22.28,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #B7A47E (PaintRef hex, OEM=Lincoln, code=SK (models=MKC; years=2014-2015)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:mkc:SK"
+      }
+    },
+    {
+      "code": "ZX",
+      "marketingName": "Chroma Couture",
+      "finish": "solid",
+      "lab": {
+        "L": 7.69,
+        "a": 4.05,
+        "b": 1.45,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #1D1515 (PaintRef hex, OEM=Lincoln, code=ZX (models=MKC, MKX, MKZ; years=2016-2017)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:mkc:ZX"
+      }
+    },
+    {
+      "code": "ZX",
+      "marketingName": "Chroma Couture Dark Brown",
+      "finish": "solid",
+      "lab": {
+        "L": 7.69,
+        "a": 4.05,
+        "b": 1.45,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #1D1515 (PaintRef hex, OEM=Lincoln, code=ZX (models=MKC, MKX; years=2018-2019)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:mkc:ZX"
+      }
+    },
+    {
+      "code": "W7",
+      "marketingName": "Crystal Silver",
+      "finish": "solid",
+      "lab": {
+        "L": 64.98,
+        "a": -0.52,
+        "b": -0.77,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #9C9E9F (PaintRef hex, OEM=Lincoln, code=W7 (models=MKC, MKX, MKZ; years=2014-2016)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:mkc:W7"
+      }
+    },
+    {
+      "code": "TQ",
+      "marketingName": "Smoked Quartz",
+      "finish": "solid",
+      "lab": {
+        "L": 19.4,
+        "a": 0,
+        "b": 0,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #2F2F2F (PaintRef hex, OEM=Lincoln, code=TQ (models=MKC, MKS, MKT, MKX, MKZ; years=2013-2015)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:mkc:TQ"
+      }
+    },
+    {
+      "code": "H6",
+      "marketingName": "Luxe",
+      "finish": "solid",
+      "lab": {
+        "L": 56.16,
+        "a": 2.62,
+        "b": 2.15,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #8D8583 (PaintRef hex, OEM=Lincoln, code=H6 (models=MKS, MKT, MKZ; years=2015-2016)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:mks:H6"
+      }
+    },
+    {
+      "code": "H6",
+      "marketingName": "Luxe Silver",
+      "finish": "solid",
+      "lab": {
+        "L": 56.16,
+        "a": 2.62,
+        "b": 2.15,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #8D8583 (PaintRef hex, OEM=Lincoln, code=H6 (models=MKX; year=2017)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:mkx:H6"
+      }
+    },
+    {
+      "code": "BG",
+      "marketingName": "Baltic Sea Green",
+      "finish": "solid",
+      "lab": {
+        "L": 33.69,
+        "a": -6.12,
+        "b": 1.93,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #46524C (PaintRef hex, OEM=Lincoln, code=BG (models=MKC; years=2019-2020)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:mkc:BG"
+      }
+    },
+    {
+      "code": "BL",
+      "marketingName": "Tahitian",
+      "finish": "solid",
+      "lab": {
+        "L": 22.8,
+        "a": 23.78,
+        "b": -16.97,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #4D2950 (PaintRef hex, OEM=Lincoln, code=BL (models=MKC; year=2015)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:mkc:BL"
+      }
+    },
+    {
+      "code": "VE",
+      "marketingName": "Chroma Flame",
+      "finish": "solid",
+      "lab": {
+        "L": 23.55,
+        "a": 31.42,
+        "b": 17.22,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #662020 (PaintRef hex, OEM=Lincoln, code=VE (models=MKC, MKZ; years=2016-2017)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:mkc:VE"
+      }
+    },
+    {
+      "code": "R6",
+      "marketingName": "Chroma Cabernet",
+      "finish": "solid",
+      "lab": {
+        "L": 33.85,
+        "a": 24.77,
+        "b": -1.69,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #734053 (PaintRef hex, OEM=Lincoln, code=R6 (models=MKZ; year=2017)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:mkz:R6"
+      }
+    },
+    {
+      "code": "VE",
+      "marketingName": "Chroma Flame Red",
+      "finish": "solid",
+      "lab": {
+        "L": 23.55,
+        "a": 31.42,
+        "b": 17.22,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #662020 (PaintRef hex, OEM=Lincoln, code=VE (models=MKC; year=2018)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:mkc:VE"
+      }
+    },
+    {
+      "code": "R6",
+      "marketingName": "Chroma Cabernet Red",
+      "finish": "solid",
+      "lab": {
+        "L": 33.85,
+        "a": 24.77,
+        "b": -1.69,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #734053 (PaintRef hex, OEM=Lincoln, code=R6 (models=MKC, MKZ; years=2018-2019)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:mkc:R6"
+      }
+    },
+    {
+      "code": "YZ",
+      "marketingName": "Oxford White",
+      "finish": "solid",
+      "lab": {
+        "L": 95.17,
+        "a": -0.02,
+        "b": 1.08,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #F2F1EF (PaintRef hex, OEM=Lincoln, code=YZ (models=MKC, MKZ, Navigator, Zephyr; years=1997-2014)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:mkc:YZ"
+      }
+    },
+    {
+      "code": "PV",
+      "marketingName": "White Chocolate",
+      "finish": "solid",
+      "lab": {
+        "L": 93.68,
+        "a": -0.89,
+        "b": 4.59,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #EFEDE4 (PaintRef hex, OEM=Lincoln, code=PV (models=MKC, MKS, MKX, Navigator, Town Car; years=2007-2014)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:mkc:PV"
+      }
+    },
+    {
+      "code": "UG",
+      "marketingName": "White Platinum Pearl",
+      "finish": "solid",
+      "lab": {
+        "L": 89.73,
+        "a": -4.83,
+        "b": 6.01,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #DDE4D6 (PaintRef hex, OEM=Lincoln, code=UG (models=MKS, MKT, MKX, MKZ, Navigator; years=2012-2014)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:mks:UG"
+      }
+    },
+    {
+      "code": "PV",
+      "marketingName": "Confidential White",
+      "finish": "solid",
+      "lab": {
+        "L": 93.68,
+        "a": -0.89,
+        "b": 4.59,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #EFEDE4 (PaintRef hex, OEM=Lincoln, code=PV (models=MKZ; year=2016)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:mkz:PV"
+      }
+    },
+    {
+      "code": "UH",
+      "marketingName": "Black",
+      "finish": "solid",
+      "lab": {
+        "L": 0,
+        "a": 0,
+        "b": 0,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #000000 (PaintRef hex, OEM=Lincoln, code=UH (models=MKS, MKT, MKX, MKZ, Navigator; years=2009-2011)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:mks:UH"
+      }
+    },
+    {
+      "code": "DI",
+      "marketingName": "Dark Ink Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 17.24,
+        "a": 2.19,
+        "b": -9.57,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #262A38 (PaintRef hex, OEM=Lincoln, code=DI (models=MKX, MKZ; years=2008-2009)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:mkx:DI"
+      }
+    },
+    {
+      "code": "LS",
+      "marketingName": "Light Ice Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 75.65,
+        "a": -7.71,
+        "b": -3.76,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #A7BFC1 (PaintRef hex, OEM=Lincoln, code=LS (models=MKX, Town Car; years=2005-2010)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:mkx:LS"
+      }
+    },
+    {
+      "code": "UN",
+      "marketingName": "Steel Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 41.84,
+        "a": -9.72,
+        "b": -8.94,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #466871 (PaintRef hex, OEM=Lincoln, code=UN (models=MKZ, Navigator; years=2010-2012)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:mkz:UN"
+      }
+    },
+    {
+      "code": "DX",
+      "marketingName": "Dark Blue Pearl",
+      "finish": "solid",
+      "lab": {
+        "L": 19.96,
+        "a": 4.88,
+        "b": -15.64,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #2A2F47 (PaintRef hex, OEM=Lincoln, code=DX (models=MKS, MKT, MKX, Navigator, Town Car; years=2010-2012)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:mks:DX"
+      }
+    },
+    {
+      "code": "L6",
+      "marketingName": "Kona Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 17.45,
+        "a": 12.43,
+        "b": -28.45,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #202754 (PaintRef hex, OEM=Lincoln, code=L6 (models=MKS, MKT, MKX, MKZ; years=2011-2012)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:mks:L6"
+      }
+    },
+    {
+      "code": "BT",
+      "marketingName": "Dark Side",
+      "finish": "solid",
+      "lab": {
+        "L": 28.13,
+        "a": -5.01,
+        "b": -5.1,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #35454A (PaintRef hex, OEM=Lincoln, code=BT (models=MKZ; year=2014)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:mkz:BT"
+      }
+    },
+    {
+      "code": "BT",
+      "marketingName": "Java",
+      "finish": "solid",
+      "lab": {
+        "L": 28.13,
+        "a": -5.01,
+        "b": -5.1,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #35454A (PaintRef hex, OEM=Lincoln, code=BT (models=Navigator; year=2015)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:navigator:BT"
+      }
+    },
+    {
+      "code": "HT",
+      "marketingName": "Cinnamon",
+      "finish": "solid",
+      "lab": {
+        "L": 16.74,
+        "a": 19.56,
+        "b": 7.12,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #451D20 (PaintRef hex, OEM=Lincoln, code=HT (models=MKS, MKT, MKX, MKZ; years=2009-2012)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:mks:HT"
+      }
+    },
+    {
+      "code": "UP",
+      "marketingName": "Gold Leaf",
+      "finish": "solid",
+      "lab": {
+        "L": 86.21,
+        "a": -1.71,
+        "b": 9.36,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #DCD8C6 (PaintRef hex, OEM=Lincoln, code=UP (models=MKS, MKT, MKX; years=2010-2011)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:mks:UP"
+      }
+    },
+    {
+      "code": "JY",
+      "marketingName": "Ginger Ale",
+      "finish": "solid",
+      "lab": {
+        "L": 67.03,
+        "a": -2.38,
+        "b": 6.75,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #A4A497 (PaintRef hex, OEM=Lincoln, code=JY (models=MKT, MKZ; years=2013-2014)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:mkt:JY"
+      }
+    },
+    {
+      "code": "J1",
+      "marketingName": "Kodiak Brown",
+      "finish": "solid",
+      "lab": {
+        "L": 33.85,
+        "a": 13.22,
+        "b": 1.92,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #65484D (PaintRef hex, OEM=Lincoln, code=J1 (models=MKS, MKT, MKX, Navigator; years=2013-2015)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:mks:J1"
+      }
+    },
+    {
+      "code": "BK",
+      "marketingName": "Platinum Dune",
+      "finish": "solid",
+      "lab": {
+        "L": 79.03,
+        "a": -0.8,
+        "b": 17.12,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #CFC3A4 (PaintRef hex, OEM=Lincoln, code=BK (models=MKS, MKT, MKX, MKZ; years=2014-2016)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:mks:BK"
+      }
+    },
+    {
+      "code": "H9",
+      "marketingName": "Bronze Fire",
+      "finish": "solid",
+      "lab": {
+        "L": 29.19,
+        "a": 22.03,
+        "b": 19.94,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #6B3627 (PaintRef hex, OEM=Lincoln, code=H9 (models=MKS, MKT, MKX, MKZ, Navigator; years=2015-2016)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:mks:H9"
+      }
+    },
+    {
+      "code": "H5",
+      "marketingName": "Java",
+      "finish": "solid",
+      "lab": {
+        "L": 33.5,
+        "a": 8.46,
+        "b": 3.22,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #5E4A4A (PaintRef hex, OEM=Lincoln, code=H5 (models=Navigator; year=2016)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:navigator:H5"
+      }
+    },
+    {
+      "code": "UI",
+      "marketingName": "Brilliant Silver",
+      "finish": "solid",
+      "lab": {
+        "L": 66.99,
+        "a": 0,
+        "b": 0,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #A3A3A3 (PaintRef hex, OEM=Lincoln, code=UI (models=MKZ; years=2009-2010)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:mkz:UI"
+      }
+    },
+    {
+      "code": "HG",
+      "marketingName": "Smokestone",
+      "finish": "solid",
+      "lab": {
+        "L": 84.22,
+        "a": -0.02,
+        "b": 1.11,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #D3D2D0 (PaintRef hex, OEM=Lincoln, code=HG (models=MKZ; years=2009-2010)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:mkz:HG"
+      }
+    },
+    {
+      "code": "Z6",
+      "marketingName": "Silver Diamond Pearl",
+      "finish": "solid",
+      "lab": {
+        "L": 77.75,
+        "a": -2.17,
+        "b": -8.14,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #B4C2CF (PaintRef hex, OEM=Lincoln, code=Z6 (models=MKS; years=2011-2013)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:mks:Z6"
+      }
+    },
+    {
+      "code": "UJ",
+      "marketingName": "Sterling Gray",
+      "finish": "solid",
+      "lab": {
+        "L": 33.24,
+        "a": 0.44,
+        "b": -1.18,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #4E4E50 (PaintRef hex, OEM=Lincoln, code=UJ (models=MKS, MKT, MKX, MKZ, Navigator; years=2009-2014)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:mks:UJ"
+      }
+    },
+    {
+      "code": "JZ",
+      "marketingName": "Crystal Champagne",
+      "finish": "solid",
+      "lab": {
+        "L": 88.98,
+        "a": -1.41,
+        "b": 3.91,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #E0E0D8 (PaintRef hex, OEM=Lincoln, code=JZ (models=MKS, MKT, MKX, MKZ; years=2012-2014)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:mks:JZ"
+      }
+    },
+    {
+      "code": "UL",
+      "marketingName": "Atlantis Green",
+      "finish": "solid",
+      "lab": {
+        "L": 46.79,
+        "a": -10.25,
+        "b": -0.25,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #5B746F (PaintRef hex, OEM=Lincoln, code=UL (models=MKZ; year=2010)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:mkz:UL"
+      }
+    },
+    {
+      "code": "HN",
+      "marketingName": "Guard",
+      "finish": "solid",
+      "lab": {
+        "L": 29.21,
+        "a": -5.08,
+        "b": 3.71,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #3F473F (PaintRef hex, OEM=Lincoln, code=HN (models=MKT, MKZ; years=2015-2016)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:mkt:HN"
+      }
+    },
+    {
+      "code": "JV",
+      "marketingName": "Sangria Red",
+      "finish": "solid",
+      "lab": {
+        "L": 23.61,
+        "a": 40.42,
+        "b": 17.75,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #701220 (PaintRef hex, OEM=Lincoln, code=JV (models=MKZ, Navigator; years=2009-2010)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:mkz:JV"
+      }
+    },
+    {
+      "code": "U6",
+      "marketingName": "Red Candy",
+      "finish": "solid",
+      "lab": {
+        "L": 28.16,
+        "a": 48.21,
+        "b": 21.08,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #860E25 (PaintRef hex, OEM=Lincoln, code=U6 (models=MKS, MKT, MKX, MKZ; years=2010-2012)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:mks:U6"
+      }
+    },
+    {
+      "code": "FQ",
+      "marketingName": "Bordeaux Reserve",
+      "finish": "solid",
+      "lab": {
+        "L": 19.29,
+        "a": 20.51,
+        "b": 3.08,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #4B222B (PaintRef hex, OEM=Lincoln, code=FQ (models=MKS, MKT, MKX, MKZ; years=2011-2013)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:mks:FQ"
+      }
+    },
+    {
+      "code": "RZ",
+      "marketingName": "Candy Red",
+      "finish": "solid",
+      "lab": {
+        "L": 35.77,
+        "a": 46.39,
+        "b": 38.86,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #9D2A17 (PaintRef hex, OEM=Lincoln, code=RZ (models=MKZ; year=2012)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:mkz:RZ"
+      }
+    },
+    {
+      "code": "WS",
+      "marketingName": "White Suede",
+      "finish": "solid",
+      "lab": {
+        "L": 84.98,
+        "a": -4.01,
+        "b": 8.04,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #D3D6C5 (PaintRef hex, OEM=Lincoln, code=WS (models=MKS, MKX, MKZ, Navigator; years=2008-2010)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:mks:WS"
+      }
+    },
+    {
+      "code": "LC",
+      "marketingName": "Allure Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 33.9,
+        "a": -10.83,
+        "b": -5.47,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #355558 (PaintRef hex, OEM=Lincoln, code=LC (models=MKX; year=2016)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:mkx:LC"
+      }
+    },
+    {
+      "code": "HS",
+      "marketingName": "Earth",
+      "finish": "solid",
+      "lab": {
+        "L": 41.7,
+        "a": 7,
+        "b": 8.36,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #735E55 (PaintRef hex, OEM=Lincoln, code=HS (models=MKT, MKX, Navigator; years=2008-2012)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:mkt:HS"
+      }
+    },
+    {
+      "code": "UQ",
+      "marketingName": "Wine Red",
+      "finish": "solid",
+      "lab": {
+        "L": 19.8,
+        "a": 34.89,
+        "b": 9.27,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #5E1224 (PaintRef hex, OEM=Lincoln, code=UQ (models=MKT; year=2010)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:mkt:UQ"
+      }
+    },
+    {
+      "code": "HQ",
+      "marketingName": "Mediterranean Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 19.01,
+        "a": -4.68,
+        "b": -12.46,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #173140 (PaintRef hex, OEM=Lincoln, code=HQ (models=MKX; year=2011)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:mkx:HQ"
+      }
+    },
+    {
+      "code": "ZY",
+      "marketingName": "Vapor Silver",
+      "finish": "solid",
+      "lab": {
+        "L": 69.24,
+        "a": 0,
+        "b": 0,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #A9A9A9 (PaintRef hex, OEM=Lincoln, code=ZY (models=Navigator; year=2008)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:navigator:ZY"
+      }
+    },
+    {
+      "code": "UF",
+      "marketingName": "Chrome Quartz",
+      "finish": "solid",
+      "lab": {
+        "L": 39.68,
+        "a": 1.3,
+        "b": -3.42,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #5D5D63 (PaintRef hex, OEM=Lincoln, code=UF (models=MKX; year=2016)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:mkx:UF"
+      }
+    },
+    {
+      "code": "GW",
+      "marketingName": "Orange Crush",
+      "finish": "solid",
+      "lab": {
+        "L": 38.14,
+        "a": 29,
+        "b": 24.27,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #8D4534 (PaintRef hex, OEM=Lincoln, code=GW (models=MKX; year=2008)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:mkx:GW"
+      }
+    },
+    {
+      "code": "D7",
+      "marketingName": "Sunset",
+      "finish": "solid",
+      "lab": {
+        "L": 21.92,
+        "a": 44.13,
+        "b": 24.46,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #700013 (PaintRef hex, OEM=Lincoln, code=D7 (models=MKX; year=2015)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:mkx:D7"
+      }
+    },
+    {
+      "code": "U1",
+      "marketingName": "Sport Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 33.61,
+        "a": -1.17,
+        "b": -29.14,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #20527D (PaintRef hex, OEM=Lincoln, code=U1 (models=MKZ; year=2009)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:mkz:U1"
+      }
+    },
+    {
+      "code": "YQ",
+      "marketingName": "Ice Storm",
+      "finish": "solid",
+      "lab": {
+        "L": 78.56,
+        "a": -5.76,
+        "b": -4.8,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #B2C6CB (PaintRef hex, OEM=Lincoln, code=YQ (models=MKZ; years=2013-2014)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:mkz:YQ"
+      }
+    },
+    {
+      "code": "LB",
+      "marketingName": "Empire Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 16.66,
+        "a": 3.18,
+        "b": -5.52,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #2A2831 (PaintRef hex, OEM=Lincoln, code=LB (models=MKZ; year=2020)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:mkz:LB"
+      }
+    },
+    {
+      "code": "P6",
+      "marketingName": "Moss Green",
+      "finish": "solid",
+      "lab": {
+        "L": 53.87,
+        "a": -4.54,
+        "b": 2.1,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #7A837D (PaintRef hex, OEM=Lincoln, code=P6 (models=MKZ; years=2008-2009)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:mkz:P6"
+      }
+    },
+    {
+      "code": "FX",
+      "marketingName": "Merlot",
+      "finish": "solid",
+      "lab": {
+        "L": 28.56,
+        "a": 34.47,
+        "b": 12.37,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #762932 (PaintRef hex, OEM=Lincoln, code=FX (models=Navigator, Zephyr; years=2004-2007)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:navigator:FX"
+      }
+    },
+    {
+      "code": "E2",
+      "marketingName": "Magma Red",
+      "finish": "solid",
+      "lab": {
+        "L": 10.97,
+        "a": 20.73,
+        "b": 14.04,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #3A0F07 (PaintRef hex, OEM=Lincoln, code=E2 (models=MKZ; year=2020)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:mkz:E2"
+      }
+    },
+    {
+      "code": "CV",
+      "marketingName": "Blue Panther",
+      "finish": "solid",
+      "lab": {
+        "L": 23.56,
+        "a": 0.99,
+        "b": -6.01,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #353841 (PaintRef hex, OEM=Lincoln, code=CV (models=Nautilus; year=2024)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:nautilus:CV"
+      }
+    },
+    {
+      "code": "K3",
+      "marketingName": "Ochre Brown",
+      "finish": "solid",
+      "lab": {
+        "L": 37.86,
+        "a": 26.69,
+        "b": 31.99,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #8B4626 (PaintRef hex, OEM=Lincoln, code=K3 (models=Nautilus; years=2019-2021)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:nautilus:K3"
+      }
+    },
+    {
+      "code": "LG",
+      "marketingName": "Lustrous Gray",
+      "finish": "solid",
+      "lab": {
+        "L": 42.82,
+        "a": -2,
+        "b": 1.85,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #636662 (PaintRef hex, OEM=Lincoln, code=LG (models=Nautilus; years=2024-2025)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:nautilus:LG"
+      }
+    },
+    {
+      "code": "UD",
+      "marketingName": "Black",
+      "finish": "solid",
+      "lab": {
+        "L": 0,
+        "a": 0,
+        "b": 0,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #000000 (PaintRef hex, OEM=Lincoln, code=UD (models=Navigator; year=2012)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:navigator:UD"
+      }
+    },
+    {
+      "code": "N1",
+      "marketingName": "Blue Jeans",
+      "finish": "solid",
+      "lab": {
+        "L": 26.39,
+        "a": 0.54,
+        "b": -12.32,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #343F51 (PaintRef hex, OEM=Lincoln, code=N1 (models=Navigator; years=2013-2014)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:navigator:N1"
+      }
+    },
+    {
+      "code": "EB",
+      "marketingName": "Chroma Crystal Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 72.35,
+        "a": -3.64,
+        "b": -30.15,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #84B6E8 (PaintRef hex, OEM=Lincoln, code=EB (models=Navigator; years=2018-2021)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:navigator:EB"
+      }
+    },
+    {
+      "code": "HX",
+      "marketingName": "Signature Navy",
+      "finish": "solid",
+      "lab": {
+        "L": 21.56,
+        "a": 1.61,
+        "b": -25.26,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #123559 (PaintRef hex, OEM=Lincoln, code=HX (models=Navigator; year=2021)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:navigator:HX"
+      }
+    },
+    {
+      "code": "C2",
+      "marketingName": "Gold Ash",
+      "finish": "solid",
+      "lab": {
+        "L": 53.99,
+        "a": 1.51,
+        "b": 2.97,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #86807C (PaintRef hex, OEM=Lincoln, code=C2 (models=Navigator; year=2003)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:navigator:C2"
+      }
+    },
+    {
+      "code": "LQ",
+      "marketingName": "Pale Adobe",
+      "finish": "solid",
+      "lab": {
+        "L": 72.98,
+        "a": -1.6,
+        "b": 15.98,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #BCB396 (PaintRef hex, OEM=Lincoln, code=LQ (models=Navigator; year=2014)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:navigator:LQ"
+      }
+    },
+    {
+      "code": "H5",
+      "marketingName": "Riviera Sands Light Brown",
+      "finish": "solid",
+      "lab": {
+        "L": 33.5,
+        "a": 8.46,
+        "b": 3.22,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #5E4A4A (PaintRef hex, OEM=Lincoln, code=H5 (models=Navigator; year=2017)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:navigator:H5"
+      }
+    },
+    {
+      "code": "KZ",
+      "marketingName": "Chroma Molten Gold",
+      "finish": "solid",
+      "lab": {
+        "L": 64.83,
+        "a": -1.02,
+        "b": 13.09,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #A59D86 (PaintRef hex, OEM=Lincoln, code=KZ (models=Navigator; years=2018-2021)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:navigator:KZ"
+      }
+    },
+    {
+      "code": "LT",
+      "marketingName": "Sunrise Copper",
+      "finish": "solid",
+      "lab": {
+        "L": 42.95,
+        "a": 10.23,
+        "b": 10.26,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #7C5F55 (PaintRef hex, OEM=Lincoln, code=LT (models=Navigator; year=2025)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:navigator:LT"
+      }
+    },
+    {
+      "code": "T3",
+      "marketingName": "Satellite Silver",
+      "finish": "solid",
+      "lab": {
+        "L": 64.43,
+        "a": -3.25,
+        "b": 0.05,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #969E9C (PaintRef hex, OEM=Lincoln, code=T3 (models=Navigator, Town Car; years=2005-2007)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:navigator:T3"
+      }
+    },
+    {
+      "code": "T9",
+      "marketingName": "Monterey",
+      "finish": "solid",
+      "lab": {
+        "L": 28.87,
+        "a": -6.21,
+        "b": -1.38,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #384746 (PaintRef hex, OEM=Lincoln, code=T9 (models=Navigator; year=2009)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:navigator:T9"
+      }
+    },
+    {
+      "code": "ZY",
+      "marketingName": "Vapor",
+      "finish": "solid",
+      "lab": {
+        "L": 69.24,
+        "a": 0,
+        "b": 0,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #A9A9A9 (PaintRef hex, OEM=Lincoln, code=ZY (models=Navigator; year=2009)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:navigator:ZY"
+      }
+    },
+    {
+      "code": "BN",
+      "marketingName": "Silver Jade",
+      "finish": "solid",
+      "lab": {
+        "L": 56.13,
+        "a": -5.82,
+        "b": -5.61,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #768A90 (PaintRef hex, OEM=Lincoln, code=BN (models=Navigator; year=2019)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:navigator:BN"
+      }
+    },
+    {
+      "code": "BN",
+      "marketingName": "Silver Spruce",
+      "finish": "solid",
+      "lab": {
+        "L": 56.13,
+        "a": -5.82,
+        "b": -5.61,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #768A90 (PaintRef hex, OEM=Lincoln, code=BN (models=Navigator; year=2020)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:navigator:BN"
+      }
+    },
+    {
+      "code": "HY",
+      "marketingName": "Starlight Gray",
+      "finish": "solid",
+      "lab": {
+        "L": 18.91,
+        "a": -2.08,
+        "b": -2.17,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #292F31 (PaintRef hex, OEM=Lincoln, code=HY (models=Navigator; years=2022-2025)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:navigator:HY"
+      }
+    },
+    {
+      "code": "R7",
+      "marketingName": "Gray Mist",
+      "finish": "solid",
+      "lab": {
+        "L": 68.6,
+        "a": -0.46,
+        "b": -5.99,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #A1A8B2 (PaintRef hex, OEM=Lincoln, code=R7 (models=Navigator; year=2025)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:navigator:R7"
+      }
+    },
+    {
+      "code": "W6",
+      "marketingName": "Green Gem",
+      "finish": "solid",
+      "lab": {
+        "L": 16.04,
+        "a": -7.97,
+        "b": 1.88,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #1C2B25 (PaintRef hex, OEM=Lincoln, code=W6 (models=Navigator; year=2021)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:navigator:W6"
+      }
+    },
+    {
+      "code": "H7",
+      "marketingName": "Bronze Fire",
+      "finish": "solid",
+      "lab": {
+        "L": 33.44,
+        "a": 33.64,
+        "b": 27.94,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #863524 (PaintRef hex, OEM=Lincoln, code=H7 (models=Navigator; year=2016)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:navigator:H7"
+      }
+    },
+    {
+      "code": "JL",
+      "marketingName": "Dark Toreador Red",
+      "finish": "solid",
+      "lab": {
+        "L": 21.56,
+        "a": 17.74,
+        "b": 5,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #4E292D (PaintRef hex, OEM=Lincoln, code=JL (models=Navigator; year=2000)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:navigator:JL"
+      }
+    },
+    {
+      "code": "UK",
+      "marketingName": "Royal Red",
+      "finish": "solid",
+      "lab": {
+        "L": 20.98,
+        "a": 25.63,
+        "b": 5.76,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #56212B (PaintRef hex, OEM=Lincoln, code=UK (models=Navigator; years=2010-2012)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:navigator:UK"
+      }
+    },
+    {
+      "code": "SP",
+      "marketingName": "Medium Steel Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 21.46,
+        "a": 4.26,
+        "b": -9.21,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #333241 (PaintRef hex, OEM=Lincoln, code=SP (models=Town Car; years=2003-2004)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:town-car:SP"
+      }
+    },
+    {
+      "code": "FZ",
+      "marketingName": "Dark Cordovan",
+      "finish": "solid",
+      "lab": {
+        "L": 20.35,
+        "a": 34.79,
+        "b": 17.77,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #611319 (PaintRef hex, OEM=Lincoln, code=FZ (models=Town Car; years=1998-1999)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:town-car:FZ"
+      }
+    },
+    {
+      "code": "Black-1939",
+      "marketingName": "Black",
+      "finish": "solid",
+      "lab": {
+        "L": 0,
+        "a": 0,
+        "b": 0,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #000000 (PaintRef hex, OEM=Lincoln, code=Black-1939 (models=Zephyr; year=1939)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:zephyr:Black-1939"
+      }
+    },
+    {
+      "code": "Black-1940",
+      "marketingName": "Black",
+      "finish": "solid",
+      "lab": {
+        "L": 0,
+        "a": 0,
+        "b": 0,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #000000 (PaintRef hex, OEM=Lincoln, code=Black-1940 (models=Zephyr; year=1940)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:zephyr:Black-1940"
+      }
+    },
+    {
+      "code": "AvonBlue-1938",
+      "marketingName": "Avon Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 48.94,
+        "a": -7.28,
+        "b": -0.58,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #667875 (PaintRef hex, OEM=Lincoln, code=AvonBlue-1938 (models=Zephyr; year=1938)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:zephyr:AvonBlue-1938"
+      }
+    },
+    {
+      "code": "ZephyrBlue-1938",
+      "marketingName": "Zephyr Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 19.18,
+        "a": 0.31,
+        "b": -9.36,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #272F3C (PaintRef hex, OEM=Lincoln, code=ZephyrBlue-1938 (models=Zephyr; year=1938)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:zephyr:ZephyrBlue-1938"
+      }
+    },
+    {
+      "code": "ZephyrBlue-1939",
+      "marketingName": "Zephyr Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 19.18,
+        "a": 0.31,
+        "b": -9.36,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #272F3C (PaintRef hex, OEM=Lincoln, code=ZephyrBlue-1939 (models=Zephyr; year=1939)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:zephyr:ZephyrBlue-1939"
+      }
+    },
+    {
+      "code": "CapriBlue-1940",
+      "marketingName": "Capri Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 46.41,
+        "a": 0.91,
+        "b": -19.88,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #5B6F8F (PaintRef hex, OEM=Lincoln, code=CapriBlue-1940 (models=Zephyr; year=1940)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:zephyr:CapriBlue-1940"
+      }
+    },
+    {
+      "code": "M1308",
+      "marketingName": "Zephyr Blue",
+      "finish": "solid",
+      "lab": {
+        "L": 19.18,
+        "a": 0.31,
+        "b": -9.36,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #272F3C (PaintRef hex, OEM=Lincoln, code=M1308 (models=Zephyr; year=1940)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:zephyr:M1308"
+      }
+    },
+    {
+      "code": "WrenTan-1938",
+      "marketingName": "Wren Tan",
+      "finish": "solid",
+      "lab": {
+        "L": 34.18,
+        "a": 10.38,
+        "b": 10.63,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #664A40 (PaintRef hex, OEM=Lincoln, code=WrenTan-1938 (models=Zephyr; year=1938)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:zephyr:WrenTan-1938"
+      }
+    },
+    {
+      "code": "TropicalSand-1940",
+      "marketingName": "Tropical Sand",
+      "finish": "solid",
+      "lab": {
+        "L": 52.27,
+        "a": 3.84,
+        "b": 8.13,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #897A6F (PaintRef hex, OEM=Lincoln, code=TropicalSand-1940 (models=Zephyr; year=1940)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:zephyr:TropicalSand-1940"
+      }
+    },
+    {
+      "code": "CannonSmoke-1938",
+      "marketingName": "Cannon Smoke",
+      "finish": "solid",
+      "lab": {
+        "L": 27.55,
+        "a": 3.87,
+        "b": 1.42,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #483F3F (PaintRef hex, OEM=Lincoln, code=CannonSmoke-1938 (models=Zephyr; year=1938)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:zephyr:CannonSmoke-1938"
+      }
+    },
+    {
+      "code": "DoveGray-1938",
+      "marketingName": "Dove Gray",
+      "finish": "solid",
+      "lab": {
+        "L": 55.67,
+        "a": -0.81,
+        "b": 12.96,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #8D856F (PaintRef hex, OEM=Lincoln, code=DoveGray-1938 (models=Zephyr; year=1938)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:zephyr:DoveGray-1938"
+      }
+    },
+    {
+      "code": "DoveGray-1939",
+      "marketingName": "Dove Gray",
+      "finish": "solid",
+      "lab": {
+        "L": 55.67,
+        "a": -0.81,
+        "b": 12.96,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #8D856F (PaintRef hex, OEM=Lincoln, code=DoveGray-1939 (models=Zephyr; year=1939)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:zephyr:DoveGray-1939"
+      }
+    },
+    {
+      "code": "EagleGray-1939",
+      "marketingName": "Eagle Gray",
+      "finish": "solid",
+      "lab": {
+        "L": 37.29,
+        "a": 1.41,
+        "b": -0.15,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #5A5758 (PaintRef hex, OEM=Lincoln, code=EagleGray-1939 (models=Zephyr; year=1939)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:zephyr:EagleGray-1939"
+      }
+    },
+    {
+      "code": "DoveGray-1940",
+      "marketingName": "Dove Gray",
+      "finish": "solid",
+      "lab": {
+        "L": 55.67,
+        "a": -0.81,
+        "b": 12.96,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #8D856F (PaintRef hex, OEM=Lincoln, code=DoveGray-1940 (models=Zephyr; year=1940)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:zephyr:DoveGray-1940"
+      }
+    },
+    {
+      "code": "EagleGray-1940",
+      "marketingName": "Eagle Gray",
+      "finish": "solid",
+      "lab": {
+        "L": 37.29,
+        "a": 1.41,
+        "b": -0.15,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #5A5758 (PaintRef hex, OEM=Lincoln, code=EagleGray-1940 (models=Zephyr; year=1940)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:zephyr:EagleGray-1940"
+      }
+    },
+    {
+      "code": "T8",
+      "marketingName": "Tungsten Gray",
+      "finish": "solid",
+      "lab": {
+        "L": 51.15,
+        "a": 2.68,
+        "b": -8.94,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #777989 (PaintRef hex, OEM=Lincoln, code=T8 (models=Zephyr; year=2006)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:zephyr:T8"
+      }
+    },
+    {
+      "code": "CoachMaroon-1938",
+      "marketingName": "Coach Maroon",
+      "finish": "solid",
+      "lab": {
+        "L": 14.5,
+        "a": 17.07,
+        "b": 11.71,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #3E1A15 (PaintRef hex, OEM=Lincoln, code=CoachMaroon-1938 (models=Zephyr; year=1938)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:zephyr:CoachMaroon-1938"
+      }
+    },
+    {
+      "code": "GarnetMaroon-1938",
+      "marketingName": "Garnet Maroon",
+      "finish": "solid",
+      "lab": {
+        "L": 23.91,
+        "a": 26.14,
+        "b": 8.7,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #5F272D (PaintRef hex, OEM=Lincoln, code=GarnetMaroon-1938 (models=Zephyr; year=1938)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:zephyr:GarnetMaroon-1938"
+      }
+    },
+    {
+      "code": "BurgundyRed-1939",
+      "marketingName": "Burgundy Red",
+      "finish": "solid",
+      "lab": {
+        "L": 21.6,
+        "a": 27.73,
+        "b": 9.51,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #5B2027 (PaintRef hex, OEM=Lincoln, code=BurgundyRed-1939 (models=Zephyr; year=1939)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:zephyr:BurgundyRed-1939"
+      }
+    },
+    {
+      "code": "ZephyrCoachMaroon-1939",
+      "marketingName": "Zephyr Coach Maroon",
+      "finish": "solid",
+      "lab": {
+        "L": 14.5,
+        "a": 17.07,
+        "b": 11.71,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #3E1A15 (PaintRef hex, OEM=Lincoln, code=ZephyrCoachMaroon-1939 (models=Zephyr; year=1939)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:zephyr:ZephyrCoachMaroon-1939"
+      }
+    },
+    {
+      "code": "BurgundyRed-1940",
+      "marketingName": "Burgundy Red",
+      "finish": "solid",
+      "lab": {
+        "L": 21.6,
+        "a": 27.73,
+        "b": 9.51,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #5B2027 (PaintRef hex, OEM=Lincoln, code=BurgundyRed-1940 (models=Zephyr; year=1940)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:zephyr:BurgundyRed-1940"
+      }
+    },
+    {
+      "code": "ZephyrCoachMaroon-1940",
+      "marketingName": "Zephyr Coach Maroon",
+      "finish": "solid",
+      "lab": {
+        "L": 14.5,
+        "a": 17.07,
+        "b": 11.71,
+        "illuminant": "D65",
+        "observer": "2deg",
+        "source": "paintref_hex",
+        "confidence": "derived",
+        "recordedAt": "2026-04-21",
+        "notes": "Derived from #3E1A15 (PaintRef hex, OEM=Lincoln, code=ZephyrCoachMaroon-1940 (models=Zephyr; year=1940)). Replace with spectro LAB before production claims.",
+        "provenanceId": "paintref:Lincoln:zephyr:ZephyrCoachMaroon-1940"
+      }
+    }
+  ]
+}
