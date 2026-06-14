@@ -12,7 +12,7 @@ scripts/      CLI scripts for data collection, seeding, validation
 web/          Vite web app (src/main.ts is the entry point)
 data/oem/     OEM paint scopes — one folder per make+source combination
 data/opi/     OPI nail polish catalog
-data/sources/ Raw downloaded source data (ACL JPEGs, PaintRef HTML cache, vPIC JSON)
+data/sources/ Cached source data for the seeders that remain (vPIC JSON; Reddit gallery capture)
 schemas/      JSON Schema for all data files
 docs/         Project documentation
 ```
@@ -53,25 +53,24 @@ Almost all current data is `derived`. The match-tier cap is enforced in `web/src
 | Script | Purpose |
 |--------|---------|
 | `validate-data.ts` | Validate all scopes against JSON Schema. Run after any data change. |
-| `fetch-paintref-all.ts` | Batch-fetch OEM paint data from paintref.com |
-| `acl-tesseract-batch.ts` | OCR pipeline for autocolorlibrary.com chip images |
-| `acl-sanitize-autocolorlibrary-scopes.ts` | Fix garbled OCR names in -autocolorlibrary-v1 scopes |
-| `import-autocolorlibrary-labels.ts` | Import ACL label JSON into OEM scopes |
-| `merge-oem-scopes.ts` | Merge multiple source scopes into one canonical scope |
-| `seed-vpic-all-oems.ts` | Populate vPIC model-catalog stubs for all major OEMs |
 | `demo-match.ts` | Smoke test the color matching pipeline |
 | `check-delta-e.ts` | Run ΔE calculations across the paint catalog |
+| `seed-opi-catalog.ts` | Build/refresh the OPI catalog snapshot |
+| `sync-opi-from-opicom.ts` | Sync OPI shades from opi.com into the catalog |
 | `import-kaggle-csv.ts` | Import paint data from CSV (supports direct LAB columns → `spec` confidence) |
+| `merge-oem-scopes.ts` | Merge multiple source scopes into one canonical scope |
+| `seed-vpic-all-oems.ts` | Populate vPIC model-catalog stubs for all major OEMs |
 
 Run any script: `npx tsx scripts/<name>.ts [flags]`
 
 > Scripts are dev-only tooling, run on demand via `tsx`, and are **not**
-> part of the production build (`npm run build` compiles `src/` only). The
-> autocolorlibrary / paintref scrapers (`acl:tesseract-batch`,
-> `fetch:paintref*`) additionally require `sharp` and `undici`, which are
-> intentionally not declared as dependencies so the web deploy stays lean —
-> install them ad hoc when running those scrapers:
-> `npm i -D sharp undici`.
+> part of the production build (`npm run build` compiles `src/` only).
+>
+> The paintref.com / autocolorlibrary.com scrapers (and their raw source
+> caches) have been removed — paintref's CGI is permanently down and the
+> existing `-paintref-v1` / `-autocolorlibrary-v1` scopes under `data/oem/`
+> are already derived and self-contained. To add data now, use a
+> `-curated-v1` scope or `import-kaggle-csv.ts` (see below).
 
 ---
 
@@ -132,12 +131,6 @@ npm run preview:web  # preview production build
 ```
 
 Deploy: push to `main` → GitHub Actions auto-builds and publishes to GitHub Pages.
-
----
-
-## PaintRef status (as of 2026-04-19)
-
-The `colordata.cgi` and `colorcodedisplay.cgi` endpoints return **HTTP 503/508** consistently. Static-shtml cache exists for 19 OEMs under `data/sources/paintref/static-shtml/`. Use `--static-only` flag when running `fetch-paintref-all.ts` to use the cache instead of live requests.
 
 ---
 

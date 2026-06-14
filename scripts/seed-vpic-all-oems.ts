@@ -29,7 +29,21 @@ import {
   type ScopeMeta,
   writeScope
 } from "../src/pipeline/seedHelpers.js";
-import { PAINTREF_OEMS } from "./lib/paintref.js";
+
+/**
+ * Canonical OEM list. Previously sourced from the (now-removed) paintref
+ * scraper lib; inlined here so vPIC seeding has no scraper dependency.
+ */
+const PAINTREF_OEMS = [
+  "Acura", "Alfa Romeo", "Alpina", "Aston Martin", "Audi", "Bentley", "BMW",
+  "Bugatti", "Buick", "Cadillac", "Chevrolet", "Chrysler", "Dodge", "Ferrari",
+  "Fiat", "Ford", "Genesis", "GMC", "Honda", "Hyundai", "Infiniti", "Jaguar",
+  "Jeep", "Kia", "Lamborghini", "Land Rover", "Lexus", "Lincoln", "Lotus",
+  "Lucid", "Maserati", "Mazda", "McLaren", "Mercedes", "Mercury", "MINI",
+  "Mitsubishi", "Nissan", "Pontiac", "Polestar", "Porsche", "Ram", "Rivian",
+  "Rolls-Royce", "Saab", "Saturn", "Scion", "Smart", "Subaru", "Suzuki",
+  "Tesla", "Toyota", "Volkswagen", "Volvo"
+] as const;
 
 function parseArgs(argv: string[]): Record<string, string> {
   const out: Record<string, string> = {};

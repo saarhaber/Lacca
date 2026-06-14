@@ -5,13 +5,3 @@ logs/
 .DS_Store
 .cursor/
 .claude/
-
-# Source data: large binaries regenerable via fetch scripts
-data/sources/autocolorlibrary/pages/
-data/sources/paintref/chipimages/
-data/sources/paintref/chips/
-data/sources/paintref/raw/
-data/sources/wayback-paintref/
-
-# PaintRef fetch cache: 404 tombstones (regenerable; not source data)
-data/sources/paintref/static-shtml/**/*.html.404
