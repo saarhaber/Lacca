@@ -105,12 +105,13 @@ if (Math.abs(routed - de00Weighted) > 1e-9) {
   console.log("OK  deltaEFnForVersion(deltaE00) applies 2:1:1 weights");
 }
 
-// Formula-specific tier cutoffs: ΔE=1.5 should be "explore" on CIE76 but
-// "distant" on CIEDE2000 (tighter scale). This guards against accidentally
-// reverting to shared thresholds.
+// Formula-specific tier cutoffs: the same ΔE must bucket differently per
+// formula (CIE76 runs larger than automotive-weighted CIEDE2000). At ΔE=1.5
+// that is "perfect" on CIE76 but "close" on CIEDE2000. Guards against
+// accidentally reverting to shared thresholds.
 const tier76 = tierFromDeltaE(1.5, "deltaE76");
 const tier00 = tierFromDeltaE(1.5, "deltaE00");
-if (tier76 !== "close" || tier00 !== "explore") {
+if (tier76 !== "perfect" || tier00 !== "close") {
   console.log(
     `FAIL  tierFromDeltaE version split: deltaE76(1.5)=${tier76}, deltaE00(1.5)=${tier00}`
   );

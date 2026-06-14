@@ -55,13 +55,22 @@ Tier cutoffs live in `TIER_CUTOFFS` in `src/color/deltaE.ts`:
 
 | Tier      | deltaE76 | deltaE00 (2:1:1) |
 |-----------|----------|------------------|
-| perfect   | < 1.0    | < 0.5            |
-| close     | < 2.0    | < 1.0            |
-| explore   | < 4.0    | < 2.0            |
-| distant   | ≥ 4.0    | ≥ 2.0            |
+| perfect   | < 2.5    | < 1.5            |
+| close     | < 5.0    | < 3.0            |
+| explore   | < 8.0    | < 5.0            |
+| distant   | ≥ 8.0    | ≥ 5.0            |
 
-CIEDE2000 cutoffs are set at roughly half the CIE76 values because the
-formula (plus 2:1:1 weighting) compresses the scale. **These are provisional.**
+These are **calibrated against the live corpus** (≈6,200 OEM paints vs. the
+~330-shade OPI catalog), not textbook just-noticeable-difference values. JND
+cutoffs (ΔE00 perfect<0.5/close<1/explore<2) are wrong for *cross-product*
+matching: a finite polish catalog can't land within JND of an arbitrary car
+color, so JND cutoffs dumped ~72% of cars into "distant" and never awarded a
+top tier. The values above bucket by where matches actually land — roughly
+top-sixth "perfect", about half within "close", a "Good" middle, and a
+"distant" tail (≈17%) that is genuine coverage gaps (saturated greens, deep
+blues OPI doesn't stock). CIE76 runs ≈1.5–2× larger than the automotive
+CIEDE2000, so its cutoffs are scaled up independently. **Retighten once
+spectro-measured ground truth exists.**
 
 ## Tuning the cutoffs against paired samples
 

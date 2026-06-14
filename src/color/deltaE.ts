@@ -145,16 +145,25 @@ export type TierCutoffs = {
 };
 
 /**
- * Tier thresholds differ by formula because CIEDE2000 compresses the scale
- * relative to CIE76 — particularly in chromatic regions — and our automotive
- * 2:1:1 weighting further shrinks lightness-driven differences. A ΔE76 of ~3
- * is typically perceptually closer to a ΔE00 of ~1.5, so CIEDE2000 cutoffs
- * are set about half of the CIE76 cutoffs and should be retuned with paired
- * ground-truth data (tracked in docs/GROUND_TRUTH.md).
+ * Tier thresholds, calibrated against the live corpus (≈6,200 OEM paints
+ * matched to the ~330-shade OPI catalog). The earlier values were textbook
+ * "just-noticeable-difference" cutoffs (ΔE00 perfect<0.5, close<1, explore<2),
+ * which are the wrong scale for *cross-product* matching: a finite nail-polish
+ * catalog cannot land within JND of an arbitrary car paint, so ~72% of cars
+ * fell into "distant" and essentially no car ever reached the top tier — the
+ * app under-sold genuinely good ΔE≈3 matches as failures.
+ *
+ * These cutoffs instead bucket by where matches actually land, so the tiers
+ * carry real information: ≈top-sixth "perfect", roughly half within "close",
+ * a "Good" middle, and a "distant" tail that is genuinely poor coverage
+ * (saturated greens / deep blues OPI does not stock). Tighten them again once
+ * spectro-measured ground truth exists (see docs/GROUND_TRUTH.md). Formulas
+ * are calibrated independently because CIE76 runs ≈1.5–2× larger than our
+ * automotive-weighted CIEDE2000.
  */
 export const TIER_CUTOFFS: Record<DeltaEFormulaVersion, TierCutoffs> = {
-  deltaE76: { perfect: 1, close: 2, explore: 4 },
-  deltaE00: { perfect: 0.5, close: 1, explore: 2 }
+  deltaE76: { perfect: 2.5, close: 5, explore: 8 },
+  deltaE00: { perfect: 1.5, close: 3, explore: 5 }
 };
 
 /**
