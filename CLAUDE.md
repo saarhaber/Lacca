@@ -65,6 +65,14 @@ Almost all current data is `derived`. The match-tier cap is enforced in `web/src
 
 Run any script: `npx tsx scripts/<name>.ts [flags]`
 
+> Scripts are dev-only tooling, run on demand via `tsx`, and are **not**
+> part of the production build (`npm run build` compiles `src/` only). The
+> autocolorlibrary / paintref scrapers (`acl:tesseract-batch`,
+> `fetch:paintref*`) additionally require `sharp` and `undici`, which are
+> intentionally not declared as dependencies so the web deploy stays lean —
+> install them ad hoc when running those scrapers:
+> `npm i -D sharp undici`.
+
 ---
 
 ## Adding paint data manually
