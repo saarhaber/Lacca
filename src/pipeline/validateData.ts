@@ -67,7 +67,7 @@ function checkLabSourceAllowlist(dataPath: string, data: unknown, errors: string
 /**
  * Walk `data/oem/*` and synthesize a check per scope folder. Every folder that
  * contains `oem-scope.json` and `exterior-paints-v1.json` is auto-registered,
- * so outputs of scripts/fetch-nhtsa / fetch-paintref / import-csv land in the
+ * so any new scope (import-csv, curated, seed-vpic, merge) lands in the
  * validation pipeline without hand-editing this file.
  */
 function discoverOemChecks(): Check[] {

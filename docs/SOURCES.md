@@ -95,17 +95,18 @@ Every winner retains its `source`, `provenanceId`, and `notes`, and a
 
 | Command                           | Purpose                                                              |
 |-----------------------------------|----------------------------------------------------------------------|
-| `npm run fetch:paintref`          | Fetch a single OEM from PaintRef (cached 30 days).                   |
-| `npm run fetch:paintref:all`      | Batch-fetch every OEM in `PAINTREF_OEMS` (polite, concurrent, cached). |
-| `npm run fetch:nhtsa`             | NHTSA vPIC name → hex → LAB pipeline (uses cache).                   |
-| `npm run fetch:carapi`            | CarAPI by year/make/model (requires token).                          |
+| `npm run validate:data`           | Validate every discovered scope against the JSON Schema.             |
+| `npm run check:delta-e`           | Run the ΔE formula self-tests (Sharma et al. reference rows).        |
+| `npm run match:demo`              | Smoke-test the matching pipeline against the OPI catalog.            |
 | `npm run import:csv`              | Import from a CSV; auto-detects columns incl. optional LAB.          |
-| `npm run seed:oem`                | Hand-curated hex seeds (Porsche / Toyota / BMW sample).              |
-| `npm run seed:ral`                | RAL Classic reference scope (hex today; swap in LAB to upgrade).     |
+| `npm run seed:opi`                | Build/refresh the OPI catalog snapshot.                             |
+| `npm run sync:opi`                | Sync OPI shades from opi.com into the catalog.                       |
 | `npm run seed:vpic`               | Bulk-seed model catalogs for every major OEM from NHTSA vPIC. Creates `data/oem/<slug>-vpic-v1/` per OEM with real model lists and an empty paint catalog (the UI falls back to generic colors until paint rows land). |
 | `npm run merge:oem`               | Merge N source scopes into a canonical one by confidence.            |
-| `npm run fetch:all`               | Run every available source for each OEM and merge into `<slug>-all-v1`. |
-| `npm run validate:data`           | Validate every discovered scope against the JSON Schema.             |
+
+> The paintref.com / autocolorlibrary.com scrapers were removed (paintref's
+> CGI is permanently down; existing derived scopes are self-contained). New
+> data comes from `-curated-v1` scopes or `import:csv`.
 
 ## Adding a new source
 

@@ -156,12 +156,9 @@ for f in data/oem/*/exterior-paints-v1.json; do
   printf '%5s %s\n' "$(python3 -c "import json; print(len(json.load(open('$f')).get('paints',[])))")" "$f"
 done | sort -n
 
-# Re-fetch PaintRef for a specific OEM (when CGI is up)
-npx tsx scripts/fetch-paintref-all.ts --oems "Toyota" --static-only
-
-# Sanitize ACL OCR names
-npx tsx scripts/acl-sanitize-autocolorlibrary-scopes.ts
-
 # Seed vPIC model catalogs
 npx tsx scripts/seed-vpic-all-oems.ts
+
+# Import a new scope from CSV (direct LAB → spec confidence)
+npx tsx scripts/import-kaggle-csv.ts
 ```
