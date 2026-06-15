@@ -114,10 +114,18 @@ function discoverOemChecks(): Check[] {
   return checks;
 }
 
+// Validate whichever catalog the pointer currently activates, so a catalog
+// version bump never silently leaves the live snapshot unchecked.
+const activeCatalogPath = (
+  JSON.parse(
+    readFileSync(join(repoRoot, "data/pipeline/catalog-pointer.json"), "utf8")
+  ) as { activeCatalogPath: string }
+).activeCatalogPath;
+
 const staticChecks: Check[] = [
   {
     schemaId: "https://lacca.local/schemas/opi-catalog-v1.schema.json",
-    dataPath: "data/opi/catalog-1.2.0.json"
+    dataPath: activeCatalogPath
   },
   {
     schemaId: "https://lacca.local/schemas/interior-buckets-v1.schema.json",
