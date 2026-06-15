@@ -25,21 +25,24 @@ and caps the best match tier a paint can achieve.
 |----------|-------------|-----------------------------------------------------------------------|----------------|
 | 1 (best) | `measured`  | Spectrophotometer reading against the physical chip/panel.            | uncapped       |
 | 2        | `spec`      | Authoritative CIELAB from an OEM/refinish paint spec sheet.           | uncapped       |
-| 3        | `derived`   | LAB converted from an sRGB hex/RGB — inherently lossy for coated paint.| "close" (no "perfect") |
+| 3        | `derived`   | LAB converted from an sRGB hex/RGB — inherently lossy for coated paint.| uncapped       |
 | 4 (worst)| `estimated` | Hand-picked placeholder until a real measurement lands.               | "close" (no "perfect") |
 
-The tier cap is enforced in `web/src/match.ts`: a `derived` or `estimated`
-source can never present an "Excellent/perfect" match, because the underlying
-LAB was never read off a physical sample.
+The tier cap is enforced in `web/src/match.ts`: only an `estimated`
+placeholder is held back from the top tier — we won't advertise an
+"Excellent/perfect" match off a hand-picked guess.
 
-### Why `hex_derived` is capped
+### Why only `estimated` is capped
 
 Most current data is `derived` from published sRGB hex via the standard
 sRGB → XYZ → LAB pipeline (`src/color/rgbToLab.ts`). A web hex is an 8-bit,
 gamut-clipped, single-angle approximation of a coated automotive finish —
 metallic and pearl flake, gonio-apparent color, and clear-coat all collapse
-into one triplet. It is good enough to *rank* shades but not to *certify* a
-perfect match, hence the cap.
+into one triplet. It is nonetheless a legitimate basis for a consumer color
+match, and the ΔE cutoffs already make "Excellent" selective (a `derived`
+paint only reaches it under ΔE00 < 1.5), so `derived` is **not** capped.
+`estimated` rows are pure placeholders with no measured basis at all, so they
+stay capped at "close" until a real reading replaces them.
 
 ## ΔE formulas and tier cutoffs
 
@@ -85,8 +88,24 @@ data. To retune them empirically:
 3. Pick cutoffs that best separate the human labels per formula, and update
    `TIER_CUTOFFS`.
 
-Until that paired set exists, treat tier labels as a guide, not a guarantee —
-which is exactly why `derived` data is capped at "close" regardless of ΔE.
+Until that paired set exists, treat tier labels as a guide, not a guarantee.
+
+## Known data-quality notes
+
+- **Cross-make duplicate paints are expected, not errors.** ~750 LAB values
+  are shared across makes because corporate siblings reuse colors (Acura =
+  Honda "Taffeta White"/"Milano Red"; GM brands share "Summit White"), and
+  ~200 blacks all hex-derive to pure `#000000` (L=0). Identical LAB → identical
+  match, so there is nothing to dedupe on the OEM side.
+- **OPI catalog deduped at v1.3.0.** 24 GelColor SKUs that were exact-LAB,
+  same-name twins of a Nail-Lacquer/Infinite-Shine shade were dropped (332 →
+  308) so the same color can't appear twice in a user's top-5. The Nail-Lacquer
+  line is kept canonical.
+- **8 remaining OPI LAB collisions look like bad data** — *different*-named
+  shades sharing an identical LAB, so at least one value is wrong. Left in place
+  pending correct values; the clearest is `ISLT02 "Black Onyx"` sitting at
+  L=43 (a mid grey, not black). Fix these when a trusted OPI LAB source is
+  available.
 
 ## References
 

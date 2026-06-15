@@ -16,7 +16,7 @@ confidence definitions.
 |-------------|-----------------------------------------------------------------------|----------------|
 | `measured`  | A spectrophotometer reading against the actual chip/panel.            | uncapped       |
 | `spec`      | Authoritative CIELAB from an OEM/refinish paint spec sheet.           | uncapped       |
-| `derived`   | LAB converted from an sRGB hex/RGB — inherently lossy for coated paint.| "close" (no "perfect") |
+| `derived`   | LAB converted from an sRGB hex/RGB — inherently lossy for coated paint.| uncapped       |
 | `estimated` | Hand-picked placeholder until a real measurement lands.                | "close" (no "perfect") |
 
 The match cap is enforced in `web/src/match.ts` (`shouldCapTier`): ranking

@@ -41,10 +41,12 @@ Every OEM scope lives at `data/oem/<slug>-<source>-v1/` and contains two files:
 |------------|--------|---------------|
 | `measured` | Spectrophotometer on physical chip | Uncapped |
 | `spec` | OEM/refinish LAB spec sheet | Uncapped |
-| `derived` | Converted from sRGB hex | "close" (no "perfect") |
-| `estimated` | Placeholder | "close" |
+| `derived` | Converted from sRGB hex | Uncapped |
+| `estimated` | Placeholder | "close" (no "perfect") |
 
-Almost all current data is `derived`. The match-tier cap is enforced in `web/src/match.ts`.
+Almost all current data is `derived`. Only `estimated` placeholders are
+capped (we won't advertise an "Excellent" match off a guess); the cap is
+enforced in `web/src/match.ts`.
 
 ---
 

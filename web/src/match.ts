@@ -38,10 +38,12 @@ export type RankOptions = {
  * catalog's `deltaEVersion` so the JSON file remains the source of truth
  * for which math was used to publish it.
  *
- * When the input paint's `sourceConfidence` is derived or estimated we cap
- * the highest achievable tier at "close" — the base LAB is not a verified
- * spectro reading (chip averages, published hex, catalog inference, etc.),
- * so we do not claim an "Excellent" match tier.
+ * When the input paint's `sourceConfidence` is `estimated` (a hand-picked
+ * placeholder, not a real reading) we cap the highest achievable tier at
+ * "close" — we will not advertise an "Excellent" match off a guess.
+ * `derived` data (converted from a published hex) is allowed to reach the top
+ * tier: for a consumer color-match it is a legitimate basis, and the ΔE
+ * cutoffs already make "Excellent" selective.
  *
  * When both the input and an OPI SKU carry a `finish`, a finish penalty is
  * added to ΔE to form `matchScore` (for display / future use). **List order
@@ -95,7 +97,7 @@ export function rankOpiMatches(
 }
 
 function shouldCapTier(c?: LabMeasurement["confidence"]): boolean {
-  return c === "derived" || c === "estimated";
+  return c === "estimated";
 }
 
 function capToClose(t: MatchTier): MatchTier {
