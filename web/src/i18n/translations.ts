@@ -70,6 +70,7 @@ export type TranslationKeys = {
   "tooltip.source"?: string;
 
   // VIN input (v1.2). Optional — English-only until locales are updated.
+  "form.vin.summary"?: string;
   "form.vin.label"?: string;
   "form.vin.placeholder"?: string;
   "form.vin.decode"?: string;
@@ -1412,3 +1413,309 @@ export const translations: Record<Locale, TranslationKeys> = {
   ko,
   he
 };
+
+// ---------------------------------------------------------------------------
+// Localization fills & copy corrections (2026-06).
+// 1. Completes the VIN / tooltip / dropdown-group strings that previously fell
+//    back to English in every non-English locale.
+// 2. Simplifies jargon-heavy copy (hero lede, ΔE glossary) and removes the now
+//    stale ΔE tier numbers after the cutoff recalibration — the legend is now
+//    number-free so it can never drift out of sync again.
+// Object.assign merges these over the base dictionaries above.
+// ---------------------------------------------------------------------------
+const localeFills: Record<Locale, Partial<TranslationKeys>> = {
+  en: {
+    "hero.lede":
+      "Pick your car's make, model and factory color — Lacca finds the OPI nail-polish shades that match it most closely.",
+    "results.tierLegend":
+      "<strong>Match quality</strong> — your picks are ranked by how closely each polish matches your car's color.",
+    "glossary.deltaE.def":
+      "A single number for how different two colors look — smaller is closer, 0 is identical. Lacca ranks with CIEDE2000, which weighs lightness, chroma and hue the way human vision does.",
+    "tooltip.capped":
+      "Top tier shown as “Close”: this color is a hand-entered placeholder, so an “Excellent” rating would need a verified measurement.",
+    "form.vin.summary": "Have your VIN? Auto-fill make & model"
+  },
+  es: {
+    "hero.lede":
+      "Elige la marca, el modelo y el color de fábrica de tu coche, y Lacca encontrará los esmaltes de uñas OPI que más se le parecen.",
+    "results.tierLegend":
+      "<strong>Calidad de la coincidencia</strong>: tus resultados se ordenan según lo bien que cada esmalte coincide con el color de tu coche.",
+    "glossary.deltaE.def":
+      "Un único número de cuánto se diferencian dos colores: cuanto más bajo, más parecidos (0 = idénticos). Lacca usa CIEDE2000, que pondera luminosidad, croma y tono como la visión humana.",
+    "tooltip.capped":
+      "Nivel máximo mostrado como «Buena»: este color es un valor provisional introducido a mano, así que una calificación «Excelente» requeriría una medición verificada.",
+    "tooltip.finishPenalty":
+      "El acabado difiere del de tu coche. Los resultados se ordenan por distancia de color; los metalizados y perlados pueden verse distintos en persona.",
+    "tooltip.source": "Fuente: {source}",
+    "results.gamutWarning":
+      "Color aproximado: queda fuera del rango sRGB de la pantalla, así que esta muestra es el valor más cercano que puede mostrarse.",
+    "optgroup.modelsOnly": "Modelos reconocidos (colores genéricos)",
+    "optgroup.fromVin": "De tu VIN",
+    "form.vin.summary": "¿Tienes el VIN? Autocompleta marca y modelo",
+    "form.vin.label": "VIN (opcional)",
+    "form.vin.placeholder": "VIN de 17 caracteres",
+    "form.vin.decode": "Decodificar",
+    "form.vin.decoding": "Decodificando…",
+    "form.vin.tipLabel": "Acerca del campo VIN",
+    "form.vin.tipText":
+      "Pega el VIN de 17 caracteres del salpicadero, el marco de la puerta o el permiso de circulación. Lacca lo decodifica con la base de datos NHTSA para rellenar marca, modelo y año. El VIN no incluye el color exterior: elige tu pintura abajo.",
+    "form.vin.invalid":
+      "Eso no parece un VIN válido. Los VIN tienen 17 caracteres, letras A–Z excepto I, O y Q.",
+    "form.vin.notFound":
+      "El VIN se decodificó, pero no se obtuvo marca/modelo. Revísalo e inténtalo de nuevo.",
+    "form.vin.success":
+      "Decodificado: {year} {make} {model}. Ahora elige el color de fábrica abajo."
+  },
+  fr: {
+    "hero.lede":
+      "Choisissez la marque, le modèle et la couleur d'origine de votre voiture : Lacca trouve les vernis à ongles OPI qui s'en rapprochent le plus.",
+    "results.tierLegend":
+      "<strong>Qualité de la correspondance</strong> : vos résultats sont classés selon leur proximité avec la couleur de votre voiture.",
+    "glossary.deltaE.def":
+      "Un seul chiffre indiquant à quel point deux couleurs diffèrent : plus il est bas, plus elles sont proches (0 = identiques). Lacca utilise CIEDE2000, qui pondère luminosité, chroma et teinte comme la vision humaine.",
+    "tooltip.capped":
+      "Niveau maximal affiché « Proche » : cette couleur est une valeur provisoire saisie à la main ; une note « Excellent » nécessiterait une mesure vérifiée.",
+    "tooltip.finishPenalty":
+      "La finition diffère de celle de votre voiture. Les résultats sont classés par distance de couleur ; les métallisés et nacrés peuvent paraître différents en vrai.",
+    "tooltip.source": "Source : {source}",
+    "results.gamutWarning":
+      "Couleur approximative : hors de l'espace sRGB de l'écran, cet échantillon est la valeur affichable la plus proche.",
+    "optgroup.modelsOnly": "Modèles reconnus (couleurs génériques)",
+    "optgroup.fromVin": "D'après votre VIN",
+    "form.vin.summary": "Vous avez le VIN ? Remplir marque et modèle",
+    "form.vin.label": "VIN (facultatif)",
+    "form.vin.placeholder": "VIN à 17 caractères",
+    "form.vin.decode": "Décoder",
+    "form.vin.decoding": "Décodage…",
+    "form.vin.tipLabel": "À propos du champ VIN",
+    "form.vin.tipText":
+      "Collez le VIN à 17 caractères figurant sur le tableau de bord, le montant de portière ou la carte grise. Lacca le décode via la base NHTSA pour remplir marque, modèle et année. Le VIN n'indique pas la couleur extérieure : choisissez votre peinture ci-dessous.",
+    "form.vin.invalid":
+      "Cela ne ressemble pas à un VIN valide. Un VIN compte 17 caractères, lettres A–Z sauf I, O et Q.",
+    "form.vin.notFound":
+      "VIN décodé, mais aucune marque/modèle renvoyée. Vérifiez-le et réessayez.",
+    "form.vin.success":
+      "Décodé : {year} {make} {model}. Choisissez maintenant la couleur d'origine ci-dessous."
+  },
+  de: {
+    "hero.lede":
+      "Wählen Sie Marke, Modell und Werksfarbe Ihres Autos – Lacca findet die OPI-Nagellacktöne, die ihr am nächsten kommen.",
+    "results.tierLegend":
+      "<strong>Trefferqualität</strong> – Ihre Vorschläge sind danach sortiert, wie genau jeder Lack zur Farbe Ihres Autos passt.",
+    "glossary.deltaE.def":
+      "Eine einzige Zahl dafür, wie stark sich zwei Farben unterscheiden: je kleiner, desto ähnlicher (0 = identisch). Lacca nutzt CIEDE2000, das Helligkeit, Chroma und Farbton wie das menschliche Sehen gewichtet.",
+    "tooltip.capped":
+      "Höchste angezeigte Stufe „Nah“: Diese Farbe ist ein manuell eingetragener Platzhalter – eine Bewertung „Exzellent“ bräuchte eine geprüfte Messung.",
+    "tooltip.finishPenalty":
+      "Der Finish-Typ weicht von dem Ihres Autos ab. Die Vorschläge sind nach Farbabstand sortiert; Metallic und Perl können in echt anders wirken.",
+    "tooltip.source": "Quelle: {source}",
+    "results.gamutWarning":
+      "Farbe angenähert – sie liegt außerhalb des sRGB-Bereichs des Bildschirms, daher zeigt dieses Feld den nächstmöglichen Wert.",
+    "optgroup.modelsOnly": "Erkannte Modelle (generische Farben)",
+    "optgroup.fromVin": "Aus Ihrer FIN",
+    "form.vin.summary": "FIN zur Hand? Marke & Modell automatisch ausfüllen",
+    "form.vin.label": "FIN/VIN (optional)",
+    "form.vin.placeholder": "17-stellige VIN",
+    "form.vin.decode": "Decodieren",
+    "form.vin.decoding": "Decodierung…",
+    "form.vin.tipLabel": "Über das VIN-Feld",
+    "form.vin.tipText":
+      "Fügen Sie die 17-stellige VIN vom Armaturenbrett, Türholm oder Fahrzeugschein ein. Lacca decodiert sie über die NHTSA-Datenbank und füllt Marke, Modell und Jahr aus. Die VIN enthält nicht die Außenfarbe – wählen Sie Ihren Lack unten.",
+    "form.vin.invalid":
+      "Das sieht nicht nach einer gültigen VIN aus. VINs haben 17 Zeichen, Buchstaben A–Z außer I, O und Q.",
+    "form.vin.notFound":
+      "VIN decodiert, aber keine Marke/Modell erhalten. Bitte prüfen und erneut versuchen.",
+    "form.vin.success":
+      "Decodiert: {year} {make} {model}. Wählen Sie jetzt unten die Werksfarbe."
+  },
+  it: {
+    "hero.lede":
+      "Scegli marca, modello e colore di fabbrica della tua auto: Lacca trova gli smalti OPI che gli somigliano di più.",
+    "results.tierLegend":
+      "<strong>Qualità della corrispondenza</strong>: i risultati sono ordinati in base a quanto ogni smalto si avvicina al colore della tua auto.",
+    "glossary.deltaE.def":
+      "Un unico numero di quanto due colori differiscono: più è basso, più sono simili (0 = identici). Lacca usa CIEDE2000, che pesa luminosità, croma e tonalità come la vista umana.",
+    "tooltip.capped":
+      "Livello massimo mostrato «Vicino»: questo colore è un valore provvisorio inserito a mano, quindi un giudizio «Eccellente» richiederebbe una misurazione verificata.",
+    "tooltip.finishPenalty":
+      "La finitura è diversa da quella della tua auto. I risultati sono ordinati per distanza di colore; metallizzati e perlati possono apparire diversi dal vivo.",
+    "tooltip.source": "Fonte: {source}",
+    "results.gamutWarning":
+      "Colore approssimato: è fuori dalla gamma sRGB dello schermo, quindi questo campione è il valore più vicino visualizzabile.",
+    "optgroup.modelsOnly": "Modelli riconosciuti (colori generici)",
+    "optgroup.fromVin": "Dal tuo VIN",
+    "form.vin.summary": "Hai il VIN? Compila marca e modello",
+    "form.vin.label": "VIN (facoltativo)",
+    "form.vin.placeholder": "VIN di 17 caratteri",
+    "form.vin.decode": "Decodifica",
+    "form.vin.decoding": "Decodifica…",
+    "form.vin.tipLabel": "Informazioni sul campo VIN",
+    "form.vin.tipText":
+      "Incolla il VIN di 17 caratteri dal cruscotto, dal montante della portiera o dal libretto. Lacca lo decodifica tramite il database NHTSA per compilare marca, modello e anno. Il VIN non include il colore esterno: scegli la vernice qui sotto.",
+    "form.vin.invalid":
+      "Non sembra un VIN valido. I VIN hanno 17 caratteri, lettere A–Z tranne I, O e Q.",
+    "form.vin.notFound":
+      "VIN decodificato, ma nessuna marca/modello restituita. Controllalo e riprova.",
+    "form.vin.success":
+      "Decodificato: {year} {make} {model}. Ora scegli il colore di fabbrica qui sotto."
+  },
+  pt: {
+    "hero.lede":
+      "Escolha a marca, o modelo e a cor de fábrica do seu carro — a Lacca encontra os esmaltes OPI que mais se parecem com ela.",
+    "results.tierLegend":
+      "<strong>Qualidade da correspondência</strong>: os resultados são ordenados conforme o quanto cada esmalte combina com a cor do seu carro.",
+    "glossary.deltaE.def":
+      "Um único número de quão diferentes duas cores são: quanto menor, mais próximas (0 = idênticas). A Lacca usa CIEDE2000, que pondera luminosidade, croma e matiz como a visão humana.",
+    "tooltip.capped":
+      "Nível máximo mostrado como «Próxima»: esta cor é um valor provisório inserido à mão, então uma nota «Excelente» exigiria uma medição verificada.",
+    "tooltip.finishPenalty":
+      "O acabamento difere do do seu carro. Os resultados são ordenados por distância de cor; metálicos e perolados podem parecer diferentes ao vivo.",
+    "tooltip.source": "Fonte: {source}",
+    "results.gamutWarning":
+      "Cor aproximada: está fora da faixa sRGB da tela, então esta amostra é o valor exibível mais próximo.",
+    "optgroup.modelsOnly": "Modelos reconhecidos (cores genéricas)",
+    "optgroup.fromVin": "Do seu VIN",
+    "form.vin.summary": "Tem o VIN? Preencher marca e modelo",
+    "form.vin.label": "VIN (opcional)",
+    "form.vin.placeholder": "VIN de 17 caracteres",
+    "form.vin.decode": "Decodificar",
+    "form.vin.decoding": "Decodificando…",
+    "form.vin.tipLabel": "Sobre o campo VIN",
+    "form.vin.tipText":
+      "Cole o VIN de 17 caracteres do painel, da coluna da porta ou do documento. A Lacca o decodifica pela base NHTSA para preencher marca, modelo e ano. O VIN não inclui a cor externa — escolha sua pintura abaixo.",
+    "form.vin.invalid":
+      "Isso não parece um VIN válido. VINs têm 17 caracteres, letras A–Z exceto I, O e Q.",
+    "form.vin.notFound":
+      "VIN decodificado, mas sem marca/modelo. Confira e tente de novo.",
+    "form.vin.success":
+      "Decodificado: {year} {make} {model}. Agora escolha a cor de fábrica abaixo."
+  },
+  ja: {
+    "hero.lede":
+      "車のメーカー・モデル・純正色を選ぶと、Lacca が最も近い OPI のネイルカラーを見つけます。",
+    "results.tierLegend":
+      "<strong>一致度</strong> — 各ネイルが車の色にどれだけ近いかで並べ替えています。",
+    "glossary.deltaE.def":
+      "2 つの色の違いを表す 1 つの数値で、小さいほど近く、0 で同一です。Lacca は人間の見え方に合わせて明度・彩度・色相を重み付けする CIEDE2000 を使用します。",
+    "tooltip.capped":
+      "最高評価は「近い」止まり：この色は手入力の暫定値のため、「優秀」評価には検証済みの測定が必要です。",
+    "tooltip.finishPenalty":
+      "仕上げの種類が車の塗装と異なります。結果は色の距離順です。メタリックやパールは実物では違って見える場合があります。",
+    "tooltip.source": "出典: {source}",
+    "results.gamutWarning":
+      "近似色です：画面の sRGB 範囲外のため、表示できる最も近い値で示しています。",
+    "optgroup.modelsOnly": "認識されたモデル（一般的な色）",
+    "optgroup.fromVin": "あなたの VIN から",
+    "form.vin.summary": "VIN をお持ちですか？メーカーとモデルを自動入力",
+    "form.vin.label": "VIN（任意）",
+    "form.vin.placeholder": "17 文字の VIN",
+    "form.vin.decode": "解析",
+    "form.vin.decoding": "解析中…",
+    "form.vin.tipLabel": "VIN 欄について",
+    "form.vin.tipText":
+      "ダッシュボード、ドア枠、車検証にある 17 文字の VIN を貼り付けてください。Lacca が NHTSA データベースで解析し、メーカー・モデル・年式を自動入力します。VIN に外装色は含まれないため、下で塗装色を選んでください。",
+    "form.vin.invalid":
+      "有効な VIN ではないようです。VIN は 17 文字で、I・O・Q を除く A〜Z の文字です。",
+    "form.vin.notFound":
+      "VIN は解析できましたが、メーカー/モデルが取得できませんでした。確認して再試行してください。",
+    "form.vin.success":
+      "解析結果：{year} {make} {model}。下で純正色を選んでください。"
+  },
+  zh: {
+    "hero.lede":
+      "选择您爱车的品牌、车型和原厂颜色，Lacca 会找到最接近的 OPI 指甲油色号。",
+    "results.tierLegend":
+      "<strong>匹配度</strong> — 按每款指甲油与您车色的接近程度排序。",
+    "glossary.deltaE.def":
+      "用一个数字表示两种颜色的差异：越小越接近，0 为完全相同。Lacca 采用 CIEDE2000，像人眼一样对明度、彩度和色相加权。",
+    "tooltip.capped":
+      "最高仅显示为“接近”：此颜色为手动输入的临时值，要评为“极佳”需经过验证的测量。",
+    "tooltip.finishPenalty":
+      "漆面类型与您的车不同。结果按色差排序；金属漆和珠光漆在实物中可能看起来不同。",
+    "tooltip.source": "来源：{source}",
+    "results.gamutWarning":
+      "颜色为近似值：超出屏幕 sRGB 范围，此色块为最接近的可显示值。",
+    "optgroup.modelsOnly": "已识别车型（通用颜色）",
+    "optgroup.fromVin": "来自您的 VIN",
+    "form.vin.summary": "有 VIN 码？自动填写品牌和车型",
+    "form.vin.label": "VIN（可选）",
+    "form.vin.placeholder": "17 位 VIN 码",
+    "form.vin.decode": "解析",
+    "form.vin.decoding": "解析中…",
+    "form.vin.tipLabel": "关于 VIN 字段",
+    "form.vin.tipText":
+      "粘贴仪表台、车门框或行驶证上的 17 位 VIN 码。Lacca 通过 NHTSA 数据库解析，自动填写品牌、车型和年份。VIN 不包含外观颜色，请在下方选择您的漆色。",
+    "form.vin.invalid":
+      "这看起来不是有效的 VIN。VIN 为 17 位，字母 A–Z（不含 I、O、Q）。",
+    "form.vin.notFound":
+      "VIN 已解析，但未返回品牌/车型。请核对后重试。",
+    "form.vin.success":
+      "已解析：{year} {make} {model}。现在请在下方选择原厂颜色。"
+  },
+  ko: {
+    "hero.lede":
+      "차량의 제조사, 모델, 출고 색상을 선택하면 Lacca가 가장 가까운 OPI 네일 컬러를 찾아 드립니다.",
+    "results.tierLegend":
+      "<strong>일치도</strong> — 각 네일이 차량 색상과 얼마나 가까운지에 따라 정렬됩니다.",
+    "glossary.deltaE.def":
+      "두 색이 얼마나 다른지를 나타내는 하나의 숫자로, 작을수록 가깝고 0이면 동일합니다. Lacca는 사람의 시각처럼 명도·채도·색상을 가중하는 CIEDE2000을 사용합니다.",
+    "tooltip.capped":
+      "최고 등급이 ‘가까움’으로 제한됨: 이 색은 직접 입력한 임시값이라 ‘우수’ 평가에는 검증된 측정이 필요합니다.",
+    "tooltip.finishPenalty":
+      "마감 종류가 차량 도장과 다릅니다. 결과는 색 거리순이며, 메탈릭과 펄은 실물에서 다르게 보일 수 있습니다.",
+    "tooltip.source": "출처: {source}",
+    "results.gamutWarning":
+      "근사 색상입니다: 화면의 sRGB 범위를 벗어나 표시 가능한 가장 가까운 값으로 보여집니다.",
+    "optgroup.modelsOnly": "인식된 모델 (일반 색상)",
+    "optgroup.fromVin": "VIN 기반",
+    "form.vin.summary": "VIN이 있으신가요? 제조사·모델 자동 입력",
+    "form.vin.label": "VIN (선택)",
+    "form.vin.placeholder": "17자리 VIN",
+    "form.vin.decode": "해독",
+    "form.vin.decoding": "해독 중…",
+    "form.vin.tipLabel": "VIN 입력란 안내",
+    "form.vin.tipText":
+      "계기판, 도어 기둥 또는 등록증의 17자리 VIN을 붙여넣으세요. Lacca가 NHTSA 데이터베이스로 해독해 제조사·모델·연식을 채웁니다. VIN에는 외장 색상이 없으므로 아래에서 도장 색을 선택하세요.",
+    "form.vin.invalid":
+      "유효한 VIN이 아닌 것 같습니다. VIN은 17자이며 I, O, Q를 제외한 A–Z 문자입니다.",
+    "form.vin.notFound":
+      "VIN은 해독했지만 제조사/모델이 없습니다. 확인 후 다시 시도하세요.",
+    "form.vin.success":
+      "해독됨: {year} {make} {model}. 이제 아래에서 출고 색상을 선택하세요."
+  },
+  he: {
+    "hero.lede":
+      "בחרו את היצרן, הדגם וצבע המקור של הרכב — Lacca תמצא את גווני לק הציפורניים של OPI הקרובים אליו ביותר.",
+    "results.tierLegend":
+      "<strong>איכות ההתאמה</strong> — התוצאות מסודרות לפי מידת הקרבה של כל לק לצבע הרכב שלכם.",
+    "glossary.deltaE.def":
+      "מספר יחיד לכמה שני צבעים שונים: ככל שקטן יותר כך קרובים יותר (0 = זהים). Lacca משתמשת ב-CIEDE2000, ששוקלת בהירות, רוויה וגוון כפי שהעין האנושית רואה.",
+    "tooltip.capped":
+      "הדרגה הגבוהה מוצגת כ«קרוב»: צבע זה הוא ערך זמני שהוזן ידנית, ולכן דירוג «מצוין» מצריך מדידה מאומתת.",
+    "tooltip.finishPenalty":
+      "סוג הגימור שונה מצבע הרכב שלכם. התוצאות מסודרות לפי מרחק צבע; מטאלי ופנינה עשויים להיראות שונה במציאות.",
+    "tooltip.source": "מקור: {source}",
+    "results.gamutWarning":
+      "צבע מקורב — הוא מחוץ לטווח ה-sRGB של המסך, ולכן הדגימה היא הערך הקרוב ביותר שניתן להציג.",
+    "optgroup.modelsOnly": "דגמים מזוהים (צבעים כלליים)",
+    "optgroup.fromVin": "מתוך ה-VIN שלכם",
+    "form.vin.summary": "יש לכם VIN? מילוי אוטומטי של יצרן ודגם",
+    "form.vin.label": "VIN (אופציונלי)",
+    "form.vin.placeholder": "VIN בן 17 תווים",
+    "form.vin.decode": "פענוח",
+    "form.vin.decoding": "מפענח…",
+    "form.vin.tipLabel": "על שדה ה-VIN",
+    "form.vin.tipText":
+      "הדביקו את מספר ה-VIN בן 17 התווים מלוח המחוונים, ממשקוף הדלת או מרישיון הרכב. Lacca מפענחת אותו באמצעות מסד הנתונים של NHTSA וממלאת יצרן, דגם ושנה. ה-VIN אינו כולל את צבע החוץ — בחרו את הצבע למטה.",
+    "form.vin.invalid":
+      "זה לא נראה כמו VIN תקין. ל-VIN יש 17 תווים, אותיות A–Z למעט I, O ו-Q.",
+    "form.vin.notFound":
+      "ה-VIN פוענח אך לא הוחזרו יצרן/דגם. בדקו ונסו שוב.",
+    "form.vin.success":
+      "פוענח: {year} {make} {model}. כעת בחרו למטה את צבע המקור."
+  }
+};
+
+for (const loc of SUPPORTED_LOCALES) {
+  Object.assign(translations[loc], localeFills[loc]);
+}

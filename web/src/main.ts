@@ -7,7 +7,6 @@ import { rankOpiMatches, type RankedOpi } from "./match";
 import { GENERIC_PAINTS, isGenericPaintCode } from "./genericPaints";
 import { t, applyTranslations, interpolate, setLocale, getLocale, onLocaleChange, LOCALE_LABELS } from "./i18n/index";
 import { SUPPORTED_LOCALES, type Locale } from "./i18n/translations";
-import { CAR_MATCH_GALLERY } from "./carMatchGalleryData";
 
 type ExteriorPaint = OemExterior["paints"][number];
 type SupportedVehicle = { make: string; model: string; paints: ExteriorPaint[] };
@@ -491,21 +490,6 @@ const picksSublabel = document.querySelector<HTMLElement>("#picks-sublabel")!;
 const finishDisclaimer = document.querySelector<HTMLElement>("#finish-disclaimer")!;
 const distantBanner = document.querySelector<HTMLElement>("#distant-banner")!;
 const localePicker = document.querySelector<HTMLSelectElement>("#locale-picker")!;
-const pageEl = document.querySelector<HTMLElement>(".page")!;
-const tabMatch = document.querySelector<HTMLButtonElement>("#tab-match")!;
-const tabGallery = document.querySelector<HTMLButtonElement>("#tab-gallery")!;
-const viewMatch = document.querySelector<HTMLElement>("#view-match")!;
-const viewGallery = document.querySelector<HTMLElement>("#view-gallery")!;
-const galleryGrid = document.querySelector<HTMLElement>("#gallery-grid")!;
-const galleryCountEl = document.querySelector<HTMLElement>("#gallery-count")!;
-const galleryLightbox = document.querySelector<HTMLElement>("#gallery-lightbox")!;
-const galleryLbBackdrop = document.querySelector<HTMLButtonElement>("#gallery-lb-backdrop")!;
-const galleryLbClose = document.querySelector<HTMLButtonElement>("#gallery-lb-close")!;
-const galleryLbPrev = document.querySelector<HTMLButtonElement>("#gallery-lb-prev")!;
-const galleryLbNext = document.querySelector<HTMLButtonElement>("#gallery-lb-next")!;
-const galleryLbImg = document.querySelector<HTMLImageElement>("#gallery-lb-img")!;
-const galleryLbCaption = document.querySelector<HTMLElement>("#gallery-lb-caption")!;
-const galleryLbCounter = document.querySelector<HTMLElement>("#gallery-lb-counter")!;
 
 // Populate the language picker
 for (const loc of SUPPORTED_LOCALES) {
@@ -521,167 +505,9 @@ localePicker.addEventListener("change", () => {
 onLocaleChange(() => {
   localePicker.value = getLocale();
   void initMakes();
-  updateGalleryChrome();
-  if (!galleryLightbox.hidden) syncLightboxStrings();
 });
 
 applyTranslations(document);
-updateGalleryChrome();
-
-function setMainView(which: "match" | "gallery"): void {
-  const gallery = which === "gallery";
-  tabMatch.setAttribute("aria-selected", String(!gallery));
-  tabGallery.setAttribute("aria-selected", String(gallery));
-  tabMatch.tabIndex = gallery ? -1 : 0;
-  tabGallery.tabIndex = gallery ? 0 : -1;
-  viewMatch.hidden = gallery;
-  viewGallery.hidden = !gallery;
-  pageEl.classList.toggle("page--wide", gallery);
-}
-
-const GALLERY_RENDER_VERSION = "17";
-
-let galleryLightboxIndex = 0;
-let galleryLightboxFocusReturn: HTMLElement | null = null;
-
-function updateGalleryChrome(): void {
-  galleryCountEl.textContent = interpolate(t("gallery.count"), {
-    n: String(CAR_MATCH_GALLERY.length)
-  });
-}
-
-function syncLightboxStrings(): void {
-  const item = CAR_MATCH_GALLERY[galleryLightboxIndex];
-  const n = CAR_MATCH_GALLERY.length;
-  if (!item || n === 0) {
-    galleryLbImg.removeAttribute("src");
-    galleryLbImg.alt = "";
-    galleryLbCaption.textContent = "";
-    galleryLbCounter.textContent = "";
-    return;
-  }
-  galleryLbImg.src = item.src;
-  galleryLbImg.alt = item.caption;
-  galleryLbCaption.textContent = item.caption;
-  galleryLbCounter.textContent = interpolate(t("gallery.lbCounter"), {
-    current: String(galleryLightboxIndex + 1),
-    total: String(n)
-  });
-}
-
-function openGalleryLightbox(index: number, focusReturn: HTMLElement): void {
-  if (CAR_MATCH_GALLERY.length === 0) return;
-  galleryLightboxFocusReturn = focusReturn;
-  galleryLightboxIndex = Math.max(0, Math.min(index, CAR_MATCH_GALLERY.length - 1));
-  syncLightboxStrings();
-  galleryLightbox.hidden = false;
-  document.body.classList.add("gallery-lightbox-open");
-  galleryLbClose.focus();
-}
-
-function stepGalleryLightbox(delta: number): void {
-  const n = CAR_MATCH_GALLERY.length;
-  if (n === 0) return;
-  galleryLightboxIndex = (galleryLightboxIndex + delta + n) % n;
-  syncLightboxStrings();
-}
-
-function closeGalleryLightbox(): void {
-  galleryLightbox.hidden = true;
-  document.body.classList.remove("gallery-lightbox-open");
-  const ret = galleryLightboxFocusReturn;
-  galleryLightboxFocusReturn = null;
-  // Gallery tiles live in a tab panel; don't focus them while that panel is hidden.
-  if (ret && !viewGallery.hidden) ret.focus();
-}
-
-function renderGallery(): void {
-  if (galleryGrid.dataset.renderVersion === GALLERY_RENDER_VERSION) return;
-  galleryGrid.replaceChildren();
-  updateGalleryChrome();
-  CAR_MATCH_GALLERY.forEach(({ src, caption }, i) => {
-    const card = document.createElement("article");
-    card.className = "gallery-card";
-    card.style.setProperty("--i", String(i));
-    card.tabIndex = 0;
-    card.setAttribute("role", "button");
-    card.setAttribute(
-      "aria-label",
-      interpolate(t("gallery.openAria"), { caption })
-    );
-    const figure = document.createElement("figure");
-    const img = document.createElement("img");
-    img.src = src;
-    img.alt = "";
-    img.loading = i < 8 ? "eager" : "lazy";
-    img.decoding = "async";
-    const cap = document.createElement("figcaption");
-    cap.className = "gallery-cap";
-    cap.textContent = caption;
-    figure.append(img, cap);
-    card.append(figure);
-    card.addEventListener("click", () => openGalleryLightbox(i, card));
-    card.addEventListener("keydown", (e) => {
-      if (e.key === "Enter" || e.key === " ") {
-        e.preventDefault();
-        openGalleryLightbox(i, card);
-      }
-    });
-    galleryGrid.append(card);
-  });
-  galleryGrid.dataset.renderVersion = GALLERY_RENDER_VERSION;
-}
-
-galleryLbBackdrop.addEventListener("click", closeGalleryLightbox);
-galleryLbClose.addEventListener("click", closeGalleryLightbox);
-galleryLbPrev.addEventListener("click", () => stepGalleryLightbox(-1));
-galleryLbNext.addEventListener("click", () => stepGalleryLightbox(1));
-
-galleryLightbox.addEventListener("keydown", (e: Event) => {
-  const ke = e as KeyboardEvent;
-  if (galleryLightbox.hidden) return;
-  if (ke.key === "ArrowLeft") {
-    ke.preventDefault();
-    stepGalleryLightbox(-1);
-  } else if (ke.key === "ArrowRight") {
-    ke.preventDefault();
-    stepGalleryLightbox(1);
-  }
-});
-
-/** Escape must work even when focus moved to Match tab / form (dialog keydown never fires). */
-document.addEventListener(
-  "keydown",
-  (ke: KeyboardEvent) => {
-    if (ke.key !== "Escape") return;
-    if (galleryLightbox.hidden) return;
-    ke.preventDefault();
-    closeGalleryLightbox();
-  },
-  true
-);
-
-tabMatch.addEventListener("click", () => {
-  closeGalleryLightbox();
-  setMainView("match");
-  tabMatch.focus();
-});
-
-tabGallery.addEventListener("click", () => {
-  renderGallery();
-  setMainView("gallery");
-  tabGallery.focus();
-});
-
-document.querySelector(".app-tabs")?.addEventListener("keydown", (e: Event) => {
-  const ke = e as KeyboardEvent;
-  if (ke.key !== "ArrowRight" && ke.key !== "ArrowLeft") return;
-  const t = ke.target as HTMLElement;
-  if (t !== tabMatch && t !== tabGallery) return;
-  ke.preventDefault();
-  if (ke.key === "ArrowRight" && t === tabMatch) tabGallery.click();
-  else if (ke.key === "ArrowLeft" && t === tabGallery) tabMatch.click();
-});
 
 // ------------------------------------------------------------------
 // Populate the Make dropdown: supported ones (with paint data) first,
@@ -1195,8 +1021,9 @@ function render() {
 
     const badge = document.createElement("span");
     badge.className = `badge ${row.tier}`;
-    badge.textContent = `${tierCopy(row.tier)} · ΔE ${row.deltaE.toFixed(2)}`;
-    badge.title = composeBadgeTip(row);
+    // Lead with the plain-language tier; keep the ΔE number on hover for the curious.
+    badge.textContent = tierCopy(row.tier);
+    badge.title = `ΔE ${row.deltaE.toFixed(2)}\n\n${composeBadgeTip(row)}`;
 
     li.append(opiSw, body, badge);
     matchList.appendChild(li);
@@ -1211,7 +1038,9 @@ function render() {
   const bestTier = ranked[0]?.tier;
   distantBanner.hidden = bestTier !== "distant";
 
-  catalogMeta.textContent = `Catalog ${opiCatalog.catalogVersion} · ${opiCatalog.deltaEVersion} · ${opiCatalog.illuminant} / ${opiCatalog.observer}`;
+  // Technical catalog provenance (version / formula / illuminant) is jargon for
+  // casual users — keep it out of the main view. The glossary still explains it.
+  catalogMeta.hidden = true;
 
   results.hidden = false;
 }
