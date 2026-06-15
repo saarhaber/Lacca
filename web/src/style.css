@@ -605,6 +605,49 @@ input[type="text"]:focus-visible {
   outline-offset: 1px;
 }
 
+/* Collapsed "Advanced: VIN" disclosure so Make/Model/Color leads the form. */
+.vin-advanced {
+  margin-bottom: 0.75rem;
+  padding: 0.55rem 0.8rem;
+  background: #faf6ef;
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+}
+.vin-advanced > summary {
+  cursor: pointer;
+  font-size: 0.92rem;
+  font-weight: 600;
+  color: #6b6f76;
+  list-style: none;
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+}
+.vin-advanced > summary::-webkit-details-marker {
+  display: none;
+}
+.vin-advanced > summary::before {
+  content: "+";
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 1.05rem;
+  height: 1.05rem;
+  border-radius: 999px;
+  background: var(--accent);
+  color: #fff;
+  font-size: 0.8rem;
+  font-weight: 700;
+  line-height: 1;
+}
+.vin-advanced[open] > summary::before {
+  content: "–";
+}
+.vin-advanced > .field {
+  margin-top: 0.7rem;
+  margin-bottom: 0;
+}
+
 .vin-row {
   display: flex;
   gap: 0.5rem;
